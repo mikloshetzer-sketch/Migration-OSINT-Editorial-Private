@@ -31,3 +31,4 @@ class GitHubStore:
         if response.status_code in (409,422): raise StoreError('Ütköző mentés: közben megváltozott a fájl. Frissítsd az oldalt, majd ismételd meg.')
         if not response.ok: raise StoreError(f'GitHub mentési hiba ({response.status_code}): {response.text[:250]}')
         return response.json()
+
