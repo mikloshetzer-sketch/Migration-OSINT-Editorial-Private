@@ -1,0 +1,1095 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-19",
+  "influence_signals": [
+    {
+      "id": 1067,
+      "source": "X",
+      "source_post_id": "2111935871939190922",
+      "author": "jrm4783",
+      "language": "en",
+      "published_at": "2026-10-18T21:42:04Z",
+      "first_detected_at": "2026-10-18T22:03:50Z",
+      "last_detected_at": "2026-10-18T22:03:50Z",
+      "detection_count": 1,
+      "text": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "text_excerpt": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "url": "https://x.com/jrm4783/status/2111935871939190922",
+      "source_url": "https://x.com/jrm4783/status/2111935871939190922",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "border crossings"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 61.15,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1068,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0sk",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:33:12Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1069,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0ht",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:32:38Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1066,
+      "source": "X",
+      "source_post_id": "2111939232650392057",
+      "author": "DonaldTrumRVQ",
+      "language": "en",
+      "published_at": "2026-10-18T21:55:25Z",
+      "first_detected_at": "2026-10-18T22:00:31Z",
+      "last_detected_at": "2026-10-18T22:00:31Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/ONKEJixT5f",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/ONKEJixT5f",
+      "url": "https://x.com/DonaldTrumRVQ/status/2111939232650392057",
+      "source_url": "https://x.com/DonaldTrumRVQ/status/2111939232650392057",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1067,
+      "source": "X",
+      "source_post_id": "2111935871939190922",
+      "author": "jrm4783",
+      "language": "en",
+      "published_at": "2026-10-18T21:42:04Z",
+      "first_detected_at": "2026-10-18T22:03:50Z",
+      "last_detected_at": "2026-10-18T22:03:50Z",
+      "detection_count": 1,
+      "text": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "text_excerpt": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "url": "https://x.com/jrm4783/status/2111935871939190922",
+      "source_url": "https://x.com/jrm4783/status/2111935871939190922",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "border crossings"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 61.15,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1068,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0sk",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:33:12Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1069,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0ht",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:32:38Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1066,
+      "source": "X",
+      "source_post_id": "2111939232650392057",
+      "author": "DonaldTrumRVQ",
+      "language": "en",
+      "published_at": "2026-10-18T21:55:25Z",
+      "first_detected_at": "2026-10-18T22:00:31Z",
+      "last_detected_at": "2026-10-18T22:00:31Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/ONKEJixT5f",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/ONKEJixT5f",
+      "url": "https://x.com/DonaldTrumRVQ/status/2111939232650392057",
+      "source_url": "https://x.com/DonaldTrumRVQ/status/2111939232650392057",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1067,
+      "source": "X",
+      "source_post_id": "2111935871939190922",
+      "author": "jrm4783",
+      "language": "en",
+      "published_at": "2026-10-18T21:42:04Z",
+      "first_detected_at": "2026-10-18T22:03:50Z",
+      "last_detected_at": "2026-10-18T22:03:50Z",
+      "detection_count": 1,
+      "text": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "text_excerpt": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "url": "https://x.com/jrm4783/status/2111935871939190922",
+      "source_url": "https://x.com/jrm4783/status/2111935871939190922",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "border crossings"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 61.15,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1068,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0sk",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:33:12Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1069,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0ht",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:32:38Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1067,
+      "source": "X",
+      "source_post_id": "2111935871939190922",
+      "author": "jrm4783",
+      "language": "en",
+      "published_at": "2026-10-18T21:42:04Z",
+      "first_detected_at": "2026-10-18T22:03:50Z",
+      "last_detected_at": "2026-10-18T22:03:50Z",
+      "detection_count": 1,
+      "text": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "text_excerpt": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "url": "https://x.com/jrm4783/status/2111935871939190922",
+      "source_url": "https://x.com/jrm4783/status/2111935871939190922",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "border crossings"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 61.15,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1068,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0sk",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:33:12Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1069,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0ht",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:32:38Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1067,
+      "source": "X",
+      "source_post_id": "2111935871939190922",
+      "author": "jrm4783",
+      "language": "en",
+      "published_at": "2026-10-18T21:42:04Z",
+      "first_detected_at": "2026-10-18T22:03:50Z",
+      "last_detected_at": "2026-10-18T22:03:50Z",
+      "detection_count": 1,
+      "text": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "text_excerpt": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "url": "https://x.com/jrm4783/status/2111935871939190922",
+      "source_url": "https://x.com/jrm4783/status/2111935871939190922",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "border crossings"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 61.15,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2111935871939190922"
+      ],
+      "related_authors": [
+        "jrm4783"
+      ],
+      "related_urls": [
+        "https://x.com/jrm4783/status/2111935871939190922"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1068,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0sk",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:33:12Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.1,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "reddit_1x8z0sk",
+        "reddit_1x8z0ht"
+      ],
+      "related_authors": [
+        "Permanent-ephemeral"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+        "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1067,
+      "source": "X",
+      "source_post_id": "2111935871939190922",
+      "author": "jrm4783",
+      "language": "en",
+      "published_at": "2026-10-18T21:42:04Z",
+      "first_detected_at": "2026-10-18T22:03:50Z",
+      "last_detected_at": "2026-10-18T22:03:50Z",
+      "detection_count": 1,
+      "text": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "text_excerpt": "@4_hastings @KopLite @lxeagle17 Biden literally hijacked the CBP One app to funnel over 200,000 Haitians into the United States. That's not even just leaving the border open, that's actively trying to bring in as many migrants as possible. Not to mention the 12-13 million illegal border crossings.",
+      "url": "https://x.com/jrm4783/status/2111935871939190922",
+      "source_url": "https://x.com/jrm4783/status/2111935871939190922",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "border crossings"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 61.15,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2111935871939190922"
+      ],
+      "related_authors": [
+        "jrm4783"
+      ],
+      "related_urls": [
+        "https://x.com/jrm4783/status/2111935871939190922"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1068,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x8z0sk",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-18T09:33:12Z",
+      "first_detected_at": "2026-10-18T22:03:51Z",
+      "last_detected_at": "2026-10-18T22:03:51Z",
+      "detection_count": 1,
+      "text": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Building a maritime recruitment hub, Im looking for seafarers’ feedback before moving forward\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your locati",
+      "url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "source_url": "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.1,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "reddit_1x8z0sk",
+        "reddit_1x8z0ht"
+      ],
+      "related_authors": [
+        "Permanent-ephemeral"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+        "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "last_archived_at": "2026-10-18T22:03:55.232742+00:00"
+}
