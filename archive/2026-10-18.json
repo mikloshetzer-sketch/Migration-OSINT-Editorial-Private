@@ -1110,6 +1110,129 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1065,
+      "source": "X",
+      "source_post_id": "2111909543374721100",
+      "author": "mum23goblins",
+      "language": "en",
+      "published_at": "2026-10-18T19:57:27Z",
+      "first_detected_at": "2026-10-18T20:08:05Z",
+      "last_detected_at": "2026-10-18T20:08:05Z",
+      "detection_count": 1,
+      "text": "BBC Bitesize game that rewards students for granting migrant amnesty and open-border policies while penalizing deportation. #Brainwashing #BBC #Leftist #DefundtheBBC https://t.co/DKqa28L4nO",
+      "text_excerpt": "BBC Bitesize game that rewards students for granting migrant amnesty and open-border policies while penalizing deportation. #Brainwashing #BBC #Leftist #DefundtheBBC https://t.co/DKqa28L4nO",
+      "url": "https://x.com/mum23goblins/status/2111909543374721100",
+      "source_url": "https://x.com/mum23goblins/status/2111909543374721100",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 21.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "migrant amnesty"
+        ],
+        [
+          "policy_pull_factor",
+          "migrant amnesty"
+        ],
+        [
+          "HIGH_VALUE",
+          "migrant amnesty"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant amnesty"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 41.95,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1064,
+      "source": "X",
+      "source_post_id": "2111910120443760941",
+      "author": "truthtsar",
+      "language": "en",
+      "published_at": "2026-10-18T19:59:44Z",
+      "first_detected_at": "2026-10-18T20:08:05Z",
+      "last_detected_at": "2026-10-18T20:08:05Z",
+      "detection_count": 1,
+      "text": "For 14 years, France voted for liberal open border politicians\n\nNow, migrants are rioting and are to blame for the rising housing costs, degrading social services, and inflation.\n\nEven liberal outlet Le Monde has changed its stance on immigration\n\nAmerica, learn from France",
+      "text_excerpt": "For 14 years, France voted for liberal open border politicians\n\nNow, migrants are rioting and are to blame for the rising housing costs, degrading social services, and inflation.\n\nEven liberal outlet Le Monde has changed its stance on immigration\n\nAmerica, learn from France",
+      "url": "https://x.com/truthtsar/status/2111910120443760941",
+      "source_url": "https://x.com/truthtsar/status/2111910120443760941",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "migrants are rioting and are to blame for the rising"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants are rioting and are to blame for the rising"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1809,6 +1932,129 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1065,
+      "source": "X",
+      "source_post_id": "2111909543374721100",
+      "author": "mum23goblins",
+      "language": "en",
+      "published_at": "2026-10-18T19:57:27Z",
+      "first_detected_at": "2026-10-18T20:08:05Z",
+      "last_detected_at": "2026-10-18T20:08:05Z",
+      "detection_count": 1,
+      "text": "BBC Bitesize game that rewards students for granting migrant amnesty and open-border policies while penalizing deportation. #Brainwashing #BBC #Leftist #DefundtheBBC https://t.co/DKqa28L4nO",
+      "text_excerpt": "BBC Bitesize game that rewards students for granting migrant amnesty and open-border policies while penalizing deportation. #Brainwashing #BBC #Leftist #DefundtheBBC https://t.co/DKqa28L4nO",
+      "url": "https://x.com/mum23goblins/status/2111909543374721100",
+      "source_url": "https://x.com/mum23goblins/status/2111909543374721100",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 21.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "migrant amnesty"
+        ],
+        [
+          "policy_pull_factor",
+          "migrant amnesty"
+        ],
+        [
+          "HIGH_VALUE",
+          "migrant amnesty"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant amnesty"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 41.95,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1064,
+      "source": "X",
+      "source_post_id": "2111910120443760941",
+      "author": "truthtsar",
+      "language": "en",
+      "published_at": "2026-10-18T19:59:44Z",
+      "first_detected_at": "2026-10-18T20:08:05Z",
+      "last_detected_at": "2026-10-18T20:08:05Z",
+      "detection_count": 1,
+      "text": "For 14 years, France voted for liberal open border politicians\n\nNow, migrants are rioting and are to blame for the rising housing costs, degrading social services, and inflation.\n\nEven liberal outlet Le Monde has changed its stance on immigration\n\nAmerica, learn from France",
+      "text_excerpt": "For 14 years, France voted for liberal open border politicians\n\nNow, migrants are rioting and are to blame for the rising housing costs, degrading social services, and inflation.\n\nEven liberal outlet Le Monde has changed its stance on immigration\n\nAmerica, learn from France",
+      "url": "https://x.com/truthtsar/status/2111910120443760941",
+      "source_url": "https://x.com/truthtsar/status/2111910120443760941",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "migrants are rioting and are to blame for the rising"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants are rioting and are to blame for the rising"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1892,7 +2138,84 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1065,
+      "source": "X",
+      "source_post_id": "2111909543374721100",
+      "author": "mum23goblins",
+      "language": "en",
+      "published_at": "2026-10-18T19:57:27Z",
+      "first_detected_at": "2026-10-18T20:08:05Z",
+      "last_detected_at": "2026-10-18T20:08:05Z",
+      "detection_count": 1,
+      "text": "BBC Bitesize game that rewards students for granting migrant amnesty and open-border policies while penalizing deportation. #Brainwashing #BBC #Leftist #DefundtheBBC https://t.co/DKqa28L4nO",
+      "text_excerpt": "BBC Bitesize game that rewards students for granting migrant amnesty and open-border policies while penalizing deportation. #Brainwashing #BBC #Leftist #DefundtheBBC https://t.co/DKqa28L4nO",
+      "url": "https://x.com/mum23goblins/status/2111909543374721100",
+      "source_url": "https://x.com/mum23goblins/status/2111909543374721100",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 21.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "migrant amnesty"
+        ],
+        [
+          "policy_pull_factor",
+          "migrant amnesty"
+        ],
+        [
+          "HIGH_VALUE",
+          "migrant amnesty"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant amnesty"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 41.95,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2111909543374721100"
+      ],
+      "related_authors": [
+        "mum23goblins"
+      ],
+      "related_urls": [
+        "https://x.com/mum23goblins/status/2111909543374721100"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-18T19:54:11.203854+00:00"
+  "last_archived_at": "2026-10-18T20:11:55.936515+00:00"
 }
