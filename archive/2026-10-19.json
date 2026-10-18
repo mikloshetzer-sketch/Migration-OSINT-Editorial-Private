@@ -226,6 +226,121 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1071,
+      "source": "X",
+      "source_post_id": "2111966296346882475",
+      "author": "uz_wan",
+      "language": "en",
+      "published_at": "2026-10-18T23:42:58Z",
+      "first_detected_at": "2026-10-18T23:57:05Z",
+      "last_detected_at": "2026-10-18T23:57:05Z",
+      "detection_count": 1,
+      "text": "@tasuke0012 @KalinaAnnGG Japan being a vessel state of the US and Japanese westernised mindset are why Japan today is in decline, nothing to do with Muslims migrants.",
+      "text_excerpt": "@tasuke0012 @KalinaAnnGG Japan being a vessel state of the US and Japanese westernised mindset are why Japan today is in decline, nothing to do with Muslims migrants.",
+      "url": "https://x.com/uz_wan/status/2111966296346882475",
+      "source_url": "https://x.com/uz_wan/status/2111966296346882475",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "pressure",
+          "decline, nothing to do with Muslims migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "decline, nothing to do with Muslims migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1070,
+      "source": "X",
+      "source_post_id": "2111967395241722047",
+      "author": "Missy64248667",
+      "language": "en",
+      "published_at": "2026-10-18T23:47:20Z",
+      "first_detected_at": "2026-10-18T23:56:42Z",
+      "last_detected_at": "2026-10-18T23:56:42Z",
+      "detection_count": 1,
+      "text": "@Stylzicious @dlrowon @EricLDaugh Look at what is happening in France! Italy is following France's liberal downfall today. Total chaos everywhere!\nThat will be the USA if the left controls it. Border jumping migrants &amp; total chaos in the streets, and broke! If that happens here, you will need a gun. ❤️🇺🇸",
+      "text_excerpt": "@Stylzicious @dlrowon @EricLDaugh Look at what is happening in France! Italy is following France's liberal downfall today. Total chaos everywhere!\nThat will be the USA if the left controls it. Border jumping migrants &amp; total chaos in the streets, and broke! If that happens here, you will need a gun. ❤️🇺🇸",
+      "url": "https://x.com/Missy64248667/status/2111967395241722047",
+      "source_url": "https://x.com/Missy64248667/status/2111967395241722047",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -448,6 +563,121 @@
       "country": "-",
       "region": "EASTERN_EU_BORDER",
       "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1071,
+      "source": "X",
+      "source_post_id": "2111966296346882475",
+      "author": "uz_wan",
+      "language": "en",
+      "published_at": "2026-10-18T23:42:58Z",
+      "first_detected_at": "2026-10-18T23:57:05Z",
+      "last_detected_at": "2026-10-18T23:57:05Z",
+      "detection_count": 1,
+      "text": "@tasuke0012 @KalinaAnnGG Japan being a vessel state of the US and Japanese westernised mindset are why Japan today is in decline, nothing to do with Muslims migrants.",
+      "text_excerpt": "@tasuke0012 @KalinaAnnGG Japan being a vessel state of the US and Japanese westernised mindset are why Japan today is in decline, nothing to do with Muslims migrants.",
+      "url": "https://x.com/uz_wan/status/2111966296346882475",
+      "source_url": "https://x.com/uz_wan/status/2111966296346882475",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "pressure",
+          "decline, nothing to do with Muslims migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "decline, nothing to do with Muslims migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1070,
+      "source": "X",
+      "source_post_id": "2111967395241722047",
+      "author": "Missy64248667",
+      "language": "en",
+      "published_at": "2026-10-18T23:47:20Z",
+      "first_detected_at": "2026-10-18T23:56:42Z",
+      "last_detected_at": "2026-10-18T23:56:42Z",
+      "detection_count": 1,
+      "text": "@Stylzicious @dlrowon @EricLDaugh Look at what is happening in France! Italy is following France's liberal downfall today. Total chaos everywhere!\nThat will be the USA if the left controls it. Border jumping migrants &amp; total chaos in the streets, and broke! If that happens here, you will need a gun. ❤️🇺🇸",
+      "text_excerpt": "@Stylzicious @dlrowon @EricLDaugh Look at what is happening in France! Italy is following France's liberal downfall today. Total chaos everywhere!\nThat will be the USA if the left controls it. Border jumping migrants &amp; total chaos in the streets, and broke! If that happens here, you will need a gun. ❤️🇺🇸",
+      "url": "https://x.com/Missy64248667/status/2111967395241722047",
+      "source_url": "https://x.com/Missy64248667/status/2111967395241722047",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
       "latitude": null,
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
@@ -1091,5 +1321,162 @@
       "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-18T22:03:55.232742+00:00"
+  "last_archived_at": "2026-10-18T23:59:59.433299+00:00",
+  "live_events": [
+    {
+      "id": 648,
+      "event_id": 648,
+      "source": "X",
+      "source_post_id": "2111966663809679451",
+      "author": "Sophie_l_ours",
+      "published_at": "2026-10-18T23:44:25Z",
+      "collected_at": "2026-10-18T23:59:53Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@The_WatcherUK @Karter1198672 In France most migrants live in tents, I think that's one of the reason they want to come to England so bad. I live in northern France and I saw hundreds of migrants in the beach towns this summer. (On two random days)\nThe newly arrived migrants in france do horrific crimes",
+      "url": "https://x.com/Sophie_l_ours/status/2111966663809679451",
+      "source_url": "https://x.com/Sophie_l_ours/status/2111966663809679451"
+    },
+    {
+      "id": 649,
+      "event_id": 649,
+      "source": "X",
+      "source_post_id": "2111960628520706206",
+      "author": "OliaOnX",
+      "published_at": "2026-10-18T23:20:26Z",
+      "collected_at": "2026-10-18T23:59:53Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@BarackObama I arrived to the US as a political refugee. After proving my case in Italy in front of American Councillor, I was granted permission to legally come to the US. First, I received a temporary green card. After one year, I was allowed to apply for a permanent green card. After 5",
+      "url": "https://x.com/OliaOnX/status/2111960628520706206",
+      "source_url": "https://x.com/OliaOnX/status/2111960628520706206"
+    },
+    {
+      "id": 650,
+      "event_id": 650,
+      "source": "X",
+      "source_post_id": "2111959397882622141",
+      "author": "admspec01",
+      "published_at": "2026-10-18T23:15:33Z",
+      "collected_at": "2026-10-18T23:59:53Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@PhilipIngMBE @DavidBr33139978 @DailyMail Good thing you can conscript your newly arrived \"migrants.\"",
+      "url": "https://x.com/admspec01/status/2111959397882622141",
+      "source_url": "https://x.com/admspec01/status/2111959397882622141"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 523,
+      "group_id": 523,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@The_WatcherUK @Karter1198672 In France most migrants live in tents, I think that's one of the reason they want to come to England so bad. I live in northern France and I saw hundreds of migrants in the beach towns this summer. (On two random days)\nThe newly arrived migrants in france do horrific crimes",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-18T23:44:25Z",
+      "last_seen": "2026-10-18T23:44:25Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-18T23:59:53Z",
+      "updated_at": "2026-10-18T23:59:53Z"
+    },
+    {
+      "id": 524,
+      "group_id": 524,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - CENTRAL_MEDITERRANEAN",
+      "representative_text": "@BarackObama I arrived to the US as a political refugee. After proving my case in Italy in front of American Councillor, I was granted permission to legally come to the US. First, I received a temporary green card. After one year, I was allowed to apply for a permanent green card. After 5",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-18T23:20:26Z",
+      "last_seen": "2026-10-18T23:20:26Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-18T23:59:53Z",
+      "updated_at": "2026-10-18T23:59:53Z"
+    },
+    {
+      "id": 525,
+      "group_id": 525,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@PhilipIngMBE @DavidBr33139978 @DailyMail Good thing you can conscript your newly arrived \"migrants.\"",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-18T23:15:33Z",
+      "last_seen": "2026-10-18T23:15:33Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-18T23:59:53Z",
+      "updated_at": "2026-10-18T23:59:53Z"
+    }
+  ]
 }
