@@ -1453,6 +1453,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:52:30.655157+00:00"
+    },
+    "information:information:19831": {
+      "hu_text": "És itt még nincs vége! Ugyanez az Afrikai Unió politikai keretrendszere felismeri az illegális bevándorlás és a nemzetközi szervezett bűnözés, beleértve az emberkereskedelmet és a migránscsempészetet közötti kapcsolatokat. Aggodalmakat vet fel a terrorizmus és a határokon átnyúló bűnözői hálózatok miatt is.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás az AU politikai keretrendszerére hivatkozik, de nincs konkrét bizonyíték vagy forrás a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:39.522319+00:00"
+    },
+    "information:information:19833": {
+      "hu_text": "Igen, értem. Oroszország fegyverként használja a tömeges migrációt Putyin hibrid háborújának részeként a Nyugat ellen. A Kreml által támogatott Wagner magánhadsereg lehetővé teszi az emberkereskedelmet a Száhel-övezetből Líbiába és a Földközi-tengerre, valamint a Közel-Keletről a Balkánon keresztül. Az útvonalak ismertek és megfigyelés alatt állnak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos geopolitikai és biztonsági kérdéseket érint, de nincs megerősített bizonyíték a szövegben, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:39.522339+00:00"
+    },
+    "information:information:19812": {
+      "hu_text": "Az Academic Theologian egy mesterséges intelligencia alapú kutatási partner teológiai hallgatók és kutatók számára, amely teológiai érveket rekonstruál, szent szövegeket értelmez hagyományukban, és vallásokat összehasonlít. Számos vallási hagyományt lefed, és alkalmazkodik a felhasználó szintjéhez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem kapcsolódik a migrációhoz vagy annak aspektusaihoz, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:39.522344+00:00"
+    },
+    "information:information:19903": {
+      "hu_text": "Ilhan Omar 1982. október 4-én született Mogadiscióban, Szomáliában. Családja a szomáliai polgárháború elől menekült, amikor körülbelül 8 éves volt (1991 körül), és mintegy négy évet töltöttek egy kenyai menekülttáborban. 1995 márciusában érkeztek az Egyesült Államokba.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás életrajzi adatokat tartalmaz, de nincs forrás vagy bizonyíték a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:39.522347+00:00"
+    },
+    "information:information:19870": {
+      "hu_text": "Illegális bevándorlók panaszkodnak, hogy nem engedik át őket a lengyel határon: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Lengyelországba vagy Németországba akarok menni, hogy jobb életet éljek.” Lengyelország nemet mond a nyitott határokra!",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migránsok határátlépési kísérleteiről és a lengyel határzárról szól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:39.522350+00:00"
+    },
+    "information:information:19871": {
+      "hu_text": "A franciaországi zavargások közepette Donald Tusk lengyel miniszterelnök ígéretet tett arra, hogy könyörtelen lesz a migránsokkal szemben. „Lengyelország megerősíti a határvédelmet, elutasítja a menedékkérelmeket, és kiutasítja a törvényt megszegőket. A biztonság terén könyörtelenek leszünk.”",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai nyilatkozatot tartalmaz a migrációs politikáról, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:39.522353+00:00"
     }
   },
   "legacy_reviews": {}
