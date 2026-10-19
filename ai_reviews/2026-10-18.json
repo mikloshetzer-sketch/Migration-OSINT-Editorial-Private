@@ -463,6 +463,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:27.046478+00:00"
+    },
+    "information:information:18896": {
+      "hu_text": "Kutatás szerint a harmadik országokkal kötött kétoldalú migrációs megállapodások akár 90%-kal is csökkenthetik a kis hajókon érkező migránsok számát a Csatornán.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy kutatási eredményről számol be, amely migrációs megállapodások hatékonyságát tárgyalja, de nincs közvetlen bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:37.281420+00:00"
+    },
+    "information:information:18890": {
+      "hu_text": "19 halott és 49 000 migráns rohanta meg Spanyolország Ceuta határát. Spanyolország és Marokkó megerősítette a határbiztonságot a spanyol enklávé körül, miután egyetlen nap alatt példátlan mennyiségű migráns lépte át a szárazföldi és tengeri határt, ami humanitárius és politikai válságot idézett elő.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét migrációs eseményt ír le, amely jelentős határbiztonsági és humanitárius következményekkel jár, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:37.281438+00:00"
+    },
+    "information:information:18908": {
+      "hu_text": "Európa állítólag feláldozta a lányok és fiatal nők szexuális erényeit, hogy fenntartsa az illegális migránsokat, akiket pakisztáni erőszakoló bandák hoznak be. Állítás szerint határokat léptek át és törvényeket sértettek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai és társadalmi vélemény, amely erősen általánosító és nem bizonyított állításokat tartalmaz, ezért nem tekinthető ellenőrzöttnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:37.281443+00:00"
+    },
+    "information:information:18926": {
+      "hu_text": "Egy felhasználó megosztja, hogy a francia nagyapja 1930-ban, 9 évesen 200 kilométert gyalogolt, hogy elmeneküljön a nácik elől, és megjegyzi, hogy 1940-ben Párizs nem volt Algéria gyarmat, míg 2020-ban a migránsokat üdvözlik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes történet és vélemény, amely nem tartalmaz konkrét migrációs eseményt vagy intézkedést, így társadalmi diskurzus kategóriába sorolható.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:37.281446+00:00"
+    },
+    "information:information:18902": {
+      "hu_text": "Kételyek merülnek fel azzal kapcsolatban, hogy a harmadik világból érkező menekültek átesnek-e egészségügyi ellenőrzéseken, és hogy teljesen be vannak-e oltva. Az oltatlanság nem jelenti azt, hogy a határátlépéskor betegek vagy fertőzőek lennének, csak hogy később megbetegedhetnek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egészségügyi és oltási kérdéseket érint migránsok kapcsán, de nincs megerősített adat, így társadalmi diskurzus kategóriába tartozik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:37.281449+00:00"
+    },
+    "information:information:18833": {
+      "hu_text": "Egy kaliforniai kannabiszfarm tulajdonosát 320 nap börtönbüntetésre ítélték, mert három spanyol nyelvű migráns munkást fogva tartott, bérüket visszatartotta és hónapokig magukra hagyta őket egy távoli farmon. A munkások nem beszéltek angolul, nem volt pénzük vagy közlekedési eszközük, és zárolt kapu mögött tartották őket.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt egy embercsempészettel és kizsákmányolással kapcsolatos bűncselekményt ír le, amely migránsokat érint, de nincs független forrás általi megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:37.281452+00:00"
     }
   },
   "legacy_reviews": {
