@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:54:42.494802+00:00"
+    },
+    "information:information:16825": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nem akar nyitott határokat!",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás illegális migránsok panaszát tartalmazza, de nincs megerősített bizonyíték a fenyegetésekre vagy a határzárra vonatkozóan, ezért ellenőrizetlennek minősül. Fontos a migrációs szándék és a határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:51.977088+00:00"
+    },
+    "information:information:16828": {
+      "hu_text": "Nem fenyegetek senkit, csak elemzem a jelenlegi eseményeket és azok nagyságrendjét. Nézd meg, mennyi külföldi menekült érkezik Dzsibutiba Jemenből és Etiópiából. Jemenben és Etiópiában háború van, Dzsibuti szárazföldi és tengeri határokkal rendelkezik velük. És az elnök...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás egy elemzés a menekültáramlásról Dzsibutiba, de nem tartalmaz konkrét, ellenőrizhető adatokat vagy eseményeket, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:51.977104+00:00"
+    },
+    "information:information:16830": {
+      "hu_text": "Több mint egymillió afgán menekültet küldtek haza Pakisztánból. Néhányan hangos Bibliákat visznek át egy olyan határon, amelyet egyetlen misszionárius sem léphet át. Imádkozz értük.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás menekültek hazaküldéséről és vallási tárgyak átviteléről szól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:51.977108+00:00"
+    },
+    "information:information:16832": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban!",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás megegyezik az előző lengyel határral kapcsolatos panasszal, de nincs megerősített bizonyíték a fenyegetésekre vagy a határzárra vonatkozóan, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:51.977110+00:00"
+    },
+    "information:information:16835": {
+      "hu_text": "A „Diplomáciai frissítés” (1.2.10) most elérhető a Steam, Epic Games Store és GOG platformokon. A frissítés stabil, tartalmazza a diplomáciai rendszert, zsoldosokat, régiópiaci változásokat, inflációt és egyebeket. A játékban 12 NPC frakció van, amelyek különböző típusokba tartoznak, és különböző viszonyban lehet velük. Egyes frakciók barátságosak lehetnek, mások agresszívek és nem barátkozhatók.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy videojáték frissítéséről szól, amely nem kapcsolódik a migrációhoz vagy határbiztonsághoz, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:51.977113+00:00"
+    },
+    "information:information:16838": {
+      "hu_text": "1926-ban az Indiai Matematikai Társaság konferenciáján Brajendranath Seal összehasonlította az indiai matematikát Európa legjobbjaival, és megállapította, hogy Bengalban inkább az alkalmazott matematika, míg Madrasban a tiszta matematika dominál. Kiemelte Ramanujant Madrasból és más jelentős tudósokat Bengalból. Azt is megjegyezte, hogy a matematika logikája és az általános relativitáselmélet különösen vonzó az indiai gondolkodás számára.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés történelmi és tudományos elemzést tartalmaz, amely ellenőrizhető és nem kapcsolódik közvetlenül a migrációhoz, ezért háttér-történelminek és ellenőrzöttnek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:51.977114+00:00"
     }
   },
   "legacy_reviews": {}
