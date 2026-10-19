@@ -386,6 +386,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:48:44.890255+00:00"
+    },
+    "information:information:18618": {
+      "hu_text": "Az elmúlt 7 napban nem érkezett migráns. A hatóságok továbbra is készenléti állapotban vannak, várják a következőket. Olvastam, hogy az első Portsmouthba érkezett migránsok 30 órát töltöttek a tengeren.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrétak, de nem ellenőrzöttek, mivel nincs hivatalos forrás vagy bizonyíték a beérkezett migránsok számáról vagy a hatósági készenlétről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:56.009516+00:00"
+    },
+    "information:information:18629": {
+      "hu_text": "Azt kérdezik, hogy a kormány megtalálta-e a gumicsónak tulajdonosát, amelyet migránsszállításra használtak. Ha nem tudják, kié a csónak, hogyan tudják Danny-t elítélni? Ha kiderül, hogy nincs tulajdonosa, akkor legfeljebb egy kidobott csónakot rongált meg. Azt állítják, hogy a vezetők megvásároltak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és spekuláció a jogi eljárásról és a tulajdonosi viszonyokról, nincs bizonyíték a csónak tulajdonjogára vagy a vádakra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:56.009534+00:00"
+    },
+    "information:information:18630": {
+      "hu_text": "Egy emberiség elleni bűncselekményről szóló filmről van szó. Kromah azt mondta, hogy az egész migráció egy játék, mindenki részesedést akar. A csempész hálózatok hajónként 50-60 ezer eurót szednek be.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások súlyosak és konkrét összegeket említenek a csempészetről, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:56.009538+00:00"
+    },
+    "information:information:18577": {
+      "hu_text": "Az adatok az ONS és a Home Office hivatalos kiadványaiból származnak: a nettó migráció 171 000 fő 2025-re, a kis csónakos érkezések 40%-kal csökkentek 2026-ban, és több mint 80 000 visszatérés történt 2024 közepe óta. Nincs nyilvános bizonyíték arra, hogy Shabana Mahmood vagy Andy Burnham embercsempész hálózatként működne.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az adatok hivatalos forrásokra hivatkoznak, de a politikusokkal kapcsolatos állítások hiányosak, ezért részben ellenőrzöttnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:56.009541+00:00"
+    },
+    "information:information:18524": {
+      "hu_text": "Az emberek hatalmas sorokban állnak az ukrán-lengyel határon, akár 40 órát is várnak, miközben az orosz támadások késleltetik a forgalmat az átkelőhelyen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét helyszíni helyzetet ír le, amely fontos a határbiztonság szempontjából, de nincs megerősített forrás vagy hivatalos adat a várakozási időkről vagy a támadások hatásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:56.009544+00:00"
+    },
+    "information:information:18525": {
+      "hu_text": "Az oroszok egy európai ellentámadásra számítanak, de valójában csak menekülttáborok megugrása van a határon.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy spekuláció a katonai helyzetről és a menekülthelyzetről, nincs bizonyíték vagy hivatalos információ alátámasztására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:56.009547+00:00"
     }
   },
   "legacy_reviews": {}
