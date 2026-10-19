@@ -980,6 +980,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:13:40.962457+00:00"
+    },
+    "telegram:1261826972:53585": {
+      "hu_text": "🚩 Egy bevándorló paprikasprayt használt az egyik buszos szállítás során az elűzések után.\n\n➡️ A rendőrségnek le kellett szállítania az összes utast, és nyomozást indítottak a sprayt átadó személy felkutatására.\n\nhttps://elfarodeceuta.es/inmigrante-spray-gas-pimienta-traslados-bus-desalojos/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét eseményt ír le, de nincs független megerősítés vagy további bizonyíték. Fontos lehet a migrációs események nyomon követésében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:53.942562+00:00"
+    },
+    "telegram:2446813665:12310": {
+      "hu_text": "– Hogy viszonyulsz a bevándorlókhoz?\n– Normálisan, bár megpróbáltak rám támadni.\n\nMinden logikus.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény, nem tényállítás, és nincs bizonyíték a támadásra. Nem alkalmas tényellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:53.942583+00:00"
+    },
+    "telegram:1261826972:53592": {
+      "hu_text": "◼️ Videóval ▶️ Közel 500 bevándorlót telepítettek ki a legutóbbi rendőri akció során.\n\n➡️ Körülbelül 350 rendőr sikeresen hajtott végre egy műveletet a Poblado Regulares és Tarajal telepek felszámolására.\n\nhttps://elfarodeceuta.es/casi-500-inmigrantes-desalojados-intervencion-policial/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Rendőri akcióról szóló jelentés, amely migrációs eseményeket érint. Fontos a helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:53.942588+00:00"
+    },
+    "telegram:1173707041:9516": {
+      "hu_text": "A Dhi Qar tartományi Migrációs Minisztérium Nőügyi Egysége válságkezelésről és társadalmi-pszichológiai egyensúlyról tartott szemináriumot. A rendezvényen a magas bizottság emberi jogi irodájának női felelőse beszélt a pszichológiai támogatás fontosságáról a nehéz helyzetek leküzdésében.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy hivatalos szemináriumról számol be, amely a migránsok pszichoszociális támogatásával foglalkozik. Nem tartalmaz vitatható állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:53.942599+00:00"
+    },
+    "telegram:1261826972:53571": {
+      "hu_text": "🚩 Videóval ▶ Rendőri művelet a Poblado Regulares telepen a bevándorlók eltávolítására.\n\n➡ A Nemzeti Rendőrség ügynökei vasárnap beavatkoztak Ceutában, a Poblado Regulares és Los Rosales területeken, hogy felszámolják a bevándorlók telepeit.\n\n📷 Fotógaléria is elérhető.\n\nhttps://elfarodeceuta.es/operacion-policial-poblado-regulares-sacar-inmigrantes-barriada/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Rendőri akcióról szóló beszámoló, amely migrációs eseményeket érint. Fontos a helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:53.942606+00:00"
+    },
+    "telegram:1688600455:1162": {
+      "hu_text": "Mit tehetünk, ha elveszítettünk vagy találtunk valamit?\n\nElveszett vagy talált tárgyak bejelentésének, megtalálásának és leadásának lehetőségeiről, valamint az azonnali zárolási teendőkről szóló tájékoztató.\n\n📄 További információ: refugeehelp.nl/i/uk-t-shcho-mozhna-zrobiti\n\n📲 Ossza meg ezt a hírt a közösségi médiában\n\n✅ Időpontfoglalás konzultációra: refugeehelp.nl/i/uk-t-appointment-vwn",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Általános tájékoztató elveszett vagy talált tárgyakról, amely segítheti a migránsokat. Nem tartalmaz vitatható állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:53.942612+00:00"
     }
   },
   "legacy_reviews": {
