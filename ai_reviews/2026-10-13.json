@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-13",
+  "reviews": {
+    "telegram:1173707041:9494": {
+      "hu_text": "A Maysan tartományi Migrációs Minisztérium Nőügyi Egysége szemináriumot tartott a korai házasságokról és azok társadalmi hatásairól. A rendezvény célja a gyermekvédelem és a lányok jövőjének védelme volt, különösen a 18 év alatti házasságok veszélyeire és következményeire (egészségügyi, oktatási, társadalmi, pszichológiai) fókuszálva. Tájékoztató anyagokat is osztottak ki, hangsúlyozva, hogy a korai házasság nem védelem, hanem a lányok gyermekkora és jövője ellopása.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi társadalmi problémáról szóló tájékoztató eseményről számol be, amely releváns a migrációs kontextusban, de nincs külső bizonyíték a tartalom hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:20.760319+00:00"
+    },
+    "telegram:1604168769:12192": {
+      "hu_text": "Üzbegisztániak szezonális munkákra utazhatnak az Egyesült Államokba. A Migrációs Ügynökség 12 hetes speciális képzési programot tervez a tavaszi mezőgazdasági szezonra, amely angol nyelvet, gépkezelést és munkavédelmet tanít, és a munkaadók igényei alapján válogatja ki a jelölteket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs programról szól, amely releváns a migrációs szándék témakörében, de nincs megerősített forrás vagy további bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:20.760341+00:00"
+    },
+    "telegram:1604168769:12196": {
+      "hu_text": "Összetűzés történt a moszkvai metróban egy migráns és egy orosz állampolgár között. A vita a szerelvényen kezdődött, majd a peronon folytatódott, ahol a migráns fiút megfojtották és a peronra rántották, amit videó is rögzített.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét incidensről számol be, amely migránsokat érint, de nincs megerősített forrás vagy további bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:20.760345+00:00"
+    },
+    "telegram:1688600455:1157": {
+      "hu_text": "Biztonságos utazás Ukrajnából Hollandiába: fontos tudni, hol lehet segítséget kapni, hogyan védeni az iratokat, és elkerülni a kizsákmányolást vagy emberkereskedelmet. Az út során a Blue Dot Safe Spaces központok segítenek szálláskeresésben, információban, ideiglenes védelemben, családegyesítésben és kapcsolattartásban. Érdemes megismerni a CoMensha tanácsait az emberkereskedelem felismerésére, és segítséget kérni, ha valaki áldozattá válik vagy gyanúja van.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés humanitárius segítségnyújtásról és kockázatokról tájékoztat, ami fontos a migránsok számára, de nincs külső bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:20.760347+00:00"
+    },
+    "information:information:16737": {
+      "hu_text": "Azok az emberek, akik átkelnek a Csatornán, dehumanizálása mindig is Nigel Farage politikájának központi eleme volt. Egy esetleges Reform-kormány \"halálos erőt\" alkalmazna fegyvertelen migránsokkal szemben. Az ellenszer az, hogy az átkelő emberek is emberek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus a migrációról, nincs konkrét tényállítás vagy bizonyíték, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:20.760349+00:00"
+    },
+    "information:information:16752": {
+      "hu_text": "Ez a bejegyzés egy hashtagek listáját tartalmazza, amelyek különféle témák és helyszínek szerint rendszerezik a független újságírást, beleértve a migrációval kapcsolatos témákat is. A hashtagek tartalmi figyelmeztetésként is szolgálnak, és a felhasználóknak javasolt átnézni őket, mielőtt cikkeket olvasnának.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem tartalmaz migrációs eseményre vagy állításra vonatkozó konkrét információt, csak egy hashtagek listáját ismerteti, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:20.760351+00:00"
+    }
+  }
+}
