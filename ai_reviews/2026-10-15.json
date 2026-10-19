@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:11:40.723016+00:00"
+    },
+    "information:information:17853": {
+      "hu_text": "@DruHeffner93317 @BasierteKatze17 Minden pontban tévedsz. A kitoloncolások rekordmagasak — több mint 3 millióan távoztak, és 16 hónapja nem volt illegális szabadon engedés a határon. A magánszektorban több mint egymillió új munkahely jött létre, nem „mind a migránsoknak”. Több mint 250 000 vízumot vontak vissza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások statisztikai adatokat tartalmaznak, de nincs megerősített forrás vagy hivatalos adat a bemenetben, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:52.503281+00:00"
+    },
+    "information:information:17855": {
+      "hu_text": "🚨 TRAGÉDIA GAMBIA-BAN\n\nA Gambia Vöröskereszt 12 holttestet talált egy hajóbaleset után Jinack Kajata közelében, Északi Part Régióban. A hajó migránsokat szállított, akik állítólag a Kanári-szigetek felé tartottak Spanyolországba. Az eltűntek száma még nem ismert.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragédia híre fontos humanitárius esemény, de a pontos részletek és az eltűntek száma még nem megerősített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:52.503303+00:00"
+    },
+    "information:information:17882": {
+      "hu_text": "@OctopusIllusion @NewsWire_US A nyomozók használhatnák a kenyai menekülttábori regisztrációkat, az 1995-ös amerikai érkezési és letelepedési dokumentumokat, az 1995-2000 közötti iskolai vagy egészségügyi nyilvántartásokat, amelyek igazolják a 1981-es születési év szerinti életkort, az apa állampolgársági kérelmeit a családtagok életkorával, és egyéb korábbi adatokat.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nyomozási módszerekre utal, nem tartalmaz konkrét állítást vagy eseményt, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:52.503310+00:00"
+    },
+    "information:information:17861": {
+      "hu_text": "Andy Burnham munkáspárti kormánya továbbra is vonzza a migránsokat... Szörnyűség: egy nőt halálra tapostak egy kis hajón, amelyen 74 migráns utazott. A túlzsúfolt hajó az angol csatornán haladt az Egyesült Királyság felé.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos balesetről szóló állítás, de nincs megerősített forrás vagy hivatalos jelentés a bemenetben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:52.503315+00:00"
+    },
+    "information:information:17791": {
+      "hu_text": "A Trump-kormányzat fontolgatja, hogy illegális migránsokat deportáljon hajókon, köztük egy 152 méteres kiképzőhajón és kompokon, Közép- és Dél-Amerikába. Trump hivatalba lépése óta már 3,3 millió illegális bevándorló hagyta el az Egyesült Államokat.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai döntésekről és statisztikákról szóló állítás, de nincs hivatalos megerősítés vagy dokumentum a bemenetben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:52.503320+00:00"
+    },
+    "information:information:17781": {
+      "hu_text": "Szövetségi bírósági iratok szerint egy korábban embercsempészettel elítélt mexikói állampolgárt október 3-án tartóztattak le a határőrség tagjai, miközben a Balboa Fun Zone közelében várakozott, hogy hajóval érkező migránsokat vegyen fel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Bírósági dokumentumokra hivatkozó állítás, de a bemenet nem tartalmaz közvetlen bizonyítékot vagy hivatalos megerősítést.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:52.503325+00:00"
     }
   },
   "legacy_reviews": {}
