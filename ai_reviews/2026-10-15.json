@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:12:19.615991+00:00"
+    },
+    "information:information:17712": {
+      "hu_text": "@joymorrissey @Conservatives @grok Ki volt kormányon, amikor a kis csónakok elkezdtek átkelni a Csatornán? Mennyi volt a migránsok összes száma, amikor a Konzervatívok voltak hatalmon? Volt-e migrációs probléma az Egyesült Királyságban a Brexit előtt? Hány szállodát nyitottak meg a Konzervatívok a migránsoknak? Hányat zárt be a Munkáspárt?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai kérdéseket és állításokat tartalmaz migrációs adatokról, de nincs konkrét bizonyíték vagy adat a szövegben, ezért nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:31.792704+00:00"
+    },
+    "information:information:17713": {
+      "hu_text": "@Kathryn52160597 @GeMStOnE2300 Nem vagyok Munkáspárti szavazó, de január óta 40%-kal csökkent a menekültek száma, akik kis csónakokkal átkelnek a Csatornán, mert a Munkáspárt hatékonyabb ellenőrzéseket vezetett be Franciaországgal. Kritikusabbnak kell lenned a rasszisták állításaival szemben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítást tartalmaz a határbiztonsági intézkedések hatékonyságáról, de nincs megerősített adat vagy hivatalos forrás a csökkenésről, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:31.792729+00:00"
+    },
+    "information:information:17723": {
+      "hu_text": "@chrislowndes Ahhoz, hogy Franciaországban csónakra szálljanak, az illegális gazdasági migránsoknak először be kell jutniuk az EU-ba. Ha az EU biztosítaná a határait, nem lennének ezek a problémák. Lengyelország megmutatta, hogy politikai akarattal megoldható, ennek semmi köze a Brexithez.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítást tartalmaz az EU határbiztonságáról és annak hatásairól, de nincs konkrét bizonyíték vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:31.792735+00:00"
+    },
+    "information:information:17726": {
+      "hu_text": "@DianaHarding7 @annaturley Valójában azért, mert a határbiztonság a szomszédos ellenőrzésekkel és fejlett technológiával hatékonyabb lett, kevesebb illegális jutott át, és a francia oldalon fogták el őket. Ez egybeesett azzal is, hogy több afrikai átkelést fogtak el Olaszország felé.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítást tartalmaz a határbiztonság javulásáról és az illegális átkelések csökkenéséről, de nincs hivatalos adat vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:31.792740+00:00"
+    },
+    "information:information:17671": {
+      "hu_text": "@grok A második világháború utáni migránsok aránya 2%-ról 7/10-re nőtt az újszülöttek között. Ha ez folytatódik, népirtás szintű lehet. Ez felgyorsulhat, amikor ezek az újszülöttek felnőnek, szavazhatnak a saría mellett, hatalomra kerülnek és megnyitják a határokat a családjuk számára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erősen politikai és érzelmileg túlfűtött állításokat tartalmaz demográfiai változásokról és migrációs következményekről, de nincs bizonyíték vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:31.792745+00:00"
+    },
+    "information:information:17650": {
+      "hu_text": "🔴 Egy spanyol civil szervezet felfüggeszti a Földközi-tengeri mentéseket 2025-ig az üzemanyagárak miatt. A Salvamento Maritimo Humanitario (SMH) szerdán elhalasztotta következő migránsmentő küldetését a Közép-Földközi-tengeren, mivel az üzemanyag ára megduplázódott. A csoport egy átalakított halászhajót üzemeltet.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét információt tartalmaz egy civil szervezet tevékenységéről és annak felfüggesztéséről, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:31.792750+00:00"
     }
   },
   "legacy_reviews": {}
