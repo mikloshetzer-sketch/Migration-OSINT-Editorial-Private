@@ -1387,6 +1387,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:52:22.834463+00:00"
+    },
+    "information:information:19751": {
+      "hu_text": "„Míg a többség negatívan ítéli meg az engedély nélküli útvonalakat (például a kis hajós átkeléseket), a jogszerű migrációval, diákokkal és letelepített menekültekkel kapcsolatos általános attitűdök pozitívabbak. A fiatalabb generációk (Z generáció) jelentősen nagyobb bizalmat mutatnak.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés közvélemény-kutatási vagy szociális attitűdökre vonatkozó állítást tartalmaz, de nincs megadva forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:30.655121+00:00"
+    },
+    "information:information:19765": {
+      "hu_text": "Ausztrália támogatásával az IOM és a Bevándorlási Főigazgatóság négy napos képzést indított 35 első vonalbeli tisztviselő számára, hogy segítsen felismerni az emberkereskedelem és migránsszállítás jeleit, hatékony interjúkat készíteni, valamint védeni az úton lévő emberek jogait és méltóságát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos képzési programról számol be, de nincs közvetlen bizonyíték vagy forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:30.655141+00:00"
+    },
+    "information:information:19755": {
+      "hu_text": "Tizenkét migráns, köztük egy csecsemő, meghalt két hajóbalesetben a görög szigetek közelében. Fontos a határbiztonság, de az emberi élet védelme is. A hatóságoknak pontosan ki kell deríteniük, mi történt, és biztonságosabb módszereket kell találniuk az ilyen tragédiák megelőzésére.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos halálesetekről számol be, ami fontos határbiztonsági és humanitárius kérdés, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:30.655146+00:00"
+    },
+    "information:information:19811": {
+      "hu_text": "Ez a megjegyzés arra utal, hogy egy párt elveszített körülbelül 450 ezer migráns gyereket a határon, akiket idegeneknek, embercsempészeknek adtak át, és ezt a demokraták felelősségének tartja. A szöveg erősen politikai vélemény és vádaskodás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és vádaskodás, nincs bizonyíték vagy tényállítás, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:30.655150+00:00"
+    },
+    "information:information:19814": {
+      "hu_text": "Franciaország nem létezik nyitott határokkal, kivéve néhány száz afrikai menekültet, akik időnként a tengeren érkeznek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Általános állítás Franciaország határpolitikájáról, nincs bizonyíték vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:30.655154+00:00"
+    },
+    "information:information:19815": {
+      "hu_text": "A tengeri érkezések adatai megegyeznek a hivatalos forrásokkal: 2010-ben 4406, 2014-ben 170100, 2016-ban 181436 az olasz belügyminisztérium és az ENSZ Menekültügyi Főbiztossága szerint. Egy 2011-es Business Insider cikk helyesen idézi Gaddafi Franciaország 24-es figyelmeztetését a Földközi-tengeri migráns útvonalakról a lehetséges bukása után.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A számadatok hivatalos forrásokra hivatkoznak, részben ellenőrizhetőek, de a teljes kontextus nem teljesen bizonyított.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:30.655157+00:00"
     }
   },
   "legacy_reviews": {}
