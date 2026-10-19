@@ -749,6 +749,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:30.641334+00:00"
+    },
+    "information:information:17248": {
+      "hu_text": "@ShabanaMahmood Néhány állítás azt jelentené, hogy Franciaországban több millióan várnak az átkelésre; például 50 000 x 60 egyenlő 3 millióval. Most már láthatod, milyen nevetségesek az állításaid. Ne feledd, a szavaid nem késésről vagy eseményekről szóltak, hanem az átkelések számáról, ami egy tele csónakra vagy gumicsónakra utal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások számszerű összevetése és vélemény kifejezése történik, de nincs bizonyíték az állítások igazolására vagy cáfolatára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:39.278947+00:00"
+    },
+    "information:information:17295": {
+      "hu_text": "🔴 Az EU további 29 millió dollárt ígért a migrációs együttműködés megerősítésére Kelet-Líbiában. A támogatás a határkezelést, a keresést és mentést, valamint a migránscsempészet visszaszorítására irányuló erőfeszítéseket segíti.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az EU migrációs támogatásáról szóló állítás fontos politikai és jogi információ, de nincs közvetlen bizonyíték a forrás hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:39.278964+00:00"
+    },
+    "information:information:17302": {
+      "hu_text": "@Politics20204 @Nigel_Farage Nincs nyilvános teljes archívum Nigel Farage körülbelül 25 000 bejegyzéséről, amely pontos százalékokat adna. Kulcsszó- és szemantikai keresések szerint a menekült/menedék/migráns/Channel csónak témák sokkal gyakrabban fordulnak elő, mint Oroszország/Putyin/Ukrajna témák. A legutóbbi minták (2025-2026) szerint a migrációs bejegyzések többszörösen jelennek meg.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Elemzés jellegű megjegyzés politikai közszereplő közösségi médiás tartalmairól, nincs bizonyíték a pontos adatokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:39.278968+00:00"
+    },
+    "information:information:17303": {
+      "hu_text": "@LauraON72 @anchiever @clinpsych52 @anna4fes @Sagal_AW Tetszik, ahogy nyíltan védesz egy ismeretlen férfiakból álló csoportot (a kis csónakos érkezők 75%-a férfi), és védesz lényegében gazdasági migránsokat más útvonalakon, miközben figyelmen kívül hagyod a külföldi állampolgárok bűnözési statisztikáit, csak azért, hogy jó embernek érezd magad. Menj a fenébe.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes vélemény és támadás, nincs tényállítás vagy bizonyítható információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:39.278971+00:00"
+    },
+    "information:information:17304": {
+      "hu_text": "🔆REGGELI PERCEK🔆 | Wellington felfüggeszti az új raktár- és adatközpont-engedélyeket, Lake Worth lakói veszélyes eltévedt golflabdákról számolnak be, és a Parti Őrség hat kubai migránst visszaküldött Kubába a Florida-szorosban történt mentések után.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Több témát érintő híradás, köztük migránsok visszaküldése, de nincs részletes bizonyíték a migrációs eseményekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:39.278973+00:00"
+    },
+    "information:information:17310": {
+      "hu_text": "Jelentések szerint embercsempészek egy híres D-napi partraszállási helyet használnak kiindulópontként \"mega-gumicsónakok\" indításához, amelyek migránsokat szállítanak Franciaországból Nagy-Britanniába.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az embercsempészetről szóló állítás fontos biztonsági és migrációs kérdés, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:39.278976+00:00"
     }
   },
   "legacy_reviews": {}
