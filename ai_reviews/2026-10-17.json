@@ -518,6 +518,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:49:06.543471+00:00"
+    },
+    "information:information:18429": {
+      "hu_text": "Néhány nigériai migráns valóban emberkereskedelemnek, kényszermunkának és rabszolgasághoz hasonló visszaéléseknek van kitéve Líbiában. Az ENSZ 2026-os jelentései ezt a rendszerszintű kizsákmányolás részének tekintik, amely az irreguláris migránsokat érinti a Földközi-tengeri útvonalon, de nem általánosan a nigériaiakat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részletes, de nincs közvetlen bizonyíték vagy forrás, csak egy ENSZ-jelentésre való hivatkozás 2026-ból, ami jövőbeli dátum, így nem ellenőrizhető. Ezért csak részben ellenőrzöttnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:17.339943+00:00"
+    },
+    "information:information:18444": {
+      "hu_text": "Dan Hodges szerint Franciaország szándékosan engedi, hogy több tízezer illegális migráns áthaladjon a területén és kis hajókon átkeljenek az Egyesült Királyságba. Ezt egyesek inváziónak nevezik, és Hodges megjegyzi, hogy történelmileg ez háborús oknak számítana. Véleménye szerint az Egyesült Királyságnak reagálnia kellene.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai vélemény és feltételezés, nincs konkrét bizonyíték a szándékos engedélyezésre vagy állami együttműködésre, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:17.339963+00:00"
+    },
+    "information:information:18416": {
+      "hu_text": "A Paliwaal Rajput közösség a Somvanshi (Hold-dinasztia) leszármazottja, eredetileg a közép-indiai Hardoi régióból származnak, és nincs kapcsolatuk a Rádzsasztán állambeli Pali városával vagy a Paliwal bráhmin közösséggel. A 'Paliwal' név helynévből ered, és a közösség történelmi migrációja során alakult ki ez az identitás.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi és etnikai háttérinformáció, nincs közvetlen bizonyíték, de nem is vitatható, így ellenőrzésre szorulhat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:17.339967+00:00"
+    },
+    "information:information:18584": {
+      "hu_text": "Egy abszurd, szürreális történet egy gazdagok hobbijairól, amelyben különféle szokatlan események és karakterek jelennek meg egy neonfényes világban, beleértve rendőri üldözést, élő rajzfilm-felvételt és egy fizikát meghazudtoló birkózó mérkőzést.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem kapcsolódik migrációhoz vagy releváns témához, inkább szórakoztató, fikciós jellegű tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:17.339970+00:00"
+    },
+    "information:information:18364": {
+      "hu_text": "Etiópiában található ellátó központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek menekülttáborokat bombáznak a szudáni határ mentén.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos katonai tevékenységet ír le, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:17.339973+00:00"
+    },
+    "information:information:18384": {
+      "hu_text": "Az állítás szerint a kormány nem képes megvédeni a határokat, és részt vesz az illegális migránsok csempészetében francia kísérettel, miközben az Egyesült Királyság hatóságai támogatják a partraszállásokat. Közben Sir Dipship azt várja az Egyesült Királyság lakóitól, hogy áldozatot hozzanak, de nem világos, hogy mit.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és vádaskodás, nincs bizonyíték a kormányzati együttműködésre vagy csempészetre, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:17.339975+00:00"
     }
   },
   "legacy_reviews": {}
