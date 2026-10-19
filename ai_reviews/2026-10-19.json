@@ -727,6 +727,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:30:06.462545+00:00"
+    },
+    "record:2111986630319886486": {
+      "hu_text": "A korlátozások strukturálisak. Az embercsempész hálózatok gyorsabban alkalmazkodnak, mint a végrehajtó intézkedések. A kitoloncolások részben hiányos megállapodásoktól függnek az eredeti vagy tranzitországokkal. Az Emberi Jogok Európai Egyezménye, különösen a 8. cikk, lehetővé teszi az ismételt fellebbezéseket, amelyek lassítják az eltávolításokat. Az Bevándorlási és Menekültügyi Törvény szigorít.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai-jogi fejleményeket tárgyal a migrációs jogi keretekről és végrehajtásról, de nem tartalmaz konkrét bizonyított adatokat. Fontos a jogi környezet megértése miatt, de nincs megerősített tény.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:17.521106+00:00"
+    },
+    "record:2112002790344266143": {
+      "hu_text": "A legfontosabb, hogy reagáljunk, ne csak informáljunk, hanem kommunikáljunk és hajtsuk végre az intézkedéseket, ez legyen a legfőbb prioritás! Sajnos most hatalmas menekülthullám érkezik a határodhoz! 🇵🇱",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt migrációs mozgásjelzést tartalmaz egy nagy menekülthullámról egy adott ország határán, ami fontos korai figyelmeztetés lehet. Az állítás nem ellenőrzött, ezért magas prioritású a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:17.521125+00:00"
+    },
+    "record:2112067989696548947": {
+      "hu_text": "Lengyelország több ezer katonát vezényelt a német és litván határra, hogy segítsék a határőröket az illegális migráció és embercsempészet megállításában – 2025 júliusa óta aktívak. Ezek célzott, stratégiai ellenőrzések, nem teljes határlezárás.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt határbiztonsági intézkedésekről számol be egy konkrét időpontban és helyszínen, ami fontos információ a migrációs helyzet megértéséhez. Az állítás nem ellenőrzött, ezért magas prioritású a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:17.521131+00:00"
+    },
+    "record:2112072305769578589": {
+      "hu_text": "FRISS HÍR: Lengyelország bejelentette, hogy a lengyel hadsereget küldi a német és litván határra, hogy megállítsa az illegális migránsok belépését Lengyelországba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt egy konkrét migrációs eseményről, határbiztonsági intézkedésről számol be, ami jelentős hatással lehet a migrációs folyamatokra. Az állítás nem ellenőrzött, ezért magas prioritású a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:17.521136+00:00"
+    },
+    "record:2112081216417542636": {
+      "hu_text": "A videó 2026. szeptember 6-áról (éjszaka szeptember 7-re virradóra) készült az Eastney Marina, Portsmouth területén. Tömegeket és Danny Tommo-t mutatja, amint megpróbálják megakadályozni a kis hajóval érkező migránsokat szállító buszokat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt migrációs mozgásjelzést tartalmaz egy adott helyszínen és időpontban, de nem bizonyított tényként, inkább szemléltető videóként. Közepes prioritású a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:17.521140+00:00"
+    },
+    "record:reddit_1x9qq2p": {
+      "hu_text": "Tengeri munkásoknak szóló felmérés és visszajelzés-gyűjtés egy új, MarinoHub nevű weboldal és alkalmazás tervezett indításához, amely egy helyen gyűjtené a hajózási álláslehetőségeket. A projekt még tervezési fázisban van, és a fejlesztő a migráns munkavállalók minisztériumával és jogászokkal egyeztet a működésről. A poszt nem migrációs esemény vagy mozgásjelzés, hanem egy fejlesztési kezdeményezés.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt egy fejlesztési projekt előzetes felmérését tartalmazza, amely érinti a migráns munkavállalók helyzetét, de nem migrációs esemény vagy mozgásjelzés. Alacsony prioritású a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:17.521144+00:00"
     }
   },
   "legacy_reviews": {}
