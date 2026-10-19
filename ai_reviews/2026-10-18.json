@@ -859,6 +859,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:15:21.349170+00:00"
+    },
+    "record:2111909543374721100": {
+      "hu_text": "BBC Bitesize játék, amely jutalmazza a diákokat a migránsok amnesztiájának és a nyitott határpolitikáknak a támogatásáért, miközben bünteti a kitoloncolást. #Agymosás #BBC #Baloldali #FinanszírozzukÚjraABBC-t",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy véleményt és kritikát tartalmaz egy oktatási játékról, amely migrációs politikákat támogat vagy ellenző módon értékel. Nem áll rendelkezésre bizonyító forrás a játék tényleges tartalmáról vagy hatásáról, ezért nem ellenőrzött. A társadalmi diskurzus kategóriába tartozik, mert politikai és ideológiai álláspontot tükröz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:26.301082+00:00"
+    },
+    "record:2111910120443760941": {
+      "hu_text": "14 éven át Franciaország liberális, nyitott határokat támogató politikusokra szavazott. Most a migránsok zavargásokat okoznak, és felelőssé teszik őket a lakhatási költségek emelkedéséért, a szociális szolgáltatások romlásáért és az inflációért. Még a liberális Le Monde is megváltoztatta álláspontját a migrációról. Amerika, tanulj Franciaországtól.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt politikai véleményt és általánosító állításokat tartalmaz migrációs eseményekről és következményeikről Franciaországban, de nem szolgáltat konkrét bizonyítékokat vagy hivatalos adatokat. Ezért nem ellenőrzött. A migrációs helyzetre vonatkozó társadalmi diskurzus része, és magas prioritású a potenciális hatások miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:26.301100+00:00"
     }
   },
   "legacy_reviews": {
