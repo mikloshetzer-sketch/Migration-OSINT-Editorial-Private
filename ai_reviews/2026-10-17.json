@@ -782,6 +782,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:49:48.492496+00:00"
+    },
+    "record:2111523366750310801": {
+      "hu_text": "Valószínűleg sokan lépik át a határt élelmiszervásárlás miatt, mert még az árfolyam figyelembevételével is többet ér egy kanadai dollár az Egyesült Államokban, mint Kanadában. Sokan megérik, hogy 40-50 mérföldet utazzanak vásárolni, még az üzemanyagárak mellett is.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás egyéni véleményen alapul, nincs konkrét bizonyíték a határátlépések számára vagy okaira vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:58.914557+00:00"
+    },
+    "record:2111509618258014387": {
+      "hu_text": "Nyilvánvalóan hamis állítás. Egy 1800-as évekbeli Biblia térképe világosan Palesztinát mutat. Ezek a Khaszárok a 30-as és 40-es években érkeztek menekültként, és elkezdték ellopni a földet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi és politikai állítás, amely vitatott és nem bizonyított, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:58.914576+00:00"
+    },
+    "record:2111487443237052785": {
+      "hu_text": "A probléma az, hogy ha leteszik a fegyvert, anarchia lesz, és kevesebb mint 6 órán belül Franciaország nem lesz jobb hely, mint Ceuta, amikor megérkeztek a migránsok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és jóslat, nincs bizonyíték az állítás igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:58.914580+00:00"
+    },
+    "record:2111423073962389764": {
+      "hu_text": "Nem lehet kitalálni: nemrég láttam egy történetet egy iráni nőről, aki Dániába menekült a rezsim elől. Ő valódi menekült, nem egy kis hajós betolakodó. Ha kitoloncolják, mint rezsimellenes keresztényt és monarchistát, kivégzik.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius állítás, amely súlyos következményekkel járhat, de nincs megerősített bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:58.914583+00:00"
+    },
+    "group:511": {
+      "hu_text": "A családok és fiatal gyerekek utcai árusítása gyakran tükrözi az újonnan érkezett migránsok súlyos gazdasági nehézségeit és a legális munkalehetőségek hiányát. Ez egy érdekvédelmi szempontból fontos jelenség.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános megfigyelés, amely nem tartalmaz konkrét adatokat vagy bizonyítékokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:58.914586+00:00"
+    },
+    "group:512": {
+      "hu_text": "A Sinn Féin teljes mértékben támogatja az elosztási politikát, amely szerint az újonnan érkezett migránsok előnyt élveznek az ír állampolgárokkal szemben, akik több mint 15 éve várnak lakhatásra. Miért gyűlöli a Sinn Féin a szegény, hajléktalan ír embereket?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika, amely nem bizonyított tényeken alapul.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:58.914589+00:00"
     }
   },
   "legacy_reviews": {}
