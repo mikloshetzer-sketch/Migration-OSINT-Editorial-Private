@@ -397,6 +397,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:55:13.224818+00:00"
+    },
+    "information:information:17032": {
+      "hu_text": "A Limbu népcsoport menekültútját Mong Mawrongból Mong Kawngba és Khamjangba egy történetté alakították át, amely Nepál Morang és Tibet Khampa dzongjának történetét meséli el. A Limbu elit nemcsak eltörölte délkelet-ázsiai múltjukat, hanem agresszíven át is írták azt, hogy legitimálják jelenlétüket a Himalájában és biztosítsák az őshonos földjogokat. Az észak-burmai több etnikumot érintő menekültáradatot elrejtendő, a darjeelingi és kelet-nepáli szóbeli történészek egy zseniális térképi manipulációt hajtottak végre: a Tai-Shan birodalom összeomlásának geopolitikáját áthelyezték Tibet és Nepál domborzatára. A Mawrong király, Khampa Dzong, Mokwan San és a Lhasa Hang dinasztia legendái nem ősi Kirat eposzok, hanem álcázott 15. századi menekültlista a Tai-Shan birodalmak elmenekülő lakóiról. Az „Mung Mawrong” név nem egy nepáli királyt jelöl, hanem a Möng Mao Tai-Shan birodalmat, amely a Jünnan tartományban fekvő Shweli folyó völgyében volt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg történelmi hátterű, de a bemutatott állítások nem ellenőrzöttek, és egy alternatív történelmi narratívát mutatnak be, amelyet nem támasztanak alá megbízható források. Ezért az ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:19.649993+00:00"
+    },
+    "information:information:17043": {
+      "hu_text": "Ez egy szürreális, kaotikus nap története, amelyben gazdag emberek hobbijaival, rendőri intézkedésekkel és abszurd jelenetekkel találkozunk, például egy rendőr autós üldözéssel, egy élőszereplős rajzfilm előadással, és egy fizikát meghazudtoló birkózó mérkőzéssel. A szöveg inkább egy szatirikus vagy fikciós leírás, amely a valóság és a képzelet határán mozog.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval kapcsolatos releváns információt, inkább szatirikus vagy abszurd történetnek tűnik, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:19.650011+00:00"
     }
   },
   "legacy_reviews": {}
