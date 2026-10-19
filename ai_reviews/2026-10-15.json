@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:09:42.057341+00:00"
+    },
+    "information:information:17905": {
+      "hu_text": "Melyik a kedvenc Trump-ügyed? A félidős választások alkalmat adnak arra, hogy előre tekintsünk és megtervezzük az ország jövőjét. Ugyanakkor jó emlékezni arra is, honnan jövünk. Íme egy lista Trump tetteiről, amelyekre büszkék lehetünk vagy nem. Például a 2020-as választás megdöntésére tett kísérletek, a január 6-i Capitolium elleni támadás, a Georgia állam választási nyomásgyakorlása, az iráni háború, a COVID-19 kezelése, a családegyesítési politika, a tömeges kitoloncolások, az orosz kapcsolatok, a titkos dokumentumok Mar-a-Lagóban, az Epstein-ügy kezelése és a Stormy Daniels-ügy.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg politikai véleményeket és állításokat tartalmaz, de nem migrációs eseményről vagy konkrét tényről szól, ezért társadalmi diskurzus kategóriába sorolható. Az állítások nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:40.722974+00:00"
+    },
+    "information:information:17940": {
+      "hu_text": "Tizenkilenc sérült, miután egy busz összeütközött egy vonattal a Csatorna-alagút bejáratánál.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A baleset nem kapcsolódik migrációs eseményhez vagy migrációs témához, így irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:40.722996+00:00"
+    },
+    "information:information:17849": {
+      "hu_text": "„Az etnikai kisebbségeket jobban megfigyelik a határon, mint a többségi etnikumot, mert kevésbé kötődnek a szülőföldjükhöz. Az EU és az USA is deportál olyan embereket, mint én. Amikor ezt említem, a menekültpártiak kinevetnek, tagadják, és „szánalmas történetnek” nevezik.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes tapasztalatot és véleményt tartalmaz az etnikai kisebbségek határellenőrzés alatti megkülönböztetéséről, ami migrációs társadalmi diskurzus, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:40.723002+00:00"
+    },
+    "information:information:17871": {
+      "hu_text": "Meloni azt állítja, hogy az illegális belépés nem automatikus jog, és szorgalmazza az agresszív határőrizetet, az embercsempész hálózatok felszámolását és az illegális bevándorlók kitoloncolását. Ez hasonló Trump politikájához.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs politikai álláspontot fogalmaz meg, de nem tartalmaz konkrét bizonyítékot vagy hivatalos dokumentumot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:40.723007+00:00"
+    },
+    "information:information:17859": {
+      "hu_text": "Az Egyesült Királyság megfenyegette Eritreát, hogy betiltja az eritreaiak belépését, ha Eritrea kormánya nem fogadja vissza a kis hajókon érkező migránsokat (az érkezések 18%-a) és bűnözőket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs visszatérítési politikával kapcsolatos fenyegetést tartalmaz, ami fontos migrációs jogi és politikai esemény lehet, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:40.723012+00:00"
+    },
+    "information:information:17839": {
+      "hu_text": "„Az volt a célja, hogy megállítsa az angol csatornán való átkeléseket — a világ legforgalmasabb hajózási útvonalán.”",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs eseményhez kapcsolódó intézkedésről szól, de nem tartalmaz részletes információt vagy bizonyítékot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:40.723016+00:00"
     }
   },
   "legacy_reviews": {}
