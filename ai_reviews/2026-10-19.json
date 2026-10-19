@@ -1519,6 +1519,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:52:39.522353+00:00"
+    },
+    "information:information:19884": {
+      "hu_text": "Donna Jones, Hampshire rendőrségi és bűnügyi biztos felszólította az Egyesült Királyság kormányát, hogy állítsa le a migráns hajók partraszállását Portsmouth és Gosport partjainál.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés hivatalos személytől származik, de nincs további bizonyíték a hatósági intézkedések megtörténtéről vagy hatásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:47.283049+00:00"
+    },
+    "information:information:19876": {
+      "hu_text": "Az Egyesült Államok Belbiztonsági Minisztériuma (DHS) bejelentette, hogy az adott pénzügyi évben rekord alacsony volt a határon átlépő migránsok száma, és egyetlen migránst sem engedtek be az országba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A DHS állítása jelentős határbiztonsági adatokat közöl, de a pontos adatokat és forrásokat nem ellenőriztük.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:47.283068+00:00"
+    },
+    "information:information:19878": {
+      "hu_text": "Az Egyesült Államok Belbiztonsági Minisztériuma (DHS) bejelentette, hogy az adott pénzügyi évben rekord alacsony volt a határon átlépő migránsok száma, és egyetlen migránst sem engedtek be az országba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az előző rekorddal megegyező tartalom, amely fontos határbiztonsági adatokat közöl, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:47.283072+00:00"
+    },
+    "information:information:19885": {
+      "hu_text": "Iraki mizráhi zsidó menekültek érkeztek Izraelbe Cipruson keresztül az iraki kiutasítás után (1950). Izrael repülőgépeket küldött a zsidók kimenekítésére Irakból, de nem akarták, hogy Irak tudomást szerezzen a mentőakcióról.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi eseményeket ismertet, de a részletek és források nem ellenőrzöttek, így az állítások hitelessége nem biztos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:47.283076+00:00"
+    },
+    "information:information:19886": {
+      "hu_text": "BRITANNIA HAJÓVÁLSÁG: Illegális migránsok inváziója az Egyesült Királyságban egy 'MEGA' gumicsónakos invázió keretében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A cím szenzációhajhász, és nincs megerősített adat az esemény tényleges méretéről vagy következményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:47.283079+00:00"
+    },
+    "information:information:19897": {
+      "hu_text": "Egy felhasználó azt állítja, hogy migránsok fegyvereket és drogokat csempésznek az országba bandák és terrorista szervezetek számára, és hogy ez a csempészés finanszírozza a migránsok útját Afrikán keresztül Európába.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és állítás, amely nem alátámasztott tényeken alapul, így ellenőrizni kell a valóságtartalmát.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:47.283082+00:00"
     }
   },
   "legacy_reviews": {}
