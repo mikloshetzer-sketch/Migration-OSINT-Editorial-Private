@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:01.120514+00:00"
+    },
+    "information:information:19086": {
+      "hu_text": "Nem volt nyitott határpolitika. A Biden-kormányzat 4,6 millió embert deportált. Az „open border policy” hazugság és politikai szlogen. A Biden-adminisztráció 2024 elejéig összesen közel 4,6 millió visszaküldést hajtott végre, ami meghaladja bármelyik elnöki ciklus számát George W. Bush második ciklusa óta.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs politikára vonatkozik, jelentős számadatokat tartalmaz, amelyek fontosak a közpolitikai diskurzusban, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:10.123648+00:00"
+    },
+    "information:information:19093": {
+      "hu_text": "Franciaország nem sérti a tengeri jogot azzal, hogy nem akadályoz meg minden túlzsúfolt gumicsónakot, amely elhagyja partjait. Az UNCLOS 98. cikke segítséget ír elő a bajba jutottaknak a tengeren és kereső-mentő szolgálatok fenntartását, de nem ír elő kötelezettséget az összes szabálytalan migráció megakadályozására.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt jogi értelmezést tartalmaz a határbiztonsági intézkedésekről, ami fontos a migrációs szabályozás szempontjából, de nincs hivatalos jogi megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:10.123666+00:00"
+    },
+    "information:information:19095": {
+      "hu_text": "Az indiai menekültek nem tudnak máshová menekülni, mert nincs áteresztő szárazföldi határ vagy rövid tengeri út nyugatra. Ellenséges környezetben élnek, és vagy itt élnek, vagy meghalnak ebben a földben.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt személyes véleményt és helyzetleírást tartalmaz az indiai menekültek mozgásáról, ami fontos a migrációs szándék megértéséhez, de nincs tényellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:10.123670+00:00"
+    },
+    "information:information:19104": {
+      "hu_text": "Franciaország már meghosszabbította a belső schengeni határellenőrzéseket 2027 áprilisáig, hivatkozva az irreguláris migrációra, csempész hálózatokra és biztonsági fenyegetésekre. Több rendfenntartó tisztviselőt vezényelnek az északi partokra, ahol több mint 50 000 Csatorna-átkelési kísérletet akadályoztak meg.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a határbiztonsági intézkedésekről és migrációs nyomásról, de nincs hivatalos megerősítés vagy forrás megjelölve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:10.123674+00:00"
+    },
+    "information:information:19097": {
+      "hu_text": "Valaki azt állítja, hogy itt senki nem érkezik hajón, de a posztoló szerint legalább 15 ember van a helyszínen, és példaként említi a Wester Hailes hajós migránst, aki késeléses támadást követett el, és ott dolgozik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vitás, személyes beszélgetés egy migrációs incidensről, nincs bizonyított tény vagy hivatalos adat, inkább társadalmi diskurzus része.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:10.123677+00:00"
+    },
+    "information:information:19098": {
+      "hu_text": "Az angol nyelv sokféle lehet: homályos, vicces, szarkasztikus vagy pontos. Ne nevezzük őket migránsoknak vagy menedékkérőknek, mert nem azok. A migránsok és menedékkérők légikikötőkön és tengeri kikötőkön érkeznek. Az illegális bevándorlók több mint 2000 fontot fizetnek egy gumicsónakos átkelésért.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt definíciós és társadalmi megkülönböztetéseket tartalmaz a migránsokról, valamint állít egy összeget az embercsempészet költségéről, de nincs forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:10.123681+00:00"
     }
   },
   "legacy_reviews": {
