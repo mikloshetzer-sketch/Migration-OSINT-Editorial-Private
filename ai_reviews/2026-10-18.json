@@ -397,6 +397,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:19.912398+00:00"
+    },
+    "information:information:19041": {
+      "hu_text": "Veszélyes migrációs útvonal: fiatalok szörnyű beszámolói az embercsempészek áldozataiként.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az embercsempészet súlyos migrációs probléma, a fiatalok veszélyeztetettsége miatt kiemelten fontos a tények ellenőrzése.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:27.046442+00:00"
+    },
+    "information:information:19296": {
+      "hu_text": "Ez a szöveg egy szürreális, abszurd jelenetekből álló történetet mesél el, amely nem tartalmaz migrációs információt vagy releváns adatot.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációhoz, így nincs szükség ellenőrzésre vagy kiemelt figyelemre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:27.046460+00:00"
+    },
+    "information:information:18962": {
+      "hu_text": "Egy reformpárti képviselőjelölt a migránsok számára „koncentrációs táborok” létrehozását szorgalmazza, ami vitatott és erősen megosztó álláspont.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A politikai diskurzusban megjelenő szélsőséges javaslatok migrációs társadalmi feszültségeket jeleznek, ezért fontos az állítások ellenőrzése és kontextusba helyezése.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:27.046466+00:00"
+    },
+    "information:information:18963": {
+      "hu_text": "Egy felhasználó erősen negatív véleményt fogalmaz meg a migránsokról, terroristaként és bűnözőként bélyegezve meg őket, és katonai beavatkozást követel.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A társadalmi diskurzusban megjelenő gyűlöletkeltő és erőszakos retorika migrációs feszültségeket növelhet, ezért fontos az állítások ellenőrzése és a manipulációgyanú vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:27.046470+00:00"
+    },
+    "information:information:18958": {
+      "hu_text": "Egy felhasználó vitatja, hogy a migránsok dokumentumok nélkül élnek Dél-Afrikában, és kérdőjelezi meg a hivatalos eljárásokat a határon és menekülttáborokban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A migrációs adminisztrációval kapcsolatos állítások társadalmi vitát generálhatnak, de konkrét tényeket nem tartalmaznak, ezért ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:27.046474+00:00"
+    },
+    "information:information:18893": {
+      "hu_text": "Litvánia 35 afgán és iraki migránst tartóztatott fel a fehérorosz határ átlépése után.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről van szó, amely fontos a határbiztonsági és migrációs helyzet megértéséhez, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:27.046478+00:00"
     }
   },
   "legacy_reviews": {
