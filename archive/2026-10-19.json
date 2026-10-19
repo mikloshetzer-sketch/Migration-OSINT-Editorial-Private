@@ -929,6 +929,327 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1085,
+      "source": "X",
+      "source_post_id": "2112108595353428281",
+      "author": "docrussjackson",
+      "language": "en",
+      "published_at": "2026-10-19T09:08:24Z",
+      "first_detected_at": "2026-10-19T09:27:57Z",
+      "last_detected_at": "2026-10-19T09:27:57Z",
+      "detection_count": 1,
+      "text": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "text_excerpt": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "source_url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1083,
+      "source": "X",
+      "source_post_id": "2112108433294172264",
+      "author": "daphnetoli",
+      "language": "en",
+      "published_at": "2026-10-19T09:07:46Z",
+      "first_detected_at": "2026-10-19T09:24:25Z",
+      "last_detected_at": "2026-10-19T09:24:25Z",
+      "detection_count": 1,
+      "text": "Six people, incl. an infant, died after a speedboat carrying migrants collided with a Greek CG patrol vessel off Lesbos, authorities said. Eight people were rescued and taken to hospital. \n\nA Turkish national, suspected of piloting the boat and smuggling migrants, was arrested.",
+      "text_excerpt": "Six people, incl. an infant, died after a speedboat carrying migrants collided with a Greek CG patrol vessel off Lesbos, authorities said. Eight people were rescued and taken to hospital. \n\nA Turkish national, suspected of piloting the boat and smuggling migrants, was arrested.",
+      "url": "https://x.com/daphnetoli/status/2112108433294172264",
+      "source_url": "https://x.com/daphnetoli/status/2112108433294172264",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.5,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "facilitation",
+          "smuggling migrants"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1084,
+      "source": "X",
+      "source_post_id": "2112107824549421531",
+      "author": "lilbootlegkid",
+      "language": "en",
+      "published_at": "2026-10-19T09:05:21Z",
+      "first_detected_at": "2026-10-19T09:24:26Z",
+      "last_detected_at": "2026-10-19T09:24:26Z",
+      "detection_count": 1,
+      "text": "BREAKING: 12 migrants, including an infant, died in two Aegean incidents off Greece early Monday — a speedboat hit a coast guard vessel off Lesvos, another boat capsized off Samos. 22 rescued, officials say. @Reuters #Greece #BreakingNews",
+      "text_excerpt": "BREAKING: 12 migrants, including an infant, died in two Aegean incidents off Greece early Monday — a speedboat hit a coast guard vessel off Lesvos, another boat capsized off Samos. 22 rescued, officials say. @Reuters #Greece #BreakingNews",
+      "url": "https://x.com/lilbootlegkid/status/2112107824549421531",
+      "source_url": "https://x.com/lilbootlegkid/status/2112107824549421531",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.0,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1082,
+      "source": "X",
+      "source_post_id": "2112111612182094246",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T09:20:24Z",
+      "first_detected_at": "2026-10-19T09:24:25Z",
+      "last_detected_at": "2026-10-19T09:24:25Z",
+      "detection_count": 1,
+      "text": "@PriddyUglee @wiesiede At least 7 European countries have seen notable protests against mass or illegal migration in 2025-2026, including the UK (ongoing hotel and small-boat demos), Ireland (Dublin, Cork and migrant-centre rallies), Spain (Madrid after the Ceuta surge), Italy (Rome and Milan",
+      "text_excerpt": "@PriddyUglee @wiesiede At least 7 European countries have seen notable protests against mass or illegal migration in 2025-2026, including the UK (ongoing hotel and small-boat demos), Ireland (Dublin, Cork and migrant-centre rallies), Spain (Madrid after the Ceuta surge), Italy (Rome and Milan",
+      "url": "https://x.com/grok/status/2112111612182094246",
+      "source_url": "https://x.com/grok/status/2112111612182094246",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "surge"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant",
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "surge"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1086,
+      "source": "X",
+      "source_post_id": "2112106629940564289",
+      "author": "Ram_2468",
+      "language": "en",
+      "published_at": "2026-10-19T09:00:36Z",
+      "first_detected_at": "2026-10-19T09:27:58Z",
+      "last_detected_at": "2026-10-19T09:27:58Z",
+      "detection_count": 1,
+      "text": "Again im saying Telugus got \nTwo Andhra states saying we cant live with Tamizh\n\nNow u want telugu in Tamilnadu?\n\nU playing double game &amp; portray Tamils like bad people?😡😡\n\nThis is the reason you getting\nMore hate from tamils\n\nThis migrants population is later arrived https://t.co/o3Qb9CjqdT",
+      "text_excerpt": "Again im saying Telugus got \nTwo Andhra states saying we cant live with Tamizh\n\nNow u want telugu in Tamilnadu?\n\nU playing double game &amp; portray Tamils like bad people?😡😡\n\nThis is the reason you getting\nMore hate from tamils\n\nThis migrants population is later arrived https://t.co/o3Qb9CjqdT",
+      "url": "https://x.com/Ram_2468/status/2112106629940564289",
+      "source_url": "https://x.com/Ram_2468/status/2112106629940564289",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants population is later arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants population is later arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1859,6 +2180,327 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1085,
+      "source": "X",
+      "source_post_id": "2112108595353428281",
+      "author": "docrussjackson",
+      "language": "en",
+      "published_at": "2026-10-19T09:08:24Z",
+      "first_detected_at": "2026-10-19T09:27:57Z",
+      "last_detected_at": "2026-10-19T09:27:57Z",
+      "detection_count": 1,
+      "text": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "text_excerpt": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "source_url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1083,
+      "source": "X",
+      "source_post_id": "2112108433294172264",
+      "author": "daphnetoli",
+      "language": "en",
+      "published_at": "2026-10-19T09:07:46Z",
+      "first_detected_at": "2026-10-19T09:24:25Z",
+      "last_detected_at": "2026-10-19T09:24:25Z",
+      "detection_count": 1,
+      "text": "Six people, incl. an infant, died after a speedboat carrying migrants collided with a Greek CG patrol vessel off Lesbos, authorities said. Eight people were rescued and taken to hospital. \n\nA Turkish national, suspected of piloting the boat and smuggling migrants, was arrested.",
+      "text_excerpt": "Six people, incl. an infant, died after a speedboat carrying migrants collided with a Greek CG patrol vessel off Lesbos, authorities said. Eight people were rescued and taken to hospital. \n\nA Turkish national, suspected of piloting the boat and smuggling migrants, was arrested.",
+      "url": "https://x.com/daphnetoli/status/2112108433294172264",
+      "source_url": "https://x.com/daphnetoli/status/2112108433294172264",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.5,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "facilitation",
+          "smuggling migrants"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1084,
+      "source": "X",
+      "source_post_id": "2112107824549421531",
+      "author": "lilbootlegkid",
+      "language": "en",
+      "published_at": "2026-10-19T09:05:21Z",
+      "first_detected_at": "2026-10-19T09:24:26Z",
+      "last_detected_at": "2026-10-19T09:24:26Z",
+      "detection_count": 1,
+      "text": "BREAKING: 12 migrants, including an infant, died in two Aegean incidents off Greece early Monday — a speedboat hit a coast guard vessel off Lesvos, another boat capsized off Samos. 22 rescued, officials say. @Reuters #Greece #BreakingNews",
+      "text_excerpt": "BREAKING: 12 migrants, including an infant, died in two Aegean incidents off Greece early Monday — a speedboat hit a coast guard vessel off Lesvos, another boat capsized off Samos. 22 rescued, officials say. @Reuters #Greece #BreakingNews",
+      "url": "https://x.com/lilbootlegkid/status/2112107824549421531",
+      "source_url": "https://x.com/lilbootlegkid/status/2112107824549421531",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.0,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1082,
+      "source": "X",
+      "source_post_id": "2112111612182094246",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T09:20:24Z",
+      "first_detected_at": "2026-10-19T09:24:25Z",
+      "last_detected_at": "2026-10-19T09:24:25Z",
+      "detection_count": 1,
+      "text": "@PriddyUglee @wiesiede At least 7 European countries have seen notable protests against mass or illegal migration in 2025-2026, including the UK (ongoing hotel and small-boat demos), Ireland (Dublin, Cork and migrant-centre rallies), Spain (Madrid after the Ceuta surge), Italy (Rome and Milan",
+      "text_excerpt": "@PriddyUglee @wiesiede At least 7 European countries have seen notable protests against mass or illegal migration in 2025-2026, including the UK (ongoing hotel and small-boat demos), Ireland (Dublin, Cork and migrant-centre rallies), Spain (Madrid after the Ceuta surge), Italy (Rome and Milan",
+      "url": "https://x.com/grok/status/2112111612182094246",
+      "source_url": "https://x.com/grok/status/2112111612182094246",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "surge"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant",
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "surge"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1086,
+      "source": "X",
+      "source_post_id": "2112106629940564289",
+      "author": "Ram_2468",
+      "language": "en",
+      "published_at": "2026-10-19T09:00:36Z",
+      "first_detected_at": "2026-10-19T09:27:58Z",
+      "last_detected_at": "2026-10-19T09:27:58Z",
+      "detection_count": 1,
+      "text": "Again im saying Telugus got \nTwo Andhra states saying we cant live with Tamizh\n\nNow u want telugu in Tamilnadu?\n\nU playing double game &amp; portray Tamils like bad people?😡😡\n\nThis is the reason you getting\nMore hate from tamils\n\nThis migrants population is later arrived https://t.co/o3Qb9CjqdT",
+      "text_excerpt": "Again im saying Telugus got \nTwo Andhra states saying we cant live with Tamizh\n\nNow u want telugu in Tamilnadu?\n\nU playing double game &amp; portray Tamils like bad people?😡😡\n\nThis is the reason you getting\nMore hate from tamils\n\nThis migrants population is later arrived https://t.co/o3Qb9CjqdT",
+      "url": "https://x.com/Ram_2468/status/2112106629940564289",
+      "source_url": "https://x.com/Ram_2468/status/2112106629940564289",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants population is later arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants population is later arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -2142,6 +2784,68 @@
       "rules_version": "2.6",
       "priority_score": 50.1,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1085,
+      "source": "X",
+      "source_post_id": "2112108595353428281",
+      "author": "docrussjackson",
+      "language": "en",
+      "published_at": "2026-10-19T09:08:24Z",
+      "first_detected_at": "2026-10-19T09:27:57Z",
+      "last_detected_at": "2026-10-19T09:27:57Z",
+      "detection_count": 1,
+      "text": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "text_excerpt": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "source_url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "access_signals": [
@@ -2424,6 +3128,68 @@
       "longitude": null,
       "rules_version": "2.6",
       "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1085,
+      "source": "X",
+      "source_post_id": "2112108595353428281",
+      "author": "docrussjackson",
+      "language": "en",
+      "published_at": "2026-10-19T09:08:24Z",
+      "first_detected_at": "2026-10-19T09:27:57Z",
+      "last_detected_at": "2026-10-19T09:27:57Z",
+      "detection_count": 1,
+      "text": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "text_excerpt": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "source_url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
       "analyst_priority": "MEDIUM"
     }
   ],
@@ -2718,6 +3484,83 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1085,
+      "source": "X",
+      "source_post_id": "2112108595353428281",
+      "author": "docrussjackson",
+      "language": "en",
+      "published_at": "2026-10-19T09:08:24Z",
+      "first_detected_at": "2026-10-19T09:27:57Z",
+      "last_detected_at": "2026-10-19T09:27:57Z",
+      "detection_count": 1,
+      "text": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "text_excerpt": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "source_url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2112108595353428281"
+      ],
+      "related_authors": [
+        "docrussjackson"
+      ],
+      "related_urls": [
+        "https://x.com/docrussjackson/status/2112108595353428281"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "high_priority_intelligence": [
@@ -3007,9 +3850,86 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1085,
+      "source": "X",
+      "source_post_id": "2112108595353428281",
+      "author": "docrussjackson",
+      "language": "en",
+      "published_at": "2026-10-19T09:08:24Z",
+      "first_detected_at": "2026-10-19T09:27:57Z",
+      "last_detected_at": "2026-10-19T09:27:57Z",
+      "detection_count": 1,
+      "text": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "text_excerpt": "The front page of the billionaire-owned propaganda comic the Daily Mail promises to reveal the \"TRUE COST OF LABOUR MIGRATION DITHERING\". \n\nIt states \"at least 200,000 given right to remain since crackdown promise\", and a list of what settlement brings with it: benefits, NHS care https://t.co/XGBuN9IPv5",
+      "url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "source_url": "https://x.com/docrussjackson/status/2112108595353428281",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2112108595353428281"
+      ],
+      "related_authors": [
+        "docrussjackson"
+      ],
+      "related_urls": [
+        "https://x.com/docrussjackson/status/2112108595353428281"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T08:43:07.744516+00:00",
+  "last_archived_at": "2026-10-19T09:28:05.541813+00:00",
   "live_events": [
     {
       "id": 648,
@@ -3252,6 +4172,28 @@
       "text": "@benonwine Yeah.\n\nA recently arrived \"Refugee from Algeria\" was simply wanting to shop for cantaloupe and got caught in the cross fire of mostly peaceful student protests about class sizes.",
       "url": "https://x.com/DeleteLawz2024/status/2112095813342314939",
       "source_url": "https://x.com/DeleteLawz2024/status/2112095813342314939"
+    },
+    {
+      "id": 659,
+      "event_id": 659,
+      "source": "X",
+      "source_post_id": "2112104067434733694",
+      "author": "Clivedwilson",
+      "published_at": "2026-10-19T08:50:25Z",
+      "collected_at": "2026-10-19T09:27:58Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@Neccccy Take a good look at local councils \nHow many homeless people have been housed ?\nHow many newly arrived migrants have been housed ?\nThen you’ll realise the people Burnham wants to house\nVOTES RIGGING",
+      "url": "https://x.com/Clivedwilson/status/2112104067434733694",
+      "source_url": "https://x.com/Clivedwilson/status/2112104067434733694"
     }
   ],
   "event_groups": [
@@ -3428,6 +4370,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-19T07:09:48Z",
       "updated_at": "2026-10-19T07:09:48Z"
+    },
+    {
+      "id": 529,
+      "group_id": 529,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Neccccy Take a good look at local councils \nHow many homeless people have been housed ?\nHow many newly arrived migrants have been housed ?\nThen you’ll realise the people Burnham wants to house\nVOTES RIGGING",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-19T08:50:25Z",
+      "last_seen": "2026-10-19T08:50:25Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-19T09:27:58Z",
+      "updated_at": "2026-10-19T09:27:58Z"
     }
   ],
   "information_signals": [
@@ -4778,6 +5749,195 @@
       "influence_detected": false,
       "first_collected_at": "2026-10-19T08:41:45Z",
       "last_collected_at": "2026-10-19T08:41:45Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19578",
+      "timestamp": "2026-10-19T09:21:53Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112111987014398462",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2112111987014398462",
+      "source_url": "https://x.com/grok/status/2112111987014398462",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "boat",
+        "sea",
+        "interception",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "@votevforvictory @LizKershawDJ The claims mix partial technical distinctions with major inaccuracies.\n\nFrench non-interception of overloaded boats does not clearly breach SOLAS/SAR/UNCLOS, which require aid only for those in distress, not mandatory return of departures. French policy limits sea interventions",
+      "text_excerpt": "@votevforvictory @LizKershawDJ The claims mix partial technical distinctions with major inaccuracies.\n\nFrench non-interception of overloaded boats does not clearly breach SOLAS/SAR/UNCLOS, which require aid only for those in distress, not mandatory return of departures. French policy limits sea interventions",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T09:23:58Z",
+      "last_collected_at": "2026-10-19T09:23:58Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19583",
+      "timestamp": "2026-10-19T09:19:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112111354601439328",
+      "author": "EarlsfieldGirl",
+      "url": "https://x.com/EarlsfieldGirl/status/2112111354601439328",
+      "source_url": "https://x.com/EarlsfieldGirl/status/2112111354601439328",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "@SKinnock They were definitely coming in on lorries in massive numbers way past 2002. As you say, returns are a deterrent, so will you push for a deal with France so that *every* migrant crossing the channel gets sent straight back? They'd stop overnight, and likely leave France too.",
+      "text_excerpt": "@SKinnock They were definitely coming in on lorries in massive numbers way past 2002. As you say, returns are a deterrent, so will you push for a deal with France so that *every* migrant crossing the channel gets sent straight back? They'd stop overnight, and likely leave France too.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T09:23:59Z",
+      "last_collected_at": "2026-10-19T09:23:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19590",
+      "timestamp": "2026-10-19T09:08:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112108719815413930",
+      "author": "SABCNews",
+      "url": "https://x.com/SABCNews/status/2112108719815413930",
+      "source_url": "https://x.com/SABCNews/status/2112108719815413930",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "vessel",
+        "coast_guard"
+      ],
+      "freshness_cues": [],
+      "text": "Six migrants, including an infant, died after a speedboat carrying people from Turkey collided with a Greek coast guard vessel and overturned off the island of Lesvos early on Monday, Greek authorities said. https://t.co/QqP9FxodnG https://t.co/7kOcIVjTLr",
+      "text_excerpt": "Six migrants, including an infant, died after a speedboat carrying people from Turkey collided with a Greek coast guard vessel and overturned off the island of Lesvos early on Monday, Greek authorities said. https://t.co/QqP9FxodnG https://t.co/7kOcIVjTLr",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T09:24:25Z",
+      "last_collected_at": "2026-10-19T09:24:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19592",
+      "timestamp": "2026-10-19T09:06:13Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112108044096024733",
+      "author": "charles__tune",
+      "url": "https://x.com/charles__tune/status/2112108044096024733",
+      "source_url": "https://x.com/charles__tune/status/2112108044096024733",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "boat",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@panikpr @clashreport Whatever is happening to Europe is people like you voting it in. What does Israel or Jews have to with European leaders having difficulties deporting people from their countries? UK can drop the migrants coming by boat if they militarised the water border, but they can't do it.",
+      "text_excerpt": "@panikpr @clashreport Whatever is happening to Europe is people like you voting it in. What does Israel or Jews have to with European leaders having difficulties deporting people from their countries? UK can drop the migrants coming by boat if they militarised the water border, but they can't do it.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T09:24:25Z",
+      "last_collected_at": "2026-10-19T09:24:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19594",
+      "timestamp": "2026-10-19T09:04:30Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112107613823381628",
+      "author": "EuroNewsdotCo",
+      "url": "https://x.com/EuroNewsdotCo/status/2112107613823381628",
+      "source_url": "https://x.com/EuroNewsdotCo/status/2112107613823381628",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "vessel",
+        "coast_guard",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Tragedy unfolds off Lesbos as six migrants, including an infant, lose their lives in a speedboat collision with a Greek coast guard vessel, prompting officials to hold traffickers accountable. \n\n#Lesbos #MigrantCrisis #Greece\n\nhttps://t.co/mWmLxEyM2i https://t.co/wiM3utmLcB",
+      "text_excerpt": "Tragedy unfolds off Lesbos as six migrants, including an infant, lose their lives in a speedboat collision with a Greek coast guard vessel, prompting officials to hold traffickers accountable. \n\n#Lesbos #MigrantCrisis #Greece\n\nhttps://t.co/mWmLxEyM2i https://t.co/wiM3utmLcB",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T09:24:26Z",
+      "last_collected_at": "2026-10-19T09:24:26Z",
       "collection_count": 1
     }
   ]
