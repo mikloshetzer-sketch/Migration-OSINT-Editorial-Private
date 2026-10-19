@@ -595,6 +595,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:45.463994+00:00"
+    },
+    "record:2111792317325795478": {
+      "hu_text": "Ez az útvonal folyamatosan kurd családokat követel. Egy Törökországból Görögországba tartó hajó éjszaka elsüllyedt Agathonissi közelében, 16 ember halt meg. Egy másik hajó a Marica folyón, ugyanazon a határon felborult, 3 halott és 7 eltűnt. Az IOM eltűnt migránsokat számláló projektje 484 halott migránst tart nyilván.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét migrációs tragédiákat említ, amelyek jelentős emberi veszteséggel jártak, de nincs hivatalos forrás vagy megerősítés a részletekről, ezért fontos lenne ellenőrizni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:55.686173+00:00"
+    },
+    "record:2111788952130908443": {
+      "hu_text": "220 év telt el azóta, hogy 192 migráns érkezett a Fortitude hajón 1806-ban. Sok kínai-trinidadi család üzleteket és éttermeket épített kemény megtakarítással, költségtakarékossággal és a bevételek visszaforgatásával. Ez a türelem még mindig az egyik legjobb pénzügyi tanulság.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés történelmi migrációs eseményről és közösségi gazdasági fejlődésről szól, amely nem igényel sürgős ellenőrzést, és nincs konkrét állítás, ami vitatható lenne.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:55.686190+00:00"
+    },
+    "record:2111783476928160252": {
+      "hu_text": "Az összehasonlítás a menekültek kiutasításáról szól egy országból, nem pedig a menekültek teljes számáról. Talán a zavart az okozza, hogy a palesztinoknak különleges menekült definíciójuk van, amely szerint menekült az, aki legalább két évig élt Palesztinában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy politikai és fogalmi vitát tartalmaz a menekültstátusz definíciójáról, ami társadalmi diskurzus része, de nincs konkrét tényállítás, amit ellenőrizni kellene.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:55.686194+00:00"
+    },
+    "record:2111635008985411898": {
+      "hu_text": "Először is, a Biden-kormányzat több mint 20 millió migránst engedett be az országba, így Trump jobban teljesít Obamánál. Bezárta a határt, és jelentősen csökkentette az országba érkező drogokat, ti beteg liberálisok, vagy egy késői abortusz, ami tiszta gonoszság.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi vita a migrációs politikáról, amely erősen elfogult és érzelmi, de nincs konkrét tényállítás, amit ellenőrizni lehetne. A manipulációgyanú nem állapítható meg egyértelműen csak a szubjektív vélemény alapján.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:55.686198+00:00"
+    },
+    "group:522": {
+      "hu_text": "Rasszista muszlim üzletet mentettek meg azok, akik migránsokat mentenek, miközben az Egyesült Királyság elvette a földjüket!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés politikai és társadalmi véleményt tartalmaz, amely nem tartalmaz konkrét tényállítást vagy migrációs eseményt, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:55.686201+00:00"
+    },
+    "group:521": {
+      "hu_text": "Van gettószerű hely Angliában? Franciaországban minden nagyvárost körülvesznek úgynevezett banlieue-k, ahol az 1970-es években épült hatalmas lakótelepek vannak, amelyeket az újonnan érkezett migránsok laktak be. A legtöbb bűnöző ezekről a helyekről származik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt társadalmi diskurzust tartalmaz migránsok lakóhelyeiről és bűnözésről, amely sztereotípiákat fogalmaz meg, de nincs konkrét bizonyíték vagy hivatalos adat, ezért ellenőrzésre szorulhat a pontosság miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:55.686205+00:00"
     }
   },
   "legacy_reviews": {
