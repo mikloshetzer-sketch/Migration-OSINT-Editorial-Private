@@ -287,6 +287,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:56:30.466900+00:00"
+    },
+    "group:474": {
+      "hu_text": "VI. Fülöp spanyol király és Letícia királyné kedden meglátogatták az észak-afrikai Ceuta városát, miután júliusban mintegy 80 000 migráns lépte át Ceuta határát. A legtöbben visszatértek, de több ezren a városban maradtak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, konkrét számadatokat és helyszínt említ, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:39.163729+00:00"
+    },
+    "information:information:16892": {
+      "hu_text": "Az ENSZ Menekültügyi Főbiztosságának adatai szerint világszerte körülbelül 5,3 millió ukrán menekült van, többségük Európában (Németországban kb. 1,3 millió, Lengyelországban kb. 0,9 millió ideiglenes védelem alatt). Oroszország magas határátlépésekről számol be, de a hivatalos ideiglenes menedékjogi kérelmek száma csak kb. 92 ezer (2022-25). Az 5-6 milliós szám különböző adatokat kever össze.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részletes adatokat tartalmaz, de nincs közvetlen forrás vagy hivatalos megerősítés, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:39.163745+00:00"
+    },
+    "information:information:16902": {
+      "hu_text": "Egy komment szerint Egyiptom is ellenőrzi a légi és tengeri forgalmat Gázában, és a környező muszlim országok nem engednek be menekülteket. Izrael határőrizete érthető a Hamász fenyegetései miatt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés határbiztonsági és migrációs korlátozásokról szól, de nem hivatalos forrásból származik, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:39.163749+00:00"
+    },
+    "information:information:16914": {
+      "hu_text": "Kamerun és a Közép-afrikai Köztársaság egy 3 millió dolláros projektet indított a határon átnyúló kereskedelem növelésére, a regionális értékláncok megerősítésére és a közösségek lehetőségeinek javítására a fontos közlekedési folyosók mentén. A PAMOZ nevű projektet támogatja a WFP.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés fejlesztési projektről szól, amely közvetetten érintheti a migrációt, de nincs közvetlen migrációs esemény vagy adat, ezért alacsonyabb prioritású és ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:39.163752+00:00"
+    },
+    "information:information:16965": {
+      "hu_text": "Egy felhasználó köszönetet mondott, és elmondta, hogy soha nem állt a mentések ellen, még akkor sem, ha az emberek veszélybe sodorják magukat. Személyesen is látott mentéseket, például egy hajóút során, ahol a hajójuk két migránshajót mentett ki.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és tapasztalat megosztása, nem tényállítás vagy adat, ezért alacsony prioritású és ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:39.163755+00:00"
+    },
+    "information:information:16966": {
+      "hu_text": "Egy komment szerint nem lehet illegális migráns valaki, aki a tengeren van és még nem érkezett meg angol földre, ezért a másik fél téved.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy jogi értelmezés vagy vélemény, nem tényadat, ezért alacsony prioritású és ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:39.163758+00:00"
     }
   },
   "legacy_reviews": {}
