@@ -947,6 +947,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:06:22.369080+00:00"
+    },
+    "telegram:1604168769:12264": {
+      "hu_text": "Rostovban 514 migránst deportáltak. Rostov régióban az „Illegal-2026” ellenőrzések során 514 külföldi állampolgárnál találtak jogsértést a papírjaikban, ezért döntöttek az ország elhagyásukról. Ezeknek a személyeknek hivatalosan megtiltották az orosz területre való belépést, és összesen 5 millió rubel bírságot fizettek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét számokat és intézkedéseket közöl migránsok deportálásáról, ami fontos határbiztonsági esemény. Az állítások nem ellenőrzöttek, ezért magas prioritású a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:28.911103+00:00"
+    },
+    "telegram:1604168769:12265": {
+      "hu_text": "Moszkvában migrációs razziát tartottak. Moszkva északi körzetében végzett átfogó ellenőrzések során 1406 külföldi állampolgárral szemben szabálysértési jegyzőkönyvet állítottak ki. 338 személyt kiutasítanak az országból, további 842 személynek megtiltották az Oroszországba való belépést.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs razziáról és kiutasításokról számol be, ami jelentős határbiztonsági intézkedés. Az információk nem ellenőrzöttek, ezért fontos a hitelesség ellenőrzése.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:28.911121+00:00"
+    },
+    "telegram:1604168769:12259": {
+      "hu_text": "Migránsok szerepe az orosz gazdaságban. Alekszandr Guscsin, a Népek Barátsága Egyetemének posztszovjet térségi szakértője szerint az orosz munkaerőpiac jelen körülmények között nem működhet külföldi munkavállalók nélkül, és az olcsó munkaerő továbbra is fontos tényező.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt szakértői véleményt közöl a migránsok gazdasági szerepéről, ami háttérinformációként értékelhető. Az állítás nem tényellenőrzött, de nem sürgős a hitelesítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:28.911124+00:00"
     }
   },
   "legacy_reviews": {}
