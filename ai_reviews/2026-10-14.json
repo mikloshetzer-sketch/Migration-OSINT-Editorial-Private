@@ -683,6 +683,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:22.306941+00:00"
+    },
+    "information:information:17194": {
+      "hu_text": "\"Állítsuk meg a hajót\" könnyű szlogen, de a gyakorlatba ültetése nem egyszerű. Számos jogi buktató van. Azonban kétségtelen, hogy a legígéretesebb módja a cél elérésének az, ha minden illegális migránst őrizetbe vesznek, amint partra szállnak, ezzel megzavarva a folyamatot.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs politikai intézkedésről szól, de nem tartalmaz konkrét bizonyítékot, ezért ellenőrizetlen. Fontos a téma, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:30.641304+00:00"
+    },
+    "information:information:17198": {
+      "hu_text": "@mattjb1 @Axiomique @theswearygolfer @TheRealJamieKay De ők adóznak, nem kapnak segélyt, nem jöttek csónakon 300 társukkal, és ami a legfontosabb, útlevél-ellenőrzésen mentek keresztül belépéskor, de igen, ez ugyanaz, mint a „migráns” csónakosok esete.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és társadalmi vita része, nem tényállítás, ezért ellenőrizetlen. Közepes prioritású a migrációs diskurzus miatt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:30.641322+00:00"
+    },
+    "information:information:17239": {
+      "hu_text": "@mojorisn57 Tehát a milliárdosok birtokolják a galaxis felét és mindent irányítanak, de nem tudják egyszerűen lezárni a határt és kitoloncolni az embereket??? Olyan, mintha AKARNÁK, hogy a migránsok csökkentsék a munkavállalók béreit, haha.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és összeesküvés-elmélet jellegű állítás, nincs bizonyíték, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:30.641326+00:00"
+    },
+    "information:information:17241": {
+      "hu_text": "\"Nem itt az ideje, hogy a kormány elismerje, hogy ami az angol csatornában történik, az nemzetbiztonsági vészhelyzet?\" Nigel Farage, a Reform párt vezetője kihívja Andy Burnham miniszterelnököt a kis csónakos migránsátkelések kezelésében elért munkájukról.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai nyilatkozat nemzetbiztonsági kérdésről, fontos migrációs témában, de nincs bizonyíték, ezért ellenőrizetlen. Magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:30.641329+00:00"
+    },
+    "information:information:17246": {
+      "hu_text": "@BenGHPark @LabourfutureUK Andy Burnham miniszterelnök 84 napja.\nAz elmúlt 84 napban összesen 8 466 ember érkezett kis csónakokon. Több mint 100 naponta. (Gyors számítás)\nStarmer 745 napja\n65 000 migráns érkezett kis csónakos átkeléssel Keir Starmer 745 napja alatt az Egyesült Királyságba.\nNaponta 87, ami kevesebb, mint 100.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Számadatokat tartalmaz migrációs eseményekről, de nincs forrás vagy bizonyíték, ezért ellenőrizetlen. Közepes prioritású a téma miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:30.641332+00:00"
+    },
+    "information:information:17247": {
+      "hu_text": "Képzeld el, ha Marine Le Pen nyerne Franciaországban és a Reform párt Nagy-Britanniában. Mi történne az illegális migránsokkal és a kis csónakos átkelésekkel?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai spekuláció migrációs témában, nincs bizonyíték, ezért ellenőrizetlen. Közepes prioritású a társadalmi diskurzus miatt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:30.641334+00:00"
     }
   },
   "legacy_reviews": {}
