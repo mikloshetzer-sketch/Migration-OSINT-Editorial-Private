@@ -507,6 +507,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:45:43.742972+00:00"
+    },
+    "information:information:18051": {
+      "hu_text": "@policylaila Támogatod a rendőrséget, miközben buzdítod a gyűlöletet és zavargásokat szítasz a „stop the boats” retorikáddal. Azt állítod, hogy embereket fognak kirángatni otthonaikból, hogy kitoloncolják őket, és a hadsereget küldik, hogy a tengeren lőjék le a migránsokat?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és állításokat tartalmaz, amelyek nem bizonyítottak, és nem áll rendelkezésre megbízható bizonyíték a tartalom igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:54.936373+00:00"
+    },
+    "information:information:18335": {
+      "hu_text": "2019-ben Trump hivatalnokai vizsgálták Omar képviselőt, de nem találtak állampolgársági problémákat. Egy politikai kinevezett a Trump-kormányzat első évében kérte az amerikai bevándorlási hatóságokat, hogy vizsgálják át Ilhan Omar bevándorlási nyilvántartásait csalás gyanúja miatt, ami szokatlan volt. A Homeland Security Investigations nem talált elegendő bizonyítékot a szabálytalanságra, így a teljes vizsgálatot elvetették. Most, Trump visszatérésével újra vizsgálat indult ugyanazokkal az állításokkal kapcsolatban, amelyek korábban nem voltak megalapozottak. A jelenlegi vizsgálat Omar és apja papírjainak esetleges hamisítására fókuszál.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés részletes információkat tartalmaz hivatalos vizsgálatokról, amelyek egy részét korábbi források is megerősítik, de a jelenlegi vizsgálat eredménye még nem ismert, ezért csak részben ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:54.936389+00:00"
+    },
+    "information:information:17973": {
+      "hu_text": "@SimonFredCCP @4all2bkind @PierrePoilievre Az ismertetett részletek egyeznek a The Breach és Le Devoir 2025-ös jelentéseivel. Galindo Prato 2017-ben Venezuelában elítélték egy drogcsempész szökésének segítéséért, hat hónapot töltött börtönben; ő politikai okokra hivatkozik. 2004-ben lépett be Kanadába (2007-es kitoloncolási határozat után távozott).",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét adatokat közöl egy személy múltjáról, de nem áll rendelkezésre független, megbízható forrás az állítások megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:54.936392+00:00"
+    },
+    "information:information:17974": {
+      "hu_text": "@SimonFredCCP @M__I__K__E___ @PierrePoilievre José Gerardo Galindo Prato adatai egyeznek a The Breach és National Observer jelentéseivel: korábbi kanadai belépés és távozás elutasított menedékkérelem után, 2017-es venezuelai elítélés fogvatartott szökésének segítéséért (ő politikainak nevezi), 2018-as Roxham átkelés, és Anaida 2021-es segítsége.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több forrásra hivatkozik, de az állítások független ellenőrzése hiányzik, ezért nem tekinthető teljesen megerősítettnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:54.936394+00:00"
+    },
+    "information:information:17976": {
+      "hu_text": "@realms94 @JJXZWYBLYY Az ENSZ arra kérte Thaiföldet, hogy nyisson menekülttábort THAIFÖLDÖN! Hogyan kérheti az ENSZ, hogy egy ország menekülttábort létesítsen egy másik országban?! Használd az eszed! Thaiföld több millió kambodzsai menekültet fogadott be, és jogunk van megvédeni a határt, és a többletet visszaküldeni hazájukba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés állítást tesz az ENSZ és Thaiföld menekültügyi gyakorlatáról, de nincs megbízható forrás vagy bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:54.936397+00:00"
     }
   },
   "legacy_reviews": {}
