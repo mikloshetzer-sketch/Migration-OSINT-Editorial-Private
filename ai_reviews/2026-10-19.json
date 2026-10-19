@@ -881,6 +881,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:30:29.597099+00:00"
+    },
+    "telegram:1688600455:1163": {
+      "hu_text": "Jelentkezzen online konzultációra a VluchtelingenWerk-nél, ha kérdése van pénzzel, lakhatással, egészséggel vagy munkával kapcsolatban, illetve jogi kérdései vannak a tartózkodási hellyel vagy az ideiglenes védelem irányelvével kapcsolatban. Az online találkozón a holland menekültügyi tanács munkatársa segít.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy online konzultációs lehetőséget hirdet menekültek számára, ami humanitárius támogatásnak tekinthető. Nem tartalmaz konkrét eseményt vagy intézkedést, és nincs megerősített forrása.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:22.369045+00:00"
+    },
+    "telegram:1604168769:12267": {
+      "hu_text": "Az IOM adatai szerint 2025-ben világszerte mintegy 8000 ember halt meg vagy tűnt el migrációs útvonalakon. Az illegális migráció és csalás veszélye nő, különösen, ha valaki okmányok nélkül, gyanús ígéreteknek bedőlve indul külföldre dolgozni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt súlyos migrációs kockázatokat említ, amelyek fontos társadalmi diskurzust jelentenek. Az állítások nem ellenőrzöttek, ezért magas prioritású a hitelesítésük.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:22.369066+00:00"
+    },
+    "telegram:1261826972:53608": {
+      "hu_text": "Három hír Ceutából: 1. A Guardia Civil megakadályozott egy migránsok átszállítását, a csempészek elmenekültek egy német rendszámú járművel és egy motoros csónakkal. 2. A Rampa de Abastos felújítása 7,2 millió eurós költségvetéssel indul, új kulturális létesítményekkel. 3. Ceuta standja a Fitur 2027-en technológiát, hagyományt és gasztronómiát ötvöz majd, 175 ezer eurós költségvetéssel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az első hír konkrét határbiztonsági eseményt ír le, ami migrációs jelentőségű. A többi hír nem migrációs, de a helyi fejlesztések közé tartozik. Az információk nem ellenőrzöttek, de relevánsak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:22.369071+00:00"
+    },
+    "telegram:1688600455:1164": {
+      "hu_text": "Így működik a saját lakás bérlése Hollandiában ideiglenes védelem alatt állóknak. A szabályokról és lehetőségekről ukránok számára szóló tájékoztatás érhető el, valamint online konzultációra lehet jelentkezni.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt tájékoztató jellegű, segíti a menekülteket a lakhatásban, de nem tartalmaz konkrét eseményt vagy intézkedést. Nincs megerősített forrás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:22.369075+00:00"
+    },
+    "telegram:1173707041:9528": {
+      "hu_text": "Az iraki Migrációs Minisztérium részt vett egy stratégiai vezetésről és döntéshozatalról szóló vitán a Nemzeti Védelmi Főiskolán, ahol a katonai és civil vezetők szerepét, a komplex válságok kezelését, valamint a mesterséges intelligencia alkalmazását is megvitatták a stratégiai döntéshozatal támogatására.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy politikai és stratégiai témájú eseményről számol be, amely közvetetten kapcsolódhat a migrációhoz, de nem tartalmaz konkrét migrációs intézkedést vagy eseményt. Az információ nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:22.369078+00:00"
+    },
+    "telegram:1173707041:9524": {
+      "hu_text": "Az iraki Anbár tartomány Migrációs Minisztériuma párbeszédet szervezett a visszatérők támogatására és a társadalmi kohézió erősítésére. A megbeszélésen a visszatérők integrációjának stratégiáját, a dokumentumhiányt, a megélhetési lehetőségek javítását és a helyi elfogadást tárgyalták, valamint ajánlásokat fogalmaztak meg a koordináció és a stabilitás előmozdítására.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy konkrét migrációs integrációs eseményről számol be, amely fontos humanitárius és társadalmi jelentőségű. Az információ nem ellenőrzött, de releváns a migrációs helyzet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:22.369080+00:00"
     }
   },
   "legacy_reviews": {}
