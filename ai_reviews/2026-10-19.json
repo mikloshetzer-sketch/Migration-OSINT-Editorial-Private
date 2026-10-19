@@ -1255,6 +1255,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:52:05.792844+00:00"
+    },
+    "information:information:19659": {
+      "hu_text": "@BubbyBlu29353 Emlékszem, amikor a Hmong menekültek elkezdtek megjelenni Minnesotában – fiatal voltam, és emlékszem, hogy az apám aggódott miattuk, hogy majd segélyen élnek, stb. 95% beilleszkedett! Én egy Hmong katolikus templomba jártam! A szomáliaiak azért jöttek, hogy lopjanak és csaljanak! KI KELL TOLNI MINDENKIT.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményt és általánosító állításokat tartalmaz migránsokról, de nincs bizonyíték az állítások igazolására vagy cáfolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:13.029354+00:00"
+    },
+    "information:information:19664": {
+      "hu_text": "Pillanatkép: egy kis hajós migráns egy csecsemőt tart a karjában, miközben túlzsúfolt gumicsónakot vezet a Csatornán át.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A leírás egy migrációs eseményt mutat be, de nincs további bizonyíték vagy részlet az esemény hitelességének ellenőrzéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:13.029374+00:00"
+    },
+    "information:information:19665": {
+      "hu_text": "Pillanatkép: egy kis hajós migráns egy csecsemőt tart a karjában, miközben túlzsúfolt gumicsónakot vezet a Csatornán át.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő információ ugyanarról az eseményről, nincs további bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:13.029378+00:00"
+    },
+    "information:information:19686": {
+      "hu_text": "@LeftFootFwd „Megkérdeztünk 50 migránst egy RNLI hajón a Csatorna közepén”…",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy migránsokkal folytatott interjúról szól, de nincs további információ vagy bizonyíték az állítás hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:13.029382+00:00"
+    },
+    "information:information:19687": {
+      "hu_text": "A Mail annyira kétségbeesetten próbálja előtérbe helyezni a migráns témát – itt egy történet, ami szeptember 27-én történt.\n\nPillanatkép: egy kis hajós migráns egy csecsemőt tart a karjában, miközben gumicsónakot vezet.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs eseményről szól, de a forrás elfogultsága miatt további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:13.029384+00:00"
+    },
+    "information:information:19689": {
+      "hu_text": "Tizenkét migráns meghalt az Égei-tengeri átkelések során, közölte a görög parti őrség.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesetekről szóló információ, amely humanitárius jelentőségű, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:13.029387+00:00"
     }
   },
   "legacy_reviews": {}
