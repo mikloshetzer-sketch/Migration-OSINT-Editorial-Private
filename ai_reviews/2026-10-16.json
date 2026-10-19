@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-16",
+  "reviews": {
+    "telegram:1261826972:53539": {
+      "hu_text": "A belügyminisztérium 41%-os növekedést jelez a szárazföldi migrációs nyomásban Ceutában, júliusi válság nélkül. A tengeri érkezések majdnem 13%-kal csökkentek, bár a kerítésen és a ceutai mólókon átkelő migránsok száma meghaladja a 4000-et.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A statisztikai adatokat egy hivatalos szerv közli, de nincs közvetlen bizonyíték vagy független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:54.601138+00:00"
+    },
+    "telegram:1261826972:53504": {
+      "hu_text": "Három hír Ceutából: 1. A felső bíróság megerősítette egy civil őr elítélését, aki drogkereskedőkkel működött együtt. 2. Videó egy kínos összetűzésről a rendőrség és a civil őrség között a ceutai invázió napján, ahol a belügyminisztérium hiányzó iránymutatásai miatt nem volt rend. 3. Egy terrorista kiutasítása, aki három rendőrt megtámadott, hogy elkerülje a visszatérést Marokkóba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több állítást tartalmazó hírek, amelyek súlyos vádakat és eseményeket közölnek, de nincs független megerősítés vagy hivatalos dokumentum, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:54.601153+00:00"
+    },
+    "telegram:1261826972:53519": {
+      "hu_text": "A ceutai orvosok panaszát a nép ügyvédje lezárta anélkül, hogy bármilyen kritikát fogalmazott volna meg az Ingesa egészségügyi szervezet felé. A határozat kiemeli a személyzet megerősítését és a migránsoknak nyújtott több mint 13 000 ellátást.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos szervezet döntését ismerteti, de nincs közvetlen bizonyíték vagy független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:54.601158+00:00"
+    },
+    "telegram:1261826972:53521": {
+      "hu_text": "Marlaska belügyminiszter védi a belügy munkáját Ceutában, és bejelenti a művelet második szakaszát, amely felgyorsítja a migránsok visszatoloncolási vagy menedékjogi eljárásait napi 100 ügyben.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Miniszteri nyilatkozatot tartalmaz, amely politikai és jogi intézkedéseket ismertet, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:54.601162+00:00"
+    },
+    "telegram:1261826972:53529": {
+      "hu_text": "Egy teljesen elrejtett migránsokból álló telep található a Monte Hacho hegyen, amely egy ponyva alatt és a növényzet között szinte észrevehetetlen. Egy helyi lakos panaszkodik a Ceuta erdőinek szeméttel való elárasztottságára és arra, hogy vannak olyan kunyhók, mint amiket korábban eltávolítottak a Trampolín területen.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi beszámolót és állítást tartalmaz, amely migránsok elrejtett telepéről szól, de nincs független bizonyíték vagy hivatalos megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:54.601165+00:00"
+    },
+    "telegram:1983050450:24842": {
+      "hu_text": "Oroszországgal kapcsolatos, több témát bemutató csatorna elérhetőségét kínálják, amely büntetéseket, határhelyzeteket, politikai nyilatkozatokat, korrupciós ügyeket, érkezési videókat és a televízióban elhallgatott eseményeket mutat be. A hozzáférés kizárólag a felhasználónak szól.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítások nem kapcsolódnak közvetlenül a migrációhoz vagy Ceutához, inkább egy oroszországi témájú csatorna reklámja, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:54.601169+00:00"
+    }
+  }
+}
