@@ -1740,6 +1740,304 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1096,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa0gwg",
+      "author": "emorgoral",
+      "language": null,
+      "published_at": "2026-10-19T15:47:32Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "text_excerpt": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "source_url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1098,
+      "source": "X",
+      "source_post_id": "2112221993697513508",
+      "author": "mollicksoif9",
+      "language": "en",
+      "published_at": "2026-10-19T16:39:01Z",
+      "first_detected_at": "2026-10-19T16:42:01Z",
+      "last_detected_at": "2026-10-19T16:42:01Z",
+      "detection_count": 1,
+      "text": "🌊 12 migrants dead in 2 Aegean crossings — including an infant\n\nA speedboat collided with a coast guard vessel off Lesbos; another boat capsized off Samos hours later.\n\nWHAT HAPPENED\n• Lesbos, ~3.5 nautical miles south of Agrilia: speedboat from Turkey hit a Greek coast guard https://t.co/MCfHE0rqtF",
+      "text_excerpt": "🌊 12 migrants dead in 2 Aegean crossings — including an infant\n\nA speedboat collided with a coast guard vessel off Lesbos; another boat capsized off Samos hours later.\n\nWHAT HAPPENED\n• Lesbos, ~3.5 nautical miles south of Agrilia: speedboat from Turkey hit a Greek coast guard https://t.co/MCfHE0rqtF",
+      "url": "https://x.com/mollicksoif9/status/2112221993697513508",
+      "source_url": "https://x.com/mollicksoif9/status/2112221993697513508",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1099,
+      "source": "X",
+      "source_post_id": "2112220905216905535",
+      "author": "Ajitsinhja11085",
+      "language": "en",
+      "published_at": "2026-10-19T16:34:41Z",
+      "first_detected_at": "2026-10-19T16:42:01Z",
+      "last_detected_at": "2026-10-19T16:42:01Z",
+      "detection_count": 1,
+      "text": "@nutan_gyan @Bhupendra26 @FGupta43275 @PNRATHOD1 @swetashandilya @Ravisha23624235 @surewrap @_kanhasakhi @rais70645 @apurvaparikh18 @GauravModified @Visalmama @ResurgentIndia @Am_dilip @bankim_jani @ChowkidarChokra @RameshwarAryaji @Dr_MR_Satapathy @amitrajseth @sanjeevchadha8 @sridhariyer5 @JaganNKaushik @nair_nandu08 @Savitritvs @GenPanwar @suniljha899 @laxmina08495619 @VineshGaba @umeshctyagi @sureshseshadri1 @Ravichiruvolu1 @ajitpj198 @sankhwar_sudesh @GeetaRaavi @shytigress @PCheppudira @LibtardsKaDoc @AjitsinhJagirda @chittukuruvi4 @shitul905 @_ankahi @neerangautam @DilipSr91824867 @macharajarao @kureel_ @rameshsrivats @rameshwararyaom Polish Politician Tells Illegal Migrants Border Guards Can Use Live Rounds &amp; They Will Be Shot Dead:\n\n“Our soldiers can use live bullets now. So do not come to Polish border. Do not harm our soldiers because you will be dead. Shot dead.”\n\nPoland is not Spain or France or UK. https://t.co/p0VHmZVFF7",
+      "text_excerpt": "@nutan_gyan @Bhupendra26 @FGupta43275 @PNRATHOD1 @swetashandilya @Ravisha23624235 @surewrap @_kanhasakhi @rais70645 @apurvaparikh18 @GauravModified @Visalmama @ResurgentIndia @Am_dilip @bankim_jani @ChowkidarChokra @RameshwarAryaji @Dr_MR_Satapathy @amitrajseth @sanjeevchadha8 @sridhariyer5 @JaganNKaushik @nair_nandu08 @Savitritvs @GenPanwar @suniljha899 @laxmina08495619 @VineshGaba @umeshctyagi @sureshseshadri1 @Ravichiruvolu1 @ajitpj198 @sankhwar_sudesh @GeetaRaavi @shytigress @PCheppudira @LibtardsKaDoc @AjitsinhJagirda @chittukuruvi4 @shitul905 @_ankahi @neerangautam @DilipSr91824867 @macharajarao @kureel_ @rameshsrivats @rameshwararyaom Polish Politician Tells Illegal Migrants Border Gu",
+      "url": "https://x.com/Ajitsinhja11085/status/2112220905216905535",
+      "source_url": "https://x.com/Ajitsinhja11085/status/2112220905216905535",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "enforcement",
+          "Border Guards"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1095,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa10jt",
+      "author": "each_thread",
+      "language": null,
+      "published_at": "2026-10-19T16:07:57Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "French Bonds, Stocks Drop as Far-Left, Migrant Riots Worsen — Macron Fails to Restore Order",
+      "text_excerpt": "French Bonds, Stocks Drop as Far-Left, Migrant Riots Worsen — Macron Fails to Restore Order",
+      "url": "https://www.reddit.com/r/conservativenews/comments/1xa10jt/french_bonds_stocks_drop_as_farleft_migrant_riots/",
+      "source_url": "https://www.reddit.com/r/conservativenews/comments/1xa10jt/french_bonds_stocks_drop_as_farleft_migrant_riots/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "Drop as Far-Left, Migrant"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [
+        "Drop as Far-Left, Migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1097,
+      "source": "X",
+      "source_post_id": "2112222295427014728",
+      "author": "GameEnders1_",
+      "language": "en",
+      "published_at": "2026-10-19T16:40:13Z",
+      "first_detected_at": "2026-10-19T16:42:00Z",
+      "last_detected_at": "2026-10-19T16:42:00Z",
+      "detection_count": 1,
+      "text": "@mattyglesias Part of the reason border enforcement can't co-exist with the immigration problem on the left, they are generally okay with mass gamed asylum/refugee claims, they just don't want deportations. But it's still somewhat a defacto open border which will hang that issue on them still.",
+      "text_excerpt": "@mattyglesias Part of the reason border enforcement can't co-exist with the immigration problem on the left, they are generally okay with mass gamed asylum/refugee claims, they just don't want deportations. But it's still somewhat a defacto open border which will hang that issue on them still.",
+      "url": "https://x.com/GameEnders1_/status/2112222295427014728",
+      "source_url": "https://x.com/GameEnders1_/status/2112222295427014728",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -3481,6 +3779,304 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1096,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa0gwg",
+      "author": "emorgoral",
+      "language": null,
+      "published_at": "2026-10-19T15:47:32Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "text_excerpt": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "source_url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1098,
+      "source": "X",
+      "source_post_id": "2112221993697513508",
+      "author": "mollicksoif9",
+      "language": "en",
+      "published_at": "2026-10-19T16:39:01Z",
+      "first_detected_at": "2026-10-19T16:42:01Z",
+      "last_detected_at": "2026-10-19T16:42:01Z",
+      "detection_count": 1,
+      "text": "🌊 12 migrants dead in 2 Aegean crossings — including an infant\n\nA speedboat collided with a coast guard vessel off Lesbos; another boat capsized off Samos hours later.\n\nWHAT HAPPENED\n• Lesbos, ~3.5 nautical miles south of Agrilia: speedboat from Turkey hit a Greek coast guard https://t.co/MCfHE0rqtF",
+      "text_excerpt": "🌊 12 migrants dead in 2 Aegean crossings — including an infant\n\nA speedboat collided with a coast guard vessel off Lesbos; another boat capsized off Samos hours later.\n\nWHAT HAPPENED\n• Lesbos, ~3.5 nautical miles south of Agrilia: speedboat from Turkey hit a Greek coast guard https://t.co/MCfHE0rqtF",
+      "url": "https://x.com/mollicksoif9/status/2112221993697513508",
+      "source_url": "https://x.com/mollicksoif9/status/2112221993697513508",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1099,
+      "source": "X",
+      "source_post_id": "2112220905216905535",
+      "author": "Ajitsinhja11085",
+      "language": "en",
+      "published_at": "2026-10-19T16:34:41Z",
+      "first_detected_at": "2026-10-19T16:42:01Z",
+      "last_detected_at": "2026-10-19T16:42:01Z",
+      "detection_count": 1,
+      "text": "@nutan_gyan @Bhupendra26 @FGupta43275 @PNRATHOD1 @swetashandilya @Ravisha23624235 @surewrap @_kanhasakhi @rais70645 @apurvaparikh18 @GauravModified @Visalmama @ResurgentIndia @Am_dilip @bankim_jani @ChowkidarChokra @RameshwarAryaji @Dr_MR_Satapathy @amitrajseth @sanjeevchadha8 @sridhariyer5 @JaganNKaushik @nair_nandu08 @Savitritvs @GenPanwar @suniljha899 @laxmina08495619 @VineshGaba @umeshctyagi @sureshseshadri1 @Ravichiruvolu1 @ajitpj198 @sankhwar_sudesh @GeetaRaavi @shytigress @PCheppudira @LibtardsKaDoc @AjitsinhJagirda @chittukuruvi4 @shitul905 @_ankahi @neerangautam @DilipSr91824867 @macharajarao @kureel_ @rameshsrivats @rameshwararyaom Polish Politician Tells Illegal Migrants Border Guards Can Use Live Rounds &amp; They Will Be Shot Dead:\n\n“Our soldiers can use live bullets now. So do not come to Polish border. Do not harm our soldiers because you will be dead. Shot dead.”\n\nPoland is not Spain or France or UK. https://t.co/p0VHmZVFF7",
+      "text_excerpt": "@nutan_gyan @Bhupendra26 @FGupta43275 @PNRATHOD1 @swetashandilya @Ravisha23624235 @surewrap @_kanhasakhi @rais70645 @apurvaparikh18 @GauravModified @Visalmama @ResurgentIndia @Am_dilip @bankim_jani @ChowkidarChokra @RameshwarAryaji @Dr_MR_Satapathy @amitrajseth @sanjeevchadha8 @sridhariyer5 @JaganNKaushik @nair_nandu08 @Savitritvs @GenPanwar @suniljha899 @laxmina08495619 @VineshGaba @umeshctyagi @sureshseshadri1 @Ravichiruvolu1 @ajitpj198 @sankhwar_sudesh @GeetaRaavi @shytigress @PCheppudira @LibtardsKaDoc @AjitsinhJagirda @chittukuruvi4 @shitul905 @_ankahi @neerangautam @DilipSr91824867 @macharajarao @kureel_ @rameshsrivats @rameshwararyaom Polish Politician Tells Illegal Migrants Border Gu",
+      "url": "https://x.com/Ajitsinhja11085/status/2112220905216905535",
+      "source_url": "https://x.com/Ajitsinhja11085/status/2112220905216905535",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "enforcement",
+          "Border Guards"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1095,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa10jt",
+      "author": "each_thread",
+      "language": null,
+      "published_at": "2026-10-19T16:07:57Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "French Bonds, Stocks Drop as Far-Left, Migrant Riots Worsen — Macron Fails to Restore Order",
+      "text_excerpt": "French Bonds, Stocks Drop as Far-Left, Migrant Riots Worsen — Macron Fails to Restore Order",
+      "url": "https://www.reddit.com/r/conservativenews/comments/1xa10jt/french_bonds_stocks_drop_as_farleft_migrant_riots/",
+      "source_url": "https://www.reddit.com/r/conservativenews/comments/1xa10jt/french_bonds_stocks_drop_as_farleft_migrant_riots/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "Drop as Far-Left, Migrant"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [
+        "Drop as Far-Left, Migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1097,
+      "source": "X",
+      "source_post_id": "2112222295427014728",
+      "author": "GameEnders1_",
+      "language": "en",
+      "published_at": "2026-10-19T16:40:13Z",
+      "first_detected_at": "2026-10-19T16:42:00Z",
+      "last_detected_at": "2026-10-19T16:42:00Z",
+      "detection_count": 1,
+      "text": "@mattyglesias Part of the reason border enforcement can't co-exist with the immigration problem on the left, they are generally okay with mass gamed asylum/refugee claims, they just don't want deportations. But it's still somewhat a defacto open border which will hang that issue on them still.",
+      "text_excerpt": "@mattyglesias Part of the reason border enforcement can't co-exist with the immigration problem on the left, they are generally okay with mass gamed asylum/refugee claims, they just don't want deportations. But it's still somewhat a defacto open border which will hang that issue on them still.",
+      "url": "https://x.com/GameEnders1_/status/2112222295427014728",
+      "source_url": "https://x.com/GameEnders1_/status/2112222295427014728",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -3826,6 +4422,68 @@
       "rules_version": "2.6",
       "priority_score": 50.65,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1096,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa0gwg",
+      "author": "emorgoral",
+      "language": null,
+      "published_at": "2026-10-19T15:47:32Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "text_excerpt": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "source_url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "access_signals": [
@@ -4151,6 +4809,68 @@
       "matched_groups": [],
       "context_matches": [
         "MIGRATION"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1096,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa0gwg",
+      "author": "emorgoral",
+      "language": null,
+      "published_at": "2026-10-19T15:47:32Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "text_excerpt": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "source_url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
       ],
       "high_value_matches": [
         "right to remain"
@@ -4538,6 +5258,83 @@
       ],
       "related_sources": [
         "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1096,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa0gwg",
+      "author": "emorgoral",
+      "language": null,
+      "published_at": "2026-10-19T15:47:32Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "text_excerpt": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "source_url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xa0gwg"
+      ],
+      "related_authors": [
+        "emorgoral"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/"
+      ],
+      "related_sources": [
+        "REDDIT"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -4984,9 +5781,86 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1096,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xa0gwg",
+      "author": "emorgoral",
+      "language": null,
+      "published_at": "2026-10-19T15:47:32Z",
+      "first_detected_at": "2026-10-19T16:41:30Z",
+      "last_detected_at": "2026-10-19T16:41:30Z",
+      "detection_count": 1,
+      "text": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "text_excerpt": "Energy Secretary attacks Mahmood’s migrant crackdown: Miatta Fahnbulleh warns extending wait for right to remain would threaten integration",
+      "url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "source_url": "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xa0gwg"
+      ],
+      "related_authors": [
+        "emorgoral"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/UKEarnedSettlement/comments/1xa0gwg/energy_secretary_attacks_mahmoods_migrant/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T14:08:37.207494+00:00",
+  "last_archived_at": "2026-10-19T16:43:37.290635+00:00",
   "live_events": [
     {
       "id": 648,
@@ -5295,6 +6169,72 @@
       "text": "Twelve Migrants Die in Two Boat Capsizings Off Greek Islands https://t.co/xntr4ZVwl3 Twelve migrants drown in two boat capsizing incidents near Greek islands. Suspected smugglers arrested. Zero tolerance for smugglers vows Greece. #MigrantCrisis #Lesbos #Samos",
       "url": "https://x.com/ShipNews/status/2112132260770074699",
       "source_url": "https://x.com/ShipNews/status/2112132260770074699"
+    },
+    {
+      "id": 664,
+      "event_id": 664,
+      "source": "X",
+      "source_post_id": "2112216603131818256",
+      "author": "i90tv",
+      "published_at": "2026-10-19T16:17:35Z",
+      "collected_at": "2026-10-19T16:43:32Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@SankaraDispatch There are many Black Africans in the Arabian Peninsula and the Gulf states—some arrived as free migrants, while others have roots in slavery. However, if you compare the treatment of enslaved Africans in Europe with those in the https://t.co/hm7ZEnhNj1",
+      "url": "https://x.com/i90tv/status/2112216603131818256",
+      "source_url": "https://x.com/i90tv/status/2112216603131818256"
+    },
+    {
+      "id": 663,
+      "event_id": 663,
+      "source": "X",
+      "source_post_id": "2112215950699147629",
+      "author": "telesurenglish",
+      "published_at": "2026-10-19T16:15:00Z",
+      "collected_at": "2026-10-19T16:42:32Z",
+      "event_type": "RESCUE_OPERATION",
+      "signal_type": "RESCUE_OPERATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Greek authorities confirmed that six people died and 14 others were rescued after a speedboat carrying migrants capsized off the island of Samos, hours after a separate collision between a migrant speedboat and a Greek coast guard patrol vessel off Lesvos left six people dead. https://t.co/kygx4S3My5",
+      "url": "https://x.com/telesurenglish/status/2112215950699147629",
+      "source_url": "https://x.com/telesurenglish/status/2112215950699147629"
+    },
+    {
+      "id": 662,
+      "event_id": 662,
+      "source": "TELEGRAM",
+      "source_post_id": "1983050450:24930",
+      "author": "migranty_draki",
+      "published_at": "2026-10-19T15:07:30Z",
+      "collected_at": "2026-10-19T16:41:31Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "Мигранты хотели ипотеку но получили срок\n\nДвое мигрантов во Владивостоке пытались накопить на первый взнос по льготной ипотеке, но вместо этого решили заработать на героине. Полицейские задержали 26-летнего Мастурбека, который в своей машине перевозил 105 граммов героина. Он признался, что направлялся за закладкой. Также установлена причастность к делу 25-летнего Оследжона. Оба задержаны и обвиняются в незаконном сбыте наркотиков в крупном размере. Им грозит от 10 до 20 лет тюрьмы.",
+      "url": "https://t.me/migranty_draki/24930",
+      "source_url": "https://t.me/migranty_draki/24930"
     }
   ],
   "event_groups": [
@@ -5500,6 +6440,93 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-19T09:27:58Z",
       "updated_at": "2026-10-19T09:27:58Z"
+    },
+    {
+      "id": 532,
+      "group_id": 532,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@SankaraDispatch There are many Black Africans in the Arabian Peninsula and the Gulf states—some arrived as free migrants, while others have roots in slavery. However, if you compare the treatment of enslaved Africans in Europe with those in the https://t.co/hm7ZEnhNj1",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-19T16:17:35Z",
+      "last_seen": "2026-10-19T16:17:35Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-19T16:43:32Z",
+      "updated_at": "2026-10-19T16:43:32Z"
+    },
+    {
+      "id": 531,
+      "group_id": 531,
+      "event_type": "RESCUE_OPERATION",
+      "dominant_event_type": "RESCUE_OPERATION",
+      "title": "RESCUE_OPERATION",
+      "representative_text": "Greek authorities confirmed that six people died and 14 others were rescued after a speedboat carrying migrants capsized off the island of Samos, hours after a separate collision between a migrant speedboat and a Greek coast guard patrol vessel off Lesvos left six people dead. https://t.co/kygx4S3My5",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-19T16:15:00Z",
+      "last_seen": "2026-10-19T16:15:00Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-19T16:42:32Z",
+      "updated_at": "2026-10-19T16:42:32Z"
+    },
+    {
+      "id": 530,
+      "group_id": 530,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "Мигранты хотели ипотеку но получили срок\n\nДвое мигрантов во Владивостоке пытались накопить на первый взнос по льготной ипотеке, но вместо этого решили заработать на героине. Полицейские задержали 26-летнего Мастурбека, который в своей машине перевозил 105 граммов героина. Он признался, что направлялся за закладкой. Также установлена причастность к делу 25-летнего Оследжона. Оба задержаны и обвиняются в незаконном сбыте наркотиков в крупном размере. Им грозит от 10 до 20 лет тюрьмы.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-19T15:07:30Z",
+      "last_seen": "2026-10-19T15:07:30Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "TELEGRAM"
+      ],
+      "sources": [
+        "TELEGRAM"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-19T16:41:31Z",
+      "updated_at": "2026-10-19T16:41:31Z"
     }
   ],
   "information_signals": [
@@ -7900,6 +8927,237 @@
       "influence_detected": false,
       "first_collected_at": "2026-10-19T14:07:19Z",
       "last_collected_at": "2026-10-19T14:07:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19811",
+      "timestamp": "2026-10-19T16:33:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112220568116142576",
+      "author": "faithfulsoul70",
+      "url": "https://x.com/faithfulsoul70/status/2112220568116142576",
+      "source_url": "https://x.com/faithfulsoul70/status/2112220568116142576",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@RepBeccaB This coming from the party that lost est. 450k migrant kids at the border. \nGave them away to strangers, traffickers &amp; God knows who. \nThat's not only sick-- it is reckless &amp; disgusting. \nAnd DEMOCRATS OWN IT. \nSit down, hag. https://t.co/uBuWk7D8d7",
+      "text_excerpt": "@RepBeccaB This coming from the party that lost est. 450k migrant kids at the border. \nGave them away to strangers, traffickers &amp; God knows who. \nThat's not only sick-- it is reckless &amp; disgusting. \nAnd DEMOCRATS OWN IT. \nSit down, hag. https://t.co/uBuWk7D8d7",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T16:42:01Z",
+      "last_collected_at": "2026-10-19T16:42:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19814",
+      "timestamp": "2026-10-19T16:29:25Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112219580131164171",
+      "author": "ghostbuster658",
+      "url": "https://x.com/ghostbuster658/status/2112219580131164171",
+      "source_url": "https://x.com/ghostbuster658/status/2112219580131164171",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "@unusual_whales France with open borders doesn’t exist bthw except for few hundreds every now and then some refugees from Africa come by the sea",
+      "text_excerpt": "@unusual_whales France with open borders doesn’t exist bthw except for few hundreds every now and then some refugees from Africa come by the sea",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T16:42:31Z",
+      "last_collected_at": "2026-10-19T16:42:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19815",
+      "timestamp": "2026-10-19T16:22:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112217782787916280",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2112217782787916280",
+      "source_url": "https://x.com/grok/status/2112217782787916280",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@TslaPopInvestor @Flavius_Cons @_BRCooper @lporiginalg Sea arrivals data matches official sources: 4406 in 2010, 170100 in 2014, 181436 in 2016 from Italian Ministry of Interior and UNHCR. The 2011 Business Insider piece correctly quotes Gaddafi's France 24 warning about Mediterranean migrant routes after his potential fall.",
+      "text_excerpt": "@TslaPopInvestor @Flavius_Cons @_BRCooper @lporiginalg Sea arrivals data matches official sources: 4406 in 2010, 170100 in 2014, 181436 in 2016 from Italian Ministry of Interior and UNHCR. The 2011 Business Insider piece correctly quotes Gaddafi's France 24 warning about Mediterranean migrant routes after his potential fall.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T16:42:31Z",
+      "last_collected_at": "2026-10-19T16:42:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19831",
+      "timestamp": "2026-10-19T16:18:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112216793125175471",
+      "author": "SothoDudu",
+      "url": "https://x.com/SothoDudu/status/2112216793125175471",
+      "source_url": "https://x.com/SothoDudu/status/2112216793125175471",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "And it doesn't end there! The same AU policy framework recognises the links between illegal immigration and transnational organised crime, including human trafficking and migrant smuggling. It also raises concerns about terrorism and cross border criminal networks.\n\nSo why does https://t.co/BMlQ00eo9A",
+      "text_excerpt": "And it doesn't end there! The same AU policy framework recognises the links between illegal immigration and transnational organised crime, including human trafficking and migrant smuggling. It also raises concerns about terrorism and cross border criminal networks.\n\nSo why does https://t.co/BMlQ00eo9A",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T16:43:02Z",
+      "last_collected_at": "2026-10-19T16:43:02Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19833",
+      "timestamp": "2026-10-19T16:16:43Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112216384495108466",
+      "author": "PourLeMerite",
+      "url": "https://x.com/PourLeMerite/status/2112216384495108466",
+      "source_url": "https://x.com/PourLeMerite/status/2112216384495108466",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "sea",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Yes I get it\n\nRussia has weaponised mass migration as part of Putin's hybrid war against the West\n\nKremlin-backed PMC Wagner is enabling people trafficking across the Sahel to Libya and Med Sea and from the Middle East via the Balkans\n\nThe routes are known and under surveillance https://t.co/mhjS8qCkUP",
+      "text_excerpt": "Yes I get it\n\nRussia has weaponised mass migration as part of Putin's hybrid war against the West\n\nKremlin-backed PMC Wagner is enabling people trafficking across the Sahel to Libya and Med Sea and from the Middle East via the Balkans\n\nThe routes are known and under surveillance https://t.co/mhjS8qCkUP",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T16:43:02Z",
+      "last_collected_at": "2026-10-19T16:43:02Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19812",
+      "timestamp": "2026-10-19T14:28:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9ydv7",
+      "author": "Rude-Result7362",
+      "url": "https://www.reddit.com/r/jenova_ai/comments/1x9ydv7/academic_theologian_ai_doctrine_texts_comparative/",
+      "source_url": "https://www.reddit.com/r/jenova_ai/comments/1x9ydv7/academic_theologian_ai_doctrine_texts_comparative/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "today",
+        "now"
+      ],
+      "text": "Academic Theologian AI: Doctrine, Texts & Comparative Theology\nAcademic Theologian is an AI research partner for theology students and scholars. It reconstructs arguments, reads sacred texts within their interpretive traditions, and compares religions rigorously. Theological study now spans Christian, Islamic, Jewish, Hindu, Buddhist, Sikh, Jain, and indigenous thought, and few resources cover that range at seminar depth. This AI covers it, and it adjusts its register to your level. ✅ Covers every major tradition. Christian, Islamic kalām, Jewish, Vedantic, Buddhist, Sikh, Jain, Zoroastrian, and indigenous thought, with no tradition treated as the default. ✅ Reconstructs arguments. It lays out premises, textual grounding, and stakes rather than summarizing. ✅ Adjusts to your level. It shifts between accessible explanation and peer-level academic exchange. ✅ Keeps scholarship separate from devotion. It does analysis, not spiritual direction, and says which mode it is working in. To understand why a dedicated theological research partner matters, consider the conditions facing theology students, divinity faculty, and religious studies researchers today. Enrollment patterns are shifting and delivery models are changing. The traditions under study increasingly meet one another in classrooms, congregations, and public life. Quick Answer: What Is Academic Theologian? Academic Theologian is an AI-powered scholarly partner that analyzes theological arguments, sacred texts, and doctrinal history across world religions. It helps students and researchers understand, compare, and evaluate theology at any academic level. Key capabilities: Reconstructs positions on their own terms, from Aquinas's Five Ways to Nagarjuna's prasaṅga dialectic, before evaluating them Maps scholarly debates and states where consensus is strong, where it is contested, and where a claim falls outside mainstream scholarship Flags original-language concepts such as ousia , tawhid , brahman , and dukkha and explains why translation choices carry theological weight Searches for recent scholarship when current debates matter, and produces essays, bibliographies, and comparison tables as documents The Problem: Theology Has Outgrown the Single-Tradition Toolkit Theological education is changing. The Association of Theological Schools' 2025–2026 Annual Data Tables track fall 2025 enrollment across member schools. Individual institutions report notable growth alongside changes in how students learn. 57% — Growth in degree-seeking enrollment at United Theological Seminary of the Twin Cities between fall 2020 and fall 2025 Delivery models are changing at the same time. Commentary on the 2026 ATS report notes that church-based training, digital cohorts, mentoring structures, and flexible learning are becoming more common . More students are studying outside the traditional residential model, often without immediate access to faculty. The traditions being studied are also more entangled than ever: 47% vs. 30% — Christians' share of the world's migrants compared with their share of the global population, according to Pew Research data 8 of 24 — Nations where Catholicism remains the majority religion in a recent Pew study, even as it loses more members than it gains Datasets such as Our World in Data's religious composition estimates show Christians, Muslims, Hindus, Buddhists, Jews, and other groups distributed across every region. Pew's research on national identity also examines how central religion is to national belonging from country to country. Theology done responsibly now requires comparative literacy. But building that literacy is difficult: Expertise is siloed. A scholar of Reformed dogmatics rarely also commands Ash'ari kalām or Kashmir Shaivism. Seminar partners who can move between traditions are hard to find. General AI flattens traditions. Generic chatbots tend to answer with \"Christianity teaches…\" or \"Buddhism says…\" and erase the internal diversity that matters most in academic work. The academic AI landscape is uncertain. Research in Higher Education Quarterly notes that AI integration is transforming academic research globally . A 2025 Journal of Academic Ethics study grouped the ethical concerns of AI in higher education into six major categories . Students need tools that build understanding, not shortcuts. Office hours are scarce. Comprehensive exams, dissertation chapters, and lecture preparation often happen late at night, far from any faculty member. Why Generic Answers Fail in Theology Theology is an argument conducted within traditions, and each tradition has its own standards of evidence. Talmudic reasoning, Thomistic natural theology, and Madhyamaka dialectic do not follow the same rules. A tool that ignores this produces answers that sound fluent but would not hold up in a graduate seminar. This is the gap a dedicated AI theologian was built to fill. How Academic Theologian Works The agent is designed to behave like a well-read colleague. It reads your level from how you frame questions, chooses the right analytical mode, and shows its reasoning. Step 1: Ask Your Question in Your Own Vocabulary Start with whatever you are working on, whether a broad question or a precise technical query. You do not need to state your level. This AI theologian infers it from your terminology and the thinkers you cite, then sets its depth accordingly. \"What's the actual difference between Advaita and Vishishtadvaita on the relationship between brahman and the self?\" Step 2: Get the Strongest Version of Each Position Before evaluating anything, the agent reconstructs each view on its own terms. For the question above, you would get Shankara's non-dual identity of atman and brahman set against Ramanuja's qualified non-dualism, in which selves are real modes of brahman. You would also learn what each position costs soteriologically. \"Reconstruct Aquinas's argument in ST I, q.2, a.3 and show where the metaphysical weight actually falls.\" Step 3: Choose Your Mode: Inside or Outside the Tradition Academic theology moves between working within a tradition's commitments ( fides quaerens intellectum ) and analyzing it from outside with the methodological agnosticism of religious studies. The agent tells you which mode it is in, so exposition, interpretation, and assessment stay distinct. \"Analyze the Chalcedonian definition historically, then tell me how a contemporary Orthodox theologian would defend it from within.\" Step 4: Push Into Comparison and Current Debates Ask for structured cross-traditional comparison. Christian apophaticism, Buddhist emptiness, and Sufi fanā share structural features but rest on different metaphysics. When a question depends on recent scholarship, the agent searches current publications and cites them with links, instead of relying only on established knowledge. \"How are scholars currently reassessing Luther's relationship to antisemitism? Cite recent work.\" Step 5: Turn the Conversation Into a Deliverable When you are ready, ask for an annotated bibliography, a comparison matrix, or an essay draft formatted as a PDF, DOCX, or spreadsheet. If your inquiry turns into pure philosophy, such as the epistemology of religious belief or metaethics without a confessional frame, The Philosopher offers Socratic engagement grounded in the analytic and continental traditions. Try Academic Theologian free. No credit card is required. Use Cases: Academic Theologian in Real Scholarly Work 📚 Comprehensive Exam Preparation in Christology Scenario: An MDiv student has three weeks before a systematic theology exam covering pre-Nicene Christology through Chalcedon and its modern critics, including Rahner, Schillebeeckx, and Hick. Traditional Approach: Re-reading textbook chapters, assembling flashcards, and hoping a study group covers the Apollinarian and Nestorian controversies in enough detail. Academic Theologian : The student works through the genealogy conversationally. The agent explains how ousia and hypostasis were disentangled by the Cappadocians and why Cyril and Nestorius disagreed. It also shows what Chalcedon's four adverbs actually rule out. The student then practices defending positions under questioning. Traces each concept's development rather than presenting a single static definition Shows the stakes of each position for soteriology, ethics, and anthropology Gives an interpretive assessment, labeled as such, when asked 🔍 Comparative Theology Dissertation Chapter Scenario: A PhD candidate is writing a chapter comparing Pseudo-Dionysius's negative theology with Shankara's neti neti in the tradition of Francis Clooney's comparative theology. Traditional Approach: Months of reading across two primary-text traditions and their secondary literatures, with few colleagues fluent in both. Academic Theologian: It maps structural parallels and points out where the similarity breaks down: a personal God beyond being versus non-dual consciousness, and different soteriological goals and epistemologies. This helps the candidate avoid both \"all mysticism is the same\" and claims of incommensurability. Applies disciplined comparative method instead of superficial parallels Distinguishes comparative theology from comparative religion and the history of religions Prioritizes peer-reviewed journals such as Harvard Theological Review and Modern Theology when sourcing recent work Once the argument is settled, the candidate can bring the source base to the Literature Review Assistant to structure a synthesis-driven review of the scholarship on apophatic comparison. 📱 Pre-Seminar Review on Your Phone Scenario: A religious studies undergraduate is commuting to a seminar on Islamic theology and wants to review the Mu'tazili–Ash'ari dispute over divine attributes and the createdness of the Qur'an. Traditional Approach: Skimming highlighted PDFs on a small screen and arriving unsure of the key distinctions. Academic Theologian: Using voice input on the mobile app, the student asks for a ten-minute briefing. The agent explains the Mu'tazili emphasis on divine unity and justice, al-Ash'ari's response, and where the Maturidi school differs. It ends with three questions the student could raise in class. Same depth on iOS, Android, and web, with conversation history synced across devices Accessible register for newer students, with technical terms such as tawhid and kalām explained Specifies the strand, school, or thinker instead of saying \"Islam says…\" 🎓 Course Design for Theology of Religions Scenario: A divinity school lecturer is building a unit on how traditions understand religious diversity: exclusivism, inclusivism, pluralism, and particularism. Traditional Approach: Reassembling a syllabus from old notes and hunting for recent articles that reflect where the debate stands now. Academic Theologian: It drafts a lecture outline that moves from Barth through Rahner's \"anonymous Christians\" and Hick's pluralist hypothesis to particularist critiques. It also includes non-Christian approaches to the same question, so the unit does not treat Christianity as the only lens. Produces lecture slides or reading guides as exportable files Gives balanced coverage of each position before offering an assessment Addresses the debate over whether \"theology\" applies to traditions with their own terms, such as darshana and abhidharma For locating the most recent journal articles and managing citations for the reading list, the Academic Research Assistant searches major academic databases and handles reference formatting. Frequently Asked Questions Is Academic Theologian free to use? Yes. Academic Theologian is available on Jenova's free tier, which includes all core features with limited monthly usage. Researchers who rely on it heavily can upgrade to Plus at $20/month for 30× the free usage and custom model selection. Higher tiers go up to Enterprise. Usage resets monthly on your billing date, with no daily caps, so you can work intensively during exam weeks or dissertation pushes. How is an AI theologian different from a general chatbot for theology questions? A general chatbot tends to summarize and flatten. A dedicated AI theologian reconstructs arguments on their own terms and respects each tradition's standards of argument. It names specific schools and thinkers instead of saying \"Christianity teaches…\", and it separates exposition from interpretation from assessment. It also signals whether it is working within a tradition's commitments or analyzing from outside, a distinction academic theology depends on. Can Academic Theologian handle non-Christian traditions like kalām or Vedanta? Yes. Every tradition is treated as central: Islamic kalām and falsafa, rabbinic and Kabbalistic thought, the six darshanas and the Vedantic schools, Madhyamaka and Yogacara, Sikh, Jain, Zoroastrian, Bahá'í, and indigenous traditions. It engages each through its own textual canons and categories, not only through Western commentary about it. Does it offer spiritual guidance or devotional counsel? No. Academic Theologian is a scholar, not a chaplain. It discusses mystical theology, religious experience, and contemplative traditions in full academic depth. It does not offer personal spiritual direction. For that, a director or clergy member within your own tradition is the right resource. This boundary keeps its analysis evenhanded across all traditions. Is Academic Theologian accurate enough for academic work? It is built for scholarly rigor. It states scholarly consensus where it exists, maps genuine debates fairly, flags thin evidence, and identifies pseudoscholarship as such. When it searches for recent work, it cites sources with links. As with any research aid, verify citations against the primary texts before submission. Use it to deepen your understanding, not to replace your own argument. Does Academic Theologian work on mobile? Yes. Jenova offers full feature parity across web, iOS, and Android, with speech-to-text for voice questions. Your conversation history and settings sync across devices, so a discussion of Barth started on your laptop can continue on your phone. Conclusion: Rigorous Theology, Available When You Need It Theology is increasingly comparative, delivered through flexible formats, and studied alongside AI tools whose academic role is still being debated. Students and scholars need a conversation partner that matches the discipline's standards. That means reconstructing arguments faithfully, tracing concepts across centuries, and comparing traditions without erasing their differences. Academic Theologian provides that. It works as a theology research partner for seminary exam preparation, a comparative religion resource for dissertation work, and an analytical sparring partner for anyone serious about world religions. It reads Aquinas, al-Ghazali, Maimonides, Shankara, and Nagarjuna on their own terms, and it tells you where scholarship stands and why. Try Academic Theologian now. Explore more at Jenova . For Developers: Academic Theologian is available programmatically via the Jenova API . You can integrate cross-traditional theological analysis into your edtech, seminary, or digital humanities application with a single API call. Full documentation →",
+      "text_excerpt": "Academic Theologian AI: Doctrine, Texts & Comparative Theology\nAcademic Theologian is an AI research partner for theology students and scholars. It reconstructs arguments, reads sacred texts within their interpretive traditions, and compares religions rigorously. Theological study now spans Christian, Islamic, Jewish, Hindu, Buddhist, Sikh, Jain, and indigenous thought, and few resources cover that range at seminar d…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T16:42:01Z",
+      "last_collected_at": "2026-10-19T16:42:01Z",
       "collection_count": 1
     }
   ],
