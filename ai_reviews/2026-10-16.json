@@ -133,6 +133,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:10:08.142759+00:00"
+    },
+    "telegram:1980940690:16440": {
+      "hu_text": "Szentpéterváron megtiltották a migránsoknak, hogy fodrászként, kozmetikusként, valamint az orvosi és testnevelési területeken dolgozzanak. A város kibővítette azon foglalkozások listáját, amelyek külföldiek számára 2026 végéig nem elérhetők patenta alapján. Korábban már tiltották a taxisok és futárok foglalkoztatását, most pedig a szépségszalonok, kiskereskedelem, egészség- és sportterületek, valamint bizonyos orvosi szakmák dolgozóit is. A döntést az illegális foglalkoztatás elleni küzdelemmel és az orosz állampolgárok számára munkahelyek felszabadításával indokolják. A korlátozások csak a patenta alapján dolgozó külföldiekre vonatkoznak, nem érintik az EAEU állampolgárait és a munkavállalási engedéllyel rendelkező migránsokat. A vállalkozásoknak december 15-ig van idejük, hogy alkalmazkodjanak az új szabályokhoz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét szabályozási változásról számol be, amely jelentős hatással lehet a migránsok munkavállalására Szentpéterváron. Az állítás ellenőrzése fontos a migrációs helyzet pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:20.297262+00:00"
+    },
+    "telegram:1983050450:24828": {
+      "hu_text": "Szentpéterváron kibővítették azon foglalkozások listáját, amelyek nem elérhetők a patenta alapján dolgozó migránsok számára. 2026 végéig tilos külföldieknek szépségszalonokban, kiskereskedelemben, testnevelés és egészségügy bizonyos területein dolgozniuk. Korábban már korlátozták a taxisok és futárok foglalkoztatását. A városi hatóságok az illegális foglalkoztatás elleni harccal és az orosz állampolgárok számára munkahelyek biztosításával indokolják a döntést. A vállalkozásoknak december 15-ig kell elbocsátaniuk a migránsokat és orosz állampolgárokat alkalmazniuk helyettük.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés megerősíti az előző állítást, részletezve a migránsok munkavállalási tilalmát Szentpéterváron, ami fontos információ a migrációs szabályozásról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:20.297280+00:00"
+    },
+    "telegram:1604168769:12238": {
+      "hu_text": "Szentpéterváron új tiltásokat vezettek be a migránsok számára. A patenta alapján dolgozó külföldiek számára megtiltották a kereskedelemben, egészségügyben, szépségszalonokban, fitnesz központokban és sport területeken való munkavégzést. A munkáltatóknak 2026. december 15-ig van idejük, hogy alkalmazkodjanak az új követelményekhez.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás összhangban van a korábbi bejegyzésekkel, és fontos információkat tartalmaz a migránsok munkavállalási korlátozásairól Szentpéterváron.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:20.297284+00:00"
+    },
+    "telegram:1604168769:12234": {
+      "hu_text": "Moszkvában befejeződött a „Illegal-2026” művelet. Október 1. és 10. között a délkeleti kerületben végzett razziák során több mint 2380 migrációs jogsértést tártak fel. Az ellenőrzések eredményeként 545 külföldi állampolgárt kiutasítanak az országból, és több mint 2000 személynek megtiltják az Oroszországba való belépést.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét hatósági műveletről szól, amely migrációs jogsértések feltárására irányult Moszkvában. Az információ fontos a határbiztonsági helyzet megértéséhez, de további ellenőrzést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:20.297287+00:00"
     }
   },
   "legacy_reviews": {}
