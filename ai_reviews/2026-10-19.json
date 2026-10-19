@@ -1651,6 +1651,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:53:19.187767+00:00"
+    },
+    "group:531": {
+      "hu_text": "A görög hatóságok megerősítették, hogy hat ember meghalt, és további 14-et kimentettek, miután egy migránsokat szállító gyorshajó felborult a Számos sziget közelében. Ez órákkal azután történt, hogy egy másik migráns gyorshajó összeütközött egy görög parti őrség járőrhajójával Leszbosz közelében, ahol hatan meghaltak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ migrációs tragédiáról, több halálos áldozattal, de nincs közvetlen bizonyíték a hitelességre, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:28.753669+00:00"
+    },
+    "group:530": {
+      "hu_text": "Két migráns Vlagyivosztokban megpróbált kedvezményes lakáshitelhez pénzt gyűjteni, de helyette heroin kereskedelembe kezdtek. A rendőrség elfogott egy 26 éves férfit, aki 105 gramm heroint szállított az autójában, és beismerte, hogy drogot helyezett el. Egy 25 éves társát is azonosították, mindketten nagy mennyiségű kábítószer illegális forgalmazásával vádoltak, 10-20 év börtönbüntetésre számíthatnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Bűnügyi eset migránsokkal kapcsolatban, de nincs megerősített forrás, így előzetesen nem ellenőrzött állítás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:28.753687+00:00"
+    },
+    "group:533": {
+      "hu_text": "Nemrég találkoztam a Libets családdal, akik az ukrajnai háború elől menekülve telepedtek le a 2. választókerületben. Csapatom segített nekik a vízumkérelmükben, amikor először érkeztek Minnesotába menekültként. Büszke vagyok arra, hogy Ukrajna mellett állok, és mindig támogatni fogom őket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes történet és politikai támogatás, nem tartalmaz konkrét migrációs eseményt vagy jogi információt, nincs ellenőrzött forrás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:28.753692+00:00"
+    },
+    "record:2112133222708769216": {
+      "hu_text": "🚨🇬🇷 ÉGEI MIGRÁNS KATASZTRÓFA\nMa 12 halott Görögország partjainál. Egy migráns gyorshajó összeütközött egy parti őrség hajójával Leszbosz közelében – 6 halott, köztük egy csecsemő.\nEgy másik hajó felborult Számosnál, további 6 ember fulladt meg.\nHalál Európa kapujában.\nForrás: Reuters, AFP",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hiteles nemzetközi hírügynökségek forrásaira hivatkozik, részben ellenőrzött információ migrációs tragédiáról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:28.753697+00:00"
+    },
+    "record:2112132634541195679": {
+      "hu_text": "HAT HALOTT EGY HAJÓ FELBORULÁSA UTÁN SZÁMOSNÁL – MI TÖRTÉNT A PARTI ŐRSÉGGEL VALÓ TALÁLKOZÁS SORÁN?\nAz Égei Hajójelentés szerint 6 menekült halt meg, és 14-et kimentettek, miután egy gyorshajó felborult körülbelül 3,7 tengeri mérföldre északra Számos szigetétől.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló korai figyelmeztetés, de nincs megerősített forrás, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:28.753701+00:00"
+    },
+    "record:2112127415686213825": {
+      "hu_text": "🚨 #FRISS: Albánia tüntetései erőszakossá váltak, Kína szigorítja a drónexportot, és halálos migránshajó-incidens történt Görögország partjainál 🇦🇱🇨🇳🇬🇷\n1️⃣ Albánia: Erőszakos tüntetések hatodik napja, egy rendőr lángok között\nAlbánia többnapos zavargásokkal küzd Tiranában és más városokban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Több témát érintő hírek, köztük migrációs tragédia, de nincs részletes bizonyíték, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:28.753705+00:00"
     }
   },
   "legacy_reviews": {}
