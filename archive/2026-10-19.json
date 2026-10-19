@@ -1365,6 +1365,265 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1091,
+      "source": "X",
+      "source_post_id": "2112133222708769216",
+      "author": "inspiring_tosh",
+      "language": "en",
+      "published_at": "2026-10-19T10:46:16Z",
+      "first_detected_at": "2026-10-19T10:52:19Z",
+      "last_detected_at": "2026-10-19T10:52:19Z",
+      "detection_count": 1,
+      "text": "🚨🇬🇷 AEGEAN MIGRANT DISASTER\n12 dead off Greece today. A migrant speedboat collided with a coast guard vessel off Lesvos — 6 killed, including an infant.\nA second boat capsized off Samos. 6 more drowned.\nDying at Europe's door.\nSource: Reuters, AFP",
+      "text_excerpt": "🚨🇬🇷 AEGEAN MIGRANT DISASTER\n12 dead off Greece today. A migrant speedboat collided with a coast guard vessel off Lesvos — 6 killed, including an infant.\nA second boat capsized off Samos. 6 more drowned.\nDying at Europe's door.\nSource: Reuters, AFP",
+      "url": "https://x.com/inspiring_tosh/status/2112133222708769216",
+      "source_url": "https://x.com/inspiring_tosh/status/2112133222708769216",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.0,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "MIGRANT",
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1089,
+      "source": "X",
+      "source_post_id": "2112132634541195679",
+      "author": "ABoatReport",
+      "language": "en",
+      "published_at": "2026-10-19T10:43:56Z",
+      "first_detected_at": "2026-10-19T10:51:51Z",
+      "last_detected_at": "2026-10-19T10:51:51Z",
+      "detection_count": 1,
+      "text": "SIX DEAD AFTER BOAT CAPSIZES OFF SAMOS — WHAT HAPPENED DURING THE COAST GUARD ENCOUNTER?\n\nAegean Boat Report | 19 October 2026\n\nSix refugees have died and fourteen others have been rescued after a speedboat capsized approximately 3.7 nautical miles (6.85 kilometres) north of https://t.co/wIf34QdVqB",
+      "text_excerpt": "SIX DEAD AFTER BOAT CAPSIZES OFF SAMOS — WHAT HAPPENED DURING THE COAST GUARD ENCOUNTER?\n\nAegean Boat Report | 19 October 2026\n\nSix refugees have died and fourteen others have been rescued after a speedboat capsized approximately 3.7 nautical miles (6.85 kilometres) north of https://t.co/wIf34QdVqB",
+      "url": "https://x.com/ABoatReport/status/2112132634541195679",
+      "source_url": "https://x.com/ABoatReport/status/2112132634541195679",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "route",
+          "COAST"
+        ],
+        [
+          "route",
+          "Boat"
+        ],
+        [
+          "enforcement",
+          "COAST GUARD"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1092,
+      "source": "X",
+      "source_post_id": "2112127415686213825",
+      "author": "DonStefan____",
+      "language": "en",
+      "published_at": "2026-10-19T10:23:11Z",
+      "first_detected_at": "2026-10-19T10:52:47Z",
+      "last_detected_at": "2026-10-19T10:52:47Z",
+      "detection_count": 1,
+      "text": "🚨 #BREAKING : Albania Protests Turn Violent + China Tightens Drone Export Controls + Deadly Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷**\n\n**1️⃣ Albania: Violent Protests Enter Sixth Day, Officer Involved in Flames 🔥**  \nAlbania is gripped by multi-day unrest in Tirana and other https://t.co/cVPWupxpAT",
+      "text_excerpt": "🚨 #BREAKING : Albania Protests Turn Violent + China Tightens Drone Export Controls + Deadly Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷**\n\n**1️⃣ Albania: Violent Protests Enter Sixth Day, Officer Involved in Flames 🔥**  \nAlbania is gripped by multi-day unrest in Tirana and other https://t.co/cVPWupxpAT",
+      "url": "https://x.com/DonStefan____/status/2112127415686213825",
+      "source_url": "https://x.com/DonStefan____/status/2112127415686213825",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷** **1️⃣ Albania: Violent Protests Enter"
+        ],
+        [
+          "route",
+          "Boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [
+        "Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷** **1️⃣ Albania: Violent Protests Enter"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1090,
+      "source": "X",
+      "source_post_id": "2112134097753845887",
+      "author": "EyeOnAfgh",
+      "language": "en",
+      "published_at": "2026-10-19T10:49:45Z",
+      "first_detected_at": "2026-10-19T10:52:19Z",
+      "last_detected_at": "2026-10-19T10:52:19Z",
+      "detection_count": 1,
+      "text": "Greek coast guard says 12 migrants die in Aegean sea crossings dlvr.​it/TVz6HS #Ariana #Afghanistan https://t.co/rit8pbmAkm",
+      "text_excerpt": "Greek coast guard says 12 migrants die in Aegean sea crossings dlvr.​it/TVz6HS #Ariana #Afghanistan https://t.co/rit8pbmAkm",
+      "url": "https://x.com/EyeOnAfgh/status/2112134097753845887",
+      "source_url": "https://x.com/EyeOnAfgh/status/2112134097753845887",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "sea"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -2730,6 +2989,265 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1091,
+      "source": "X",
+      "source_post_id": "2112133222708769216",
+      "author": "inspiring_tosh",
+      "language": "en",
+      "published_at": "2026-10-19T10:46:16Z",
+      "first_detected_at": "2026-10-19T10:52:19Z",
+      "last_detected_at": "2026-10-19T10:52:19Z",
+      "detection_count": 1,
+      "text": "🚨🇬🇷 AEGEAN MIGRANT DISASTER\n12 dead off Greece today. A migrant speedboat collided with a coast guard vessel off Lesvos — 6 killed, including an infant.\nA second boat capsized off Samos. 6 more drowned.\nDying at Europe's door.\nSource: Reuters, AFP",
+      "text_excerpt": "🚨🇬🇷 AEGEAN MIGRANT DISASTER\n12 dead off Greece today. A migrant speedboat collided with a coast guard vessel off Lesvos — 6 killed, including an infant.\nA second boat capsized off Samos. 6 more drowned.\nDying at Europe's door.\nSource: Reuters, AFP",
+      "url": "https://x.com/inspiring_tosh/status/2112133222708769216",
+      "source_url": "https://x.com/inspiring_tosh/status/2112133222708769216",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.0,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "MIGRANT",
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1089,
+      "source": "X",
+      "source_post_id": "2112132634541195679",
+      "author": "ABoatReport",
+      "language": "en",
+      "published_at": "2026-10-19T10:43:56Z",
+      "first_detected_at": "2026-10-19T10:51:51Z",
+      "last_detected_at": "2026-10-19T10:51:51Z",
+      "detection_count": 1,
+      "text": "SIX DEAD AFTER BOAT CAPSIZES OFF SAMOS — WHAT HAPPENED DURING THE COAST GUARD ENCOUNTER?\n\nAegean Boat Report | 19 October 2026\n\nSix refugees have died and fourteen others have been rescued after a speedboat capsized approximately 3.7 nautical miles (6.85 kilometres) north of https://t.co/wIf34QdVqB",
+      "text_excerpt": "SIX DEAD AFTER BOAT CAPSIZES OFF SAMOS — WHAT HAPPENED DURING THE COAST GUARD ENCOUNTER?\n\nAegean Boat Report | 19 October 2026\n\nSix refugees have died and fourteen others have been rescued after a speedboat capsized approximately 3.7 nautical miles (6.85 kilometres) north of https://t.co/wIf34QdVqB",
+      "url": "https://x.com/ABoatReport/status/2112132634541195679",
+      "source_url": "https://x.com/ABoatReport/status/2112132634541195679",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "route",
+          "COAST"
+        ],
+        [
+          "route",
+          "Boat"
+        ],
+        [
+          "enforcement",
+          "COAST GUARD"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1092,
+      "source": "X",
+      "source_post_id": "2112127415686213825",
+      "author": "DonStefan____",
+      "language": "en",
+      "published_at": "2026-10-19T10:23:11Z",
+      "first_detected_at": "2026-10-19T10:52:47Z",
+      "last_detected_at": "2026-10-19T10:52:47Z",
+      "detection_count": 1,
+      "text": "🚨 #BREAKING : Albania Protests Turn Violent + China Tightens Drone Export Controls + Deadly Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷**\n\n**1️⃣ Albania: Violent Protests Enter Sixth Day, Officer Involved in Flames 🔥**  \nAlbania is gripped by multi-day unrest in Tirana and other https://t.co/cVPWupxpAT",
+      "text_excerpt": "🚨 #BREAKING : Albania Protests Turn Violent + China Tightens Drone Export Controls + Deadly Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷**\n\n**1️⃣ Albania: Violent Protests Enter Sixth Day, Officer Involved in Flames 🔥**  \nAlbania is gripped by multi-day unrest in Tirana and other https://t.co/cVPWupxpAT",
+      "url": "https://x.com/DonStefan____/status/2112127415686213825",
+      "source_url": "https://x.com/DonStefan____/status/2112127415686213825",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷** **1️⃣ Albania: Violent Protests Enter"
+        ],
+        [
+          "route",
+          "Boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [
+        "Migrant Boat Incident Off Greece 🇦🇱🇨🇳🇬🇷** **1️⃣ Albania: Violent Protests Enter"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1090,
+      "source": "X",
+      "source_post_id": "2112134097753845887",
+      "author": "EyeOnAfgh",
+      "language": "en",
+      "published_at": "2026-10-19T10:49:45Z",
+      "first_detected_at": "2026-10-19T10:52:19Z",
+      "last_detected_at": "2026-10-19T10:52:19Z",
+      "detection_count": 1,
+      "text": "Greek coast guard says 12 migrants die in Aegean sea crossings dlvr.​it/TVz6HS #Ariana #Afghanistan https://t.co/rit8pbmAkm",
+      "text_excerpt": "Greek coast guard says 12 migrants die in Aegean sea crossings dlvr.​it/TVz6HS #Ariana #Afghanistan https://t.co/rit8pbmAkm",
+      "url": "https://x.com/EyeOnAfgh/status/2112134097753845887",
+      "source_url": "https://x.com/EyeOnAfgh/status/2112134097753845887",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "sea"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
       "analyst_priority": "LOW"
     }
   ],
@@ -4157,9 +4675,86 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1082,
+      "source": "X",
+      "source_post_id": "2112111612182094246",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T09:20:24Z",
+      "first_detected_at": "2026-10-19T09:24:25Z",
+      "last_detected_at": "2026-10-19T09:24:25Z",
+      "detection_count": 1,
+      "text": "@PriddyUglee @wiesiede At least 7 European countries have seen notable protests against mass or illegal migration in 2025-2026, including the UK (ongoing hotel and small-boat demos), Ireland (Dublin, Cork and migrant-centre rallies), Spain (Madrid after the Ceuta surge), Italy (Rome and Milan",
+      "text_excerpt": "@PriddyUglee @wiesiede At least 7 European countries have seen notable protests against mass or illegal migration in 2025-2026, including the UK (ongoing hotel and small-boat demos), Ireland (Dublin, Cork and migrant-centre rallies), Spain (Madrid after the Ceuta surge), Italy (Rome and Milan",
+      "url": "https://x.com/grok/status/2112111612182094246",
+      "source_url": "https://x.com/grok/status/2112111612182094246",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "surge"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant",
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "surge"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2112111612182094246"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2112111612182094246"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T10:06:10.375390+00:00",
+  "last_archived_at": "2026-10-19T10:53:56.437516+00:00",
   "live_events": [
     {
       "id": 648,
@@ -4446,6 +5041,28 @@
       "text": "🇪🇸 #Spain's King Felipe and Queen Letizia kicked off a visit to #Ceuta on Tuesday to show solidarity with residents of the Spanish exclave as they grapple with a migration crisis. \n\nThe trip comes after after more than 70,000 migrants crossed Ceuta's border from #Morocco in https://t.co/QUfsbqXrlw",
       "url": "https://x.com/LeonorDeAsturia/status/2112120185360417161",
       "source_url": "https://x.com/LeonorDeAsturia/status/2112120185360417161"
+    },
+    {
+      "id": 661,
+      "event_id": 661,
+      "source": "X",
+      "source_post_id": "2112132260770074699",
+      "author": "ShipNews",
+      "published_at": "2026-10-19T10:42:27Z",
+      "collected_at": "2026-10-19T10:52:19Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Twelve Migrants Die in Two Boat Capsizings Off Greek Islands https://t.co/xntr4ZVwl3 Twelve migrants drown in two boat capsizing incidents near Greek islands. Suspected smugglers arrested. Zero tolerance for smugglers vows Greece. #MigrantCrisis #Lesbos #Samos",
+      "url": "https://x.com/ShipNews/status/2112132260770074699",
+      "source_url": "https://x.com/ShipNews/status/2112132260770074699"
     }
   ],
   "event_groups": [
@@ -6490,6 +7107,304 @@
       "influence_detected": false,
       "first_collected_at": "2026-10-19T10:05:07Z",
       "last_collected_at": "2026-10-19T10:05:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19659",
+      "timestamp": "2026-10-19T10:50:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112134280298258716",
+      "author": "MAGAUS444",
+      "url": "https://x.com/MAGAUS444/status/2112134280298258716",
+      "source_url": "https://x.com/MAGAUS444/status/2112134280298258716",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@BubbyBlu29353 I remember when the Hmong refugees started to appear in Minnesota- I was young and remember my dad worried about them going on welfare, etc. 95% assimilated! I went to a Hmong Catholic Church! \nSomalians arrived to steal &amp; commit fraud!  DEPORT ALL",
+      "text_excerpt": "@BubbyBlu29353 I remember when the Hmong refugees started to appear in Minnesota- I was young and remember my dad worried about them going on welfare, etc. 95% assimilated! I went to a Hmong Catholic Church! \nSomalians arrived to steal &amp; commit fraud!  DEPORT ALL",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:51:22Z",
+      "last_collected_at": "2026-10-19T10:51:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19664",
+      "timestamp": "2026-10-19T10:47:32Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9tkrv",
+      "author": "dailymail",
+      "url": "https://www.reddit.com/r/uknews/comments/1x9tkrv/moment_small_boat_migrant_holds_baby_in_his_arms/",
+      "source_url": "https://www.reddit.com/r/uknews/comments/1x9tkrv/moment_small_boat_migrant_holds_baby_in_his_arms/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "boat",
+        "dinghy"
+      ],
+      "freshness_cues": [],
+      "text": "Moment small boat migrant holds baby in his arms as he pilots overcrowded dinghy across the Channel",
+      "text_excerpt": "Moment small boat migrant holds baby in his arms as he pilots overcrowded dinghy across the Channel",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:51:22Z",
+      "last_collected_at": "2026-10-19T10:51:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19665",
+      "timestamp": "2026-10-19T10:46:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9tkg1",
+      "author": "dailymail",
+      "url": "https://www.reddit.com/r/europe_sub/comments/1x9tkg1/moment_small_boat_migrant_holds_baby_in_his_arms/",
+      "source_url": "https://www.reddit.com/r/europe_sub/comments/1x9tkg1/moment_small_boat_migrant_holds_baby_in_his_arms/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "boat",
+        "dinghy"
+      ],
+      "freshness_cues": [],
+      "text": "Moment small boat migrant holds baby in his arms as he pilots overcrowded dinghy across the Channel",
+      "text_excerpt": "Moment small boat migrant holds baby in his arms as he pilots overcrowded dinghy across the Channel",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:51:22Z",
+      "last_collected_at": "2026-10-19T10:51:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19686",
+      "timestamp": "2026-10-19T10:44:13Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112132706075033959",
+      "author": "MatthewGoo95590",
+      "url": "https://x.com/MatthewGoo95590/status/2112132706075033959",
+      "source_url": "https://x.com/MatthewGoo95590/status/2112132706075033959",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@LeftFootFwd ‘We asked 50 migrants on a RNLI boat mid-Channel’…",
+      "text_excerpt": "@LeftFootFwd ‘We asked 50 migrants on a RNLI boat mid-Channel’…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:52:19Z",
+      "last_collected_at": "2026-10-19T10:52:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19687",
+      "timestamp": "2026-10-19T10:43:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112132625620246640",
+      "author": "dave43law",
+      "url": "https://x.com/dave43law/status/2112132625620246640",
+      "source_url": "https://x.com/dave43law/status/2112132625620246640",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "dinghy"
+      ],
+      "freshness_cues": [],
+      "text": "The Mail are so desperate to push the migrant angle - here's a story that happened on Sept 27th.\n\nMoment small boat migrant holds baby in his arms as he pilots dinghy https://t.co/PN63k3ccMz via @DailyMail",
+      "text_excerpt": "The Mail are so desperate to push the migrant angle - here's a story that happened on Sept 27th.\n\nMoment small boat migrant holds baby in his arms as he pilots dinghy https://t.co/PN63k3ccMz via @DailyMail",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:52:19Z",
+      "last_collected_at": "2026-10-19T10:52:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19689",
+      "timestamp": "2026-10-19T10:37:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112130892294414399",
+      "author": "TurkishMinuteTM",
+      "url": "https://x.com/TurkishMinuteTM/status/2112130892294414399",
+      "source_url": "https://x.com/TurkishMinuteTM/status/2112130892294414399",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "coast_guard"
+      ],
+      "freshness_cues": [],
+      "text": "Twelve migrants die in Aegean crossings, Greek coast guard says https://t.co/QmHTsDlBXF",
+      "text_excerpt": "Twelve migrants die in Aegean crossings, Greek coast guard says https://t.co/QmHTsDlBXF",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:52:19Z",
+      "last_collected_at": "2026-10-19T10:52:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19690",
+      "timestamp": "2026-10-19T10:31:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_ae52e27ef8a718ee6e85",
+      "author": null,
+      "url": "https://pixelfed.social/p/dkerr.dev/1017744086436787145",
+      "source_url": "https://pixelfed.social/p/dkerr.dev/1017744086436787145",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "My new 2\" 5x Barlow lens arrived the other day, and after a little bit of drama with the focus tube on the telescope not being able to extend out enough to facilitate capturing an image with the thing, an extension tube later and I'm in business. I'm definitely pushing the physical limits of what the optical assembly is capable of, but I don't care because even though it's a bit fuzzy and ripply, it looks fantastic. And there's no good reason for it to, but it always somehow looks infinitely better when you're using your eyeballs. There's just something about directly observing it... Anyway, here we have a view of a relatively small chunk of the moon. The flat section on the upper left is Mare Nectaris, the large flat section below that is Mare Tranquillitatis, and the larger craters in the upper-right that make the \"8\" shape are Albategnius (top) and Hipparchus (bottom), with Ptolemaeus hidden in the shadows of the terminator line, nestled between them. Isn't it brilliant? #photography #nature #naturephotography #space #spacephotography #astro #astrophotography #moon #themoon #lunar #lunarphotography #mare #sea #seas #ocean #oceans #crater #craters #nectaris #tranquillitatis #albategnius #hipparchus #ptolemaeus #dobsonian #telescope #backyard #backyardastrophotography #terminator #terminatorline Photo taken from my back yard, Melbourne, Victoria, Australia, with my a6700 through my dobsonian telescope, with a 1200mm focal length at f/5.9 using a 5x barlow lens.",
+      "text_excerpt": "My new 2\" 5x Barlow lens arrived the other day, and after a little bit of drama with the focus tube on the telescope not being able to extend out enough to facilitate capturing an image with the thing, an extension tube later and I'm in business. I'm definitely pushing the physical limits of what the optical assembly is capable of, but I don't care because even though it's a bit fuzzy and ripply, it looks fantastic.…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:52:20Z",
+      "last_collected_at": "2026-10-19T10:52:20Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19677",
+      "timestamp": "2026-10-19T10:26:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112128297127571565",
+      "author": "EucapMali",
+      "url": "https://x.com/EucapMali/status/2112128297127571565",
+      "source_url": "https://x.com/EucapMali/status/2112128297127571565",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "📚@EucapMali  supported the review of training tools with Malian experts from the Air and Border Police, the Brigade for the Repression of Migrant &amp; Human Trafficking and the Mission. The revised modules support training on migration flows, document fraud &amp; border security. https://t.co/vz0UlQYlat",
+      "text_excerpt": "📚@EucapMali  supported the review of training tools with Malian experts from the Air and Border Police, the Brigade for the Repression of Migrant &amp; Human Trafficking and the Mission. The revised modules support training on migration flows, document fraud &amp; border security. https://t.co/vz0UlQYlat",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T10:51:51Z",
+      "last_collected_at": "2026-10-19T10:51:51Z",
       "collection_count": 1
     }
   ],
