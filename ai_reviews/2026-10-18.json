@@ -881,6 +881,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:15:26.301100+00:00"
+    },
+    "telegram:1261826972:53572": {
+      "hu_text": "🚩 VIDEÓVAL ▶️ A rendőrség felszámolta a Tarajal bevándorlói táborát\n\n➡ Az emberek felhalmozódása és a növekvő számú kunyhók egészségtelen állapota indokolta a vasárnapi műveletet Ceutában\n\n➡ A művelet feszült volt, mert a bevándorlók el akartak menekülni\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/policia-desmantela-asentamiento-inmigrantes-tarajal/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés egy konkrét migrációs eseményről szól, amely a bevándorlói tábor felszámolását jelenti, ami jelentős hatással lehet a helyi migrációs helyzetre. Az állítások nem ellenőrzöttek, ezért fontos a további hitelesítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:38.166941+00:00"
+    },
+    "telegram:1261826972:53573": {
+      "hu_text": "🗞️ Három hír az elfarodeceuta.es oldalról vasárnap:\n\n1⃣ Ceuta inváziójának árnyéka: Marokkótól a hazugságokig\n➡ A Nemzeti Bíróság bírója, María Tardón több vizsgálatot rendelt el, hogy kiderítse, mit lehetett volna tenni a 30J következményeinek elkerülése érdekében, ki rendelkezett információval és miért nem lépett.\n\n2⃣ Egy sérült szubszaharai visszaküldésének története, amit soha nem bizonyítottak\n➡ Ceuta közigazgatási bírósága elutasította a bevándorló átadásával szembeni fellebbezést, kiemelve, hogy nincs bizonyíték, így még az sem állapítható meg, hogy végrehajtották-e.\n\n3⃣ Ceutai ügyészség börtönbüntetést kér egy fiatalra, aki elütött egy kerékpárost és elhagyta\n➡ Az eset 2023 májusában történt a Benzú felé vezető úton, a Polgárőrség vizsgálatot indított.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírek jogi és politikai fejleményekről szólnak, amelyek migrációs vonatkozásúak, például a 30J események vizsgálata és egy bevándorló visszaküldésének jogi ügye. Az állítások forrása ismert, de a részletek ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:38.166960+00:00"
+    },
+    "telegram:1261826972:53575": {
+      "hu_text": "◼️ A város megtagadta egy súlyosan rászoruló otthoni segítségnyújtását költségvetési hiány miatt\n\n➡ Az érintett környezete az invázió utáni bevándorlásra fordított kiadásokra hívja fel a figyelmet, amely ellentétben áll egy Ceutai lakos segítségkérelmének elutasításával.\n\nhttps://elfarodeceuta.es/ciudad-deniega-ayuda-domicilio-dependiente-grave-falta-presupuesto/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés társadalmi diskurzust tükröz, amely a bevándorlásra fordított költségvetési kiadások és a helyi rászorulók támogatásának hiánya közötti ellentétet emeli ki. Az állítások nem ellenőrzöttek, de fontosak a társadalmi feszültségek megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:06:38.166963+00:00"
     }
   },
   "legacy_reviews": {
