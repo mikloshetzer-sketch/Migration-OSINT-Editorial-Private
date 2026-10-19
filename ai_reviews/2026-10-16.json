@@ -694,6 +694,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:47:08.406167+00:00"
+    },
+    "information:information:17935": {
+      "hu_text": "@onashortfuse @andrewc44104127 Ez nem ez, hanem az. A mesterséges intelligencia szemét károsítja az agyadat. Ez egy embercsempész hálózat központja. Pont, mint a Vöröskereszt és a legtöbb „migráns civil szervezet”.\n\nNem lett egy volt brit miniszter is nagyon jól fizetett vezetője ezeknek?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások erősen véleményalapúak és összeesküvés-gyanúsak, nincs bizonyíték a hálózati vagy személyi kapcsolatokra, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:13.793973+00:00"
+    },
+    "information:information:17937": {
+      "hu_text": "Az UNODC támogatja a karibi államokat a szervezett bűnözés különböző formái elleni küzdelemben, beleértve a kábítószer-csempészetet, fegyverkereskedelmet, emberkereskedelmet és migráns csempészetet.\n\nTovábbi információ 👉 https://t.co/eCI9iI3Q5v https://t.co/T8lQUmo13S",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az UNODC hivatalos tevékenységéről szóló információ, amely megbízható forrásból származik és nem tartalmaz vitatható állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:13.793990+00:00"
     }
   },
   "legacy_reviews": {}
