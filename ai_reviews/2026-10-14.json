@@ -23,6 +23,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:55:26.570224+00:00"
+    },
+    "telegram:1261826972:53348": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról hétfőre: 1. Az ügyészség egy év börtönt kér egy személy ellen, aki megpróbált bevándorlókat átszállítani a szárazföldre; a vádlott egy csoportot a Poniente mólóhoz vitt, ahol egy hajó várta őket. 2. Kritikák érték a tanárok engedély nélküli részvételét a ceutai királyi fogadáson; a Ceuta és Melilla Segítő Polgári Fórum azt kéri, hogy vegyék figyelembe a tanárok kettős szerepét, és biztosítsanak egy világos és megvalósítható engedélyezési eljárást a tanulók távozására. 3. Térkép készült a november 29-i ceutai választásokhoz: kerületek, iskolák és szavazóhelyiségek; hat nap áll rendelkezésre kifogások benyújtására, a választási bizottság megalakult.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírek hivatalos forrásokra hivatkoznak, de az állítások nem ellenőrzöttek, és nem tartalmaznak közvetlen bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:59.630701+00:00"
+    },
+    "telegram:1261826972:53365": {
+      "hu_text": "Videóval: Abascal, a Vox vezetője követeli a bevándorlók kitoloncolását és a határ katonai megerősítését. Együtt jelent meg a Patriots vezetőjével, Jordan Bardellával, és a júliusi válság utáni helyzetért a kormányt teszi felelőssé.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és követelések, amelyek nem bizonyított tényállítások, ezért ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:59.630722+00:00"
+    },
+    "telegram:1261826972:53366": {
+      "hu_text": "Sánchez megerősíti, hogy marokkói hadihajók léptek be Ceuta vizeire a bevándorlók tömeges beáramlása idején, és elismeri, hogy magas szintű katonai kapcsolatok voltak a két ország között.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Kormányzati nyilatkozat egy biztonsági eseményről, fontos a hitelesség ellenőrzése a határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:59.630726+00:00"
+    },
+    "telegram:1261826972:53373": {
+      "hu_text": "A Nemzeti Rendőrség kiürített egy illegális lakást Ceutában, Manzanera negyedben, ahol három, július végén szabálytalanul belépett marokkói tartózkodott.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Rendőrségi intézkedésről szóló hír, amely nem tartalmaz közvetlen bizonyítékot, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:59.630729+00:00"
+    },
+    "telegram:1261826972:53395": {
+      "hu_text": "Több civil szervezet a Ceutai Ombudsmanhoz fordul az oltalmazási kérelmekhez való hozzáférés akadályai miatt. Súlyos hiányosságokat jelentenek a szűrési eljárásokban, és kifogásolják, hogy két csoportot (14 és 15 főt) Szudánból és Csádból visszaküldtek Marokkóba, miközben kérvényezték a menedékjogot. Kérik, hogy függesszék fel az ilyen visszaküldéseket.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius kérdés, amelyben súlyos állítások szerepelnek, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:59.630732+00:00"
+    },
+    "telegram:1261826972:53400": {
+      "hu_text": "A Podemos párt illegális visszaküldéseket vádol a bevándorlókkal szemben a ceutai királyi látogatás idején. Ione Belarra szerint a rendőrök azt mondják, hogy ezek a visszaküldések a spanyol kormány és Marokkó közötti megállapodás részei.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állítások és vádak, amelyek komoly jogi és politikai következményekkel járhatnak, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:59.630735+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
