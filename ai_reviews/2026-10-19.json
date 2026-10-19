@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:28:56.653095+00:00"
+    },
+    "information:information:19398": {
+      "hu_text": "@ScottPresler NE SZAVAZZ ZSIDÓKRA!!!! A francba, Amerika! Ébredj fel! Ők rombolják az országunkat. Nézd meg, kik hozták el az abortusz, az LMBTQ, a transzneműség, a gyermekkereskedelem normalizálását, valamint zsarolják vezetőinket, nyitott határokat és tömeges migrációt…",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai véleményt és összeesküvés-elmélet jellegű állításokat tartalmaz migrációval kapcsolatban, de nincs bizonyító forrása, ezért nem ellenőrzött. A társadalmi diskurzus kategóriába tartozik, mert a migrációról szóló véleményt tükröz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:05.685051+00:00"
+    },
+    "information:information:19391": {
+      "hu_text": "@ClownWorld Kíváncsi vagyok, hogy van-e összefüggés a hajónyi bevándorlók véletlenszerű partra érkezésével. Biztos nem miattuk van, hiszen csak ártatlan, katonai korú férfi menekültek voltak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt migránsok érkezésére utal konkrét helyzet nélkül, feltételezve mozgási szándékot. Nem tartalmaz bizonyított adatot, ezért nem ellenőrzött. A migrációs szándék kategóriába sorolható.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:05.685078+00:00"
+    },
+    "information:information:19339": {
+      "hu_text": "Dühös, hogy bűnözőket #kitoloncolnak, ez a gazember hamarosan börtönbe kerül, nyílt lázító, aki a migrációt fegyverként használja az állam ellen. Ez brit neo telepes gyarmatosítás, a hangcsempész a brit koronának ügynöke.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt migrációs eszközként való felhasználásról és bűnözők kitoloncolásáról beszél, politikai véleményt fogalmaz meg, de nincs bizonyított tényadat. A szervezés/embercsempészet kategóriába sorolható, mert migrációs eszközhasználatról szól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:05.685083+00:00"
+    },
+    "information:information:19326": {
+      "hu_text": "Az év elejétől eddig a hajóátkelések száma 20 478 - 40%-kal csökkent. Csak azért, mert az EU-ba belépő migránsok száma 39%-kal csökkent.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét adatokat közöl a migrációs eseményekről (hajóátkelések, migránsok száma), de nincs forrásmegjelölés, ezért nem ellenőrzött. Fontos a migrációs esemény kategóriában, mert statisztikai adatokat tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:05.685088+00:00"
+    },
+    "information:information:19319": {
+      "hu_text": "@HoneywellCassie @MontgomeryToms Mondd el, hogy soha nem voltál bíróságon, anélkül, hogy ezt kimondanád. Ha illegálisan érkeznének, a parton letartóztatnák őket, de bárki, aki bármilyen úton egy aláíró államba érkezik, menedéket kérhet és jogosult rá. Menekültügyi egyezmény 1951/1967.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt a nemzetközi menekültjogi szabályozásra hivatkozik, de nem tartalmaz új tényadatot vagy hivatalos megerősítést, ezért nem ellenőrzött. A politikai/jogi fejlemény kategóriába tartozik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:05.685092+00:00"
+    },
+    "information:information:19323": {
+      "hu_text": "@GrahamJ66488174 @Inevitablewest Magyarország szigorú határellenőrzést tart fenn 2015 óta a balkáni útvonalon, kerítéseket épít és korlátozza a menedékjogot. A kormányok más európai tapasztalatokra hivatkoznak – integrációs nehézségek, egyes magas migrációs területeken megnövekedett bűnözés.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt Magyarország határbiztonsági intézkedéseiről és azok indokairól szól, de nincs hivatalos forrás vagy adat, ezért nem ellenőrzött. A határbiztonság kategóriába tartozik, mert intézkedéseket ismertet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:05.685095+00:00"
     }
   },
   "legacy_reviews": {}
