@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:10.123681+00:00"
+    },
+    "information:information:19100": {
+      "hu_text": "@UKLabour A változásnak a Labour távoznia kellene!\n\nNéhány #Labour eddigi eredménye (a lista naponta frissül):\n- Több mint 85 000 illegális hajós érkezés a Labour hatalomra kerülése óta 2024 júliusában\n- Több mint 8 200 illegális hajós érkezés Andy Burnham hatalomra kerülése óta 2026 júliusában\n- Andy Burnham megvédte a Belügyminisztériumot https://t.co/GEyJmJRyi8",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét számokat és politikai véleményt tartalmaz migrációs érkezésekről, amelyek fontosak a társadalmi diskurzus szempontjából, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:19.912329+00:00"
+    },
+    "information:information:19193": {
+      "hu_text": "Formentera két hajó érkezését regisztrálta 32 migránssal | Spanyolország\nForrás",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről szóló információ, amely fontos a migrációs helyzet nyomon követése szempontjából, de nincs megerősített forrás vagy részletes adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:19.912380+00:00"
+    },
+    "information:information:19089": {
+      "hu_text": "Hogyan vált egy hangzavar egy nyelvvé: a történet, amely egy térképpel kezdődik\nAz olasz nyelv kialakulása és története, amely irodalom, politika és mindennapi élet összefonódásán alapul. A térkép 1815 és 1870 közötti Olaszországot mutatja, amely akkor még nem egységes ország volt, hanem királyságok, hercegségek és városállamok mozaikja.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történeti háttérinformáció, amely nem kapcsolódik közvetlenül a migráció aktuális eseményeihez, ezért alacsony prioritású és nincs szükség azonnali ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:19.912386+00:00"
+    },
+    "information:information:19028": {
+      "hu_text": "@i_hate_dan1 @andrewc44104127 A menekültek és migránsok nem hadsereg. Az éves menedékkérelmek száma kb. 70-85 ezer, a kis hajós érkezések több tízezer, míg a nettó migráció összesen kb. 170 ezer. A muszlimok aránya kb. 7%; még a magas becslések szerint is 2100-ra 20% alatt marad. Nagy-Britanniában vannak választások és bíróságok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt migrációs statisztikákat és társadalmi véleményt tartalmaz, amelyek fontosak a diskurzus szempontjából, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:19.912390+00:00"
+    },
+    "information:information:19030": {
+      "hu_text": "A keresési műveleteket 24 órával meghosszabbították, hogy megtalálják a Slemani család utolsó eltűnt gyermekét, akinek migránshajója október 13-án felborult Törökország és Görögország között. A hozzátartozók jogi lépéseket indítanak az erbil-i kurd embercsempészek ellen.\n\nhttps://t.co/9xSNbOjYct",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét humanitárius eseményről szóló információ, amely fontos a migrációs tragédiák és embercsempészet elleni fellépés szempontjából, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:19.912394+00:00"
+    },
+    "information:information:19032": {
+      "hu_text": "@ThoHanDK @MOSSADil George Soros az OSF alapítványán keresztül főként jogi segítséget finanszíroz menedékkérő ügyvédeknek és civil szervezeteknek, tengeri mentési műveleteket a Földközi-tengeren, politikai lobbitevékenységet Brüsszelben, valamint integrációs projekteket, munkahelyi elhelyezkedési programokat és nyelvtanfolyamokat. Milyen kedves ember.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és állítást tartalmaz migrációs támogatásokról, amely fontos a társadalmi diskurzus szempontjából, de nincs megerősített forrása, és a megfogalmazás szarkasztikus lehet, ami manipulációgyanút vethet fel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:19.912398+00:00"
     }
   },
   "legacy_reviews": {
