@@ -716,6 +716,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:49:39.144635+00:00"
+    },
+    "record:2111547589749289143": {
+      "hu_text": "A családok és fiatal gyerekek utcai árusítással való megjelenése gyakran a súlyos gazdasági nehézségeket és a jogi munkalehetőségek hiányát tükrözi az újonnan érkezett migránsok körében. Egy érdekképviseleti nézőpontból nézve,",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás általános megfigyelés migránsok helyzetéről, de nincs konkrét bizonyíték vagy adat a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:48.492467+00:00"
+    },
+    "record:2111544568600486369": {
+      "hu_text": "A Sinn Féin teljes mértékben támogatja az elosztási politikát, amely szerint az újonnan érkezett migránsok előnyt élveznek az ír állampolgárokkal szemben, akik több mint 15 éve várnak lakhatásra.\n\nMiért gyűlöli a Sinn Féin a szegény, hajléktalan ír embereket?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás a lakhatási politika kapcsán, de nincs megerősített adat vagy hivatalos forrás a támogatottságról vagy a politikai döntésekről, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:48.492484+00:00"
+    },
+    "record:2111542460371337356": {
+      "hu_text": "2026. január 1. és október 12. között 20 935 migráns érkezett kis hajókon az angol csatornán keresztül.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatot tartalmaz a migrációs eseményről, amely fontos lehet a határbiztonság és migrációs trendek szempontjából, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:48.492488+00:00"
+    },
+    "record:2111540351383064741": {
+      "hu_text": "Micsoda marhaság, a kitoloncolások főként vízumtúllépők és önként távozók lesznek, alig deportálnak migránsokat, ők a Munkáspárt jövőbeli szavazói, mert alig lesznek brit Munkáspárt szavazók, kivéve téged, ez az összes hülyeség, amit mondanak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és spekuláció a kitoloncolásokról és politikai következményekről, nincs bizonyíték vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:48.492491+00:00"
+    },
+    "record:2111539899384185327": {
+      "hu_text": "A „nemzeti áldozatvállalás” magasabb adókat, kevesebb közszolgáltatást, lakáshiányt jelent, miközben a kormány szállást és támogatást biztosít az újonnan érkezett migránsoknak. Aztán ugyanaz a kormány azt kérdezi: „Miért nem áldozol többet az országért?” Hát, milyen rejtély.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika a kormány migrációs politikájával kapcsolatban, nincs tényadat vagy hivatalos forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:48.492493+00:00"
+    },
+    "record:2111527397728330208": {
+      "hu_text": "Az Európai Bizottság szerint 4 millió menekült érkezett az EU-ba. Összehasonlításképpen, Kijev lakossága 3 millió.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét adatot közöl az Európába érkezett menekültek számáról, ami fontos információ, de nincs közvetlen forrás vagy bizonyíték a szövegben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:48.492496+00:00"
     }
   },
   "legacy_reviews": {}
