@@ -634,6 +634,301 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1077,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9qq2p",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-19T07:51:23Z",
+      "first_detected_at": "2026-10-19T08:40:54Z",
+      "last_detected_at": "2026-10-19T08:40:54Z",
+      "detection_count": 1,
+      "text": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel open",
+      "url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "source_url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1078,
+      "source": "X",
+      "source_post_id": "2112099439343214727",
+      "author": "sharmapurnima1",
+      "language": "en",
+      "published_at": "2026-10-19T08:32:01Z",
+      "first_detected_at": "2026-10-19T08:41:45Z",
+      "last_detected_at": "2026-10-19T08:41:45Z",
+      "detection_count": 1,
+      "text": "( India Today, August 1998 report)\n\nAltaf Hussain The father of seven came to Delhi 25 years ago. Two sons were deported to Bangladesh but they returned.\n\nSitting inside his dimly-lit hut in Delhi's Seemapuri, home to an estimated 50,000 Bangladeshi immigrants, 50-year-old Altaf https://t.co/Rx1NiuVxwu",
+      "text_excerpt": "( India Today, August 1998 report)\n\nAltaf Hussain The father of seven came to Delhi 25 years ago. Two sons were deported to Bangladesh but they returned.\n\nSitting inside his dimly-lit hut in Delhi's Seemapuri, home to an estimated 50,000 Bangladeshi immigrants, 50-year-old Altaf https://t.co/Rx1NiuVxwu",
+      "url": "https://x.com/sharmapurnima1/status/2112099439343214727",
+      "source_url": "https://x.com/sharmapurnima1/status/2112099439343214727",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "deported"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "immigrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1079,
+      "source": "X",
+      "source_post_id": "2112099135025217667",
+      "author": "naijapodnews1",
+      "language": "en",
+      "published_at": "2026-10-19T08:30:49Z",
+      "first_detected_at": "2026-10-19T08:42:11Z",
+      "last_detected_at": "2026-10-19T08:42:11Z",
+      "detection_count": 1,
+      "text": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/PONFKuHPqO",
+      "text_excerpt": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/PONFKuHPqO",
+      "url": "https://x.com/naijapodnews1/status/2112099135025217667",
+      "source_url": "https://x.com/naijapodnews1/status/2112099135025217667",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1080,
+      "source": "X",
+      "source_post_id": "2112099120940806542",
+      "author": "naijapodnews",
+      "language": "en",
+      "published_at": "2026-10-19T08:30:45Z",
+      "first_detected_at": "2026-10-19T08:42:11Z",
+      "last_detected_at": "2026-10-19T08:42:11Z",
+      "detection_count": 1,
+      "text": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/dFUKq2SKnX",
+      "text_excerpt": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/dFUKq2SKnX",
+      "url": "https://x.com/naijapodnews/status/2112099120940806542",
+      "source_url": "https://x.com/naijapodnews/status/2112099120940806542",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1081,
+      "source": "X",
+      "source_post_id": "2112098971267056117",
+      "author": "all_nigerianews",
+      "language": "en",
+      "published_at": "2026-10-19T08:30:10Z",
+      "first_detected_at": "2026-10-19T08:42:11Z",
+      "last_detected_at": "2026-10-19T08:42:11Z",
+      "detection_count": 1,
+      "text": "12 migrants die in Aegean Sea crossings – Greek coast guard\n\nReported by Punch.\n\nRead coverage:\nhttps://t.co/aZe7IYxim5\n\nAll Nigerian newspapers in one app:\nhttps://t.co/C2dbnBqLBl\n\n#NigeriaNews https://t.co/fR7JNH9piW",
+      "text_excerpt": "12 migrants die in Aegean Sea crossings – Greek coast guard\n\nReported by Punch.\n\nRead coverage:\nhttps://t.co/aZe7IYxim5\n\nAll Nigerian newspapers in one app:\nhttps://t.co/C2dbnBqLBl\n\n#NigeriaNews https://t.co/fR7JNH9piW",
+      "url": "https://x.com/all_nigerianews/status/2112098971267056117",
+      "source_url": "https://x.com/all_nigerianews/status/2112098971267056117",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Sea"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1269,6 +1564,301 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1077,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9qq2p",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-19T07:51:23Z",
+      "first_detected_at": "2026-10-19T08:40:54Z",
+      "last_detected_at": "2026-10-19T08:40:54Z",
+      "detection_count": 1,
+      "text": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel open",
+      "url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "source_url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1078,
+      "source": "X",
+      "source_post_id": "2112099439343214727",
+      "author": "sharmapurnima1",
+      "language": "en",
+      "published_at": "2026-10-19T08:32:01Z",
+      "first_detected_at": "2026-10-19T08:41:45Z",
+      "last_detected_at": "2026-10-19T08:41:45Z",
+      "detection_count": 1,
+      "text": "( India Today, August 1998 report)\n\nAltaf Hussain The father of seven came to Delhi 25 years ago. Two sons were deported to Bangladesh but they returned.\n\nSitting inside his dimly-lit hut in Delhi's Seemapuri, home to an estimated 50,000 Bangladeshi immigrants, 50-year-old Altaf https://t.co/Rx1NiuVxwu",
+      "text_excerpt": "( India Today, August 1998 report)\n\nAltaf Hussain The father of seven came to Delhi 25 years ago. Two sons were deported to Bangladesh but they returned.\n\nSitting inside his dimly-lit hut in Delhi's Seemapuri, home to an estimated 50,000 Bangladeshi immigrants, 50-year-old Altaf https://t.co/Rx1NiuVxwu",
+      "url": "https://x.com/sharmapurnima1/status/2112099439343214727",
+      "source_url": "https://x.com/sharmapurnima1/status/2112099439343214727",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "deported"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "immigrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1079,
+      "source": "X",
+      "source_post_id": "2112099135025217667",
+      "author": "naijapodnews1",
+      "language": "en",
+      "published_at": "2026-10-19T08:30:49Z",
+      "first_detected_at": "2026-10-19T08:42:11Z",
+      "last_detected_at": "2026-10-19T08:42:11Z",
+      "detection_count": 1,
+      "text": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/PONFKuHPqO",
+      "text_excerpt": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/PONFKuHPqO",
+      "url": "https://x.com/naijapodnews1/status/2112099135025217667",
+      "source_url": "https://x.com/naijapodnews1/status/2112099135025217667",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1080,
+      "source": "X",
+      "source_post_id": "2112099120940806542",
+      "author": "naijapodnews",
+      "language": "en",
+      "published_at": "2026-10-19T08:30:45Z",
+      "first_detected_at": "2026-10-19T08:42:11Z",
+      "last_detected_at": "2026-10-19T08:42:11Z",
+      "detection_count": 1,
+      "text": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/dFUKq2SKnX",
+      "text_excerpt": "🎙️ Tragic Aegean Journey: Greek Coast Guard Reports 12 Migrant Fatalities\n\n🎧 Play the News, Don't Read It!\n\nTrending: Happy New Week, Amen\n\n#NaijaPodNews #NigeriaNews\n\nhttps://t.co/dFUKq2SKnX",
+      "url": "https://x.com/naijapodnews/status/2112099120940806542",
+      "source_url": "https://x.com/naijapodnews/status/2112099120940806542",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1081,
+      "source": "X",
+      "source_post_id": "2112098971267056117",
+      "author": "all_nigerianews",
+      "language": "en",
+      "published_at": "2026-10-19T08:30:10Z",
+      "first_detected_at": "2026-10-19T08:42:11Z",
+      "last_detected_at": "2026-10-19T08:42:11Z",
+      "detection_count": 1,
+      "text": "12 migrants die in Aegean Sea crossings – Greek coast guard\n\nReported by Punch.\n\nRead coverage:\nhttps://t.co/aZe7IYxim5\n\nAll Nigerian newspapers in one app:\nhttps://t.co/C2dbnBqLBl\n\n#NigeriaNews https://t.co/fR7JNH9piW",
+      "text_excerpt": "12 migrants die in Aegean Sea crossings – Greek coast guard\n\nReported by Punch.\n\nRead coverage:\nhttps://t.co/aZe7IYxim5\n\nAll Nigerian newspapers in one app:\nhttps://t.co/C2dbnBqLBl\n\n#NigeriaNews https://t.co/fR7JNH9piW",
+      "url": "https://x.com/all_nigerianews/status/2112098971267056117",
+      "source_url": "https://x.com/all_nigerianews/status/2112098971267056117",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Sea"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -1495,6 +2085,62 @@
       "longitude": null,
       "rules_version": "2.6",
       "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1077,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9qq2p",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-19T07:51:23Z",
+      "first_detected_at": "2026-10-19T08:40:54Z",
+      "last_detected_at": "2026-10-19T08:40:54Z",
+      "detection_count": 1,
+      "text": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel open",
+      "url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "source_url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
       "analyst_priority": "MEDIUM"
     }
   ],
@@ -1723,6 +2369,62 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1077,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9qq2p",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-19T07:51:23Z",
+      "first_detected_at": "2026-10-19T08:40:54Z",
+      "last_detected_at": "2026-10-19T08:40:54Z",
+      "detection_count": 1,
+      "text": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel open",
+      "url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "source_url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "top_crossing_access_posts": [
@@ -1938,6 +2640,81 @@
       ],
       "related_sources": [
         "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1077,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9qq2p",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-19T07:51:23Z",
+      "first_detected_at": "2026-10-19T08:40:54Z",
+      "last_detected_at": "2026-10-19T08:40:54Z",
+      "detection_count": 1,
+      "text": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel open",
+      "url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "source_url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.1,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 3,
+      "related_post_ids": [
+        "reddit_1x9qq2p",
+        "reddit_1x8z0sk",
+        "reddit_1x8z0ht"
+      ],
+      "related_authors": [
+        "Permanent-ephemeral"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+        "https://www.reddit.com/r/seafarerPH/comments/1x8z0sk/building_a_maritime_recruitment_hub_im_looking/",
+        "https://www.reddit.com/r/MarinongPilipino/comments/1x8z0ht/building_a_maritime_recruitment_hub_im_looking/"
+      ],
+      "related_sources": [
+        "REDDIT"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -2159,9 +2936,80 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1077,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1x9qq2p",
+      "author": "Permanent-ephemeral",
+      "language": null,
+      "published_at": "2026-10-19T07:51:23Z",
+      "first_detected_at": "2026-10-19T08:40:54Z",
+      "last_detected_at": "2026-10-19T08:40:54Z",
+      "detection_count": 1,
+      "text": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel openings based on your location, rank, experience, and preferences. Job listings with enough detail to help you decide whether to apply. Free job searching for seafarers, with manning agencies paying a subscription fee to use the platform. (For now, this is the proposed business model to keep the website and app running.) It's still a plan. Before launching, I need to consult the Department of Migrant Workers (DMW) and maritime lawyers to understand the requirements and how the website and app should operate. For now, I'm looking for people willing to answer a survey. I'd like to know: Where do you usually find maritime job openings? What makes searching or applying difficult? Would a map and personalised search help you? What would make you trust a platform like this, or put you off using it? This is an independent project, and I'm gathering feedback only. I'm not accepting applications for any specific job. You're welcome to share your thoughts in the comments too. If you think something wouldn't work or isn't needed, I'd like to hear that. Your feedback will help me decide what to build and whether it would make job searching easier. Thanks for your time!",
+      "text_excerpt": "Sa mga seafarers, share your feedback & get a chance to win a ₱500 Jollibee GC\nHi everyone! I've been working in vessel IT for eight years, and I'm thinking about a different career path. I'm planning a project called MarinoHub, a website and app where seafarers can find crew job openings in one place. Before I take it further, I'd like to hear from seafarers, cadets, and anyone working in crewing or recruitment. Survey: MarinoHub | Survey - No need for any personal information. Here are some features I'm considering: An interactive map showing manning agencies with current openings, so you can check who's hiring near you. An AI-powered search bar that helps you find companies or vessel open",
+      "url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "source_url": "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/",
+      "primary_signal": "DECISION_INFLUENCE",
+      "signal_type": "DECISION_INFLUENCE",
+      "signal_mode": "DIRECT",
+      "signal_intent": "DECISION_INFLUENCE",
+      "priority": "MEDIUM",
+      "confidence": 0.86,
+      "score": 15.0,
+      "matched_signals": [
+        "DECISION_INFLUENCE"
+      ],
+      "matched_phrases": [
+        [
+          "information_spread",
+          "help you decide"
+        ],
+        [
+          "decision_influence",
+          "help you decide"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.1,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1x9qq2p"
+      ],
+      "related_authors": [
+        "Permanent-ephemeral"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/classifiedsph/comments/1x9qq2p/sa_mga_seafarers_share_your_feedback_get_a_chance/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T07:31:58.069783+00:00",
+  "last_archived_at": "2026-10-19T08:43:07.744516+00:00",
   "live_events": [
     {
       "id": 648,
@@ -2360,6 +3208,50 @@
       "text": "LESVOS, GREECE — Boat collision killed 6 migrants, including infant; 8 survived. Suspected smuggler arrested; investigation ongoing.\nSource: https://t.co/gBexgQ54z1\nSCOOP NEWS #Greece",
       "url": "https://x.com/Wglogan2022/status/2112083719607718314",
       "source_url": "https://x.com/Wglogan2022/status/2112083719607718314"
+    },
+    {
+      "id": 657,
+      "event_id": 657,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117466631103191109",
+      "author": null,
+      "published_at": "2026-10-19T08:29:05Z",
+      "collected_at": "2026-10-19T08:40:55Z",
+      "event_type": "RESCUE_OPERATION",
+      "signal_type": "RESCUE_OPERATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Doce migrantes mueren en dos accidentes marítimos frente a Lesbos y Samos. Entre las víctimas hay un bebé y 22 personas fueron rescatadas en el Egeo. # Grecia # Lesbos # Samos # MarEgeo # Migrantes # Migracion # Mediterraneo # Europa # GuardiaCostera # Naufragio # RescateMaritimo # Internacional # Actualidad # felizlunes # 19deoctubre https:// elfolio.es/migrantes-muertos-l esbos-samos-mar-egeo/",
+      "url": "https://mastodon.social/@elfolio/117466631103191109",
+      "source_url": "https://mastodon.social/@elfolio/117466631103191109"
+    },
+    {
+      "id": 658,
+      "event_id": 658,
+      "source": "X",
+      "source_post_id": "2112095813342314939",
+      "author": "DeleteLawz2024",
+      "published_at": "2026-10-19T08:17:37Z",
+      "collected_at": "2026-10-19T08:43:02Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@benonwine Yeah.\n\nA recently arrived \"Refugee from Algeria\" was simply wanting to shop for cantaloupe and got caught in the cross fire of mostly peaceful student protests about class sizes.",
+      "url": "https://x.com/DeleteLawz2024/status/2112095813342314939",
+      "source_url": "https://x.com/DeleteLawz2024/status/2112095813342314939"
     }
   ],
   "event_groups": [
@@ -3775,6 +4667,117 @@
       "influence_detected": false,
       "first_collected_at": "2026-10-19T07:30:45Z",
       "last_collected_at": "2026-10-19T07:30:45Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19538",
+      "timestamp": "2026-10-19T08:29:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112098751556759979",
+      "author": "TabetAbdel27324",
+      "url": "https://x.com/TabetAbdel27324/status/2112098751556759979",
+      "source_url": "https://x.com/TabetAbdel27324/status/2112098751556759979",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "coast_guard"
+      ],
+      "freshness_cues": [],
+      "text": "Twelve migrants killed in two incidents in the Aegean Sea, according to the Greek coast guard\nLink the article\nhttps://t.co/HkIg3PhzIa\nhttps://t.co/4UKxftD1p3\nhttps://t.co/3A6jsnrXfu https://t.co/3IV58yJDdw",
+      "text_excerpt": "Twelve migrants killed in two incidents in the Aegean Sea, according to the Greek coast guard\nLink the article\nhttps://t.co/HkIg3PhzIa\nhttps://t.co/4UKxftD1p3\nhttps://t.co/3A6jsnrXfu https://t.co/3IV58yJDdw",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T08:42:11Z",
+      "last_collected_at": "2026-10-19T08:42:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19539",
+      "timestamp": "2026-10-19T08:29:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112098741734039917",
+      "author": "TabetAbdel27324",
+      "url": "https://x.com/TabetAbdel27324/status/2112098741734039917",
+      "source_url": "https://x.com/TabetAbdel27324/status/2112098741734039917",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "coast_guard"
+      ],
+      "freshness_cues": [],
+      "text": "Twelve migrants killed in two incidents in the Aegean Sea, according to the Greek coast guard\nLink the article\nhttps://t.co/HkIg3Pi7xI\nhttps://t.co/4UKxftDzeB\nhttps://t.co/3A6jsnsv52 https://t.co/LUwNJb7bN7",
+      "text_excerpt": "Twelve migrants killed in two incidents in the Aegean Sea, according to the Greek coast guard\nLink the article\nhttps://t.co/HkIg3Pi7xI\nhttps://t.co/4UKxftDzeB\nhttps://t.co/3A6jsnsv52 https://t.co/LUwNJb7bN7",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T08:42:11Z",
+      "last_collected_at": "2026-10-19T08:42:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19532",
+      "timestamp": "2026-10-19T08:26:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112098061786988571",
+      "author": "MohdR33992",
+      "url": "https://x.com/MohdR33992/status/2112098061786988571",
+      "source_url": "https://x.com/MohdR33992/status/2112098061786988571",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "Twelve migrants, including a baby and five women, died Monday after two separate maritime incidents in the Aegean Sea near Lesbos and Samos. Authorities confirmed a collision with a patrol boat and a capsizing led to the fatalities. 🌊 — via The Hindu #Greece #Aegean https://t.co/pHj3JCXw8V",
+      "text_excerpt": "Twelve migrants, including a baby and five women, died Monday after two separate maritime incidents in the Aegean Sea near Lesbos and Samos. Authorities confirmed a collision with a patrol boat and a capsizing led to the fatalities. 🌊 — via The Hindu #Greece #Aegean https://t.co/pHj3JCXw8V",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T08:41:45Z",
+      "last_collected_at": "2026-10-19T08:41:45Z",
       "collection_count": 1
     }
   ]
