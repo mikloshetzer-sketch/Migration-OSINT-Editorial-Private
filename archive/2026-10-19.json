@@ -341,6 +341,123 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1073,
+      "source": "X",
+      "source_post_id": "2111986630319886486",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T01:03:46Z",
+      "first_detected_at": "2026-10-19T02:12:05Z",
+      "last_detected_at": "2026-10-19T02:12:05Z",
+      "detection_count": 1,
+      "text": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "text_excerpt": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "url": "https://x.com/grok/status/2111986630319886486",
+      "source_url": "https://x.com/grok/status/2111986630319886486",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 17.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ],
+        [
+          "smuggling_ecosystem",
+          "Smuggling networks"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1072,
+      "source": "X",
+      "source_post_id": "2112002790344266143",
+      "author": "Black_StarH16",
+      "language": "en",
+      "published_at": "2026-10-19T02:07:58Z",
+      "first_detected_at": "2026-10-19T02:11:12Z",
+      "last_detected_at": "2026-10-19T02:11:12Z",
+      "detection_count": 1,
+      "text": "The most primary things is to be RESPONSIVE, not only like INFORMATIONAL but also communicated and IMPLEMENTED IT, making this the best PRIORITY to do!! Unfortunately now massive wave of refugees come to your border! 🇵🇱 https://t.co/cqRCL34qZN",
+      "text_excerpt": "The most primary things is to be RESPONSIVE, not only like INFORMATIONAL but also communicated and IMPLEMENTED IT, making this the best PRIORITY to do!! Unfortunately now massive wave of refugees come to your border! 🇵🇱 https://t.co/cqRCL34qZN",
+      "url": "https://x.com/Black_StarH16/status/2112002790344266143",
+      "source_url": "https://x.com/Black_StarH16/status/2112002790344266143",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -683,6 +800,123 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1073,
+      "source": "X",
+      "source_post_id": "2111986630319886486",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T01:03:46Z",
+      "first_detected_at": "2026-10-19T02:12:05Z",
+      "last_detected_at": "2026-10-19T02:12:05Z",
+      "detection_count": 1,
+      "text": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "text_excerpt": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "url": "https://x.com/grok/status/2111986630319886486",
+      "source_url": "https://x.com/grok/status/2111986630319886486",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 17.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ],
+        [
+          "smuggling_ecosystem",
+          "Smuggling networks"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1072,
+      "source": "X",
+      "source_post_id": "2112002790344266143",
+      "author": "Black_StarH16",
+      "language": "en",
+      "published_at": "2026-10-19T02:07:58Z",
+      "first_detected_at": "2026-10-19T02:11:12Z",
+      "last_detected_at": "2026-10-19T02:11:12Z",
+      "detection_count": 1,
+      "text": "The most primary things is to be RESPONSIVE, not only like INFORMATIONAL but also communicated and IMPLEMENTED IT, making this the best PRIORITY to do!! Unfortunately now massive wave of refugees come to your border! 🇵🇱 https://t.co/cqRCL34qZN",
+      "text_excerpt": "The most primary things is to be RESPONSIVE, not only like INFORMATIONAL but also communicated and IMPLEMENTED IT, making this the best PRIORITY to do!! Unfortunately now massive wave of refugees come to your border! 🇵🇱 https://t.co/cqRCL34qZN",
+      "url": "https://x.com/Black_StarH16/status/2112002790344266143",
+      "source_url": "https://x.com/Black_StarH16/status/2112002790344266143",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -853,6 +1087,62 @@
       "longitude": null,
       "rules_version": "2.6",
       "priority_score": 50.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1073,
+      "source": "X",
+      "source_post_id": "2111986630319886486",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T01:03:46Z",
+      "first_detected_at": "2026-10-19T02:12:05Z",
+      "last_detected_at": "2026-10-19T02:12:05Z",
+      "detection_count": 1,
+      "text": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "text_excerpt": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "url": "https://x.com/grok/status/2111986630319886486",
+      "source_url": "https://x.com/grok/status/2111986630319886486",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 17.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ],
+        [
+          "smuggling_ecosystem",
+          "Smuggling networks"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
     }
   ],
@@ -1025,6 +1315,62 @@
       "rules_version": "2.6",
       "priority_score": 50.1,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1073,
+      "source": "X",
+      "source_post_id": "2111986630319886486",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T01:03:46Z",
+      "first_detected_at": "2026-10-19T02:12:05Z",
+      "last_detected_at": "2026-10-19T02:12:05Z",
+      "detection_count": 1,
+      "text": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "text_excerpt": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "url": "https://x.com/grok/status/2111986630319886486",
+      "source_url": "https://x.com/grok/status/2111986630319886486",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 17.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ],
+        [
+          "smuggling_ecosystem",
+          "Smuggling networks"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "top_crossing_access_posts": [
@@ -1169,6 +1515,77 @@
       ],
       "related_sources": [
         "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1073,
+      "source": "X",
+      "source_post_id": "2111986630319886486",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T01:03:46Z",
+      "first_detected_at": "2026-10-19T02:12:05Z",
+      "last_detected_at": "2026-10-19T02:12:05Z",
+      "detection_count": 1,
+      "text": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "text_excerpt": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "url": "https://x.com/grok/status/2111986630319886486",
+      "source_url": "https://x.com/grok/status/2111986630319886486",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 17.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ],
+        [
+          "smuggling_ecosystem",
+          "Smuggling networks"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2111986630319886486"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2111986630319886486"
+      ],
+      "related_sources": [
+        "X"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -1319,9 +1736,80 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1073,
+      "source": "X",
+      "source_post_id": "2111986630319886486",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T01:03:46Z",
+      "first_detected_at": "2026-10-19T02:12:05Z",
+      "last_detected_at": "2026-10-19T02:12:05Z",
+      "detection_count": 1,
+      "text": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "text_excerpt": "@tyronerobb @andrewc44104127 The constraints are structural. Smuggling networks adapt faster than enforcement measures. Returns depend on incomplete deals with origin or transit countries. ECHR rules, particularly Article 8, enable repeated appeals that slow removals. The Immigration and Asylum Bill tightens",
+      "url": "https://x.com/grok/status/2111986630319886486",
+      "source_url": "https://x.com/grok/status/2111986630319886486",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 17.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ],
+        [
+          "smuggling_ecosystem",
+          "Smuggling networks"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2111986630319886486"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2111986630319886486"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-18T23:59:59.433299+00:00",
+  "last_archived_at": "2026-10-19T02:12:33.797960+00:00",
   "live_events": [
     {
       "id": 648,
@@ -1388,6 +1876,28 @@
       "text": "@PhilipIngMBE @DavidBr33139978 @DailyMail Good thing you can conscript your newly arrived \"migrants.\"",
       "url": "https://x.com/admspec01/status/2111959397882622141",
       "source_url": "https://x.com/admspec01/status/2111959397882622141"
+    },
+    {
+      "id": 651,
+      "event_id": 651,
+      "source": "X",
+      "source_post_id": "2112002863128068194",
+      "author": "B_mirabilis",
+      "published_at": "2026-10-19T02:08:16Z",
+      "collected_at": "2026-10-19T02:12:30Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@mirijoie @YehoshuaCohen__ @masadaboy48 https://t.co/wbvjOahB4h\nSounds like they arrived as refugees over the century prior, and mostly left after Rhodesia got going.",
+      "url": "https://x.com/B_mirabilis/status/2112002863128068194",
+      "source_url": "https://x.com/B_mirabilis/status/2112002863128068194"
     }
   ],
   "event_groups": [
@@ -1477,6 +1987,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-18T23:59:53Z",
       "updated_at": "2026-10-18T23:59:53Z"
+    },
+    {
+      "id": 526,
+      "group_id": 526,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@mirijoie @YehoshuaCohen__ @masadaboy48 https://t.co/wbvjOahB4h\nSounds like they arrived as refugees over the century prior, and mostly left after Rhodesia got going.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-19T02:08:16Z",
+      "last_seen": "2026-10-19T02:08:16Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-19T02:12:30Z",
+      "updated_at": "2026-10-19T02:12:30Z"
     }
   ]
 }
