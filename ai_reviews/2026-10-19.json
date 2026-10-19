@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:14.743518+00:00"
+    },
+    "information:information:19473": {
+      "hu_text": "Nézd meg Biden USA-ját. Ó, most Franciaország. Ha balra szavazol, erre szavazol! Mit tett Trump ennek megállítására? Bevetette a Nemzeti Gárdát és kitoloncolta az illegális migránsokat. Nincsenek nyitott határok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások migrációs intézkedésekről, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:23.780074+00:00"
+    },
+    "information:information:19485": {
+      "hu_text": "Az illegális hajók, amelyek a partjainkra érkeznek, törvény szerint azonnal letartóztatásra és kitoloncolásra kerülnek, ezért a Határőrség a Francia és az Angol Csatorna közelében gyűjti össze őket! Üdvözölve vannak! 200 ezer migránsnak engedélyezték a tartózkodást itt! A kormány elfelejtette a saját hajléktalanjainkat!",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítások határbiztonsági intézkedésekről és migránsok számáról, amelyek fontosak a migrációs helyzet megértéséhez, de nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:23.780094+00:00"
+    },
+    "information:information:19502": {
+      "hu_text": "Nincsenek hiteles videók arról, hogy izraeli segítők részt vettek volna a 2026-os Ceuta vagy Marokkó-Spanyolország átkeléseknél. Az izraeli önkéntesekről (gyakran IsraAID-ként jelölve) szóló felvételek 2015-ből, Leszboszról származnak. Az izraeli helyszíni részvételről szóló állítások nem igazoltak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítások migrációs eseményekhez kapcsolódó segítő tevékenységről, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:23.780099+00:00"
+    },
+    "information:information:19538": {
+      "hu_text": "Tizenkét migráns halt meg két különböző esetben az Égei-tengeren a görög parti őrség szerint.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesetekről szóló információk migránsokkal kapcsolatban, amelyek fontosak a humanitárius helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:23.780103+00:00"
+    },
+    "information:information:19539": {
+      "hu_text": "Tizenkét migráns halt meg két különböző esetben az Égei-tengeren a görög parti őrség szerint.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz a haláleseti információ, mint az előző rekord, fontos humanitárius jelentőségű, de nincs ellenőrzött forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:23.780107+00:00"
+    },
+    "information:information:19532": {
+      "hu_text": "Hétfőn tizenkét migráns, köztük egy csecsemő és öt nő, halt meg két különböző tengeri balesetben az Égei-tengeren, Leszbosz és Számos közelében. A hatóságok megerősítették, hogy egy járőrhajóval történt ütközés és egy felborulás vezetett a halálesetekhez.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletesebb beszámoló a migránsok haláleseteiről tengeri balesetekben, fontos humanitárius információ, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:23.780110+00:00"
     }
   },
   "legacy_reviews": {}
