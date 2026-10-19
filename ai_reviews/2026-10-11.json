@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-11",
+  "reviews": {
+    "telegram:1829938518:5701": {
+      "hu_text": "Katasztrófa Dzsibuti partjainál: 139 migráns meghalt és további 84 eltűnt, miközben Jemenbe próbáltak átkelni.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos humanitárius eseményről számol be, de nincs megerősített forrás vagy további bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:08:54.440419+00:00"
+    },
+    "telegram:1210933980:1139": {
+      "hu_text": "Az Egyesült Államokban 2026. november 30-tól több mint kétszeresére emelkednek az EB-5 befektetői vízumprogram díjai. A befektetési összegek nem változnak, de 2027. január 1-jétől inflációkövető korrekció lép életbe. Thaiföld négy év alatt 43 milliárd baht bevételt ért el a 10 éves LTR vízumprogrammal, amely főként gazdag nyugdíjasokat és technológiai vezetőket vonzott. Finnország 2028-tól egyszerűsíti a startup vállalkozók tartózkodási engedélyének kiadását.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több ország migrációs és vízumpolitikájával kapcsolatos információkat tartalmaz, de nincs hivatalos forrás vagy megerősítés a változásokra vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:08:54.440439+00:00"
+    },
+    "telegram:1210507736:2508": {
+      "hu_text": "Gyors hírek migránsok számára [2026.10.11.] Oroszországból. Videók és ingyenes jogi információk elérhetők a megadott linken.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés általános tájékoztatást nyújt migránsoknak, de nem tartalmaz konkrét tényállítást vagy eseményt, így alacsony a prioritása.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:08:54.440444+00:00"
+    }
+  }
+}
