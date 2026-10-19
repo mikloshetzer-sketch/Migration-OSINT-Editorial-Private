@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:11:52.503325+00:00"
+    },
+    "information:information:17817": {
+      "hu_text": "@EndWokeness Képzeld el, hogy a szomáliaiak legálisan érkeztek az Egyesült Államokba.\n\nLegális ≠ Asszimiláció\nLegális ≠ Hűség\n\nKi kellene őket toloncolni. Ha nem, akkor egyáltalán nem vagyunk-e egy nemzet egy zászló alatt?\n\nA menedékjogi és menekültügyi bevándorlási törvényeket felül kell vizsgálni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket tartalmaz a bevándorlási törvényekről és a nemzeti összetartozásról, de nincs konkrét bizonyíték vagy adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:05.391803+00:00"
+    },
+    "information:information:17792": {
+      "hu_text": "A Trump-kormányzat fontolgatja, hogy illegális bevándorlókat deportáljon hajókon, beleértve egy 152 méteres kiképző hajót és kompokat, Közép- és Dél-Amerikába.\n\nMár 3,3 millió illegális bevándorló hagyta el az Egyesült Államokat Trump hivatalba lépése óta, egy olyan szám, amelyet a https://t.co/hyeR6TW8Yr link is említ.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét intézkedéseket és statisztikákat említ a migrációs politikában, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:05.391826+00:00"
+    },
+    "information:information:17782": {
+      "hu_text": "@mattvanswol Igazad van, ideje véget vetni ennek, mindannyian menjünk Mexikóba, lépjük át a határt, és állítsuk, hogy menekültek vagyunk, hogy visszakapjuk a pénzünk egy részét.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy szarkasztikus vagy ironikus megjegyzés a migrációs szándékról, nincs konkrét tény vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:05.391833+00:00"
+    },
+    "information:information:17783": {
+      "hu_text": "@JulianaStratton MI A BAJ AZ EGÉSZSÉGÜGGYEL, KIVÉVE, HOGY NEKÜNK KELL FIZETNÜNK AZ ILLEGÁLIS HATÁRÁTLEPŐ MIGRÁNSOK MIATTI KÖLTSÉGEKET AZ ORSZÁGUNKBAN?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény a migránsok egészségügyi költségeiről, de nincs konkrét adat vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:05.391839+00:00"
+    },
+    "information:information:17801": {
+      "hu_text": "Bud Abbott (felül) és Lou Costello (leszállás) a lépcsőház urai... #BudBudTheSpud #LouTheCreamfilledCat #MastodonMacskái #FediverseMacskái #Catstodon #Macskarajongók #Macskaértékelők #Humánus #Mentés",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés macskákról és humoros tartalomról szól, nincs köze a migrációhoz vagy kapcsolódó témákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:05.391843+00:00"
+    },
+    "information:information:17786": {
+      "hu_text": "@Finaly0000 @NicholasLissack Lehet, hogy voltak, de hol voltak a tüntetések és a maszkok, amikor a konzervatívok drága szállodákban helyezték el a migránsokat, és a hajóátlépések őrült szinten voltak (még mindig túl magasak, de csak töredéke annak, amikor a jobboldali konzervatívok voltak hatalmon)?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény a migrációs politikáról és a társadalmi reakciókról, nincs konkrét bizonyíték vagy adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:05.391848+00:00"
     }
   },
   "legacy_reviews": {}
