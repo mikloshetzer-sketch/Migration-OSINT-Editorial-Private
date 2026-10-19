@@ -1783,6 +1783,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:53:36.222566+00:00"
+    },
+    "record:reddit_1xa10jt": {
+      "hu_text": "Francia kötvények és részvények esnek, miközben a szélsőbaloldali, migráns zavargások súlyosbodnak — Macron nem tudja helyreállítani a rendet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és általános állítást tartalmaz, de nincs konkrét bizonyíték a zavargások súlyosbodására vagy a piacok reakciójára. Ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:43.556607+00:00"
+    },
+    "record:2112222295427014728": {
+      "hu_text": "@mattyglesias Az egyik oka annak, hogy a határőrizet nem tud együtt létezni a baloldali bevándorlási problémával, hogy ők általában elfogadják a tömeges, manipulált menedékjogi/kérelmeket, csak a kitoloncolásokat nem akarják. De ez még mindig egyfajta de facto nyitott határ, ami továbbra is rájuk fogja vetíteni ezt a problémát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és értelmezést tartalmaz a határőrizeti és bevándorlási politikáról, de nincs konkrét bizonyíték vagy adat a támogatására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:43.556626+00:00"
+    },
+    "record:2112299706579636354": {
+      "hu_text": "@johnadgrady Miért nem toltad ki a dzsihádista, lefejező, menedékjogot követelő szörnyeteget az ECHR miatt?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy személyes, durva vélemény, nem tényállítás vagy bizonyítható esemény. Nem tartalmaz migrációs eseményre vagy politikára vonatkozó konkrét adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:43.556631+00:00"
+    },
+    "record:2112287677131395491": {
+      "hu_text": "12 MIGRÁNS HALOTT GÖRÖGORSZÁG KÖRÜL, KÖZTÜK EGY BABA\n\nKét külön hajóbaleset a Leszbosz és Számos szigetek közelében 12 halálos áldozatot követelt, közlik a görög hatóságok. A túlélőket kimentették, és embercsempészet gyanújával nyomozás folyik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét halálesetekről és nyomozásról számol be, ami fontos migrációs esemény. Az állítás ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:43.556635+00:00"
+    },
+    "record:2112286349055365405": {
+      "hu_text": "@Terceracuanta @ThatGirlCasey1 @ksorbs A migráns- és menekültpárti NGO-k 95%-a zsidó.\nAz Atlanti-óceánon rabszolgákat szállító hajók 90%-a zsidó tulajdonban volt.\nUgyanazok a zsidók, akik megnyitották Toledo kapuit, és 1948 óta milliókat helyeznek ki muszlimokat a Közel-Keleten.\nEzt hívják mintázatnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés összeesküvés-elmélet jellegű, erős általánosításokat és történelmi állításokat tartalmaz, de nincs bizonyíték a migrációs kontextusban. Nem megbízható információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:43.556639+00:00"
     }
   },
   "legacy_reviews": {}
