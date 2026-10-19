@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:28:40.240476+00:00"
+    },
+    "information:information:19422": {
+      "hu_text": "Hat migráns, köztük egy csecsemő, meghalt egy gyorsmotoros és egy görög parti őrség hajó ütközése során Leszbosz közelében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragikus baleset migrációs esemény, amely halálesetekkel jár, ezért magas prioritású. Az állítás nem ellenőrzött, mert nincs megerősítő forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:48.117098+00:00"
+    },
+    "information:information:19423": {
+      "hu_text": "Hat migráns, köztük egy csecsemő, meghalt egy gyorsmotoros és egy görög parti őrség hajó ütközése során Leszbosz közelében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ ismétlése ugyanarról a tragikus eseményről, migrációs eseményként fontos, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:48.117118+00:00"
+    },
+    "information:information:19450": {
+      "hu_text": "Hat migráns, köztük egy csecsemő, meghalt, miután egy Törökországból érkező gyorsmotoros összeütközött egy görög parti őrség hajójával Leszbosz szigeténél hétfőn.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletesebb információ ugyanarról a tragikus migrációs eseményről, halálesetekkel. Az állítás nem ellenőrzött, mert nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:48.117123+00:00"
+    },
+    "information:information:19439": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik át a lengyel határon: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Lengyelországba vagy Németországba akarok menni, hogy jó életet éljek.”",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A migránsok mozgási szándékát és határátlépési nehézségeit mutatja be, fontos a migrációs helyzet megértéséhez, de az állítás nem ellenőrzött, mert személyes panaszokat tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:48.117128+00:00"
+    },
+    "information:information:19441": {
+      "hu_text": "Felhasználó szerint nem kell kormányzati adatokra hagyatkozni, mert a valóságban látják, hogy külföldi munkások építenek otthonokat és vállalkozásokat, és nem fogadják el a hivatalos migrációs statisztikákat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és társadalmi diskurzus a migrációról, nem tényállítás, ezért alacsony prioritású és nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:48.117134+00:00"
+    },
+    "information:information:19442": {
+      "hu_text": "Egy felhasználó szerint az RNLI (a tengeri mentőszolgálat) jótékonysági szervezetként alakult, de sajnos illegális migránsokat szállító taxi szolgálattá vált az Egyesült Királyságba. Állítása szerint a migránsok 99%-a nincs veszélyben, mert a francia határőrség nem hagyja őket az RNLI érkezése előtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és társadalmi diskurzus a migrációs mentési műveletekről, amely nem bizonyított tény, de releváns a migrációs helyzet megértéséhez. Az állítás részben manipulációgyanús lehet, mert általánosít és nem bizonyított.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:48.117140+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
