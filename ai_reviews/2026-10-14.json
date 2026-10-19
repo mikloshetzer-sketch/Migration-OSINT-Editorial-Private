@@ -903,6 +903,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:53.230225+00:00"
+    },
+    "information:information:18505": {
+      "hu_text": "2026. október 14-i napi Szövetségi Közlöny szabályozási frissítések: többek között az őslakos amerikai programok szabályozásának egyszerűsítése, új bűnügyi előélet-nyilatkozat az AmeriCorps VISTA programhoz, egy génmódosított afrikai körömvirág szabályozás alóli kivétele, valamint egy törzsi szerencsejáték-kompakt módosításának jóváhagyása. Emellett vám- és egészségügyi értesítések is szerepelnek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Hivatalos szabályozási értesítések, de nem közvetlenül migrációs esemény vagy szándék. Nem áll rendelkezésre további ellenőrző információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:18.451651+00:00"
+    },
+    "information:information:17523": {
+      "hu_text": "Egy dokumentumfilm nyomon követi a migránsok útvonalát Afrikából a Kanári-szigetekre, majd Spanyolországon, Franciaországon és az Egyesült Királyságon keresztül két hónap alatt. Bemutatja a hajóérkezéseket, a határátlépést segítő civil szervezeteket, a migránsok belső átszállítását repülővel, valamint egy ENSZ/IOM munkatárssal folytatott titkos beszélgetést.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A leírás migrációs útvonalat és eseményeket tartalmaz, de nincs megerősített forrás vagy további bizonyíték a dokumentumfilm hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:18.451679+00:00"
+    },
+    "information:information:17544": {
+      "hu_text": "Öt évvel ezelőtt, a Biden-kormányzat alatt több mint 450 000 kísérő nélküli migráns gyermek tűnt el az Egyesült Államokban, sokan ember- és szexkereskedelem áldozatai lettek. Trump elnök véget vetett ennek az állapotnak és visszaállította a határok ellenőrzését.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állítás migrációs adatokról, amelyeket nem támasztanak alá hiteles források, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:18.451687+00:00"
+    },
+    "information:information:17482": {
+      "hu_text": "Több állítás egy posztban: gyerekek kasztrálása, Irán nukleáris fegyvereket épít, Tylenol autizmust okoz, halászhajók nagy mennyiségű drogot csempésznek, és migránsok elveszik a munkákat – utóbbi a kedvenc vicces állítás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Több, valószínűleg hamis vagy félrevezető állítás keveréke, nincs bizonyíték, inkább politikai vagy szatirikus vélemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:18.451692+00:00"
+    },
+    "information:information:17483": {
+      "hu_text": "Egy komment szerint hiába mondanánk, hogy 100 000, senki sem hinné el, mert a francia kormány évtizedek óta segíti a csempészetet civil szervezeteken és jótékonyságokon keresztül, valamint a saját határőrség is. Mind a konzervatívok, mind a Munkáspárt Blair óta nem megbízható a migráció csökkentését akarók számára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás a migrációs politika és szervezetek szerepéről, nincs bizonyíték, de releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:18.451697+00:00"
+    },
+    "information:information:17465": {
+      "hu_text": "Ursula von der Leyen az EU vezetőit arra ösztönzi, hogy szigorítsák a határőrizetet a Ceuta válság után. Javasolja egy vészhelyzeti reagálási keretrendszer létrehozását a fegyverként használt migráció kezelésére, a Frontex szélesebb jogkörét és a kitoloncolások számának növelését.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai kezdeményezés az EU migrációs és határbiztonsági politikájában, de nincs megerősített hivatalos dokumentum vagy további forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:18.451701+00:00"
     }
   },
   "legacy_reviews": {}
