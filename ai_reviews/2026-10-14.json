@@ -155,6 +155,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:56:10.663689+00:00"
+    },
+    "telegram:1604168769:12203": {
+      "hu_text": "Irkutszkban új migrációs központ nyílt, ahol külföldi állampolgárok egy helyen intézhetik hivatalosan az összes dokumentumukat. A központban lehetőség van patent megszerzésére, nyelvvizsga letételére, ujjlenyomat regisztrációra és állami díjak befizetésére.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy új migrációs központ megnyitását jelzi, ami releváns migrációs esemény. Az állítás ellenőrzése hiányzik, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:20.297456+00:00"
+    },
+    "telegram:1604168769:12204": {
+      "hu_text": "Tulában építkezéseken razziákat tartottak, melyek során 36 adminisztratív jegyzőkönyvet állítottak ki migrációs szabályok megsértése miatt. A legtöbb szabálysértés illegális munkavégzéshez és az országban tartózkodás szabályainak megszegéséhez kapcsolódik, öt személynek kiutasítási kötelezettséget szabtak ki.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs szabályszegésekről és hatósági intézkedésekről szól, ami releváns a határbiztonság témakörében. Az állítások ellenőrzése nem történt meg.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:20.297474+00:00"
+    },
+    "telegram:1604168769:12205": {
+      "hu_text": "Voronyezsben egy 35 éves orosz állampolgárt letartóztattak, mert 11 külföldit hamisan regisztrált a lakcímén. Az orosz büntető törvénykönyv 322.3 cikke alapján akár 5 év börtönbüntetés is kiszabható hamis lakcímregisztráció miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogi szabályozással és büntetőeljárással kapcsolatos, ami releváns a migrációs jogi környezet szempontjából. Az állítások ellenőrzése hiányzik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:20.297477+00:00"
+    },
+    "telegram:1604168769:12208": {
+      "hu_text": "Oroszországban egy migránst 10 év börtönre ítéltek, mert nem tudta időben hivatalosan rendezni papírjait, így illegális munkát végzett és tiltott anyagokat terjesztett az interneten keresztül. A rendőrség elfogta, és a bíróság 10 év szabadságvesztést szabott ki rá.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos bűncselekményről és büntetésről szól migránsokkal kapcsolatban, ami fontos jogi és társadalmi kérdés. Az állítás ellenőrzése nem történt meg, ezért magas prioritású az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:20.297480+00:00"
+    },
+    "telegram:1604168769:12212": {
+      "hu_text": "Moszkvában intelligens kamerák segítségével 80 migránst azonosítottak, akik megszegték a migrációs szabályokat. A Kotelnyiki metróállomás közelében tartott razzia során biometrikus azonosítással találták meg őket, mindegyikük ellen adminisztratív jegyzőkönyvet állítottak ki, bírságot szabtak ki és kitoloncolást rendeltek el.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs szabályszegők azonosításáról és hatósági intézkedésekről szól, ami fontos a határbiztonság és migrációs ellenőrzés szempontjából. Az állítás ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:20.297483+00:00"
+    },
+    "telegram:1604168769:12213": {
+      "hu_text": "Oroszországban külföldiek nem szerezhetnek tulajdont mezőgazdasági földterületeken. Baskíriában egy bírósági döntés alapján egy külföldi állampolgárnak kötelező eladnia az örökségként kapott mezőgazdasági földterületet. A törvény szerint a külföldiek csak bérleti jog alapján birtokolhatnak ilyen földeket, és az örökölt földet egy éven belül el kell adni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs jogi szabályozásról szól a földtulajdon kapcsán, ami releváns a migrációs politika és jogi környezet szempontjából. Az állítás ellenőrzése hiányzik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:20.297485+00:00"
     }
   },
   "legacy_reviews": {}
