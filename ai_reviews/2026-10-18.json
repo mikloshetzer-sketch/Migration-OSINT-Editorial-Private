@@ -727,6 +727,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:15:04.001882+00:00"
+    },
+    "record:2111594938127253552": {
+      "hu_text": "Milyen hadseregről beszélünk? A probléma most az Egyesült Királyságban is ugyanaz. Még ha kiadtak is szigorú protokollokat a terroristatámadások ellen, több illegális migráns érkezett kis csónakokon, mint amennyi aktív katona és rendőr van együttvéve. Ez nemzetbiztonsági kérdés.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt állítása szerint az illegális migráció száma meghaladja a biztonsági erők létszámát, ami súlyos nemzetbiztonsági kockázatot jelenthet. Az állítás nem ellenőrzött, de a téma jelentős migrációs és biztonsági vonatkozású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:12.978174+00:00"
+    },
+    "record:2111705567731524083": {
+      "hu_text": "A rendőrség küzd az illegális bevándorlók visszatartásával Franciaországban. Az ország túlterhelt, és a rendőrök most menekülnek. Hasonlóan Dél-Afrikához, a francia kormány nem hallgatott a figyelmeztetésekre az ellenőrizetlen migráció miatt. Dél-Afrika ugyanezen az úton jár.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt súlyos állításokat tesz a francia rendőrség helyzetéről és a migrációs nyomásról, ami migrációs és biztonsági szempontból fontos. Az állítások nem ellenőrzöttek, de a helyzet sürgős figyelmet igényelhet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:12.978192+00:00"
+    },
+    "record:2111632288987430969": {
+      "hu_text": "Ukrajnaiak kétségbeesetten menekülnek a Zelenszkij-rezsim elől, menekültként a határ felé tartanak. A besorozás, korrupció, magas megélhetési költségek, választások hiánya és az állandó háború miatt.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt migrációs szándékot jelez ukrán menekültek részéről, ami fontos információ lehet a migrációs folyamatok megértéséhez. Az állítások nem ellenőrzöttek, de a helyzet jelentős és sürgős lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:12.978197+00:00"
+    },
+    "record:2111903234373648483": {
+      "hu_text": "A poszt szerint a baloldalt támogatja, és emberkereskedelemmel, gyermekmolesztálással és illegális migránsokkal kapcsolatos bűncselekményeket említ. Ez a fél politikai véleményét tükrözi, erős vádakkal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai véleményt és súlyos vádakat tartalmaz, de nem tényállításokat. Manipulációgyanú nincs egyértelműen, de a tartalom erősen elfogult és nem bizonyított.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:12.978201+00:00"
+    },
+    "record:2111858058057912387": {
+      "hu_text": "A migránsok több százezer törvénytelen gyermeket hoztak világra, akik most tinédzserek, így ugyanolyan franciák, mint Napóleon.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt egy társadalmi diskurzus része, amely a migránsok gyermekeinek integrációját és identitását érinti. Az állítás nem ellenőrzött és inkább vélemény jellegű.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:12.978204+00:00"
+    },
+    "record:reddit_1x96n79": {
+      "hu_text": "Körülbelül 30 új migráns érkezett a Kallikovrech környékére, így összesen mintegy 126 ember jutott el eddig Psari Forada, Gavdos és Kallikovrechi területére Görögországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt konkrét migrációs eseményt jelez új migránsok érkezéséről egy adott területre. Az információ nem ellenőrzött, de fontos lehet a migrációs helyzet követéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:12.978207+00:00"
     }
   },
   "legacy_reviews": {
