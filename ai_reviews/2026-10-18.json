@@ -793,6 +793,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:15:12.978207+00:00"
+    },
+    "record:2111708929872834621": {
+      "hu_text": "A lengyel határátkelőknél, például Dorohusknál, légiriadó miatti szünetek miatt akár 40 órás várakozási sorok vannak, főként teherautók és néhány autó/busz esetében. Naponta több ezer ember kel át mindkét irányban, nem egyirányú menekültáradat. Néhány kijevi lakos elhagyja vagy tervezi elhagyni a várost.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét határhelyzetről és migrációs mozgásról számol be, ami fontos a határbiztonság szempontjából, de nincs megerősített forrás az állításokhoz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:21.349135+00:00"
+    },
+    "record:2111903231014232313": {
+      "hu_text": "Friss hír: Lengyelország bejelentette, hogy a lengyel hadsereget küldi a német és litván határokra, hogy megállítsa az illegális migránsok Lengyelországba való belépését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés határbiztonsági intézkedést érint, ami jelentős migrációs fejlemény lehet, de a forrás nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:21.349152+00:00"
+    },
+    "record:2111903179747332180": {
+      "hu_text": "A poszt Trumpizmus és kegyetlenség kritikáját tartalmazza, említve korlátlan tömeges migrációt, gyermekkereskedelmet százezrekben, valamint mexikói kartellek által működtetett haláltáborokat, ahol eltemetett migránsok vannak. Ezek az állítások nem bizonyítottak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai véleményt és súlyos, de nem ellenőrzött állításokat tartalmaz, amelyek migrációs szervezésre és embercsempészetre utalnak, de nincs bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:21.349158+00:00"
+    },
+    "record:2111864658076356813": {
+      "hu_text": "A poszt szerint a nyugat országai, köztük Németország, Olaszország, Spanyolország, Anglia és Belgium, valamint most Franciaország is problémákkal küzd az illegálisan érkezett migránsok miatt, és ez egy ismétlődő történet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános társadalmi diskurzust tükröz a migránsokkal kapcsolatos problémákról, de nincs konkrét tény vagy adat, így nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:21.349162+00:00"
+    },
+    "record:reddit_1x97t16": {
+      "hu_text": "A poszt egy madármegfigyelési kérdésről szól, konkrétan arról, hogy várható-e idén a fenyősziskó megjelenése az Egyesült Államok délkeleti részén. Nem kapcsolódik migrációhoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem migrációs témájú, hanem madármegfigyelési kérdés, így migrációs OSINT szempontból irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:21.349166+00:00"
+    },
+    "record:mastodon_117459821620585486": {
+      "hu_text": "A poszt a Minnesota államban zajló anti-ICE (bevándorlási és vámhatóság) tüntetésekről szól, ahol 15 embert vádat emeltek a 2026-os Operation Metro Surge elleni tiltakozások miatt. A tüntetők jogi és szolidaritási akciókat folytatnak az illegális bevándorlók jogainak védelmében.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt társadalmi és politikai diskurzust mutat be migrációs jogokkal kapcsolatban, de nincs megerősített információ a vádemelésekről vagy tüntetésekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:21.349170+00:00"
     }
   },
   "legacy_reviews": {
