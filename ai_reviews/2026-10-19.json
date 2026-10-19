@@ -1321,6 +1321,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:52:13.029387+00:00"
+    },
+    "information:information:19690": {
+      "hu_text": "Új 2 hüvelykes 5x Barlow lencsém érkezett, és egy kis probléma után a távcső fókuszcsövével, ami nem tudott eléggé kinyúlni a kép készítéséhez, egy toldócsővel megoldottam a problémát. Bár a kép kissé homályos és hullámos, mégis fantasztikusan néz ki, különösen élőben, amikor az ember a saját szemével nézi. A képen a Hold egy viszonylag kis részlete látható, többek között a Mare Nectaris, Mare Tranquillitatis és az Albategnius, Hipparchus, valamint a Ptolemaeus kráterek. A fotó Melbourne-ben készült egy dobsoni távcsővel és egy 5x Barlow lencsével.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem migrációval kapcsolatos, hanem egy csillagászati fotózásról szól, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:22.834431+00:00"
+    },
+    "information:information:19677": {
+      "hu_text": "Az @EucapMali támogatásával mali szakértők, köztük a Lég- és Határőrség, a Migráns- és Embercsempészet Elleni Brigád, valamint a Misszió képviselői felülvizsgálták a képzési eszközöket. A módosított modulok a migrációs áramlatok, az okmányhamisítás és a határbiztonság képzését segítik elő.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos szervezethez kötött képzési tevékenységet ismertet, de nincs további bizonyíték a tartalom hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:22.834449+00:00"
+    },
+    "information:information:19771": {
+      "hu_text": "Ferenc pápa a Vatikánban a Leszboszról nemrég érkezett migránsokhoz szólva azt mondta: „Jézus Krisztusban a kereszt a megváltás forrása, bolondság azok számára, akik elvesztek – mondja Szent Pál –, de azok számára, akik megmenekültek, azaz számunkra, Isten ereje.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy vallási beszéd részletét tartalmazza migránsokkal kapcsolatban, de nem tartalmaz konkrét tényállítást migrációs eseményről vagy politikáról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:22.834454+00:00"
+    },
+    "information:information:19739": {
+      "hu_text": "Bárcsak lenne egy határőrségünk, nem pedig egy határtaxi szolgáltatásunk. Vagyis inkább legyen egy RNLI (mentőszolgálat), ne pedig egy jótékonysági szervezet, amely illegális migránsok csatornán való átkelését segíti. Bárcsak lenne egy kormányunk, amely biztosítja a határainkat. Ma kicsit jobboldalinak érzem magam.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt tartalmaz a határbiztonságról és migrációról, de nem állít konkrét tényeket, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:22.834458+00:00"
+    },
+    "information:information:19740": {
+      "hu_text": "A genetika, régészet és geológia bizonyítja, hogy az első emberek Észak-Amerikába Ázsiából érkeztek a Bering-földhídon vagy part menti útvonalakon a legutóbbi jégkorszakban. Nincs bizonyíték arra, hogy korábban már éltek volna ott emberek. Az őslakos amerikaiak ezeknek az embereknek az utódai.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés tudományos konszenzuson alapuló történelmi háttérinformációt tartalmaz, de nincs közvetlen bizonyíték a bejegyzésben, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:22.834461+00:00"
+    },
+    "information:information:19750": {
+      "hu_text": "Egy miniszterelnök, aki szerint a 2 fontos buszjegyár és a hangos zene megállítása a tömegközlekedésen a prioritás? Nem pedig az illegális hajóleszállások vagy az igazolatlan migráns férfiak, akik szabadon garázdálkodnak az utcákon, zaklatnak, bűncselekményeket, akár súlyos támadásokat és nemi erőszakot követnek el.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai véleményt és állítást tartalmaz migránsokkal kapcsolatos bűncselekményekről, ami fontos társadalmi diskurzus, de nincs bizonyíték a konkrét állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:52:22.834463+00:00"
     }
   },
   "legacy_reviews": {}
