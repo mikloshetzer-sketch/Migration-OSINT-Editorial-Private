@@ -661,6 +661,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:57.127066+00:00"
+    },
+    "record:2111935871939190922": {
+      "hu_text": "Biden szó szerint eltérítette a CBP One alkalmazást, hogy több mint 200 000 haititát juttasson be az Egyesült Államokba. Ez nemcsak a határ nyitva hagyása, hanem aktív törekvés minél több migráns behozatalára. Nem beszélve a 12-13 millió illegális határátlépésről.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs szervezésre és nagy volumenű illegális határátlépésekre utal, ami jelentős migrációs esemény lehet. Az állítás nem ellenőrzött, politikai vélemény és összeesküvésgyanús elemeket is tartalmazhat, ezért fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:06.462507+00:00"
+    },
+    "record:reddit_1x8z0sk": {
+      "hu_text": "Egy tengerészeti munkaerő-közvetítő platform fejlesztéséről szóló felhívás, amelyben a szerző visszajelzéseket kér a tengerészektől és munkaerő-közvetítőktől egy új, álláskeresést segítő weboldal és alkalmazás tervezéséhez. A projekt még előkészületben van, és nem fogad el állásjelentkezéseket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés migrációs szándékot, munkaerő-mozgást jelez, de nem tartalmaz konkrét eseményt vagy szervezést. Nem áll rendelkezésre további bizonyíték, így ellenőrzésre kevésbé sürgős.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:06.462527+00:00"
+    },
+    "record:reddit_1x8z0ht": {
+      "hu_text": "Egy tengerészeti munkaerő-közvetítő platform fejlesztéséről szóló felhívás, amelyben a szerző visszajelzéseket kér a tengerészektől és munkaerő-közvetítőktől egy új, álláskeresést segítő weboldal és alkalmazás tervezéséhez. A projekt még előkészületben van, és nem fogad el állásjelentkezéseket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ugyanaz a tartalom, mint az előző rekord, migrációs szándékot jelez munkaerő-mozgás formájában, de nem konkrét esemény vagy szervezés. Ellenőrzés kevésbé sürgős.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:06.462532+00:00"
+    },
+    "record:2111939232650392057": {
+      "hu_text": "FRISS HÍR: Lengyelország bejelentette, hogy a lengyel hadsereget küldi a Németországgal és Litvániával közös határaira, hogy megállítsa az illegális migránsok belépését Lengyelországba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét határbiztonsági intézkedést jelez, amely migrációs eseményekre adott válasz. Fontos a gyors ellenőrzés a helyzet pontos megértése érdekében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:06.462537+00:00"
+    },
+    "record:2111966296346882475": {
+      "hu_text": "Japán, mint az Egyesült Államok hajózási állama és a japán nyugatos gondolkodásmód miatt Japán ma hanyatlóban van, ennek nincs köze a muszlim migránsokhoz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, társadalmi diskurzus része, nem tartalmaz konkrét migrációs eseményt vagy intézkedést. Ellenőrzés nem sürgős.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:06.462541+00:00"
+    },
+    "record:2111967395241722047": {
+      "hu_text": "Nézd meg, mi történik Franciaországban! Olaszország követi Franciaország liberális hanyatlását, teljes káosz mindenütt! Ez lesz az USA, ha a baloldal irányít, határátlépő migránsokkal, utcai káosszal és csőddel. Ha ez megtörténik, fegyverre lesz szükséged.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus, amely migrációs félelmeket és előítéleteket tükröz. Nem bizonyított tényeket állít, de a migrációs helyzetre vonatkozó társadalmi feszültséget jelzi, ezért közepes prioritású az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:06.462545+00:00"
     }
   },
   "legacy_reviews": {}
