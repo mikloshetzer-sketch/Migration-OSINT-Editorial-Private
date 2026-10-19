@@ -375,6 +375,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:44:38.232364+00:00"
+    },
+    "information:information:18229": {
+      "hu_text": "Borland azt állítja, hogy az ICIG (Intelligence Community Inspector General) szerint vannak megállapodások az NHI-vel (nem emberi intelligenciával). Grusch közvetetten válaszolt, Brown intézményi szóbeli hagyományról és spekulatív feltételekről beszél, Nell pedig a titoktartás lehetséges okaként említi a megállapodást. Az elrablásokkal, reprodukcióval, kapcsolattartással és emberkereskedelemmel kapcsolatos beszámolók felvetik a beleegyezés és a versengő frakciók kérdését, de nem szolgáltatnak hitelesített megállapodást. A közös források, Greer hálózata és régebbi legendák bonyolítják az állítólagos megerősítést. Kérdés, ki ígérhet hozzáférést olyan emberekhez, akiket soha nem kérdeztek meg? Borland 2025 szeptemberi kongresszusi tanúvallomása megerősíti, hogy 2023 augusztusában az ICIG-hez fordult, de ez nem igazolja a megállapodások létezését vagy azok időpontját. További ellenőrzés szükséges a pontos dátum, beszélő, pontos párbeszéd és független tudásalap tekintetében.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások komplexek és fontosak, de nem áll rendelkezésre hitelesített bizonyíték a megállapodások létezésére, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:49.629057+00:00"
+    },
+    "information:information:18070": {
+      "hu_text": "Ilhan Omar a Minnesota 5. kerületének demokrata párti képviselője az Egyesült Államokban. 1982-ben született Szomáliában, gyermekkorában elmenekült a polgárháború elől, éveket töltött egy kenyai menekülttáborban, 1995-ben érkezett az USA-ba, és 2000-ben vált állampolgárrá apja honosítása révén.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások tényeken alapulnak, könnyen ellenőrizhetők és megbízható forrásból származnak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:49.629076+00:00"
+    },
+    "information:information:18032": {
+      "hu_text": "Minden évben több száz milliárd dollár kerül átutalásra nemzetközi határokon keresztül a migráns munkavállalók által, akik pénzügyi támogatást küldenek családjuknak fejlődő országokban. Ez a pénzátutalási fal lebontásáról és a határokon átnyúló családok azonnali értékátvitelének lehetőségeiről szól.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás általános tényeken alapul, de konkrét adatokat nem tartalmaz, ezért részben ellenőrzöttnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:49.629079+00:00"
+    },
+    "information:information:18042": {
+      "hu_text": "A Roadster fontos szerepet játszik a menekültek mentési akcióiban, például menekülési útvonalak és autós üldözések során, valamint alternatív vezetési útvonalakat kínál a jobb forgalom érdekében. Használata sokrétű, további fejlemények várhatók.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás nem kapcsolódik közvetlenül a migrációhoz vagy annak biztonságához, inkább általános vélemény egy autóról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:49.629081+00:00"
+    },
+    "information:information:18034": {
+      "hu_text": "A GB News műsorában azt mondták, hogy aki nem ismeri fel, hogy a Csatornán átkelő migránsok nem bűnözők, az hiszékeny bolond. Ha nem lennének bűnözők, akkor normál úton is bejöhetnének.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely a migránsok megítéléséről szól, de nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:49.629082+00:00"
+    },
+    "information:information:18053": {
+      "hu_text": "Neptune napló 75. napja: A vadászok naplója 1. Mivel a tenger felé tartunk és már rég nem voltunk a nagy vízen, Wendy és én könnyű reggelit ettünk, Gary viszont nagy adagot, amit előre figyelmeztettünk. Az északi szél miatt dél felé indultunk a part mentén. Gary rosszul lett és hányt a hajó oldalánál. A matrózok egy speciális hálót feszítettek ki a hajó oldalán, ahol Gary pihent. Több órás őrségváltások voltak, miközben követtük a partot és új erdőt láttunk délután.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg egy személyes naplóbejegyzés, amely egy tengeri útról szól, valószínűleg migrációs vagy menekülési szándékkal, de nem tartalmaz külső megerősítést.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:49.629085+00:00"
     }
   },
   "legacy_reviews": {}
