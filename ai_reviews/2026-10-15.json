@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:09:16.005724+00:00"
+    },
+    "telegram:1261826972:53480": {
+      "hu_text": "A védelmi minisztérium elemzi azokat a hangfelvételeket, amelyeken katonák dicsekszenek migránsok elleni agressziókkal Ceutában: \"Kesztyű nélkül jobb\". A felvételek legalább három katona beszélgetéseit tartalmazzák egy szeptemberi éjszakai járőrözés során.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hangfelvételek állítólagos katonai agressziókat mutatnak be migránsokkal szemben, ami fontos határbiztonsági és emberi jogi kérdés. Az állítások forrása egy cikk, de a felvételek hitelessége és a történtek pontos körülményei még nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:30.553587+00:00"
+    },
+    "telegram:1688600455:1158": {
+      "hu_text": "Hogyan tanuljunk meg hollandul önállóan – hasznos tanácsok ukránoknak, akik önállóan szeretnék elsajátítani a holland nyelvet: hol találjanak anyagokat, hogyan gyakoroljanak és hogyan kezdjenek hozzá.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy nyelvtanulási tanácsokat tartalmazó bejegyzés, amely nem tartalmaz migrációs eseményekkel kapcsolatos állításokat, így alacsony prioritású és nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:30.553606+00:00"
+    },
+    "telegram:1261826972:53491": {
+      "hu_text": "A Comgeceu vizsgálja a katonák elleni panaszokat, amelyek szerint állítólagosan kínzásokat követtek el migránsokkal szemben. Az Amnesty International jelentése 22 közvetlen beszámolót tartalmaz, amelyek az éjszakai járőrözések során történő agressziókra utalnak, különösen a Regulares és a Légió egységeire.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az Amnesty International jelentése és a katonai vizsgálat komoly állításokat tartalmaz migránsokkal szembeni erőszakról, ami fontos határbiztonsági és emberi jogi kérdés. Az állítások még nem ellenőrzöttek, ezért további vizsgálat szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:30.553611+00:00"
+    },
+    "telegram:1261826972:53488": {
+      "hu_text": "Videóval ▶️ A Sarchal megtöri a csendet: migránsok még egy fa alatt is alszanak. Gema és José, helyi lakosok, panaszt tesznek, hogy a Guano és a Trampolín kilakoltatásai után a helyzet rosszabbodott, és megoldást követelnek. Egy civil szervezet éjjel egykor ételt osztott az utcán, ami zajt okozott.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migránsokkal kapcsolatos humanitárius helyzetet mutat be, amely fontos a migrációs kontextusban, de nem tartalmaz konkrét állításokat, amelyek ellenőrzést igényelnének.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:30.553615+00:00"
+    },
+    "telegram:1604168769:12228": {
+      "hu_text": "72 személyt fosztottak meg az orosz állampolgárságtól a Hanti-Manszijszk autonóm körzetben. Ezek az emberek nem voltak katonai nyilvántartásban, bűncselekményt követtek el, vagy hamis dokumentumokkal szerezték meg az állampolgárságot. Az állampolgárságuktól megfosztott személyeknek el kell hagyniuk Oroszország területét.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állampolgárság megvonása és az ország elhagyására kötelezés jogi és migrációs kérdés, amely fontos, de az információk forrása nem teljesen ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:30.553619+00:00"
+    },
+    "telegram:1604168769:12230": {
+      "hu_text": "Orosz állampolgárság megszerzése gyermek útján: külföldi szülők, akiknek orosz állampolgár a gyermekük, egyszerűsített eljárással, tartózkodási engedély (VNZH) révén közvetlenül szerezhetnek orosz állampolgárságot. Ehhez migrációs nyilvántartásba vétel, VNZH megszerzése, állandó regisztráció és állampolgársági kérelem benyújtása szükséges. A kérelem elbírálása 3 hónapon belül történik, pozitív döntés esetén esküt tesznek és megkapják az orosz útlevelet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy tájékoztató jellegű jogi információ az állampolgárság megszerzésének módjáról, amely nem tartalmaz vitatható állításokat, így alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:30.553622+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
