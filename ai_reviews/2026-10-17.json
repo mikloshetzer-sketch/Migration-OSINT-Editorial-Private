@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:47:24.770680+00:00"
+    },
+    "information:information:18812": {
+      "hu_text": "Nick Shirley vizsgálja az Arizona határt, majd feltárja, kik keresnek milliókat a migráns csempészetből.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy vizsgálatról szól, de nincs közvetlen bizonyíték vagy részletes információ a csempészet mértékéről vagy szereplőiről, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:34.862904+00:00"
+    },
+    "information:information:18743": {
+      "hu_text": "Legalább megakadályozza az illegális migránsokat abban, hogy átkeljenek a Csatornán.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, amely egy határbiztonsági intézkedés hatékonyságára utal, de nincs konkrét adat vagy bizonyíték az állítás alátámasztására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:34.862921+00:00"
+    },
+    "information:information:18752": {
+      "hu_text": "A poszt alábecsüli a helyzetet. Csak a kis hajós érkezések száma 2018 óta már 213 000 (Belügyminisztériumi adatok), nem 83 ezer. Ez nem tartalmazza a sokkal nagyobb számú legális migránst és az ő brit születésű gyermekeiket, akiknek kevés kulturális vagy politikai kötődésük van Nagy-Britanniához.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét statisztikai adatokat említ hivatalos forrásokra hivatkozva, de az adatok ellenőrzése szükséges a pontosság megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:34.862925+00:00"
+    },
+    "information:information:18756": {
+      "hu_text": "Miért ragaszkodnál a kudarchoz? Gondolom, nyitott határokat akarsz és milliókat az Egyesült Államokba ellenőrizetlenül. Az adóforintjainkat illegálisokra költik ahelyett, hogy ránk fordítanák. Rekord migráns gyermek szexuális visszaéléseket akarsz? NEM, KÖSZÖNÖM.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és érzelmi állítás, amely nem tartalmaz konkrét bizonyítható tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:34.862928+00:00"
+    },
+    "information:information:18753": {
+      "hu_text": "Személy szerint ezt hülyeségnek tartom. Az RNLI önkénteseinek gyerekei állítólag zaklatásnak vannak kitéve, mert a szüleik segítenek a migránsok mentésében az angol csatornán. Az állítások aggodalmat váltottak ki Nagy-Britanniában, és az életmentő önkéntesek családjai érintettek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy társadalmi jelenségről szól, de nincs megerősített bizonyíték a zaklatás mértékéről vagy előfordulásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:34.862931+00:00"
+    },
+    "information:information:18746": {
+      "hu_text": "Irán 549 pakisztáni állampolgárt deportált szabálytalan belépés miatt 2026 májusa óta az IOM/UNHCR Taftan határ menti megfigyelése szerint. Ez jóval kisebb léptékű, mint az afgán visszatérések. Korábbi többéves időszakokban magasabb volt az átutazó migránsok letartóztatása (pakisztáni jelentések szerint összesen több tízezer), de...",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos szervezetek megfigyeléseire hivatkozik, de az adatokat ellenőrizni kell a pontosság érdekében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:34.862933+00:00"
     }
   },
   "legacy_reviews": {}
