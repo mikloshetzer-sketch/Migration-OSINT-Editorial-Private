@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-19",
+  "reviews": {
+    "information:information:19444": {
+      "hu_text": "Jelentések az NGO-król, amelyek a Marokkó-Spanyolország migrációs útvonalak körül aktívak, főként a spanyol Caminando Fronteras csoportra koncentrálnak. Ez a szervezet 0-24-es segélyvonalat működtet a tengeren lévő hajók számára, értesíti a hivatalos mentőszolgálatokat, és dokumentálja az eseteket. Főként európai magánalapítványok és néhány spanyol állami forrás finanszírozza.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy civil szervezet tevékenységéről szól, ami releváns a humanitárius helyzet megértéséhez, de nincs megerősített forrás az állításokhoz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:40.240434+00:00"
+    },
+    "information:information:19435": {
+      "hu_text": "Hogyan lehetséges, hogy a „migránsok” korlátozások nélkül közlekedhetnek az EU-ban, még a Csatornán való átkelés is megengedett?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy kérdésfelvetés, amely a migránsok mozgásával kapcsolatos társadalmi diskurzust tükrözi, de nem tartalmaz ellenőrzött tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:40.240457+00:00"
+    },
+    "information:information:19445": {
+      "hu_text": "Az RNLI-nek nem kellene részt vennie a migránsokkal kapcsolatos problémában. A jótékonysági szervezetet tengerészek és halászok megmentésére hozták létre. Az én családom több generációja is tengerész volt, és hálás vagyok az RNLI-nek, de nem vagyok elégedett ezzel a helyzettel.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény a migrációs helyzet egy aspektusáról, nem tényállítás vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:40.240463+00:00"
+    },
+    "information:information:19436": {
+      "hu_text": "Győződj meg róla, hogy megvan a videó a fekete arcú férfiról – így könnyű összekapcsolni az „ellenőrizetlen határokat” és az EU-t – bár néhány rendőr is lehet fekete, a férfi nem biztos, hogy migráns, és az EU-n kívüliség növelte a „kis hajós” átkeléseket. De hát…",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és megfigyelés a migrációs narratívákról, amely manipulációgyanús lehet a faji megkülönböztetés és politikai sztereotípiák miatt, de nincs bizonyíték a manipulációra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:40.240468+00:00"
+    },
+    "information:information:19465": {
+      "hu_text": "Soroztassák be a migránsokat, lehetőleg ugyanazokon a hajókon, amelyeken érkeztek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy rövid, provokatív vélemény a migránsok kezeléséről, nem tény vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:40.240472+00:00"
+    },
+    "information:information:19437": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik át a lengyel határt:\n„Be akarunk lépni Lengyelországba, de nem engednek. Azt fenyegetik, hogy bántani fognak, ha megpróbálunk átkelni. Lengyelországba vagy Németországba akarok menni, hogy jobb életet éljek.”\nLengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy konkrét migrációs eseményhez kapcsolódó határbiztonsági helyzetet ír le, amely fontos a migrációs folyamatok megértéséhez, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:40.240476+00:00"
+    }
+  }
+}
