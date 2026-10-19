@@ -441,6 +441,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:44:49.629085+00:00"
+    },
+    "information:information:18054": {
+      "hu_text": "Mouthflesh (1. rész) - Bevezető: Szia, a mai dátum 2016.10.17., a nevem Ricky, 24 éves vagyok, és nem tervezem megosztani tapasztalataimat másokkal. Nem akarom, hogy az anyám értetlenül nézzen rám, és nem akarom, hogy az orvosok gyógyszerekkel kezeljenek, mert azt hiszik, hogy az elmúlt három évben csak hallucináltam. Ez a beszámoló kizárólag azért készült, hogy másokat tájékoztassak valamiről, amit sehol sem találok az interneten, csak szóbeszéd útján ismerek. Átnéztem minden lehetséges helyet, de senki sem ismeri a Mouthflesh nevű zenekart. Nem szeretném megadni a vezetéknevem vagy lakcímem. Autóátcsoportosítóként dolgozom egy nagy amerikai autókölcsönzőnél, ahol az autókat különböző helyekre kell szállítani. Szeretem a munkám, elég jól fizet a főiskolámra, ahol zeneművészetet tanulok. Gyerekkoromban az apám trombitás volt egy jazz zenekarban, ami nagy hatással volt rám, ezért kezdtem el hegedülni. Bár nem vagyok tökéletes hangszeres, a zene a szenvedélyem.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg személyes élménybeszámoló, amely nem kapcsolódik migrációs eseményhez vagy témához, így irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:43.742942+00:00"
+    },
+    "information:information:18037": {
+      "hu_text": "@propublica A határ biztonságos, de a migráns zombik fenyegetése 0-24 órában fennáll, alagutakon, gyorshajókon vagy drónokon keresztül. Robocop szintű technológia tartja távol a migráns bűnözőket, legyenek akár felnőttek vagy gyerekek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs határbiztonsági témájú, de túlzó, zombis metaforát használ, és nincs bizonyíték a valóságtartalmára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:43.742962+00:00"
+    },
+    "information:information:18055": {
+      "hu_text": "Mouthflesh (1. rész) - Bevezető: Szia, a mai dátum 2016.10.17., a nevem Ricky, 24 éves vagyok, és nem tervezem megosztani tapasztalataimat másokkal. Nem akarom, hogy az anyám értetlenül nézzen rám, és nem akarom, hogy az orvosok gyógyszerekkel kezeljenek, mert azt hiszik, hogy az elmúlt három évben csak hallucináltam. Ez a beszámoló kizárólag azért készült, hogy másokat tájékoztassak valamiről, amit sehol sem találok az interneten, csak szóbeszéd útján ismerek. Átnéztem minden lehetséges helyet, de senki sem ismeri a Mouthflesh nevű zenekart. Nem szeretném megadni a vezetéknevem vagy lakcímem. Autóátcsoportosítóként dolgozom egy nagy amerikai autókölcsönzőnél, ahol az autókat különböző helyekre kell szállítani. Szeretem a munkám, elég jól fizet a főiskolámra, ahol zeneművészetet tanulok. Gyerekkoromban az apám trombitás volt egy jazz zenekarban, ami nagy hatással volt rám, ezért kezdtem el hegedülni. Bár nem vagyok tökéletes hangszeres, a zene a szenvedélyem.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ugyanaz a személyes élménybeszámoló, mint az előző Mouthflesh rekord, nem kapcsolódik migrációhoz, így irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:43.742964+00:00"
+    },
+    "information:information:18039": {
+      "hu_text": "Átnéztem, ami megmaradt, mert akkoriban nem tudtad kinyomtatni az egész választékot. ALBÁNIA. Morina. 1999.06.08.: Koszovói menekültek szabadon engedése a szerbek által két hét fogvatartás után a Mitrovicai börtönben, éppen miután átlépték a határt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy történelmi migrációs eseményről szól, menekültek szabadon engedéséről, de nincs további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:43.742967+00:00"
+    },
+    "information:information:18079": {
+      "hu_text": "A pszionika természete [52] - Egy iskolai jelenet egy volt gyerekkatona és egy osztálytárs között, akik próbálnak barátkozni. A történet egy sci-fi környezetben játszódik, és nem tartalmaz migrációs vagy határbiztonsági információt.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg fikciós történet, amely nem kapcsolódik migrációhoz vagy határbiztonsághoz, így irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:43.742969+00:00"
+    },
+    "information:information:18056": {
+      "hu_text": "Mouthflesh (1. rész) - Bevezető: Szia, a mai dátum 2016.10.17., a nevem Ricky, 24 éves vagyok, és nem tervezem megosztani tapasztalataimat másokkal. Nem akarom, hogy az anyám értetlenül nézzen rám, és nem akarom, hogy az orvosok gyógyszerekkel kezeljenek, mert azt hiszik, hogy az elmúlt három évben csak hallucináltam. Ez a beszámoló kizárólag azért készült, hogy másokat tájékoztassak valamiről, amit sehol sem találok az interneten, csak szóbeszéd útján ismerek. Átnéztem minden lehetséges helyet, de senki sem ismeri a Mouthflesh nevű zenekart. Nem szeretném megadni a vezetéknevem vagy lakcímem. Autóátcsoportosítóként dolgozom egy nagy amerikai autókölcsönzőnél, ahol az autókat különböző helyekre kell szállítani. Szeretem a munkám, elég jól fizet a főiskolámra, ahol zeneművészetet tanulok. Gyerekkoromban az apám trombitás volt egy jazz zenekarban, ami nagy hatással volt rám, ezért kezdtem el hegedülni. Bár nem vagyok tökéletes hangszeres, a zene a szenvedélyem.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ismétlődő személyes élménybeszámoló, amely nem kapcsolódik migrációhoz, így irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:45:43.742972+00:00"
     }
   },
   "legacy_reviews": {}
