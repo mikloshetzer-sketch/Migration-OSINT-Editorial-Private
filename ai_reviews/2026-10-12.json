@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-12",
+  "reviews": {
+    "telegram:1173707041:9485": {
+      "hu_text": "A Migrációs és Menekültügyi Minisztérium 75%-os sikert ért el az átláthatóság és a közpénzek védelme program 2025-ös értékelésében, az iraki Szövetségi Integritási Hatóság felügyelete alatt. A minisztérium 2026-ra új munkamódszereket dolgoz ki, többek között oktató workshopokat szervez, hogy javítsa a program céljainak megvalósítását és szolgálja a minisztérium gondozásában álló csoportokat Irakban és külföldön.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos minisztériumi tevékenységről számol be, de nincs külső megerősítés vagy bizonyíték, ezért ellenőrizetlennek minősül. A tartalom a migrációs politika és intézményi működés kategóriájába tartozik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:03.352134+00:00"
+    },
+    "telegram:1688600455:1156": {
+      "hu_text": "Online időpontfoglalás lehetséges a VluchtelingenWerk (Menekültügyi Munkaszervezet) tanácsadására, ahol pénzügyi, lakhatási, egészségügyi, munkavállalási és jogi kérdésekben segítenek, beleértve az ideiglenes védelem irányelvét is. A tanácsadás videóhívás formájában zajlik, és a RefugeeHelp weboldalon lehet jelentkezni.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy segítő szolgáltatás online elérhetőségét hirdeti, amely releváns a migrációs támogatás szempontjából, de nincs külső ellenőrzés vagy bizonyíték a hitelességére, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:03.352153+00:00"
+    },
+    "telegram:1604168769:12176": {
+      "hu_text": "Irkutszk régióban egy helyi lakost 12 millió rubel bírsággal sújtottak, mert 200 ezer rubel kenőpénzt ajánlott fel egy rendőrnek, hogy illegálisan intézze el külföldi felesége tartózkodási engedélyét. Az ügy bírósági ítélettel zárult.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét jogi esetről számol be, de nincs független forrás vagy hivatalos megerősítés, ezért ellenőrizetlennek minősül. A tartalom a migrációs jogi szabályozás és visszaélések kategóriájába tartozik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:03.352159+00:00"
+    }
+  }
+}
