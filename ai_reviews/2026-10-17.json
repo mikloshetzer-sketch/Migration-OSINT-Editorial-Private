@@ -122,6 +122,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:13:24.631862+00:00"
+    },
+    "information:information:18782": {
+      "hu_text": "@StockzOnTap @Ericrse37986 Jó lenne, ha nem ugyanazt csinálnák olyan államokban, mint Minnesota. Nehéz átkelni a határon, és legalább három másik államban is menekülnek a törvény elől, de ne aggódjatok, rabszolga- vagy migránsfogókat küldtünk a környéketekre, és ha kapcsolatba lépsz velük, meghalsz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és állítást tartalmaz, de nincs bizonyíték az állítások igazolására vagy cáfolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:24.770651+00:00"
+    },
+    "information:information:18789": {
+      "hu_text": "Mela Harem, egy ötéves kurd kislány holttestét megtalálták, aki akkor fulladt meg, amikor egy családját és más migránsokat szállító hajó felborult a Törökország és Görögország közötti folyónál – erősítette meg egy török mentőtiszt a Rudaw-nak szombaton.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés egy konkrét tragikus eseményről szól, amelyet egy hivatalos mentőtiszt erősített meg, de további független források szükségesek a teljes igazoláshoz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:24.770668+00:00"
+    },
+    "information:information:18796": {
+      "hu_text": "@ClimateWarrior7 Menj a fenébe, te ribanc... azt akarjuk, hogy a menekültek ne érkezhessenek hajóval, ne lopják el a pénzünket, ne erőszakolják meg a gyerekeinket... és a legtöbben örülnénk, ha útközben megfulladnátok. Most meg menj a fenébe és sírj máshol, csak ne az Egyesült Királyságban vagy Európában, te muszlim ribanc.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés gyűlöletkeltő, sértő nyelvezetet használ, de nem tartalmaz ellenőrizhető tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:24.770672+00:00"
+    },
+    "information:information:18808": {
+      "hu_text": "Winston Marshall állítása tényeken alapul a számokat és a szelektív végrehajtás mintázatát illetően. A hivatalos brit adatok megerősítik, hogy a 2018 óta kis hajókon érkezett több mint 200 000 emberből csak körülbelül 4%-ot küldtek vissza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés hivatalos adatokra hivatkozik, de a pontos számok és a végrehajtás részleteinek ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:24.770674+00:00"
+    },
+    "information:information:18809": {
+      "hu_text": "@MrWinMarshall Winston Marshall állítása tényeken alapul a számokat és a szelektív végrehajtás mintázatát illetően. A hivatalos brit adatok megerősítik, hogy a 2018 óta kis hajókon érkezett több mint 200 000 emberből csak körülbelül 4%-ot küldtek vissza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés hivatalos adatokra hivatkozik, de a pontos számok és a végrehajtás részleteinek ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:24.770677+00:00"
+    },
+    "information:information:18797": {
+      "hu_text": "Mela Harem, egy ötéves kurd kislány holttestét megtalálták, aki akkor fulladt meg, amikor egy családját és más migránsokat szállító hajó felborult a Törökország és Görögország közötti folyónál – erősítette meg egy török mentőtiszt a Rudaw-nak szombaton.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés egy konkrét tragikus eseményről szól, amelyet egy hivatalos mentőtiszt erősített meg, de további független források szükségesek a teljes igazoláshoz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:24.770680+00:00"
     }
   },
   "legacy_reviews": {}
