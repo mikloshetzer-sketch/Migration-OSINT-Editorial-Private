@@ -78,6 +78,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:13:10.735555+00:00"
+    },
+    "telegram:1688600455:1160": {
+      "hu_text": "🇺🇦🇳🇱 Hogyan lehet erősebbé tenni az ukránok hangját Hollandiában? Csatlakozzon a vitához! Segít az ukránoknak, összefogja az embereket a városában, képvisel ukrán szervezetet vagy fejleszt közösségi kezdeményezést? Tapasztalata és véleménye szükséges. A VluchtelingenWerk Nederland együttműködik az ukrán közösségekkel, hogy feltárja, mi hiányzik a szervezeteknek és kezdeményezéseknek, hogyan lehet szorosabb együttműködést kialakítani, és hogyan lehet hatékonyabban képviselni az ukránok érdekeit a társadalom és a hatóságok előtt. A kutatás keretében interjúk, viták és munkatalálkozók lesznek különböző hollandiai ukrán közösségek képviselőivel. Meghívottak: ukrán szervezetek, közösségek, kezdeményezések és hálózatok képviselői (legfeljebb egy személy szervezetenként), valamint az ukrán közösségekben fontos szerepet játszó személyek. Jelentkezési határidő: 2026. október 30. Regisztráció: t.ly/OekraienseGemeenschap. Ossza meg ezt a hírt az aktív ukránokkal, önkéntesekkel és közösségi képviselőkkel a városában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy közösségi kezdeményezésről szól, amely az ukrán diaszpóra érdekképviseletét célozza Hollandiában. Nem tartalmaz konkrét tényállítást migrációs eseményről vagy jogi intézkedésről, ezért a tartalom társadalmi diskurzus kategóriába sorolható. Az állítás ellenőrzése nem lehetséges a szöveg alapján, így UNVERIFIED státusz indokolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:24.631809+00:00"
+    },
+    "telegram:2446813665:12264": {
+      "hu_text": "Az egész oroszországi káosz egy helyen 🔞\n\nHozzáférést adunk egy csatornához, amely megmutatja a valóságot:\n— migránsok büntetései, akik nem tartják be a törvényt 🪓\n— a front és a határok valós helyzete 🗺️\n— politikai nyilatkozatok és előrejelzések 📑\n— korrupciós és áruló letartóztatások Oroszországban 💵\n— érkezési videók 💥\n— események, amikről a tévé hallgat 🎥\n\nA hozzáférés csak Önnek nyitott 📌\n„HOZZÁFÉRÉS KÉRÉSE”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy Telegram csatorna promóciója, amely különféle oroszországi eseményeket és állításokat mutat be, köztük migránsok büntetését és politikai eseményeket. Nem tartalmaz konkrét, ellenőrizhető migrációs eseményt vagy jogi intézkedést, inkább vélemény- és információmegosztás. Emiatt társadalmi diskurzus kategóriába sorolható, és az állítások ellenőrzése nem lehetséges a szöveg alapján.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:24.631845+00:00"
+    },
+    "telegram:1604168769:12247": {
+      "hu_text": "Moszkva régióban egy migráns ellen bírósági eljárás indul, aki 16-szor megszúrta újszülött gyermekét, majd kidobta egy szemetes konténerbe. Serpuhov városában egy 29 éves nő ellen vádat emeltek újszülött megölése miatt. A nyomozás szerint a nő a bűncselekmény eltussolására a csecsemő holttestét a szemétkonténerbe dobta.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy súlyos bűncselekményről számol be, amely migránshoz köthető, és bírósági eljárás indul az ügyben. Bár a részletek nem ellenőrzöttek, a tartalom humanitárius és jogi vonatkozású, ezért magas prioritású. Az állítás ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:24.631856+00:00"
+    },
+    "telegram:1604168769:12248": {
+      "hu_text": "Oroszországban egy migránst börtönbüntetésre ítéltek, mert hamisan vádolta meg a katonai szolgálatot teljesítő személyt. Az Ivanovo kerületi bíróság egy 29 éves közép-ázsiai állampolgárt 1 év 10 hónap szabadságvesztésre ítélt, mert a nyomozás során kiderült, hogy a korrupciós vádak nem voltak igazak, és a férfit a tárgyalóteremben őrizetbe vették.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy jogi esetről számol be, amelyben migráns hamis vád miatt kapott börtönbüntetést Oroszországban. Az állítás konkrét jogi eseményről szól, de nincs megerősített forrás, ezért UNVERIFIED státusz indokolt. Közepes prioritású, mivel jogi és migrációs vonatkozású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:24.631862+00:00"
     }
   },
   "legacy_reviews": {}
