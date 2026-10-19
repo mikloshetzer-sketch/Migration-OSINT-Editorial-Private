@@ -980,6 +980,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:06:28.911124+00:00"
+    },
+    "information:information:19619": {
+      "hu_text": "Egy jogi migráns őszinte kérdése a Reform párt ellentmondásairól: bár támogatja a párt határvédelmi álláspontját, kétli, hogy a párt valóban az elit ellen harcol, mivel gazdag adományozók támogatják.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg személyes véleményt és kérdéseket tartalmaz, nem tényállításokat. A migrációval kapcsolatos társadalmi diskurzus része, de nincs konkrét esemény vagy intézkedés leírva.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:07:12.126496+00:00"
+    },
+    "information:information:19626": {
+      "hu_text": "Sértő hangvételű üzenet, amely az EU menekültfogvatartási tilalmára, Orbán 2015-ös iszlám invázióra figyelmeztetésére és a nyugati országok által állítólag a zöldhatárra engedett emberekre utal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg politikai állításokat és sértő kifejezéseket tartalmaz, amelyek migrációs témájú társadalmi diskurzus részei. Az állítások nem ellenőrzöttek, de a politikai kontextus miatt fontos lehet a hitelesség vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:07:12.126514+00:00"
+    },
+    "information:information:19621": {
+      "hu_text": "Egy szürreális, humoros leírás egy kaotikus napról, amelyben gazdagok hobbijai, rendőri intézkedések és abszurd jelenetek keverednek, migrációval kapcsolatos tartalom nélkül.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációs információt vagy állítást, inkább szatirikus, abszurd narratíva.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:07:12.126518+00:00"
+    },
+    "information:information:19635": {
+      "hu_text": "A BBC felfüggesztette köztisztviselői áthelyezéseit a BBC Verify csapatához egy Telegraph vizsgálat után, amely a kis hajós átkelések és migrációs statisztikák feldolgozását érintette.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg belső intézményi változásokról és médiavizsgálatról szól, amelyek migrációs statisztikákhoz kapcsolódnak. Nincs hivatalos megerősítés, de releváns a migrációs politika és kommunikáció szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:07:12.126520+00:00"
+    },
+    "information:information:19637": {
+      "hu_text": "A görög parti őrség jelentése szerint legalább 12 ember halt meg két különböző migránshajós balesetben az Égei-tengeren.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét tragikus migrációs eseményről szóló információ, amely humanitárius jelentőségű. Az állítás forrása a görög parti őrség, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:07:12.126522+00:00"
+    },
+    "information:information:19638": {
+      "hu_text": "Az Észak-Égei Régió kormányzója mély gyászt és haragot fejezett ki a Leszbosz és Számos szigeteknél történt migránshajós tragédiák miatt, amelyek 12 halálos áldozatot követeltek, és elítélte az embercsempész hálózatokat, amelyek ellen a törvény teljes erejével kell fellépni.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragédiákra adott hivatalos reakcióról van szó, amely humanitárius és jogi vonatkozású. Fontos a hitelesség ellenőrzése a további intézkedések miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:07:12.126524+00:00"
     }
   },
   "legacy_reviews": {}
