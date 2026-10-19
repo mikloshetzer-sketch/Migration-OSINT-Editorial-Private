@@ -650,6 +650,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:49:27.201554+00:00"
+    },
+    "information:information:18358": {
+      "hu_text": "\"Együtt kellett volna kezdenünk az életünket.\" \"Majdnem tíz hónapot vártam rá.\" \"Eslam az 500 fogvatartott egyike Folkstonban, aki október 6-a óta éhségsztrájkot tart.\" ———————————————————— Cím: Ez a Georgia állambeli lakos az esküvőjét tervezte. Most éhségsztrájkol Folkstonban, hogy kiszabaduljon az ICE fogságából. Szerző: Gabriela Henriquez Stoikow Megjelenés: 285 South Dátum: 2026. október 15. ———————————————————— #Georgia #USA #Menekültügy #Étel #Elkülönítés #Tiltakozás #Házasság #Börtön #Kitoloncolás #EtnikaiTisztogatás https://285south.com/this-georgia-couple-was-planning-their-wedding-now-shes-fighting-for-his-release-from-ice-detention/",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét esetet mutat be egy fogvatartott éhségsztrájkjáról és az ICE fogságában lévő személy helyzetéről, ami fontos humanitárius kérdés. Az információ forrása nem teljesen ellenőrzött, ezért UNVERIFIED státusz indokolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:39.144606+00:00"
+    },
+    "information:information:18300": {
+      "hu_text": "7 éves, ügyvéd nélkül: Migráns gyerekek egyedül néznek szembe kitoloncolási tárgyalásokkal. Évekig a kormány segített ügyvédek biztosításában a déli határhoz érkező kiskorúaknak, de egy szerződéses vita miatt sok gyerek most egyedül áll az immigrációs bírák előtt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás a migráns gyermekek jogi képviseletének hiányáról szól, ami fontos jogi és politikai kérdés. Az információ nem ellenőrzött, ezért UNVERIFIED státusz szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:39.144623+00:00"
+    },
+    "information:information:18302": {
+      "hu_text": "A Belbiztonsági Minisztérium pénteken történelmi jelentést tett közzé, amely szerint az ügynökség történetében a legalacsonyabb a délnyugati határon történt migráns elfogások száma. A Határőrség kevesebb mint 99 000 illegális határátlépőt fogott el a kikötők közötti szakaszon.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos jelentésre hivatkozik a határbiztonsági adatokról, de a bemenet nem tartalmaz közvetlen bizonyítékot, ezért UNVERIFIED státusz indokolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:39.144627+00:00"
+    },
+    "information:information:18313": {
+      "hu_text": "Ez egy elég érdekes videó arról, hogy Arizona mit engedélyez. Iratkozz fel Nick csatornájára. Biztos vagyok benne, hogy ott megtalálható. Nick Shirley vizsgálja az Arizona határát, majd feltárja, kik keresnek milliókat a migráns csempészetből.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migráns csempészet anyagi hasznáról szól Arizonában, de forrásként egy videót említ, amely nem ellenőrzött, így UNVERIFIED státusz szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:39.144629+00:00"
+    },
+    "information:information:18336": {
+      "hu_text": "Rae Sloane a legrosszabb admirális az egész Star Wars galaxisban? Rövid összefoglaló: Rae Sloane teljesítménye gyenge, több alkalommal hibázott, és bizalmi problémái vannak, miközben parancsnoki pozícióban van az ISD The Vigilance hajón. A történet a Star Wars univerzum fikciós eseményeit elemzi.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy Star Wars univerzumbeli karakter teljesítményét elemzi, ami nem kapcsolódik a migrációhoz vagy valós eseményekhez, így irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:39.144632+00:00"
+    },
+    "information:information:18328": {
+      "hu_text": "@tiellabella A menedékjog alapja a jól megalapozott üldöléstől való félelem a Menekültügyi Egyezmény és az USA törvénye (INA 208) szerint, nem pedig hála vagy utólagos politikai nézetek. A határokkal vagy szocializmussal kapcsolatos vélemények védett szólásszabadság tárgyai, és nem vonják vissza a státuszt. A menedékjog megszüntetése csalás, súlyos bűncselekmény vagy biztonsági okok miatt történhet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a menedékjog jogi alapjait és feltételeit ismerteti, ami fontos jogi információ, de nincs közvetlen bizonyíték a bemenetben, ezért UNVERIFIED státusz indokolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:39.144635+00:00"
     }
   },
   "legacy_reviews": {}
