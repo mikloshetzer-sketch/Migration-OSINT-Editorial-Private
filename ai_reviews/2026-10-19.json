@@ -1585,6 +1585,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:52:47.283082+00:00"
+    },
+    "record:2112132260770074699": {
+      "hu_text": "Tizenkét migráns meghalt két hajó felborulásában a görög szigetek közelében. Gyanús embercsempészeket letartóztattak. Görögország nulla toleranciát hirdet az embercsempészekkel szemben.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét eseményről számol be, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:19.187724+00:00"
+    },
+    "record:2112216603131818256": {
+      "hu_text": "Az Arab-félszigeten és a Perzsa-öböl államaiban sok fekete afrikai él – egyesek szabad migránsként érkeztek, másoknak rabszolgaságban gyökerező múltjuk van. Azonban ha összehasonlítjuk az európai és a helyi rabszolgák helyzetét, különbségek mutatkoznak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi és társadalmi háttérre utaló megjegyzés, nem konkrét migrációs esemény vagy intézkedés. Nem ellenőrzött állításokat tartalmaz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:19.187747+00:00"
+    },
+    "record:2112215950699147629": {
+      "hu_text": "A görög hatóságok megerősítették, hogy hat ember meghalt, és tizennégyet kimentettek, miután egy migránsokat szállító gyorshajó felborult Samos szigeténél. Ez órákkal azután történt, hogy egy másik migránshajó összeütközött a görög parti őrség járőrhajójával Leszbosznál, ahol szintén hatan meghaltak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét tragikus eseményről számol be hivatalos hatósági megerősítéssel, de nincs további független forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:19.187754+00:00"
+    },
+    "record:1983050450:24930": {
+      "hu_text": "Két migráns Vladivosztokban heroincsempészet miatt került letartóztatásra. Egyikük 105 gramm heroint szállított autójában, és mindketten 10-20 év börtönbüntetésre számíthatnak.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés bűnügyi esetről szól, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:19.187759+00:00"
+    },
+    "record:2112299315389423779": {
+      "hu_text": "Nemrég találkoztam a Libets családdal, akik Ukrajnából menekülve telepedtek le Minnesotában. Csapatom segített nekik a vízumkérelmükben. Büszke vagyok arra, hogy Ukrajna mellett állok és mindig támogatni fogom őket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét migráns család letelepedéséről és támogatásáról szól, de nincs további bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:19.187764+00:00"
+    },
+    "group:532": {
+      "hu_text": "Az Arab-félszigeten és a Perzsa-öböl államaiban sok fekete afrikai él – egyesek szabad migránsként érkeztek, másoknak rabszolgaságban gyökerező múltjuk van. Azonban ha összehasonlítjuk az európai és a helyi rabszolgák helyzetét, különbségek mutatkoznak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ismétlődő, történelmi háttérre utaló megjegyzés, nem konkrét migrációs esemény vagy intézkedés. Nem ellenőrzött állításokat tartalmaz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:19.187767+00:00"
     }
   },
   "legacy_reviews": {}
