@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:54:20.760351+00:00"
+    },
+    "information:information:16756": {
+      "hu_text": "@steonthesea Ha annyira félnék és üldözött lennék a saját országomban, a legközelebbi biztonságos menedékhelyre mennék! Nem hagynám magukra a nőket és gyerekeket!! És veszélyes tengeri átkelést kellene vállalni!! Franciaország egy csodálatos biztonságos ország!! Ők illegális gazdasági migránsok… ennyi.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy személyes vélemény és állítás, amely nem tartalmaz bizonyított tényeket, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:30.182102+00:00"
+    },
+    "information:information:16760": {
+      "hu_text": "@MatthewStadlen Igazság szerint, ha megölnénk az illegális migránsokat, akkor a Csatornán átkelő számuk csökkenne.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erősen vitatható és súlyos állítás, amely nem bizonyított, de jelentős hatással lehet a közbeszédre, ezért magas prioritású ellenőrzést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:30.182121+00:00"
+    },
+    "information:information:16762": {
+      "hu_text": "@PeriklesGREAT Miért gondolod, hogy annyi gumicsónak tele van \"migránsokkal\", akik az Egyesült Királyságba tartanak? Nem fogja visszaküldeni őket oda, ahonnan jöttek, hanem szétosztják őket az EU-ban. Kérdezd meg Lengyelországot és Magyarországot... ők tudják, mi jön.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és feltételezés a migránsok kezeléséről, amely nem bizonyított tényeken alapul, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:30.182124+00:00"
+    },
+    "information:information:16763": {
+      "hu_text": "@BenObeseJecty Miért ne kezdhetnénk a Határőrséggel és az RNLI-vel azzal, hogy befejezzük a csónakok elfogását és a migránsok partra hozatalát?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy javaslat a határbiztonsági gyakorlat megváltoztatására, amely nem tényállítás, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:30.182128+00:00"
+    },
+    "information:information:16767": {
+      "hu_text": "@DPJHodges @JackBMontgomery Megjegyzendő, hogy most már elismered, ha kis csónakkal átkelnek a Csatornán Franciaországból, akkor már nem \"valódi\" menekültek… végül is beismerted.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és értelmezés a menekültstátuszról, amely nem bizonyított tény, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:30.182130+00:00"
+    },
+    "information:information:16768": {
+      "hu_text": "@MediaWatch2006 @BBCNews @YouTube Danny Tommo (valódi neve Daniel Thomas) jelenleg előzetes letartóztatásban van. Vádolják rongálással, miután egy élő közvetítés állítólag azt mutatta, hogy egy migráns csónakot késsel szúrt át az angol csatornában, miközben egy mentő dolgozó volt a fedélzeten, továbbá nem jelentette be a telefonját.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás részben ellenőrizhető hivatalos forrásokból (letartóztatás, vád), de a cselekmény részletei még nem teljesen bizonyítottak, ezért részben ellenőrzött státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:54:30.182132+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
