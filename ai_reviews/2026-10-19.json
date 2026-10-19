@@ -397,6 +397,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:23.780110+00:00"
+    },
+    "information:information:19578": {
+      "hu_text": "Az állítások részben technikai különbségeket kevernek jelentős pontatlanságokkal. A francia nem beavatkozás a túlterhelt hajóknál nem egyértelműen sérti a SOLAS/SAR/UNCLOS egyezményeket, amelyek csak a bajba jutottak segélyezését írják elő, nem pedig a távozók kötelező visszaküldését. A francia politika korlátozza a tengeri beavatkozásokat.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt jogi értelmezést tartalmaz migrációs határbiztonsági intézkedésekről, de nincs hivatalos forrás vagy bizonyító adat a pontos állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:32.197723+00:00"
+    },
+    "information:information:19583": {
+      "hu_text": "Határozottan nagy számban érkeztek teherautókon 2002 után is. A visszaküldés elrettentő hatású, ezért felvetődik a kérdés, hogy támogatják-e a Franciaországgal kötött megállapodást, amely szerint minden csatornán átkelő migránst azonnal visszaküldenek. Ez azonnali hatással lenne a migrációra és Franciaországban is csökkentené a számukat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt migrációs mozgásjelzést és politikai véleményt tartalmaz, de nincs bizonyíték a visszaküldési megállapodás létezésére vagy hatékonyságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:32.197743+00:00"
+    },
+    "information:information:19590": {
+      "hu_text": "Hat migráns, köztük egy csecsemő meghalt, miután egy Törökországból érkező gyorsmotoros hajó összeütközött egy görög parti őrségi hajóval és felborult Leszbosz szigeténél hétfőn hajnalban, közölték a görög hatóságok.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét tragikus migrációs eseményt ír le, de nincs hivatalos megerősítés vagy részletes forrás a baleset körülményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:32.197748+00:00"
+    },
+    "information:information:19592": {
+      "hu_text": "Az Európában történő eseményekért azok a választók felelősek, akik ilyen vezetőket választanak. Izrael vagy a zsidók nem kapcsolódnak az európai vezetők nehézségeihez a migránsok kitoloncolásában. Az Egyesült Királyság katonai határőrizettel megállíthatná a csónakos migránsokat, de ezt nem teszi meg.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt politikai véleményt és társadalmi diskurzust tartalmaz, de nem állít konkrét tényeket vagy eseményeket migrációval kapcsolatban.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:32.197753+00:00"
+    },
+    "information:information:19594": {
+      "hu_text": "Tragédia történt Leszbosznál, ahol hat migráns, köztük egy csecsemő vesztette életét egy gyorsmotoros hajó és egy görög parti őrségi hajó ütközése miatt. A hatóságok az embercsempészek felelősségre vonását sürgetik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt egy konkrét migrációs tragédiát ír le, de nincs hivatalos megerősítés vagy részletes bizonyíték a baleset körülményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:32.197757+00:00"
+    },
+    "record:2111966663809679451": {
+      "hu_text": "Franciaországban a legtöbb migráns sátrakban él, ami az egyik oka annak, hogy annyira szeretnének Angliába jutni. Észak-Franciaországban nyáron több száz migránst láttak a tengerparti városokban két véletlenszerű napon. Az újonnan érkezett migránsok Franciaországban súlyos bűncselekményeket követnek el.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt migránsok életkörülményeiről és bűnözésről szóló állításokat tartalmaz, de nincs hivatalos adat vagy bizonyíték az állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:32.197760+00:00"
     }
   },
   "legacy_reviews": {}
