@@ -573,6 +573,67 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1076,
+      "source": "X",
+      "source_post_id": "2112081216417542636",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T07:19:37Z",
+      "first_detected_at": "2026-10-19T07:30:45Z",
+      "last_detected_at": "2026-10-19T07:30:45Z",
+      "detection_count": 1,
+      "text": "@davi49452 @johnfkennedi2 The video is from the night of 6 September 2026 (into early 7 September) at Eastney Marina in Portsmouth. It shows crowds and Danny Tommo attempting to block coaches carrying migrants who had arrived by small boat that evening.",
+      "text_excerpt": "@davi49452 @johnfkennedi2 The video is from the night of 6 September 2026 (into early 7 September) at Eastney Marina in Portsmouth. It shows crowds and Danny Tommo attempting to block coaches carrying migrants who had arrived by small boat that evening.",
+      "url": "https://x.com/grok/status/2112081216417542636",
+      "source_url": "https://x.com/grok/status/2112081216417542636",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants who had arrived"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants who had arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1146,6 +1207,67 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1076,
+      "source": "X",
+      "source_post_id": "2112081216417542636",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-19T07:19:37Z",
+      "first_detected_at": "2026-10-19T07:30:45Z",
+      "last_detected_at": "2026-10-19T07:30:45Z",
+      "detection_count": 1,
+      "text": "@davi49452 @johnfkennedi2 The video is from the night of 6 September 2026 (into early 7 September) at Eastney Marina in Portsmouth. It shows crowds and Danny Tommo attempting to block coaches carrying migrants who had arrived by small boat that evening.",
+      "text_excerpt": "@davi49452 @johnfkennedi2 The video is from the night of 6 September 2026 (into early 7 September) at Eastney Marina in Portsmouth. It shows crowds and Danny Tommo attempting to block coaches carrying migrants who had arrived by small boat that evening.",
+      "url": "https://x.com/grok/status/2112081216417542636",
+      "source_url": "https://x.com/grok/status/2112081216417542636",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants who had arrived"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants who had arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
       "analyst_priority": "LOW"
     }
   ],
@@ -2039,7 +2161,7 @@
       "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T07:12:12.178435+00:00",
+  "last_archived_at": "2026-10-19T07:31:58.069783+00:00",
   "live_events": [
     {
       "id": 648,
@@ -2216,6 +2338,28 @@
       "text": "Ростовда 514 нафар мигрант депортация қилинди\n\nРостов вилоятида ўтказилган «Нелегал-2026» текширувлари давомида ҳужжатларида қонунбузарлик аниқланган 514 нафар чет эл фуқаросини мамлакатдан чиқариб юбориш тўғрисида қарор қабул қилинди. Ушбу шахсларга Россия ҳудудига кириш расман тақиқланди ва улар томонидан тўланган жарималар миқдори 5 миллион рублни ташкил этди.",
       "url": "https://t.me/migrantlar24/12264",
       "source_url": "https://t.me/migrantlar24/12264"
+    },
+    {
+      "id": 656,
+      "event_id": 656,
+      "source": "X",
+      "source_post_id": "2112083719607718314",
+      "author": "Wglogan2022",
+      "published_at": "2026-10-19T07:29:34Z",
+      "collected_at": "2026-10-19T07:30:44Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "LESVOS, GREECE — Boat collision killed 6 migrants, including infant; 8 survived. Suspected smuggler arrested; investigation ongoing.\nSource: https://t.co/gBexgQ54z1\nSCOOP NEWS #Greece",
+      "url": "https://x.com/Wglogan2022/status/2112083719607718314",
+      "source_url": "https://x.com/Wglogan2022/status/2112083719607718314"
     }
   ],
   "event_groups": [
@@ -3514,6 +3658,123 @@
       "influence_detected": false,
       "first_collected_at": "2026-10-18T23:57:06Z",
       "last_collected_at": "2026-10-18T23:57:06Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19473",
+      "timestamp": "2026-10-19T07:28:41Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112083498446000559",
+      "author": "OdyyNL",
+      "url": "https://x.com/OdyyNL/status/2112083498446000559",
+      "source_url": "https://x.com/OdyyNL/status/2112083498446000559",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "@Fatoch51 @le_Parisien @instagram Look Biden’s USA. Ow no France now. If you Vote Left. You Vote for this!!!!! What did Trump to stop this? Sent in The National Guard. And Deport illigal migrants. And no open Borders.",
+      "text_excerpt": "@Fatoch51 @le_Parisien @instagram Look Biden’s USA. Ow no France now. If you Vote Left. You Vote for this!!!!! What did Trump to stop this? Sent in The National Guard. And Deport illigal migrants. And no open Borders.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T07:29:30Z",
+      "last_collected_at": "2026-10-19T07:29:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19485",
+      "timestamp": "2026-10-19T07:27:58Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112083318090985746",
+      "author": "dawnvhardy",
+      "url": "https://x.com/dawnvhardy/status/2112083318090985746",
+      "source_url": "https://x.com/dawnvhardy/status/2112083318090985746",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "channel",
+        "boat",
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "https://t.co/Mw3QxkTa4R illegals Boats arriving on our Beaches are by Law arrested &amp; deported straight away,thats why Border Force collect them near the Frech &amp; English Channel! They are welcome !!!  200K migrants are granted lto stay here! Gove have forgotten our own  homeless!",
+      "text_excerpt": "https://t.co/Mw3QxkTa4R illegals Boats arriving on our Beaches are by Law arrested &amp; deported straight away,thats why Border Force collect them near the Frech &amp; English Channel! They are welcome !!!  200K migrants are granted lto stay here! Gove have forgotten our own  homeless!",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T07:30:03Z",
+      "last_collected_at": "2026-10-19T07:30:03Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19502",
+      "timestamp": "2026-10-19T07:19:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112081201422897205",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2112081201422897205",
+      "source_url": "https://x.com/grok/status/2112081201422897205",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@AngryCabler @MadisonKing_fox No verified videos show Israelis helping migrants during the 2026 Ceuta or Morocco-Spain crossings. Footage circulating of Israeli volunteers (often labeled IsraAID) assisting boat arrivals is from Lesbos, Greece, in 2015. Claims of on-site Israeli involvement in the recent",
+      "text_excerpt": "@AngryCabler @MadisonKing_fox No verified videos show Israelis helping migrants during the 2026 Ceuta or Morocco-Spain crossings. Footage circulating of Israeli volunteers (often labeled IsraAID) assisting boat arrivals is from Lesbos, Greece, in 2015. Claims of on-site Israeli involvement in the recent",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-19T07:30:45Z",
+      "last_collected_at": "2026-10-19T07:30:45Z",
       "collection_count": 1
     }
   ]
