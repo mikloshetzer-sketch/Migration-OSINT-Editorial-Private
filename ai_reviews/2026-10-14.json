@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:56:47.046990+00:00"
+    },
+    "information:information:17030": {
+      "hu_text": "A Brazíliai Aparecida Miasszonyunk szobra egy 1717-ben a Paraíba do Sul folyóból kiemelt, 36 cm magas terrakotta (égetett agyag) szobor, amely a Szeplőtelen Fogantatás Mária-képét ábrázolja. Eredetileg több színű lehetett, de a hosszú víz alatti tartózkodás miatt elvesztette eredeti színeit, jelenlegi barna színe pedig a gyertyák és lámpák füstjének köszönhető. A szobor készítője ismeretlen, bár korábban egy művész szerzeteshez kötötték.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció, nem migrációs esemény vagy vélemény, nincs migrációs relevanciája.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:55.297699+00:00"
+    },
+    "information:information:17035": {
+      "hu_text": "@LabourfutureUK 😂😂 Nem ezt mondták. Sorozatos hazudozók vagytok? Manipuláljátok az adatokat, mert a csónakos átkelések nem csökkentek olyan mértékben, ahogy állítjátok. Ráadásul sikernek állítjátok be. Egyetlen illegális migránsnak sem szabadna belépnie ebbe az országba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás migrációs adatokról, de nincs bizonyíték az állítások igazolására vagy cáfolatára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:55.297718+00:00"
+    },
+    "information:information:17036": {
+      "hu_text": "@SDoughtyMP @HouseofCommons @FCDOGovUK @Ed_Miliband @DanJarvisMBE @ukhomeoffice @DefenceHQ @UKinIran Valóban elhiszitek a saját pártjaitok hazugságait? A Munkáspárt elégedett az iráni és más országokból érkező fenyegetésekkel, különben megállítanák a migrációt és a kis csónakokat. Kitoloncolnák a migránsokat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás migrációs politikáról, nincs bizonyíték az állítások igazolására vagy cáfolatára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:55.297722+00:00"
+    },
+    "information:information:17038": {
+      "hu_text": "@KemiBadenoch @RupertLowe10 - A legegyszerűbb módja a csónakos átkelések megállításának az illegális migránsok pénzügyi támogatásának megszüntetése lenne? Valamit nem értek?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és javaslat migrációs intézkedésekről, nincs bizonyíték az állítás igazolására vagy cáfolatára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:55.297724+00:00"
+    },
+    "information:information:17039": {
+      "hu_text": "Hét migránscsónakot, összesen 101 emberrel a fedélzetükön, elfogtak Cartagena partjainál.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális migrációs eseményről szóló információ, amely fontos a határbiztonság és migrációs mozgások szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:55.297727+00:00"
+    },
+    "information:information:17050": {
+      "hu_text": "Az EU 25 millió eurót kötelezett el keleti Líbia migrációs együttműködésének bővítésére. A támogatás a határkezelést, keresés-mentést és csempészet elleni tevékenységeket segíti keleti Líbia területén.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs politika és finanszírozási információ, amely befolyásolja a migrációs együttműködést és határbiztonságot, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:55.297730+00:00"
     }
   },
   "legacy_reviews": {}
