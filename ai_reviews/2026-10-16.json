@@ -628,6 +628,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:46:56.086443+00:00"
+    },
+    "information:information:17924": {
+      "hu_text": "@ryan_blahblah Ez a Tory hablaty. Fogvatartás? Csak azokat lehet fogvatartani, akik kis csónakokon érkeznek. Más szóval, a Restore engedni fogja a csónakokat, hogy jöjjenek, megmentik a migránsokat, elviszik őket az Egyesült Királyságba, szállást, egészségügyi ellátást és tanácsadást adnak nekik. Még a Labour is tárgyal a migránsok fogvatartásáról.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és állításokat tartalmaz a migránsok fogvatartásáról és a politikai pártok álláspontjáról, de nincs megerősített bizonyíték az állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:08.406137+00:00"
+    },
+    "information:information:17909": {
+      "hu_text": "@WilliamsDe20244 @DavidAr56027161 És hányan vannak már itt? Egyetlen migráns csónak sem szelhetné át a csatornát. Soha. Természetesen a számok enyhén csökkennek a téli hónapokban, ahogy mindig is szoktak. De az invázió folytatódik. És az invázsorok már ezrekben itt vannak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés erősen politikai és érzelmi töltetű, migránsokkal kapcsolatos állításokat tartalmaz, de nincs bizonyíték az invázió vagy az invázsorok létezésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:08.406154+00:00"
+    },
+    "information:information:17911": {
+      "hu_text": "• 1999. október 16.: Orvosi ellátás megtagadása ellenőrzőpontokon (Határátlépéseknél késleltetések alkalmazása, ami kritikus állapotú betegek halálához vezetett)\n• 2000. október 16.: Második intifáda mesterlövész kampány (Magas kaliberű mesterlövész tűz rendszerszintű alkalmazása fiatal civil tüntetők ellen)",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi eseményeket sorol fel, de nincs migrációs kontextus vagy további bizonyíték a megadott állításokra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:08.406159+00:00"
+    },
+    "information:information:17912": {
+      "hu_text": "• 1973. október 16.: Színai páncélos roham (Nagy tankcsaták és intenzív légi támogatás az októberi háború alatt, súlyos veszteségeket okozva)\n• 1974. október 16.: Dél-Libanon betörések (Erős tüzérségi és határon átnyúló földi rajtaütések, amelyek rettegést keltettek a libanoni vidéken)",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi katonai eseményeket ismertet, nincs közvetlen migrációs relevanciája vagy bizonyíték a megadott állításokra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:08.406161+00:00"
+    },
+    "information:information:17927": {
+      "hu_text": "🔴 Migránsok átkelnek a Bab al-Mandeb-szoroson Jemenbe munkát keresve, nem pedig a konfliktus elől menekülve. A migránsok veszélyes tengeri átkeléseket tesznek a Bab al-Mandeb-szoroson keresztül Jemen és a Perzsa-öböl felé, munkalehetőség reményében, nem kizárólag a jemeni harcok elől menekülve.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítja, hogy a migránsok munkát keresnek, nem konfliktus elől menekülnek, de nincs megerősített adat az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:08.406164+00:00"
+    },
+    "information:information:17934": {
+      "hu_text": "@MinnesotaDFL Öt évvel ezelőtt: Biden adminisztráció alatt több mint 450 000 kísérő nélküli migráns gyermek tűnt el az Egyesült Államokban, sokan ember- és szexkereskedelem áldozatai voltak. Trump elnök véget vetett ennek az őrületnek és visszaállította a határaink ellenőrzését.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állításokat tartalmaz migráns gyermekek eltűnéséről és politikai intézkedésekről, de nincs megerősített bizonyíték az adatokra vagy az állítások valóságtartalmára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:47:08.406167+00:00"
     }
   },
   "legacy_reviews": {}
