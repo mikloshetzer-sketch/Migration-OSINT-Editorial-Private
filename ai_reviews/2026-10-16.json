@@ -562,6 +562,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:45:54.936397+00:00"
+    },
+    "information:information:17983": {
+      "hu_text": "Az Egyesült Államok mindig is bevándorlásra épült, de ez csak legális bevándorlás lehet. Még azok az emberek is, akik évtizedekkel ezelőtt az Ellis-szigeten szálltak partra, illegálisan tették ezt, miután leszálltak a hajóról. Az Egyesült Államok szabályozza, hogy hányan léphetnek be.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás bevándorlási szabályozásról szól, de nincs konkrét bizonyíték a pontos szabályok vagy történelmi tények alátámasztására, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:46:56.086407+00:00"
+    },
+    "information:information:17981": {
+      "hu_text": "Egy csoport palesztin vesztette életét, nem csak egyetlen palesztin. Az átkelés az Erez átkelőhelyen történt, a palesztinok pedig egy korábban az ENSZ által létrehozott, két négyzetkilométeres menekülttábor előtt álltak sorba.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy további részlet, így ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:46:56.086427+00:00"
+    },
+    "information:information:17985": {
+      "hu_text": "Úgy gondolja, jobb lenne hajóra szállni, kimenni a tengerre és menekültként megmenekülni, mert Ausztráliában több lehetőség van a menekülteknek vagy bevándorlóknak, mint azoknak, akik terrorszervezeteket támogatnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és tapasztalat, amely nem tartalmaz konkrét bizonyítható tényt, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:46:56.086432+00:00"
+    },
+    "information:information:17988": {
+      "hu_text": "A Gambiai Vöröskereszt reagál egy tragikus hajóbalesetre a Jinack Kajata partjainál, az északi partvidéken, ahol migránsok próbáltak az Atlanti-óceánon keresztül utazni. Az önkéntesek méltóságteljes segítséget nyújtanak a helyzet kezelésében.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény humanitárius jellegű és aktuális, de nincs független megerősítés, ezért ellenőrizetlen, de magas prioritású a segítségnyújtás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:46:56.086438+00:00"
+    },
+    "information:information:18198": {
+      "hu_text": "A harmadik világháború nem úgy fog kinézni, mint az előző kettő, és talán már meg is kezdődött. A nukleáris fegyverek miatt a hagyományos háborúk helyett globális konfliktus zajlik információs hadviselés, drónok, ellátási láncok és élelmiszerárak révén, amely nem rendelkezik hivatalos hadüzenettel vagy frontvonallal.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Elemző, vélemény jellegű szöveg a globális konfliktusokról, nem konkrét migrációs esemény, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:46:56.086441+00:00"
+    },
+    "information:information:17930": {
+      "hu_text": "Az illegális bevándorlás egyik kevéssé tárgyalt kérdése, hogy egy írástudatlan guatemalai földműves hogyan tudja előteremteni a körülbelül 10 ezer dolláros csempészési díjat, amit embercsempészeknek és kartelleknek kell fizetnie, hogy eljusson ide.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás társadalmi vitát érint az illegális bevándorlás finanszírozásáról, de nincs konkrét bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:46:56.086443+00:00"
     }
   },
   "legacy_reviews": {}
