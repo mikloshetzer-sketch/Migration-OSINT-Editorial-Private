@@ -529,6 +529,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:40.071749+00:00"
+    },
+    "record:1604168769:12264": {
+      "hu_text": "Rosztovban 514 migránst deportáltak. Rosztov régióban az „Illegal-2026” ellenőrzések során 514 külföldi állampolgárnál találtak jogsértést a papírjaikban, ezért döntöttek az ország elhagyásukról. Ezeknek a személyeknek hivatalosan megtiltották az orosz területre való belépést, és általuk befizetett bírságok összege 5 millió rubel volt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét migrációs eseményt ír le, deportálásról, ami jelentős migrációs fejlemény. Az állítások nem ellenőrzöttek, nincs hivatalos forrás vagy megerősítés. Fontos a gyors ellenőrzés a helyzet pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:49.343842+00:00"
+    },
+    "record:2112083719607718314": {
+      "hu_text": "Leszbosznál, Görögországban egy hajóbalesetben 6 migráns, köztük egy csecsemő meghalt, 8-an túléltek. Egy gyanús embercsempészt letartóztattak, a nyomozás folyamatban van.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt súlyos migrációs eseményt ír le, halálesetekkel és embercsempész letartóztatásával. Az információk nem ellenőrzöttek, de fontosak a migrációs biztonság szempontjából, ezért magas prioritású az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:49.343862+00:00"
+    },
+    "record:mastodon_117466631103191109": {
+      "hu_text": "Két tengeri balesetben tíz migráns halt meg Leszbosz és Számosz közelében, köztük egy csecsemő. 22 embert kimentettek az Égei-tengeren.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt migrációs eseményről számol be, halálesetekkel és mentésekkel, ami jelentős humanitárius és migrációs fejlemény. Az információk nem ellenőrzöttek, ezért fontos a megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:49.343868+00:00"
+    },
+    "record:2112095813342314939": {
+      "hu_text": "Egy nemrég érkezett algériai menekült csak sárgadinnye vásárlására akart menni, de egy főként békés diáktüntetések kereszttüzébe került, amelyek az osztálylétszámokról szóltak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt egy társadalmi diskurzust tükröz, nem konkrét migrációs eseményt vagy intézkedést. Az állítás nem ellenőrzött, és nem jelent közvetlen migrációs biztonsági vagy politikai fejleményt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:49.343872+00:00"
+    },
+    "record:2112104067434733694": {
+      "hu_text": "Nézd meg a helyi tanácsokat: hány hajléktalant és hány újonnan érkezett migránst helyeztek el? Akkor rájössz, hogy Burnham által elhelyezni kívánt emberek szavazatmanipuláció céljából vannak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus a migránsok elhelyezéséről, nincs konkrét tényállítás vagy esemény. Nem ellenőrzött, de nem igényel sürgős ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:49.343877+00:00"
+    },
+    "group:523": {
+      "hu_text": "Franciaországban a legtöbb migráns sátrakban él, ezért szerintem ezért akarnak annyira Angliába jönni. Észak-Franciaországban élek, és idén nyáron több száz migránst láttam a tengerparti városokban két véletlenszerű napon. Az újonnan érkezett migránsok Franciaországban borzalmas bűncselekményeket követnek el.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt társadalmi diskurzust tartalmaz migránsok életkörülményeiről és bűnözésről, de általánosító és nem ellenőrzött állításokat tesz. A migrációs helyzet szempontjából közepes prioritású az ellenőrzés, különösen a bűnözési állítások miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:49.343881+00:00"
     }
   },
   "legacy_reviews": {}
