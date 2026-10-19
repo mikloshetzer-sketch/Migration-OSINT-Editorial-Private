@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:55:03.091619+00:00"
+    },
+    "information:information:16867": {
+      "hu_text": "Gravelines csatorna csónakindulás\n\nEgy október 12-én közzétett színes videó a The Nowhere Photographer-tól migránsokat mutat narancssárga mentőmellényben, amint túlzsúfolt csónakokra szállnak fel a francia partoknál, Gravelines közelében. A felvételen emberek láthatók, amint a dűnéktől a vízig sétálnak, mielőtt a csónakok elindulnának.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A videó migránsok csónakos átkelését mutatja a La Manche csatornánál, ami fontos migrációs esemény. Az állítás nem ellenőrzött, de a vizuális bizonyíték miatt releváns és magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:13.224794+00:00"
+    },
+    "information:information:16894": {
+      "hu_text": "Az IQ-ja nem számít, a viselkedése igen. Egy ilyen ember nem mozoghat szabadon a civilizált társadalomban. Pakisztánból érkezőket nem szabadna menekültként elfogadni, mivel Pakisztán nem háborús övezet, csak határkonfliktus van Afganisztánnal. Ki kell toloncolni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és társadalmi diskurzus a menekültek elfogadásáról, nem tényállítás. Nem ellenőrzött, de nem manipulációgyanús.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:13.224808+00:00"
+    },
+    "information:information:16895": {
+      "hu_text": "Nem. A Falkland-szigetek lakossága kb. 3500 fő. Több mint 300 mérföldnyi nyílt dél-atlanti átkelés kis csónakokkal sokkal veszélyesebb, mint a La Manche csatorna, és az útvonalat az ottani kb. 1500 brit katona, valamint légi és haditengerészeti eszközök ellenőrzik. A menedékjoghoz megalapozott félelem szükséges.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés a határbiztonság és menedékjogi feltételek témáját érinti, tényeket és véleményt is tartalmaz. Nem ellenőrzött, de releváns a migrációs kontextusban.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:13.224811+00:00"
+    },
+    "information:information:16927": {
+      "hu_text": "Érdekes világépítés a Halo: Parasite’s Wake című könyvből (nem tartalmaz cselekmény spoilert). A könyv karakterközpontú, bemutatja a UNSC legkeserűbb időszakát, különösen Mobuto hadnagy sorsát, aki a könyv főszereplője.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy videojáték univerzum világépítéséről szól, nem kapcsolódik a migrációhoz vagy annak aspektusaihoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:13.224814+00:00"
+    },
+    "information:information:16929": {
+      "hu_text": "1949-es izraeli választások és politikai helyzet: Izrael politikailag nagyon megosztott, a menekültek többsége munkás szocialista cionista, kisebb csoportokban vannak revizionisták, általános cionisták és vallásos cionisták. A politikai megosztottság miatt a munkás cionisták nem tudtak egységes pártot alkotni.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés történelmi háttérinformációkat tartalmaz Izrael 1949-es választásairól és politikai összetételéről, ami releváns a migrációs és menekültügyi kontextusban, de nem aktuális esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:13.224816+00:00"
+    },
+    "information:information:17031": {
+      "hu_text": "Jyotiṣa a Szultán városában: indiai csillagászok a Delhi Szultánság alatt (1206–1526)\nAz írás az indiai csillagászok szerepét vizsgálja a Szultánságban, hangsúlyozva, hogy nem csak közvetítők voltak, hanem aktív innovátorok. A cikk főként a mecénásokról és udvari kultúráról szól, de kiemeli az indiai tudósokat, akik a szanszkrit, prakrit és dzsaina hagyományokból származtak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés történelmi tudományos témát tárgyal, amely nem kapcsolódik közvetlenül a migrációhoz vagy menekültügyhöz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:55:13.224818+00:00"
     }
   },
   "legacy_reviews": {}
