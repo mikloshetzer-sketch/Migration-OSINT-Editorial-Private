@@ -1717,6 +1717,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:53:28.753705+00:00"
+    },
+    "record:2112134097753845887": {
+      "hu_text": "A görög parti őrség szerint 12 migráns halt meg az Égei-tengeren történt átkelések során.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálos migrációs eseményről szól, amely fontos a migrációs helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:36.222534+00:00"
+    },
+    "record:2112178219465982413": {
+      "hu_text": "Legalább hat migráns meghalt és 14-et kimentettek egy gyorsmotoros hajó felborulása után Észak-Görögország Samos szigete közelében. Ez volt a nap második halálos migráns hajóbalesete, előzőleg Leszbosz szigetén is hat haláleset történt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálos migrációs balesetről számol be, ami fontos információ, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:36.222550+00:00"
+    },
+    "record:mastodon_117467820606153041": {
+      "hu_text": "Az Egyesült Államok nagykövetsége figyelmezteti a hondurasiakat a migránskaravánok hamis ígéreteire. Az INM 37 968 kitoloncolást regisztrált 2026 januárja és október 15-e között.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migrációs társadalmi diskurzust tükröző figyelmeztetés és statisztika, de nincs független ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:36.222555+00:00"
+    },
+    "record:reddit_1xa0gwg": {
+      "hu_text": "Az energiaügyi miniszter bírálja Mahmood migránsellenes intézkedéseit: Miatta Fahnbulleh figyelmeztet, hogy a tartózkodási joghoz való hozzáférés késleltetése veszélyeztetheti a beilleszkedést.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migrációs jogi-politikai vélemény és kritika, amely fontos a jogi környezet megértéséhez, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:36.222558+00:00"
+    },
+    "record:2112221993697513508": {
+      "hu_text": "12 migráns halt meg két Égei-tengeri átkelés során, köztük egy csecsemő. Egy gyorsmotoros hajó összeütközött egy parti őrségi hajóval Leszbosz közelében, majd órákkal később egy másik hajó felborult Samosnál.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálos migrációs eseményről szól, amely jelentős a migrációs helyzet szempontjából, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:36.222562+00:00"
+    },
+    "record:2112220905216905535": {
+      "hu_text": "Egy lengyel politikus azt mondja az illegális migránsoknak, hogy a határőrök élő lőszert használhatnak, és lelövik őket: „A katonáink most élő lőszert használhatnak. Ne jöjjetek a lengyel határhoz. Ne bántsátok a katonáinkat, mert meghaltok. Lelőnek.” Lengyelország nem Spanyolország, Franciaország vagy az Egyesült Királyság.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Határbiztonsági fenyegetésről és politikai kijelentésről van szó, amely fontos a migrációs biztonsági helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T21:53:36.222566+00:00"
     }
   },
   "legacy_reviews": {}
