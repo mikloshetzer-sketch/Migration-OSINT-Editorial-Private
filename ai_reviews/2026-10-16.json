@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:10:20.297287+00:00"
+    },
+    "information:information:18255": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, konkrét panaszokat tartalmaz a lengyel határ átlépésének megtagadásáról, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:12.329843+00:00"
+    },
+    "information:information:18241": {
+      "hu_text": "Phoebe Hadjimarcos Clarke: Az alagutak könyve. Egy kiváló regény kreatív írással és nyomasztó hangulattal. A történet 2030-ban játszódik egy fiktív városban a francia-német határon, és egy művész belső küzdelmeit mutatja be. A könyv több női szereplő narrációján keresztül bontakozik ki, és egyedi, befogadó stílusban íródott.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy irodalmi mű bemutatása, nem kapcsolódik közvetlenül migrációhoz vagy határbiztonsághoz, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:12.329862+00:00"
+    },
+    "information:information:18504": {
+      "hu_text": "Nem nép börtöne: Hogyan tették a hétköznapi emberek a Habsburg Birodalmat a magukévá. 1911-ben a galíciai Drohobych városában egy választási esemény során a helyi hatóságok csak a hivatalban lévő jelölt támogatóit engedték szavazni, a másik jelölt támogatói ellenállásba ütköztek, és a katonák tüzet nyitottak, 26 halálos áldozattal. A történet azt mutatja, hogy a helyiek részben a birodalom részének tekintették magukat, és ezért kockáztattak a választásokért.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés történelmi eseményt ismertet, amely migrációval közvetlenül nem kapcsolatos, de háttérinformációként értékelhető. Az állítás ellenőrzéséhez források szükségesek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:12.329865+00:00"
+    },
+    "information:information:18218": {
+      "hu_text": "@Neccccy Jéghidegre hívnám a hatóságokat, leütném a migránst a földre, és fogva tartanám, amíg meg nem érkeznek a kitoloncolásra.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény vagy kommentár, amely erőszakos fellépést javasol migránsokkal szemben, de nem tényállítás vagy esemény, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:12.329867+00:00"
+    },
+    "information:information:18177": {
+      "hu_text": "@quantumfliphr @LizaZulu777 @may19665 @sneako Amiért a palesztinok nem tudnak egyszerűen elmenekülni Gázából: a Gáza határait szigorúan ellenőrzik, a szomszédos országoknak engedélyezniük kell a menekültek befogadását, és az átkelőhelyeket többször lezárták vagy korlátozták. Hol javasolják tehát a több mint 2 millió ember áttelepítését?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs helyzetre reflektál, de inkább vélemény és magyarázat, nem tényállítás, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:12.329870+00:00"
+    },
+    "information:information:18178": {
+      "hu_text": "Sunny Hostin megpróbálta \"ellenőrizni\" Joe Rogant, de végül a demokrata narratívát ismételte: tagadás, elterelés, és reménykedés, hogy senki sem emlékszik. 🚩 \"A határ Biden alatt zárva volt.\" Több millió rekord átlépés ezt cáfolja. 🚩 \"Senki sem mondta meg nekik, hogyan jussanak be.\"",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és vitát tartalmaz a határhelyzetről, de nem tényállítás, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:12.329872+00:00"
     }
   },
   "legacy_reviews": {}
