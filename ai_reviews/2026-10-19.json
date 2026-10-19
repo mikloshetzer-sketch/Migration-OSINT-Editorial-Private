@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:05.685095+00:00"
+    },
+    "information:information:19324": {
+      "hu_text": "„Egy történelmi fordulat”\n\nA Belbiztonsági Minisztérium (DHS) jelentése szerint az Egyesült Államok történetében a legalacsonyabb volt az adott pénzügyi évben a határon átlépők száma, és egyetlen migránst sem engedtek be az országba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét adatokat közöl az USA határforgalmáról, ami fontos migrációs esemény és határbiztonsági fejlemény. Az állítások nem ellenőrzöttek, mert nincs hivatalos forrás vagy részletes adat a posztban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:14.743485+00:00"
+    },
+    "information:information:19325": {
+      "hu_text": "„Egy történelmi fordulat”\n\nA Belbiztonsági Minisztérium (DHS) jelentése szerint az Egyesült Államok történetében a legalacsonyabb volt az adott pénzügyi évben a határon átlépők száma, és egyetlen migránst sem engedtek be az országba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz az állítás, mint az előző posztban, ezért ugyanolyan jelentőségű és ellenőrzési szükségletű. Fontos határbiztonsági adat, de nincs megerősített forrás a posztban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:14.743503+00:00"
+    },
+    "information:information:19328": {
+      "hu_text": "@StaceySkater Ugyanazt a dokumentumfilmet néztük? Nigel szó szerint megpróbált embereket megmenteni azzal, hogy bocsánatkérést kér tőlük! A kis hajós átkelések száma csökken! Mi akadályozta meg, hogy a migránsokat visszaküldjük az első biztonságos országba? A BREXIT. Ki kampányolt a Brexit mellett? NIGEL.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai véleményt és társadalmi diskurzust tartalmaz a migrációval kapcsolatban, de nem tényállítást. Nem ellenőrzött, mert személyes vélemény és értelmezés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:14.743507+00:00"
+    },
+    "information:information:19333": {
+      "hu_text": "@Susan_Dupres @JimWalshLD19 @ScottMechkowski @VP @WHFraudTF @ScottBradyPA Ó, a Migráns Oktatási Program (MEP) linkje szerint a migránsok halászatban dolgoznak. A Jones-törvény tiltja a külföldi legénységet az amerikai halászhajókon. Az egyetlen kivétel a nagy vándorló halfajokra vadászó hajók, ahol a legénység szövetségi őrizet alatt áll a kikötőben.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt háttérinformációkat közöl a halászati szabályozásról és migránsok foglalkoztatásáról, de nem migrációs esemény vagy szándék. Nem ellenőrzött, mert nincs hivatalos forrás vagy adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:14.743511+00:00"
+    },
+    "information:information:19334": {
+      "hu_text": "@TomThumb1926656 @andrewc44104127 Az Egyesült Királyságban az irreguláris migránsok becsült száma bizonytalan, nincs hivatalos aktuális összesítés; régebbi tanulmányok 700 000-900 000 közé teszik. A népszámlálás a szokásos lakosokat célozza meg és korrigál a nem válaszolók miatt. A kis hajós érkezések évente több tízezres nagyságrendűek, többségük menedéket kér.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt becsléseket és háttéradatokat közöl az Egyesült Királyság migrációs helyzetéről, ami fontos, de nem konkrét esemény vagy intézkedés. Az adatok nem hivatalosak, ezért nem ellenőrzöttek.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:14.743514+00:00"
+    },
+    "information:information:19335": {
+      "hu_text": "#Most\n11 ember eltűnt pénteki hajóroncsolás után Baja California közelében. 16 mexikóit kimentettek, többüknél cápatámadás gyanúja. A keresési műveletek vasárnap is folytatódtak, de új hivatalos bevetés még nem történt. A vizsgálat szerint embercsempészettel lehet összefüggésben.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt egy konkrét migrációs eseményt ír le, amely embercsempészettel is összefügghet, ezért fontos és sürgős ellenőrzést igényel. Az állítások nem megerősítettek, mert nincs hivatalos jelentés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:14.743518+00:00"
     }
   },
   "legacy_reviews": {}
