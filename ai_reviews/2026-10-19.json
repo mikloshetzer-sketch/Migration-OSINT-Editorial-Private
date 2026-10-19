@@ -859,6 +859,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:30:24.840952+00:00"
+    },
+    "record:2112107824549421531": {
+      "hu_text": "FRISS HÍR: Hétfő hajnalban két Égei-tengeri incidensben 12 migráns, köztük egy csecsemő vesztette életét Görögország partjainál — egy gyorsmotoros hajó nekiütközött egy parti őrségi hajónak Leszbosznál, egy másik hajó pedig felborult Számosz közelében. 22 embert kimentettek, közölték a hatóságok. @Reuters #Görögország #FrissHírek",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt súlyos migrációs eseményről számol be, amely halálesetekkel jár, ezért magas prioritású. Az állítások nem ellenőrzöttek, csak egy közösségi média bejegyzésből származnak, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:29.597080+00:00"
+    },
+    "record:2112111612182094246": {
+      "hu_text": "Legalább hét európai országban jelentős tüntetések voltak a tömeges vagy illegális migráció ellen 2025-2026-ban, többek között az Egyesült Királyságban (folyamatos szállodai és kis hajós demonstrációk), Írországban (Dublin, Cork és migránsközpontok melletti gyűlések), Spanyolországban (Madrid, a Ceuta-i migránsinvázió után), Olaszországban (Róma és Milánó).",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt társadalmi diskurzust mutat be migrációs témában, több ország tüntetéseiről szól. Az információk nem ellenőrzöttek, ezért UNVERIFIED. Közepes prioritású, mert a társadalmi reakciók fontosak, de nem azonnali eseményről szólnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:29.597099+00:00"
     }
   },
   "legacy_reviews": {}
