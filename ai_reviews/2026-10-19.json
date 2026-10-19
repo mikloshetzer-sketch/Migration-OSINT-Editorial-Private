@@ -793,6 +793,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:30:17.521144+00:00"
+    },
+    "record:2112099439343214727": {
+      "hu_text": "Altaf Hussain, egy hétgyermekes apa, 25 évvel ezelőtt érkezett Delhibe. Két fia kiutasításra került Bangladesből, de visszatértek. Altaf egy sötét kunyhóban ül Delhiben, Seemapuri negyedben, ahol körülbelül 50 000 bangladesi bevándorló él.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy személyes történetet és migrációs eseményt ír le, de nincs megerősített forrás vagy további részlet, így nem ellenőrzött információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:24.840917+00:00"
+    },
+    "record:2112099135025217667": {
+      "hu_text": "Tragikus Égei-tengeri út: a görög parti őrség 12 migráns halálát jelentette.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálesetek jelentős migrációs eseményt jeleznek, de a forrás nem ellenőrzött, ezért fontos a megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:24.840935+00:00"
+    },
+    "record:2112099120940806542": {
+      "hu_text": "Tragikus Égei-tengeri út: a görög parti őrség 12 migráns halálát jelentette.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő jelentés ugyanarról az eseményről, amely fontos migrációs esemény, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:24.840940+00:00"
+    },
+    "record:2112098971267056117": {
+      "hu_text": "12 migráns halt meg az Égei-tengeri átkelések során – jelentette a görög parti őrség.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálesetek súlyos migrációs eseményt jelentenek, de a forrás nem ellenőrzött, ezért megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:24.840944+00:00"
+    },
+    "record:2112108595353428281": {
+      "hu_text": "A milliárdos tulajdonában lévő propagandakomikus Daily Mail címlapja azt ígéri, hogy feltárja a \"MUNKAERŐ-MIGRÁCIÓ HALOGATÁSÁNAK VALÓDI KÖLTSÉGÉT\". Azt állítja, hogy \"legalább 200 000 ember kapott tartózkodási jogot a szigorítási ígéret óta\", és felsorolja, milyen előnyökkel jár a letelepedés: juttatások, NHS ellátás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és társadalmi diskurzust tartalmazó állítás, amely nem bizonyított tény, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:24.840948+00:00"
+    },
+    "record:2112108433294172264": {
+      "hu_text": "Hat ember, köztük egy csecsemő, meghalt, miután egy migránsokat szállító gyorshajó összeütközött egy görög parti őrség járőrhajójával Leszbosz közelében. Nyolc embert kimentettek és kórházba szállítottak. Egy török állampolgárt, akit a hajó vezetőjeként és embercsempészként gyanúsítanak, letartóztattak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos embercsempészettel és halálesetekkel kapcsolatos esemény, amely fontos migrációs fejlemény, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:30:24.840952+00:00"
     }
   },
   "legacy_reviews": {}
