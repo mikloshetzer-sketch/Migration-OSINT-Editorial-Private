@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:44:12.329872+00:00"
+    },
+    "information:information:18189": {
+      "hu_text": "2026. október 16-án 09:46-kor jelentették, hogy egy újabb csendes éjszaka volt illegális migránsok átkelése nélkül. Az egyetlen francia migránskísérő hajó, a \"Minck\" még mindig ügyfeleket keres. A tenger állapota később viharossá válik, ami további átkeléseket jelezhet.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét eseményekről szólnak, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősülnek. Fontos a migrációs események nyomon követése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:25.539515+00:00"
+    },
+    "information:information:18182": {
+      "hu_text": "2026. október 15-én 09:55-kor közölték, hogy az elmúlt héten a migránsok átkelése nulla volt az időjárás miatt. Nemcsak francia, hanem spanyol hajók is keresik a migránsokat a Csatornában.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások időjárási okokra hivatkoznak és migránsok kereséséről szólnak, de nincs független megerősítés. Fontos a migrációs mozgások megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:25.539533+00:00"
+    },
+    "information:information:18185": {
+      "hu_text": "Nem volt \"10 millió illegális migráns, akik átlépték a határt\". Ez teljesen kitalált, hogy hiszékeny embereket megfélemlítsenek, pedig ezek az emberek több közös vonással rendelkeznek, mint azt gondolnánk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és cáfolat egy túlzó állításra, de nincs konkrét bizonyíték a pontos számokra. Fontos a társadalmi diskurzus megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:25.539537+00:00"
+    },
+    "information:information:18223": {
+      "hu_text": "Az IsraAID (izraeli székhelyű humanitárius szervezet) segített a 2015-ös európai migrációs válság idején Görögországban, Szerbiában és Horvátországban menekülteknek orvosi ellátással, felszereléssel és pszichoszociális támogatással. Nincs bizonyíték arra, hogy ők vagy más Izraelhez kötődő NGO-k segítenék a migránsok átkelését.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás humanitárius tevékenységekről szól, és cáfolja a migrációs segítésre vonatkozó feltételezéseket, de nincs független bizonyíték. Fontos a humanitárius szereplők megítélése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:25.539539+00:00"
+    },
+    "information:information:18186": {
+      "hu_text": "Mindenki, aki gondolkodik, tudja, hogy Christopher Nolan 2017-es Dunkirk című filmje, amely kis hajókról szól a Csatorna átkelésénél, okolható azért, hogy az illegális migránsok ötletet kaptak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, amely egy film hatását firtatja a migrációs mozgásokra, nincs bizonyíték a kapcsolat igazolására. Társadalmi diskurzus kategória.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:25.539541+00:00"
+    },
+    "information:information:18210": {
+      "hu_text": "A nemzetközi mobilitás egyre összetettebbé válik. Az identitáslopás, migránscsempészet, emberkereskedelem és más nemzetközi bűncselekmények az intézmények és információs rendszerek közötti résekben virágoznak. Összekapcsolt információk és képzett tisztviselők elengedhetetlenek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Általános, jól ismert tényeket tartalmaz a nemzetközi mobilitás és bűnözés összetettségéről, amelyeket szakmai források is alátámasztanak. Fontos háttérinformáció.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:25.539543+00:00"
     }
   },
   "legacy_reviews": {}
