@@ -221,6 +221,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:56:20.297485+00:00"
+    },
+    "telegram:1604168769:12214": {
+      "hu_text": "Egy személyt letartóztattak, aki titokban próbált 39 ezer dollárt kivinni Oroszországból. A Novoszibirszki repülőtéren egy Dusanbébe tartó utas kézipoggyászában 39,1 ezer dollár készpénzt találtak. A törvény által előírt 10 ezer dolláros határt meghaladó összeget be nem jelentve próbálta kivinni, ezért csempészet miatt indult ellene büntetőeljárás.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés konkrét eseményt ír le, de nincs független megerősítés vagy hivatalos forrás. A téma a pénzmozgás és határbiztonság, ami migrációs szempontból releváns.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:30.466871+00:00"
+    },
+    "telegram:1829938518:5700": {
+      "hu_text": "Szudánban fokozódnak a harcok az etióp határon, miközben a menekülteket támadják és aranybányászati helyszíneket érnek légicsapások.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A konfliktus és a menekültek elleni támadások migrációs eseményekhez kapcsolódnak, de az állítás nincs függetlenül ellenőrizve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:30.466889+00:00"
+    },
+    "telegram:1980940690:16424": {
+      "hu_text": "Migránsok megtámadtak és kiraboltak két embert Jekatyerinburgban. Október 10-én este a Kolmogorova utcában egy csoport migráns bántalmazott két helyi lakost, elvették a telefonjukat és vezeték nélküli fülhallgatójukat. Az egyik áldozat orrtörést szenvedett. A rendőrség letartóztatta a gyanúsítottakat, akik ellen rablás miatt emeltek vádat, és előzetes letartóztatásban vannak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az incidensről szóló állítás migránsokkal kapcsolatos társadalmi vitát érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:30.466893+00:00"
+    },
+    "telegram:1983050450:24782": {
+      "hu_text": "Migránsok megtámadtak és kiraboltak két embert Jekatyerinburgban. Október 10-én este a Kolmogorova utcában egy csoport migráns bántalmazott két helyi lakost, elvették a telefonjukat és vezeték nélküli fülhallgatójukat. Az egyik áldozat orrtörést szenvedett. A rendőrség letartóztatta a gyanúsítottakat, akik ellen rablás miatt emeltek vádat, és előzetes letartóztatásban vannak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az incidensről szóló állítás migránsokkal kapcsolatos társadalmi vitát érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:30.466895+00:00"
+    },
+    "group:465": {
+      "hu_text": "Tizenkét migráns halt meg két tengeri balesetben Leszbosz és Számosz közelében. Az áldozatok között van egy csecsemő is, és 22 embert mentettek ki az Égei-tengeren.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragikus tengeri balesetek humanitárius események, fontosak a migrációs helyzet szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:30.466898+00:00"
+    },
+    "group:470": {
+      "hu_text": "Leszbosz, Görögország – Egy hajóütközés következtében hat migráns, köztük egy csecsemő meghalt, nyolcan túléltek. Egy gyanús embercsempészt letartóztattak, a nyomozás folyamatban van.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hajóbaleset és embercsempész letartóztatása humanitárius és jogi szempontból is fontos, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:30.466900+00:00"
     }
   },
   "legacy_reviews": {}
