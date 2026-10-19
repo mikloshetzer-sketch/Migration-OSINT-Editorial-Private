@@ -584,6 +584,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:49:17.339975+00:00"
+    },
+    "information:information:18367": {
+      "hu_text": "„A bevándorlók jelenleg NEM dolgozhatnak.” Tényleg? Az Egyesült Királyságban a csatornán hajóval átkelő bevándorlók valószínűleg menedéket kérnek, ekkor menedékkérőkké válnak. Nem dolgozhatnak, amíg menekült vagy humanitárius státuszt nem kapnak, vagy engedéllyel 6 hónap után.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a brit menekültügyi szabályozásról szól, de nincs közvetlen bizonyíték a pontosságára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:27.201523+00:00"
+    },
+    "information:information:18377": {
+      "hu_text": "Az IOM szerint legalább 139 migráns halt meg, miután egy hajó felborult a Dzsibuti és Jemen közötti útvonalon, körülbelül 84 ember pedig eltűnt. A tragédia rámutat az illegális migrációs útvonalakon rejlő veszélyekre.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az IOM-ra hivatkozás hitelességet ad az információnak, de a pontos számok ellenőrzése szükséges, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:27.201542+00:00"
+    },
+    "information:information:18368": {
+      "hu_text": "„Ő ismét manipulál... Amíg az EU-ban voltunk, a határokat nem ellenőrizték szigorúan. Az emberek sokféleképpen átjutottak, az útleveleket nem ellenőrizték az EU-s országok között. Még az 1980-as években is, mielőtt csatlakoztunk volna az EU-hoz, napi rendszerességgel voltak csempészek a csatornahajókon, teherautókon, autókon.”",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi megjegyzés az EU-s határellenőrzésről, de nincs konkrét bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:27.201546+00:00"
+    },
+    "information:information:18369": {
+      "hu_text": "„Szeretném, ha minden illegálisan határunkat átlépő migránst lelőnének.” Ez nem a többség véleménye.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy szélsőséges politikai vélemény, nem tényállítás, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:27.201549+00:00"
+    },
+    "information:information:18379": {
+      "hu_text": "Források szerint voltak előrejelzések a tengeri migránscsempészet növekedésére, de ezek megbízhatatlan, névtelen közösségi média felhasználóktól származnak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ forrása kétes, ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:27.201552+00:00"
+    },
+    "information:information:18380": {
+      "hu_text": "Egy migránscsempész hajó felborult 140 mérföldre Ensenadától, 11 ember még eltűnt. A 16 túlélő mind mexikói állampolgár, akiket az amerikai parti őrség mentett ki, és a san diego-i kórházak kezelik őket.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius esemény, de a túlélők és eltűntek pontos száma ellenőrzést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:27.201554+00:00"
     }
   },
   "legacy_reviews": {}
