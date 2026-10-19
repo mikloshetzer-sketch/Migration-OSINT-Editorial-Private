@@ -353,6 +353,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:56:39.163758+00:00"
+    },
+    "information:information:16968": {
+      "hu_text": "@Andy_T_ Ha valaki bűncselekményt követ el, vonják felelősségre. Egyszerű. De nem kezelhetünk minden migránst bűnözőként csak azért, mert muszlim vagy hajón érkezett. Támogatom, hogy mindenki tartsa be a brit törvényeket, de nem igazságos mindenkit egyesek tettei miatt hibáztatni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és társadalmi diskurzus a migránsok megítéléséről, nem tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:47.046960+00:00"
+    },
+    "information:information:16970": {
+      "hu_text": "Üdvözlöm, palesztin vagyok. Mivel a politikámban ritka az őszinteség, bevallok néhány dolgot. 1947-ben az ENSZ államot ajánlott nekem Izrael mellett, határokkal, függetlenséggel, elismeréssel. Nem fogadtam el. Vezetőim azt ígérték, hogy a háború „a zsidókat a tengerbe löki”. Ehelyett én veszítettem.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi háttérre utal, de személyes vélemény és önvallomás, nincs külső bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:47.046978+00:00"
+    },
+    "information:information:17023": {
+      "hu_text": "Ne keverjük össze a migráns munkásokat azzal a dokumentumok nélküli férfiakkal, akik kis hajókon próbálnak átkelni a csatornán. Az egyik csoportot üdvözlik, a másikat nem. Nem bonyolult megérteni a különbséget.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Társadalmi vélemény a migránsok megkülönböztetéséről, nincs tényellenőrzés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:47.046981+00:00"
+    },
+    "information:information:17025": {
+      "hu_text": "Franciaország további rendfenntartókat küld a legforgalmasabb átkelési napokon a partokra, hogy fellépjen az embercsempészek és migránsok ellen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét intézkedésről szól a határbiztonság területén, fontos információ, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:47.046984+00:00"
+    },
+    "information:information:17026": {
+      "hu_text": "Nick Ferrari rosszul viselkedett. Heves vitába keveredett Nigel Farage-dzsal az LBC-n Robert Jenrick javaslatáról, amely szerint a Királyi Haditengerészet katonáit vetnék be az angol csatornán, ahol szükség esetén halálos erő is alkalmazható lenne a kis hajós migránsok Franciaországba való visszatérésének megakadályozására.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Társadalmi vita egy javaslatról, nincs bizonyított tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:47.046987+00:00"
+    },
+    "information:information:17027": {
+      "hu_text": "@d_foubert Nem vagyok Mohamed és nem vagyok muszlim, de soha többé nem teszem be a lábam Lengyelország területére. 1999-ben, amikor európai menekült útlevéllel rendelkeztem, még rosszabb volt a tapasztalatom: a határőrök kiraboltak, és elmagyarázták, hogy minden határátlépéskor...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes tapasztalat és vélemény, nincs külső bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:47.046990+00:00"
     }
   },
   "legacy_reviews": {}
