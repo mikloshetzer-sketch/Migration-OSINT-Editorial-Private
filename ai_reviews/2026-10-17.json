@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:48:56.009547+00:00"
+    },
+    "information:information:18536": {
+      "hu_text": "Azok a migránsok, akik vízummal érkeznek és dolgoznak, szívesen látottak. Azok, akik illegálisan érkeznek hajóval, nem. Sok brit kivándorló érkezik illegálisan?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások véleményeket és kérdéseket tartalmaznak, de nincs konkrét bizonyíték az illegális brit kivándorlók számára vonatkozóan, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:06.543441+00:00"
+    },
+    "information:information:18496": {
+      "hu_text": "Ők rossz embereket hibáztatnak! Az oligarchák és az Izrael-elsők vették át az Egyesült Királyságot, ugye? A hajós migránsok problémája könnyen megoldható lenne, ha Nagy-Britannia abbahagyná a háborúk szítását és az embercsempészek pénzcsatornáinak támogatását.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és feltételezéseket tartalmaz, amelyek nem bizonyítottak, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:06.543458+00:00"
+    },
+    "information:information:18508": {
+      "hu_text": "Az \"ország nélküli\" megaszerverek lehetnek a legjobb megoldás? Elméletben előnyösek Blizzard számára, mert nem kell szervereket összevonni vagy kezelni a népességcsökkenést. Ez biztosítja a zónák népszerűségét és kiegyensúlyozott PvP-t. Ugyanakkor elveszíti a közösségi identitást, rontja a kontinens élményét, korlátozza a játékosok választását, és időzóna problémákat okoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg videojáték szerverekkel kapcsolatos, nem migrációs témájú, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:06.543463+00:00"
+    },
+    "information:information:18423": {
+      "hu_text": "Eric Zemmour szerint ha Franciaország lezárja a határait, az nem lesz elég az invázió megállításához! Franciaországban túl sok az illegális migráns, talán egymillió! 2027-es elnökválasztás után az új elnöknek ki kell toloncolnia azokat, akik vízum nélkül érkeztek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások számszerű adatokat és politikai javaslatokat tartalmaznak, amelyek ellenőrzése fontos a migrációs diskurzusban, de jelenleg nincs bizonyíték a pontos számokra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:06.543466+00:00"
+    },
+    "information:information:18440": {
+      "hu_text": "Hampshire rendőrségi és bűnügyi biztosa azzal vádolta a belügyminisztert, hogy nem reagált az aggodalmaira a Portsmouth környékén partra szálló kis hajós migránsok ügyében.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés hivatalos személytől származik, de nincs megerősítés a belügyminiszter válaszáról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:06.543469+00:00"
+    },
+    "information:information:18427": {
+      "hu_text": "Európaiaknak: hagyjátok abba a háború támogatását. Követeljétek a végét. Európa most dönt arról, hogy küld-e Ukrajnának még több pénzt vagy lassítja a támogatást. Már több száz milliárd áramlott át a határon, de a háború nem állt meg, hanem nőtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és értékelés a háborúról és támogatásáról, nincs konkrét bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:49:06.543471+00:00"
     }
   },
   "legacy_reviews": {}
