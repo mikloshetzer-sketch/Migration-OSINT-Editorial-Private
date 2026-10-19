@@ -2524,7 +2524,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T07:31:54.088262+00:00",
+  "last_archived_at": "2026-10-19T08:43:05.638852+00:00",
   "event_groups": [
     {
       "id": 470,
@@ -2556,6 +2556,68 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-14T08:31:27Z",
       "updated_at": "2026-10-19T07:30:44Z"
+    },
+    {
+      "id": 465,
+      "group_id": 465,
+      "event_type": "RESCUE_OPERATION",
+      "dominant_event_type": "RESCUE_OPERATION",
+      "title": "RESCUE_OPERATION - EASTERN_MEDITERRANEAN",
+      "representative_text": "Doce migrantes mueren en dos accidentes marítimos frente a Lesbos y Samos. Entre las víctimas hay un bebé y 22 personas fueron rescatadas en el Egeo. # Grecia # Lesbos # Samos # MarEgeo # Migrantes # Migracion # Mediterraneo # Europa # GuardiaCostera # Naufragio # RescateMaritimo # Internacional # Actualidad # felizlunes # 19deoctubre https:// elfolio.es/migrantes-muertos-l esbos-samos-mar-egeo/",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-12T08:54:44Z",
+      "last_seen": "2026-10-19T08:29:05Z",
+      "source_count": 2,
+      "sources_count": 2,
+      "source_types": [
+        "MASTODON",
+        "REDDIT"
+      ],
+      "sources": [
+        "MASTODON",
+        "REDDIT"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-14T07:46:31Z",
+      "updated_at": "2026-10-19T08:40:55Z"
+    },
+    {
+      "id": 474,
+      "group_id": 474,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - Ceuta",
+      "representative_text": "King Felipe VI and Queen Letizia visited the Spanish city of Ceuta in North Africa on Tuesday after about 80,000 migrants crossed Ceuta’s border in July. Most of those who crossed returned, but thousands remain in the city. https://t.co/BhcnoeHTKq",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "first_seen": "2026-10-14T08:53:10Z",
+      "last_seen": "2026-10-19T08:17:37Z",
+      "source_count": 5,
+      "sources_count": 5,
+      "source_types": [
+        "REDDIT",
+        "X"
+      ],
+      "sources": [
+        "REDDIT",
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.75,
+      "average_confidence": 0.75,
+      "created_at": "2026-10-14T09:06:42Z",
+      "updated_at": "2026-10-19T08:43:02Z"
     }
   ]
 }
