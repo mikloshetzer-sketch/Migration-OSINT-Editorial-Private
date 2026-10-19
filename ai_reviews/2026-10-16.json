@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:09:54.601169+00:00"
+    },
+    "telegram:1983050450:24851": {
+      "hu_text": "Egy migráns balesetet okozott Nyizsnyij Novgorodban. Egy közép-ázsiai származású személy bosszút állt azon a sofőrön, aki nem engedte őt be, és tömeges balesetet okozott. A baleset következtében egy motoros kisujjszakadást és számos sérülést szenvedett. A poszt írója megjegyezte a migráns helyesírását is, aki azt írta: „csak élvezni szeretek”.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét balesetről számol be, de nincs megerősített forrás vagy bizonyíték. Tartalma migrációs eseményhez kapcsolódik, de részben véleményes és nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:08.142725+00:00"
+    },
+    "telegram:1604168769:12241": {
+      "hu_text": "Szentpéterváron a Sennoy piacon nagyszabású razziát tartottak. A rendvédelmi szervek körülvették a piac területét és környékét, és ellenőrizték a külföldi állampolgárok okmányait. A razzia során több tucat személyt fogtak el migrációs szabályok megsértése miatt, valamint katonai behívókat adtak át orosz állampolgárságot szerzett férfiaknak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs ellenőrzésről és intézkedésekről számol be, ami fontos a határbiztonság szempontjából. Az állítások nem ellenőrzöttek, de relevánsak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:08.142744+00:00"
+    },
+    "telegram:1604168769:12244": {
+      "hu_text": "Oroszországban 900 ezer üzbég állampolgár dolgozik munkavállalási engedéllyel. Jelenleg ennyi üzbég állampolgár rendelkezik munkavállalási engedéllyel Oroszországban. A jövőben a migránsok költségeinek csökkentése érdekében tervezik, hogy az orvosi vizsgálatokat és ujjlenyomatvételt Üzbegisztánban szervezik meg.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs politikai és jogi kérdéseket érint, különösen a munkavállalási engedélyek számát és a költségcsökkentési terveket. Az információk nem ellenőrzöttek, de fontosak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:08.142748+00:00"
+    },
+    "telegram:1980940690:16443": {
+      "hu_text": "Januárban egy idegen buszsofőr a JANAO régióban a busz monitorjain olyan videót mutatott, amelyen állítása szerint az icskeriek oroszokat öltek. A sofőr kommentálta és dicsérte a látottakat. Az utasok rendőrséghez fordultak, a migránst terroristaként letartóztatták, ellene büntetőeljárás indult, és akár 5 év börtönbüntetés is várhat rá.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állítást tartalmaz egy migráns által elkövetett terrorista cselekményről, de nincs megerősített bizonyíték. Fontos a közösségi diskurzus és biztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:08.142752+00:00"
+    },
+    "telegram:1983050450:24848": {
+      "hu_text": "Egy buszsofőr JANAO régióban a busz utasainak megmutatott egy videót, amelyen állítása szerint az icskeriek oroszokat öltek. A sofőr kommentálta és dicsérte a látottakat. Az utasok rendőrséghez fordultak, a migránst letartóztatták, ellene büntetőeljárás indult, és akár 5 év börtönbüntetés is várhat rá.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy súlyos bűncselekményről szóló állítást tartalmaz, amely migrációs kontextusban fontos, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:08.142755+00:00"
+    },
+    "telegram:1688600455:1159": {
+      "hu_text": "Az Európai Bíróság döntést hozott az ukrán menedékkérelmek elbírálási határidejéről. Az Ukrajnában benyújtott menedékkérelmek és ideiglenes védelem iránti kérelmek ügyében az Európai Bíróság döntése elérhető a RefugeeHelp oldalán. A hírt megoszthatják a közösségi médiában, és lehetőség van konzultációra is jelentkezni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az Európai Bíróság döntése hivatalos és ellenőrizhető jogi információ, amely fontos a menekültügyi eljárások szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:10:08.142759+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
