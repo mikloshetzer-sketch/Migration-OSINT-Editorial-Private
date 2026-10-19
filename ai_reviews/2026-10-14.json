@@ -969,6 +969,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:11:18.451701+00:00"
+    },
+    "information:information:17466": {
+      "hu_text": "Júliusban 80 000 migráns lépett be Spanyolország Ceuta enklávéjába Marokkóból, és több ezren még mindig ott tartózkodnak. Madrid most ígéretet tett arra, hogy \"még erősebbé teszi az afrikai határát.\" Kényelmes időzítés, hiszen Spanyolország választása november 29-én lesz.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, amely politikai és biztonsági következményekkel járhat, de az állítás nincs megerősítve független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:29.222259+00:00"
+    },
+    "information:information:17472": {
+      "hu_text": "Az RNLI mentőcsónak önkénteseinek gyerekeit az iskolában zaklatják, mert a szüleik migránsokat mentenek az angol csatornában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Társadalmi diskurzusra utaló állítás, amely érzelmi töltetű, de nincs megerősítve hivatalos vagy független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:29.222279+00:00"
+    },
+    "information:information:17486": {
+      "hu_text": "Több mint ötvenezer migránst akadályoztak meg az Egyesült Királyságban – ezt állítja a Home Office. A bejegyzés szerint azonban a csónakok továbbra is érkeznek, a szállodák megtelnek, és a pénzek folynak. A csempészek taktikája alkalmazkodik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Határbiztonsági állításokat tartalmaz, amelyek részben politikai kritikaként jelennek meg, de nincs független bizonyíték a pontos számokra vagy folyamatokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:29.222287+00:00"
+    },
+    "information:information:17488": {
+      "hu_text": "Az Egyesült Királyságban, Doverben a Csatorna-átkelési megállapodás összeomlása miatt megnőtt a veszélyes, nagy méretű gumicsónakok használata az embercsempész hálózatok által.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági és embercsempészettel kapcsolatos információ, amely jelentős kockázatot jelez, de nincs megerősítve hivatalos forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:29.222292+00:00"
+    },
+    "information:information:17431": {
+      "hu_text": "700 000 ember érkezett az Egyesült Királyságba anélkül, hogy csónakot használtak volna. Elfogadunk migránsokat, de nem illegális gazdasági migránsokat, akik elkerülik a 700 000 ember által használt útvonalat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Mozgási szándékra utaló állítás, amely politikai véleményt is tartalmaz, de nincs független adat a pontos számokról vagy az útvonalakról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:29.222298+00:00"
+    },
+    "information:information:17440": {
+      "hu_text": "Nigel Farage kérdéseket tesz fel Andy Burnhamnak a migráns csónakos átkelésekről.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vita vagy társadalmi diskurzus része, nem tartalmaz konkrét tényállítást vagy bizonyítható adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:11:29.222304+00:00"
     }
   },
   "legacy_reviews": {}
