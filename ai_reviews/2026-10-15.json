@@ -518,6 +518,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:12:31.792750+00:00"
+    },
+    "information:information:17643": {
+      "hu_text": "Biden nyitott határpolitikája növeli a kitoloncolások költségeit. Ő teremtett katasztrófát. Trump elnök csak a migránsok juttatásainak költségeit, az illegálisok által elkövetett bűncselekményeket és a határok lezárását próbálja kontrollálni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások, amelyek nem támaszthatók alá konkrét bizonyítékokkal a szöveg alapján.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:43.383327+00:00"
+    },
+    "information:information:17651": {
+      "hu_text": "Az ENSZ szerint legalább 109 migráns, köztük 15 gyermek halt meg, miután egy Djiboutiból Jemenbe tartó hajó felborult. Minden szám mögött egy jobb életet kereső család áll. Konfliktusok, szegénység és lezárt határok kényszerítik az embereket a világ legveszélyesebb útvonalaira.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az ENSZ-re hivatkozás hiteles forrás, de a részletek pontosítása szükséges lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:43.383348+00:00"
+    },
+    "information:information:17678": {
+      "hu_text": "Ilhan Omar születési dátuma 1982. október 4., körülbelül 8 éves korában menekült el Szomáliából, négy évet töltött egy kenyai menekülttáborban, majd 1995 márciusában, 12 évesen érkezett az Egyesült Államokba – ezt standard életrajzok, önéletrajza és kongresszusi dokumentumok is megerősítik.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítások hivatalos dokumentumokra hivatkoznak, de további ellenőrzés ajánlott.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:43.383354+00:00"
+    },
+    "information:information:17654": {
+      "hu_text": "„Ó, te, egy afrikai migráns, aki épp most érkezett hajón, olyan brit vagy, mint egy angol?\nRendben, gyűjtsünk össze titeket, és deportáljunk egy szigetre.\nMi van? Nem bírod? Nem tudod Grade A nemzetté tenni?\nHát akkor nem vagy brit.”\n- Egy amerikai őszinte véleménye",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény, amely nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:43.383359+00:00"
+    },
+    "information:information:17634": {
+      "hu_text": "Körülbelül 500 ember éhségsztrájkba kezdett egy georgiai Folkston bevándorlási fogdában, tiltakozva a létesítmény körülményei és az USA hatóságai által állítólagosan megsértett menekültügyi protokollok ellen.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás részletes, de egyetlen forrásból származik, további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:43.383363+00:00"
+    },
+    "information:information:17656": {
+      "hu_text": "„Csökkentettük a kis hajóval érkező átkeléseket.”\n„Nem tettétek! Az EU-ba belépő migránsok 39%-os csökkenése tette ezt.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Két ellentétes állítás, amelyek ellenőrzése szükséges a valós helyzet megítéléséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:43.383367+00:00"
     }
   },
   "legacy_reviews": {}
