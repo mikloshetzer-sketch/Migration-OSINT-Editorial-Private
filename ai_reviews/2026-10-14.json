@@ -89,6 +89,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:55:59.630735+00:00"
+    },
+    "telegram:1261826972:53421": {
+      "hu_text": "◼️ Marokkói hadihajók Ceutában megerősítik Rodríguez Garat admirális hibrid támadás elméletét\n\n➡️ Ez a nyugalmazott admirális azt állítja, hogy Marokkó a migrációt és a haditengerészeti hadműveleteket nyomásgyakorlásként használta Spanyolország ellen; diplomáciai, gazdasági és energetikai választ követel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy nyugalmazott admirális véleményén alapul, nincs független bizonyíték a hibrid támadásra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:10.663659+00:00"
+    },
+    "telegram:1261826972:53424": {
+      "hu_text": "🚩 Meghalt az a migráns, aki bakteriális agyhártyagyulladás miatt volt az intenzív osztályon\n\n➡ A 26 éves fiatal a Ceutai Egyetemi Kórház intenzív osztályára került bakteriális agyhártyagyulladás diagnózisával, majd agyhalált szenvedett.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Egészségügyi eseményről szóló hír, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:10.663677+00:00"
+    },
+    "telegram:1261826972:53436": {
+      "hu_text": "◼️ Videóval ▶ Hány migráns maradt Ceutában? A válasz \"tudományos fantasztikumnak\" tűnik\n\n➡ Közel három hónappal a tömeges belépés után senki sem tudja pontosan, hány migráns lépett be a Tarajal mólónál\n\n➡ Vivas tiltakozik, Torres pedig ismétli a követendő eljárást.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A migrációs eseményről szól, de a pontos számadatok hiánya miatt ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:10.663681+00:00"
+    },
+    "telegram:1604168769:12200": {
+      "hu_text": "Javaslat érkezett a migránsok béremelésére\n\nAz Szverdlovszk megyei szakszervezeti vezető, Andrej Vetluzskih azt javasolta, hogy a külföldi munkavállalók fizetését egyenlítsék ki a helyi lakosságéval. Ez az intézkedés azért szükséges, hogy a munkáltatók ne spóroljanak a migránsokon, és ne tekintsék őket olcsó munkaerőnek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Javaslatról szóló információ, nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:10.663684+00:00"
+    },
+    "telegram:1604168769:12201": {
+      "hu_text": "Moszkva megyében csökkentették a külföldiek számára korlátozott területek számát\n\nMoszkva megyében négy járást eltávolítottak a speciális engedélyt igénylő területek listájáról, így most csak Odincovo és Balasihai járások egyes részei maradtak. A tranzit utasok számára továbbra is engedélyezett a fő közúti és vasúti útvonalakon való közlekedés.\n\n_A speciális szabályozású területek azok a zárt zónák Oroszországban, ahol a külföldiek szabad belépése, tartózkodása vagy munkavégzése tilos, és az engedély nélküli tartózkodás büntetést vagy kitoloncolást vonhat maga után._",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos szabályozás változásáról szól, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:10.663686+00:00"
+    },
+    "telegram:1604168769:12202": {
+      "hu_text": "Megakadtak az afgán munkavállalók Oroszországba vonzásáról szóló tárgyalások\n\nOroszország és Afganisztán közötti tárgyalások a munkaerő-migránsok bevonásáról nem hoztak gyakorlati eredményt, és jelenleg nincs előrelépés. A felek nyelvi akadályokkal, biztonsági kockázatokkal és a migránsok orosz társadalomba való beilleszkedésének nehézségeivel küzdenek.\n\n2025 júniusában Oroszországban körülbelül 100 afgán dolgozott festőként, hegesztőként és villanyszerelőként. Korábban mintegy 1000 munkás bevonásáról tárgyaltak mezőgazdasági és infrastruktúra helyreállítási munkákra.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Tárgyalások állapotáról szóló információ, nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:56:10.663689+00:00"
     }
   },
   "legacy_reviews": {}
