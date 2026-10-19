@@ -386,6 +386,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:12:05.391848+00:00"
+    },
+    "information:information:17806": {
+      "hu_text": "@bphillipsonMP Csempészbandák illegálisan lépnek be az Egyesült Királyság vizeire a biztonságos Franciaországból.\n\nAz egyetlen undorító dolog ebben a vitában a Liebour kormány nyílt határokat pártoló mérgező árulói, akik ösztönzik az irányíthatatlan, munkanélküli, bűnözéssel teli, harmadik világbeli migráns juttatásokból élő enklávék kialakulását az országban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és állításokat tartalmaz migrációs témában, de nincs megerősített bizonyíték az állításokra, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:19.615945+00:00"
+    },
+    "information:information:18275": {
+      "hu_text": "Ez egy szürreális, abszurd történet egy kaotikus kedd napjáról, amelyben gazdag emberek hobbijairól, rendőri intézkedésekről és különféle furcsa eseményekről van szó egy neonfényes, mesterséges intelligencia által vezérelt világban. A szöveg inkább irodalmi vagy szatirikus jellegű, nem tartalmaz migrációs információt.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem kapcsolódik a migrációhoz, hanem egy abszurd, szatirikus történetet mesél el, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:19.615969+00:00"
+    },
+    "information:information:17730": {
+      "hu_text": "Moldova Belügyminisztériuma megbeszélést folytatott Litvánia új nagykövetével, Mindaugas Kačerauskissal a jövőbeni együttműködésről, különös tekintettel a határbiztonságra, a kábítószer-kereskedelem és a bűnözés elleni küzdelemre, a migráció kezelésére és a könnyebben hozzáférhető digitális közszolgáltatásokra.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos együttműködési tárgyalásról számol be migrációs és határbiztonsági témákban, de nincs további bizonyíték a megvalósulásról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:19.615975+00:00"
+    },
+    "information:information:17720": {
+      "hu_text": "@kmacraeplockton A kis hajós átkelések kissé csökkentek, de a migránsok továbbra is tízezres nagyságrendben érkeznek, és ez milliárdokba kerül az adófizetőknek. Nem értem, miért gondolod, hogy ez valami nagy eredmény.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs adatokat és véleményt tartalmaz, de nincs megerősített forrás vagy statisztika, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:19.615981+00:00"
+    },
+    "information:information:17746": {
+      "hu_text": "Ő több embert deportált, mint Trump.\n\nA „menekültek itt szívesen látottak” csoport fizetett tüntetést szervezett az érkezési pontjánál??",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés összehasonlítást és politikai véleményt tartalmaz migrációs politikáról, de nincs bizonyíték a deportációs számokra vagy a tüntetés megtörténtére, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:19.615986+00:00"
+    },
+    "information:information:17750": {
+      "hu_text": "@alunsays @Aidan_Reilly @UK_Needs_Reform Biztosan láttad, hogy a francia csendőrök késsel szurkálják a hajókat, néha emberekkel a fedélzeten, hogy megakadályozzák az indulást. Úgy tűnik, ez egy bevett taktika, ahol az illegális migránsok száma meghaladja a rendőrségét. Minek neveznéd ezt?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állítást tesz a francia hatóságok migrációs intézkedéseiről, amelyet fontos lenne ellenőrizni, mivel határbiztonsági és emberi jogi kérdéseket érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:12:19.615991+00:00"
     }
   },
   "legacy_reviews": {}
