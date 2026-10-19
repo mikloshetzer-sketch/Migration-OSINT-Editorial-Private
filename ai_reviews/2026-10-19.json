@@ -463,6 +463,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:32.197760+00:00"
+    },
+    "record:2111960628520706206": {
+      "hu_text": "„@BarackObama Politikai menekültként érkeztem az Egyesült Államokba. Miután Olaszországban az amerikai tanácsos előtt igazoltam az ügyemet, engedélyt kaptam, hogy legálisan jöhessek az USA-ba. Először ideiglenes zöldkártyát kaptam, egy év után pedig állandó zöldkártyára pályázhattam.”",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt személyes migrációs tapasztalatot ír le, ami releváns migrációs esemény, de nincs megerősítő forrás az állításokhoz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:40.071710+00:00"
+    },
+    "record:2111959397882622141": {
+      "hu_text": "„@PhilipIngMBE @DavidBr33139978 @DailyMail Jó dolog, hogy be lehet sorozni az újonnan érkezett 'migránsokat'.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt egy véleményt vagy ironikus megjegyzést tartalmaz a migránsok katonai sorozásáról, nincs konkrét tényállítás vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:40.071730+00:00"
+    },
+    "record:2112002863128068194": {
+      "hu_text": "„@mirijoie @YehoshuaCohen__ @masadaboy48 Úgy tűnik, hogy a menekültek a múlt században érkeztek, és többségük elhagyta az országot, miután Rhodesia megalakult.”",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi migrációs folyamatot említ, de nincs forrás vagy bizonyíték az állítás alátámasztására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:40.071736+00:00"
+    },
+    "record:2112078579555016856": {
+      "hu_text": "„@stranger9824 @Aliathewhite Ez nem igaz. Az 1,4 milliós szám valójában csökkenést jelent.\n- 605 000 bevándorlót hivatalosan kitoloncoltak\n- 1,9 millióan önként távoztak\n- 17 egymást követő hónapban nem engedtek be migránsokat a határon.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt határbiztonsági adatokat közöl, amelyek fontosak a migrációs helyzet megértéséhez, de nincs hivatalos forrás vagy adat megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:40.071741+00:00"
+    },
+    "record:2112078527398891763": {
+      "hu_text": "„🚨 SZENT SZAR!!!\nEgy angol hazafi letartóztatták az Egyesült Királyságban, mert azt skandálta, hogy 'Gyerünk, Anglia', ami sértheti a migránsokat, iszlamofóbiával vádolták, mert a saját országát buzdította.\nMikor vált a nemzeti büszkeség illegálissá?\nKÖVESS MINKET, A KÖVETKEZŐ POSZT...”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt társadalmi diskurzust tükröz, politikai véleményt tartalmaz, de nincs bizonyíték a letartóztatás vagy az állítások valóságtartalmára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:40.071745+00:00"
+    },
+    "record:1604168769:12265": {
+      "hu_text": "„Moszkvában migrációs razziát tartottak. Az északi kerületben végzett átfogó ellenőrzések során 1406 külföldi állampolgárral szemben szabálysértési jegyzőkönyvet állítottak ki. 338 szabályszegőt kiutasítanak az országból, további 842 személy belépését Oroszországba megtiltották.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét határbiztonsági intézkedéseket ismertet, amelyek fontosak a migrációs helyzet szempontjából, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:40.071749+00:00"
     }
   },
   "legacy_reviews": {}
