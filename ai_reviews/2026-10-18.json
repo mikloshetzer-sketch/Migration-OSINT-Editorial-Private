@@ -661,6 +661,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:55.686205+00:00"
+    },
+    "group:520": {
+      "hu_text": "@LizKershawDJ\n\nMásold be az egész posztomat és ellenőrizd magad.\n👇\n\n„Az állítás: A poszt azt érvel, hogy ha a migránsok saját erejükből érkeznek, akkor illegális bevándorlók, akiket ki kell toloncolni, de ha a RNLI vagy a Határőrség hajója veszi őket fel a tengeren, akkor már nem azok.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy társadalmi diskurzust idéz, amely a migránsok jogi státuszának megítéléséről szól, de nem tartalmaz ellenőrzött tényeket.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:04.001845+00:00"
+    },
+    "group:519": {
+      "hu_text": "59 migránst fogtak el négy hajón, amelyek a Baleári-szigetek különböző pontjaira tartottak Spanyolországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről van szó, amely fontos a határbiztonság és migrációs folyamatok szempontjából, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:04.001865+00:00"
+    },
+    "group:516": {
+      "hu_text": "@Channel8English Ez az útvonal kurd családokat érint halálosan. Egy Törökországból Görögországba tartó hajó éjszaka elsüllyedt Agathonissi közelében, 16 ember meghalt. Egy másik hajó a Marica folyón borult fel ugyanazon a határon, 3 halott és 7 eltűnt. Az IOM eltűnt migránsokat számláló projektje 484 halott migránst tart nyilván.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos humanitárius helyzetről szóló információ, amely migrációs veszteségeket mutat be, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:04.001870+00:00"
+    },
+    "group:517": {
+      "hu_text": "@CNC3TV 220 év telt el azóta, hogy 192 migráns érkezett a Fortitude hajóval 1806-ban. Sok kínai-trinidadi család üzleteket és éttermeket épített, keményen spórolva, költségeket szorosan tartva és a bevételt visszaforgatva. Ez a türelem még mindig az egyik legjobb pénzügyi tanulság.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történeti háttérinformáció migrációs vonatkozással, de nem aktuális migrációs esemény vagy intézkedés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:04.001874+00:00"
+    },
+    "group:518": {
+      "hu_text": "@TPrincato Az összehasonlítás menekültek kiutasításáról szól egy országból, nem pedig a menekültek teljes számáról. (Talán a zavart az okozza, hogy a palesztinoknak különleges menekültdefiníciójuk van, amely szerint menekült az, aki legalább két évig élt Palesztinában és ...)",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Társadalmi diskurzus a menekültek definíciójáról és jogi státuszáról, de nem tartalmaz ellenőrzött tényeket.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:04.001878+00:00"
+    },
+    "group:515": {
+      "hu_text": "@Hdhhddp0a @Backupjoepags1 Először is, a Biden-kormány engedélyezett több mint 20 millió migráns belépését az országba, így Trump jobban teljesít Obamánál. Bezárta a határt, jelentősen csökkentette az országba érkező drogokat, ti beteg liberálisok vagy egy tiszta gonoszság, egy késői abortusz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus a migrációs politikáról, de nem tényállítás vagy ellenőrzött információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:15:04.001882+00:00"
     }
   },
   "legacy_reviews": {
