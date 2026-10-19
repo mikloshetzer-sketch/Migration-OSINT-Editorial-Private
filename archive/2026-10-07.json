@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-07",
+  "event_groups": [
+    {
+      "id": 424,
+      "group_id": 424,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "Хабаровск ўлкасида миграция рейдлари ўтказилди\n\nХабаровск ўлкасида ўтказилган «Нелегал-2026» тадбири давомида объектлар ва транспорт тизимлари текширилиб, миграция қонунчилигини бузган хорижликларга нисбатан жами 20 та маъмурий баённома расмийлаштирилди. Мазкур рейдлар натижасида қоидабузарларга жарималар тайинланиб, икки нафар чет эл фуқаросини Россия ҳудудидан маъмурий тартибда чиқариб юбориш белгиланди.\n\n👉https://migrantlar24.com/j7unqq",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-07T11:16:11Z",
+      "last_seen": "2026-10-19T02:54:34Z",
+      "source_count": 4,
+      "sources_count": 4,
+      "source_types": [
+        "TELEGRAM"
+      ],
+      "sources": [
+        "TELEGRAM"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.45,
+      "average_confidence": 0.45,
+      "created_at": "2026-10-07T18:04:15Z",
+      "updated_at": "2026-10-19T07:09:52Z"
+    }
+  ],
+  "last_archived_at": "2026-10-19T07:12:01.561670+00:00"
+}
