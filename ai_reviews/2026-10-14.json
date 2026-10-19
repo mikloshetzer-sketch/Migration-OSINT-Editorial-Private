@@ -485,6 +485,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:56:55.297730+00:00"
+    },
+    "information:information:17054": {
+      "hu_text": "A NAPTIP 25 Bauchi állambeli személyt mentett ki, akiket Líbiába és Marokkóba csempésztek emberkereskedelem áldozataként. Az eset rámutat az emberkereskedelem folyamatos kockázataira és a biztonságos migráció tudatosságának fontosságára.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét mentési esetről szól, amely fontos a migrációs emberkereskedelem témakörében, de nincs további bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:04.647317+00:00"
+    },
+    "information:information:17089": {
+      "hu_text": "2026-ban az ENSZ Menekültügyi Főbiztossága (UNHCR) és partnerei, együttműködve a Szíriai Kormány Átmeneti Bizottságával, több mint 4400 szíriai menekült önkéntes és tájékozott döntése alapján támogatták hazatérésüket Jordániából a Nassib határátkelőn keresztül.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ egy konkrét, szervezett hazatérést ír le, ami releváns a migrációs szándékok megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:04.647335+00:00"
+    },
+    "information:information:17090": {
+      "hu_text": "139 migráns halt meg, 84 pedig eltűnt, miután egy hajó felborult a Dzsibuti és Jemen közötti útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs tragédia, amely fontos a migrációs események nyomon követésében, de az állítás nincs függetlenül ellenőrizve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:04.647339+00:00"
+    },
+    "information:information:17092": {
+      "hu_text": "2022. június 1-jén egy 31 éves palesztin nőt, Ghufran Haroun Warasneh-t izraeli katonák lelőtték és megölték, amikor az izraeli katonai ellenőrzőpont felé közeledett az Al-Arroub menekülttábor közelében, Hebronban, az izrahellenőrzés alatt álló Ciszjordániában.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eset migrációs és biztonsági eseményként releváns, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:04.647342+00:00"
+    },
+    "information:information:17093": {
+      "hu_text": "„25 000 illegális határátlépési kísérlet volt Fehéroroszországból, több mint egymilliárd eurót költöttünk egy nagy és szép, magas technológiájú kerítés építésére, törvényeket hoztunk, amelyek megnehezítik a hamis menedékkérelmeket, és ezért nem kérünk bocsánatot” – mondja egy illetékes.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és biztonsági intézkedések ismertetése, releváns a határbiztonság témájában, de nincs bizonyíték a pontos adatokra vagy a beszélő személyazonosságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:04.647345+00:00"
+    },
+    "information:information:17101": {
+      "hu_text": "2026. október 14-én sárga riasztási szint van érvényben: az elkövetkező 24 órában illegális migráns hajóátlépések lehetségesek, de jelenleg nincs bizonyíték arra, hogy ilyen átkelések történnének. Figyeljük a helyzetet, és szükség esetén emeljük a riasztási szintet.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ határbiztonsági figyelmeztetés, fontos a migrációs mozgások előrejelzésében, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:04.647347+00:00"
     }
   },
   "legacy_reviews": {}
