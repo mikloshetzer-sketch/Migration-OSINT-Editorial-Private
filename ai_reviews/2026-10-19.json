@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:28:48.117140+00:00"
+    },
+    "information:information:19452": {
+      "hu_text": "Nigel Farage Reform UK pártja felfüggesztette Jason Powell aktivistát, miután egy titkos ITV-riporternek azt mondta, hogy a muszlimok „nem lehetnek britek”, és azt javasolta, hogy az angol csatornán kis hajókon átkelő migránsokat „koncentrációs táborokban” kellene tartani.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A kijelentések migrációs társadalmi diskurzusra hatnak, erősen provokatívak és potenciálisan gyűlöletkeltőek. Az állítások nem ellenőrzöttek, mivel egyetlen hiteles forrás sem igazolta a pontos kontextust vagy a tényleges eseményt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:56.653052+00:00"
+    },
+    "information:information:19378": {
+      "hu_text": "Egy felhasználó szerint egy férfi, aki korábban megakadályozta a migránsok lengyel határon való átkelését, most igazolva látja magát, mert Lengyelország a legbiztonságosabb ország Európában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és társadalmi diskurzus része, amely migrációs szándékot és határbiztonságot érint. Az állítások nem tényellenőrzöttek, és szubjektív értékelést tartalmaznak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:56.653075+00:00"
+    },
+    "information:information:19384": {
+      "hu_text": "Egy felhasználó azt írja, hogy ha a következő libanoni menekülteket a tengeren hagynák, az kegyetlen és embertelen lenne.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy vélemény a migráció humanitárius aspektusáról, nem ténymegállapítás. Nem ellenőrzött, mivel nem tartalmaz konkrét adatot vagy eseményt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:56.653082+00:00"
+    },
+    "information:information:19393": {
+      "hu_text": "Egy rejtett kamerás film szerint az európai adófizetők által finanszírozott tömeges migráció mögött pénzügyi érdekek állnak, és az embercsempész hálózatok hajónként 50-60 ezer eurót szednek be.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások embercsempészettel és migrációs szervezéssel kapcsolatosak, ami magas migrációs jelentőséggel bír. Az információk nem ellenőrzöttek, mivel a film és a pénzügyi adatok hitelessége nem bizonyított.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:56.653086+00:00"
+    },
+    "information:information:19387": {
+      "hu_text": "Egy felhasználó szerint a Sea Watch szervezet az olasz kormány akarata ellenére megsérti az állam szuverenitását, illegális bevándorlókat hozva partra, és megsérti a strasbourgi bíróság döntését, amely szerint a migráció nem emberi jog.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások határbiztonsági és jogi kérdéseket érintenek, jelentős migrációs relevanciával. Az információk nem ellenőrzöttek, mivel a bírósági döntés és a Sea Watch tevékenysége nem független forrásból igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:56.653091+00:00"
+    },
+    "information:information:19409": {
+      "hu_text": "Egy felhasználó azt írja, hogy a már megérkezett migránsokat ki kell toloncolni, mert szerinte adófizetőként nem akarja támogatni őket, és aki nem menekült, hanem csak nyaralni megy a hazájába, azt is ki kell toloncolni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy erősen véleményes társadalmi diskurzus a migránsok támogatásáról és jogairól, nem ténymegállapítás. Nem ellenőrzött, mivel személyes véleményen alapul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:28:56.653095+00:00"
     }
   },
   "legacy_reviews": {}
