@@ -639,6 +639,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:12:56.501687+00:00"
+    },
+    "information:information:17616": {
+      "hu_text": "@RazerWithAKnee @UKLabour Egy migránst filmeztek egy sátorban fegyverrel, aki halálos fenyegetéseket tett Farage ellen? Csónakkal érkezett. A haditengerészetnek fegyverrel kellene védekeznie az ilyen fenyegetések ellen? Az az arcára tetovált fegyveres fickó börtönbe került. A történet teljesen más lenne, ha lövéseket adott volna le.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, nincs bizonyíték a fenyegetések vagy a fegyverhasználat megtörténtére, de a közösségi médiás beszélgetés migrációs témájú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:00.088992+00:00"
+    },
+    "information:information:17603": {
+      "hu_text": "@Jemmy_Wood2 @JuliaHB1 @reformexposed A brit közvélemény hallható tiltakozása Blair óta, amikor megnyitották a határokat. Hülyeségnek hangzik a Brexit hibáztatása. Jogilag 10 millió embert hoztunk be a konzervatívok alatt, meg tudnánk oldani a csónakos migránsokat, ha lenne bátor kormányunk, de nincs.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és vélekedéseket tartalmaz, amelyek nem bizonyított tények, de relevánsak a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:00.089012+00:00"
     }
   },
   "legacy_reviews": {}
