@@ -595,6 +595,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:29:49.343881+00:00"
+    },
+    "group:524": {
+      "hu_text": "@BarackObama Politikai menekültként érkeztem az Egyesült Államokba. Miután Olaszországban az amerikai tanácsos előtt igazoltam az ügyemet, engedélyt kaptam, hogy legálisan jöjjek az USA-ba. Először ideiglenes zöldkártyát kaptam, majd egy év után kérhettem állandó zöldkártyát.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt személyes migrációs tapasztalatot ír le, ami releváns migrációs esemény, de nincs megerősítő forrás az állítások hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:57.127027+00:00"
+    },
+    "group:525": {
+      "hu_text": "@PhilipIngMBE @DavidBr33139978 @DailyMail Jó dolog, hogy be lehet sorozni az újonnan érkezett \"migránsokat.\"",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy társadalmi diskurzus része, nem tényállítás, ezért nem igényel azonnali ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:57.127047+00:00"
+    },
+    "group:526": {
+      "hu_text": "@mirijoie @YehoshuaCohen__ @masadaboy48 Úgy tűnik, hogy menekültként érkeztek a múlt században, és többségük elhagyta az országot, miután Rhodesia megalakult.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció, amely nem ellenőrzött, és nem sürgős migrációs esemény vagy szándék szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:57.127053+00:00"
+    },
+    "group:528": {
+      "hu_text": "@stranger9824 @Aliathewhite Ez nem igaz. Az 1,4 milliós szám valójában csökkenést jelent.\n- 605 000 bevándorlót hivatalosan kitoloncoltak\n- 1,9 millióan önként távoztak\n- 17 egymást követő hónapban nem engedtek be migránsokat a határon.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt határbiztonsági adatokat tartalmaz, amelyek fontosak a migrációs helyzet megértéséhez, de nincs megerősítő forrás az adatok hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:57.127057+00:00"
+    },
+    "group:527": {
+      "hu_text": "🚨 SZENT SZAR!!!\n\nEgy angol hazafi letartóztatták az Egyesült Királyságban, mert azt skandálta, hogy \"Gyerünk, Anglia,\" ami sértheti a migránsokat, iszlamofóbiával vádolták, mert a saját országát buzdította.\nMikor vált a nemzeti büszkeség illegálissá?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy társadalmi diskurzus és vélemény, amely migrációs kontextusban jelenik meg, de nincs bizonyíték a letartóztatás tényszerűségére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:57.127062+00:00"
+    },
+    "group:529": {
+      "hu_text": "@Neccccy Nézd meg a helyi tanácsokat! Hány hajléktalant helyeztek el? Hány újonnan érkezett migránst helyeztek el? Akkor rájössz, hogy Burnham kiket akar elhelyezni: SZAVAZATOK MANIPULÁLÁSA.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus, amely nem tartalmaz ellenőrizhető tényeket, így alacsony prioritású az ellenőrzés szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:29:57.127066+00:00"
     }
   },
   "legacy_reviews": {}
