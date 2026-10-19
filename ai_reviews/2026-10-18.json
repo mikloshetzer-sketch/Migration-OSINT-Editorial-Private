@@ -135,52 +135,70 @@
       "analyzed_at": "2026-10-19T09:13:39.254870+00:00"
     },
     "information:information:19245": {
-      "hu_text": "Úgy tűnik, az európai jobboldal rendkívül megalázottnak érzi magát. Láttam egy posztot az r/europe_sub oldalon, és végignéztem az összes bejegyzést, amelyek tele voltak migráns erőszaktevőkkel, a kis hajók számának növekedésével és azzal az állítással, hogy egy adott helyen a csecsemők fele nem őshonos etnikumú. Úgy gondoltam, lesznek posztok a kitoloncolások vagy az anti-migráns zavargások ünnepléséről, de úgy tűnik, az európai jobboldal nem ért el semmi jelentős eredményt a migránsok visszaküldésében. Bár népszerűségük nő, a választott vezetők nem képesek megvalósítani azt, amiért megválasztották őket. Európa annyira tehetetlen, hogy még akkor sem tud fasiszta vezetőt választani, ha akarna.",
-      "category": "POLITICAL_DISCOURSE",
-      "reason_hu": "A szöveg politikai véleményt és társadalmi helyzetértékelést tartalmaz az európai jobboldal helyzetéről és a migrációs kérdésről.",
-      "verification_needed": false,
+      "hu_text": "Úgy tűnik, az európai jobboldal rendkívül megalázott. Láttam egy posztot az r/europe_sub oldalon, és végignéztem az összes bejegyzést, amelyek tele voltak migráns erőszaktevőkkel, a kis hajók számának növekedésével, valamint azzal az állítással, hogy egy adott helyen a születések fele nem etnikailag őshonos. Úgy gondoltam, lesznek posztok a kitoloncolásokról vagy az anti-migráns zavargásokról, de úgy tűnik, az európai jobboldal nem ért el semmi jelentőset a visszatelepítés terén. Bár népszerűségük nő, a választott vezetők nem képesek megvalósítani a céljaikat. Európa annyira tehetetlen, hogy még ha akarná sem tudna fasiszta vezetőt választani.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai véleményeket és általános megfigyeléseket tartalmaz a migrációval kapcsolatos társadalmi diskurzusban, de nem tartalmaz konkrét, ellenőrizhető tényeket. Fontos a társadalmi hangulat megértése miatt, de nincs közvetlen migrációs esemény vagy intézkedés leírása.",
+      "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:58.668716+00:00"
+      "analyzed_at": "2026-10-19T09:13:49.024125+00:00"
     },
     "information:information:19267": {
-      "hu_text": "ISIS kivégző őr boltja a windsori kastély közelében – visszatért a börtönbe órákkal azután, hogy egy újság megkérdezte. Az iraki Mohammed Yaseen tavaly decemberben kis hajón átkelt a Csatornán, ő volt a 80 elfogott személy egyike.",
-      "category": "EVENT",
-      "reason_hu": "Konkrét eseményről számol be, amely egy ismert személy és migrációs vonatkozású határátlépés kapcsán történt.",
+      "hu_text": "Iraki Mohammed Yaseen tavaly decemberben kis hajóval átkelt a Csatornán, ő volt a 80 elfogott személy egyike.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét migrációs eseményt jelez (kis hajós átkelés a Csatornán), ami fontos a migrációs mozgások nyomon követése szempontjából. Az állítás nem ellenőrzött, ezért további megerősítés szükséges.",
       "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:58.668734+00:00"
+      "analyzed_at": "2026-10-19T09:13:49.024142+00:00"
     },
     "information:information:19211": {
-      "hu_text": "@WhiteHouse A határ és a migránsok kitoloncolása nem segít az alábbiakban: élelmiszer, benzin, dízel, tüzelőolaj, marhahús, villamosenergia árak, megfizethető lakhatás, egészségügy. Trump és a republikánusok nem törődnek a megfizethetőséggel. SZAVAZZ RÁJUK NE!",
-      "category": "POLITICAL_DISCOURSE",
-      "reason_hu": "Politikai vélemény és választási felhívás, amely a migrációs politika és gazdasági kérdések kapcsolatát tárgyalja.",
+      "hu_text": "A határvédelem és a migránsok kitoloncolása nem segít az alapvető problémákon, mint az élelmiszer, üzemanyag, lakhatás és egészségügy. Trump és a republikánusok nem törődnek az elérhetőséggel. SZAVAZZ RÁJUK NE!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai véleményt tartalmaz a migrációval kapcsolatos politikai intézkedések hatékonyságáról, de nem közöl konkrét tényeket vagy eseményeket. Fontos a társadalmi diskurzus megértése miatt, de alacsonyabb prioritású.",
       "verification_needed": false,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:58.668737+00:00"
+      "analyzed_at": "2026-10-19T09:13:49.024147+00:00"
     },
     "information:information:19216": {
-      "hu_text": "'TÖRTÉNELMI FORDULÓPONT' – A Belbiztonsági Minisztérium jelentése szerint az Egyesült Államokban a legkevesebb határátlépés történt az elmúlt pénzügyi évben, és egyetlen migránst sem engedtek be az országba.",
-      "category": "EVENT",
-      "reason_hu": "Konkrét statisztikai adatot közöl az USA határforgalmáról és migrációs intézkedéseiről.",
+      "hu_text": "„Történelmi fordulat” – A DHS jelentése szerint az Egyesült Államokban a legkevesebb határátlépés történt az elmúlt pénzügyi évben, és egyetlen migránst sem engedtek be az országba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét határbiztonsági adatokat közöl, amelyek fontosak a migrációs helyzet értékeléséhez. Az állítás nem ellenőrzött, ezért további megerősítés szükséges.",
       "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:58.668739+00:00"
+      "analyzed_at": "2026-10-19T09:13:49.024152+00:00"
     },
     "information:information:19230": {
-      "hu_text": "@HotDog___777 @sumlenny Oroszország migrációt használ hibrid fegyverként: charter járatok Moszkvába/Minszkbe, majd szállítás az EU határaihoz, segítség a csempészeknek, Fekete-tengeri blokád új hullámok kiváltására. Cél: az EU destabilizálása, radikálisok erősítése és elterelés. Ne hazudj, orosz! #russiaIsATerroristState",
-      "category": "POLITICAL_DISCOURSE",
-      "reason_hu": "Politikai állításokat és véleményt tartalmaz Oroszország migrációs stratégiájáról és geopolitikai céljairól.",
-      "verification_needed": false,
+      "hu_text": "Oroszország migrációt használ hibrid fegyverként: charterjáratok Moszkvába/Minszkbe, szállítás az EU határaihoz, segítség a csempészeknek, Fekete-tengeri blokád, hogy új hullámokat indítson. Cél: az EU destabilizálása, radikálisok erősítése és elterelés.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások egy ország migrációs stratégiájáról, amelyek nem bizonyítottak és részben összeesküvés-elmélet jellegűek. Fontos a társadalmi diskurzus és a geopolitikai narratívák megértése miatt, de nincs konkrét bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:58.668742+00:00"
+      "analyzed_at": "2026-10-19T09:13:49.024155+00:00"
     },
     "information:information:19220": {
-      "hu_text": "@blackpugs @BensmanTodd Todd Bensman 2024-es CIS videója szerint 2023-ban jelentős, több mint 350 ezer illegális migráns érkezett Európa balkáni útvonalán – főként fiatal férfiak Szíriából, Marokkóból, Algériából és hasonló országokból –, akik Franciaország, Németország és más nyugati országok felé tartanak. A csempészek agresszívan áttörik a kerítéseket. Gyenge az menedékjogi rendszer.",
-      "category": "EARLY_WARNING",
-      "reason_hu": "Korai jelzés egy jelentős migrációs hullámról és annak lehetséges következményeiről Európában.",
+      "hu_text": "Todd Bensman 2024-es CIS videója szerint 2023-ban jelentős, több mint 350 ezer illegális migráns érkezett az európai balkáni útvonalon, főként fiatal férfiak Szíriából, Marokkóból, Algériából és hasonló országokból, akik Franciaország, Németország és más nyugati országok felé tartanak. A csempészek agresszívan áttörik a kerítéseket. Gyenge az menedékjogi rendszer.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs mozgásról és annak jellemzőiről szóló információ, amely fontos a migrációs helyzet megértéséhez. Az állítás nem ellenőrzött, ezért további megerősítés szükséges.",
       "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:58.668744+00:00"
+      "analyzed_at": "2026-10-19T09:13:49.024159+00:00"
     }
   },
   "legacy_reviews": {
