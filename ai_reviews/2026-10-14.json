@@ -815,6 +815,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:39.278976+00:00"
+    },
+    "information:information:17333": {
+      "hu_text": "@WiltsAnnabelle A franciaországi migránstáborok tele vannak fegyverekkel, köztük automata puskákkal. Ha egy kis csónak, amely átkel a csatornán, tüzet nyit azokra, akik „őrizetbe vételre és kitoloncolásra” (akik kétségtelenül katonák lesznek) várnak, mi lesz akkor a terved?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás fegyverek jelenlétéről migránstáborokban és esetleges fegyveres összetűzésről szól, de nincs megerősített bizonyíték a fegyverek vagy tűzparancs valódiságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:48.465132+00:00"
+    },
+    "information:information:17338": {
+      "hu_text": "@SkyNews A kormány nem törődik a csatornán átkelő migránsokkal. Azt akarják, hogy átjöjjenek. Végül arra a következtetésre jutottam, hogy ez szervezett és koordinált.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és feltételezés a kormány szándékairól, nincs bizonyíték a szervezettségre vagy koordinációra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:48.465151+00:00"
+    },
+    "information:information:17344": {
+      "hu_text": "@AngelaHaye4 @WenaVoetsek @Itsallnuts2 Tehát a francia parti őrség kísért illegális migránsokat a vizeinkhez, vagy Danny Tommos hajója volt az?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Kérdés formájában megfogalmazott állítás, nincs bizonyíték vagy részletes információ a hajó vagy a parti őrség szerepéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:48.465154+00:00"
+    },
+    "information:information:17362": {
+      "hu_text": "@Hg218246137192 @Notmyfault99 Mi a különbség Steve között – akinek a szülei tíz évvel a születése előtt érkeztek az országba – és Achmad között, akinek a szülei éppen tegnap szültek az ország határain belül? Mindketten migránsok, mindkettőjüknek van „gyarmatosító kapcsolat” az őseiktől.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Feltételezés és vélemény a migránsok közötti különbségekről és gyarmatosító kapcsolatról, nincs tényalapú bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:48.465157+00:00"
+    },
+    "information:information:17390": {
+      "hu_text": "Nem. Biden nem mondta a migránsoknak, hogy özönljenek a határhoz (ez egy félreértett vita során elhangzott mondat volt, amely a határhoz irányuló *erőforrások* növelését szorgalmazta), és 2024 júliusára az átkelések száma (56 400) már alacsonyabb volt, mint 2020 októberében (69 032).",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hivatalos statisztikákra és pontosításra épül, részben ellenőrzött, de további forrásokkal érdemes megerősíteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:48.465161+00:00"
+    },
+    "information:information:17401": {
+      "hu_text": "@LabourfutureUK Van valaki Angliában, aki elhiszi, hogy csökkentették a kis csónakos átkeléseket? Van valaki, aki elhiszi, hogy megállították az éjszakai migráns járatokat a sötét repülőtereken? Ha ez a Nagy-Britannia, akkor az csak halvány árnyéka a 2000-es évekbeli önmagának.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Vélemény és kétely a hatósági intézkedések hatékonyságával kapcsolatban, nincs konkrét bizonyíték az állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:48.465163+00:00"
     }
   },
   "legacy_reviews": {}
