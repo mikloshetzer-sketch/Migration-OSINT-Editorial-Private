@@ -1,7 +1,171 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "date": "2026-10-18",
   "reviews": {
+    "information:information:19251": {
+      "hu_text": "Képzeld el, ha ez Olaszországban történne? Véleményem szerint azért, mert Olaszország, Görögország és más EU-s határországok attól tartanak, hogy engedély nélküli személyek vagy menekültek illegálisan mélyebbre utaznak az EU-ban, ezért ellenőriznek. Ha Flixbuszal utazol, az országhatárok átlépésekor gyakran engedélyellenőrzés történik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt határbiztonsági intézkedésekről szól, de nem tartalmaz megerősített tényeket, csak véleményt és tapasztalatot. Fontos a határátlépések ellenőrzésének megértése miatt, de nincs bizonyíték a pontos helyzetre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:13:29.591903+00:00"
+    },
+    "information:information:19253": {
+      "hu_text": "🇺🇸FRISS: Tom Homan, a határügyi vezető megerősítette, hogy Ilhan Omar elveszítheti állampolgárságát és kiutasíthatják, ha a nyomozók bizonyítják, hogy bevándorlási csalást követett el belépése vagy honosítása során. Október 12-én szövetségi ügynökök razziát tartottak Omar washingtoni otthonában egy vizsgálat részeként.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai és jogi fejleményről van szó, amely befolyásolhatja egy ismert személy migrációs státuszát. Az állításokat hivatalos források nélkül nem lehet megerősíteni, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:13:29.591920+00:00"
+    },
+    "information:information:19254": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét migrációs eseményről szól, illegális határátlépési kísérletekről és határzárról, de nincs megerősített forrás az állításokhoz. Fontos a helyzet megértése miatt, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:13:29.591925+00:00"
+    },
+    "information:information:19256": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő tartalom ugyanarról a migrációs eseményről, amelyben illegális határátlépési kísérletekről számolnak be. Nincs megerősített forrás, de a téma fontos, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:13:29.591935+00:00"
+    },
+    "information:information:19257": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz a migrációs esemény ismétlődő megjelenése, amelyben illegális határátlépési kísérletekről és határzárról van szó. Nincs megerősítés, de a téma jelentős, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:13:29.591939+00:00"
+    },
+    "information:information:19258": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő poszt ugyanarról a migrációs eseményről, amelyben illegális határátlépési kísérletekről számolnak be. Nincs megerősített információ, de a téma fontos, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:13:29.591942+00:00"
+    },
+    "information:information:19259": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "category": "EARLY_WARNING",
+      "reason_hu": "A poszt illegális migránsok határátlépési nehézségeiről számol be, ami korai jelzés lehet a határhelyzet feszültségére.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:50.565143+00:00"
+    },
+    "information:information:19260": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "category": "EARLY_WARNING",
+      "reason_hu": "A poszt illegális migránsok határátlépési nehézségeiről számol be, ami korai jelzés lehet a határhelyzet feszültségére.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:50.565161+00:00"
+    },
+    "information:information:19279": {
+      "hu_text": "A poszt politikai véleményt fejez ki a migrációval kapcsolatban, többek között a határok megnyitásának ellenzéséről, gyermekkereskedelemről és bűnözésről, valamint republikánus pártra való szavazásra buzdít.",
+      "category": "POLITICAL_DISCOURSE",
+      "reason_hu": "A szöveg politikai álláspontot képvisel és választási felhívást tartalmaz migrációs témában.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:50.565165+00:00"
+    },
+    "information:information:19262": {
+      "hu_text": "A poszt szerint a migránsokat Franciaországban megállították és feltárták, akik nagy összeget fizettek embercsempészeknek, hogy Angliába jussanak. Az első hétben nem volt hajó, de a helyzet fokozódott, és Olaszország hamarosan szigorítani fog Líbiánál.",
+      "category": "EARLY_WARNING",
+      "reason_hu": "A bejegyzés migrációs útvonalak és embercsempészet kapcsán ad információkat, ami korai jelzés lehet a helyzet változására.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:50.565167+00:00"
+    },
+    "information:information:19263": {
+      "hu_text": "A poszt migránsok hajóval történő átkelésének teljes betiltását, tömeges kitoloncolásokat, valamint a szociális juttatások megvonását javasolja illegális migránsok számára, és a brit állampolgárok lakhatását helyezi előtérbe.",
+      "category": "POLITICAL_DISCOURSE",
+      "reason_hu": "A szöveg politikai álláspontot képvisel a migrációs politikával kapcsolatban, konkrét intézkedéseket javasolva.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:50.565170+00:00"
+    },
+    "information:information:19248": {
+      "hu_text": "Legalább 18 migráns meghalt, miközben több ezren átlépték a spanyol Ceuta enklávé határát Marokkóból. Ez az egyik legnagyobb migrációs hullám a térségben az utóbbi években, és a humanitárius helyzet tovább romlik.",
+      "category": "EVENT",
+      "reason_hu": "Konkrét eseményről számol be, amelyben migránsok halála és nagy létszámú határátlépés történt Ceutában.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:50.565172+00:00"
+    },
+    "information:information:19245": {
+      "hu_text": "Úgy tűnik, az európai jobboldal rendkívül megalázottnak érzi magát. Láttam egy posztot az r/europe_sub oldalon, és végignéztem az összes bejegyzést, amelyek tele voltak migráns erőszaktevőkkel, a kis hajók számának növekedésével és azzal az állítással, hogy egy adott helyen a csecsemők fele nem őshonos etnikumú. Úgy gondoltam, lesznek posztok a kitoloncolások vagy az anti-migráns zavargások ünnepléséről, de úgy tűnik, az európai jobboldal nem ért el semmi jelentős eredményt a migránsok visszaküldésében. Bár népszerűségük nő, a választott vezetők nem képesek megvalósítani azt, amiért megválasztották őket. Európa annyira tehetetlen, hogy még akkor sem tud fasiszta vezetőt választani, ha akarna.",
+      "category": "POLITICAL_DISCOURSE",
+      "reason_hu": "A szöveg politikai véleményt és társadalmi helyzetértékelést tartalmaz az európai jobboldal helyzetéről és a migrációs kérdésről.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:58.668716+00:00"
+    },
+    "information:information:19267": {
+      "hu_text": "ISIS kivégző őr boltja a windsori kastély közelében – visszatért a börtönbe órákkal azután, hogy egy újság megkérdezte. Az iraki Mohammed Yaseen tavaly decemberben kis hajón átkelt a Csatornán, ő volt a 80 elfogott személy egyike.",
+      "category": "EVENT",
+      "reason_hu": "Konkrét eseményről számol be, amely egy ismert személy és migrációs vonatkozású határátlépés kapcsán történt.",
+      "verification_needed": true,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:58.668734+00:00"
+    },
+    "information:information:19211": {
+      "hu_text": "@WhiteHouse A határ és a migránsok kitoloncolása nem segít az alábbiakban: élelmiszer, benzin, dízel, tüzelőolaj, marhahús, villamosenergia árak, megfizethető lakhatás, egészségügy. Trump és a republikánusok nem törődnek a megfizethetőséggel. SZAVAZZ RÁJUK NE!",
+      "category": "POLITICAL_DISCOURSE",
+      "reason_hu": "Politikai vélemény és választási felhívás, amely a migrációs politika és gazdasági kérdések kapcsolatát tárgyalja.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:58.668737+00:00"
+    },
+    "information:information:19216": {
+      "hu_text": "'TÖRTÉNELMI FORDULÓPONT' – A Belbiztonsági Minisztérium jelentése szerint az Egyesült Államokban a legkevesebb határátlépés történt az elmúlt pénzügyi évben, és egyetlen migránst sem engedtek be az országba.",
+      "category": "EVENT",
+      "reason_hu": "Konkrét statisztikai adatot közöl az USA határforgalmáról és migrációs intézkedéseiről.",
+      "verification_needed": true,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:58.668739+00:00"
+    },
+    "information:information:19230": {
+      "hu_text": "@HotDog___777 @sumlenny Oroszország migrációt használ hibrid fegyverként: charter járatok Moszkvába/Minszkbe, majd szállítás az EU határaihoz, segítség a csempészeknek, Fekete-tengeri blokád új hullámok kiváltására. Cél: az EU destabilizálása, radikálisok erősítése és elterelés. Ne hazudj, orosz! #russiaIsATerroristState",
+      "category": "POLITICAL_DISCOURSE",
+      "reason_hu": "Politikai állításokat és véleményt tartalmaz Oroszország migrációs stratégiájáról és geopolitikai céljairól.",
+      "verification_needed": false,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:58.668742+00:00"
+    },
+    "information:information:19220": {
+      "hu_text": "@blackpugs @BensmanTodd Todd Bensman 2024-es CIS videója szerint 2023-ban jelentős, több mint 350 ezer illegális migráns érkezett Európa balkáni útvonalán – főként fiatal férfiak Szíriából, Marokkóból, Algériából és hasonló országokból –, akik Franciaország, Németország és más nyugati országok felé tartanak. A csempészek agresszívan áttörik a kerítéseket. Gyenge az menedékjogi rendszer.",
+      "category": "EARLY_WARNING",
+      "reason_hu": "Korai jelzés egy jelentős migrációs hullámról és annak lehetséges következményeiről Európában.",
+      "verification_needed": true,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T08:43:58.668744+00:00"
+    }
+  },
+  "legacy_reviews": {
     "information:information:19251": {
       "hu_text": "Képzeld el, ha ez Olaszországban történt volna! Véleményem szerint azért van ez, mert Olaszország, Görögország és más EU-s határországok attól tartanak, hogy engedély nélküli személyek vagy menekültek illegálisan mélyebbre utaznak az EU-ban, ezért ellenőriznek. Ha Flixbuszal utazol, az országhatárok átlépésekor gyakran engedélyellenőrzésre kerül sor.",
       "category": "POLITICAL_DISCOURSE",
