@@ -617,6 +617,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:13.250800+00:00"
+    },
+    "information:information:17154": {
+      "hu_text": "Közvetlen szárazföldi határok Európával: Ceuta és Melilla. Átkelési módszerek: A migránsok néha megpróbálnak magas határkerítéseket megmászni vagy úszva kerülni a hullámtörőket Marokkóból az európai területekre. Az engedély nélküli próbálkozások gyakran összecsapásokhoz vagy jogi eljárásokhoz vezetnek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A leírtak általánosan ismert migrációs jelenségekre utalnak, de nincs konkrét bizonyíték vagy forrás a pontos eseményekre, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:22.306910+00:00"
+    },
+    "information:information:17156": {
+      "hu_text": "Két poszttal korábban a briteket hibáztattad azért, hogy 'engedik' elsüllyedni a migránshajókat a Csatornában. Azok az emberek, akik felszámolták a rabszolga-kereskedelmet, befogadtak több százezer embert és jóléti támogatást adnak nekik. Mégis őket hibáztatod, mert néhány idióta hajó elsüllyedt. Olyan hülye vagy, hogy tépőzáras cipőt hordasz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és személyeskedő kritika, nem tényállítás, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:22.306928+00:00"
+    },
+    "information:information:17158": {
+      "hu_text": "Ha a haditengerészet beavatkozna, a tengeri invázió hetek alatt megállna. Ha ismertek lennének, nem engednék be őket brit vizekre, így nem pazarolnák a pénzüket. \"Ha egyáltalán fizetnek.\" Oroszország és Fehéroroszország migránsokat csempész a határra, remélve, hogy összeomlasztják a gazdaságokat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állításokat tartalmaz migrációs csempészetről és geopolitikai szándékokról, amelyek fontosak, de nincs megerősített bizonyíték, ezért ellenőrizetlen és magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:22.306932+00:00"
+    },
+    "information:information:17179": {
+      "hu_text": "A francia mentőhajó szolgálat megtagadta 120 migráns megmentését egy Portsmouth felé tartó nagy gumicsónakban, hogy \"elkerüljék a fedélzeten lévők életének veszélyeztetését\".",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről szóló állítás, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen és magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:22.306935+00:00"
+    },
+    "information:information:17191": {
+      "hu_text": "KÉRJÜK, NE HAGYJÁK MAGUKAT BECSAPNI! A sajtó rendkívül megtévesztő és összhangban dolgozik a kormányzati narratívával. Teljesen eladja azt az elképzelést, hogy az ír kormány embereket deportál, mert okmány nélkül érkeztek. Az emberek ezt olvasva azt hihetik, hogy ő csak egy a sok közül, akit így kezelnek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítást tartalmaz a sajtó és kormányzati kommunikáció manipulációjáról, de nincs konkrét bizonyíték, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:22.306938+00:00"
+    },
+    "information:information:17192": {
+      "hu_text": "A Serengeti Tanzánia legjobb szafari úti célja, amely Afrika legismertebb nemzeti parkja. A park 14 763 négyzetkilométeren terül el, és a kontinens legnagyobb ragadozó populációját támogatja. A \"siringet\" maasai szó jelentése \"az a hely, ahol a föld végtelenül fut\". A nagy állatvándorlás, az egész éves ragadozó aktivitás és a különleges szálláshelyek miatt érdemes meglátogatni.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy turisztikai ajánló, amely nem kapcsolódik a migrációs témákhoz, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:22.306941+00:00"
     }
   },
   "legacy_reviews": {}
