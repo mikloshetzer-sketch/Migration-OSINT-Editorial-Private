@@ -529,6 +529,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T09:14:37.281452+00:00"
+    },
+    "information:information:18862": {
+      "hu_text": "Kis Rhiannon végre boldog. Megérkezett a kedvenc bútor darabja.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem tartalmaz migrációval kapcsolatos információt vagy állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:45.463957+00:00"
+    },
+    "information:information:18868": {
+      "hu_text": "@RupertLowe10 Korábbi tartalékos katona vagyok, én sem szeretnék harcolni ezért az országért, amely nem képes megvédeni a saját határait. Tömeges kitoloncolásokra van szükség, minden migráns hajót meg kell állítani és lefoglalni, az embercsempészeket pedig letartóztatni és börtönbe zárni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt politikai véleményt és migrációs szándékra vonatkozó követelést tartalmaz, de nem tényállítást, ezért nem ellenőrizhető tényként.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:45.463976+00:00"
+    },
+    "record:2111907417294586343": {
+      "hu_text": "@MyArrse Egy rasszista muszlimot mentettek meg azok, akik a migránsokat mentik, miközben mi, az Egyesült Királyság elvettük a földjüket!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai és társadalmi véleményt tartalmaz, migrációs eseményre vagy tényre vonatkozó konkrét adat nélkül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:45.463981+00:00"
+    },
+    "record:2111902965967528105": {
+      "hu_text": "@The_WatcherUK @Karter1198672 Van Angliában gettószerű hely? Franciaországban minden nagyvárost körülvesznek úgynevezett banlieue-k, ahol az 1970-es években épült hatalmas lakótelepek vannak, amelyeket akkoriban az újonnan érkező migránsok laktak be. A legtöbb bűnöző ezekről a helyekről származik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt társadalmi diskurzust tartalmaz migránsokkal kapcsolatos bűnözési sztereotípiákról, de nem tényellenőrzött adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:45.463985+00:00"
+    },
+    "record:2111853606571855974": {
+      "hu_text": "@LizKershawDJ\n\nMásold be az egész posztomat és ellenőrizd magad.\n👇\n\n„Az állítás: A poszt azt érvel, hogy ha a migránsok saját erejükből érkeznek, illegális bevándorlók, akiket ki kell toloncolni, de ha a RNLI vagy a Határőrség menti ki őket a tengeren, akkor már nem azok.”",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs jogi kérdést vet fel a migránsok státuszával kapcsolatban, ami fontos a jogi és politikai diskurzusban, de nincs megerősített tényadat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:45.463990+00:00"
+    },
+    "record:reddit_1x96pvl": {
+      "hu_text": "59 migránst fogtak el négy hajón a Baleár-szigetek különböző pontjain Spanyolországban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét migrációs eseményről számol be határbiztonsági intézkedésként, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T09:14:45.463994+00:00"
     }
   },
   "legacy_reviews": {
