@@ -133,6 +133,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:09:30.553622+00:00"
+    },
+    "telegram:1604168769:12231": {
+      "hu_text": "Tula régióban lelepleztek egy nagy hamisított alkoholgyárat, ahol migránsok dolgoztak. A titkos üzemet bezárták, és kilenc külföldi állampolgárt őrizetbe vettek. Átvizsgáláskor több mint 58 ezer palack készterméket és 12 ezer liter alkoholt foglaltak le, és bűnvádi eljárás indult az összes gyanúsított ellen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le, de nincs független forrás vagy bizonyíték a hitelesség megerősítésére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:42.057308+00:00"
+    },
+    "telegram:1173707041:9503": {
+      "hu_text": "Az iraki Bagdadban a Migrációs Minisztérium női ügyekkel foglalkozó egysége egészségügyi tájékoztató szemináriumot szervezett az idősek egészségéről, különös tekintettel a D3-vitamin és a kalcium szerepére a csontok és izmok védelmében, valamint a csontritkulás és törések megelőzésében.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy egészségügyi tájékoztató eseményről szól, amely nem migrációs esemény vagy jogi-politikai kérdés, és nincs további ellenőrzési igény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:42.057328+00:00"
+    },
+    "telegram:1261826972:53463": {
+      "hu_text": "Carmen Echarri véleménycikke arról, hogy a tömeges bevándorlás nem mentség az örökségvédelmi hanyagságra. Évek óta elhanyagolják a védett épületeket, például a Sarchal női börtönt, amelyet eredetileg meg akartak őrizni, de most menekültek lakják, miközben az épület folyamatosan romlik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy véleménycikk, amely migrációs társadalmi vitát érint, de nem tartalmaz ellenőrizhető tényállítást, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:42.057334+00:00"
+    },
+    "telegram:1173707041:9508": {
+      "hu_text": "Az iraki Migrációs Minisztérium női ügyekkel foglalkozó egysége környezetvédelmi kampányt szervezett az Al-Muthanna tartományban, amely során több forgalmas utcát takarítottak meg a helyi dolgozók és önkéntesek. A kezdeményezés célja a környezettudatosság növelése és a közösségi tisztaság előmozdítása volt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy helyi környezetvédelmi akcióról szól, amely nem közvetlenül migrációs esemény vagy jogi-politikai kérdés, így nincs szükség ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:42.057337+00:00"
+    },
+    "telegram:1983050450:24805": {
+      "hu_text": "Itt a migránsok megkapják méltó büntetésüket, és végre igazság érvényesül – állítja egy orosz nyelvű Telegram-csatorna, amely a migránsok büntetését népszerűsíti, és az orosz emberek értékeit védi. A csatorna felhívja az olvasókat, hogy csatlakozzanak a harcban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés erősen politikai és gyűlöletkeltő tartalmú, amely migrációs társadalmi vitát érint, de nincs bizonyíték a valós eseményekre, ezért ellenőrizetlennek minősül. Magas prioritású a potenciális gyűlöletkeltés miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:42.057341+00:00"
     }
   },
   "legacy_reviews": {}
