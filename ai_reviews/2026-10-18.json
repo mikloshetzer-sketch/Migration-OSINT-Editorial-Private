@@ -70,51 +70,69 @@
     },
     "information:information:19259": {
       "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
-      "category": "EARLY_WARNING",
-      "reason_hu": "A poszt illegális migránsok határátlépési nehézségeiről számol be, ami korai jelzés lehet a határhelyzet feszültségére.",
-      "verification_needed": false,
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt konkrét migrációs szándékot és határátlépési akadályt jelez, ami fontos a migrációs helyzet megértéséhez, de nincs megerősített forrás az állítások hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:50.565143+00:00"
+      "analyzed_at": "2026-10-19T09:13:39.254834+00:00"
     },
     "information:information:19260": {
       "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
-      "category": "EARLY_WARNING",
-      "reason_hu": "A poszt illegális migránsok határátlépési nehézségeiről számol be, ami korai jelzés lehet a határhelyzet feszültségére.",
-      "verification_needed": false,
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az előző rekordhoz hasonlóan migrációs szándékot és határbiztonsági intézkedést jelez, de nincs független megerősítés az állításokról.",
+      "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:50.565161+00:00"
+      "analyzed_at": "2026-10-19T09:13:39.254850+00:00"
     },
     "information:information:19279": {
-      "hu_text": "A poszt politikai véleményt fejez ki a migrációval kapcsolatban, többek között a határok megnyitásának ellenzéséről, gyermekkereskedelemről és bűnözésről, valamint republikánus pártra való szavazásra buzdít.",
-      "category": "POLITICAL_DISCOURSE",
-      "reason_hu": "A szöveg politikai álláspontot képvisel és választási felhívást tartalmaz migrációs témában.",
+      "hu_text": "@RepCarbajal Azt mondtad, hogy elég volt a nyitott határokból? Migráns gyermekkereskedelem Biden alatt? Magas bűnözés TdA által? Mexikói kartellek és bűnöző bandák? Szavazz a Save Act-re a választások biztonságáért! Elég volt az amerikaellenes demokratákból! Szavazz republikánusra, hogy véget érjen ez!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus migrációs témában, de állításai nem bizonyítottak, inkább politikai retorika.",
       "verification_needed": false,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:50.565165+00:00"
+      "analyzed_at": "2026-10-19T09:13:39.254855+00:00"
     },
     "information:information:19262": {
-      "hu_text": "A poszt szerint a migránsokat Franciaországban megállították és feltárták, akik nagy összeget fizettek embercsempészeknek, hogy Angliába jussanak. Az első hétben nem volt hajó, de a helyzet fokozódott, és Olaszország hamarosan szigorítani fog Líbiánál.",
-      "category": "EARLY_WARNING",
-      "reason_hu": "A bejegyzés migrációs útvonalak és embercsempészet kapcsán ad információkat, ami korai jelzés lehet a helyzet változására.",
-      "verification_needed": false,
+      "hu_text": "@DHKITCH Nem hiszem. Az időzítés gyanús. A hajókat erőszakkal megállították, elfogták és leleplezték. Franciaországban ismeretlen számú migráns nagy összeget fizetett csempészeknek, hogy Angliába jussanak. Az első hét hajók nélkül telt el, és most kezdődik a helyzet. Olaszország hamarosan szigorítani fog Líbiánál.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A poszt embercsempészettel és határbiztonsági intézkedésekkel kapcsolatos információkat tartalmaz, amelyek fontosak a migrációs folyamatok megértéséhez, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:50.565167+00:00"
+      "analyzed_at": "2026-10-19T09:13:39.254859+00:00"
     },
     "information:information:19263": {
-      "hu_text": "A poszt migránsok hajóval történő átkelésének teljes betiltását, tömeges kitoloncolásokat, valamint a szociális juttatások megvonását javasolja illegális migránsok számára, és a brit állampolgárok lakhatását helyezi előtérbe.",
-      "category": "POLITICAL_DISCOURSE",
-      "reason_hu": "A szöveg politikai álláspontot képvisel a migrációs politikával kapcsolatban, konkrét intézkedéseket javasolva.",
+      "hu_text": "@Nigel_Farage Teljesen igaz, tiltsák be az összes migránshajó átkelést. Tömeges kitoloncolások, szociális juttatások megvonása illegális migránsoknak. Elsőbbséget a brit állampolgároknak a lakhatásban, először a hajléktalanokat kell elhelyezni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus migrációs kérdésben, de nem tényállítás, így nem igényel ellenőrzést.",
       "verification_needed": false,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:50.565170+00:00"
+      "analyzed_at": "2026-10-19T09:13:39.254866+00:00"
     },
     "information:information:19248": {
-      "hu_text": "Legalább 18 migráns meghalt, miközben több ezren átlépték a spanyol Ceuta enklávé határát Marokkóból. Ez az egyik legnagyobb migrációs hullám a térségben az utóbbi években, és a humanitárius helyzet tovább romlik.",
-      "category": "EVENT",
-      "reason_hu": "Konkrét eseményről számol be, amelyben migránsok halála és nagy létszámú határátlépés történt Ceutában.",
-      "verification_needed": false,
+      "hu_text": "Legalább 18 migráns meghalt, miközben ezrek léptek be Spanyolország Ceuta enklávéjába. Az elmúlt évek egyik legnagyobb migrációs hullámában több ezer ember lépte át a határt Marokkóból Ceutába, és a humanitárius helyzet tovább romlott.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről és súlyos humanitárius helyzetről szóló információ, amely fontos a migrációs helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
       "model": "gpt-4.1-mini",
-      "analyzed_at": "2026-10-19T08:43:50.565172+00:00"
+      "analyzed_at": "2026-10-19T09:13:39.254870+00:00"
     },
     "information:information:19245": {
       "hu_text": "Úgy tűnik, az európai jobboldal rendkívül megalázottnak érzi magát. Láttam egy posztot az r/europe_sub oldalon, és végignéztem az összes bejegyzést, amelyek tele voltak migráns erőszaktevőkkel, a kis hajók számának növekedésével és azzal az állítással, hogy egy adott helyen a csecsemők fele nem őshonos etnikumú. Úgy gondoltam, lesznek posztok a kitoloncolások vagy az anti-migráns zavargások ünnepléséről, de úgy tűnik, az európai jobboldal nem ért el semmi jelentős eredményt a migránsok visszaküldésében. Bár népszerűségük nő, a választott vezetők nem képesek megvalósítani azt, amiért megválasztották őket. Európa annyira tehetetlen, hogy még akkor sem tud fasiszta vezetőt választani, ha akarna.",
