@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:47:34.862933+00:00"
+    },
+    "information:information:18747": {
+      "hu_text": "Muammar Gaddafi líbiai vezető 2011-es megdöntése és halála súlyos politikai instabilitáshoz és az állami intézmények összeomlásához vezetett Líbiában, amely így jelentős tranzit- és indulási ponttá vált a migránsok számára, akik a Földközi-tengeren keresztül Európába próbálnak eljutni.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A történelmi események összefoglalása, amely ismert, de a konkrét állítás ellenőrzése hiányzik, ezért előzetesen nem ellenőrzöttnek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:34.369582+00:00"
+    },
+    "information:information:18749": {
+      "hu_text": "A norvégiai székhelyű IHR szervezet szerint öt év alatt 233 afgánt végeztek ki Iránban, és milliókat deportáltak. Határ menti lövöldözések is előfordultak. Az elmúlt 50 évben minden módon vendégszeretők voltunk. 🇦🇫 terrorszervezeteket küldenek Pakisztánba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz emberi jogi helyzetről és politikai véleményt, de nincs megerősített forrás vagy bizonyíték, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:34.369600+00:00"
+    },
+    "information:information:18750": {
+      "hu_text": "A norvégiai székhelyű IHR szervezet szerint öt év alatt 233 afgánt végeztek ki Iránban, és milliókat deportáltak. Határ menti lövöldözések is előfordultak. Az elmúlt 50 évben minden módon vendégszeretők voltunk. 🇦🇫 terrorszervezeteket küldenek Pakisztánba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ugyanaz az állítás, mint az előző rekordban, ellenőrizetlen és politikai véleményt is tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:34.369603+00:00"
+    },
+    "information:information:18714": {
+      "hu_text": "A norvégiai székhelyű IHR szervezet szerint öt év alatt 233 afgánt végeztek ki Iránban, és milliókat deportáltak. Határ menti lövöldözések is előfordultak. Az elmúlt 50 évben minden módon vendégszeretők voltunk. Terroristákat küldünk ide.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő, ellenőrizetlen állítások emberi jogi helyzetről és politikai véleményről, bizonyíték nélkül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:34.369606+00:00"
+    },
+    "information:information:18715": {
+      "hu_text": "Ez a kormányzat több gyermeket mentett meg és több bűnözőt tartóztatott le/elítélt, mint az előzőek. Kamala „elvesztett” 400 000 migráns gyermeket, miután Biden leállította a gyors DNS-tesztelést a határon. És te ezt vádolod.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások migrációs intézkedésekről, de nincs megerősített bizonyíték, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:34.369609+00:00"
+    },
+    "information:information:18724": {
+      "hu_text": "83 279 kis hajós érkezés nem egy inváziós hadsereg, és a 73 660 nem tartalmazza a Királyi Haditengerészetet, a Légierőt és a tartalékokat. A migránsok katonákkal való összehasonlítása nem katonai hírszerzés, hanem számolási analfabétizmus hazafiság álcájában. Talán tanulj meg alapvető matematikát, mielőtt Nagy-Britanniát védelmi kérdésekben oktatnád.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi vita migrációs számokról, nincs konkrét tényállítás vagy bizonyíték, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:34.369612+00:00"
     }
   },
   "legacy_reviews": {}
