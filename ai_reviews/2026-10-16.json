@@ -309,6 +309,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:44:25.539543+00:00"
+    },
+    "information:information:18226": {
+      "hu_text": "Szövetségi nyomozók vizsgálják Ilhan Omar minnesotai demokrata képviselő évtizedes bevándorlási dokumentumait, beleértve családja amerikai érkezésével és későbbi állampolgárságával kapcsolatos iratokat, hogy kiderítsék, történt-e hamis állítás a kormány felé. A vizsgálat része egy szélesebb körű bűnügyi nyomozásnak, amely során lefoglalták Omar telefonját és idézéseket küldtek családtagoknak és ismerősöknek. Omar 2000-ben vált amerikai állampolgárrá, 2018-ban választották be a kongresszusba. Ő tagadja a vádakat, és támogatói az ügy időzítését is kritizálják.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai és jogi vonatkozású, jelentős hatással lehet a bevándorlási politikára és közbeszédre, de nincs megerősített bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:38.232339+00:00"
+    },
+    "information:information:18197": {
+      "hu_text": "Az Egyesült Királyság szélsőjobboldala hamis, mesterséges intelligencia által generált tiltakozási anyagokat tett közzé egy férfi letartóztatása után, aki saját maga vette fel, amint egy menekült hajót szúr az angol csatornában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés állítást tesz hamis tartalomról és egy konkrét eseményről, de nincs megerősített bizonyíték a hamisításra vagy az esemény részleteire.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:38.232355+00:00"
+    },
+    "information:information:18112": {
+      "hu_text": "Ez hazugság. A kis hajós átkelések már a Brexit előtt is léteztek. 2016 előtt és alatt is dokumentált esetek voltak, amikor migránsok kis hajókon átkeltek a Csatornán és titokban érkeztek az Egyesült Királyságba.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi állítás a migrációs mozgásokról, amely fontos a kontextus megértéséhez, de önmagában nem bizonyított tény.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:38.232358+00:00"
+    },
+    "information:information:18119": {
+      "hu_text": "A kis hajók valójában 2014/15-ben kezdtek átkelni Kent felé. Tehát az állítás, hogy ez később kezdődött, téves. A modern kis hajós átkelések kora körülbelül 2014–2015-re tehető, amikor a BBC és a Belügyminisztérium először rögzítette a Kent partjainál érkező migránsokat.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi adat a migrációs eseményekről, fontos a pontos idővonal megértéséhez, de nincs megerősített forrás a pontos dátumokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:38.232360+00:00"
+    },
+    "information:information:18115": {
+      "hu_text": "2011 és 2013 között külföldi jogi tanácsadóként dolgozott (nem volt hivatalos ügyvéd) a pekingi Zhong Lun Ügyvédi Irodában, határokon átnyúló ügyeken, köztük Világbank/IFC ügyeken. Ugyanebben az időszakban a Compassion for Migrant Children nevű nonprofit szervezetnél foglalkozott adománygyűjtéssel és kommunikációval, amely kínai migráns gyermekeket segít.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes munkatörténeti információ, amely háttéradatként szolgálhat, de nem migrációs esemény vagy politika.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:38.232362+00:00"
+    },
+    "information:information:18274": {
+      "hu_text": "Egy abszurd, szürreális történet egy kaotikus keddi napról, amelyben gazdagok hobbijaival, rendőri üldözéssel, élő rajzfilm-felvétellel és különös eseményekkel találkozunk egy neonfényes világban. A szöveg inkább művészi, szatirikus narratíva, nem migrációs információ.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval kapcsolatos releváns információt, inkább szatirikus, művészi tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:44:38.232364+00:00"
     }
   },
   "legacy_reviews": {}
