@@ -551,6 +551,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:04.647347+00:00"
+    },
+    "information:information:17105": {
+      "hu_text": "@LeeNdoee Milyen propaganda? Az egyetlen, amit ismerek, egy olyan vezetőtől származik, akit illegális cigarettacsempészek és illegális migránsok használnak. Tudják, hogy a szigorú hozzáférés a második országba bezárja a csempészés kiskapuit. A nyitott határok az ő hasznukra válnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és állításokat tartalmaz, amelyek nem ellenőrzöttek, de relevánsak a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:13.250771+00:00"
+    },
+    "information:information:17126": {
+      "hu_text": "Frissítened kellene a földrajztudásodat. Ha háború van az országodban, átléped a határt a szomszédos biztonságos országba, és menedéket kérsz! Ezek az illegális gazdasági migránsok több biztonságos határt lépnek át, hogy a segélyek földjére jussanak... hozzánk!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és általánosítás, amely nem bizonyított, de a migrációval kapcsolatos társadalmi diskurzus része.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:13.250789+00:00"
+    },
+    "information:information:17128": {
+      "hu_text": "@ukhomeoffice Önök szállítják az illegális migránsokat az Egyesült Királyságba, előre megszervezik a rendőrök, mentők, buszok és nagy rendőri konvojok kíséretét a hajók indulása előtt.\n\nMiért nem a franciák „mentik meg” őket?\n\nMiért pazarolják mindenki idejét ilyen ostobaságokkal?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és állítás, amely nem bizonyított, de releváns a migrációs társadalmi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:13.250792+00:00"
+    },
+    "information:information:17133": {
+      "hu_text": "@planet_Beasts IGEN, az első hajó érkezésekor kellett volna józan észt alkalmazni, egyetlen illegális migráns bűnöző sem érkezett, mindenki számított arra, hogy őrizetbe veszik és azonnal visszaküldik, vagy ha partra száll, őrizetbe veszik és azonnal vár a következő busszal, vonattal, hajóval vagy repülővel történő visszatelepítésre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és állítás, amely nem bizonyított, de a migrációval kapcsolatos társadalmi diskurzus része.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:13.250795+00:00"
+    },
+    "information:information:17152": {
+      "hu_text": "@GovernmentZA Ez a kormány olyan korrupt, amilyen alkalmatlan. Nem beszélnek a határkerítések javításáról vagy menekülttáborok építéséről ezeknek az embereknek. Csak „menedékkérőket” dobunk le minden sikertelen államból a települések lakóira.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és állítás, amely nem bizonyított, de releváns a migrációs társadalmi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:13.250797+00:00"
+    },
+    "information:information:17153": {
+      "hu_text": "SORON KÍVÜL: Egy brit politikus halálos erő alkalmazását javasolja a migránshajók ellen, miközben Farage tisztázza a Reform párt Csatorna-tervét. Robert Jenrick, a Reform UK tagja szerint egy jövőbeli kormány kirendeli a Királyi Tengerészgyalogságot a Csatornába, és szükség esetén halálos erőt alkalmaz a kis hajók átkelésének megállítására.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy politikai nyilatkozat és javaslat, amely jelentős hatással lehet a migrációs politikára, de még nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:13.250800+00:00"
     }
   },
   "legacy_reviews": {}
