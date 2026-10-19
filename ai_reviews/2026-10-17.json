@@ -12,6 +12,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T14:10:25.344522+00:00"
+    },
+    "telegram:1261826972:53564": {
+      "hu_text": "🚩 Egy bevándorlót őrizetbe vettek, miután késsel fenyegetett meg egy katonát Ceutában. Az eset szombaton hajnalban történt a Cañonero Dato sugárúton, a tengeri állomás közelében, a Nemzeti Rendőrség vette át az őrizetbe vett személyt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs további megerősítés vagy hivatalos forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:10.735512+00:00"
+    },
+    "telegram:1980940690:16448": {
+      "hu_text": "❌ \"Nálunk ez nem szokás. A feleségeink csendben ülnek. Hallgass, mondom!\"\n\nEgy migráns taxisofőr Moszkvába érkezett, hogy saját szabályait érvényesítse. Egy utas telefonjának hangos zajára rákiabált a nőre, és azt követelte, hogy hallgasson el, mondván, náluk a nők nem engedhetnek meg ilyesmit maguknak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes véleményen vagy anekdotán alapuló állítás, nincs bizonyíték vagy hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:10.735535+00:00"
+    },
+    "telegram:2446813665:12296": {
+      "hu_text": "🥴 13 migránst, akik jogsértők voltak, kitoloncoltak a Rjazanyi területről. A héten a Rjazanyi Területi Rendőrség ideiglenes fogvatartási központjából 13 személyt deportáltak, akik büntető- vagy közigazgatási felelősségre voltak vonhatók. Kilenc külföldit (5 Közép-Ázsiából, 4 Kelet-Európából) drogokkal, súlyos testi sértéssel, hatósági erőszakkal, lopással és ittas vezetés miatt büntettek, és a büntetésük letöltése után deportálták őket. Négy további közép-ázsiai állampolgárt kényszerrel távolítottak el migrációs szabályok megsértése miatt. Rendőri és bírósági kísérettel a Domogyedovó repülőtérre szállították őket, ahonnan saját költségükön hazautaznak. Az Oroszországba való belépésük 5-10 évre tiltott.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletes, konkrét adatokat tartalmazó állítás, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:10.735541+00:00"
+    },
+    "telegram:2446813665:12290": {
+      "hu_text": "❌ \"Nálunk ez nem szokás. A feleségeink csendben ülnek. Hallgass, mondom!\"\n\nEgy migráns taxisofőr Moszkvába érkezett, hogy saját szabályait érvényesítse. Egy utas telefonjának hangos zajára rákiabált a nőre, és azt követelte, hogy hallgasson el, mondván, náluk a nők nem engedhetnek meg ilyesmit maguknak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes véleményen vagy anekdotán alapuló állítás, nincs bizonyíték vagy hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:10.735546+00:00"
+    },
+    "telegram:1604168769:12252": {
+      "hu_text": "Egy migrációs osztály alkalmazottját letartóztatták, mert megvesztegetésért gyorsított eljárásban intézett külföldieknek tartózkodási engedélyeket Naberezsnyje Cselniben. A nyomozás szerint 2025 májusától 2026 szeptemberéig tartó korrupciós ügyben összesen négy közvetítőt is őrizetbe vettek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét korrupciós esetről szóló állítás, de nincs hivatalos megerősítés vagy további bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:10.735550+00:00"
+    },
+    "telegram:1688600455:1161": {
+      "hu_text": "Különböző módok ugyanannak a helyzetnek a holland nyelvű leírására. Ismerje meg, hogyan lehet ugyanazt a helyzetet különbözőképpen leírni hollandul, és hogyan változtatják meg a rövid szavak a mondat hangnemét. További információk: refugeehelp.nl/i/uk-t-rizni-sposobi-opisu. Ossza meg ezt a hírt a közösségi médiában. Időpontfoglalás: refugeehelp.nl/i/uk-t-appointment-vwn",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy nyelvi oktatási tartalom, nem kapcsolódik a migrációs eseményekhez vagy témákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:13:10.735555+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
