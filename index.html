@@ -53,12 +53,13 @@ button{cursor:pointer;background:#087eaf;border-color:#087eaf;color:white;font-w
 #events .event strong{font-size:13px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 @media(max-width:1100px){.overview-stats{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:750px){.overview-grid{grid-template-columns:1fr}.overview-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.source-line{grid-template-columns:85px 1fr 35px}.source-tabs .tab{padding:8px 10px}}
+.github-sync{margin:12px 0 16px;padding:15px 18px}.sync-head{display:flex;gap:15px;align-items:center;flex-wrap:wrap;margin-bottom:10px}.sync-head strong{color:var(--navy)}#syncState{font-size:12px;color:var(--muted)}.sync-fields{display:flex;align-items:end;flex-wrap:wrap;gap:10px}.sync-fields .field{min-width:260px;flex:1}.sync-fields .field input{width:100%}.github-sync small{display:block;margin-top:10px;line-height:1.5}
 </style>
 </head>
 <body>
 <header><div class="header-inner"><div class="brand-label">TÖRÉSVONALAK.BLOG</div><h1>Migration OSINT <span>/ Szerkesztői központ</span></h1><small>Migrációs információk • forrásalapú ellenőrzés • magyar AI-értékelés • szerkesztői döntések</small></div></header>
 <main class="shell">
-<div class="notice">A napi archívumokat a GitHub Pages automatikusan betölti. A szerkesztői módosítások ezen a böngészőn tárolódnak; másik számítógépre a döntések exportálásával és importálásával vihetők át. A mentés nem módosítja automatikusan a GitHub-repót.</div>
+<div class="notice">A napi archívumokat a GitHub Pages automatikusan betölti. A szerkesztői döntéseket a GitHubhoz kapcsolódva privát, külön ágon tárolhatod, így több gépről elérhetők. Kapcsolódás nélkül a böngészőben mentünk. A GitHub-token csak a megnyitott lap memóriájában marad.</div>
 <div class="toolbar">
 <label class="field">Vizsgált nap (Budapest)<input type="date" id="day"></label>
 <label class="field">Státusz<select id="filter"><option value="ALL">Összes</option><option value="PUBLISH">PUBLISH</option><option value="REVIEW">REVIEW</option><option value="EXCLUDE">EXCLUDE</option><option value="HISTORICAL_NOT_AI_REVIEWED">Korábbi / AI nélkül</option></select></label>
@@ -66,6 +67,11 @@ button{cursor:pointer;background:#087eaf;border-color:#087eaf;color:white;font-w
 <button id="import">Archívum JSON betöltése</button><input class="file" type="file" accept=".json,application/json" id="file" multiple>
 <button class="secondary" id="export">Döntések exportálása</button><button class="secondary" id="importDecisions">Döntések importálása</button><input class="file" type="file" accept=".json,application/json" id="decisionFile"><button class="secondary" id="refresh">Frissítés</button>
 </div>
+<section class="panel github-sync" aria-label="GitHub szinkronizáció">
+ <div class="sync-head"><strong>Privát GitHub-mentés</strong><span id="syncState" role="status" aria-live="polite">Nincs GitHub-kapcsolat. A módosítások csak ebben a böngészőben mentődnek.</span></div>
+ <div class="sync-fields"><label class="field" for="githubToken">Fine-grained GitHub token (Contents: Read and write)<input type="password" id="githubToken" autocomplete="off" spellcheck="false" placeholder="github_pat_…" aria-label="GitHub hozzáférési token"></label><button id="connectGithub" type="button">Kapcsolódás és szinkronizálás</button><button class="secondary" id="syncGithub" type="button" disabled>Szinkronizálás most</button><button class="secondary" id="disconnectGithub" type="button" disabled>Leválasztás</button></div>
+ <small>A token nem kerül HTML-be, localStorage-ba vagy a GitHub-fájlba. A privát döntések a <code>editorial-private-data</code> ágra kerülnek, nem a nyilvános GitHub Pages ágra. A hozzáférést új böngészőben ismét meg kell adni.</small>
+</section>
 <nav class="source-tabs" id="tabs" aria-label="Szerkesztői munkafelületek">
 <button type="button" class="tab active" data-tab="OVERVIEW">Összesítő</button>
 <button type="button" class="tab" data-tab="ALL">Összes bejegyzés</button>
@@ -129,7 +135,7 @@ function normalize(item,kind,label,day){if(!item||typeof item!=='object'||Array.
 function extract(data,day){const map=new Map();for(const [key,label] of CATEGORIES){for(const item of (Array.isArray(data?.[key])?data[key]:[])){const r=normalize(item,key,label,day);if(!r)continue;const old=map.get(r.id);if(old){if(!old.categories.includes(label))old.categories.push(label);if(!old.hungarian&&r.hungarian)old.hungarian=r.hungarian;}else map.set(r.id,r)}}
  if(!map.size){for(const key of ['events','records','items','posts','data']){if(Array.isArray(data?.[key]))for(const item of data[key]){const r=normalize(item,key,'Archív bejegyzés',day);if(r)map.set(r.id,r)}}}
  return [...map.values()].sort((a,b)=>b.date.localeCompare(a.date));}
-function status(r){return overrides[r.id]?.decision||r.status}
+function status(r){return overrides[r.id]?.deleted?r.status:(overrides[r.id]?.decision||r.status)}
 const OLD_AI_CATS={EVENT:'Konkrét migrációs esemény',EARLY_WARNING:'Figyelendő korai jelzés',POLITICAL_DISCOURSE:'Politikai / társadalmi diskurzus',MISINFORMATION_SUSPECTED:'Dezinformációgyanús – ellenőrizendő',IRRELEVANT:'Irreleváns'};
 const AI_CATS={MIGRATION_EVENT:'Konkrét migrációs esemény',MOVEMENT_INTENT:'Migrációs szándék / mozgásjelzés',FACILITATION:'Szervezés / facilitáció',BORDER_SECURITY:'Határbiztonság / intézkedés',POLICY_LEGAL:'Politikai / jogi fejlemény',SOCIAL_DISCOURSE:'Társadalmi diskurzus',HUMANITARIAN:'Humanitárius helyzet',BACKGROUND_HISTORICAL:'Háttérinformáció / történeti',IRRELEVANT:'Irreleváns tartalom'};
 const VERIFY={UNVERIFIED:'Nem ellenőrzött',PARTIALLY_VERIFIED:'Részben megerősített',VERIFIED:'Megerősített',CONTRADICTED:'Ellentmondásos / cáfolt',MANIPULATION_SUSPECTED:'Manipulációgyanús'};
@@ -137,6 +143,98 @@ const SOURCE_KINDS={UNKNOWN:'Ismeretlen / még nem besorolt',GOV:'Kormányzati /
 const PRIORITY={HIGH:'Magas',MEDIUM:'Közepes',LOW:'Alacsony'};
 function options(map,current){return Object.entries(map).map(([k,v])=>`<option value="${esc(k)}" ${k===current?'selected':''}>${esc(v)}</option>`).join('')}
 function applyAI(list,ai){const reviews=ai&&typeof ai.reviews==='object'&&ai.reviews?ai.reviews:{};return list.map(r=>{const a=reviews[r.id];return {...r,ai:a||null,hungarian:r.hungarian||String(a?.hu_text||'')}})}
+
+// A GitHub Pages publikus; ezért a manuális döntéseket nem a Pages forráságán tároljuk.
+const SYNC_REPO='mikloshetzer-sketch/Migration-OSINT-Editorial-Private';
+const SYNC_BRANCH='editorial-private-data';
+const SYNC_FILE='editorial_decisions/manual_overrides.json';
+let githubToken='',syncQueue=Promise.resolve(),syncBusy=false;
+const validDecisions=new Set(['PUBLISH','REVIEW','EXCLUDE','HISTORICAL_NOT_AI_REVIEWED']);
+function safeOverrides(list){
+ const result={};
+ for(const entry of list){
+  if(!entry||typeof entry!=='object'||typeof entry.event_id!=='string'||entry.event_id.length>300)continue;
+  if(entry.deleted===true){result[entry.event_id]={event_id:entry.event_id,deleted:true,updated_at:String(entry.updated_at||'')};continue}
+  if(!validDecisions.has(entry.decision))continue;
+  result[entry.event_id]=entry;
+ }
+ return result;
+}
+function mergeOverrides(a,b){
+ const out={...a};
+ for(const [id,item] of Object.entries(b)){
+  if(!out[id]||String(item.updated_at||'')>String(out[id].updated_at||''))out[id]=item;
+ }
+ return out;
+}
+function updateSyncState(message,error=false){$('syncState').textContent=message;$('syncState').style.color=error?'#b42318':''}
+function bytesToBase64(str){const bytes=new TextEncoder().encode(str);let binary='';for(let i=0;i<bytes.length;i+=8192)binary+=String.fromCharCode(...bytes.subarray(i,i+8192));return btoa(binary)}
+function base64ToText(b64){const binary=atob(b64.replace(/\s/g,''));const bytes=Uint8Array.from(binary,c=>c.charCodeAt(0));return new TextDecoder().decode(bytes)}
+async function githubApi(path,method='GET',body=null){
+ const url='https://api.github.com/repos/'+SYNC_REPO+'/'+path;
+ const headers={'Accept':'application/vnd.github+json','Authorization':'Bearer '+githubToken,'X-GitHub-Api-Version':'2022-11-28'};
+ if(body!==null)headers['Content-Type']='application/json';
+ const response=await fetch(url,{method,headers,body:body===null?undefined:JSON.stringify(body),cache:'no-store'});
+ let data={};try{data=await response.json()}catch{}
+ if(!response.ok){const error=new Error('GitHub API HTTP '+response.status);error.status=response.status;throw error}
+ return data;
+}
+async function ensurePrivateBranch(){
+ try{await githubApi('git/ref/heads/'+SYNC_BRANCH);return}
+ catch(e){if(e.status!==404)throw e}
+ const main=await githubApi('git/ref/heads/main');
+ try{await githubApi('git/refs','POST',{ref:'refs/heads/'+SYNC_BRANCH,sha:main.object.sha})}
+ catch(e){if(e.status!==422)throw e}
+}
+async function remoteRead(){
+ const path='contents/'+SYNC_FILE+'?ref='+encodeURIComponent(SYNC_BRANCH);
+ try{
+  const data=await githubApi(path);
+  const parsed=JSON.parse(base64ToText(data.content));
+  if(parsed.schema!=='migration-osint-manual-editorial-overrides-v2'||!Array.isArray(parsed.overrides))throw new Error('Nem támogatott távoli döntésfájl.');
+  return {sha:data.sha,values:safeOverrides(parsed.overrides)};
+ }catch(e){if(e.status===404)return {sha:null,values:{}};throw e}
+}
+async function performSync(){
+ if(!githubToken)throw new Error('Nincs GitHub-kapcsolat.');
+ syncBusy=true;updateSyncState('GitHub-szinkronizálás folyamatban…');
+ try{
+  for(let attempt=0;attempt<4;attempt++){
+   const remote=await remoteRead();
+   const combined=mergeOverrides(remote.values,overrides);
+   const unchanged=JSON.stringify(Object.keys(remote.values).sort().map(k=>[k,remote.values[k]]))===JSON.stringify(Object.keys(combined).sort().map(k=>[k,combined[k]]));
+   if(!unchanged){
+    const content=JSON.stringify({schema:'migration-osint-manual-editorial-overrides-v2',saved_at:new Date().toISOString(),timezone:TZ,overrides:Object.values(combined)},null,2)+'\n';
+    const payload={message:'Save manual editorial decisions',content:bytesToBase64(content),branch:SYNC_BRANCH};
+    if(remote.sha)payload.sha=remote.sha;
+    try{await githubApi('contents/'+SYNC_FILE,'PUT',payload)}
+    catch(e){if((e.status===409||e.status===422)&&attempt<3)continue;throw e}
+   }
+   overrides=mergeOverrides(overrides,combined);
+   saveOverrides();render();
+   updateSyncState('GitHub-szinkron kész · '+Object.values(overrides).filter(x=>!x.deleted).length+' mentett döntés · '+new Date().toLocaleTimeString('hu-HU'));
+   return;
+  }
+  throw new Error('Túl sok egyidejű módosítás; próbáld újra.');
+ }finally{syncBusy=false}
+}
+function queueSync(){
+ if(!githubToken)return;
+ syncQueue=syncQueue.catch(()=>{}).then(()=>performSync()).catch(e=>{updateSyncState('GitHub-mentés sikertelen: '+e.message+' · a helyi mentés megmaradt',true)});
+}
+$('connectGithub').onclick=async()=>{
+ const token=$('githubToken').value.trim();
+ if(!token){updateSyncState('Add meg a fine-grained GitHub tokent.',true);return}
+ githubToken=token;$('githubToken').value='';
+ try{
+  await githubApi(''); // repository permission check
+  await ensurePrivateBranch();
+  $('syncGithub').disabled=false;$('disconnectGithub').disabled=false;
+  queueSync();
+ }catch(e){githubToken='';$('syncGithub').disabled=true;$('disconnectGithub').disabled=true;updateSyncState('Kapcsolódási hiba: '+e.message,true)}
+};
+$('syncGithub').onclick=()=>queueSync();
+$('disconnectGithub').onclick=()=>{githubToken='';$('syncGithub').disabled=true;$('disconnectGithub').disabled=true;updateSyncState('Leválasztva. A helyi döntések megmaradtak.')};
 
 function saveOverrides(){try{localStorage.setItem('migration-editorial-decisions-v2',JSON.stringify(overrides));return true}catch(e){alert('Nem sikerült menteni a böngészőbe: '+e.message);return false}}
 function matchesSearch(r){const q=$('search').value.toLocaleLowerCase('hu').trim();return !q||[r.title,r.original,r.hungarian,r.source,r.id,r.categories.join(' '),r.ai?.content_category||r.ai?.category||'',r.ai?.verification_status||'',r.ai?.priority||'',r.ai?.reason_hu||''].some(x=>String(x).toLocaleLowerCase('hu').includes(q))}
@@ -156,7 +254,7 @@ function renderOverview(){
  const pcount=k=>records.filter(r=>r.ai?.schema_version===2&&r.ai.priority===k).length;
  $('priorityOverview').innerHTML=priorities.map(k=>`<div class="source-line"><span class="source-name">${esc(PRIORITY[k])}</span><div class="source-track"><div class="source-fill" style="width:${pcount(k)/Math.max(1,analyzed)*100}%"></div></div><span class="source-number">${pcount(k)}</span></div>`).join('')+`<p class="muted micro">AI-prioritás kizárólag az értékelt rekordoknál. AI nélküli bejegyzés nem kap automatikusan alacsony prioritást.</p>`;
  const queue=records.filter(r=>status(r)==='REVIEW').sort((a,b)=>Number(b.ai?.priority==='HIGH')-Number(a.ai?.priority==='HIGH')||b.date.localeCompare(a.date)).slice(0,12);
- $('reviewQueue').innerHTML=queue.length?queue.map(r=>`<div class="queue-item" data-id="${esc(r.id)}"><span class="pill REVIEW">REVIEW</span> <span class="telegram-tag">${esc(r.platform)}</span><strong>${esc(overrides[r.id]?.title??r.title)}</strong><div class="queue-meta">${esc(r.source)} · ${esc(r.date||r.day)} · ${r.ai?.priority==='HIGH'?'Magas AI-prioritás':r.ai?'AI-értékelt':'AI-értékelés nélkül'}</div></div>`).join(''):'<p class="muted">Nincs felülvizsgálandó bejegyzés a kiválasztott napra.</p>';
+ $('reviewQueue').innerHTML=queue.length?queue.map(r=>`<div class="queue-item" data-id="${esc(r.id)}"><span class="pill REVIEW">REVIEW</span> <span class="telegram-tag">${esc(r.platform)}</span><strong>${esc((!overrides[r.id]?.deleted?overrides[r.id]?.title:undefined)??r.title)}</strong><div class="queue-meta">${esc(r.source)} · ${esc(r.date||r.day)} · ${r.ai?.priority==='HIGH'?'Magas AI-prioritás':r.ai?'AI-értékelt':'AI-értékelés nélkül'}</div></div>`).join(''):'<p class="muted">Nincs felülvizsgálandó bejegyzés a kiválasztott napra.</p>';
  $('reviewQueue').querySelectorAll('[data-id]').forEach(el=>el.addEventListener('click',()=>{const r=records.find(x=>x.id===el.dataset.id);setTab(r?.platform||'ALL');selected=el.dataset.id;render()}));
  const telegram=records.filter(r=>r.platform==='TELEGRAM');const raw=records.filter(r=>r.id.startsWith('telegram:'));
  $('telegramState').innerHTML=raw.length?`<strong>Telegram-adatátadás:</strong> ${raw.length} külön archivált Telegram-bejegyzés. Ebből ${raw.filter(r=>r.ai?.schema_version===2).length} rendelkezik AI v2 értékeléssel. A Telegram fülön megvizsgálhatók.`:archiveHasTelegram?'<strong>Telegram-adatátadás:</strong> a napi archívum tartalmaz telegram_posts mezőt, de nincs megjeleníthető bejegyzés. Ellenőrizd az archívum rekordjait.':'<strong>Telegram-adatátadás még nem igazolt:</strong> a kiválasztott napi archívumban nincs külön <code>telegram_posts</code> szekció. A Telegram fül ettől még mutathat más rétegben szereplő Telegram-forrásokat, de a gyűjtőből kimaradó operatív szűrésű bejegyzéseket csak a külön Telegram-archiváló folyamat tudja átadni.';
@@ -166,16 +264,16 @@ function render(){renderOverview();if(activeTab==='OVERVIEW')return;
  const counts={ALL:scoped.length,PUBLISH:0,REVIEW:0,EXCLUDE:0,HISTORICAL_NOT_AI_REVIEWED:0};scoped.forEach(r=>{counts[status(r)]=(counts[status(r)]||0)+1});
  $('stats').innerHTML=[['Összes','ALL'],['Közzétehető','PUBLISH'],['Felülvizsgálandó','REVIEW'],['Kizárt','EXCLUDE'],['Korábbi / AI nélkül','HISTORICAL_NOT_AI_REVIEWED']].map(([label,key])=>`<div class="stat"><small>${label}</small><b>${counts[key]}</b></div>`).join('');
  const list=filtered();$('count').textContent=`(${list.length})`;
- const box=$('events');box.className='';box.innerHTML=list.length?list.map(r=>`<div class="event ${selected===r.id?'active':''}" data-id="${esc(r.id)}"><span class="pill ${esc(status(r))}">${esc(status(r))}</span><span class="telegram-tag">${esc(r.platform)}</span><strong>${esc(overrides[r.id]?.title??r.title)}</strong>${r.ai?`<div class="meta">AI-javaslat: ${esc(AI_CATS[r.ai.content_category]||OLD_AI_CATS[r.ai.category]||r.ai.content_category||r.ai.category||'—')}</div>`:''}<div class="meta">${esc(r.source)} · ${esc(r.date||r.day)}</div></div>`).join(''):'<div class="empty">Ehhez a forráshoz és naphoz nincs megjeleníthető rekord. Ez nem bizonyítja, hogy a gyűjtő nem talált bejegyzéseket.</div>';
+ const box=$('events');box.className='';box.innerHTML=list.length?list.map(r=>`<div class="event ${selected===r.id?'active':''}" data-id="${esc(r.id)}"><span class="pill ${esc(status(r))}">${esc(status(r))}</span><span class="telegram-tag">${esc(r.platform)}</span><strong>${esc((!overrides[r.id]?.deleted?overrides[r.id]?.title:undefined)??r.title)}</strong>${r.ai?`<div class="meta">AI-javaslat: ${esc(AI_CATS[r.ai.content_category]||OLD_AI_CATS[r.ai.category]||r.ai.content_category||r.ai.category||'—')}</div>`:''}<div class="meta">${esc(r.source)} · ${esc(r.date||r.day)}</div></div>`).join(''):'<div class="empty">Ehhez a forráshoz és naphoz nincs megjeleníthető rekord. Ez nem bizonyítja, hogy a gyűjtő nem talált bejegyzéseket.</div>';
  box.querySelectorAll('.event').forEach(el=>el.addEventListener('click',()=>{selected=el.dataset.id;render()}));renderDetail()}
-function renderDetail(){const r=records.find(r=>r.id===selected);if(!r){$('detail').innerHTML='<div class="empty">Válassz eseményt a bal oldali listából.</div>';return}const o=overrides[r.id]||{};
+function renderDetail(){const r=records.find(r=>r.id===selected);if(!r){$('detail').innerHTML='<div class="empty">Válassz eseményt a bal oldali listából.</div>';return}const o=overrides[r.id]&&!overrides[r.id].deleted?overrides[r.id]:{};
  const v2=r.ai?.schema_version===2;
  const category=o.content_category||r.ai?.content_category||'IRRELEVANT';
  const verification=o.verification_status||r.ai?.verification_status||'UNVERIFIED';
  const priority=o.priority||r.ai?.priority||'LOW';
  const aiInfo=r.ai?(v2?`AI v2 · Tartalom: <strong>${esc(AI_CATS[r.ai.content_category]||'—')}</strong> · Ellenőrzöttség: <strong>${esc(VERIFY[r.ai.verification_status]||'—')}</strong> · Prioritás: <strong>${esc(PRIORITY[r.ai.priority]||'—')}</strong>. Indoklás: ${esc(r.ai.reason_hu||'Nincs indoklás')}`:`Korábbi AI v1 besorolás: <strong>${esc(OLD_AI_CATS[r.ai.category]||r.ai.category||'—')}</strong>. Az új háromdimenziós AI-értékelés még nem készült el.`):'Ehhez a rekordhoz még nincs AI-előértékelés. A REVIEW státusz nem AI-döntés.';
- $('detail').innerHTML=`<div class="detail"><div><span class="pill ${esc(status(r))}">${esc(status(r))}</span><div class="meta">${esc(r.categories.join(' · '))} | Azonosító: ${esc(r.id)} | Archív nap: ${esc(r.day)}</div></div><label>Cím<input id="editTitle" value="${esc(o.title??r.title)}"></label><label>Eredeti szöveg<textarea readonly>${esc(r.original||'Nincs eredeti szöveg')}</textarea></label><div class="notice">${aiInfo}</div><label>Magyar fordítás / összefoglaló (AI-javaslat, szerkeszthető)<textarea id="editHU">${esc(o.hungarian??r.hungarian)}</textarea></label><label>Tartalmi kategória (AI-javaslat, szerkeszthető)<select id="editCategory">${options(AI_CATS,category)}</select></label><label>Ellenőrzöttség (AI-javaslat, szerkeszthető)<select id="editVerification">${options(VERIFY,verification)}</select></label><label>Elemzői prioritás (AI-javaslat, szerkeszthető)<select id="editPriority">${options(PRIORITY,priority)}</select></label><div class="notice">${!v2?'Az új kategóriák itt kézzel megadhatók, de a fenti alapértékek nem AI-megállapítások.':''}</div><label>Forrás<input readonly value="${esc(r.source)}"></label><label>Forrás jellege (manuális szerkesztői besorolás)<select id="editSourceKind">${options(SOURCE_KINDS,o.source_kind||'UNKNOWN')}</select></label><div class="notice">A forrás jellege nem azonos a hitelességgel. A besorolás kizárólag a szerkesztői döntés része; nem módosítja a Source Intelligence rendszert.</div><div>${/^https:\/\//i.test(r.url)?`<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Forrás megnyitása ↗</a>`:''}</div><label>Szerkesztői döntés<select id="editDecision"><option value="PUBLISH">PUBLISH – közzétehető</option><option value="REVIEW">REVIEW – további vizsgálat</option><option value="EXCLUDE">EXCLUDE – kizárva</option><option value="HISTORICAL_NOT_AI_REVIEWED">Korábbi, AI nélkül</option></select></label><label>Szerkesztői megjegyzés<textarea id="editNote">${esc(o.note||'')}</textarea></label><div class="row"><button id="save">Döntés mentése a böngészőbe</button><button class="secondary" id="reset">Felülírás törlése</button></div><small>A mentés csak ezen a böngészőn marad meg. A döntések átviteléhez használd az export/import funkciót.</small></div>`;
- $('editDecision').value=status(r);$('save').onclick=()=>{overrides[r.id]={event_id:r.id,decision:$('editDecision').value,title:$('editTitle').value,hungarian:$('editHU').value,content_category:$('editCategory').value,verification_status:$('editVerification').value,priority:$('editPriority').value,source_kind:$('editSourceKind').value,note:$('editNote').value,updated_at:new Date().toISOString(),reviewed_day:r.day};saveOverrides();render()};$('reset').onclick=()=>{delete overrides[r.id];saveOverrides();render()}}
+ $('detail').innerHTML=`<div class="detail"><div><span class="pill ${esc(status(r))}">${esc(status(r))}</span><div class="meta">${esc(r.categories.join(' · '))} | Azonosító: ${esc(r.id)} | Archív nap: ${esc(r.day)}</div></div><label>Cím<input id="editTitle" value="${esc(o.title??r.title)}"></label><label>Eredeti szöveg<textarea readonly>${esc(r.original||'Nincs eredeti szöveg')}</textarea></label><div class="notice">${aiInfo}</div><label>Magyar fordítás / összefoglaló (AI-javaslat, szerkeszthető)<textarea id="editHU">${esc(o.hungarian??r.hungarian)}</textarea></label><label>Tartalmi kategória (AI-javaslat, szerkeszthető)<select id="editCategory">${options(AI_CATS,category)}</select></label><label>Ellenőrzöttség (AI-javaslat, szerkeszthető)<select id="editVerification">${options(VERIFY,verification)}</select></label><label>Elemzői prioritás (AI-javaslat, szerkeszthető)<select id="editPriority">${options(PRIORITY,priority)}</select></label><div class="notice">${!v2?'Az új kategóriák itt kézzel megadhatók, de a fenti alapértékek nem AI-megállapítások.':''}</div><label>Forrás<input readonly value="${esc(r.source)}"></label><label>Forrás jellege (manuális szerkesztői besorolás)<select id="editSourceKind">${options(SOURCE_KINDS,o.source_kind||'UNKNOWN')}</select></label><div class="notice">A forrás jellege nem azonos a hitelességgel. A besorolás kizárólag a szerkesztői döntés része; nem módosítja a Source Intelligence rendszert.</div><div>${/^https:\/\//i.test(r.url)?`<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Forrás megnyitása ↗</a>`:''}</div><label>Szerkesztői döntés<select id="editDecision"><option value="PUBLISH">PUBLISH – közzétehető</option><option value="REVIEW">REVIEW – további vizsgálat</option><option value="EXCLUDE">EXCLUDE – kizárva</option><option value="HISTORICAL_NOT_AI_REVIEWED">Korábbi, AI nélkül</option></select></label><label>Szerkesztői megjegyzés<textarea id="editNote">${esc(o.note||'')}</textarea></label><div class="row"><button id="save">Döntés mentése (helyben + GitHubra)</button><button class="secondary" id="reset">Felülírás törlése</button></div><small>GitHub-kapcsolat esetén a mentés automatikusan szinkronizálódik. Kapcsolat nélkül helyben marad; az export továbbra is biztonsági mentés.</small></div>`;
+ $('editDecision').value=status(r);$('save').onclick=()=>{overrides[r.id]={event_id:r.id,decision:$('editDecision').value,title:$('editTitle').value,hungarian:$('editHU').value,content_category:$('editCategory').value,verification_status:$('editVerification').value,priority:$('editPriority').value,source_kind:$('editSourceKind').value,note:$('editNote').value,updated_at:new Date().toISOString(),reviewed_day:r.day};saveOverrides();render();queueSync()};$('reset').onclick=()=>{overrides[r.id]={event_id:r.id,deleted:true,updated_at:new Date().toISOString()};saveOverrides();render();queueSync()}}
 function showState(msg){$('loadState').textContent=msg}
 async function fetchDay(day,force=false){if(!force&&cache.has(day)){archiveHasTelegram=cache.get(day)?.hasTelegram||false;return cache.get(day)?.records??null;}const url=`archive/${day}.json`;const response=await fetch(url,{cache:'no-store'});if(response.status===404){cache.set(day,{records:null,hasTelegram:false});archiveHasTelegram=false;return null}if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=await response.json();const parsed=extract(data,day);archiveHasTelegram=Array.isArray(data.telegram_posts);let ai=null;try{const a=await fetch(`ai_reviews/${day}.json`,{cache:'no-store'});if(a.ok)ai=await a.json();else if(a.status!==404)console.warn('AI review fetch HTTP',a.status)}catch(err){console.warn('AI review unavailable:',err)}const merged=applyAI(parsed,ai);cache.set(day,{records:merged,hasTelegram:archiveHasTelegram});return merged}
 async function loadDay(force=false){const n=++requestNo,day=$('day').value;selected=null;records=[];render();showState(`${day}: archívum betöltése…`);try{const parsed=await fetchDay(day,force);if(n!==requestNo)return;records=parsed||[];showState(parsed?`${day}: ${records.length} vizsgálható rekord, ebből ${records.filter(r=>r.categories.includes('Information Signal')).length} Information Signal és ${records.filter(r=>r.id.startsWith('telegram:')).length} külön Telegram-bejegyzés. Források: X ${records.filter(r=>r.platform==='X').length}, Reddit ${records.filter(r=>r.platform==='REDDIT').length}, Mastodon ${records.filter(r=>r.platform==='MASTODON').length}, Telegram ${records.filter(r=>r.platform==='TELEGRAM').length}. AI v2: ${records.filter(r=>r.ai?.schema_version===2).length}; korábbi AI: ${records.filter(r=>r.ai&&! (r.ai.schema_version===2)).length}.`:`${day}: ehhez a naphoz még nincs archívum (404). Válassz másik napot.`);render()}catch(e){if(n!==requestNo)return;showState(`Betöltési hiba: ${e.message}. Ellenőrizd a GitHub Pages archívumfájlját.`);render()}}
@@ -183,7 +281,7 @@ $('day').addEventListener('change',()=>loadDay());$('refresh').onclick=()=>loadD
 ['filter','search'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render));
 $('import').onclick=()=>$('file').click();$('file').onchange=async e=>{let count=0;for(const file of e.target.files){try{const data=JSON.parse(await file.text());const day= /^\d{4}-\d{2}-\d{2}$/.test(data.date)?data.date:(file.name.match(/\d{4}-\d{2}-\d{2}/)||[])[0]||$('day').value;const found=applyAI(extract(data,day),null);if(!found.length){alert(`${file.name}: nincs felismerhető rekord.`);continue}cache.set(day,{records:found,hasTelegram:Array.isArray(data.telegram_posts)});$('day').value=day;count+=found.length}catch(err){alert(`${file.name}: ${err.message}`)}}e.target.value='';await loadDay();showState(`${count} rekord kézi JSON-betöltésből.`)};
 $('export').onclick=()=>{const data={schema:'migration-osint-manual-editorial-overrides-v2',exported_at:new Date().toISOString(),timezone:TZ,overrides:Object.values(overrides)};const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`editorial-decisions-${$('day').value}.json`;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
-$('importDecisions').onclick=()=>$('decisionFile').click();$('decisionFile').onchange=async e=>{try{const d=JSON.parse(await e.target.files[0].text());if(!Array.isArray(d.overrides)||!String(d.schema||'').startsWith('migration-osint-manual-editorial-overrides'))throw new Error('Nem támogatott döntésfájl');let n=0;for(const o of d.overrides){if(o&&typeof o.event_id==='string'&&['PUBLISH','REVIEW','EXCLUDE','HISTORICAL_NOT_AI_REVIEWED'].includes(o.decision)){overrides[o.event_id]=o;n++}}saveOverrides();render();alert(`${n} szerkesztői döntés importálva.`)}catch(err){alert('Importhiba: '+err.message)}e.target.value=''};
+$('importDecisions').onclick=()=>$('decisionFile').click();$('decisionFile').onchange=async e=>{try{const d=JSON.parse(await e.target.files[0].text());if(!Array.isArray(d.overrides)||!String(d.schema||'').startsWith('migration-osint-manual-editorial-overrides'))throw new Error('Nem támogatott döntésfájl');let n=0;for(const o of d.overrides){if(o&&typeof o.event_id==='string'&&['PUBLISH','REVIEW','EXCLUDE','HISTORICAL_NOT_AI_REVIEWED'].includes(o.decision)){overrides[o.event_id]=o;n++}}saveOverrides();render();queueSync();alert(`${n} szerkesztői döntés importálva. GitHub-kapcsolat esetén a szinkronizálás elindult.`)}catch(err){alert('Importhiba: '+err.message)}e.target.value=''};
 document.querySelectorAll('[data-tab]').forEach(el=>el.addEventListener('click',()=>setTab(el.dataset.tab)));setTab('OVERVIEW');loadDay();
 </script>
 </body></html>
