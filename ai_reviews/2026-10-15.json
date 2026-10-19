@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-15",
+  "reviews": {
+    "telegram:1261826972:53500": {
+      "hu_text": "Javier García pszichológus szerint az invázió utáni bizonytalanság növeli a félelmet és megnehezíti a normális élethez való visszatérést. Az emergenciapszichológus a Tarajal határán történt tömeges bevándorlás érzelmi következményeiről beszél a Centro del Mayorban, hangsúlyozva a hiteles információ fontosságát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy pszichológus véleményét tartalmazza a bevándorlás érzelmi hatásairól, amely nem áll ellentmondásban más információkkal, de nincs közvetlen bizonyíték a pontos állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:16.005681+00:00"
+    },
+    "telegram:1261826972:53466": {
+      "hu_text": "A CSIF szakszervezet követeli, hogy a helyi rendőrség azonosíthassa az utcán tartózkodó bevándorlókat Ceutában. A szakszervezet sürgeti a hatóságokat az azonosítások felgyorsítására és a helyi rendőrség, a nemzeti rendőrség és a Guardia Civil közötti koordináció megerősítésére.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy hivatalos szakszervezeti követelést tartalmaz a határbiztonsági intézkedések kapcsán, amely releváns a migrációs helyzet szempontjából, de nincs megerősített bizonyíték az állítások végrehajtására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:16.005698+00:00"
+    },
+    "telegram:1261826972:53458": {
+      "hu_text": "Három hír Ceutából: 1. Zavargások voltak a Tarajal határánál lévő bevándorló táborban, a helyiek rendőri jelenlétet követelnek, a hatóságok a tábor mielőbbi felszámolását tervezik. 2. Az oktatási minisztérium pszichoszociális programot indított a bevándorlás okozta szorongás, félelem és iskolai hiányzások kezelésére. 3. Egy állítólagos emberkereskedő ügyében folyik tárgyalás, a vád 32 év börtönt kér.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés több, migrációval kapcsolatos eseményt ismertet, amelyek közül az oktatási és jogi intézkedések humanitárius és jogi vonatkozásúak, de az információk nem ellenőrzöttek független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:16.005714+00:00"
+    },
+    "telegram:1261826972:53470": {
+      "hu_text": "A rendőrség 45 embert tartóztatott le egy csaló hálózat miatt, amely hamis dokumentumokat adott ki bevándorlóknak Ceutából Algecirasba való utazáshoz, akár 6000 eurós díjért. A művelet egy dokumentumbérlési maffiát leplezett le.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy bűnügyi műveletről számol be, amely migrációs dokumentumokkal való visszaélést tár fel, de az információk nem függetlenül ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:16.005717+00:00"
+    },
+    "telegram:1261826972:53494": {
+      "hu_text": "Pedro Rollán a római fórumon Ceuta válságát hibrid támadásként jellemezte a nemzeti és európai biztonság ellen, és követelte az Európai Migrációs Paktum maximális alkalmazását a júliusi tömeges bevándorlás után.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt tartalmaz a migrációs válságról, amely nem ellenőrzött tényállítás, de releváns a migrációs politika szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:16.005721+00:00"
+    },
+    "telegram:1261826972:53475": {
+      "hu_text": "Feijóo ígéretet tett arra, hogy vizsgálatot indít Ceuta „inváziója” és a marokkói hadihajók behatolása ügyében. A PP vezetője azt állítja, hogy ha hatalomra kerül, kivizsgálja a júliusi tömeges bevándorlást és az eredményeket az Európai Bizottságnak továbbítja.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai nyilatkozatot tartalmaz migrációs események vizsgálatáról, amely nem bizonyított tény, de fontos a migrációs politika és közbeszéd szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:09:16.005724+00:00"
+    }
+  }
+}
