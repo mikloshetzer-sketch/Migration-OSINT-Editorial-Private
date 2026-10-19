@@ -881,6 +881,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:57:48.465163+00:00"
+    },
+    "information:information:17405": {
+      "hu_text": "Megnéztem a londoni Canal Museum látogatói kikötőhelyét a Battlebridge Basin-nél. A hajósok előre foglalhatják a helyet, amely egy hajónak megfelelő, vagy kettőnek, ha egymás mellé vannak kikötve. Az időzítés szoros: a hajóknak a múzeum zárása előtt, 16:30-ig meg kell érkezniük, de egy óránként induló turistahajó 16:00-ig használja a kikötőt. Ez a 30 perces időablak szűkös, mert a Regent csatornán zsilip van. Másnap 10:00-ig el kell hagyniuk a helyet a turistahajónak.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés hajózási információkat tartalmaz, amelyek nem kapcsolódnak a migrációhoz vagy határbiztonsághoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:53.230206+00:00"
+    },
+    "information:information:17427": {
+      "hu_text": "A nők mind menekültek voltak családon belüli erőszak elől. Ezt mondták a rendőröknek, fegyveres zsoldosoknak, ügyvédeknek és bárkinek, aki meghallgatta őket. Ez nem számított: mindannyian elrabolták és egy DHS koncentrációs táborba zárták őket. A bejegyzés a családon belüli erőszak áldozatainak amerikai bevándorlási fogva tartásáról szól, és emberi jogi visszaéléseket említ.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos emberi jogi visszaéléseket állít, de nincs megerősített bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T10:57:53.230225+00:00"
     }
   },
   "legacy_reviews": {}
