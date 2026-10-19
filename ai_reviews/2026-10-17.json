@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T16:48:34.369612+00:00"
+    },
+    "information:information:18697": {
+      "hu_text": "A járművel utazó migránsok el akarták kerülni, hogy észrevegyék őket, nem tervezték, hogy menedéket kérnek. Az embercsempészek rá tudták venni az embereket, hogy veszélyes hajóutakat vállaljanak és menedéket kérjenek, mert a visszaküldés Brexit után nehezebb lett. Ez nem volt véletlen.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, nincs bizonyíték arra, hogy az embercsempészek valóban így manipulálták volna a migránsokat, de releváns a migrációs szándék és embercsempészet témakörében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:44.890225+00:00"
+    },
+    "information:information:18695": {
+      "hu_text": "A képernyőkép egy r/NoStupidQuestions posztot mutat, amely azt kérdezi, miért nem nyitja meg Egyiptom a Gáza határát. A moderátorok eltávolították, mert terhelt kérdés volt a közösség szabályai szerint (ez gyakori az izraeli-palesztin témákban). Egyiptom szigorúan ellenőrzi a Rafah átkelőt a Hamász óta.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt moderálási döntésről szól, és a határzárás tényét említi, de nincs további bizonyíték a határhelyzet részleteiről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:44.890242+00:00"
+    },
+    "information:information:18671": {
+      "hu_text": "Tudjuk, hogy a pénzünket a francia rendőrségre költik, akik nem tesznek semmit, hogy megállítsák a migránsok csatornán való átkelését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely szerint a francia rendőrség nem végzi hatékonyan a határvédelmet, de nincs bizonyíték a hatékonyságra vagy annak hiányára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:44.890245+00:00"
+    },
+    "information:information:18679": {
+      "hu_text": "Az 1980-as években a Kanadai Zsidó Kongresszus ellenezte a C-55 és C-84 törvényjavaslatokat, amelyek szigorítani akarták a menekültügyi szűrést és elrettenteni a hajós érkezéseket. Az érvek szerint ezek a lépések kizárhatják a valódi menekülteket és sértik a humanitárius kötelezettségeket és az Alkotmányos jogokat. A hangsúly a méltányosságon volt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi politikai véleményről van szó, amely nem igényel azonnali ellenőrzést, de releváns a menekültügyi politika témájában.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:44.890248+00:00"
+    },
+    "information:information:18622": {
+      "hu_text": "„Az egész migráció egy játék” – mondta Kromah a Muckrakernek. „Mindenki szeretné megkapni a maga részét.” Elmondta, hogy az embercsempész hálózatok 50-60 ezer eurót szednek be egy hajóért.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az embercsempészet anyagi vonatkozásairól szóló állítás, amely fontos a migrációs folyamatok megértéséhez, de nincs független bizonyíték a pontos összegekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:44.890251+00:00"
+    },
+    "information:information:18614": {
+      "hu_text": "Babák és gyerekek jelenleg a tengeren sodródnak, és lehetséges, hogy néhányan még életben vannak. Felszólítjuk Indonézia és Malajzia kormányait, hogy azonnal cselekedjenek a rohingya menekültek megmentése és védelme érdekében, akik népirtás elől menekülnek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Humanitárius segélyhívás, amely fontos a menekültek védelmében, de az állítások nem ellenőrzöttek, különösen a jelenlegi helyzet részletei.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T16:48:44.890255+00:00"
     }
   },
   "legacy_reviews": {}
