@@ -1112,6 +1112,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T10:07:22.298603+00:00"
+    },
+    "telegram:1261826972:53620": {
+      "hu_text": "Vivas szerint 15 000 ember maradt Ceutában az invázió után: „Ezt már senki sem bírja elviselni.” Azt állítja, hogy nem történt visszaküldés, és a kormány stratégiája az, hogy a normális állapot visszatérése azok függvénye legyen, akik bejöttek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számadatokat és politikai véleményt tartalmaznak, de nincs megerősített forrás vagy bizonyíték a számok és a kormányzati stratégia valódiságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:14:10.443311+00:00"
+    },
+    "telegram:1645380944:38315": {
+      "hu_text": "Trump sürgős határzárat követel a Franciaországban lévő migránsok miatt. Donald Trump azt állítja, hogy a migránsok gyakorlatilag elfoglalták Franciaországot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és követelés, amely nem bizonyított tény, és erősen szubjektív megfogalmazásokat tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:14:10.443334+00:00"
+    },
+    "telegram:1604168769:12272": {
+      "hu_text": "Az oroszországi Nyizsnyij Novgorod régióban elfogtak egy 62 éves üzbég állampolgárt, akit családon belüli erőszak miatt köröztek Üzbegisztánban. Egy speciális művelet során összesen 45 gyanúsítottat fogtak el, és 40 eltűnt személy holléte is kiderült.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Rendőrségi műveletet és elfogásokat ír le, de nincs független megerősítés vagy hivatalos forrás a részletek hitelességéhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:14:10.443341+00:00"
+    },
+    "telegram:1604168769:12273": {
+      "hu_text": "Egy 32 éves utast Moszkva Domogyedovo repülőterén őrizetbe vettek, mert az üzbegisztáni utazásához 31 kilogramm radioaktív szárított fehér gombát próbált magával vinni. A gombában a sugárzás szintje tízszerese volt a megengedettnek, és cézium-137 izotópot tartalmazott, ezért veszélyes hulladékként megsemmisítették.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét eseményt ír le, de nincs hivatalos vagy független forrás a történet hitelességének igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:14:10.443346+00:00"
+    },
+    "telegram:1980940690:16467": {
+      "hu_text": "Egy migráns halálra verte egy férfit Kalugában. Október 3-án egy tizenéves fiú megverte a 46 éves férfit egy apróság miatt, aki október 12-én a kórházban meghalt. A fiút súlyos testi sértés okozásával vádolják, ami halált eredményezett, és akár 15 év börtönbüntetésre is számíthat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erőszakos bűncselekményről szóló állítás, amely fontos társadalmi kérdéseket érint, de nincs megerősített forrás vagy hivatalos igazolás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-19T14:14:10.443351+00:00"
     }
   },
   "legacy_reviews": {}
