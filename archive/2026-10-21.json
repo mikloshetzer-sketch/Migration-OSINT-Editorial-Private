@@ -1,0 +1,982 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "live_events": [
+    {
+      "id": 676,
+      "event_id": 676,
+      "source": "X",
+      "source_post_id": "2112676471961420226",
+      "author": "RealAmVoice",
+      "published_at": "2026-10-20T22:44:57Z",
+      "collected_at": "2026-10-20T22:46:05Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "COOPER’S CRIME RECORD UNDER FIRE\n\n@WhatleyNC unloads on Roy Cooper’s crime record, pointing to DeCarlos Brown Jr. as one of the most devastating examples.\n\nHe says Brown was re-arrested and re-released 13 more times before murdering 21-year-old Ukrainian refugee Iryna Zarutska on https://t.co/03Dem48EXZ",
+      "url": "https://x.com/RealAmVoice/status/2112676471961420226",
+      "source_url": "https://x.com/RealAmVoice/status/2112676471961420226"
+    },
+    {
+      "id": 677,
+      "event_id": 677,
+      "source": "X",
+      "source_post_id": "2112671912472072622",
+      "author": "JohnofRebisi",
+      "published_at": "2026-10-20T22:26:50Z",
+      "collected_at": "2026-10-20T22:46:59Z",
+      "event_type": "INTERCEPTION",
+      "signal_type": "INTERCEPTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@digestiveee Oh where do I start\n\nWhen Babylon invaded Judea, they intercepted Jewish refugees and handed them over to Babylonians \nThen they invaded Judea after Babylonians left to plunder the remains. \n\nAlso, fun fact: Baby killer King Herod was... you won't believe it.. an Edomite",
+      "url": "https://x.com/JohnofRebisi/status/2112671912472072622",
+      "source_url": "https://x.com/JohnofRebisi/status/2112671912472072622"
+    },
+    {
+      "id": 678,
+      "event_id": 678,
+      "source": "X",
+      "source_post_id": "2112669600043147467",
+      "author": "Dremscape",
+      "published_at": "2026-10-20T22:17:38Z",
+      "collected_at": "2026-10-20T22:49:34Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@PeterSweden7 I’m not sure penniless newly arrived migrants without ID will care much. 🤷🏻‍♂️",
+      "url": "https://x.com/Dremscape/status/2112669600043147467",
+      "source_url": "https://x.com/Dremscape/status/2112669600043147467"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 543,
+      "group_id": 543,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "COOPER’S CRIME RECORD UNDER FIRE\n\n@WhatleyNC unloads on Roy Cooper’s crime record, pointing to DeCarlos Brown Jr. as one of the most devastating examples.\n\nHe says Brown was re-arrested and re-released 13 more times before murdering 21-year-old Ukrainian refugee Iryna Zarutska on https://t.co/03Dem48EXZ",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-20T22:44:57Z",
+      "last_seen": "2026-10-20T22:44:57Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-20T22:46:05Z",
+      "updated_at": "2026-10-20T22:46:05Z"
+    },
+    {
+      "id": 544,
+      "group_id": 544,
+      "event_type": "INTERCEPTION",
+      "dominant_event_type": "INTERCEPTION",
+      "title": "INTERCEPTION",
+      "representative_text": "@digestiveee Oh where do I start\n\nWhen Babylon invaded Judea, they intercepted Jewish refugees and handed them over to Babylonians \nThen they invaded Judea after Babylonians left to plunder the remains. \n\nAlso, fun fact: Baby killer King Herod was... you won't believe it.. an Edomite",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-20T22:26:50Z",
+      "last_seen": "2026-10-20T22:26:50Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-20T22:46:59Z",
+      "updated_at": "2026-10-20T22:46:59Z"
+    },
+    {
+      "id": 545,
+      "group_id": 545,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@PeterSweden7 I’m not sure penniless newly arrived migrants without ID will care much. 🤷🏻‍♂️",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-20T22:17:38Z",
+      "last_seen": "2026-10-20T22:17:38Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-20T22:49:34Z",
+      "updated_at": "2026-10-20T22:49:34Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1118,
+      "source": "X",
+      "source_post_id": "2112675136755339612",
+      "author": "JackGato2j60",
+      "language": "en",
+      "published_at": "2026-10-20T22:39:38Z",
+      "first_detected_at": "2026-10-20T22:46:32Z",
+      "last_detected_at": "2026-10-20T22:46:32Z",
+      "detection_count": 1,
+      "text": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "text_excerpt": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "source_url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.15,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1119,
+      "source": "X",
+      "source_post_id": "2112674602006773850",
+      "author": "FaytuksNetwork",
+      "language": "en",
+      "published_at": "2026-10-20T22:37:31Z",
+      "first_detected_at": "2026-10-20T22:46:58Z",
+      "last_detected_at": "2026-10-20T22:46:58Z",
+      "detection_count": 1,
+      "text": "🇺🇸🇩🇴 USCG repatriated 63 migrants to the Dominican Republic after cutter Winslow Griesser intercepted an overloaded 30 foot boat carrying 66 people 70 nautical miles northwest of Aguadilla, Puerto Rico. Three remain in federal custody. https://t.co/SpD0UUtQvN",
+      "text_excerpt": "🇺🇸🇩🇴 USCG repatriated 63 migrants to the Dominican Republic after cutter Winslow Griesser intercepted an overloaded 30 foot boat carrying 66 people 70 nautical miles northwest of Aguadilla, Puerto Rico. Three remain in federal custody. https://t.co/SpD0UUtQvN",
+      "url": "https://x.com/FaytuksNetwork/status/2112674602006773850",
+      "source_url": "https://x.com/FaytuksNetwork/status/2112674602006773850",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1120,
+      "source": "X",
+      "source_post_id": "2112674162540171416",
+      "author": "Emmiseller11s",
+      "language": "en",
+      "published_at": "2026-10-20T22:35:46Z",
+      "first_detected_at": "2026-10-20T22:46:59Z",
+      "last_detected_at": "2026-10-20T22:46:59Z",
+      "detection_count": 1,
+      "text": "@FoxNews 66 migrants on one makeshift boat in the Caribbean! 🚨 The Coast Guard had a serious situation to handle. Dangerous journeys at sea are no joke. 🌊🇺🇸 https://t.co/M0TyvnoaPX",
+      "text_excerpt": "@FoxNews 66 migrants on one makeshift boat in the Caribbean! 🚨 The Coast Guard had a serious situation to handle. Dangerous journeys at sea are no joke. 🌊🇺🇸 https://t.co/M0TyvnoaPX",
+      "url": "https://x.com/Emmiseller11s/status/2112674162540171416",
+      "source_url": "https://x.com/Emmiseller11s/status/2112674162540171416",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1121,
+      "source": "X",
+      "source_post_id": "2112672059063165411",
+      "author": "Shadowtruthland",
+      "language": "en",
+      "published_at": "2026-10-20T22:27:25Z",
+      "first_detected_at": "2026-10-20T22:46:59Z",
+      "last_detected_at": "2026-10-20T22:46:59Z",
+      "detection_count": 1,
+      "text": "WATCH: A makeshift boat packed with 66 migrants is intercepted by the U.S. Coast Guard in the Caribbean, with aerial footage capturing the vessel as crews move in to assist those onboard.\n\nThe Coast Guard says the vessel was stopped Friday in the Mona Passage, a stretch of water https://t.co/xOc9CeUIoY",
+      "text_excerpt": "WATCH: A makeshift boat packed with 66 migrants is intercepted by the U.S. Coast Guard in the Caribbean, with aerial footage capturing the vessel as crews move in to assist those onboard.\n\nThe Coast Guard says the vessel was stopped Friday in the Mona Passage, a stretch of water https://t.co/xOc9CeUIoY",
+      "url": "https://x.com/Shadowtruthland/status/2112672059063165411",
+      "source_url": "https://x.com/Shadowtruthland/status/2112672059063165411",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1122,
+      "source": "X",
+      "source_post_id": "2112663215503261923",
+      "author": "GeorgeBarba",
+      "language": "en",
+      "published_at": "2026-10-20T21:52:16Z",
+      "first_detected_at": "2026-10-20T22:47:41Z",
+      "last_detected_at": "2026-10-20T22:47:41Z",
+      "detection_count": 1,
+      "text": "@XavierBecerra YOU talk with a crooked mouth and YOU are responsible for the labor and sex trafficking of thousands of young innocent migrant children you evil insufferable demonic spawn of satan! 🫵😡\n\nStay Away from Our Children! 😠\n\nThe Guardian of The Innocent. 🙏 https://t.co/QLOOvDNS6H",
+      "text_excerpt": "@XavierBecerra YOU talk with a crooked mouth and YOU are responsible for the labor and sex trafficking of thousands of young innocent migrant children you evil insufferable demonic spawn of satan! 🫵😡\n\nStay Away from Our Children! 😠\n\nThe Guardian of The Innocent. 🙏 https://t.co/QLOOvDNS6H",
+      "url": "https://x.com/GeorgeBarba/status/2112663215503261923",
+      "source_url": "https://x.com/GeorgeBarba/status/2112663215503261923",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of thousands of young innocent migrant children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking of thousands of young innocent migrant children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1118,
+      "source": "X",
+      "source_post_id": "2112675136755339612",
+      "author": "JackGato2j60",
+      "language": "en",
+      "published_at": "2026-10-20T22:39:38Z",
+      "first_detected_at": "2026-10-20T22:46:32Z",
+      "last_detected_at": "2026-10-20T22:46:32Z",
+      "detection_count": 1,
+      "text": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "text_excerpt": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "source_url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.15,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1119,
+      "source": "X",
+      "source_post_id": "2112674602006773850",
+      "author": "FaytuksNetwork",
+      "language": "en",
+      "published_at": "2026-10-20T22:37:31Z",
+      "first_detected_at": "2026-10-20T22:46:58Z",
+      "last_detected_at": "2026-10-20T22:46:58Z",
+      "detection_count": 1,
+      "text": "🇺🇸🇩🇴 USCG repatriated 63 migrants to the Dominican Republic after cutter Winslow Griesser intercepted an overloaded 30 foot boat carrying 66 people 70 nautical miles northwest of Aguadilla, Puerto Rico. Three remain in federal custody. https://t.co/SpD0UUtQvN",
+      "text_excerpt": "🇺🇸🇩🇴 USCG repatriated 63 migrants to the Dominican Republic after cutter Winslow Griesser intercepted an overloaded 30 foot boat carrying 66 people 70 nautical miles northwest of Aguadilla, Puerto Rico. Three remain in federal custody. https://t.co/SpD0UUtQvN",
+      "url": "https://x.com/FaytuksNetwork/status/2112674602006773850",
+      "source_url": "https://x.com/FaytuksNetwork/status/2112674602006773850",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1120,
+      "source": "X",
+      "source_post_id": "2112674162540171416",
+      "author": "Emmiseller11s",
+      "language": "en",
+      "published_at": "2026-10-20T22:35:46Z",
+      "first_detected_at": "2026-10-20T22:46:59Z",
+      "last_detected_at": "2026-10-20T22:46:59Z",
+      "detection_count": 1,
+      "text": "@FoxNews 66 migrants on one makeshift boat in the Caribbean! 🚨 The Coast Guard had a serious situation to handle. Dangerous journeys at sea are no joke. 🌊🇺🇸 https://t.co/M0TyvnoaPX",
+      "text_excerpt": "@FoxNews 66 migrants on one makeshift boat in the Caribbean! 🚨 The Coast Guard had a serious situation to handle. Dangerous journeys at sea are no joke. 🌊🇺🇸 https://t.co/M0TyvnoaPX",
+      "url": "https://x.com/Emmiseller11s/status/2112674162540171416",
+      "source_url": "https://x.com/Emmiseller11s/status/2112674162540171416",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1121,
+      "source": "X",
+      "source_post_id": "2112672059063165411",
+      "author": "Shadowtruthland",
+      "language": "en",
+      "published_at": "2026-10-20T22:27:25Z",
+      "first_detected_at": "2026-10-20T22:46:59Z",
+      "last_detected_at": "2026-10-20T22:46:59Z",
+      "detection_count": 1,
+      "text": "WATCH: A makeshift boat packed with 66 migrants is intercepted by the U.S. Coast Guard in the Caribbean, with aerial footage capturing the vessel as crews move in to assist those onboard.\n\nThe Coast Guard says the vessel was stopped Friday in the Mona Passage, a stretch of water https://t.co/xOc9CeUIoY",
+      "text_excerpt": "WATCH: A makeshift boat packed with 66 migrants is intercepted by the U.S. Coast Guard in the Caribbean, with aerial footage capturing the vessel as crews move in to assist those onboard.\n\nThe Coast Guard says the vessel was stopped Friday in the Mona Passage, a stretch of water https://t.co/xOc9CeUIoY",
+      "url": "https://x.com/Shadowtruthland/status/2112672059063165411",
+      "source_url": "https://x.com/Shadowtruthland/status/2112672059063165411",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1122,
+      "source": "X",
+      "source_post_id": "2112663215503261923",
+      "author": "GeorgeBarba",
+      "language": "en",
+      "published_at": "2026-10-20T21:52:16Z",
+      "first_detected_at": "2026-10-20T22:47:41Z",
+      "last_detected_at": "2026-10-20T22:47:41Z",
+      "detection_count": 1,
+      "text": "@XavierBecerra YOU talk with a crooked mouth and YOU are responsible for the labor and sex trafficking of thousands of young innocent migrant children you evil insufferable demonic spawn of satan! 🫵😡\n\nStay Away from Our Children! 😠\n\nThe Guardian of The Innocent. 🙏 https://t.co/QLOOvDNS6H",
+      "text_excerpt": "@XavierBecerra YOU talk with a crooked mouth and YOU are responsible for the labor and sex trafficking of thousands of young innocent migrant children you evil insufferable demonic spawn of satan! 🫵😡\n\nStay Away from Our Children! 😠\n\nThe Guardian of The Innocent. 🙏 https://t.co/QLOOvDNS6H",
+      "url": "https://x.com/GeorgeBarba/status/2112663215503261923",
+      "source_url": "https://x.com/GeorgeBarba/status/2112663215503261923",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of thousands of young innocent migrant children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking of thousands of young innocent migrant children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1118,
+      "source": "X",
+      "source_post_id": "2112675136755339612",
+      "author": "JackGato2j60",
+      "language": "en",
+      "published_at": "2026-10-20T22:39:38Z",
+      "first_detected_at": "2026-10-20T22:46:32Z",
+      "last_detected_at": "2026-10-20T22:46:32Z",
+      "detection_count": 1,
+      "text": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "text_excerpt": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "source_url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.15,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1118,
+      "source": "X",
+      "source_post_id": "2112675136755339612",
+      "author": "JackGato2j60",
+      "language": "en",
+      "published_at": "2026-10-20T22:39:38Z",
+      "first_detected_at": "2026-10-20T22:46:32Z",
+      "last_detected_at": "2026-10-20T22:46:32Z",
+      "detection_count": 1,
+      "text": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "text_excerpt": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working great over there. Would you be that white women astonished in front of her shop where the migrants she voted for took everything from her?",
+      "url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "source_url": "https://x.com/JackGato2j60/status/2112675136755339612",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.89,
+      "score": 17.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.15,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:20259",
+      "timestamp": "2026-10-20T22:36:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112674243066351789",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2112674243066351789",
+      "source_url": "https://x.com/grok/status/2112674243066351789",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@we_thepeeps @elonmusk Yes, the UN DESA international migrant stock figures for the USA (foreign-born population) aim to include all residents born abroad, regardless of legal status. This covers unauthorized migrants who crossed the southern border and remained, including during the Biden years,",
+      "text_excerpt": "@we_thepeeps @elonmusk Yes, the UN DESA international migrant stock figures for the USA (foreign-born population) aim to include all residents born abroad, regardless of legal status. This covers unauthorized migrants who crossed the southern border and remained, including during the Biden years,",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-20T22:46:32Z",
+      "last_collected_at": "2026-10-20T22:46:32Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20260",
+      "timestamp": "2026-10-20T22:35:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112674031132721229",
+      "author": "we_thepeeps",
+      "url": "https://x.com/we_thepeeps/status/2112674031132721229",
+      "source_url": "https://x.com/we_thepeeps/status/2112674031132721229",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@elonmusk @grok @grok does the USA numbers include the migrants that crossed the southern border over Joe Biden’s administration?",
+      "text_excerpt": "@elonmusk @grok @grok does the USA numbers include the migrants that crossed the southern border over Joe Biden’s administration?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-20T22:46:32Z",
+      "last_collected_at": "2026-10-20T22:46:32Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20296",
+      "timestamp": "2026-10-20T22:02:35Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2112665813048262666",
+      "author": "SheetSsential",
+      "url": "https://x.com/SheetSsential/status/2112665813048262666",
+      "source_url": "https://x.com/SheetSsential/status/2112665813048262666",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "dinghy",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@elonmusk And those figures don’t include the hordes of migrants who have arrived in the last two years, and continue to arrive almost daily by dinghies across the English Channel and secretly overnight by plane.",
+      "text_excerpt": "@elonmusk And those figures don’t include the hordes of migrants who have arrived in the last two years, and continue to arrive almost daily by dinghies across the English Channel and secretly overnight by plane.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-20T22:49:34Z",
+      "last_collected_at": "2026-10-20T22:49:34Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-10-20T22:49:42.011473+00:00"
+}
