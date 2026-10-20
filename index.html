@@ -128,7 +128,9 @@ function normalize(item,kind,label,day){if(!item||typeof item!=='object'||Array.
  const o={...(item.event&&typeof item.event==='object'?item.event:{}),...item};
  const group=kind==='event_groups',information=kind==='information_signals';
  const rawId=first(o,information?['timeline_id','source_post_id','id']:group?['group_id','id']:['source_post_id','event_id','id','record_id','uuid','post_id']);
- const id=(kind==='telegram_posts'?'telegram:':information?'information:':group?'group:':'record:')+str(rawId||hash(JSON.stringify(o)));
+ const prefix=kind==='telegram_posts'?'telegram:':information?'information:':group?'group:':'record:';
+ const value=str(rawId||hash(JSON.stringify(o)));
+ const id=value.startsWith(prefix)?value:prefix+value;
  const date=str(first(o,['timestamp','published_at','first_seen','first_seen_at','collected_at','first_detected_at','created_at','date']));
  const title=str(first(o,['title_hu','title','headline','representative_text','text_hu','text','text_excerpt','content','description'])).slice(0,160)||'Cím nélküli bejegyzés';
  return {id,date,day,platform:platformOf(o,kind),title,original:str(first(o,['original_text','text_original','text','representative_text','text_excerpt','content','description'])),hungarian:str(first(o,['translated_text_hu','translation_hu','text_hu','hungarian_translation','summary_hu'])),source:str(first(o,['source_name','source','author','channel','platform']))||str(first(o,['source_types','sources'])),url:str(first(o,['source_url','url','link','post_url'])),status:statusOf(o,day),categories:[label],raw:o};
@@ -143,7 +145,19 @@ const VERIFY={UNVERIFIED:'Nem ellenőrzött',PARTIALLY_VERIFIED:'Részben meger�
 const SOURCE_KINDS={UNKNOWN:'Ismeretlen / még nem besorolt',GOV:'Kormányzati / állami intézmény',SEC:'Rendvédelmi / katonai szervezet',MEDIA:'Média / hírügynökség',NGO:'Civil / humanitárius szervezet',INT:'Nemzetközi szervezet',PERSON:'Magánszemély / szemtanú',POL:'Politikai szereplő / párt',COMM:'Tematikus közösség / anonim csatorna'};
 const PRIORITY={HIGH:'Magas',MEDIUM:'Közepes',LOW:'Alacsony'};
 function options(map,current){return Object.entries(map).map(([k,v])=>`<option value="${esc(k)}" ${k===current?'selected':''}>${esc(v)}</option>`).join('')}
-function applyAI(list,ai){const reviews=ai&&typeof ai.reviews==='object'&&ai.reviews?ai.reviews:{};return list.map(r=>{const a=reviews[r.id];return {...r,ai:a||null,hungarian:r.hungarian||String(a?.hu_text||'')}})}
+function applyAI(list,ai){
+ const reviews=ai&&typeof ai.reviews==='object'&&ai.reviews?ai.reviews:{};
+ return list.map(r=>{
+  // Historical AI files may contain an extra information:/record: prefix.
+  // Read legacy keys without changing the stable editorial decision ID.
+  const aliases=[r.id];
+  if(r.id.startsWith('information:'))aliases.push('information:'+r.id);
+  if(r.id.startsWith('record:'))aliases.push('record:'+r.id);
+  if(r.id.startsWith('group:'))aliases.push('group:'+r.id);
+  const a=aliases.map(k=>reviews[k]).find(v=>v&&typeof v==='object'&&v.hu_text);
+  return {...r,ai:a||null,hungarian:r.hungarian||String(a?.hu_text||'')};
+ });
+}
 
 // GitHub Contents API: a token csak memóriában marad; nincs localStorage/sessionStorage tárolás.
 const GH_REPO='mikloshetzer-sketch/Migration-OSINT-Editorial-Private';
@@ -250,4 +264,3 @@ $('importDecisions').onclick=()=>$('decisionFile').click();$('decisionFile').onc
 document.querySelectorAll('[data-tab]').forEach(el=>el.addEventListener('click',()=>setTab(el.dataset.tab)));setTab('OVERVIEW');loadDay();
 </script>
 </body></html>
-
