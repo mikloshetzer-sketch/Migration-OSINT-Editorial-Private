@@ -584,6 +584,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:37:56.819538+00:00"
+    },
+    "information:20117": {
+      "hu_text": "Az etiópiai ellátó központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek menekülttáborokat bombáznak a szudáni határ mentén.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás biztonsági és migrációs eseményekhez kapcsolódik, de nincs megerősített forrás vagy bizonyíték a drónok használatára menekülttáborok elleni támadásokban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:08.041389+00:00"
+    },
+    "information:20124": {
+      "hu_text": "Ez egy sorozat (The Lament of Autumn 玉簟秋) 15-16. epizódjainak vitafóruma, amelyben a szereplők közötti kapcsolatok és események részleteit tárgyalják.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációhoz vagy határbiztonsághoz, hanem egy szórakoztató műsor vitájáról szól.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:08.041406+00:00"
+    },
+    "information:20126": {
+      "hu_text": "Ez egy sorozat (The Lament of Autumn 玉簟秋) 15-16. epizódjainak vitafóruma, amelyben a szereplők közötti kapcsolatok és események részleteit tárgyalják.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációhoz vagy határbiztonsághoz, hanem egy szórakoztató műsor vitájáról szól.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:08.041410+00:00"
+    },
+    "information:20127": {
+      "hu_text": "Kína módszerei az ellenzék elnyomására: egy tüntetői kézikönyv és figyelmeztetés globális aktivistáknak, amely bemutatja a hongkongi szabadságharc felszámolásának lépéseit, beleértve a jogi keretek átalakítását és a szabadságjogok korlátozását.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A tartalom politikai és társadalmi diskurzust tartalmaz, de nem migrációs esemény vagy határbiztonsági kérdés. Az állítások részben tapasztalati alapúak, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:08.041414+00:00"
+    },
+    "information:20143": {
+      "hu_text": "@GavinNewsom Nyilvánvaló, hogy elnézed, amikor migránsok illegálisan átlépik a határt. Érdemes lenne átgondolnod ezt a posztot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely migrációs határbiztonsági kérdést érint, de nincs bizonyíték vagy részletes információ az állítás igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:08.041417+00:00"
+    },
+    "information:20150": {
+      "hu_text": "Jelentések szerint 2021 januárjában és februárjában legalább 100 000 ember próbált illegálisan átlépni a határt. Sokuk Biden nevét és kérését viselte a pólóján vagy zászlóján, hogy engedjék be őket. Az ABC és Fox News interjúkat készített ezekkel a migránsokkal a határon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, de nincs megerősített adat vagy hivatalos forrás az említett számokról és a migránsok üzenetéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:08.041421+00:00"
     }
   },
   "legacy_reviews": {}
