@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T12:55:34.041Z",
+  "updated_at": "2026-10-20T20:04:15.731Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -314,6 +314,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-20T09:19:50.674Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1261826972:53677",
+      "decision": "PUBLISH",
+      "title": "◼ El Gobierno de Ceuta acude al Supremo ante la “inactividad” del Estado tras la entrada masiva➡️ Ha acordado interponer recurso contencioso-administrativo co",
+      "hungarian": "Ceuta kormánya a Legfelsőbb Bírósághoz fordult az állam „inaktivitása” miatt a tömeges migrációs beáramlás után. Fellebbezést nyújtottak be az elutasítások és kitoloncolások ügyében, valamint az oltalmazotti kérelmek kezelésének blokkolása miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-20T20:04:15.277Z",
       "reviewed_day": "2026-10-20"
     }
   ]
