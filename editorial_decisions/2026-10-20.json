@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:06:19.710Z",
+  "updated_at": "2026-10-20T20:06:26.133Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -405,6 +405,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-20T20:06:19.317Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1604168769:12287",
+      "decision": "EXCLUDE",
+      "title": "Ульяновск вилоятида «Ноқонуний мигрант» операцияси якунландиУльяновск вилоятида ўтказилган рейдлар давомида миграция қонунчилигини бузганлик учун 468 та маъму",
+      "hungarian": "Az Uljanovszk régióban befejeződött az „Illegális migráns” művelet. A razziák során 468 adminisztratív jegyzőkönyvet állítottak ki migrációs szabályszegések miatt, 55 külföldi állampolgárt kiutasítottak, 62 személynek megtiltották az oroszországi belépést, közülük ötnél 10 évre szóló belépési tilalom van érvényben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-20T20:06:25.713Z",
       "reviewed_day": "2026-10-20"
     }
   ]
