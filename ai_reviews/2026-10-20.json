@@ -870,6 +870,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:39:04.938418+00:00"
+    },
+    "group:539": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége közölte, hogy október 16-án, pénteken elfogtak egy 66 migránst szállító, házilag készített hajót a Mona-szorosban, a Karib-tengeren. A parti őrség közleménye szerint a hajón utazó 63 személyt visszatelepítették a Dominikai Köztársaságba.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs független forrás vagy további bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:11.651239+00:00"
+    },
+    "group:540": {
+      "hu_text": "Titkos, illegális migráns hajók érkezései Devon partjainál különböző időpontokban 2022 és 2026 között. Több helyszín és dátum szerepel, valamint kérdés, hogy hány érkezés maradt észrevétlen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét helyszíneket és időpontokat említenek, de nincs bizonyíték vagy hivatalos megerősítés az eseményekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:11.651260+00:00"
+    },
+    "group:541": {
+      "hu_text": "63 migránst repatriáltak két dominikai hadihajóra szombaton, miután egy illegális migrációs hajóút megakadályozásra került a Mona-szoros vizein. A közlemény arra figyelmeztet, hogy ne induljanak útnak a tengeren.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét visszatoloncolási eseményről szól, de nincs független forrás vagy további bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:11.651266+00:00"
+    },
+    "group:542": {
+      "hu_text": "Egy libanoni férfit, aki zöldkártyával vagyis jogszerű állandó tartózkodási engedéllyel rendelkezik, nemrég letartóztattak Fort Hancockban embercsempészet miatt.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét letartóztatásról szól, de nincs hivatalos vagy független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:11.651271+00:00"
+    },
+    "information:20193": {
+      "hu_text": "@RenanPyro26 Ó, fogd be. A vietnamiakat a kongresszus menekültként ismerte el, te idióta. Nem léptünk illegálisan a határon, és nem hamisítottunk menedékkérelmet egy csaló bevándorlási ügyvéddel. Teljesen legálisan tettük.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és vita egy közösségi médiás bejegyzésben, nincs tényállítás vagy bizonyítható esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:11.651275+00:00"
+    },
+    "information:20207": {
+      "hu_text": "@ipekbudak Ismételten, két török állampolgár felelősségre vonandó több menekült haláláért, akiket Görögországba csempésztek, amikor a kis hajójuk összeütközött egy görög járőrhajóval. Mikor áll ez le, idióták?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és vádaskodás egy közösségi médiás bejegyzésben, nincs bizonyított tény vagy hivatalos információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:11.651278+00:00"
     }
   },
   "legacy_reviews": {}
