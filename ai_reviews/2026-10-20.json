@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-20",
+  "reviews": {
+    "information:information:19931": {
+      "hu_text": "15–17 egymást követő hónapon át megszüntették a „fogd és engedd el” gyakorlatot, nulla illegális szabadon engedéssel, elérték a legalacsonyabb határátlépési számokat, 2025-ben negatív nettó migrációt regisztráltak, és milliók hagyták el az országot kitoloncolások és önkéntes távozások révén.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét adatokat tartalmaznak, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:51.143414+00:00"
+    },
+    "information:information:19932": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Megfenyegetnek, hogy bántani fognak, ha megpróbáljuk átlépni. Lengyelországba vagy Németországba akarok menni, hogy jó életet éljek.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsok állításait tartalmazza, amelyek nem ellenőrzöttek, és politikai álláspontot is tükröz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:51.143434+00:00"
+    },
+    "information:information:19935": {
+      "hu_text": "Ezek az emberek bátorítják a migránsokat a csatorna átlépésére. Te bátorítod az embereket, hogy kockáztassák gyerekeik életét, te szörnyű ember. Nézz magadra és értékeld újra az életed, te szörnyű ember.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés személyeskedő, érzelmi töltetű vélemény, nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:51.143437+00:00"
+    },
+    "information:information:19958": {
+      "hu_text": "🚨 FRISS: Olaszország bevándorlási központi igazgatója, Claudio Galzerano bejelentette, hogy stratégiai váltásként minden illegális migrációs áramlatot legális útvonalakkal kívánnak helyettesíteni. A politika célja az embercsempész hálózatok felszámolása és a nemzeti határkeretek átalakítása.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai bejelentés, amely jelentős hatással lehet a migrációs folyamatokra, de nincs hivatalos megerősítés vagy részletes forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:51.143440+00:00"
+    },
+    "information:information:19945": {
+      "hu_text": "Vagy illegális hajós migránsok. Vagy vagyonteremtés. Vagy Északi-tengeri olaj és gáz. Vagy a fantáziadús nettó zéró projektek visszafogása. Vagy az adóelkerülők és bűnözői múltú személyek száma, akiket kormányzati pozíciókba nevezett ki.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és kritika, nem tartalmaz konkrét tényállítást vagy bizonyítható adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:51.143495+00:00"
+    },
+    "record:2112337390089973807": {
+      "hu_text": "Hat migráns, köztük egy csecsemő, meghalt a görögországi Leszbosz szigeténél, miután a gyorsmotoros hajójuk Törökországból egy parti őrségi hajóval ütközött egy sötétben zajló üldözés során, és felborult. Nyolcat kimentettek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragédia részleteit több forrás is megerősítette, de a pontos körülmények további ellenőrzést igényelnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:51.143499+00:00"
+    }
+  }
+}
