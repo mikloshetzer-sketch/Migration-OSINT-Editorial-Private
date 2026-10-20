@@ -1849,6 +1849,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T00:49:41.765216+00:00"
+    },
+    "information:information:20032": {
+      "hu_text": "Megkértem az MI-t, hogy soroljon fel 100 módot, ahogy Trump ártott az országnak. Nem volt problémája a lista elkészítésével. Egy elnök politikájának és intézkedéseinek hatása az országra központi vita az amerikai politikában. Kritikusok és politikai ellenfelek gazdasági, jogi, környezeti és intézményi szempontokat emelnek ki károsnak, míg támogatók sok esetben szükséges reformoknak, szabályozási könnyítéseknek vagy nemzetbiztonsági intézkedéseknek tekintik azokat. Az alábbiakban 100 gyakori kritikát sorolnak fel Trump elnöksége és politikai tevékenysége kapcsán, amelyeket ellenfelek, civil jogvédő szervezetek, közgazdászok és jogtudósok fogalmaztak meg. Például: 2017-es adócsökkentési törvény növelte az államadósságot több mint 1,9 billió dollárral, miközben aránytalanul a vállalatoknak és a magas jövedelműeknek kedvezett; széles körű vámintézkedések növelték az importált áruk árát; válaszként külföldi vámok sújtották az amerikai mezőgazdasági exportot, ami milliárdos állami támogatásokat igényelt; az államadósság az első négy év alatt közel 7,8 billió dollárral nőtt; visszavonták a diákhitel-mentességi programokat; gyengítették a Fogyasztóvédelmi Pénzügyi Hivatal (CFPB) működését.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg politikai véleményeket és kritikákat tartalmaz, amelyek nem migrációs témájúak, és nem áll rendelkezésre hiteles forrás vagy bizonyíték a felsorolt állítások igazolására. Ezért az ellenőrzés státusza UNVERIFIED, és a tartalom nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:50:57.922762+00:00"
     }
   },
   "legacy_reviews": {}
