@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:04:15.731Z",
+  "updated_at": "2026-10-20T20:04:46.563Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -327,6 +327,19 @@
       "source_kind": "MEDIA",
       "note": "",
       "updated_at": "2026-10-20T20:04:15.277Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1261826972:53676",
+      "decision": "PUBLISH",
+      "title": "◼ La gestión de la crisis de Ceuta enfrenta a Torres y Vivas: ¿hubo inacción?➡️ El mando único señala a la administración local para afear las trabas y las pr",
+      "hungarian": "Ceuta válságkezelése miatt konfliktus alakult ki Torres és Vivas között: a központi vezetés a helyi adminisztrációt hibáztatja a nehézségekért és az ígéretek be nem tartásáért, míg a helyi hatóságok azt állítják, hogy egyetlen migránst sem adtak vissza, és a kiskorúak visszaszolgáltatása Marokkónak blokkolva van.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-20T20:04:46.159Z",
       "reviewed_day": "2026-10-20"
     }
   ]
