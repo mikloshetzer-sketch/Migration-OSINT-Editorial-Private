@@ -1068,6 +1068,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T18:13:41.700291+00:00"
+    },
+    "information:20287": {
+      "hu_text": "A videó bemutatja, amit a nemzetközi szervezetek kegyetlen emberkereskedelmi láncnak neveznek, de a valóság a helyszínen még rosszabb. (Líbia: ENSZ jelentés szerint az embercsempészetet üzleti érdekek támogatják.) Bárki, aki járt Észak-Afrika határvidékén, tudja ezt.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberkereskedelmi problémára utal, ami fontos migrációs humanitárius kérdés, de a bemenet nem tartalmaz közvetlen bizonyítékot, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:49:55.764475+00:00"
+    },
+    "information:20300": {
+      "hu_text": "Ez a szöveg Trump és Netanyahu vezetési stílusát elemzi, kiemelve, hogy mindketten populizmust, etnonacionalizmust és állami biztonsági eszközöket használnak az elnöki hatalom megerősítésére, ami a demokrácia eróziójához vezet. A dolgozat összehasonlítja a két vezető autoriter vonásait és a liberális demokráciától való eltéréseiket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és elemzés, amely nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához, és nincs bizonyíték a tartalom igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:49:55.764497+00:00"
+    },
+    "information:20301": {
+      "hu_text": "Ez egy szürreális, abszurd történet egy kaotikus napról, tele gazdagok hobbijaival, rendőri intézkedésekkel és furcsa eseményekkel, mint például egy élő rajzfilm előadás vagy egy fizikát meghazudtoló birkózás. A szöveg inkább művészi, szatirikus jellegű, nem tartalmaz migrációs relevanciát.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem kapcsolódik migrációhoz vagy határbiztonsághoz, inkább abszurd, szatirikus történet, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:49:55.764505+00:00"
     }
   },
   "legacy_reviews": {}
