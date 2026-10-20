@@ -133,6 +133,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T22:50:18.647944+00:00"
+    },
+    "record:2112675136755339612": {
+      "hu_text": "@FrostRaven73 @JoJoFromJerz Feltételezem, hogy olyan emberekre szavazol, akik nyitott határt akarnak és ugyanazokat a szociális programokat, mint Franciaország? Úgy tűnik, ott nagyszerűen működik. Te lennél az a fehér nő, aki ámulva áll a boltja előtt, ahol a szavazataival odahozott migránsok mindent elvittek tőle?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és feltételezés migrációs politikáról, nincs konkrét bizonyíték vagy tényállítás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:24.249376+00:00"
+    },
+    "record:2112676471961420226": {
+      "hu_text": "COOPER BŰNÜGYI MÚLTJA KÉRDÉSEK KÖZÖTT\n\n@WhatleyNC bírálja Roy Cooper bűnügyi múltját, kiemelve DeCarlos Brown Jr.-t, mint az egyik legsúlyosabb példát.\n\nAzt állítja, hogy Brownt 13 alkalommal újra letartóztatták és szabadon engedték, mielőtt meggyilkolta a 21 éves ukrán menekült Iryna Zarutskát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos bűnügyi állításokat tartalmaz konkrét személyekről, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen. Fontos a további ellenőrzés a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:24.249395+00:00"
+    },
+    "telegram:1261826972:53688": {
+      "hu_text": "◼ Videóval ▶ Los Rosales felháborodott: zaj, szemét és rossz közérzet a migránsok jelenléte miatt\n\n➡️ A helyiek a városi park szennyezettségét, az éjszakai zavaró tényezőket és az alvás hiányát panaszolják\n\n➡️ Kérik a hatóságok beavatkozását\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/rosales-estalla-ruido-basura-malestar-presencia-inmigrantes/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi lakossági panaszokat tartalmaz migránsok jelenlétével kapcsolatban, de nincs független megerősítés vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:24.249400+00:00"
     }
   },
   "legacy_reviews": {}
