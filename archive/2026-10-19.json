@@ -6367,7 +6367,7 @@
       "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-10-19T21:51:36.951322+00:00",
+  "last_archived_at": "2026-10-20T00:49:24.698864+00:00",
   "live_events": [
     {
       "id": 648,
@@ -10049,6 +10049,43 @@
       "influence_detected": false,
       "first_collected_at": "2026-10-19T21:49:53Z",
       "last_collected_at": "2026-10-19T21:49:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:19941",
+      "timestamp": "2026-10-19T04:08:32Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117465606553620165",
+      "author": null,
+      "url": "https://na.social/@news/117465606553620165",
+      "source_url": "https://na.social/@news/117465606553620165",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Canadian high school footballers cross U.S. border to play alongside American teammates High school students from small towns of Sunburst, Montana, and Milk River, Alberta, have joined forces and are uniting fans from both countries. 🔗 https://www. cbsnews.com/video/canadian-foo tballers-cross-border-to-play/ # News # USNews # CBSNews # Border",
+      "text_excerpt": "Canadian high school footballers cross U.S. border to play alongside American teammates High school students from small towns of Sunburst, Montana, and Milk River, Alberta, have joined forces and are uniting fans from both countries. 🔗 https://www. cbsnews.com/video/canadian-foo tballers-cross-border-to-play/ # News # USNews # CBSNews # Border",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-20T00:47:56Z",
+      "last_collected_at": "2026-10-20T00:47:56Z",
       "collection_count": 1
     }
   ],
