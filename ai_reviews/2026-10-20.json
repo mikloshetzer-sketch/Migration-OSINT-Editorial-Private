@@ -936,6 +936,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T18:13:11.651278+00:00"
+    },
+    "information:20208": {
+      "hu_text": "@GiorgiaMeloni Mit tehetsz:\n1) lerombolni az otthonaikat\n2) ha migránsok, akkor a tengerbe dobni (kitoloncolni)\n3) ha diákok, megszüntetni az oktatásukat, mert bűnözői gondolkodásmóddal rendelkeznek\n4) a büntetés bíróságon megtámadható, inkább használjuk India \"Yogi\" politikáját és verjünk meg mindenkit",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és javaslat, amely nem tartalmaz bizonyított tényeket, hanem inkább szélsőséges állításokat fogalmaz meg migránsokkal kapcsolatban.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:24.330992+00:00"
+    },
+    "information:20209": {
+      "hu_text": "A parti őrség ismét megállított egy túlterhelt migránshajót Puerto Ricó közelében.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy konkrét eseményről számol be, de nincs további bizonyíték vagy hivatalos forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:24.331008+00:00"
+    },
+    "information:20212": {
+      "hu_text": "Kockáztattuk mindent Németországért, de...\n26 éves nő vagyok, a testvérem 20 éves. Szaúd-Arábiában születtünk és éltünk békésen, de amikor Törökországban visszavonták a tartózkodási engedélyünket, a családunkkal együtt egy hajóra szálltunk, hogy biztonságot találjunk. Öt napot töltöttünk a tengeren, rettenetes körülmények között, végül egy viharban elvesztettük a hajó motorját, és életveszélyben voltunk az olasz partoktól 200 km-re. Ez egy személyes beszámoló a migrációs veszélyekről és a menekülés nehézségeiről.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Személyes tapasztalatot ír le, amely nem ellenőrizhető külső forrásból, de fontos migrációs eseményként értékelhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:24.331013+00:00"
+    },
+    "information:20229": {
+      "hu_text": "1982. október 4-én született Mogadishuban, Szomáliában. 1991-ben a szomáliai polgárháború elől családjával együtt menekült, és egy ideig kenyai menekülttáborban élt. 1995-ben érkezett az Egyesült Államokba, és 2000-ben amerikai állampolgárságot szerzett. Szégyen.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció, amely nem tartalmaz ellenőrizhető forrást, és nem jelent közvetlen migrációs eseményt vagy politikai állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:24.331017+00:00"
+    },
+    "record:2112605845351453038": {
+      "hu_text": "Titkos, illegális migránshajók érkezései Devon partjainál különböző időpontokban 2022 és 2024 között, többek között 9 iraki migráns elfogása és őrizetbe vétele. Hány érkezés maradt észrevétlen?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több illegális migrációs esemény felsorolása, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:24.331022+00:00"
+    },
+    "record:2112604675363025093": {
+      "hu_text": "63 külföldi migránst visszaküldtek két Dominikai Köztársaság haditengerészeti hajóra szombaton, miután egy illegális migrációs hajóút megakadályozásra került a Mona-szoros vizein. Ne indulj útnak a tengeren.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét migrációs eseményről szól, de nincs független, megbízható forrás általi megerősítés. A közösségi média poszt önmagában nem elegendő a teljes hitelesítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:29.864872+00:00"
     }
   },
   "legacy_reviews": {}
