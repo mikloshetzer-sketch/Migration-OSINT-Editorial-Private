@@ -518,6 +518,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:11:58.228154+00:00"
+    },
+    "group:534": {
+      "hu_text": "Kareliában befejeződött az „Illegális migráns” művelet. A speciális intézkedések során 2 millió rubelnél nagyobb bírságot szabtak ki a migrációs törvényeket megsértő személyekre. A vizsgálatok eredményeként 18 külföldi állampolgárt kiutasítottak az országból, és 51 személy belépését tiltották meg Oroszországba. Karelia a Finnországgal határos, az Északnyugati Szövetségi Körzet része, közigazgatási központja Petrozavodszk.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg migrációs intézkedésekről és határbiztonságról szól, de nincs független forrás vagy bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:37:50.869488+00:00"
+    },
+    "group:535": {
+      "hu_text": "Két külön hajóbaleset történt a görög Leszbosz és Számosz szigeteknél, amelyekben 12 migráns vesztette életét. Az egyik hajó egy parti őrségi hajóval ütközött és felborult, a másik pedig Számosz északi részén borult fel. Két túlélőt migránscsempészet gyanújával letartóztattak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálos migrációs balesetekről és csempészettel kapcsolatos letartóztatásokról szól, ami fontos esemény, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:37:50.869510+00:00"
+    },
+    "group:536": {
+      "hu_text": "Menjen Crowborough-ba, és beszéljen azokkal a lakosokkal, akik minden vasárnap békés tüntetéseket tartanak, mióta fiatal férfi migránsok érkeztek a táborba. Hallja, hogyan érintette ez a gyönyörű várost, és hogyan félnek a fiatal lányok és nők ezektől a férfiaktól, akik oda kerültek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Közösségi véleményt és társadalmi reakciókat tartalmaz migránsok érkezésével kapcsolatban, de nincs bizonyíték a valóságtartalomra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:37:50.869516+00:00"
+    },
+    "group:537": {
+      "hu_text": "Befejeződött az „Illegális migráns” művelet az Uljanovszk régióban. A razziák során 468 adminisztratív jegyzőkönyvet állítottak ki migrációs szabályszegés miatt, 55 külföldi állampolgárt kiutasítottak az országból. Emellett 62 személy belépését tiltották meg Oroszországba, közülük ötnek 10 évre szóló belépési tilalmat szabtak ki.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migrációs jogsértések elleni intézkedésekről és kiutasításokról szól, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:37:50.869519+00:00"
+    },
+    "information:20111": {
+      "hu_text": "@Nigel_Farage Tehát visszarepítenéd őket Franciaországba? Megbilincselnéd őket a repülőgépen? Mi történne ezután? Az repülőtéren hagynád őket? Vagy a kevésbé finanszírozott haditengerészetünket használnád, hogy hajóval visszavigyék őket? Hogyan akadályoznád meg, hogy ezek a migránsok visszaugráljanak a Csatornába, és a Határőrség megmentse őket?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és kérdések a migráció kezeléséről, nem tényállítás vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:37:50.869524+00:00"
+    },
+    "group:538": {
+      "hu_text": "12 migránst augusztus végén kitoloncoltak az Egyesült Államokból, és Burundi érkeztek: ügyvéd és források szerint.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy bizonyíték, csak egy link és általános hivatkozás ügyvédre és forrásokra. Ezért az ellenőrzés státusza UNVERIFIED. Fontos lehet a migrációs események nyomon követése miatt, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:37:56.819538+00:00"
     }
   },
   "legacy_reviews": {}
