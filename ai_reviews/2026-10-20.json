@@ -848,6 +848,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:38:58.091520+00:00"
+    },
+    "record:reddit_1xaq96k": {
+      "hu_text": "Az \"Eclipse of the Light\" (EOL) egy TNO univerzumban játszódó almod, amely az 1980-as évekbe helyezi a világ állapotát, némi eltéréssel az eredeti TNO modultól. A fejlesztési napló bemutatja az Egyesült Államok főbb eseményeit a háború utáni időszaktól az 1980-as évek elejéig, különös tekintettel a szegénység relatív és fejlettségi fogalmára az USA-ban a 60-as években.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy játékfejlesztési napló, amely történelmi témákat érint, de nem tartalmaz migrációs eseményekre vagy állításokra vonatkozó konkrét információt. Nem ellenőrzött, mert nem tényállításokat közöl, hanem fikciós tartalomhoz kapcsolódik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:39:04.938397+00:00"
+    },
+    "telegram:1261826972:53668": {
+      "hu_text": "Az LMBTQ migráns közösség, amely Marokkóból érkezett, védelmet követel és homofób támadásokat jelent be. Egy tervezett tüntetést a CETI előtt lemondtak egy feltételezett homofób támadás miatt Los Rosales-ben, miközben több résztvevő bírósági ügyben volt érintett. Körülbelül 200 migráns regisztrált a kölcsönös támogatást nyújtó brigádok által.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés aktuális migrációs eseményről számol be, amely emberi jogi és védelmi kérdéseket érint. Az állítások nem ellenőrzöttek, mivel elsődleges forrásból származnak, és további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:39:04.938418+00:00"
     }
   },
   "legacy_reviews": {}
