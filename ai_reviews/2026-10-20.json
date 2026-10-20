@@ -1002,6 +1002,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T18:13:29.864872+00:00"
+    },
+    "record:2112606497649631412": {
+      "hu_text": "Egy libanoni férfit, aki zöldkártyával vagy jogszerű állandó tartózkodási engedéllyel rendelkezik, nemrég letartóztattak Fort Hancockban, és embercsempészettel vádolják.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét, de nincs további bizonyíték vagy hivatalos megerősítés a letartóztatásról és a vádakról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:41.700264+00:00"
+    },
+    "record:2112607412133716433": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége közölte, hogy október 16-án, pénteken elfogtak egy ideiglenes hajót, amelyen 66 migráns utazott a Karib-térségben, a Mona-szorosnál. A hajón utazók közül 63-at visszatelepítettek a Dominikai Köztársaságba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ hivatalos sajtóközleményre hivatkozik, de a forrás nem teljesen ellenőrzött, ezért előzetesen ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:41.700278+00:00"
+    },
+    "telegram:1261826972:53671": {
+      "hu_text": "Videóval ▶️ Több mint 60 marokkói migránst találtak egy lebontott illegális lakóhelyen Ceutában, a Príncipe negyedben. A migránsokat regisztrálták és a Loma Colmenar területén felállított sátrakba helyezték át.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés helyi eseményről számol be, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:41.700282+00:00"
+    },
+    "telegram:1261826972:53675": {
+      "hu_text": "A spanyol kormány 1,3 millió eurót különít el Ceutában a nőket ért erőszak áldozatainak védelmére. Az összeg öt szervezet támogatására szolgál, amelyek bevándorló nőkkel, lányokkal és serdülőkkel foglalkoznak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés kormányzati döntésről számol be, de nincs hivatalos közlemény vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:41.700285+00:00"
+    },
+    "telegram:1261826972:53676": {
+      "hu_text": "Ceuta válságkezelése miatt konfliktus alakult ki Torres és Vivas között: a központi vezetés a helyi adminisztrációt hibáztatja a nehézségekért és az ígéretek be nem tartásáért, míg a helyi hatóságok azt állítják, hogy egyetlen migránst sem adtak vissza, és a kiskorúak visszaszolgáltatása Marokkónak blokkolva van.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vita és állítások szerepelnek, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:41.700288+00:00"
+    },
+    "telegram:1261826972:53677": {
+      "hu_text": "Ceuta kormánya a Legfelsőbb Bírósághoz fordult az állam „inaktivitása” miatt a tömeges migrációs beáramlás után. Fellebbezést nyújtottak be az elutasítások és kitoloncolások ügyében, valamint az oltalmazotti kérelmek kezelésének blokkolása miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogi lépésekről számol be, de nincs hivatalos megerősítés vagy dokumentum, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T18:13:41.700291+00:00"
     }
   },
   "legacy_reviews": {}
