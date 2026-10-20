@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:06:45.469Z",
+  "updated_at": "2026-10-20T20:07:03.348Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -431,6 +431,19 @@
       "source_kind": "MEDIA",
       "note": "",
       "updated_at": "2026-10-20T20:06:45.067Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "record:1261826972:53658",
+      "decision": "PUBLISH",
+      "title": "🚩 Tres pescadores de Marruecos condenados por introducir en Ceuta a dos inmigrantes➡️ Fueron detenidos en junio de este año por el Servicio Marítimo de la Gu",
+      "hungarian": "Három marokkói halászt elítéltek, mert két migránst csempésztek Ceutába. Júniusban fogták el őket a Guardia Civil tengeri szolgálata által, és most elítélték őket. Vissza kell térniük Marokkóba, és belépési tilalom is érvényben van velük szemben.",
+      "content_category": "FACILITATION",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-20T20:07:02.911Z",
       "reviewed_day": "2026-10-20"
     }
   ]
