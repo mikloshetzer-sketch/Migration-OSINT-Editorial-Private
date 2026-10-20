@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:05:16.730Z",
+  "updated_at": "2026-10-20T20:05:39.440Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -353,6 +353,19 @@
       "source_kind": "MEDIA",
       "note": "",
       "updated_at": "2026-10-20T20:05:16.319Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1261826972:53671",
+      "decision": "PUBLISH",
+      "title": "🚩 CON VÍDEO ▶️ De una casa patera en el Príncipe al embolsamiento de Loma Colmenar➡️ Los más de 60 marroquíes localizados en una vivienda desmantelada esta m",
+      "hungarian": "Videóval ▶️ Több mint 60 marokkói migránst találtak egy lebontott illegális lakóhelyen Ceutában, a Príncipe negyedben. A migránsokat regisztrálták és a Loma Colmenar területén felállított sátrakba helyezték át.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-20T20:05:39.049Z",
       "reviewed_day": "2026-10-20"
     }
   ]
