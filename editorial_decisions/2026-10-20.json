@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:05:39.440Z",
+  "updated_at": "2026-10-20T20:06:01.211Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -366,6 +366,19 @@
       "source_kind": "MEDIA",
       "note": "",
       "updated_at": "2026-10-20T20:05:39.049Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1261826972:53668",
+      "decision": "PUBLISH",
+      "title": "🚩 CON VÍDEO ▶️ El colectivo inmigrante LGTB que cruzó desde Marruecos exige protección y denuncia agresiones➡️ La concentración prevista frente al CETI para ",
+      "hungarian": "Az LMBTQ migráns közösség, amely Marokkóból érkezett, védelmet követel és homofób támadásokat jelent be. Egy tervezett tüntetést a CETI előtt lemondtak egy feltételezett homofób támadás miatt Los Rosales-ben, miközben több résztvevő bírósági ügyben volt érintett. Körülbelül 200 migráns regisztrált a kölcsönös támogatást nyújtó brigádok által.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-20T20:06:00.797Z",
       "reviewed_day": "2026-10-20"
     }
   ]
