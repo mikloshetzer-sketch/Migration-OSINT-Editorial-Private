@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:06:01.211Z",
+  "updated_at": "2026-10-20T20:06:12.825Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -379,6 +379,19 @@
       "source_kind": "MEDIA",
       "note": "",
       "updated_at": "2026-10-20T20:06:00.797Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1604168769:12288",
+      "decision": "EXCLUDE",
+      "title": "Россия фуқаролигини олиш муддати саккиз йилгача узайтирилиши мумкинДавлат думасига киритилган янги қонун лойиҳасига кўра, Россия фуқаролигини олиш учун мамлак",
+      "hungarian": "Oroszországban a tervek szerint nyolc évre hosszabbítanák az állampolgárság megszerzéséhez szükséges állandó tartózkodási időt, az eddigi öt év helyett. Emellett a tartózkodási engedély (VNZ) megszerzéséhez szükséges időt is egy évről két évre emelnék.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-20T20:06:12.325Z",
       "reviewed_day": "2026-10-20"
     }
   ]
