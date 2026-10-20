@@ -1838,6 +1838,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-19T21:53:43.556639+00:00"
+    },
+    "information:information:19941": {
+      "hu_text": "Kanadai középiskolás amerikaifutball-játékosok átlépik az USA határát, hogy amerikai csapattársaikkal együtt játszhassanak. Montana állam Sunburst kisvárosából és Alberta tartomány Milk River kisvárosából származó diákok összefogtak, és ezzel mindkét ország szurkolóit egyesítik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy közösségi médiás állítást tartalmaz, amely egy sporteseményről szól, de nincs hozzá közvetlen bizonyíték vagy hivatalos forrás. A téma nem migrációs esemény vagy határbiztonsági kérdés, inkább társadalmi diskurzus kategóriába sorolható.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T00:49:41.765216+00:00"
     }
   },
   "legacy_reviews": {}
