@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "reviews": {
+    "group:543": {
+      "hu_text": "COOPER BŰNÜGYI MÚLTJA KERESZTÜLTŰZ ALATT\n\n@WhatleyNC keményen bírálja Roy Cooper bűnügyi múltját, kiemelve DeCarlos Brown Jr.-t, mint az egyik legpusztítóbb példát.\n\nAzt állítja, hogy Brownt 13 alkalommal újra letartóztatták és szabadon engedték, mielőtt meggyilkolta a 21 éves ukrán menekültet, Iryna Zarutskát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy politikai vélemény és bűnügyi eseményekre vonatkozó állításokat tartalmaz, de nincs megerősített bizonyíték a gyilkosság és a letartóztatások részleteiről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:03.743954+00:00"
+    },
+    "group:544": {
+      "hu_text": "Babylon elfoglalta Júdeát, elfogták a zsidó menekülteket és átadták a babiloniaknak, majd a babiloniak távozása után fosztogatták Júdeát. Érdekességként Heródes királyt, aki gyermekgyilkos volt, edomitának nevezik.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi eseményekről szóló állítás, amely általánosan ismert, de a részletek pontos ellenőrzése nem lehetséges a bemenet alapján, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:03.743974+00:00"
+    },
+    "group:545": {
+      "hu_text": "Nem vagyok biztos benne, hogy az iratok nélküli, pénztelen, frissen érkezett migránsokat ez nagyon érdekelné.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a migránsok viselkedéséről, nem tényállítás, így nincs szükség ellenőrzésre, de nem releváns konkrét esemény vagy adat szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:03.743980+00:00"
+    },
+    "information:20259": {
+      "hu_text": "Az ENSZ DESA nemzetközi migráns állomány adatai az USA-ra vonatkozóan (külföldön született lakosság) minden külföldön született lakost tartalmaznak, függetlenül jogi státusztól. Ez magában foglalja az engedély nélküli migránsokat is, akik a déli határon léptek be és maradtak, beleértve a Biden-kormányzat idejét is.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az ENSZ DESA statisztikák ismert forrásból származnak, de a pontos adatokat és a Biden-kormányzat alatti migrációs adatokat részben kell ellenőrizni, ezért részben ellenőrzöttnek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:03.743984+00:00"
+    },
+    "information:20260": {
+      "hu_text": "Az USA számadatai tartalmazzák-e a Joe Biden adminisztrációja alatt a déli határon átlépő migránsokat?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, nem állítás, így nincs ellenőrzési igénye, de a témája a migrációs statisztikákra vonatkozik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:03.743989+00:00"
+    },
+    "information:20296": {
+      "hu_text": "Az adatok nem tartalmazzák az elmúlt két évben érkezett migránsok tömegét, akik szinte naponta érkeznek csónakokon az angol csatornán át, illetve titokban repülővel éjszaka.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményekről szól, de nincs megerősített bizonyíték a pontos számokról vagy az érkezési módokról, ezért ellenőrizetlennek minősül, de fontos a migrációs helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:03.743993+00:00"
+    }
+  }
+}
