@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:04:46.563Z",
+  "updated_at": "2026-10-20T20:05:16.730Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -340,6 +340,19 @@
       "source_kind": "MEDIA",
       "note": "",
       "updated_at": "2026-10-20T20:04:46.159Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1261826972:53675",
+      "decision": "PUBLISH",
+      "title": "◼ El Gobierno destina 1,3 millones de euros a proteger a mujeres víctimas de violencia en Ceuta➡️ El Consejo de Ministros aprueba esta ayuda para cinco entida",
+      "hungarian": "A spanyol kormány 1,3 millió eurót különít el Ceutában a nőket ért erőszak áldozatainak védelmére. Az összeg öt szervezet támogatására szolgál, amelyek bevándorló nőkkel, lányokkal és serdülőkkel foglalkoznak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-20T20:05:16.319Z",
       "reviewed_day": "2026-10-20"
     }
   ]
