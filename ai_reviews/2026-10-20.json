@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:11:45.491547+00:00"
+    },
+    "information:information:20062": {
+      "hu_text": "Etiópiában lévő ellátó központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek menekülttáborokat bombáznak a szudáni határ mentén.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állítást tesz katonai tevékenységről menekülttáborok ellen, ami jelentős hatással lehet a migrációs helyzetre és biztonságra. Az állítás nem ellenőrzött, ezért fontos a további hitelesítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:58.228129+00:00"
+    },
+    "information:information:20065": {
+      "hu_text": "Igen, 2024-ben elsöprő többséggel Trump elnököt választottuk, hogy kitoloncolja a \"migránsainkat\". Nem akarunk olyan \"sokszínű\" szarhely lenni, mint az Egyesült Királyság és Európa. Az amerikaiak továbbra is elsöprő többséggel támogatják Trump elnököt a határ lezárásában. Az önök országa most szarhely! Nézze meg a szánalmas Franciaországot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és közösségi média hozzászólás, amely nem tartalmaz ellenőrizhető tényállítást, így alacsony prioritású és nem igényel azonnali ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:58.228148+00:00"
+    },
+    "information:information:20068": {
+      "hu_text": "Jelenleg az IOM, az @UEenRDC támogatásával, partnereket hívott össze, hogy érvényesítsék az emberkereskedelem és migránscsempészet egészségügyi következményeire vonatkozó megállapításokat az Uganda és Kongói Demokratikus Köztársaság közötti határon.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény hivatalos szervezetek részvételével zajlik, de a bejegyzés nem tartalmaz konkrét bizonyítékot, ezért részben ellenőrzött státusz helyett jelenleg ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:58.228152+00:00"
+    },
+    "information:information:20051": {
+      "hu_text": "Jelenleg zajlik: jemeni családok a vörös-tengeri átkeléssel menekülnek Dzsibutiba a Houthi konfliktus miatt. Több ezer ember hajóra szállt, hogy elmeneküljön a tűzharcok, bombázások és súlyos humanitárius helyzet elől, mivel szárazföldi menekülési útvonalak el vannak zárva.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális migrációs eseményt ír le, amely jelentős humanitárius és migrációs következményekkel járhat. Az állítás hitelessége fontos, de nincs közvetlen bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:58.228154+00:00"
+    },
+    "record:2112429503486071019": {
+      "hu_text": "Két külön hajóbaleset történt a görög Leszbosz és Számosz szigeteknél, amelyekben 12 migráns vesztette életét. Az egyik hajó felborult egy parti őrségi hajóval való ütközés után, a másik pedig Számosz északi részén borult fel. Két túlélőt migránscsempészet gyanújával őrizetbe vettek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos balesetekről és bűncselekmény gyanújáról számol be, amelyek migrációs kontextusban fontosak. Az állítás ellenőrzése szükséges a pontos helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:58.228156+00:00"
+    },
+    "record:1604168769:12282": {
+      "hu_text": "Befejeződött a \"Illegális migráns\" művelet Karelában. A speciális intézkedések során 2 millió rubelnél nagyobb bírságot szabtak ki a migrációs törvényeket megsértő személyekre. A vizsgálatok eredményeként 18 külföldi állampolgárt kiutasítottak az országból, és 51 személy belépését Oroszországba megtiltották. Karelia a Finnországgal határos régió Oroszország Északnyugati Föderális Körzetében, adminisztratív központja Petrozavodszk.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos intézkedésekről számol be migrációs szabályok megsértése miatt, de nincs további bizonyíték a hitelességre, ezért ellenőrizetlen státuszban marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:58.228158+00:00"
     }
   },
   "legacy_reviews": {}
