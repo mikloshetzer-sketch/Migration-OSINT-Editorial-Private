@@ -782,6 +782,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:38:44.020496+00:00"
+    },
+    "record:2112536816528056712": {
+      "hu_text": "🇬🇷 Két különböző migráns hajós tragédia történt a görögországi Leszbosz és Számosz szigetek közelében, amelyek legalább 12 halálos áldozatot követeltek, köztük egy csecsemőt is. A görög hatóságok szerint az egyik hajó összeütközött egy parti őrségi hajóval Leszbosz közelében, míg a másik felborult Számosz közelében. Keresési műveletek folynak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, amely halálos áldozatokkal jár, de az állítás nincs megerősítve hivatalos forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:58.091484+00:00"
+    },
+    "record:2112537475436449806": {
+      "hu_text": "@RealNightNation Raspail regénye arról szól, hogy egymillió migráns érkezik Franciaországba, így a párhuzam nem pontos. A felvétel az október 17-i 2026-os tüntetéseket mutatja, amikor Párizsban üzleteket rongáltak meg és fosztogattak, Macron pedig országos zavargásokat ítélt el. A szervezők tiltakozásnak nevezték az eseményt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai és társadalmi vélemény, illetve események értelmezése, nem migrációs tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:58.091504+00:00"
+    },
+    "record:reddit_1xa23kg": {
+      "hu_text": "Az Egyesült Államok Legfelsőbb Bírósága különböző módon kezelte a Trump és Biden adminisztrációk sürgősségi kérelmeit oktatási és egyéb szabályozási ügyekben. Trump adminisztrációja magasabb arányban nyert ilyen ügyeket, mint Bidené, de a különbség kisebb, ha a körülményeket is figyelembe vesszük.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jogszabályi és politikai elemzés, amely nem közvetlenül migrációs esemény, de érintheti a migrációs politikát; nincs független megerősítés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:58.091510+00:00"
+    },
+    "record:reddit_1xa6jo0": {
+      "hu_text": "Az ausztráliai idősellátásban dolgozók 51%-a külföldön született, és az ágazatnak mintegy 110 000 új gondozóra lenne szüksége a következő évtized végéig. A különböző politikai pártok migrációs csökkentést terveznek, ami az idősellátásban dolgozók számát is érinti. Egyes gondozók szerint a migráns munkavállalók nélkül nem tudnák működtetni szolgáltatásaikat. A tervezett vízum- és migrációs szabályozások közvetlen hatással vannak a dolgozókra.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs és munkaerőpiaci összefüggéseket tárgyal, amelyek hatással vannak a migránsok foglalkoztatására és a migrációs politikára; nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:58.091513+00:00"
+    },
+    "record:reddit_1xag1jp": {
+      "hu_text": "Steve Hilton republikánus kormányzójelölt azt állítja, hogy Xavier Becerra, a Biden-kormány egészségügyi minisztere tudott arról, hogy migráns gyermekeket emberkereskedőknek adtak át. Hilton egy volt szövetségi vállalkozó laptopját követeli, amely állítólag bizonyítékokat tartalmaz. Az állításokat egy bejelentő is alátámasztja, aki szerint gyermekek sírtak és menekülni próbáltak szállítás közben.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állításokat tartalmaz migráns gyermekek emberkereskedelembe való bevonásáról, de nincs független bizonyíték vagy hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:58.091517+00:00"
+    },
+    "record:reddit_1xanklm": {
+      "hu_text": "Ez egy kitalált történet (Suzerain játékhoz kapcsolódó), amely egy képzeletbeli ország politikai eseményeit meséli el, beleértve egy elnök második ciklusát és egy új köztársaság születését. A történetben a főszereplő kórházba kerül egy támadás után, és elveszíti az eszméletét.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Fiktív történet, nincs köze valós migrációs eseményhez vagy politikához.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:58.091520+00:00"
     }
   },
   "legacy_reviews": {}
