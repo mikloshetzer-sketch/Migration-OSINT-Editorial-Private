@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T06:51:19.145308+00:00"
+    },
+    "telegram:1261826972:53657": {
+      "hu_text": "Ceuta kormánya a Legfelsőbb Bírósághoz fordult az állam „tétlensége” miatt a tömeges belépés kapcsán. Várhatóan közigazgatási peres eljárást indítanak az eltávolításokkal és visszaküldésekkel kapcsolatos ügyek blokkolása ellen, valamint a menedékjogi ügyek miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés hivatalos kormányzati lépésről számol be, ami fontos a migrációs politika szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:45.491514+00:00"
+    },
+    "telegram:1261826972:53658": {
+      "hu_text": "Három marokkói halászt elítéltek, mert két migránst csempésztek Ceutába. Júniusban fogták el őket a parti őrség tengeri szolgálata, és most ítéletet hoztak. Vissza kell térniük Marokkóba, és belépési tilalom is érvényes rájuk.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét bűnügyi ítéletről számol be, ami releváns a határbiztonság szempontjából, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:45.491536+00:00"
+    },
+    "telegram:1604168769:12286": {
+      "hu_text": "Kaluga régióból 101 illegális migránst távolítottak el. A „Illegális migráns – 2026” művelet második szakaszának eredményeként 101 külföldi állampolgárt kényszerítettek ki az országból. A rendőrség 400 migrációs szabálysértést és 13 bűncselekményt tárt fel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos művelet eredményeit ismerteti, ami fontos a határbiztonság szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:45.491540+00:00"
+    },
+    "telegram:1604168769:12287": {
+      "hu_text": "Az Uljanovszk régióban befejeződött az „Illegális migráns” művelet. A razziák során 468 adminisztratív jegyzőkönyvet állítottak ki migrációs szabályszegések miatt, 55 külföldi állampolgárt kiutasítottak, 62 személynek megtiltották az oroszországi belépést, közülük ötnél 10 évre szóló belépési tilalom van érvényben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs művelet eredményeit ismerteti, ami releváns a határbiztonság szempontjából, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:45.491542+00:00"
+    },
+    "telegram:1604168769:12288": {
+      "hu_text": "Oroszországban a tervek szerint nyolc évre hosszabbítanák az állampolgárság megszerzéséhez szükséges állandó tartózkodási időt, az eddigi öt év helyett. Emellett a tartózkodási engedély (VNZ) megszerzéséhez szükséges időt is egy évről két évre emelnék.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy törvényjavaslatot ismertet, ami fontos a migrációs jogszabályok szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:45.491545+00:00"
+    },
+    "information:information:20075": {
+      "hu_text": "Hétfőn tizenkét migráns, köztük egy csecsemő, fulladt meg két balesetben a görögországi Leszbosz és Számosz szigeteknél. Leszbosznál a migránsok hajója összeütközött egy parti őrségi hajóval és felborult, Számosznál egy gyorsmotoros hajó borult fel üldözés közben. Két túlélőt őrizetbe vettek gyanúsítottként.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos humanitárius eseményről számol be, amely fontos a migrációs helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:11:45.491547+00:00"
     }
   },
   "legacy_reviews": {}
