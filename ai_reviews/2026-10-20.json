@@ -650,6 +650,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:38:08.041421+00:00"
+    },
+    "information:20152": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.”",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás illegális migránsok határátlépési szándékáról és fenyegetésekről szól, ami fontos információ a migrációs helyzet megértéséhez, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:21.015913+00:00"
+    },
+    "information:20161": {
+      "hu_text": "2026. október 20-i tokiói piaci összefoglaló: az ázsiai piacok mérsékelt elmozdulást mutattak az amerikai dollárral szemben, a kínai kamatlábak változatlanok maradtak, a makrogazdasági helyzet összességében kedvező, de gyenge kínai ingatlanbefektetések, magas energiaárak és geopolitikai feszültségek továbbra is fennállnak.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg gazdasági piaci összefoglaló, amely nem kapcsolódik a migrációhoz vagy határbiztonsághoz, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:21.015933+00:00"
+    },
+    "record:1261826972:53658": {
+      "hu_text": "Három marokkói halászt elítéltek, mert két migránst csempésztek Ceutába. Júniusban fogták el őket a Guardia Civil tengeri szolgálata által, és most elítélték őket. Vissza kell térniük Marokkóba, és belépési tilalom is érvényben van velük szemben.",
+      "content_category": "FACILITATION",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hír konkrét bírósági ítéletről szól, ami részben ellenőrzött információ, de további forrásokkal lenne érdemes megerősíteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:21.015937+00:00"
+    },
+    "record:1604168769:12287": {
+      "hu_text": "Az Uljanovszk régióban befejeződött az „Illegális migráns” művelet: a razziák során 468 adminisztratív jegyzőkönyvet állítottak ki migrációs szabályszegés miatt, 55 külföldi állampolgárt kiutasítottak az országból, 62 személynek megtiltották az oroszországi belépést, közülük ötnél 10 évre szóló belépési tilalom van érvényben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ migrációs szabályszegésekről és kiutasításokról szól, ami releváns a határbiztonság szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:21.015941+00:00"
+    },
+    "record:2112435486266626547": {
+      "hu_text": "A parti őrség 63 migránst toloncolt vissza az Egyesült Államokba egy veszélyes Mona-szoroson átkelt út után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ a határbiztonsági intézkedésekről szól, ami releváns, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:21.015944+00:00"
+    },
+    "record:2112431177407627680": {
+      "hu_text": "Legalább 12 migráns fulladt vízbe két külön hajóborulás során a görögországi Leszbosz és Számosz szigeteknél, az Égei-tenger északkeleti részén, miközben parti őrségi üldözés zajlott.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés súlyos humanitárius eseményt ír le, de a forrás nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:26.225155+00:00"
     }
   },
   "legacy_reviews": {}
