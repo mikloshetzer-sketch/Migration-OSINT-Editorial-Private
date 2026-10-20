@@ -716,6 +716,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T13:38:26.225155+00:00"
+    },
+    "record:2112523637878370433": {
+      "hu_text": "✈️ Egy lépés hazafelé.. 138 szomáliai menekült tér vissza hazájába\n\n138 szomáliai menekült hagyta el az aden-i nemzetközi repülőteret hazatérés céljából, az ENSZ Menekültügyi Főbiztossága (UNHCR) által támogatott önkéntes hazatérési program keretében. Ez a negyedik ilyen önkéntes hazatérési járat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét önkéntes hazatérési járatról szól, amely fontos információ a migrációs mozgásokról, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:38.489996+00:00"
+    },
+    "record:2112529768487006518": {
+      "hu_text": "12 migránst augusztus végén kiutasítottak az Egyesült Államokból, és megérkeztek Burundiba – ügyvéd és források szerint.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét számú kiutasított migránsról szól, de nincs hivatalos vagy független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:38.490015+00:00"
+    },
+    "record:2112531265056379121": {
+      "hu_text": "@ChefBaez Trump elveszíti a félidős választásokat emiatt! Nem épített falat a határon, és nem deportálta a nagy migránscsoportokat az országban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és kritika, nem tényállítás, ezért nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:38.490019+00:00"
+    },
+    "record:2112532575936036954": {
+      "hu_text": "@SenAnaliseOrtiz Talán ha az előző kormányzat nem hagyta volna nyitva a határt, nem kerülne ez semmibe, mert az amerikaiak elleni migránsok nem árasztották volna el a déli határt. Sorold fel az összes országot, ahová az amerikaiak illegálisan migrálhatnak. A kiutasítás hiánya miatt nő a lakhatás ára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és véleménycikk, nem tényállítás, ezért nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:38.490022+00:00"
+    },
+    "record:2112534581110804958": {
+      "hu_text": "MOST OLVASANDÓ: Ostromlott Ceutában a migránsok által hátrahagyott ürülék és szemét borítja az utcákat — Egy heves esőzés Ceutában a migránsok által hátrahagyott ürüléket és hulladékot a város csatornáiból a tengerbe sodorta.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migránsok által hátrahagyott hulladékról szól, ami társadalmi diskurzus része, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:38.490025+00:00"
+    },
+    "record:2112535120875782591": {
+      "hu_text": "🚨 SÜRGŐS: 194 migránsról jelentették, hogy eltűntek a tengeren, miután elindultak Gambiai Brufutból 2026. szeptember 29-én. A hajón 20 nő, 20 gyermek és négy csecsemő is volt. Tartózkodási helyük ismeretlen.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés súlyos migrációs eseményről szól, de nincs megerősített információ a hajó sorsáról vagy a migránsok hollétéről, ezért az állítás ellenőrizetlen. Fontos a gyors ellenőrzés a humanitárius kockázatok miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T13:38:44.020496+00:00"
     }
   },
   "legacy_reviews": {}
