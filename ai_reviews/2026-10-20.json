@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T00:49:51.143499+00:00"
+    },
+    "telegram:1604168769:12279": {
+      "hu_text": "A Szamara régióban 2027-től a munkavállaló migránsok havi jövedelemadója 12 048-ról 17 068 rubelre emelkedik. Emellett minden migráns által eltartott gyermek után havi 6 024 és 8 534 rubel közötti pótdíjat vezetnek be.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs adóváltozásokról szól, ami releváns a migrációs politika területén, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:51:08.952020+00:00"
+    },
+    "telegram:1604168769:12280": {
+      "hu_text": "2027-től a Migrációs Ügynökség kibővíti a külföldre készülő állampolgárok nyelvi és szakmai képzését 3 hónapról 6 hónapra. Az új program keretében a munkavállaló migránsok jogi védelemről, pénzügyi műveltségről és csalások elleni védelemről szóló speciális képzéseket kapnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs felkészítési rendszer változásáról szól, ami releváns a migrációs politika területén, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:51:08.952038+00:00"
+    },
+    "telegram:1604168769:12281": {
+      "hu_text": "Szentpéterváron a helyi lakosok lerombolták és szemétbe dobták a migránsok utcai árusítóhelyét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsokkal kapcsolatos helyi konfliktusról szól, ami társadalmi diskurzus kategóriába tartozik, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:51:08.952040+00:00"
+    },
+    "telegram:1604168769:12282": {
+      "hu_text": "Kareliában befejeződött az „Illegális migráns” művelet. A speciális intézkedések során 2 millió rubelnél nagyobb bírságot szabtak ki a migrációs törvényt megsértő személyekre. Az ellenőrzések eredményeként 18 külföldi állampolgárt kiutasítottak az országból, és 51 személy belépését tiltották meg Oroszországba. Karelia a Finnországgal határos régió, amely az Északnyugati Föderális Körzet része, székhelye Petrozavodszk.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs határbiztonsági intézkedésekről és kiutasításokról szól, ami fontos migrációs esemény, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:51:08.952043+00:00"
+    },
+    "information:information:20013": {
+      "hu_text": "@GAPeachproud Valójában ScareCrow Joe Biden egy idióta. Nyitott határok, milliók illegális bevándorlók lépnek be az Egyesült Államok területére ellenőrzés nélkül. Milliók adóforintjainkat költik ezeknek az illegálisoknak a szállására és ellátására. Rekord számú migráns gyermekek elleni szexuális kizsákmányolás. Rekord bűnözés, a kartellek szabadon garázdálkodnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások migrációval kapcsolatban, de nincs bizonyíték a valóságtartalomra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:51:08.952045+00:00"
+    },
+    "information:information:20004": {
+      "hu_text": "Hajók felborultak a görög szigeteken: 12 migráns, köztük egy csecsemő meghalt. Egy migránshajó-csoport megpróbált eljutni a Leszbosz és Számosz szigetekhez, amikor a parti őrség üldözte őket, a hajók elsüllyedtek. A mentők több holttestet találtak a vízben.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsokkal kapcsolatos tragikus eseményt ír le, ami humanitárius kategóriába tartozik, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T06:51:08.952047+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
