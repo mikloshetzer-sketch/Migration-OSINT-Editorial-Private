@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T22:50:03.743993+00:00"
+    },
+    "record:2112663215503261923": {
+      "hu_text": "@XavierBecerra Te görbe szájjal beszélsz, és te vagy felelős több ezer fiatal, ártatlan migráns gyermek munka- és szexkereskedelméért, te gonosz, elviselhetetlen, sátáni démoni teremtmény! Távol maradj a gyermekeinktől! Az ártatlanok őrzője.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és vádaskodás, nincs bizonyíték a tartalom igazolására, ezért ellenőrizetlen státuszú.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:11.607271+00:00"
+    },
+    "record:2112669600043147467": {
+      "hu_text": "@PeterSweden7 Nem vagyok biztos benne, hogy az iratok nélküli, pénztelen frissen érkezett migránsok nagyon törődnének ezzel.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy feltételezés a migránsok viselkedéséről, nincs bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:11.607292+00:00"
+    },
+    "record:2112671912472072622": {
+      "hu_text": "Ó, hol is kezdjem? Amikor Babilon megszállta Júdeát, elfogták a zsidó menekülteket és átadták a babiloniaknak. Aztán megszállták Júdeát, miután a babiloniak elmentek, hogy kifosszák a maradványokat. Érdekesség: a gyermekgyilkos Heródes király... nem fogod elhinni... edómi volt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi állításokat tartalmaz, de nincs forrás vagy bizonyíték, ezért ellenőrizetlen státuszú.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:11.607297+00:00"
+    },
+    "record:2112672059063165411": {
+      "hu_text": "FIGYELEM: Egy ideiglenes csónakot, amelyen 66 migráns tartózkodott, az Egyesült Államok Parti Őrsége megállított a Karib-térségben. Légi felvételek is készültek a hajóról, miközben a személyzet a fedélzeten lévőket segíti.\n\nA Parti Őrség szerint a hajót pénteken állították meg a Mona-szorosban, egy vízi útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, de nincs független megerősítés vagy hivatalos közlemény a részletekről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:18.647917+00:00"
+    },
+    "record:2112674162540171416": {
+      "hu_text": "@FoxNews 66 migráns egy ideiglenes csónakon a Karib-térségben! 🚨 A Parti Őrség komoly helyzettel nézett szembe. A tengeri veszélyes utazások nem játék. 🌊🇺🇸",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés megerősíti az előző állítást, de önmagában nem tartalmaz új bizonyítékot, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:18.647937+00:00"
+    },
+    "record:2112674602006773850": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége 63 migránst visszatelepített a Dominikai Köztársaságba, miután a Winslow Griesser nevű hajójuk megállított egy túlterhelt, 30 láb hosszú csónakot, amely 66 embert szállított 70 tengeri mérföldre északnyugatra Aguadillától, Puerto Ricótól. Hárman szövetségi őrizetben maradtak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletes információkat tartalmaz a migrációs eseményről, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-20T22:50:18.647944+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
