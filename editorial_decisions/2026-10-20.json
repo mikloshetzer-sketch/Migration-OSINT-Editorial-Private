@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-20",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-20T20:06:26.133Z",
+  "updated_at": "2026-10-20T20:06:45.469Z",
   "overrides": [
     {
       "event_id": "telegram:1604168769:12282",
@@ -418,6 +418,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-20T20:06:25.713Z",
+      "reviewed_day": "2026-10-20"
+    },
+    {
+      "event_id": "telegram:1604168769:12286",
+      "decision": "PUBLISH",
+      "title": "Калуга вилоятидан 101 нафар ноқонуний мигрант чиқариб юборилдиРоссиянинг Калуга вилоятида «Ноқонуний мигрант – 2026» операциясининг иккинчи босқичи якунларига",
+      "hungarian": "Kaluga régióból 101 illegális migránst távolítottak el. A „Illegális migráns – 2026” művelet második szakaszának eredményeként 101 külföldi állampolgárt kényszerítettek ki az országból. A rendőrség 400 migrációs szabálysértést és 13 bűncselekményt tárt fel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-20T20:06:45.067Z",
       "reviewed_day": "2026-10-20"
     }
   ]
