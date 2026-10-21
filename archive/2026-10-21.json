@@ -4034,7 +4034,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-21T19:48:05.166865+00:00",
+  "last_archived_at": "2026-10-21T22:55:58.409841+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -4918,6 +4918,85 @@
         "REDDIT"
       ],
       "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1136,
+      "source": "X",
+      "source_post_id": "2112985378907173291",
+      "author": "JohnHTeasley",
+      "language": "en",
+      "published_at": "2026-10-21T19:12:26Z",
+      "first_detected_at": "2026-10-21T19:47:49Z",
+      "last_detected_at": "2026-10-21T19:47:49Z",
+      "detection_count": 1,
+      "text": "BREAKING: Another large migrant caravan is leaving Mexico’s southern border right now in an attempt to reach the United States\n\nSome members of the caravan, which is mostly comprised of Central Americans, told me they are hopeful Democrats win the midterms https://t.co/cZLuxnt9Xp",
+      "text_excerpt": "BREAKING: Another large migrant caravan is leaving Mexico’s southern border right now in an attempt to reach the United States\n\nSome members of the caravan, which is mostly comprised of Central Americans, told me they are hopeful Democrats win the midterms https://t.co/cZLuxnt9Xp",
+      "url": "https://x.com/JohnHTeasley/status/2112985378907173291",
+      "source_url": "https://x.com/JohnHTeasley/status/2112985378907173291",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is leaving Mexico’s southern border right now in an attempt to reach"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is leaving Mexico’s southern border right now in an attempt to reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "2112985378907173291",
+        "2112828884122996796"
+      ],
+      "related_authors": [
+        "JohnHTeasley",
+        "MonicaAndersNG"
+      ],
+      "related_urls": [
+        "https://x.com/JohnHTeasley/status/2112985378907173291",
+        "https://x.com/MonicaAndersNG/status/2112828884122996796"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 2,
       "platform_count": 1
     }
   ]
