@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:55:41.388Z",
+  "updated_at": "2026-10-21T05:55:48.390Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -197,6 +197,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:55:41.019Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "group:545",
+      "decision": "EXCLUDE",
+      "title": "BORDER_CROSSING",
+      "hungarian": "Nem vagyok biztos benne, hogy az iratok nélküli, pénztelen, frissen érkezett migránsokat ez nagyon érdekelné.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:55:47.868Z",
       "reviewed_day": "2026-10-21"
     }
   ]
