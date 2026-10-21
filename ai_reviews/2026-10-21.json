@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T02:19:05.833613+00:00"
+    },
+    "group:546": {
+      "hu_text": "Körülbelül 36 000 és 38 000 közötti szabálytalan migráns érkezett kis csónakokon keresztül az Egyesült Királyságba a Csatorna átkeléseken Robert Jenrick bevándorlási államtitkári megbízatása alatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A számadatok pontos ellenőrzése hiányzik, ezért az állítás nem ellenőrzött. A tartalom releváns a migrációs események szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:21.300427+00:00"
+    },
+    "information:20362": {
+      "hu_text": "Biztosan nem Egyiptom, ahol a menekültektől több ezer dollárt kérnek a szigorúan őrzött határ átlépéséért. Minden katona, aki bűncselekményt követ el, bíróság elé kell álljon, ami ebben az esetben megtörtént, az elítélés után az IDF eltávolította a szobrot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részben ellenőrzött, mert a katonai bűncselekmény és az ítélet tényét megerősítették, de a határátlépési díjak pontos mértéke nem bizonyított.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:21.300447+00:00"
+    },
+    "information:20367": {
+      "hu_text": "1. Követni kell a határon átnyúló toborzási hálózatokat és felszámolni azokat a forrásnál. 2. Büntetni kell az országokat az illegális bevándorlók miatt Dél-Afrikában. 3. A migránsoknak bátornak kell lenniük. 4. Meg kell tanulnunk és el kell felejtenünk egymásról dolgokat. Túl sok migráns inkább lustának nevezi a dél-afrikaiakat, mintsem elismerné kizsákmányolásukat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és javaslatokat tartalmazó állítás, amely nem tényadatokat közöl, ezért nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:21.300452+00:00"
+    },
+    "information:20370": {
+      "hu_text": "Kemény igazság... Ezek az emberek, akik csónakokon érkeztek, hajlandóak kamerák előtt elmondani, hogy a nőket összekötik és a tengerbe dobják az utazás során, mert boszorkányoknak hiszik őket (vagy valószínűleg azért, hogy eltüntessék a csoportos nemi erőszak bizonyítékait).",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állítás, amely emberi jogi visszaélésekről szól, de nincs megerősített bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:21.300455+00:00"
+    },
+    "record:2112821798916046968": {
+      "hu_text": "Több mexikói forrás, köztük a Proceso és a Telediario megerősíti, hogy egy 500-600 főből álló, főként közép-amerikai migránsokból álló karaván október 20-án elindult Tapachulából észak felé az Egyesült Államok felé. A migránsok kifejezetten remélik, hogy a félidős választások kedvezőbb amerikai kormányt hozhatnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több forrás is megerősíti a karaván létezését és célját, de a politikai remények szubjektívek, ezért részben ellenőrzöttnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:21.300459+00:00"
+    },
+    "record:2112822908313915556": {
+      "hu_text": "Nézzük most az Egyesült Királyságot, egy olyan országot, ahová a migránsok könnyen bejuthatnak. Csak egy csónakra van szükségük.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy általánosítás, amely nem tartalmaz konkrét tényeket vagy bizonyítékokat, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:21.300462+00:00"
     }
   },
   "legacy_reviews": {}
