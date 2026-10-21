@@ -760,6 +760,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T19:48:38.139178+00:00"
+    },
+    "record:2112990117866692840": {
+      "hu_text": "Az Állami Határőrség különleges, humánus eljárásokat hajtott végre, amelyeket a Fehér Ház skizofrén Witkoffja szabadalmaztatott, keleti illegális migránsokkal szemben. Most a fiúk hosszú ideig emlékezni fognak az ukrán föld vendégszeretetére.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem tartalmaznak konkrét bizonyítékot, és a szöveg ironikus vagy szarkasztikus hangvételű, ezért nem ellenőrizhető. A tartalom a határbiztonsági eljárásokra utal, de nem megerősített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:49.777145+00:00"
+    },
+    "record:2112993004885537270": {
+      "hu_text": "4000 illegális migráns vár a francia partokon gumicsónakra, hogy az Egyesült Királyságba jussanak. A brit adófizetők által finanszírozott francia határőrség a városi zavargások miatt elvonult, így az északi partok nyitva maradtak az embercsempészek előtt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és helyzetet ír le, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen. A téma határbiztonsági jelentőségű, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:49.777161+00:00"
+    },
+    "record:reddit_1xbv1qw": {
+      "hu_text": "Texasban egy bíróságon migráns gyerekek állnak az ügyészek előtt, sokan ügyvéd nélkül. Egy 13 éves hondurasi fiú nem jogosult menedékjogra, mert a bíróság szerint nem elég veszélyes számára a hazatérés, bár családja az USA-ban él. A gyerekek nagyon fiatalok, és az eljárás komoly következményekkel járhat számukra.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A leírás egy konkrét bírósági helyzetet mutat be, de a forrás nem hivatalos, és nincs megerősített bizonyíték, ezért ellenőrizetlen. A téma migrációs eljárásokkal kapcsolatos, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:49.777165+00:00"
+    },
+    "telegram:1261826972:53715": {
+      "hu_text": "Von der Leyen a ceutai válságra hívja fel a figyelmet, és figyelmeztet az EU destabilizálására az illegális migráció eszközeként. Az Európai Bizottság elnöke bejelentette, hogy év végéig kidolgoznak egy vészhelyzeti válaszkeretet a külső határok és a belső biztonság védelmére.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az Európai Bizottság elnökének hivatalos nyilatkozata, amely megbízható forrásból származik, így ellenőrzöttnek tekinthető. A téma az EU migrációs politikájával kapcsolatos, ezért magas prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:49.777168+00:00"
+    },
+    "telegram:1261826972:53720": {
+      "hu_text": "A ceutai kikötőben az illegális migránsok sátrai eláztak és össze is dőltek. Nincs biztonsági terv a várossal az ilyen incidensek kezelésére.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés egy helyi problémát ír le, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrizetlen. A téma humanitárius helyzetet érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:49.777171+00:00"
+    },
+    "telegram:1983050450:24991": {
+      "hu_text": "Oroszország és Fehéroroszország felelősek a ceutai migránshullámért. Ursula von der Leyen, az Európai Bizottság elnöke kijelentette, hogy ezek az országok szándékosan provokálják a tömeges embermozgásokat, ami több tízezer migráns érkezéséhez vezetett a spanyol Ceutába.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai vélemény és vád, amelyet az Európai Bizottság elnökének nyilatkozatára alapoznak, de nincs független bizonyíték a szándékosságra, ezért ellenőrizetlen. A téma társadalmi-politikai diskurzus része, magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:49.777174+00:00"
     }
   },
   "legacy_reviews": {}
