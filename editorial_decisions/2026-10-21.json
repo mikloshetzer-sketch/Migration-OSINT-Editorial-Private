@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T09:47:09.738Z",
+  "updated_at": "2026-10-21T20:51:47.757Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -379,6 +379,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T09:46:47.021Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "information:20448",
+      "decision": "EXCLUDE",
+      "title": "Mark my creating text for country stimulus was the 2025 exam originsOrigins Written by Emma Whatson, Owner of the Whittlesea Weekly Newspaper Published: Tuesda",
+      "hungarian": "1961-ben Rosa Maria egy bőrönddel és egy angol nyelvű könyvvel érkezett Ausztráliába, zsebében apja toszkán farmjáról származó paradicsommagokkal. Hatvan évvel később ezek a magok a Whittlesea közösségi kertben tanítják a gyerekeket a hovatartozás jelentésére. Az ausztráliai bevándorlók számára az ilyen tárgyak érzelmi kötődést jelentenek a szülőföldhöz, amely nem szűnik meg a távolsággal, hanem tovább él és vágyódást kelt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T20:51:47.321Z",
       "reviewed_day": "2026-10-21"
     }
   ]
