@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T20:52:38.200Z",
+  "updated_at": "2026-10-21T20:52:56.594Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -418,6 +418,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T20:52:37.731Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "information:20517",
+      "decision": "EXCLUDE",
+      "title": "The Baltic States Prepare for War (The Atlantic, Isaac Stanley-Becker)One evening this summer, in the village of Bezdonys, in eastern Lithuania, I watched as a",
+      "hungarian": "A balti államok háborúra készülnek (The Atlantic, Isaac Stanley-Becker). Egy nyári estén Litvánia keleti részén, Bezdonys faluban egy lövészszázad érkezett egy ellenséges erők által elfoglalt vasútállomáshoz. A katonai gyakorlat célja annak megértése, hogyan nézne ki egy nagyobb támadás a NATO legsebezhetőbb részén, és hogyan gondolkodnak a balti államok saját védelmükről. A résztvevők civilek, akik most katonai feladatokat látnak el, például orvlövész rajtaütéseket hajtanak végre és hírszerzést továbbítanak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T20:52:56.209Z",
       "reviewed_day": "2026-10-21"
     }
   ]
