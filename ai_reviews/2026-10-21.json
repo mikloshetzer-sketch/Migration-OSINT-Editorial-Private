@@ -540,6 +540,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T14:48:40.410531+00:00"
+    },
+    "telegram:1261826972:53696": {
+      "hu_text": "Vivas követeli a kormánytól, hogy a Legfelsőbb Bíróság előtt magyarázza meg, miért szakították meg a visszaküldéseket a ceutai tömeges belépés után. A város elnöke az ABC Fórumon azt is állította, hogy a július 30-i tömeges belépés Ceuta gazdasági fellendülésének megakadályozását célozta. Marokkót nevezte meg „főszereplőként”.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, politikai állításokat tartalmaz, de nincs megerősített bizonyíték a kormányzati döntések okairól vagy Marokkó szerepéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:54.753582+00:00"
+    },
+    "telegram:1261826972:53697": {
+      "hu_text": "Ceutai egyetemisták és bevándorlók együtt tanulnak képregényeken keresztül. Pedro Rojo workshopot tartott a Ceutai Képregény és Manga Napok alkalmából az Oktatás, Gazdaság és Technológia Karán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy társadalmi kezdeményezésről szóló információ, amely nem tartalmaz migrációs eseményekkel kapcsolatos vitatható állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:54.753609+00:00"
+    },
+    "telegram:1261826972:53699": {
+      "hu_text": "Milei azzal vádolja Sánchezt, hogy elősegíti Ceuta „invázióját”, mert „minden bevándorló egy szavazat”. Az argentin elnök a spanyol kormányfőt „diktátornak” nevezi, és azt állítja, hogy a tömeges belépések nem „baleset vagy véletlen” voltak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és vádaskodás, amely migrációs témához kapcsolódik, de nincs bizonyíték az állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:54.753614+00:00"
+    },
+    "telegram:1261826972:53700": {
+      "hu_text": "Elítéltek egy személyt, aki két alkalommal segített bevándorlóknak Ceutából Algecirasba jutni a májusi válság után. A vádlott elismerte a cselekményeket, amelyek az első tömeges ceutai belépéshez kapcsolódnak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jogilag releváns eseményről van szó, amely migrációs segítéshez kapcsolódik, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:54.753617+00:00"
+    },
+    "telegram:1261826972:53701": {
+      "hu_text": "Négy szubszaharai bevándorlót kiutasítottak Marokkóba egy összetűzés után Loma Margaritában. A bevándorlókat szeptemberben tartóztatták le, miután közrendetlenséget okoztak a kormány által a Trampolín bezárása után létrehozott táborban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Határbiztonsági intézkedésről szóló információ, amely migrációs eseményhez kapcsolódik, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:54.753620+00:00"
+    },
+    "telegram:1261826972:53703": {
+      "hu_text": "Gyertyafénynél és mobiltelefon zseblámpáival tartanak két tárgyalást Ceutában. A szerdai áramszünet ellenére folytatódtak a bírósági eljárások, és elítélések születtek két olyan ügyben, amelyek bevándorlók tömeges belépéséhez kapcsolódnak, akik kiutasításra kerülnek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jogszabályi és igazságszolgáltatási eseményről van szó, amely migrációs kontextusban történt, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:54.753623+00:00"
     }
   },
   "legacy_reviews": {}
