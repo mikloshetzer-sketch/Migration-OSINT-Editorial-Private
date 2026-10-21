@@ -606,6 +606,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T14:48:54.753623+00:00"
+    },
+    "telegram:1604168769:12302": {
+      "hu_text": "Külföldi állampolgártól gépjármű vásárlásakor készpénz használata bírságot von maga után. Egy Oroszországban élő vásárlót 1,3 millió rubel bírságra ítéltek, mert készpénzzel fizetett egy külföldi eladónak. A jogszabály szerint az ilyen adásvétel csak bankszámlákon keresztül történhet a rezidens és nem rezidens között.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogszabályi változásról szól, de nincs megerősített forrás vagy hivatalos dokumentum a pontos részletekről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:49:02.688964+00:00"
+    },
+    "telegram:1604168769:12303": {
+      "hu_text": "Omszki régióban meghosszabbítják a migránsokra vonatkozó korlátozásokat. A munkavállalási engedéllyel rendelkező külföldiek számára 21 területen bevezetett korlátozások 2027-ig érvényben maradhatnak. Ezek a tilalmak érintik a taxizást, tömegközlekedést, oktatást, egészségügyet, kereskedelmet és több iparágat.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs szabályozásról tájékoztat, de nincs hivatalos megerősítés vagy dokumentum, így ellenőrizetlennek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:49:02.688984+00:00"
     }
   },
   "legacy_reviews": {}
