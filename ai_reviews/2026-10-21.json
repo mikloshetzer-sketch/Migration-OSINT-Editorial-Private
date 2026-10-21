@@ -694,6 +694,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T19:48:28.587776+00:00"
+    },
+    "information:20551": {
+      "hu_text": "Jelentések szerint kísérő nélküli kiskorú migránsokat – néhányan már öt évesek – erős nyomás alá helyeznek a bevándorlási bíróságon, hogy elfogadjanak egy egyszeri önkéntes távozási ajánlatot, állítólag „3000 dollárért cserébe”. Mx Goldfinch, egy bevándorlási ügyvéd szerint a vizsgálatok kimutatták, hogy valószínűleg a legtöbb gyerek soha nem kapja meg a megígért pénzt az önkéntes kitoloncolásért.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi aggályokat vet fel, de nincs megerősített bizonyíték, ezért fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:38.139138+00:00"
+    },
+    "record:2112982004299911575": {
+      "hu_text": "A 2026 februári ENSZ-jelentés és a Líbiában folyó vizsgálatok részletezik a migránsok kényszermunkáját, emberkereskedelmét és eladását, beleértve sok nigériai migránst is.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az ENSZ-jelentés és hivatalos vizsgálatok említése hitelességet ad az állításnak, de további források szükségesek a megerősítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:38.139163+00:00"
+    },
+    "record:2112985378907173291": {
+      "hu_text": "FRISS HÍR: Egy újabb nagy migránskaraván indul el éppen Mexikó déli határáról, hogy megpróbáljon eljutni az Egyesült Államokba. A karaván tagjai, akik főként közép-amerikaiak, reménykednek abban, hogy a Demokrata Párt nyer a félidős választásokon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A karaván mozgása jelentős migrációs esemény, de az információ forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:38.139168+00:00"
+    },
+    "record:2112987941958041973": {
+      "hu_text": "Ha a Bevándorlási és Menekültügyi Testület úgy dönt, hogy valakit ki kell toloncolni, a Kanadai Határőrségnek készen kell állnia a deportálásra. Az ítélet júliusban született, de hónapokkal később az érintett személy még mindig itt van, ami nem tekinthető hatékony végrehajtásnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a végrehajtás késedelméről szól, ami fontos kérdés, de nincs megerősített bizonyíték a konkrét esetre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:38.139171+00:00"
+    },
+    "record:2112988026267742457": {
+      "hu_text": "Azok a cégek, amelyek a migránsszállókat működtetik, biztonsági szolgáltatásokat is nyújtanak? YouTube-videók alapján úgy tűnik, hogy a migránsszállók biztonsági személyzetének egy része nemrég érkezett menedékkérő volt, akik elrejtik engedélyeiket és arcukat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás biztonsági aggályokat vet fel, de forrása nem ellenőrzött és részben spekulatív.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:38.139174+00:00"
+    },
+    "record:2112988212197245109": {
+      "hu_text": "Soha nem fogok olyan pártra szavazni, amely a szavazatok megszerzését a gyermekek elleni erőszak, gyilkosság és emberkereskedelem elé helyezi. A baloldal elvesztette a bizalmamat a gyártott migrációs válság alatt, és elegem van az önök hamis híreiből.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez politikai vélemény és társadalmi diskurzus, nem tényállítás, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:38.139178+00:00"
     }
   },
   "legacy_reviews": {}
