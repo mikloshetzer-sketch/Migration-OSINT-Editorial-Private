@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:53:52.266Z",
+  "updated_at": "2026-10-21T05:54:04.173Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -93,6 +93,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:53:51.884Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "information:20260",
+      "decision": "EXCLUDE",
+      "title": "@elonmusk @grok @grok does the USA numbers include the migrants that crossed the southern border over Joe Biden’s administration?",
+      "hungarian": "Az USA számadatai tartalmazzák-e a Joe Biden adminisztrációja alatt a déli határon átlépő migránsokat?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:54:03.802Z",
       "reviewed_day": "2026-10-21"
     }
   ]
