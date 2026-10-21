@@ -309,6 +309,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T09:04:32.476283+00:00"
+    },
+    "telegram:1604168769:12293": {
+      "hu_text": "A Primoreda bankot 1,6 millió rubel bírsággal sújtották, mert szolgáltatást nyújtott a felügyelet alatt álló személyek nyilvántartásában szereplő migránsoknak Vladivosztokban. A bank illegálisan nyitott számlákat üzbég és kirgiz állampolgároknak, és 50 ezer és 2 millió rubel közötti pénzügyi tranzakciókat hajtott végre.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét jogi intézkedésről számol be, de nincs független forrás vagy további bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:39.653674+00:00"
+    },
+    "telegram:1688600455:1167": {
+      "hu_text": "Miért kap vissza pénzt az üres palack vagy doboz visszaváltásakor? A bejegyzés elmagyarázza a visszaváltási rendszert és azt, hogyan lehet visszakapni a letétet az üres csomag visszajuttatásával. További információ és konzultációs lehetőség is elérhető.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációs eseményekhez vagy témákhoz, hanem egy általános visszaváltási rendszerről szól.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:39.653694+00:00"
+    },
+    "telegram:1983050450:24980": {
+      "hu_text": "Tula városában megkezdődött egy banda pere, amely több mint 800 migránsnak segített dokumentumok beszerzésében. Több mint 20 vádlott van, köztük volt rendőrök, például a kábítószer-kereskedelem ellenőrzéséért felelős volt vezető, valamint a Tula megyei belügyminisztérium helyettes vezetői.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsokkal kapcsolatos jogi eljárásról számol be, amely jelentős hatással lehet a migrációs helyzetre, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:39.653699+00:00"
     }
   },
   "legacy_reviews": {}
