@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:55:14.636Z",
+  "updated_at": "2026-10-21T05:55:35.409Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -171,6 +171,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:55:10.483Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "group:543",
+      "decision": "EXCLUDE",
+      "title": "DETENTION",
+      "hungarian": "COOPER BŰNÜGYI MÚLTJA KERESZTÜLTŰZ ALATT\n\n@WhatleyNC keményen bírálja Roy Cooper bűnügyi múltját, kiemelve DeCarlos Brown Jr.-t, mint az egyik legpusztítóbb példát.\n\nAzt állítja, hogy Brownt 13 alkalommal újra letartóztatták és szabadon engedték, mielőtt meggyilkolta a 21 éves ukrán menekültet, Iryna Zarutskát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:55:35.027Z",
       "reviewed_day": "2026-10-21"
     }
   ]
