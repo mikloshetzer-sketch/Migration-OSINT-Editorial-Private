@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:52:40.250Z",
+  "updated_at": "2026-10-21T05:53:01.115Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -41,6 +41,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:52:39.764Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112675136755339612",
+      "decision": "PUBLISH",
+      "title": "@FrostRaven73 @JoJoFromJerz I assume you vote for people who want the border open and have all the same social programs like France? Looks like its working grea",
+      "hungarian": "@FrostRaven73 @JoJoFromJerz Feltételezem, hogy olyan emberekre szavazol, akik nyitott határt akarnak és ugyanazokat a szociális programokat, mint Franciaország? Úgy tűnik, ott nagyszerűen működik. Te lennél az a fehér nő, aki ámulva áll a boltja előtt, ahol a szavazataival odahozott migránsok mindent elvittek tőle?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:53:00.716Z",
       "reviewed_day": "2026-10-21"
     }
   ]
