@@ -628,6 +628,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T14:49:02.688984+00:00"
+    },
+    "group:550": {
+      "hu_text": "@benonwine A migránsszállókat működtető cégek biztosítják a biztonságot is? YouTube-os videók alapján úgy tűnik, hogy néhány biztonsági személyzet a migránsszállókon nemrég érkezett menedékkérő volt. Láttam, hogy elrejtik az engedélyeiket és az arcukat is.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét, de nincs megerősített forrás vagy bizonyíték arra, hogy a migránsszállók biztonsági személyzete valóban menedékkérőkből állna, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:28.587735+00:00"
+    },
+    "group:551": {
+      "hu_text": "@StewGlobal @morris_canada Amint a Bevándorlási és Menekültügyi Testület elrendeli valaki kitoloncolását, a CBSA-nak készen kell állnia, hogy repülőre tegye. A döntés júliusban született, és hónapokkal később még mindig itt van, és a lehetőségeit mérlegeli. Ez nem végrehajtás. Ha a testület már döntött, hogy mennie kell, akkor...",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a kitoloncolási folyamat késlekedésére hívja fel a figyelmet, de nincs hivatalos adat vagy bizonyíték a késedelem okáról vagy mértékéről, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:28.587757+00:00"
+    },
+    "information:20516": {
+      "hu_text": "Az emberi civilizáció bolygószintű összekapcsolódása 2226-ra: genetikai keveredés, gazdasági integráció, kulturális evolúció és egy globális társadalom ellenállóképessége. Az elkövetkező két évszázadban az emberi civilizáció várhatóan sokkal összefonódottabbá válik, átalakítva a biológiai származás, nemzeti gazdaságok, kulturális identitások és politikai intézmények közötti kapcsolatokat. A technológiai fejlődés és politikai döntések alakítják majd a jövőt, amely nem egy előre meghatározott egységes bolygóvárosiasodás, hanem egy sokféle lehetőséget magában foglaló evolúciós folyamat lesz.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy jövőbeli előrejelzés és elméleti elemzés, nem konkrét tényállítás, így nem igényel azonnali ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:28.587763+00:00"
+    },
+    "information:20517": {
+      "hu_text": "A balti államok háborúra készülnek (The Atlantic, Isaac Stanley-Becker). Egy nyári estén Litvánia keleti részén, Bezdonys faluban egy lövészszázad érkezett egy ellenséges erők által elfoglalt vasútállomáshoz. A katonai gyakorlat célja annak megértése, hogyan nézne ki egy nagyobb támadás a NATO legsebezhetőbb részén, és hogyan gondolkodnak a balti államok saját védelmükről. A résztvevők civilek, akik most katonai feladatokat látnak el, például orvlövész rajtaütéseket hajtanak végre és hírszerzést továbbítanak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A leírás egy katonai gyakorlatot ismertet, amely nyilvános forrásokon alapulhat, de nincs közvetlen bizonyíték a konkrét eseményekről, ezért ellenőrzés javasolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:28.587767+00:00"
+    },
+    "information:20521": {
+      "hu_text": "@dubravkasuica Úgy vélem, közeledik az idő, amikor megnyitjuk a határainkat és millió menekültet engedünk Európába, miközben magadra hagyunk az oroszokkal való megküzdésben, és blokkolnunk kell a Fekete-tengert az európai hajók előtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és spekuláció, amely nem tartalmaz konkrét tényállítást, de a migrációval és geopolitikával kapcsolatos társadalmi diskurzus része, ezért ellenőrzés nem feltétlenül szükséges.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:28.587772+00:00"
+    },
+    "information:20531": {
+      "hu_text": "Nigéria Bevándorlási Szolgálata figyelmeztet az emberkereskedelemre és az utazási csalásokra, és azt mondja, hogy a határellenőrzések nem elegendőek az irreguláris migráció megfékezésére.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A nigériai bevándorlási hatóság hivatalos figyelmeztetését tartalmazza, amely fontos információ a határbiztonság és migráció szempontjából, de további megerősítés szükséges a részletek pontosításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T19:48:28.587776+00:00"
     }
   },
   "legacy_reviews": {}
