@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:54:04.173Z",
+  "updated_at": "2026-10-21T05:54:12.336Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -106,6 +106,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:54:03.802Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112672059063165411",
+      "decision": "EXCLUDE",
+      "title": "WATCH: A makeshift boat packed with 66 migrants is intercepted by the U.S. Coast Guard in the Caribbean, with aerial footage capturing the vessel as crews move ",
+      "hungarian": "FIGYELEM: Egy ideiglenes csónakot, amelyen 66 migráns tartózkodott, az Egyesült Államok Parti Őrsége megállított a Karib-térségben. Légi felvételek is készültek a hajóról, miközben a személyzet a fedélzeten lévőket segíti.\n\nA Parti Őrség szerint a hajót pénteken állították meg a Mona-szorosban, egy vízi útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:54:11.914Z",
       "reviewed_day": "2026-10-21"
     }
   ]
