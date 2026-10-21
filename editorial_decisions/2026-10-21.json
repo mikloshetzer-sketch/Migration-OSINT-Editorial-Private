@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:53:39.377Z",
+  "updated_at": "2026-10-21T05:53:52.266Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -80,6 +80,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:53:38.987Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112674162540171416",
+      "decision": "EXCLUDE",
+      "title": "@FoxNews 66 migrants on one makeshift boat in the Caribbean! 🚨 The Coast Guard had a serious situation to handle. Dangerous journeys at sea are no joke. 🌊🇺🇸",
+      "hungarian": "@FoxNews 66 migráns egy ideiglenes csónakon a Karib-térségben! 🚨 A Parti Őrség komoly helyzettel nézett szembe. A tengeri veszélyes utazások nem játék. 🌊🇺🇸",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:53:51.884Z",
       "reviewed_day": "2026-10-21"
     }
   ]
