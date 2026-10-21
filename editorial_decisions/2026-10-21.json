@@ -1,0 +1,21 @@
+{
+  "schema": "migration-osint-manual-editorial-overrides-v2",
+  "date": "2026-10-21",
+  "timezone": "Europe/Budapest",
+  "updated_at": "2026-10-21T05:51:24.829Z",
+  "overrides": [
+    {
+      "event_id": "telegram:1261826972:53688",
+      "decision": "PUBLISH",
+      "title": "◼ Incluye vídeo ▶ Los Rosales estalla: ruido, basura y malestar por la presencia de inmigrantes➡️ Los vecinos denuncian suciedad en el parque urbano, molestia",
+      "hungarian": "◼ Videóval ▶ Los Rosales felháborodott: zaj, szemét és rossz közérzet a migránsok jelenléte miatt\n\n➡️ A helyiek a városi park szennyezettségét, az éjszakai zavaró tényezőket és az alvás hiányát panaszolják\n\n➡️ Kérik a hatóságok beavatkozását\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/rosales-estalla-ruido-basura-malestar-presencia-inmigrantes/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "PERSON",
+      "note": "",
+      "updated_at": "2026-10-21T05:50:58.506Z",
+      "reviewed_day": "2026-10-21"
+    }
+  ]
+}
