@@ -474,6 +474,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T14:48:05.025808+00:00"
+    },
+    "record:2112911886744195338": {
+      "hu_text": "Miatta Fahnbulleh energiaügyi miniszter megerősítette, hogy a Jackdaw nevű helyszínen folytatják a hazai földgáztermelést. Fahnbulleh Liberiában született, és menekültként érkezett az Egyesült Királyságba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés politikai és társadalmi véleményt tartalmaz, de nem migrációs eseményről vagy intézkedésről szól. Az állítások ellenőrzése nem sürgős.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:16.458543+00:00"
+    },
+    "record:2112915188165095834": {
+      "hu_text": "Egy felhasználó kritikusan nyilatkozik a migránsokról és a francia vezetésről Macron előtt, negatív politikai véleményt fogalmaz meg a migrációval kapcsolatban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, nem tényállítás vagy migrációs esemény. Nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:16.458561+00:00"
+    },
+    "record:2112915913179557939": {
+      "hu_text": "Most: Több száz migráns vonul észak felé Dél-Mexikóban egy új karavánban, amely az Egyesült Államok határa felé tart. A szervezők állítólag egy még nagyobb karavánt terveznek november 9-re. Néhányan közülük már egyszer ki lettek utasítva az USA-ból.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális migrációs eseményről szóló jelentés, amely fontos a migrációs mozgások nyomon követése szempontjából. Nincs független megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:16.458565+00:00"
+    },
+    "record:mastodon_117478680654418341": {
+      "hu_text": "Costa Rica 177 971 menedékkérelem feldolgozásában késik; civil szervezetek akadályozottságot jelentenek a kiutasítottak támogatásában. Refugees International és a Global Strategic Litigation Council kutatása kockázatokat és hiányosságokat tár fel az Egyesült Államokból kiutasított személyek kezelésében, akik Costa Rica területén maradnak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos humanitárius és migrációs kezelési problémákat tárgyal, de nincs hivatalos adat vagy megerősítés. Ellenőrzés javasolt a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:16.458569+00:00"
+    },
+    "record:1261826972:53701": {
+      "hu_text": "🚩 Négy szubszaharai afrikait kiutasítottak Marokkóba egy verekedés után Loma Margaritában.\n\n➡️ A bevándorlókat szeptemberben tartóztatták le, miután közrendetlenséget okoztak abban a településen, amelyet a kormány nyitott meg a Trampolín bezárása után.\n\nhttps://elfarodeceuta.es/cuatro-subsaharianos-expulsados-marruecos-tangana-loma-margarita/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, amely a határbiztonsághoz kapcsolódik, de nincs független, megbízható forrásból származó megerősítés. A forrás közösségi média jellegű, ezért előzetesen nem ellenőrzöttnek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:37.135724+00:00"
+    },
+    "record:1261826972:53703": {
+      "hu_text": "Gyertyafény és mobiltelefon zseblámpák fényénél zajlanak két tárgyalás Ceutában. A szerdai áramszünet ellenére sem állt le az igazságszolgáltatás, két ítélet született olyan esetekben, amelyek bevándorlókat érintenek, akik a tömeges beáramlás során érkeztek, és kiutasításra kerülnek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét eseményről számol be, de nincs független forrásból származó megerősítés vagy részletes bizonyíték az állítások hitelességére. A tartalom releváns a migrációs események szempontjából, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:40.410531+00:00"
     }
   },
   "legacy_reviews": {}
