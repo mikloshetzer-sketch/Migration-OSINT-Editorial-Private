@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:54:52.195Z",
+  "updated_at": "2026-10-21T05:55:10.921Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -158,6 +158,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:54:50.051Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112663215503261923",
+      "decision": "EXCLUDE",
+      "title": "@XavierBecerra YOU talk with a crooked mouth and YOU are responsible for the labor and sex trafficking of thousands of young innocent migrant children you evil ",
+      "hungarian": "@XavierBecerra Te görbe szájjal beszélsz, és te vagy felelős több ezer fiatal, ártatlan migráns gyermek munka- és szexkereskedelméért, te gonosz, elviselhetetlen, sátáni démoni teremtmény! Távol maradj a gyermekeinktől! Az ártatlanok őrzője.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:55:10.483Z",
       "reviewed_day": "2026-10-21"
     }
   ]
