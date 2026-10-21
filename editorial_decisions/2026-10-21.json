@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:52:06.529Z",
+  "updated_at": "2026-10-21T05:52:40.250Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -28,6 +28,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:52:05.858Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112676471961420226",
+      "decision": "EXCLUDE",
+      "title": "COOPER’S CRIME RECORD UNDER FIRE@WhatleyNC unloads on Roy Cooper’s crime record, pointing to DeCarlos Brown Jr. as one of the most devastating examples.He s",
+      "hungarian": "COOPER BŰNÜGYI MÚLTJA KÉRDÉSEK KÖZÖTT\n\n@WhatleyNC bírálja Roy Cooper bűnügyi múltját, kiemelve DeCarlos Brown Jr.-t, mint az egyik legsúlyosabb példát.\n\nAzt állítja, hogy Brownt 13 alkalommal újra letartóztatták és szabadon engedték, mielőtt meggyilkolta a 21 éves ukrán menekült Iryna Zarutskát.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:52:39.764Z",
       "reviewed_day": "2026-10-21"
     }
   ]
