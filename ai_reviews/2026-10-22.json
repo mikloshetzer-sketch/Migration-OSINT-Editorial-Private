@@ -122,6 +122,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T22:56:28.584113+00:00"
+    },
+    "record:2113036291868664201": {
+      "hu_text": "Egy 8 évesen Szomália polgárháborújából menekült, és 12 évesen menekültként érkezett az Egyesült Államokba, Omar képviselő személyes felelősség nélkül élte át ezeket a körülményeket. Egyéni értékét nem határozza meg a születési ország történelme. Kongresszusi útja ezt bizonyítja.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés személyes véleményt és életút ismertetést tartalmaz, nem tényállítást migrációs eseményről vagy politikai intézkedésről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:54.489961+00:00"
+    },
+    "record:2113039779411505493": {
+      "hu_text": "Igen, a videó aktuális. Julio Rosas 2026. október 20-án rögzítette és tette közzé, amelyen több száz (főként közép-amerikai) migráns csoportja indul el a dél-mexikói Tapachula Parque Bicentenario területéről. Mexikói források függetlenül megerősítik a karavánt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális migrációs eseményről szól, több száz migráns indulásáról, ami fontos információ lehet a migrációs helyzet elemzéséhez. Az állítások még nem ellenőrzöttek független források által.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:54.489980+00:00"
+    },
+    "record:2113040391465279877": {
+      "hu_text": "• 15–16 hónapja egymás után nem engedtek el illegális bevándorlókat a határőrség (első teljes pénzügyi év nulla elengedéssel)\n• 2025-ben negatív nettó migráció (50 év után először); 2,3–3 millió illegális migráns hagyta el az országot\n• Délnyugati határőrizet 94–95%-kal csökkent",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés fontos statisztikai adatokat közöl a határbiztonságról és migrációs trendekről, amelyek jelentős hatással lehetnek a migrációs politikára és biztonságra. Az adatok ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:54.489985+00:00"
+    },
+    "record:reddit_1xc1ayu": {
+      "hu_text": "Az Egyesült Királyság segélyprogramja több mint 100 migránsszállítási kísérletet akadályozott meg a Nyugat-Balkánon keresztül.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs csempészés megakadályozásáról szól, ami releváns a migrációs facilitáció témakörében, de nincs további bizonyíték az állítás hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:54.489990+00:00"
+    },
+    "telegram:1261826972:53725": {
+      "hu_text": "Videókat is tartalmaz ▶️ Lemondást követelnek Robles minisztertől újabb bevándorlókkal szembeni erőszakos esetek miatt\n\nA Sumar párt helyettes szóvivője azt állítja, hogy a védelmi miniszter nem maradhat hivatalában egy percnél tovább az újabb, közösségi médiában terjedő videók miatt, amelyeket vizsgálni kell.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai követelést és társadalmi vitát tartalmaz migránsokkal szembeni erőszak ügyében, de az állítások még nem ellenőrzöttek, és a videók vizsgálata szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:54.489994+00:00"
     }
   },
   "legacy_reviews": {}
