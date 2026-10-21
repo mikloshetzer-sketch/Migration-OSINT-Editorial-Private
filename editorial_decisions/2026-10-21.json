@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:54:24.341Z",
+  "updated_at": "2026-10-21T05:54:39.021Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -132,6 +132,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:54:23.948Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112669600043147467",
+      "decision": "EXCLUDE",
+      "title": "@PeterSweden7 I’m not sure penniless newly arrived migrants without ID will care much. 🤷🏻‍♂️",
+      "hungarian": "@PeterSweden7 Nem vagyok biztos benne, hogy az iratok nélküli, pénztelen frissen érkezett migránsok nagyon törődnének ezzel.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:54:38.378Z",
       "reviewed_day": "2026-10-21"
     }
   ]
