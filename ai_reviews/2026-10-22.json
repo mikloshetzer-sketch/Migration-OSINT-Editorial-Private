@@ -67,6 +67,62 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T22:56:20.038186+00:00"
+    },
+    "information:20601": {
+      "hu_text": "Egy guatemalai embercsempészt 30 év börtönre ítéltek a 2022-es halálos migránscsempészeti összeesküvésben való szerepéért.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét bűnügyi esetről szól, de nincs további bizonyíték vagy hivatalos forrás a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:28.584084+00:00"
+    },
+    "information:20610": {
+      "hu_text": "Amikor egy nagy gumicsónak érkezett Gosport partjaihoz Hampshire-ben, és tiltakozás fogadta, az állami szervek gyorsan közbeléptek: a csónakot partra vezették, és a rendőrség kíséretében a migránsokat egy kent-i feldolgozó központba szállították, minden költséget vállalva.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét eseményt ír le, de nincs megerősített forrás vagy hivatalos jelentés, így ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:28.584100+00:00"
+    },
+    "record:2113027618576421249": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége elfogott egy 30 láb hosszú, ideiglenes hajót 70 tengeri mérföldre Puerto Rico partjaitól, amelyen 66 migráns utazott. A hajót egy HC-144 repülőgép észlelte, majd a Winslow Griesser nevű hajó avatkozott be, és 63 személyt fogtak el.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény részletes és konkrét, de nincs hivatalos forrás vagy további bizonyíték a bemenetben, ezért ellenőrizetlennek minősül, de fontos a határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:28.584106+00:00"
+    },
+    "record:2113034354247049320": {
+      "hu_text": "Egy videó, amelyet Julio Rosas készített és posztolt 2026. október 20-án, egy aktuális migránscsoportot mutat, amint elhagyják a dél-mexikói Tapachula környékét. Mexikói jelentések megerősítik, hogy több száz vagy ezer fős karavánok indultak el körülbelül ugyanebben az időben.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy migrációs mozgásról szól, amelyet videó és helyi jelentések is alátámasztanak, de nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:28.584109+00:00"
+    },
+    "record:2113034839574061123": {
+      "hu_text": "Az Iszlám Testvériség évtizedeken át szervezeteket épített ki azokban az országokban, amelyek még mindig nyitottnak vallják magukat. Ugyanazok a csoportok, amelyek menekültként érkeztek, most a korábbi szabályok visszaállítását követelik. Azok az országok, amelyek már betiltották a hálózatot, megmutatják, milyen az alternatíva.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai és társadalmi véleményt tartalmaz, amely nem bizonyított tény, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:28.584113+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
