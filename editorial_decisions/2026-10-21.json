@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:54:39.021Z",
+  "updated_at": "2026-10-21T05:54:50.431Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -145,6 +145,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:54:38.378Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "information:20296",
+      "decision": "EXCLUDE",
+      "title": "@elonmusk And those figures don’t include the hordes of migrants who have arrived in the last two years, and continue to arrive almost daily by dinghies across ",
+      "hungarian": "Az adatok nem tartalmazzák az elmúlt két évben érkezett migránsok tömegét, akik szinte naponta érkeznek csónakokon az angol csatornán át, illetve titokban repülővel éjszaka.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:54:50.051Z",
       "reviewed_day": "2026-10-21"
     }
   ]
