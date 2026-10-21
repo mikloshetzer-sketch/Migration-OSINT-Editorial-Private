@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T09:04:21.300462+00:00"
+    },
+    "record:2112827617543958678": {
+      "hu_text": "Körülbelül 36 000 és 38 000 közötti szabálytalan migráns érkezett az Egyesült Királyságba kis csónakos csatorna-átkeléseken Robert Jenrick bevándorlási államtitkári megbízatása alatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás számszerű adatokat tartalmaz, de nincs megerősített forrás vagy bizonyíték a pontos számokra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:32.476250+00:00"
+    },
+    "record:2112828884122996796": {
+      "hu_text": "FRISS HÍR: Egy újabb nagy migráns karaván indul éppen Mexikó déli határáról az Egyesült Államok elérése érdekében. A karaván tagjai főként közép-amerikaiak, akik reménykednek abban, hogy a Demokrata Párt nyeri a félidős választásokat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés egy aktuális migrációs mozgásról szól, de nincs független megerősítés a karaván méretéről vagy céljáról, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:32.476269+00:00"
+    },
+    "record:reddit_1xax1rv": {
+      "hu_text": "Az összehasonlítás, amely a George Floyd tüntetéseket a Franciaországban zajló eseményekkel hozza párhuzamba, mesterségesen lett kialakítva és terjesztve. A francia tiltakozások eredetileg egy középiskolai tanárok sztrájkjából indultak, ahol az oktatási források hiányára hívták fel a figyelmet, és a társadalmi egyenlőtlenségek problémájára mutatnak rá.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg részletes elemzést nyújt a társadalmi mozgalmakról és azok eredetéről, de a politikai összehasonlítások egy része vélemény, ezért részben ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:32.476274+00:00"
+    },
+    "record:reddit_1xb3ncq": {
+      "hu_text": "Eileen Chang kínai írónő életéről és Kínából való távozásáról szóló műsor kapcsán bemutatják a kínai „Runology” jelenséget, amely a kínaiak hazájuk elhagyására irányuló törekvéseit és az ehhez kapcsolódó tapasztalatokat tárgyalja. A „run” kifejezés a menekülést, elmenekülést jelenti a nehézségek elől.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés kulturális és történelmi háttérinformációkat tartalmaz, de nem állít konkrét tényeket migrációs eseményekről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:32.476277+00:00"
+    },
+    "telegram:1261826972:53692": {
+      "hu_text": "Három hír Ceutából: 1. Panaszok a kórházi kávézó bezárása miatt, ami gondot okoz a betegek gondozóinak. 2. Trump szerint Spanyolországot „megszállták” a bevándorlók, és nem tesznek semmit az ügyben, az egész Európát fenyegető migrációs válságot említi. 3. Ritka ráják szabadon engedése a Földközi-tengeren Ceutában, miközben tengeri teknősöket is kezelnek a szennyezés miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírek vegyes témájúak, köztük politikai vélemény és helyi események, de nincs független megerősítés, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:32.476280+00:00"
+    },
+    "telegram:1261826972:53694": {
+      "hu_text": "A kórház kizárta a diftéria toxint, és megerősítette, hogy egy baktérium okozta egy migráns halálát agyhártyagyulladásban. Az elemzések szerint a baktériumtörzsek nem termelnek diftéria toxint, és az eset nem igényel profilaxist vagy kontaktkutatást.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Orvosi vizsgálati eredményeket közöl, de nincs független forrás vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T09:04:32.476283+00:00"
     }
   },
   "legacy_reviews": {}
