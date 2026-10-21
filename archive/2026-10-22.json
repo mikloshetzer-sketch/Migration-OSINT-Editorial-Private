@@ -1,0 +1,956 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-22",
+  "live_events": [
+    {
+      "id": 687,
+      "event_id": 687,
+      "source": "X",
+      "source_post_id": "2113036291868664201",
+      "author": "grok",
+      "published_at": "2026-10-21T22:34:44Z",
+      "collected_at": "2026-10-21T22:55:51Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@FullwoodRon @mikesopinions80 @theintercept As a child who fled Somalia's civil war at age 8 and arrived in the US as a 12-year-old refugee, Rep. Omar experienced those conditions without personal responsibility for them. Individual worth is not determined by a birth country's history. Her path to Congress demonstrates",
+      "url": "https://x.com/grok/status/2113036291868664201",
+      "source_url": "https://x.com/grok/status/2113036291868664201"
+    },
+    {
+      "id": 688,
+      "event_id": 688,
+      "source": "X",
+      "source_post_id": "2113034839574061123",
+      "author": "oneiblind",
+      "published_at": "2026-10-21T22:28:58Z",
+      "collected_at": "2026-10-21T22:55:51Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "The Muslim Brotherhood has spent decades building organisations inside the countries that still call themselves open.\n\nThe same groups that arrived as refugees now press for the rules they left behind. The countries that already banned the network show what the alternative looks",
+      "url": "https://x.com/oneiblind/status/2113034839574061123",
+      "source_url": "https://x.com/oneiblind/status/2113034839574061123"
+    },
+    {
+      "id": 686,
+      "event_id": 686,
+      "source": "X",
+      "source_post_id": "2113024774792429998",
+      "author": "BeanieStephan63",
+      "published_at": "2026-10-21T21:48:59Z",
+      "collected_at": "2026-10-21T22:53:20Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@AlphaLiger @RepCasar I think every , Muslim , illegal alien  , refugee and asylum seeker should be deported  but this wasn’t a case like that he was sent back to Cuba by the Florida family court to his father , his mother kidnapped him &amp; was taking him to Florida when she fell off the boat &amp; drowned",
+      "url": "https://x.com/BeanieStephan63/status/2113024774792429998",
+      "source_url": "https://x.com/BeanieStephan63/status/2113024774792429998"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 553,
+      "group_id": 553,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "The Muslim Brotherhood has spent decades building organisations inside the countries that still call themselves open.\n\nThe same groups that arrived as refugees now press for the rules they left behind. The countries that already banned the network show what the alternative looks",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-21T22:28:58Z",
+      "last_seen": "2026-10-21T22:28:58Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-21T22:55:51Z",
+      "updated_at": "2026-10-21T22:55:51Z"
+    },
+    {
+      "id": 552,
+      "group_id": 552,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@AlphaLiger @RepCasar I think every , Muslim , illegal alien  , refugee and asylum seeker should be deported  but this wasn’t a case like that he was sent back to Cuba by the Florida family court to his father , his mother kidnapped him &amp; was taking him to Florida when she fell off the boat &amp; drowned",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-21T21:48:59Z",
+      "last_seen": "2026-10-21T21:48:59Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-21T22:53:20Z",
+      "updated_at": "2026-10-21T22:53:20Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1139,
+      "source": "X",
+      "source_post_id": "2113027618576421249",
+      "author": "UHN_Breaking",
+      "language": "en",
+      "published_at": "2026-10-21T22:00:17Z",
+      "first_detected_at": "2026-10-21T22:53:19Z",
+      "last_detected_at": "2026-10-21T22:53:19Z",
+      "detection_count": 1,
+      "text": "🇺🇸🇩🇴🇵🇷‼️ | The U.S. Coast Guard intercepted a 30-foot makeshift vessel 70 nautical miles off the coast of Puerto Rico, carrying 66 migrants. The vessel was detected by an HC-144 aircraft, leading to an intervention by the cutter Winslow Griesser. As a result, 63 individuals were https://t.co/L8foS4ZqqR",
+      "text_excerpt": "🇺🇸🇩🇴🇵🇷‼️ | The U.S. Coast Guard intercepted a 30-foot makeshift vessel 70 nautical miles off the coast of Puerto Rico, carrying 66 migrants. The vessel was detected by an HC-144 aircraft, leading to an intervention by the cutter Winslow Griesser. As a result, 63 individuals were https://t.co/L8foS4ZqqR",
+      "url": "https://x.com/UHN_Breaking/status/2113027618576421249",
+      "source_url": "https://x.com/UHN_Breaking/status/2113027618576421249",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1138,
+      "source": "X",
+      "source_post_id": "2113040391465279877",
+      "author": "careytruth",
+      "language": "en",
+      "published_at": "2026-10-21T22:51:02Z",
+      "first_detected_at": "2026-10-21T22:52:52Z",
+      "last_detected_at": "2026-10-21T22:52:52Z",
+      "detection_count": 1,
+      "text": "@bjames669208 @VigilantFox •  Zero Border Patrol releases of illegal aliens for 15–16+ consecutive months (first full fiscal year with zero releases)\n•  Negative net migration in 2025 (first time in 50 years); 2.3–3+ million illegal migrants left the country\n•  Southwest border apprehensions down 94–95%",
+      "text_excerpt": "@bjames669208 @VigilantFox •  Zero Border Patrol releases of illegal aliens for 15–16+ consecutive months (first full fiscal year with zero releases)\n•  Negative net migration in 2025 (first time in 50 years); 2.3–3+ million illegal migrants left the country\n•  Southwest border apprehensions down 94–95%",
+      "url": "https://x.com/careytruth/status/2113040391465279877",
+      "source_url": "https://x.com/careytruth/status/2113040391465279877",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1140,
+      "source": "X",
+      "source_post_id": "2113039779411505493",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-21T22:48:36Z",
+      "first_detected_at": "2026-10-21T22:55:50Z",
+      "last_detected_at": "2026-10-21T22:55:50Z",
+      "detection_count": 1,
+      "text": "@NickTheGreek198 @Julio_Rosas11 Yes, the video is current. Julio Rosas filmed and posted it on October 20, 2026, showing a migrant group of several hundred (mostly Central Americans) departing Parque Bicentenario in Tapachula, southern Mexico, that afternoon. Mexican outlets independently confirm the caravan,",
+      "text_excerpt": "@NickTheGreek198 @Julio_Rosas11 Yes, the video is current. Julio Rosas filmed and posted it on October 20, 2026, showing a migrant group of several hundred (mostly Central Americans) departing Parque Bicentenario in Tapachula, southern Mexico, that afternoon. Mexican outlets independently confirm the caravan,",
+      "url": "https://x.com/grok/status/2113039779411505493",
+      "source_url": "https://x.com/grok/status/2113039779411505493",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant group of several hundred (mostly Central Americans) departing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant group of several hundred (mostly Central Americans) departing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1141,
+      "source": "X",
+      "source_post_id": "2113034354247049320",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-21T22:27:02Z",
+      "first_detected_at": "2026-10-21T22:55:51Z",
+      "last_detected_at": "2026-10-21T22:55:51Z",
+      "detection_count": 1,
+      "text": "@LottaFagina @Julio_Rosas11 The video was filmed and posted by Julio Rosas on October 20, 2026 (about 24 hours before your reply). It shows a current migrant group leaving the Tapachula area in southern Mexico. Mexican reports confirm caravans of hundreds to thousands departed around the same time. It is",
+      "text_excerpt": "@LottaFagina @Julio_Rosas11 The video was filmed and posted by Julio Rosas on October 20, 2026 (about 24 hours before your reply). It shows a current migrant group leaving the Tapachula area in southern Mexico. Mexican reports confirm caravans of hundreds to thousands departed around the same time. It is",
+      "url": "https://x.com/grok/status/2113034354247049320",
+      "source_url": "https://x.com/grok/status/2113034354247049320",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant group leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant group leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1137,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xc1ayu",
+      "author": "irichss03",
+      "language": null,
+      "published_at": "2026-10-21T22:20:43Z",
+      "first_detected_at": "2026-10-21T22:52:28Z",
+      "last_detected_at": "2026-10-21T22:52:28Z",
+      "detection_count": 1,
+      "text": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans",
+      "text_excerpt": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans",
+      "url": "https://www.reddit.com/r/uknews/comments/1xc1ayu/uk_aid_stops_over_100_attempts_to_smuggle/",
+      "source_url": "https://www.reddit.com/r/uknews/comments/1xc1ayu/uk_aid_stops_over_100_attempts_to_smuggle/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggle migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggle migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_BALKANS",
+      "primary_region": "WESTERN_BALKANS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1139,
+      "source": "X",
+      "source_post_id": "2113027618576421249",
+      "author": "UHN_Breaking",
+      "language": "en",
+      "published_at": "2026-10-21T22:00:17Z",
+      "first_detected_at": "2026-10-21T22:53:19Z",
+      "last_detected_at": "2026-10-21T22:53:19Z",
+      "detection_count": 1,
+      "text": "🇺🇸🇩🇴🇵🇷‼️ | The U.S. Coast Guard intercepted a 30-foot makeshift vessel 70 nautical miles off the coast of Puerto Rico, carrying 66 migrants. The vessel was detected by an HC-144 aircraft, leading to an intervention by the cutter Winslow Griesser. As a result, 63 individuals were https://t.co/L8foS4ZqqR",
+      "text_excerpt": "🇺🇸🇩🇴🇵🇷‼️ | The U.S. Coast Guard intercepted a 30-foot makeshift vessel 70 nautical miles off the coast of Puerto Rico, carrying 66 migrants. The vessel was detected by an HC-144 aircraft, leading to an intervention by the cutter Winslow Griesser. As a result, 63 individuals were https://t.co/L8foS4ZqqR",
+      "url": "https://x.com/UHN_Breaking/status/2113027618576421249",
+      "source_url": "https://x.com/UHN_Breaking/status/2113027618576421249",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1138,
+      "source": "X",
+      "source_post_id": "2113040391465279877",
+      "author": "careytruth",
+      "language": "en",
+      "published_at": "2026-10-21T22:51:02Z",
+      "first_detected_at": "2026-10-21T22:52:52Z",
+      "last_detected_at": "2026-10-21T22:52:52Z",
+      "detection_count": 1,
+      "text": "@bjames669208 @VigilantFox •  Zero Border Patrol releases of illegal aliens for 15–16+ consecutive months (first full fiscal year with zero releases)\n•  Negative net migration in 2025 (first time in 50 years); 2.3–3+ million illegal migrants left the country\n•  Southwest border apprehensions down 94–95%",
+      "text_excerpt": "@bjames669208 @VigilantFox •  Zero Border Patrol releases of illegal aliens for 15–16+ consecutive months (first full fiscal year with zero releases)\n•  Negative net migration in 2025 (first time in 50 years); 2.3–3+ million illegal migrants left the country\n•  Southwest border apprehensions down 94–95%",
+      "url": "https://x.com/careytruth/status/2113040391465279877",
+      "source_url": "https://x.com/careytruth/status/2113040391465279877",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1140,
+      "source": "X",
+      "source_post_id": "2113039779411505493",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-21T22:48:36Z",
+      "first_detected_at": "2026-10-21T22:55:50Z",
+      "last_detected_at": "2026-10-21T22:55:50Z",
+      "detection_count": 1,
+      "text": "@NickTheGreek198 @Julio_Rosas11 Yes, the video is current. Julio Rosas filmed and posted it on October 20, 2026, showing a migrant group of several hundred (mostly Central Americans) departing Parque Bicentenario in Tapachula, southern Mexico, that afternoon. Mexican outlets independently confirm the caravan,",
+      "text_excerpt": "@NickTheGreek198 @Julio_Rosas11 Yes, the video is current. Julio Rosas filmed and posted it on October 20, 2026, showing a migrant group of several hundred (mostly Central Americans) departing Parque Bicentenario in Tapachula, southern Mexico, that afternoon. Mexican outlets independently confirm the caravan,",
+      "url": "https://x.com/grok/status/2113039779411505493",
+      "source_url": "https://x.com/grok/status/2113039779411505493",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant group of several hundred (mostly Central Americans) departing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant group of several hundred (mostly Central Americans) departing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1141,
+      "source": "X",
+      "source_post_id": "2113034354247049320",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-21T22:27:02Z",
+      "first_detected_at": "2026-10-21T22:55:51Z",
+      "last_detected_at": "2026-10-21T22:55:51Z",
+      "detection_count": 1,
+      "text": "@LottaFagina @Julio_Rosas11 The video was filmed and posted by Julio Rosas on October 20, 2026 (about 24 hours before your reply). It shows a current migrant group leaving the Tapachula area in southern Mexico. Mexican reports confirm caravans of hundreds to thousands departed around the same time. It is",
+      "text_excerpt": "@LottaFagina @Julio_Rosas11 The video was filmed and posted by Julio Rosas on October 20, 2026 (about 24 hours before your reply). It shows a current migrant group leaving the Tapachula area in southern Mexico. Mexican reports confirm caravans of hundreds to thousands departed around the same time. It is",
+      "url": "https://x.com/grok/status/2113034354247049320",
+      "source_url": "https://x.com/grok/status/2113034354247049320",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant group leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant group leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1137,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xc1ayu",
+      "author": "irichss03",
+      "language": null,
+      "published_at": "2026-10-21T22:20:43Z",
+      "first_detected_at": "2026-10-21T22:52:28Z",
+      "last_detected_at": "2026-10-21T22:52:28Z",
+      "detection_count": 1,
+      "text": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans",
+      "text_excerpt": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans",
+      "url": "https://www.reddit.com/r/uknews/comments/1xc1ayu/uk_aid_stops_over_100_attempts_to_smuggle/",
+      "source_url": "https://www.reddit.com/r/uknews/comments/1xc1ayu/uk_aid_stops_over_100_attempts_to_smuggle/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggle migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggle migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_BALKANS",
+      "primary_region": "WESTERN_BALKANS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:20582",
+      "timestamp": "2026-10-21T22:45:19Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113038952890564670",
+      "author": "jonminney24",
+      "url": "https://x.com/jonminney24/status/2113038952890564670",
+      "source_url": "https://x.com/jonminney24/status/2113038952890564670",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "Britain’s Border Force commander has warned that 4,000 migrants are massing in camps on the French coast as part of preparations to cross the English Channel.\nhttps://t.co/m1C5oxCRkm https://t.co/lk7lN4dXcd",
+      "text_excerpt": "Britain’s Border Force commander has warned that 4,000 migrants are massing in camps on the French coast as part of preparations to cross the English Channel.\nhttps://t.co/m1C5oxCRkm https://t.co/lk7lN4dXcd",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-21T22:52:53Z",
+      "last_collected_at": "2026-10-21T22:52:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20610",
+      "timestamp": "2026-10-21T22:44:53Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113038843850932495",
+      "author": "michael_hal",
+      "url": "https://x.com/michael_hal/status/2113038843850932495",
+      "source_url": "https://x.com/michael_hal/status/2113038843850932495",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@Cath_on_X Yet when a super dinghy arrived off the coast of Gosport in Hampshire and was met by a protest the levers of state sprung into action. The dinghy was guided to shore and a police escort transported the illegal migrants to a processing centre in Kent. No expense spared.",
+      "text_excerpt": "@Cath_on_X Yet when a super dinghy arrived off the coast of Gosport in Hampshire and was met by a protest the levers of state sprung into action. The dinghy was guided to shore and a police escort transported the illegal migrants to a processing centre in Kent. No expense spared.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-21T22:55:50Z",
+      "last_collected_at": "2026-10-21T22:55:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20585",
+      "timestamp": "2026-10-21T22:43:23Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113038466292351238",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2113038466292351238",
+      "source_url": "https://x.com/grok/status/2113038466292351238",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@BFCboys @AlexWilsonAM @SadiqKhan Nabil Al-Kinani is publicly described as an Iraqi refugee who arrived in the UK in 1998. He was raised on the Chalkhill Estate in Wembley, northwest London, and later studied at Queen Mary University. No further public details exist on his exact entry route or asylum process.",
+      "text_excerpt": "@BFCboys @AlexWilsonAM @SadiqKhan Nabil Al-Kinani is publicly described as an Iraqi refugee who arrived in the UK in 1998. He was raised on the Chalkhill Estate in Wembley, northwest London, and later studied at Queen Mary University. No further public details exist on his exact entry route or asylum process.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-21T22:52:53Z",
+      "last_collected_at": "2026-10-21T22:52:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20586",
+      "timestamp": "2026-10-21T22:43:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113038385325412659",
+      "author": "nounoune83",
+      "url": "https://x.com/nounoune83/status/2113038385325412659",
+      "source_url": "https://x.com/nounoune83/status/2113038385325412659",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@FelekeMich1915 Supply hubs in Ethiopia provide shelter, protection, and staging grounds for combat drones that bombard refugee camps along the Sudanese border.",
+      "text_excerpt": "@FelekeMich1915 Supply hubs in Ethiopia provide shelter, protection, and staging grounds for combat drones that bombard refugee camps along the Sudanese border.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-21T22:52:53Z",
+      "last_collected_at": "2026-10-21T22:52:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20600",
+      "timestamp": "2026-10-21T22:42:16Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113038185471090957",
+      "author": "yswaters",
+      "url": "https://x.com/yswaters/status/2113038185471090957",
+      "source_url": "https://x.com/yswaters/status/2113038185471090957",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "This is a good reminder of what we’d be contending with, if not for President Trump — unchecked and unvetted migrants pouring across our wide open border, skyrocketing crime, murders, cartels and drugs, human trafficking, rampant election fraud…\n\n.@TheDemocrats WILL bring the https://t.co/QCrSvcq5Xu",
+      "text_excerpt": "This is a good reminder of what we’d be contending with, if not for President Trump — unchecked and unvetted migrants pouring across our wide open border, skyrocketing crime, murders, cartels and drugs, human trafficking, rampant election fraud…\n\n.@TheDemocrats WILL bring the https://t.co/QCrSvcq5Xu",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-21T22:53:59Z",
+      "last_collected_at": "2026-10-21T22:53:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20601",
+      "timestamp": "2026-10-21T22:37:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113036953218392262",
+      "author": "JaeLee14890830",
+      "url": "https://x.com/JaeLee14890830/status/2113036953218392262",
+      "source_url": "https://x.com/JaeLee14890830/status/2113036953218392262",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Guatemalan Human Trafficker Gets 30 Years for Role in 2022 Deadly Migrant-Smuggling Conspiracy https://t.co/9187ldkXJV via @BreitbartNews",
+      "text_excerpt": "Guatemalan Human Trafficker Gets 30 Years for Role in 2022 Deadly Migrant-Smuggling Conspiracy https://t.co/9187ldkXJV via @BreitbartNews",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-21T22:54:00Z",
+      "last_collected_at": "2026-10-21T22:54:00Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-10-21T22:56:00.356600+00:00"
+}
