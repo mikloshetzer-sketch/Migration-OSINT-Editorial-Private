@@ -342,6 +342,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T09:04:39.653699+00:00"
+    },
+    "group:548": {
+      "hu_text": "@ParisAMDParis Mielőtt a hálátlan terroristavándorlók megérkeztek volna és Macron nem volt még francia vezető. 🤬🤬🤬 Laza liberális vezetők.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és szubjektív állítás, nincs tényalapú információ vagy bizonyíték a szövegben.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:47:45.391701+00:00"
+    },
+    "group:549": {
+      "hu_text": "Az energiaügyi miniszter, Miatta Fahnbulleh megerősítette, hogy a Jackdaw nevű helyen folytatódik a hazai gázkitermelés. Miatta Fahnbulleh liberiai születésű menekültként érkezett az Egyesült Királyságba.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ténymegállapításokat tartalmaz, de nincs hivatalos forrás vagy további bizonyíték a szövegben, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:47:45.391721+00:00"
+    },
+    "information:20446": {
+      "hu_text": "A Pentagon engedélyt adott a Belbiztonsági Minisztériumnak, hogy tesztelje a katonai szintű hősugárzó fegyvert a déli amerikai határon való esetleges alkalmazásra. Az Active Denial System nevű nem halálos fegyver elektromágneses hullámokat bocsát ki, amelyek égő érzést keltenek a bőrön, és ösztönösen menekülésre késztetik az érintettet. Ez a lépés példa nélküli lenne az amerikai határvédelemben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hírt egy hivatalos dokumentumra hivatkozva ismertetik, de a forrás nem teljesen ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:47:45.391727+00:00"
+    },
+    "information:20447": {
+      "hu_text": "Határbiztonsági parancsnok figyelmeztet, hogy közel 4000 migráns vár arra, hogy átlépjenek Nagy-Britanniába, ami a szokásos mennyiség duplája.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági információ, de nincs megadva forrás vagy további bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:47:45.391730+00:00"
+    },
+    "information:20448": {
+      "hu_text": "1961-ben Rosa Maria egy bőrönddel és egy angol nyelvű könyvvel érkezett Ausztráliába, zsebében apja toszkán farmjáról származó paradicsommagokkal. Hatvan évvel később ezek a magok a Whittlesea közösségi kertben tanítják a gyerekeket a hovatartozás jelentésére. Az ausztráliai bevándorlók számára az ilyen tárgyak érzelmi kötődést jelentenek a szülőföldhöz, amely nem szűnik meg a távolsággal, hanem tovább él és vágyódást kelt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Irodalmi jellegű, személyes történet, amely migrációs érzelmi kötődést mutat be, de nem tényállítás vagy aktuális esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:47:45.391733+00:00"
+    },
+    "group:547": {
+      "hu_text": "Gyertyafény és mobiltelefon zseblámpák fényénél zajlanak két tárgyalás Ceutában. A szerdai áramszünet ellenére sem állt le az igazságszolgáltatás, két ítélet született olyan esetekben, amelyek bevándorlókat érintettek, akik tömegesen érkeztek, és akiket kiutasítanak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi eseményről számol be, amely bevándorlókat érint, de nincs megerősített forrás vagy további bizonyíték az állítások hitelességére. Ezért az ellenőrzöttségi státusz UNVERIFIED. A téma közepes prioritású, mert migrációs eseményről van szó, amely emberi jogi és jogi vonatkozású lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:47:51.320416+00:00"
     }
   },
   "legacy_reviews": {}
