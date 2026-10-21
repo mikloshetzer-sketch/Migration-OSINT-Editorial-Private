@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:53:01.115Z",
+  "updated_at": "2026-10-21T05:53:21.375Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -54,6 +54,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-21T05:53:00.716Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112674602006773850",
+      "decision": "PUBLISH",
+      "title": "🇺🇸🇩🇴 USCG repatriated 63 migrants to the Dominican Republic after cutter Winslow Griesser intercepted an overloaded 30 foot boat carrying 66 people 70 nauti",
+      "hungarian": "Az Egyesült Államok Parti Őrsége 63 migránst visszatelepített a Dominikai Köztársaságba, miután a Winslow Griesser nevű hajójuk megállított egy túlterhelt, 30 láb hosszú csónakot, amely 66 embert szállított 70 tengeri mérföldre északnyugatra Aguadillától, Puerto Ricótól. Hárman szövetségi őrizetben maradtak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-21T05:53:20.940Z",
       "reviewed_day": "2026-10-21"
     }
   ]
