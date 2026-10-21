@@ -408,6 +408,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T14:47:51.320416+00:00"
+    },
+    "information:20452": {
+      "hu_text": "Érdekesség: Izrael 1977 és 1979 között befogadott 500 vietnami menekültet, akiket más országok elutasítottak. Ez egy 66 fős hajóval kezdődött, amelyet egy izraeli teherhajó mentett ki a Dél-kínai-tengeren.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás történelmi ténynek tűnik, de nincs közvetlen bizonyíték a forrásban, ezért ellenőrizendő. Fontos humanitárius vonatkozású információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:05.025774+00:00"
+    },
+    "information:20455": {
+      "hu_text": "A svéd diplomata Bernadotte gróf volt (nem nagykövet), akit 1948-ban a Lehi szervezet gyilkolt meg, ami dokumentált történelmi tény. Bernadotte svéd nemes és Vöröskereszt vezető volt, aki több tízezer, köztük zsidó foglyot mentett meg a náci táborokból a Fehér Buszok akcióval.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A történelmi esemény jól dokumentált és széles körben elfogadott tény, ezért ellenőrzött státusz adható.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:05.025794+00:00"
+    },
+    "information:20456": {
+      "hu_text": "Figyelmeztetés a tömeges halálesetekre az Egyesült Királyságba tartó migráns hajóátkelések kapcsán.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A figyelmeztetés fontos migrációs eseményre utal, de nincs részletes bizonyíték vagy forrás, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:05.025798+00:00"
+    },
+    "information:20463": {
+      "hu_text": "Az emberkereskedelem esetében gyakoriak az erőszakos cselekmények, több migránscsoport érkezéséről Európába számoltak be, ahol a nők elleni nemi erőszak is előfordult, ami a férfiak nőkhöz való hozzáállásával magyarázható.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos társadalmi problémára utal, de nem megerősített tényeken alapul, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:05.025801+00:00"
+    },
+    "information:20464": {
+      "hu_text": "Az #UNTOC2026 konferencián felszólítottam minden résztvevőt, hogy támogassák az EU által vezetett Globális Szövetséget a Migránscsempészet Elleni Küzdelemben. A partnerekkel és az ENSZ Kábítószer- és Bűnügyi Hivatalával való jó együttműködésnek köszönhetően az elmúlt két évben jelentősen csökkent az EU-ba érkező irreguláris migránsok száma.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos együttműködésről és csökkenő migrációs számokról szól, de nincs közvetlen bizonyíték, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:05.025805+00:00"
+    },
+    "information:20465": {
+      "hu_text": "Trump elnök véget vetett a határinvaiziónak. A Fehér Ház adatai szerint az illegális bevándorlók száma legalább 2,3 millióval csökkent (a legnagyobb modernkori csökkenés), 1,2 millió embert kitoloncoltak, 1,3 milliót letartóztattak, és az első negatív nettó migráció 50 év után 95%-os arányban valósult meg.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás jelentős migrációs és határbiztonsági adatokat közöl, de nincs független forrás vagy bizonyíték, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T14:48:05.025808+00:00"
     }
   },
   "legacy_reviews": {}
