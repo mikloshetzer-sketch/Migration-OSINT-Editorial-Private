@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-21T05:51:24.829Z",
+  "updated_at": "2026-10-21T05:52:06.529Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -15,6 +15,19 @@
       "source_kind": "PERSON",
       "note": "",
       "updated_at": "2026-10-21T05:50:58.506Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:2112729794223788036",
+      "decision": "EXCLUDE",
+      "title": "Twelve migrants drowned off Greece's Lesbos and Samos islands on Monday after their boats capsized — one boat colliding with a coast guard vessel. Among the dea",
+      "hungarian": "Hétfőn tizenkét migráns fulladt a görögországi Leszbosz és Számosz szigeteknél, miután csónakjaik felborultak — az egyik csónak egy parti őrségi hajóval ütközött. A halottak között két nő és egy csecsemő volt; két feltételezett embercsempészt letartóztattak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-21T05:52:05.858Z",
       "reviewed_day": "2026-10-21"
     }
   ]
