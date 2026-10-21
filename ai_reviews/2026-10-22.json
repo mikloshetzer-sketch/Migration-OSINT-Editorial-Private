@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-22",
+  "reviews": {
+    "group:552": {
+      "hu_text": "@AlphaLiger @RepCasar Szerintem minden muszlim, illegális bevándorló, menekült és menedékkérő kitoloncolandó, de ez az eset nem ilyen volt: egy floridai család bíróság küldte vissza Kubába az apjához, mert az anyja elrabolta és Floridába vitte volna, amikor leesett a hajóról és megfulladt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét esetről szól, de nincs megbízható forrás vagy bizonyíték a történet igazolására, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:20.038148+00:00"
+    },
+    "group:553": {
+      "hu_text": "Az Iszlám Testvériség évtizedek óta szervezeteket épít azokban az országokban, amelyek még mindig nyitottnak vallják magukat. Ugyanazok a csoportok, amelyek menekültként érkeztek, most a korábbi szabályok visszaállítását követelik. Azok az országok, amelyek már betiltották a hálózatot, megmutatják, milyen az alternatíva.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és általános állítások szerepelnek, amelyek nem bizonyítottak, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:20.038168+00:00"
+    },
+    "information:20582": {
+      "hu_text": "Britannia Határőrségének parancsnoka figyelmeztetett, hogy 4000 migráns gyülekezik táborokban a francia partoknál, készülve az angol csatorna átlépésére.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági információ, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:20.038174+00:00"
+    },
+    "information:20585": {
+      "hu_text": "Nabil Al-Kinani-t nyilvánosan iraki menekültként írják le, aki 1998-ban érkezett az Egyesült Királyságba. Wembleyben nőtt fel, és később a Queen Mary Egyetemen tanult. Pontos belépési útvonaláról vagy menedékjogi folyamatáról nincs további nyilvános információ.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Tényközlő információ, de részleges és nem teljesen ellenőrzött, ezért ellenőrizetlen státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:20.038178+00:00"
+    },
+    "information:20586": {
+      "hu_text": "Etiópiában ellátó központok biztosítanak menedéket, védelmet és kiindulópontot harci drónok számára, amelyek menekülttáborokat bombáznak a szudáni határ mentén.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius és biztonsági információ, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:20.038182+00:00"
+    },
+    "information:20600": {
+      "hu_text": "Ez jó emlékeztető arra, hogy mivel nem Trump elnök van hatalmon, ellenőrizetlen és nem ellenőrzött migránsok özönlenének át a nyitott határon, növekvő bűnözéssel, gyilkosságokkal, kartellekkel, drogokkal, emberkereskedelemmel és választási csalásokkal. A demokraták ezt fogják hozni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és előrejelzés, amely nem bizonyított, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T22:56:20.038186+00:00"
+    }
+  }
+}
