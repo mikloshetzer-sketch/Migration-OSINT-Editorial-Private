@@ -166,6 +166,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-20T22:50:24.249400+00:00"
+    },
+    "record:2112729794223788036": {
+      "hu_text": "Hétfőn tizenkét migráns fulladt a görögországi Leszbosz és Számosz szigeteknél, miután csónakjaik felborultak — az egyik csónak egy parti őrségi hajóval ütközött. A halottak között két nő és egy csecsemő volt; két feltételezett embercsempészt letartóztattak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos migrációs eseményről számol be, amely emberéleteket követelt, és embercsempészek letartóztatásáról szól. Az állítások nem ellenőrzöttek, de a téma jelentősége miatt magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-21T02:19:05.833613+00:00"
     }
   },
   "legacy_reviews": {}
