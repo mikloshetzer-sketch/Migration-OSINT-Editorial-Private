@@ -1,0 +1,73 @@
+{
+  "schema": "migration-osint-manual-editorial-overrides-v2",
+  "date": "2026-10-22",
+  "timezone": "Europe/Budapest",
+  "updated_at": "2026-10-22T07:27:28.895Z",
+  "overrides": [
+    {
+      "event_id": "telegram:1604168769:12308",
+      "decision": "PUBLISH",
+      "title": "Хорижий фуқароларни тестдан ўтказиш маркази ходимлари имтиҳон натижаларини сохталаштиришда айбланмоқдаМосква суди РУДН қошидаги чет элликларни тестдан ўтказиш",
+      "hungarian": "Moszkvai bíróság büntetőeljárást indított a RUDN Egyetemhez tartozó külföldiek tesztelési központjának vezetői és dolgozói ellen, akik 2021 és 2024 között mintegy 500 migránsnak segítettek hamis úton szerezni munkavállalási engedélyt és állampolgársági igazolásokat.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "MEDIA",
+      "note": "",
+      "updated_at": "2026-10-22T07:25:38.882Z",
+      "reviewed_day": "2026-10-22"
+    },
+    {
+      "event_id": "telegram:1261826972:53725",
+      "decision": "PUBLISH",
+      "title": "🚩 Incluye vídeos ▶️ Piden la dimisión de la ministra Robles tras nuevas denuncias de agresiones a inmigrantes➡️ El portavoz adjunto de Sumar denuncia que la ",
+      "hungarian": "Videókat is tartalmaz ▶️ Lemondást követelnek Robles minisztertől újabb bevándorlókkal szembeni erőszakos esetek miatt\n\nA Sumar párt helyettes szóvivője azt állítja, hogy a védelmi miniszter nem maradhat hivatalában egy percnél tovább az újabb, közösségi médiában terjedő videók miatt, amelyeket vizsgálni kell.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-22T07:26:10.507Z",
+      "reviewed_day": "2026-10-22"
+    },
+    {
+      "event_id": "record:reddit_1xc47uz",
+      "decision": "PUBLISH",
+      "title": "Human Smuggler With Bombs BustedThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on Octob",
+      "hungarian": "Embercsempészt fogtak el bombákkal és migránsokkal egy gyorshajón Dél-Texasban. Az eset 2026. október 6-án történt a Flour Bluff-i hajóleeresztőnél, a Corpus Christi Haditengerészeti Repülőbázis közelében, ahol az Egyesült Államok Vám- és Határvédelmi Repülőgépei és megfigyelő drónjai is állomásoznak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-22T07:26:37.883Z",
+      "reviewed_day": "2026-10-22"
+    },
+    {
+      "event_id": "record:reddit_1xc44je",
+      "decision": "EXCLUDE",
+      "title": "Top 20 International Breaking News — October 21, 2026- Russia freed imprisoned US teacher Stephen Hubbard, 74, after a personal plea from Trump during Witkoff'",
+      "hungarian": "2026. október 21-i nemzetközi hírek: Oroszország szabadon engedte Stephen Hubbard amerikai tanárt Trump személyes kérésére; Alberta 76-77%-kal maradásra szavazott Kanadában; Franciaország és Olaszország katonákat vezényel a tüntetések miatt; Burkina Faso visszaállította a halálbüntetést terrorizmusért; a Trump-kormány több mint 300 000 vízumot vont vissza; a Fehér Ház szerint 3 millió migráns hagyta el az USA-t Trump alatt, a határátlépések 95%-kal csökkentek Bidenhez képest; a DHS meghosszabbította a deportációs védelmet 105 000 szudáni és ukrán bevándorlónak; Ukrajna különleges erői orosz katonákat öltek és fogtak el; Kína nyílt forráskódú AI keretrendszert adott ki; TSMC leállította egy gyár építését; az APEC pénzügyminiszterei megállapodtak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-22T07:26:48.555Z",
+      "reviewed_day": "2026-10-22"
+    },
+    {
+      "event_id": "record:reddit_1xc1ayu",
+      "decision": "PUBLISH",
+      "title": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans",
+      "hungarian": "Az Egyesült Királyság segélyprogramja több mint 100 migránsszállítási kísérletet akadályozott meg a Nyugat-Balkánon keresztül.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-22T07:27:13.682Z",
+      "reviewed_day": "2026-10-22"
+    }
+  ]
+}
