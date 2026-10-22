@@ -595,6 +595,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T09:02:51.455416+00:00"
+    },
+    "telegram:1261826972:53727": {
+      "hu_text": "A Guardia Civil átvizsgált egy raktárépületet, amelyet egy civil szervezet használt, és bevándorlókat találtak ott. Az intézmény még nem közölte, hogy van-e kapcsolat a szervezet és a Ceutában végrehajtott razziák között. Több civil szervezeti tagot is előállítottak a Tarajalban végzett átvizsgálás során.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét eseményt ír le, de nincs megerősített hivatalos forrás vagy további bizonyíték a kapcsolat igazolására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:57.986080+00:00"
+    },
+    "telegram:1261826972:53730": {
+      "hu_text": "A Guardia Civil művelete egy civil szervezetek részvételére összpontosít a biztonsági erők elleni támadásokban. Két helyszínen tartottak házkutatást Ceutában, ahol ezek a szervezetek működnek. A legnagyobb művelet a Tarajalban zajlott, ahol bevándorlókat és aktivistákat is elszállítottak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét műveletről szólnak, de nincs hivatalos megerősítés vagy részletes bizonyíték, így ellenőrizetlennek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:57.986098+00:00"
+    },
+    "telegram:1980940690:16480": {
+      "hu_text": "Egy migráns megpróbált megerőszakolni egy 15 éves lányt Szentpéterváron egy strandon. A nyomozás szerint este 21 óra körül erőszakot alkalmazott a kiskorúval szemben, majd megkövetelte, hogy vetkőzzön le teljesen és ne kiabáljon az erőszak alatt. A lány el tudott menekülni. A migráns a rendőrségen hamis történetet adott elő, amit a rendőrség nem hitt el, és büntetőeljárás indult.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos bűncselekményről szól, de csak egy bejegyzés alapján ismert, nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:57.986104+00:00"
     }
   },
   "legacy_reviews": {}
