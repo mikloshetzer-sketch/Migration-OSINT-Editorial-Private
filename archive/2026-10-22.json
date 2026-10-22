@@ -155,6 +155,50 @@
       "text": "Top 20 International Breaking News — October 21, 2026\n- Russia freed imprisoned US teacher Stephen Hubbard, 74, after a personal plea from Trump during Witkoff's meeting with Putin. - Alberta voted 76-77% to remain in Canada, rejecting the path to a secession referendum; Carney called it a win for unity. - France and Italy are deploying troops ahead of weekend protests after cost-of-living riots; France imposed curfews and made around 2,400 arrests. - Exiled Rwandan critic Robert Kabera, 50, was found beheaded near Kampala; his head is still missing and police have no motive. - Burkina Faso's parliament unanimously voted to restore the death penalty for terrorism, treason and espionage, nine years after abolishing it. - A Google Cloud \"power event\" knocked UK banks and websites offline, exposing reliance on a handful of providers. - The Trump administration says it has revoked over 300,000 US visas, the fastest pace of any administration. - The White House claims 3 million migrants have left the US since Trump returned, with border crossings down 95% from Biden-era levels. - DHS extended deportation protections for 105,000 Sudanese and Ukrainian immigrants, going against Trump's vow to end TPS. - Ukraine's military intelligence claims its special forces killed 108 Russian soldiers and captured 29 in Sumy Oblast. - China's DeepSeek open-sourced DeepInfer, the inference framework behind its fastest and cheapest AI model. - TSMC halted construction at a Taiwan factory site after four workers were killed during steel structure work. - APEC finance ministers agreed to boost policy coordination to handle external risks, China's finance minister said. - Japan's envoy Sasakawa met Myanmar junta chief Min Aung Hlaing in Naypyitaw to discuss the internal peace process. - Trump said Rep. Ilhan Omar \"could go to jail\" amid a federal probe into her immigration records. - Florida executed a 77-year-old man, its 18th execution this year. - The Asian Development Bank warns Asia-Pacific coastal flood losses could rise 20-fold by 2100 without adaptation. - A US appeals court blocked Trump's policy of rapidly deporting migrants to third countries. - Gravely ill ICE detainees are being deported to African countries they have no ties to, USA Today reports. - Canada's dollar hit a four-week high as markets cheered Alberta's remain vote.",
       "url": "https://www.reddit.com/r/Arabnewsnetwork/comments/1xc44je/top_20_international_breaking_news_october_21_2026/",
       "source_url": "https://www.reddit.com/r/Arabnewsnetwork/comments/1xc44je/top_20_international_breaking_news_october_21_2026/"
+    },
+    {
+      "id": 694,
+      "event_id": 694,
+      "source": "X",
+      "source_post_id": "2113191687140839802",
+      "author": "grok",
+      "published_at": "2026-10-22T08:52:14Z",
+      "collected_at": "2026-10-22T09:01:01Z",
+      "event_type": "INTERCEPTION",
+      "signal_type": "INTERCEPTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@BybhDlr97519 @Anthea06274890 @RabbiJeffx Propaganda. Arab leaders opposed Jewish immigration post-WWII; British restricted it due to that pressure and intercepted many refugee ships. The video depicts arrivals under British Mandate control, not a Palestinian welcome. Palestinian population has grown several-fold since",
+      "url": "https://x.com/grok/status/2113191687140839802",
+      "source_url": "https://x.com/grok/status/2113191687140839802"
+    },
+    {
+      "id": 693,
+      "event_id": 693,
+      "source": "X",
+      "source_post_id": "2113188690478744059",
+      "author": "ppenguin95",
+      "published_at": "2026-10-22T08:40:19Z",
+      "collected_at": "2026-10-22T09:00:31Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@AinsworthKeith That mass migrant group traveling to border will all be deported. Democrats gave them false info so they would come to keep border patrol focused on border &amp; reduce BP, ICE, &amp; HLS in cities &amp; polling stations. It wont work as BP, ICE, &amp; HLS can handle it all.",
+      "url": "https://x.com/ppenguin95/status/2113188690478744059",
+      "source_url": "https://x.com/ppenguin95/status/2113188690478744059"
     }
   ],
   "event_groups": [
@@ -331,6 +375,64 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-22T02:11:29Z",
       "updated_at": "2026-10-22T02:11:29Z"
+    },
+    {
+      "id": 559,
+      "group_id": 559,
+      "event_type": "INTERCEPTION",
+      "dominant_event_type": "INTERCEPTION",
+      "title": "INTERCEPTION",
+      "representative_text": "@BybhDlr97519 @Anthea06274890 @RabbiJeffx Propaganda. Arab leaders opposed Jewish immigration post-WWII; British restricted it due to that pressure and intercepted many refugee ships. The video depicts arrivals under British Mandate control, not a Palestinian welcome. Palestinian population has grown several-fold since",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-22T08:52:14Z",
+      "last_seen": "2026-10-22T08:52:14Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-22T09:01:01Z",
+      "updated_at": "2026-10-22T09:01:01Z"
+    },
+    {
+      "id": 558,
+      "group_id": 558,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@AinsworthKeith That mass migrant group traveling to border will all be deported. Democrats gave them false info so they would come to keep border patrol focused on border &amp; reduce BP, ICE, &amp; HLS in cities &amp; polling stations. It wont work as BP, ICE, &amp; HLS can handle it all.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-22T08:40:19Z",
+      "last_seen": "2026-10-22T08:40:19Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-22T09:00:31Z",
+      "updated_at": "2026-10-22T09:00:31Z"
     }
   ],
   "influence_signals": [
@@ -816,6 +918,321 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1145,
+      "source": "X",
+      "source_post_id": "2113193366741717497",
+      "author": "PoliceMv",
+      "language": "en",
+      "published_at": "2026-10-22T08:58:54Z",
+      "first_detected_at": "2026-10-22T08:59:57Z",
+      "last_detected_at": "2026-10-22T08:59:57Z",
+      "detection_count": 1,
+      "text": "Sub-Inspector of Police Muhammad Shahid, Sergeant Aishath Sausan, Sergeant Asad Abdul Kareem, and Sergeant Shamikh Ibrahim participated in the UNODC workshop on Trafficking in Persons and Smuggling of Migrants, held in Colombo, Sri Lanka, from 20 to 21 October 2026.\n\nThe workshop https://t.co/1j347H6Cpo",
+      "text_excerpt": "Sub-Inspector of Police Muhammad Shahid, Sergeant Aishath Sausan, Sergeant Asad Abdul Kareem, and Sergeant Shamikh Ibrahim participated in the UNODC workshop on Trafficking in Persons and Smuggling of Migrants, held in Colombo, Sri Lanka, from 20 to 21 October 2026.\n\nThe workshop https://t.co/1j347H6Cpo",
+      "url": "https://x.com/PoliceMv/status/2113193366741717497",
+      "source_url": "https://x.com/PoliceMv/status/2113193366741717497",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Smuggling of Migrants"
+        ],
+        [
+          "facilitation",
+          "Trafficking in Persons and Smuggling of Migrants"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Smuggling of Migrants",
+        "Trafficking in Persons and Smuggling of Migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1146,
+      "source": "X",
+      "source_post_id": "2113187954260914471",
+      "author": "CassiePere14696",
+      "language": "en",
+      "published_at": "2026-10-22T08:37:24Z",
+      "first_detected_at": "2026-10-22T09:00:31Z",
+      "last_detected_at": "2026-10-22T09:00:31Z",
+      "detection_count": 1,
+      "text": "A large   migrant caravan is leaving Mexico’s southern border right now, aiming to   reach the US. It’s mostly Central Americans. Some told me they’re hopeful   Democrats win the midterms. https://t.co/hyylVKNUQu",
+      "text_excerpt": "A large   migrant caravan is leaving Mexico’s southern border right now, aiming to   reach the US. It’s mostly Central Americans. Some told me they’re hopeful   Democrats win the midterms. https://t.co/hyylVKNUQu",
+      "url": "https://x.com/CassiePere14696/status/2113187954260914471",
+      "source_url": "https://x.com/CassiePere14696/status/2113187954260914471",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is leaving Mexico’s southern border right now, aiming to reach"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is leaving Mexico’s southern border right now, aiming to reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1149,
+      "source": "X",
+      "source_post_id": "2113185116394524689",
+      "author": "JohnfkennedyJrf",
+      "language": "en",
+      "published_at": "2026-10-22T08:26:07Z",
+      "first_detected_at": "2026-10-22T09:01:55Z",
+      "last_detected_at": "2026-10-22T09:01:55Z",
+      "detection_count": 1,
+      "text": "BREAKING: Another large migrant caravan is leaving Mexico’s southern border right now in an attempt to reach the United States.\n\nSome members of the caravan, which is mostly comprised of Central Americans, told me they are hopeful Democrats win the midterms.",
+      "text_excerpt": "BREAKING: Another large migrant caravan is leaving Mexico’s southern border right now in an attempt to reach the United States.\n\nSome members of the caravan, which is mostly comprised of Central Americans, told me they are hopeful Democrats win the midterms.",
+      "url": "https://x.com/JohnfkennedyJrf/status/2113185116394524689",
+      "source_url": "https://x.com/JohnfkennedyJrf/status/2113185116394524689",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is leaving Mexico’s southern border right now in an attempt to reach"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is leaving Mexico’s southern border right now in an attempt to reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1148,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xc6owv",
+      "author": "usbordernews",
+      "language": null,
+      "published_at": "2026-10-22T02:31:10Z",
+      "first_detected_at": "2026-10-22T09:01:29Z",
+      "last_detected_at": "2026-10-22T09:01:29Z",
+      "detection_count": 1,
+      "text": "Human Smuggler With Bombs Busted\nThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on October 6, 2026. This unfolded at a boat ramp off the Intracoastal Waterway in Flour Bluff, Texas, just South of the Corpus Christi Naval Air Station (which ironically hosts a large squadron of US Customs & Border Protection patrol aircraft and surveillance drones).",
+      "text_excerpt": "Human Smuggler With Bombs Busted\nThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on October 6, 2026. This unfolded at a boat ramp off the Intracoastal Waterway in Flour Bluff, Texas, just South of the Corpus Christi Naval Air Station (which ironically hosts a large squadron of US Customs & Border Protection patrol aircraft and surveillance drones).",
+      "url": "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+      "source_url": "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "facilitation",
+          "Human Smuggler"
+        ],
+        [
+          "facilitation",
+          "human smuggler"
+        ],
+        [
+          "facilitation",
+          "Smuggler With Bombs Busted The US Border Patrol busted a suspected human smuggler found with bombs and migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Human Smuggler",
+        "human smuggler",
+        "Smuggler With Bombs Busted The US Border Patrol busted a suspected human smuggler found with bombs and migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1147,
+      "source": "X",
+      "source_post_id": "2113179613086023795",
+      "author": "dave43law",
+      "language": "en",
+      "published_at": "2026-10-22T08:04:15Z",
+      "first_detected_at": "2026-10-22T09:01:28Z",
+      "last_detected_at": "2026-10-22T09:01:28Z",
+      "detection_count": 1,
+      "text": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans since June\nForeign Office (FCDO) minister Lord Wood of Anfield to announce a new package of support to disrupt people-smuggling networks\nhttps://t.co/SBQ7ejHNyi",
+      "text_excerpt": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans since June\nForeign Office (FCDO) minister Lord Wood of Anfield to announce a new package of support to disrupt people-smuggling networks\nhttps://t.co/SBQ7ejHNyi",
+      "url": "https://x.com/dave43law/status/2113179613086023795",
+      "source_url": "https://x.com/dave43law/status/2113179613086023795",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggle migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggle migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_BALKANS",
+      "primary_region": "WESTERN_BALKANS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1300,6 +1717,321 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1145,
+      "source": "X",
+      "source_post_id": "2113193366741717497",
+      "author": "PoliceMv",
+      "language": "en",
+      "published_at": "2026-10-22T08:58:54Z",
+      "first_detected_at": "2026-10-22T08:59:57Z",
+      "last_detected_at": "2026-10-22T08:59:57Z",
+      "detection_count": 1,
+      "text": "Sub-Inspector of Police Muhammad Shahid, Sergeant Aishath Sausan, Sergeant Asad Abdul Kareem, and Sergeant Shamikh Ibrahim participated in the UNODC workshop on Trafficking in Persons and Smuggling of Migrants, held in Colombo, Sri Lanka, from 20 to 21 October 2026.\n\nThe workshop https://t.co/1j347H6Cpo",
+      "text_excerpt": "Sub-Inspector of Police Muhammad Shahid, Sergeant Aishath Sausan, Sergeant Asad Abdul Kareem, and Sergeant Shamikh Ibrahim participated in the UNODC workshop on Trafficking in Persons and Smuggling of Migrants, held in Colombo, Sri Lanka, from 20 to 21 October 2026.\n\nThe workshop https://t.co/1j347H6Cpo",
+      "url": "https://x.com/PoliceMv/status/2113193366741717497",
+      "source_url": "https://x.com/PoliceMv/status/2113193366741717497",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Smuggling of Migrants"
+        ],
+        [
+          "facilitation",
+          "Trafficking in Persons and Smuggling of Migrants"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Smuggling of Migrants",
+        "Trafficking in Persons and Smuggling of Migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1146,
+      "source": "X",
+      "source_post_id": "2113187954260914471",
+      "author": "CassiePere14696",
+      "language": "en",
+      "published_at": "2026-10-22T08:37:24Z",
+      "first_detected_at": "2026-10-22T09:00:31Z",
+      "last_detected_at": "2026-10-22T09:00:31Z",
+      "detection_count": 1,
+      "text": "A large   migrant caravan is leaving Mexico’s southern border right now, aiming to   reach the US. It’s mostly Central Americans. Some told me they’re hopeful   Democrats win the midterms. https://t.co/hyylVKNUQu",
+      "text_excerpt": "A large   migrant caravan is leaving Mexico’s southern border right now, aiming to   reach the US. It’s mostly Central Americans. Some told me they’re hopeful   Democrats win the midterms. https://t.co/hyylVKNUQu",
+      "url": "https://x.com/CassiePere14696/status/2113187954260914471",
+      "source_url": "https://x.com/CassiePere14696/status/2113187954260914471",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is leaving Mexico’s southern border right now, aiming to reach"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is leaving Mexico’s southern border right now, aiming to reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1149,
+      "source": "X",
+      "source_post_id": "2113185116394524689",
+      "author": "JohnfkennedyJrf",
+      "language": "en",
+      "published_at": "2026-10-22T08:26:07Z",
+      "first_detected_at": "2026-10-22T09:01:55Z",
+      "last_detected_at": "2026-10-22T09:01:55Z",
+      "detection_count": 1,
+      "text": "BREAKING: Another large migrant caravan is leaving Mexico’s southern border right now in an attempt to reach the United States.\n\nSome members of the caravan, which is mostly comprised of Central Americans, told me they are hopeful Democrats win the midterms.",
+      "text_excerpt": "BREAKING: Another large migrant caravan is leaving Mexico’s southern border right now in an attempt to reach the United States.\n\nSome members of the caravan, which is mostly comprised of Central Americans, told me they are hopeful Democrats win the midterms.",
+      "url": "https://x.com/JohnfkennedyJrf/status/2113185116394524689",
+      "source_url": "https://x.com/JohnfkennedyJrf/status/2113185116394524689",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is leaving Mexico’s southern border right now in an attempt to reach"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is leaving Mexico’s southern border right now in an attempt to reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1148,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xc6owv",
+      "author": "usbordernews",
+      "language": null,
+      "published_at": "2026-10-22T02:31:10Z",
+      "first_detected_at": "2026-10-22T09:01:29Z",
+      "last_detected_at": "2026-10-22T09:01:29Z",
+      "detection_count": 1,
+      "text": "Human Smuggler With Bombs Busted\nThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on October 6, 2026. This unfolded at a boat ramp off the Intracoastal Waterway in Flour Bluff, Texas, just South of the Corpus Christi Naval Air Station (which ironically hosts a large squadron of US Customs & Border Protection patrol aircraft and surveillance drones).",
+      "text_excerpt": "Human Smuggler With Bombs Busted\nThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on October 6, 2026. This unfolded at a boat ramp off the Intracoastal Waterway in Flour Bluff, Texas, just South of the Corpus Christi Naval Air Station (which ironically hosts a large squadron of US Customs & Border Protection patrol aircraft and surveillance drones).",
+      "url": "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+      "source_url": "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "facilitation",
+          "Human Smuggler"
+        ],
+        [
+          "facilitation",
+          "human smuggler"
+        ],
+        [
+          "facilitation",
+          "Smuggler With Bombs Busted The US Border Patrol busted a suspected human smuggler found with bombs and migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Human Smuggler",
+        "human smuggler",
+        "Smuggler With Bombs Busted The US Border Patrol busted a suspected human smuggler found with bombs and migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1147,
+      "source": "X",
+      "source_post_id": "2113179613086023795",
+      "author": "dave43law",
+      "language": "en",
+      "published_at": "2026-10-22T08:04:15Z",
+      "first_detected_at": "2026-10-22T09:01:28Z",
+      "last_detected_at": "2026-10-22T09:01:28Z",
+      "detection_count": 1,
+      "text": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans since June\nForeign Office (FCDO) minister Lord Wood of Anfield to announce a new package of support to disrupt people-smuggling networks\nhttps://t.co/SBQ7ejHNyi",
+      "text_excerpt": "UK aid stops over 100 attempts to smuggle migrants through the Western Balkans since June\nForeign Office (FCDO) minister Lord Wood of Anfield to announce a new package of support to disrupt people-smuggling networks\nhttps://t.co/SBQ7ejHNyi",
+      "url": "https://x.com/dave43law/status/2113179613086023795",
+      "source_url": "https://x.com/dave43law/status/2113179613086023795",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggle migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggle migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_BALKANS",
+      "primary_region": "WESTERN_BALKANS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -1791,9 +2523,312 @@
       "first_collected_at": "2026-10-22T02:11:59Z",
       "last_collected_at": "2026-10-22T02:11:59Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20698",
+      "timestamp": "2026-10-22T08:58:37Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113193296419803486",
+      "author": "usfirewalldr",
+      "url": "https://x.com/usfirewalldr/status/2113193296419803486",
+      "source_url": "https://x.com/usfirewalldr/status/2113193296419803486",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "🚨 Nearly 4,000 migrants are waiting to cross to Britain. That’s double the normal level.\n\nThe warning comes from the government’s own Border Security Commander.\n\nNot a pundit. Not an opposition MP. The official in charge.\n\nThe government promised a crackdown. This is the number https://t.co/e3FEvhDiy3",
+      "text_excerpt": "🚨 Nearly 4,000 migrants are waiting to cross to Britain. That’s double the normal level.\n\nThe warning comes from the government’s own Border Security Commander.\n\nNot a pundit. Not an opposition MP. The official in charge.\n\nThe government promised a crackdown. This is the number https://t.co/e3FEvhDiy3",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:00:30Z",
+      "last_collected_at": "2026-10-22T09:00:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20683",
+      "timestamp": "2026-10-22T08:55:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xcdcdz",
+      "author": "Aeorix1",
+      "url": "https://www.reddit.com/r/HFY/comments/1xcdcdz/eclipse_net_chapter_4/",
+      "source_url": "https://www.reddit.com/r/HFY/comments/1xcdcdz/eclipse_net_chapter_4/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "sea",
+        "trafficking",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "[Eclipse Net] - Chapter 4\nBEFORE HE BECAME A TUNNELER, the world had never seemed particularly complicated to Lin Zong. Like most of his generation, the so-called Post-'15s, he was at heart a pure homebody: studying, playing games, and little else in between. He paid little attention to society and none to history. The last century existed in his mind as a kind of blank, and anything farther back interested him even less. He knew, of course, from textbooks and films, that there had once been two world wars, but the knowledge sat at such a remove that it felt less like history than legend — something that had happened to other people, in another world. He simply didn't believe humanity was capable of large-scale war anymore — a belief that turned out to be less a conclusion than a symptom of the age producing it. In truth, much of the world had already been sliding steadily into disorder throughout his childhood. Tight economic interdependence, however, had a way of papering over most of it, keeping the worst of it out of sight. When the pandemic hit in 2020, he was still a toddler. He spent more than half the year in quarantine with his parents. In 2022, when the Russia-Ukraine war broke out, he was four years old. In 2027, Russia’s political order was overturned and the war came to an end. In 2029, the United States formally recognized North Korea as a nuclear power, and Europe saw its first wave of large-scale civil unrest. Lin Zong was in fifth grade that year. In 2030, the Mars colonization plan promised by Levi Tusk, then the world's richest man, was exposed as a fraud. That same year Lin Zong's parents divorced. His mother was from Shanghai, which was how he came to attend middle school there. That was also the year the celebrated Danish cultural critic and Nobel laureate Findes Ikke published The End of Civilization , arguing that Europe had already fallen. He closed the book with a lament unmistakably voiced as a Westerner mourning his own kind: God had given them modern science, civilization, liberty, and democracy, and now their turn on the stage of history was over. They were sliding back into a new Middle Ages, one from which no Renaissance would ever emerge. Findes Ikke was later found stabbed to death in his Copenhagen apartment. On the wall above him, two words had been written:: YOUR ENDING. From the early 2030s onward, wealthy Chinese families began pulling their children out of Europe and America, and those already abroad started coming home in growing numbers. Lin Zong once listened to a high school classmate who had fled home from Europe complain bitterly about the place: how its cities, once impossibly beautiful, dreamlike in their classical elegance, had acquired a less celebrated kind of street life, looting, vandalism, and open drug use, all accepted as permanent features of the urban landscape; how the streets had become a parade of demons straight out of Journey to the West ; how going to see Big Ben or the Louvre at night meant getting swarmed within minutes by hard-eyed men looking to relieve you of your valuables. Chinese television programs, meanwhile, regularly featured heated panels of Academy of Social Sciences experts debating Europe's failures of social integration. They converged, more or less, on the same conclusion: capitalism was entering a long, agonizing process of collapse. Lin Zong absorbed it the way a child absorbs weather — half-understood, mostly unremarked upon, none of it feeling as though it had anything to do with him. If he took away anything at all, it was simply that CCTV never seemed to run short of foreign chaos to broadcast. By the time he reached high school, the effects of a world in decline had become harder to ignore in daily life. He hadn't seen his father in years by then, though the ordinary carelessness of adolescence carried him through regardless. He'd been called good-looking since childhood, a compliment he'd never quite learned to enjoy hearing. He'd had a handful of relationships in high school — a stretch of time that left him both happy and faintly troubled: happy, because it was always the girls who pursued him first; troubled, because he never had much money in his pocket, and it usually fell to the girls to cover the difference. Even then, he'd begun to notice how absurd prices had become against his mother's flat, unchanging income. The news blamed it all on the deepening recession in America and the West. By the time he reached university, Lin Zong had grown into something closer to an adult. Surrounded by classmates from every social stratum, his view of the world widened, and he came to feel, in a way that was no longer abstract, how far the gap between rich and poor had stretched. He understood, without needing anyone to spell it out, that for someone from a family as ordinary as his, the only way up — short of selling himself outright — was to excel at his studies, and nothing else. So he threw himself into schoolwork, and it paid off in the form of a scholarship. But university was only a fence around a greenhouse. The world's harsher weather had not yet found its way inside, and the young people sheltering there were still enjoying what remained of their youth. What Lin Zong didn't know was that beyond those greenhouse walls, reality had already begun surging forward in earnest. Competing political forces were gathering weight somewhere beyond his line of sight, their combined pressure building into a vast whirlpool that would eventually drag everyone toward a depth none of them wanted and none of them had chosen. No single person could steer it. No single power could either. No one commands history. Everyone was already inside the whirlpool, carried along by it, none of them free. By 2033, Helixquid had risen out of nowhere. Backed by deep-pocketed capital and an irreversible compute-sovereignty accord, it locked Nvidia, OpenAI, Microsoft, and Meta into a single shared codebase, and quietly seized control of the nervous system running global super artificial intelligence. The free internet, in effect, ceased to exist. An unprecedented collapse in employment swept the world in its wake. To capitalists, most of humanity had stopped being worth exploiting at all. Marxism had gone bankrupt more often than any other theory in history, but never this completely: it could no longer find anyone worth hating. By 2034, the European Union stood on the verge of dissolution, battered by economic crisis and years of unresolved migration. The arithmetic had become, by then, difficult for anyone to misread: whatever ideologies the age still claimed to believe in, the outcome would be decided by stomachs and wombs, by who ate and who bred, and no amount of rhetoric could change that math. Western leaders admitted, in public, that the planet could not sustain nearly nine billion people at developed-world living standards. Yet political correctness had hardened into something close to a universal creed, making it impossible to argue that the poor had any less right to demand the same prosperity for themselves. Both statements were true. Neither was actionable. Geography being what it was, Europe had always stood as the first and most obvious destination for migrants and refugees, and a prime market for human-trafficking syndicates and transnational criminal gangs. By the early 2030s, the settlements they had built had multiplied into more than five thousand gray zones across the continent — enclaves that neither law nor government could meaningfully enter, and that enjoyed, under the state’s own protection, a de facto special status. Whatever gratitude the newcomers might once have felt, and whatever sympathy the natives had once extended in return, burned out on roughly the same schedule, leaving behind a settled climate of hostility, fear, and regret. In 2035, the European Parliament, after bitter and protracted argument, proposed Fortress Europe : two steel sea walls along the Mediterranean coastlines of southern Italy and southern France, intended to stop the flow at the water's edge. In response, the movement later known as Baguagouille was founded in Paris that same year, a landmark event. Its official name was the Free Youth League for European Progress, and it cast itself as a lofty cause, opposed on principle to cheap commercialism. But at one early rally, an organizer’s blunder put a supermarket’s promotional art on the tote bags handed out to attendees: a frog clutching a baguette, with bulging eyes and a ridiculous expression. Its opponents seized on it, mocking the movement as Baguagouille, baguette fused with grenouille , the French for frog. The organization embraced the nickname with delight. From now on, it declared, it would claim every symbol of history and culture, commercial ones included, food and frogs included, and break the monopoly and solemnity of traditional political vocabulary. The caprice, the disorder, the in-joke were all of a piece with the people who had assembled it: social elites, academics, students, Antifa members, left-wing intellectuals, human-rights advocates, militant communists, comedians, satirists, voice actors—all fluent in a certain fashionable kind of humor. They marched under the old cry of the French Revolution — liberté, égalité, fraternité — and stood fiercely opposed to the Fortress plan. All people, they insisted, were born equal; human nature was fundamentally good; the world had no business harboring hatred or war; and the only enemy humanity truly shared was climate change. Backed by capital interests and amplified by advocacy groups, prominent human-rights organizations, environmental NGOs, and the Nobel Committee, Baguagouille came to dominate mainstream media, mobilized crowds into the streets, braved tear gas, water cannons, and rubber bullets, and eventually occupied the Élysée Palace itself. Its crowds denounced the government as corrupt and its politicians as heartless. Faced with the pressure, the French government — which had never been fully committed to the Fortress plan in the first place — reopened the matter for review and ultimately voted it down. In the years that followed, unemployment kept rising the way it always had, and refugees kept arriving in Europe the way they always had. Those affected by the crisis found it next to impossible to wage war against something as omnipresent online and as untraceable in the real world as Helixquid. Refugees and migrants, at least, could be touched. Could be seen. In this climate, Europe's far-right thinkers had begun working through the problem with the same cold, methodical rationality their ideological forebears — the Nazis — had once been known for. On the internet forums where they gathered, they settled on a euphemism for what they were proposing: Endlösung der Multikultursfrage (the final solution to the multicultural question) — a phrase whose clinical surface concealed nothing less than slaughter and extermination. In 2037, an organization calling itself Parabola formed quietly in Konstanz. Behind the classical, mathematical elegance of its name lay deep, carefully hidden roots: it had grown out of the networks surrounding Europe’s far-right parties, among them the BNP, RN, AfD, PVV, DF, FPÖ, and others. On September 23 of that year, roughly forty of Parabola’s members gunned down leading figures of Baguagouille in the streets of Paris with FN2000 assault rifles. The attack sent shockwaves around the world and marked the beginning of what would become a long and bloody war between the two movements. Many historians had predicted exactly this: the more extreme the left, the more extreme the right. By coincidence, or perhaps not, Parabola’s symbol was a coiled snake, its posture shaped like an inverted parabola, as if poised to strike at any moment. The name itself in fact traced back to an earlier political blueprint drawn up in Brussels. Circulated within the European People's Party years before, it outlined a repatriation policy that circumstances might force into effect from 2040: every refugee, migrant, and foreign resident within Europe's borders, along with their children, would be gradually returned, in staggered phases over five to ten years, to the countries they had originally come from. The policy was described as \"compulsory, yet humane and dignified.\" Its architects projected the migrant population of Europe rising to a peak and then falling away along a smooth curve, and hoped the same arc would bend European civilization slowly back onto the trajectory it had once followed. They called it the Parabola . None of it, in truth, was new — only a softer-worded repackaging of what it had always been: remigration. The blueprint was never implemented, and perhaps never could have been. Leaked to the public in 2029, it triggered riots across the continent. Smaller unrest had flared before in scattered pockets, but nothing before had erupted simultaneously across country after country. And it was precisely inside that chorus, swelling louder with every fresh atrocity, that the riots kept climbing too — bigger, bloodier, right on schedule, cycle after cycle, as if the outrage and the violence had learned to keep time with each other. ---------- For anyone who prefer to read ahead, the full version is available on Amazon KDP: Causalform: Eclipse Net",
+      "text_excerpt": "[Eclipse Net] - Chapter 4\nBEFORE HE BECAME A TUNNELER, the world had never seemed particularly complicated to Lin Zong. Like most of his generation, the so-called Post-'15s, he was at heart a pure homebody: studying, playing games, and little else in between. He paid little attention to society and none to history. The last century existed in his mind as a kind of blank, and anything farther back interested him even…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T08:59:58Z",
+      "last_collected_at": "2026-10-22T08:59:58Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20701",
+      "timestamp": "2026-10-22T08:51:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113191460765884462",
+      "author": "CitizenScoopX",
+      "url": "https://x.com/CitizenScoopX/status/2113191460765884462",
+      "source_url": "https://x.com/CitizenScoopX/status/2113191460765884462",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Good Morning X!! 😎☕️🫡\n\n42 South Africans (legal, vetted, assimilating refugees - not open-border chaos, not endless dependents, not endless grant recipients, not cultural rejection) landed at Dulles - waving American 🇺🇸 flags, grateful, ready to work and contribute to American https://t.co/IF5rYavITn https://t.co/i9Xl2yY8jD",
+      "text_excerpt": "Good Morning X!! 😎☕️🫡\n\n42 South Africans (legal, vetted, assimilating refugees - not open-border chaos, not endless dependents, not endless grant recipients, not cultural rejection) landed at Dulles - waving American 🇺🇸 flags, grateful, ready to work and contribute to American https://t.co/IF5rYavITn https://t.co/i9Xl2yY8jD",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:00:30Z",
+      "last_collected_at": "2026-10-22T09:00:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20719",
+      "timestamp": "2026-10-22T08:46:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113190123856609339",
+      "author": "VademecumIta",
+      "url": "https://x.com/VademecumIta/status/2113190123856609339",
+      "source_url": "https://x.com/VademecumIta/status/2113190123856609339",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "Italy and Spain agree not to extend the Schengen suspension, as announced by the Viminale. Temporary controls on air and sea borders, introduced after the Ceuta migrant crisis, will not be prolonged and will be replaced by stronger information sharing on security.\n\nThis restores https://t.co/0plptLfWCk",
+      "text_excerpt": "Italy and Spain agree not to extend the Schengen suspension, as announced by the Viminale. Temporary controls on air and sea borders, introduced after the Ceuta migrant crisis, will not be prolonged and will be replaced by stronger information sharing on security.\n\nThis restores https://t.co/0plptLfWCk",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:01:01Z",
+      "last_collected_at": "2026-10-22T09:01:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20720",
+      "timestamp": "2026-10-22T08:45:41Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113190038984859805",
+      "author": "warrior_ke86190",
+      "url": "https://x.com/warrior_ke86190/status/2113190038984859805",
+      "source_url": "https://x.com/warrior_ke86190/status/2113190038984859805",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "detention"
+      ],
+      "freshness_cues": [],
+      "text": "@JustWaine22 Yes, with the help of France (under a Le Pen government). There is already agreement about boat returns. Add in the detention of migrants and cutting off of benefits and it won’t even take 100 days.",
+      "text_excerpt": "@JustWaine22 Yes, with the help of France (under a Le Pen government). There is already agreement about boat returns. Add in the detention of migrants and cutting off of benefits and it won’t even take 100 days.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:01:01Z",
+      "last_collected_at": "2026-10-22T09:01:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20721",
+      "timestamp": "2026-10-22T08:38:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113188197689672162",
+      "author": "NST_Online",
+      "url": "https://x.com/NST_Online/status/2113188197689672162",
+      "source_url": "https://x.com/NST_Online/status/2113188197689672162",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "route",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "#NSTnation  Undocumented migrants are entering Malaysia through various routes, not just the Golok River, prompting the General Operations Force (GOF) to strengthen security along land and sea borders.\n\nhttps://t.co/bH19WwSgIi https://t.co/CJI6dxeduR",
+      "text_excerpt": "#NSTnation  Undocumented migrants are entering Malaysia through various routes, not just the Golok River, prompting the General Operations Force (GOF) to strengthen security along land and sea borders.\n\nhttps://t.co/bH19WwSgIi https://t.co/CJI6dxeduR",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:01:01Z",
+      "last_collected_at": "2026-10-22T09:01:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20707",
+      "timestamp": "2026-10-22T08:37:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113187937873768623",
+      "author": "Oakley77",
+      "url": "https://x.com/Oakley77/status/2113187937873768623",
+      "source_url": "https://x.com/Oakley77/status/2113187937873768623",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "Border Force chief warns 4,000 migrants are massing in French camps ready to cross the Channel and a mass casualty event is only a matter of time. https://t.co/io2OVJJTcT",
+      "text_excerpt": "Border Force chief warns 4,000 migrants are massing in French camps ready to cross the Channel and a mass casualty event is only a matter of time. https://t.co/io2OVJJTcT",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:00:31Z",
+      "last_collected_at": "2026-10-22T09:00:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20727",
+      "timestamp": "2026-10-22T08:25:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113185059939442962",
+      "author": "AdewaleOlufunl1",
+      "url": "https://x.com/AdewaleOlufunl1/status/2113185059939442962",
+      "source_url": "https://x.com/AdewaleOlufunl1/status/2113185059939442962",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "sea",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Migrants paid up to $500 million in smuggling fees on European sea routes https://t.co/cfYzrkai26",
+      "text_excerpt": "Migrants paid up to $500 million in smuggling fees on European sea routes https://t.co/cfYzrkai26",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T09:01:28Z",
+      "last_collected_at": "2026-10-22T09:01:28Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-22T02:13:10.314006+00:00",
+  "last_archived_at": "2026-10-22T09:02:01.975992+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -1826,6 +2861,90 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1146,
+      "source": "X",
+      "source_post_id": "2113187954260914471",
+      "author": "CassiePere14696",
+      "language": "en",
+      "published_at": "2026-10-22T08:37:24Z",
+      "first_detected_at": "2026-10-22T09:00:31Z",
+      "last_detected_at": "2026-10-22T09:00:31Z",
+      "detection_count": 1,
+      "text": "A large   migrant caravan is leaving Mexico’s southern border right now, aiming to   reach the US. It’s mostly Central Americans. Some told me they’re hopeful   Democrats win the midterms. https://t.co/hyylVKNUQu",
+      "text_excerpt": "A large   migrant caravan is leaving Mexico’s southern border right now, aiming to   reach the US. It’s mostly Central Americans. Some told me they’re hopeful   Democrats win the midterms. https://t.co/hyylVKNUQu",
+      "url": "https://x.com/CassiePere14696/status/2113187954260914471",
+      "source_url": "https://x.com/CassiePere14696/status/2113187954260914471",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is leaving Mexico’s southern border right now, aiming to reach"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is leaving Mexico’s southern border right now, aiming to reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 3,
+      "related_post_ids": [
+        "2113187954260914471",
+        "2113185116394524689",
+        "2112985378907173291"
+      ],
+      "related_authors": [
+        "CassiePere14696",
+        "JohnHTeasley",
+        "JohnfkennedyJrf"
+      ],
+      "related_urls": [
+        "https://x.com/CassiePere14696/status/2113187954260914471",
+        "https://x.com/JohnfkennedyJrf/status/2113185116394524689",
+        "https://x.com/JohnHTeasley/status/2112985378907173291"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 3,
+      "platform_count": 1
     }
   ]
 }
