@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-23",
+  "reviews": {
+    "group:563": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége elfogott egy 66 migránst szállító ideiglenes hajót a Mona-szorosban, Puerto Rico és a Dominikai Köztársaság között. Légi felvételek is készültek a pénteki műveletről, amikor a személyzet beavatkozott.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét eseményt ír le, amely migrációs határbiztonsági vonatkozású, de nincs megerősített forrás vagy további bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:21.450801+00:00"
+    },
+    "information:20900": {
+      "hu_text": "Lehetséges, hogy az említett \"Jézus\" egy mexikói kartell tagja, aki migránsokat csempész a déli határon. A bejegyzés személyeskedő és politikai véleményt tartalmaz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és feltételezés, nincs tényalapja, és nem migrációs esemény vagy hivatalos információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:21.450822+00:00"
+    },
+    "information:20901": {
+      "hu_text": "A brit belügyminisztérium határbiztonsági vezetője szerint csak idő kérdése, hogy tömeges áldozatokkal járó esemény történjen az angol csatornán, ahol több ezer migráns várakozik észak-franciaországi táborokban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági figyelmeztetés migrációs kockázatról, de nincs megerősített hivatalos jelentés vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:21.450824+00:00"
+    },
+    "information:20902": {
+      "hu_text": "Több EU-s határállam, hírszerzési jelentések és vizsgálatok dokumentálják, hogy Fehéroroszország segíti a migránsok Lengyelország, Litvánia és Lettország felé történő nyomulását, beleértve 2021-es lehallgatásokat és 2026-os jelentéseket is.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migrációs nyomásról és államok közötti szerepvállalásról, de nincs független megerősítés vagy hivatalos dokumentum.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:21.450826+00:00"
+    },
+    "information:20905": {
+      "hu_text": "Csak arra várnak, hogy a kormány elismerje, hogy majdnem két hétig nem lépett át migráns az angol csatornán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai megjegyzés, nem tényállítás vagy hivatalos információ migrációs eseményről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:21.450829+00:00"
+    },
+    "information:20921": {
+      "hu_text": "Nem, mert az ARAP 2025 júliusában lezárult az új kérelmek előtt. A konzervatívok elvesztették az ellenőrzést a migráció felett. Érdemes lenne moratóriumot bevezetni a menedékkérelmekre, hogy csökkentsék a vonzerőt és véget vessenek az embercsempészetnek az angol csatornán. Sajnálom, hogy támogatod az illegális migrációt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és javaslat migrációs politikára, de nincs hivatalos megerősítés vagy tényadat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:21.450831+00:00"
+    }
+  }
+}
