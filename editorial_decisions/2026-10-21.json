@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-22T12:01:57.463Z",
+  "updated_at": "2026-10-22T12:02:10.929Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -639,6 +639,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-22T12:01:56.971Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "information:20516",
+      "decision": "EXCLUDE",
+      "title": "The Planetary Convergence of Human Civilization by 2226:Genetic Admixture, Economic Integration, Cultural Evolution, and the Resilience of a Global Society Hum",
+      "hungarian": "Az emberi civilizáció bolygószintű összekapcsolódása 2226-ra: genetikai keveredés, gazdasági integráció, kulturális evolúció és egy globális társadalom ellenállóképessége. Az elkövetkező két évszázadban az emberi civilizáció várhatóan sokkal összefonódottabbá válik, átalakítva a biológiai származás, nemzeti gazdaságok, kulturális identitások és politikai intézmények közötti kapcsolatokat. A technológiai fejlődés és politikai döntések alakítják majd a jövőt, amely nem egy előre meghatározott egységes bolygóvárosiasodás, hanem egy sokféle lehetőséget magában foglaló evolúciós folyamat lesz.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-22T12:02:10.195Z",
       "reviewed_day": "2026-10-21"
     }
   ]
