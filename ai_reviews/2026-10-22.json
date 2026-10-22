@@ -694,6 +694,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T14:47:21.898193+00:00"
+    },
+    "record:2113277292075999435": {
+      "hu_text": "Igen, egyetértek! De nem lehetetlen megtisztítani az országot! Lengyelországnak csak egy kerítése van a lengyel határon, és minden migránst távol tartanak! Trump már több mint 100 000 embert deportált... csak el kell kezdeni és folytatni, amíg el nem tűnnek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és részben ellenőrizhető adatokat tartalmaznak (pl. Trump deportálási számai), de nincs megbízható forrás vagy bizonyíték a pontos számokra és a kerítés hatékonyságára vonatkozóan. Ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:30.938313+00:00"
+    },
+    "record:reddit_1xc461b": {
+      "hu_text": "A parti őrség megállított 66 migránst, akik egy embercsempész hajón próbáltak illegálisan Puerto Ricóba jutni 2026. október 16-án. Egy parti őrség repülőgép észlelte a túlterhelt hajót a Mona-szoros veszélyes vizein, majd a San Juan parti őrség egységei a helyszínre érkeztek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény részletes leírást tartalmaz, de nincs független megerősítés vagy hivatalos forrás. Az információk valószínűsíthetően helytállóak, de további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:30.938331+00:00"
+    },
+    "telegram:1261826972:53740": {
+      "hu_text": "Frissítés videóval: A borzalmas embercsempész ház: 74 migráns zsúfolódott össze, néhányukat kutyák harapták meg, másokat kizsákmányoltak. A Nemzeti Rendőrség egyetlen őrizetbe vett személlyel zárta le a Príncipe-ben végrehajtott műveletet, amely egy felnőtteket és kiskorúakat munkában kizsákmányoló hálózatot leplezett le.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos emberi jogi visszaéléseket ír le, de nincs hivatalos vagy független forrásból származó megerősítés. A helyszíni bizonyítékok és további információk hiányoznak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:30.938337+00:00"
+    },
+    "telegram:1980940690:16484": {
+      "hu_text": "2026 januárja és augusztusa között több mint 260 000 külföldi és állampolgárság nélküli személyt tiltottak ki Oroszországból, ami 75,8%-os növekedés az előző év azonos időszakához képest. A belépési tilalmak fő okai között szerepelnek a korábbi tartózkodási idő túllépése, hamis adatok szolgáltatása, hamis dokumentumok bemutatása, ismételt közigazgatási szabálysértések, valamint adó- vagy bírságtartozások. Emellett négyszeresére nőtt azok száma, akik közbiztonsági kockázat miatt nem léphetnek be (több mint 13 500 eset). A bejegyzés hangsúlyozza a biometrikus ellenőrzés és a kontrollált személyek nyilvántartásának szükségességét a határokon.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások statisztikai adatokat tartalmaznak, de nincs hivatalos orosz kormányzati forrás vagy független megerősítés. Az adatok hitelessége további ellenőrzést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:30.938341+00:00"
     }
   },
   "legacy_reviews": {}
