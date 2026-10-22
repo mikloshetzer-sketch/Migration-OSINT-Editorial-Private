@@ -67,6 +67,62 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T22:53:21.450831+00:00"
+    },
+    "information:20933": {
+      "hu_text": "Körülbelül 260 ezer illegális migráns érkezett az Egyesült Királyságba mintegy 9 év alatt. Sehol sem tapasztalható túlterheltség, hazudnak önöknek. Sokukat később kiutasították. Ne higgyenek a hazugságoknak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások számszerű adatokat tartalmaznak, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősülnek. A tartalom társadalmi diskurzusba illeszkedik, mivel migrációval kapcsolatos véleményt és állítást fogalmaz meg.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:29.565594+00:00"
+    },
+    "record:2113389600513175840": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége elfogott egy 66 migránst szállító hajót a Karib-térségben, a Mona-szorosnál Puerto Rico és a Dominikai Köztársaság között. Légi felvételek is készültek a pénteki műveletről, amikor a személyzet beavatkozott.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény konkrét határbiztonsági műveletet ír le, de nincs hivatalos megerősítés vagy részletes forrás, ezért ellenőrizetlen. Fontos információ a migrációs útvonalak és határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:29.565613+00:00"
+    },
+    "record:2113394331365117977": {
+      "hu_text": "Daniel Thomas? Az a személy, akinek az agyát annyira összezúzta az idegenellenesség, hogy csónakba szállt a csatornában és megpróbálta megvágni magát, ezzel törvényt sértett és letartóztatták? Részben ön a hibás, nem igaz?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és társadalmi vita része, amely egy konkrét esetre utal, de nincs bizonyíték vagy hivatalos információ az állítás igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:29.565616+00:00"
+    },
+    "record:2113399159512293398": {
+      "hu_text": "Ez több éves információ, és Farage teljesen helyesen mondta, hogy a kiutasítások politikailag lehetetlenek az Emberi Jogok Európai Egyezménye (ECHR) elhagyása nélkül. Ezért a Reform párt politikája mindig is az volt, hogy elhagyják az ECHR-t és kiutasítják a migránsokat. Furcsa, hogy szándékosan félrevezető klipekkel próbálják megtéveszteni az embereket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és jogi állítások keverednek, de nincs hivatalos dokumentum vagy bizonyíték a pontos állítások igazolására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:29.565619+00:00"
+    },
+    "record:2113402460018745362": {
+      "hu_text": "2025-ben a GDP növekedési üteme 4,8% volt, 2026-ban pedig 4%. Az egy főre jutó mutató csökkent, mert 2,9 millió menekült tért vissza.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Gazdasági adatokat és migrációs visszatéréseket említ, de nincs hivatalos forrás vagy bizonyíték az állítások alátámasztására, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:29.565621+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
