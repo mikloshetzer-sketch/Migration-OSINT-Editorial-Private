@@ -958,6 +958,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T19:40:24.454777+00:00"
+    },
+    "information:20915": {
+      "hu_text": "@InvisibleTL @Marcious1710 @epanitch Mit is tesz valójában Izrael, hogy \"erősebbé tegye Amerikát\"? Elveszik a fegyvereinket, bombázzák a menekülttáborokat, civileket lőnek le családostul, és kétszer is meglövik azokat a mentősöket, akik megpróbálják kimenteni ezeket a családokat. A vezetőink pedig hazudnak nekünk erről, és kitalálnak történeteket lefejezett babákról, hogy megvédjék ezt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások súlyosak, de nem tartalmaznak bizonyított tényeket, és erősen véleményes, politikai jellegű vádakat fogalmaznak meg. Ezért ellenőrzésre szorulnak, különösen a migrációs kontextusban, mivel menekülttáborokat említenek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:13.367093+00:00"
+    },
+    "information:20916": {
+      "hu_text": "[Perfectly Safe Demons] - 157. fejezet - Csontozva\nEz egy fikciós történet egy démonológusról és csapatáról, akik egy posztszűkösségi utópia megteremtésén dolgoznak. A szöveg egy újabb fejezet részlete, amely egy hajóút utolsó pillanatait írja le, ahol a főszereplő a fedélzetre mászik, miközben a hajó bűzlik és a tengeri betegség kínozza az utasokat.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy fikciós történet részlete, amely nem kapcsolódik a migrációhoz vagy annak eseményeihez, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T22:53:13.367117+00:00"
     }
   },
   "legacy_reviews": {}
