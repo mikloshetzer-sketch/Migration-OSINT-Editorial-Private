@@ -804,6 +804,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T19:39:13.251660+00:00"
+    },
+    "information:20854": {
+      "hu_text": "A görög kormány ideiglenesen, három hónapra felfüggesztette az észak-afrikai tengeri érkezők menedékkérelmeinek feldolgozását. Líbiából érkező migránsokat a parti őrség letartóztatja a partra érkezéskor. A görög Migrációs Minisztérium törvényeket vezetett be, amelyek akár két évig terjedő fogva tartást írnak elő illegális belépés esetén.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs politikai intézkedéseket tartalmaz, de nincs megerősített forrás vagy hivatalos közlemény, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:24.083309+00:00"
+    },
+    "information:20858": {
+      "hu_text": "Egy guatemalai embercsempész 30 év börtönbüntetést kapott a 2022-es halálos migránscsempészeti összeesküvésben való részvételéért.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos embercsempészettel kapcsolatos információ, de egyetlen közösségi médiás állítás, nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:24.083328+00:00"
+    },
+    "record:2113341905807311193": {
+      "hu_text": "@plumedsnake Ezek az emberek Arábiából származnak. Nemrég a Vörös-tengeren keltek át, lényegében menekültek, cigányok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Szubjektív, előítéletes megjegyzés, nem tényállítás, nincs bizonyíték, ezért alacsony prioritású és ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:24.083330+00:00"
+    },
+    "record:2113347500346347973": {
+      "hu_text": "@HQ47Trump Íme a RING videókamerám képernyőképe, amelyet 2026. október 20-án készítettem. Egy ICE művelet keretében házkutatást tartottak, és letartóztattak illegális bevándorlókat, akik gyerekekkel éltek ebben az embercsempészésre használt otthonban. Az akcióban ügynökök, a Los Angeles-i rendőrség (LAPD) tisztjei, két kutyás egység és légi drónok is részt vettek. Én erre szavaztam.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét rendőrségi műveletet ír le, de nincs független bizonyíték vagy hivatalos megerősítés a letartóztatásokról és az embercsempészettel kapcsolatos részletekről. Ezért az állítás ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:47.661144+00:00"
+    },
+    "record:2113347828491956445": {
+      "hu_text": "@merican_great Íme a RING videókamerám képernyőképe, amelyet 2026. október 20-án készítettem. Egy ICE művelet keretében házkutatási parancsot szolgáltattak ki, és illegális migránsokat, köztük gyerekeket tartóztattak le ebből az embercsempészésre használt otthonból. Az akcióban ügynökök, LAPD rendőrök, két K-9 egység és légi drónok is részt vettek. Én erre szavaztam.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét műveletről szól, de nincs független megerősítés vagy hivatalos forrás, ezért ellenőrizetlennek minősül. A részletek pontosak lehetnek, de további bizonyíték szükséges a hitelesítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:49.877793+00:00"
+    },
+    "record:2113348320433471740": {
+      "hu_text": "@WallStreetApes Íme a RING videókamerám képernyőképe, amelyet 2026. október 20-án készítettem. Egy ICE művelet keretében házkutatási parancsot végrehajtva illegális migránsokat fogtak el gyerekekkel együtt ebben az embercsempészésre használt otthonban. Az akcióban ügynökök, LAPD rendőrök, két K-9 egység és légi drónok is részt vettek. Én erre szavaztam.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét műveletről szól, de nincs független, megbízható forrásból származó bizonyíték a művelet megtörténtéről vagy részleteiről, ezért az állítás ellenőrizetlen. A téma a határbiztonsághoz kapcsolódik, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:57.035306+00:00"
     }
   },
   "legacy_reviews": {}
