@@ -4034,7 +4034,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-21T22:55:58.409841+00:00",
+  "last_archived_at": "2026-10-22T14:47:00.383123+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -4997,6 +4997,95 @@
         "X"
       ],
       "independent_author_count": 2,
+      "platform_count": 1
+    },
+    {
+      "id": 1131,
+      "source": "X",
+      "source_post_id": "2112993004885537270",
+      "author": "MarkyComents",
+      "language": "en",
+      "published_at": "2026-10-21T19:42:44Z",
+      "first_detected_at": "2026-10-21T19:46:00Z",
+      "last_detected_at": "2026-10-21T19:46:00Z",
+      "detection_count": 1,
+      "text": "4,000 illegal boat migrants waiting on French Beaches/coast for a rubber dingy to UK!\n\nAll British tax payer funded French border police gone to deal with city Riots across the Nation leaving northern shores open to the people traffickers!  https://t.co/u6AMj6yv4f",
+      "text_excerpt": "4,000 illegal boat migrants waiting on French Beaches/coast for a rubber dingy to UK!\n\nAll British tax payer funded French border police gone to deal with city Riots across the Nation leaving northern shores open to the people traffickers!  https://t.co/u6AMj6yv4f",
+      "url": "https://x.com/MarkyComents/status/2112993004885537270",
+      "source_url": "https://x.com/MarkyComents/status/2112993004885537270",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "people traffickers"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "people traffickers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2112993004885537270"
+      ],
+      "related_authors": [
+        "MarkyComents"
+      ],
+      "related_urls": [
+        "https://x.com/MarkyComents/status/2112993004885537270"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
       "platform_count": 1
     }
   ]
