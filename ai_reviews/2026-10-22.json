@@ -628,6 +628,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T09:02:57.986104+00:00"
+    },
+    "group:560": {
+      "hu_text": "Az Egyesült Államok Parti Őrsége megállított 66 migránst, akik egy embercsempész hajón próbáltak illegálisan Puerto Ricóba jutni 2026. október 16-án. Egy parti őrségi repülőgép észlelte a túlterhelt hajót a Mona-szoros veszélyes vizein, majd a San Juan-i szektor hajója és mentőhelikoptere a helyszínre indult.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményt ír le embercsempészettel és határbiztonsággal kapcsolatban, de nincs független forrás vagy bizonyíték a hitelesítéshez, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:21.898154+00:00"
+    },
+    "information:20757": {
+      "hu_text": "Az Egyesült Államokban élő afroamerikaiak problémája inkább kulturális, mint strukturális eredetű. Az állítás szerint az afroamerikaiak gyakran a „fehér felsőbbrendűséget” okolják gazdasági nehézségeikért, de a szerző szerint a fő ok inkább a kulturális háttér és a történelmi migrációs körülmények. Az ázsiai amerikaiak többsége háborúk elől menekült, és ma gazdaságilag sikeres közösségek alkotják az USA-ban, míg a latinók nehezebb helyzetből indultak, de ők is előrehaladnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg véleményeket és általánosításokat tartalmaz társadalmi kérdésekről, nem tényállításokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:21.898175+00:00"
+    },
+    "information:20787": {
+      "hu_text": "Egy nőt csoportosan megerőszakoltak egy migránshajón az Atlanti-óceánon, miközben halálos átkelést tettek egy spanyol üdülősziget felé.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos bűncselekményről szól migrációs kontextusban, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:21.898181+00:00"
+    },
+    "information:20796": {
+      "hu_text": "Egy guatemalai embercsempészt 30 év börtönbüntetésre ítéltek a 2022-es halálos migránscsempészeti összeesküvésben való részvétele miatt.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét jogi ítéletről szól embercsempészet kapcsán, de nincs hivatalos forrás vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:21.898186+00:00"
+    },
+    "information:20799": {
+      "hu_text": "Mexikói kartellek által működtetett rejtekhelyeken főként fizetős embercsempészésre váró migránsokat tartanak fogva. Egyes hatósági jelentések szerint nincs bizonyíték arra, hogy ezek a helyek terroristák által fenntartott bázisok lennének.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás embercsempészettel és biztonsági helyzetekkel kapcsolatos, de nincs hivatalos vagy független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:21.898190+00:00"
+    },
+    "record:1261826972:53740": {
+      "hu_text": "Frissítés videóval: Egy „patera” házban 74 migránst zsúfoltak össze, közülük néhányan kutyaharapást szenvedtek, másokat pedig munkaszolgálatra kényszerítettek. A Nemzeti Rendőrség egyetlen letartóztatással zárta le a Ceutában végrehajtott műveletet, amely egy felnőtteket és kiskorúakat kizsákmányoló hálózatot leplezett le.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi visszaéléseket ír le migránsokkal kapcsolatban, de nincs független vagy hivatalos forrás a hitelesítéshez, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T14:47:21.898193+00:00"
     }
   },
   "legacy_reviews": {}
