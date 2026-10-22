@@ -375,6 +375,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T02:14:15.619178+00:00"
+    },
+    "record:reddit_1xc47uz": {
+      "hu_text": "Embercsempészt fogtak el bombákkal és migránsokkal egy gyorshajón Dél-Texasban. Az eset 2026. október 6-án történt a Flour Bluff-i hajóleeresztőnél, a Corpus Christi Haditengerészeti Repülőbázis közelében, ahol az Egyesült Államok Vám- és Határvédelmi Repülőgépei és megfigyelő drónjai is állomásoznak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményt ír le embercsempészettel kapcsolatban, de nincs megerősített forrás vagy hivatalos bizonyíték. Fontos a határbiztonság szempontjából, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:21.433026+00:00"
+    },
+    "telegram:1604168769:12308": {
+      "hu_text": "Moszkvai bíróság büntetőeljárást indított a RUDN Egyetemhez tartozó külföldiek tesztelési központjának vezetői és dolgozói ellen, akik 2021 és 2024 között mintegy 500 migránsnak segítettek hamis úton szerezni munkavállalási engedélyt és állampolgársági igazolásokat.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét jogi eljárásról szól, de nincs hivatalos megerősítés vagy részletes bizonyíték. A migrációs csalások témájában releváns, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:21.433044+00:00"
     }
   },
   "legacy_reviews": {}
