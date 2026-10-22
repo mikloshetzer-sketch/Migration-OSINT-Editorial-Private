@@ -1,0 +1,878 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "live_events": [
+    {
+      "id": 702,
+      "event_id": 702,
+      "source": "X",
+      "source_post_id": "2113389600513175840",
+      "author": "Trumpusa1A1",
+      "published_at": "2026-10-22T21:58:40Z",
+      "collected_at": "2026-10-22T22:51:35Z",
+      "event_type": "INTERCEPTION",
+      "signal_type": "INTERCEPTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "U.S. COAST GUARD INTERCEPTS BOAT CARRYING 66 MIGRANTS IN THE CARIBBEAN\n\nThe U.S. Coast Guard intercepted a makeshift boat carrying 66 migrants in the Mona Passage between Puerto Rico and the Dominican Republic. Aerial footage captured the Friday operation as crews moved in to https://t.co/8LqkFob41d",
+      "url": "https://x.com/Trumpusa1A1/status/2113389600513175840",
+      "source_url": "https://x.com/Trumpusa1A1/status/2113389600513175840"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 563,
+      "group_id": 563,
+      "event_type": "INTERCEPTION",
+      "dominant_event_type": "INTERCEPTION",
+      "title": "INTERCEPTION",
+      "representative_text": "U.S. COAST GUARD INTERCEPTS BOAT CARRYING 66 MIGRANTS IN THE CARIBBEAN\n\nThe U.S. Coast Guard intercepted a makeshift boat carrying 66 migrants in the Mona Passage between Puerto Rico and the Dominican Republic. Aerial footage captured the Friday operation as crews moved in to https://t.co/8LqkFob41d",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-22T21:58:40Z",
+      "last_seen": "2026-10-22T21:58:40Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-22T22:51:35Z",
+      "updated_at": "2026-10-22T22:51:35Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1158,
+      "source": "X",
+      "source_post_id": "2113399159512293398",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-10-22T22:36:39Z",
+      "first_detected_at": "2026-10-22T22:52:46Z",
+      "last_detected_at": "2026-10-22T22:52:46Z",
+      "detection_count": 1,
+      "text": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "text_excerpt": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "url": "https://x.com/londonA84648/status/2113399159512293398",
+      "source_url": "https://x.com/londonA84648/status/2113399159512293398",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1156,
+      "source": "X",
+      "source_post_id": "2113402460018745362",
+      "author": "hech234",
+      "language": "en",
+      "published_at": "2026-10-22T22:49:46Z",
+      "first_detected_at": "2026-10-22T22:50:41Z",
+      "last_detected_at": "2026-10-22T22:50:41Z",
+      "detection_count": 1,
+      "text": "@ZEER0SUM the gdp growth rate was 4.8% in 2025 and 4% in 2026. per capita rate dropped because 2.9 million refugees returned",
+      "text_excerpt": "@ZEER0SUM the gdp growth rate was 4.8% in 2025 and 4% in 2026. per capita rate dropped because 2.9 million refugees returned",
+      "url": "https://x.com/hech234/status/2113402460018745362",
+      "source_url": "https://x.com/hech234/status/2113402460018745362",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "returned"
+        ],
+        [
+          "pressure",
+          "dropped because 2.9 million refugees"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "dropped because 2.9 million refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1157,
+      "source": "X",
+      "source_post_id": "2113394331365117977",
+      "author": "bobbusjohnson",
+      "language": "en",
+      "published_at": "2026-10-22T22:17:28Z",
+      "first_detected_at": "2026-10-22T22:51:35Z",
+      "last_detected_at": "2026-10-22T22:51:35Z",
+      "detection_count": 1,
+      "text": "@RupertLowe10 Daniel Thomas? The guy whos brain got so mashed from anti-migrant hatred he went out in the channel in a boat and tried to slash it, thusly breaking the law and was arrested for it? I think it's partly your fault, no?",
+      "text_excerpt": "@RupertLowe10 Daniel Thomas? The guy whos brain got so mashed from anti-migrant hatred he went out in the channel in a boat and tried to slash it, thusly breaking the law and was arrested for it? I think it's partly your fault, no?",
+      "url": "https://x.com/bobbusjohnson/status/2113394331365117977",
+      "source_url": "https://x.com/bobbusjohnson/status/2113394331365117977",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1158,
+      "source": "X",
+      "source_post_id": "2113399159512293398",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-10-22T22:36:39Z",
+      "first_detected_at": "2026-10-22T22:52:46Z",
+      "last_detected_at": "2026-10-22T22:52:46Z",
+      "detection_count": 1,
+      "text": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "text_excerpt": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "url": "https://x.com/londonA84648/status/2113399159512293398",
+      "source_url": "https://x.com/londonA84648/status/2113399159512293398",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1156,
+      "source": "X",
+      "source_post_id": "2113402460018745362",
+      "author": "hech234",
+      "language": "en",
+      "published_at": "2026-10-22T22:49:46Z",
+      "first_detected_at": "2026-10-22T22:50:41Z",
+      "last_detected_at": "2026-10-22T22:50:41Z",
+      "detection_count": 1,
+      "text": "@ZEER0SUM the gdp growth rate was 4.8% in 2025 and 4% in 2026. per capita rate dropped because 2.9 million refugees returned",
+      "text_excerpt": "@ZEER0SUM the gdp growth rate was 4.8% in 2025 and 4% in 2026. per capita rate dropped because 2.9 million refugees returned",
+      "url": "https://x.com/hech234/status/2113402460018745362",
+      "source_url": "https://x.com/hech234/status/2113402460018745362",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "returned"
+        ],
+        [
+          "pressure",
+          "dropped because 2.9 million refugees"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "dropped because 2.9 million refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1157,
+      "source": "X",
+      "source_post_id": "2113394331365117977",
+      "author": "bobbusjohnson",
+      "language": "en",
+      "published_at": "2026-10-22T22:17:28Z",
+      "first_detected_at": "2026-10-22T22:51:35Z",
+      "last_detected_at": "2026-10-22T22:51:35Z",
+      "detection_count": 1,
+      "text": "@RupertLowe10 Daniel Thomas? The guy whos brain got so mashed from anti-migrant hatred he went out in the channel in a boat and tried to slash it, thusly breaking the law and was arrested for it? I think it's partly your fault, no?",
+      "text_excerpt": "@RupertLowe10 Daniel Thomas? The guy whos brain got so mashed from anti-migrant hatred he went out in the channel in a boat and tried to slash it, thusly breaking the law and was arrested for it? I think it's partly your fault, no?",
+      "url": "https://x.com/bobbusjohnson/status/2113394331365117977",
+      "source_url": "https://x.com/bobbusjohnson/status/2113394331365117977",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1158,
+      "source": "X",
+      "source_post_id": "2113399159512293398",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-10-22T22:36:39Z",
+      "first_detected_at": "2026-10-22T22:52:46Z",
+      "last_detected_at": "2026-10-22T22:52:46Z",
+      "detection_count": 1,
+      "text": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "text_excerpt": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "url": "https://x.com/londonA84648/status/2113399159512293398",
+      "source_url": "https://x.com/londonA84648/status/2113399159512293398",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1158,
+      "source": "X",
+      "source_post_id": "2113399159512293398",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-10-22T22:36:39Z",
+      "first_detected_at": "2026-10-22T22:52:46Z",
+      "last_detected_at": "2026-10-22T22:52:46Z",
+      "detection_count": 1,
+      "text": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "text_excerpt": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "url": "https://x.com/londonA84648/status/2113399159512293398",
+      "source_url": "https://x.com/londonA84648/status/2113399159512293398",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1158,
+      "source": "X",
+      "source_post_id": "2113399159512293398",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-10-22T22:36:39Z",
+      "first_detected_at": "2026-10-22T22:52:46Z",
+      "last_detected_at": "2026-10-22T22:52:46Z",
+      "detection_count": 1,
+      "text": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "text_excerpt": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "url": "https://x.com/londonA84648/status/2113399159512293398",
+      "source_url": "https://x.com/londonA84648/status/2113399159512293398",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2113399159512293398"
+      ],
+      "related_authors": [
+        "londonA84648"
+      ],
+      "related_urls": [
+        "https://x.com/londonA84648/status/2113399159512293398"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1158,
+      "source": "X",
+      "source_post_id": "2113399159512293398",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-10-22T22:36:39Z",
+      "first_detected_at": "2026-10-22T22:52:46Z",
+      "last_detected_at": "2026-10-22T22:52:46Z",
+      "detection_count": 1,
+      "text": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "text_excerpt": "@jammyDodja @AdamBrimson @RestoreBritain @RupertLowe10 This is years old, and Farage was 100% correct to say deportations are politically impossible without leaving the ECHR\n\nThat is why Reforms policy has always been to leave the ECHR and deport migrants\n\nIt's odd you're trying to mislead people with a deliberately misleading clip",
+      "url": "https://x.com/londonA84648/status/2113399159512293398",
+      "source_url": "https://x.com/londonA84648/status/2113399159512293398",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2113399159512293398"
+      ],
+      "related_authors": [
+        "londonA84648"
+      ],
+      "related_urls": [
+        "https://x.com/londonA84648/status/2113399159512293398"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:20900",
+      "timestamp": "2026-10-22T22:44:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113401100057403629",
+      "author": "HeyBob_GFY",
+      "url": "https://x.com/HeyBob_GFY/status/2113401100057403629",
+      "source_url": "https://x.com/HeyBob_GFY/status/2113401100057403629",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@BoykisserTwT @CourtneyLC80 That's may be true if the \"Jesus\" you are speaking of, is a member of the Mexican cartels trying to smuggle migrants across the southern border.\n\nI bet that guy is a total pedo scumbag.. .. .. and a liberal voter.",
+      "text_excerpt": "@BoykisserTwT @CourtneyLC80 That's may be true if the \"Jesus\" you are speaking of, is a member of the Mexican cartels trying to smuggle migrants across the southern border.\n\nI bet that guy is a total pedo scumbag.. .. .. and a liberal voter.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T22:51:08Z",
+      "last_collected_at": "2026-10-22T22:51:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20901",
+      "timestamp": "2026-10-22T22:41:43Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113400435218202762",
+      "author": "RTCORGUK",
+      "url": "https://x.com/RTCORGUK/status/2113400435218202762",
+      "source_url": "https://x.com/RTCORGUK/status/2113400435218202762",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "Channel Disaster Warning: Only a Matter of Time\n\nThe Home Office's border security chief has warned MPs that a mass-casualty event in the English Channel is only a matter of time.\n\nWith almost 3,800 migrants reportedly waiting in camps across northern France, concerns are growing https://t.co/71C7eKFx1f",
+      "text_excerpt": "Channel Disaster Warning: Only a Matter of Time\n\nThe Home Office's border security chief has warned MPs that a mass-casualty event in the English Channel is only a matter of time.\n\nWith almost 3,800 migrants reportedly waiting in camps across northern France, concerns are growing https://t.co/71C7eKFx1f",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T22:51:08Z",
+      "last_collected_at": "2026-10-22T22:51:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20921",
+      "timestamp": "2026-10-22T22:37:47Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113399446285263228",
+      "author": "skisidjames",
+      "url": "https://x.com/skisidjames/status/2113399446285263228",
+      "source_url": "https://x.com/skisidjames/status/2113399446285263228",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@Hillofwad @reformparty_uk No. Because ARAP closed to new applications in July 2025. The Tories lost control of immigration. A moratorium on asylum claims is worth considering to help remove the pull factor and end the appalling human trafficking across the Channel. I’m sorry you support illegal migration.",
+      "text_excerpt": "@Hillofwad @reformparty_uk No. Because ARAP closed to new applications in July 2025. The Tories lost control of immigration. A moratorium on asylum claims is worth considering to help remove the pull factor and end the appalling human trafficking across the Channel. I’m sorry you support illegal migration.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T22:52:20Z",
+      "last_collected_at": "2026-10-22T22:52:20Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20902",
+      "timestamp": "2026-10-22T22:35:53Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113398966981173518",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2113398966981173518",
+      "source_url": "https://x.com/grok/status/2113398966981173518",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "tunnel"
+      ],
+      "freshness_cues": [],
+      "text": "@gerhard_sol @Investanswers Your point holds. Multiple EU border states, intelligence reports, and investigations (including 2021 intercepts and 2026 Latvian/NYT accounts of flights, transport, tunnels, and intel involvement) document Belarus facilitating migrant pushes toward Poland, Lithuania, and Latvia",
+      "text_excerpt": "@gerhard_sol @Investanswers Your point holds. Multiple EU border states, intelligence reports, and investigations (including 2021 intercepts and 2026 Latvian/NYT accounts of flights, transport, tunnels, and intel involvement) document Belarus facilitating migrant pushes toward Poland, Lithuania, and Latvia",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T22:51:08Z",
+      "last_collected_at": "2026-10-22T22:51:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20905",
+      "timestamp": "2026-10-22T22:30:08Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113397518402769019",
+      "author": "johnBrocklehu12",
+      "url": "https://x.com/johnBrocklehu12/status/2113397518402769019",
+      "source_url": "https://x.com/johnBrocklehu12/status/2113397518402769019",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "@GBNEWS @Nigel_Farage Just waiting for the government to claim the credit for no Migrants crossing the Channel for almost a fortnight",
+      "text_excerpt": "@GBNEWS @Nigel_Farage Just waiting for the government to claim the credit for no Migrants crossing the Channel for almost a fortnight",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T22:51:08Z",
+      "last_collected_at": "2026-10-22T22:51:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20933",
+      "timestamp": "2026-10-22T22:15:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113393770511339792",
+      "author": "RealMistaSmoke",
+      "url": "https://x.com/RealMistaSmoke/status/2113393770511339792",
+      "source_url": "https://x.com/RealMistaSmoke/status/2113393770511339792",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@JRope5351525308 @DonaldJTrumpJr A total of 260k illegal migrants have arrived in the uk in about 9 years. Nowhere is being overrun you are being lied to. Many of them have since been deported. You are being lied to. Don’t believe the lies.",
+      "text_excerpt": "@JRope5351525308 @DonaldJTrumpJr A total of 260k illegal migrants have arrived in the uk in about 9 years. Nowhere is being overrun you are being lied to. Many of them have since been deported. You are being lied to. Don’t believe the lies.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T22:52:46Z",
+      "last_collected_at": "2026-10-22T22:52:46Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-10-22T22:52:54.590820+00:00"
+}
