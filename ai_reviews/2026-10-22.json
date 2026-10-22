@@ -397,6 +397,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T02:14:21.433044+00:00"
+    },
+    "group:558": {
+      "hu_text": "@AinsworthKeith Az a tömeges migránscsoport, amely a határ felé tart, mind ki lesz toloncolva. A demokraták hamis információkat adtak nekik, hogy eljöjjenek, így a határőrség a határra koncentráljon, és csökkenjen a BP, ICE és HLS jelenléte a városokban és szavazóhelyiségekben. Ez nem fog működni, mert a BP, ICE és HLS mindent képes kezelni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és feltételezéseket tartalmaz a migránsok toloncolásáról és a határőrség működéséről, de nincs megerősített bizonyíték a tömeges kitoloncolásra vagy a demokraták szándékaira.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:32.219547+00:00"
+    },
+    "group:559": {
+      "hu_text": "@BybhDlr97519 @Anthea06274890 @RabbiJeffx Propaganda. Az arab vezetők ellenezték a zsidó bevándorlást a második világháború után; a britek ennek nyomására korlátozták azt és sok menekült hajót elfogtak. A videó a brit mandátum alatti érkezéseket mutatja, nem pedig palesztin üdvözlést. A palesztin népesség azóta többszörösére nőtt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi állításokat tartalmaz, amelyek részben ismertek, de a konkrét videó és események hitelessége nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:32.219569+00:00"
+    },
+    "information:20683": {
+      "hu_text": "[Eclipse Net] - 4. fejezet\nMielőtt Lin Zong alagútfúróvá vált volna, a világ sosem tűnt számára különösebben bonyolultnak. A '15-ös generáció tagjaként inkább otthonülő volt, kevés figyelmet fordított a társadalomra és a történelemre. Tudta, hogy voltak világháborúk, de azok számára inkább legendák voltak. Gyermekkorában a világ fokozatosan rendetlenségbe süllyedt, de a gazdasági összefonódás ezt elfedte. 2020-ban még kisgyerek volt, 2022-ben kitört az orosz-ukrán háború, 2027-ben véget ért, 2029-ben az USA elismerte Észak-Koreát nukleáris hatalomként, 2030-ban pedig kiderült, hogy a Mars-kolonizációs terv csalás volt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Irodalmi vagy fikciós jellegű, háttérinformációkat tartalmazó szöveg, nem közvetlenül migrációs esemény vagy aktuális információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:32.219576+00:00"
+    },
+    "information:20698": {
+      "hu_text": "🚨 Közel 4000 migráns vár arra, hogy átkeljen Nagy-Britanniába. Ez a szokásos szint kétszerese.\n\nA figyelmeztetés a kormány saját Határbiztonsági Parancsnokától származik.\n\nNem elemző, nem ellenzéki képviselő, hanem a felelős hivatalnok.\n\nA kormány szigorítást ígért. Ez a szám.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Kormányzati forrásból származó határbiztonsági adatokat közöl, amelyek fontosak a migrációs helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:32.219580+00:00"
+    },
+    "information:20701": {
+      "hu_text": "Jó reggelt X!! 😎☕️🫡\n\n42 dél-afrikai (jogi, ellenőrzött, beilleszkedő menekült - nem nyitott határok káosza, nem végtelen eltartottak, nem végtelen segélyezettek, nem kulturális elutasítás) érkezett Dulles-be - amerikai zászlókat lengetve, hálásan, készen állva dolgozni és hozzájárulni az amerikai társadalomhoz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Pozitív társadalmi diskurzust közvetít a menekültek beilleszkedéséről, de nem tartalmaz konkrét bizonyítható adatokat vagy eseményeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:32.219584+00:00"
+    },
+    "information:20707": {
+      "hu_text": "A Határőrség vezetője figyelmeztet, hogy 4000 migráns gyülekezik a francia táborokban, készen arra, hogy átkeljenek a Csatornán, és egy tömeges áldozatokkal járó esemény csak idő kérdése.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági figyelmeztetés, amely a migrációs nyomás növekedésére utal, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:32.219588+00:00"
     }
   },
   "legacy_reviews": {}
