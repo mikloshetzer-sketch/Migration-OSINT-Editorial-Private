@@ -936,6 +936,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T19:40:19.003502+00:00"
+    },
+    "telegram:1261826972:53753": {
+      "hu_text": "A rendőrség vizsgálja két nemi erőszak bejelentését Benítez és a CETI közelében. Két nő, akiknek az életkora nem ismert, de az egyikük a Hípica menedékhelyen lakik, segítséget kért, és mentővel kórházba szállították őket. A nők bevándorlók általi támadásokról számoltak be.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés súlyos bűncselekményről szól, de a forrás nem ellenőrzött, és nincs megerősített bizonyíték a történtekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:40:24.454759+00:00"
+    },
+    "telegram:1983050450:25011": {
+      "hu_text": "Az MSZU jogi karát kanyarójárvány miatt karantén alá helyezték. A hallgatókat  október 21-től november 3-ig távoktatásra küldik. Egy fertőzött mesterhallgató igazolást hozott az egyetemre. Az egyetem megerősítette a karantén bevezetését. Korábban a VМК és a földrajzi karon is online oktatásra tértek át kanyarójárvány miatt. A fogyasztóvédelmi hatóság korábban a járványokat migránsokhoz kötötte.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ részben hivatalos egyetemi intézkedéseken alapul, de a migránsokhoz kötés nem megerősített és politikailag érzékeny állítás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:40:24.454777+00:00"
     }
   },
   "legacy_reviews": {}
