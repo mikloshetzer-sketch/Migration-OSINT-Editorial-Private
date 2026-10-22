@@ -309,6 +309,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T02:13:57.198524+00:00"
+    },
+    "record:2113071582520480143": {
+      "hu_text": "Egy ideiglenes csónakban 66 migránst tartottak fogva az Egyesült Államok Parti Őrségének karibi térségben, légi felvételek is készültek a hajóról, miközben a személyzet segíteni próbált az utasokon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés migrációs eseményt ír le, de nincs független megerősítés vagy további bizonyíték a történtekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:07.274433+00:00"
+    },
+    "record:2113078851467120985": {
+      "hu_text": "A Katolikus Karitász és a HIAS főként a határőrizeti eljárás után segíti a migránsokat menedékkel, étellel, jogi segítséggel és bírósági szállítással. Kritikusok szerint ez elősegíti a belső mozgást és vonzóvá teszi a rendszert szövetségi támogatások révén, amit a csoportok tagadnak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránssegítő szervezetek tevékenységéről szól, de állításai nem ellenőrzöttek, és a csoportok tagadják a kritikákat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:07.274451+00:00"
+    },
+    "record:2113090026213097973": {
+      "hu_text": "A következő 75 évben 60 millió bevándorlót szeretnének befogadni. Jelenleg az infrastruktúra nem bírja a terhelést, 2016 óta 5,1 millió bevándorló érkezett. Az új menedékkérők első évükben 65-85%-ban szociális támogatásra szorulnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások migrációs szándékokra és társadalmi hatásokra vonatkoznak, de nem ellenőrzött adatokon alapulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:07.274456+00:00"
+    },
+    "record:2113087712202838096": {
+      "hu_text": "Igen... és mindez az illegális bevándorláshoz kötődik... teljes egészében. Barack Obama mintegy 6 320 szomáliai menekültet telepített át Minnesotába, miközben összesen körülbelül 54 000 szomáliai menekült érkezett az Egyesült Államokba az ő elnöksége alatt. Ez nagyon sok, előzetesen nem ellenőrzött muszlim bevándorló.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét számadatokat tartalmaznak, de nincs megbízható forrás vagy bizonyíték az ellenőrzéshez. A bevándorlási csalás és az előzetes ellenőrzés hiánya állítása politikailag érzékeny, de nem bizonyított.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:15.619157+00:00"
+    },
+    "record:2113088980191531084": {
+      "hu_text": "Ők menekültként érkeztek Palesztinába.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás rövid és általános, menekültek érkezéséről szól Palesztinába, de nincs további részlet vagy bizonyíték. Ez egy alapvető tény lehet, de forrás nélkül nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:15.619175+00:00"
+    },
+    "record:reddit_1xc44je": {
+      "hu_text": "2026. október 21-i nemzetközi hírek: Oroszország szabadon engedte Stephen Hubbard amerikai tanárt Trump személyes kérésére; Alberta 76-77%-kal maradásra szavazott Kanadában; Franciaország és Olaszország katonákat vezényel a tüntetések miatt; Burkina Faso visszaállította a halálbüntetést terrorizmusért; a Trump-kormány több mint 300 000 vízumot vont vissza; a Fehér Ház szerint 3 millió migráns hagyta el az USA-t Trump alatt, a határátlépések 95%-kal csökkentek Bidenhez képest; a DHS meghosszabbította a deportációs védelmet 105 000 szudáni és ukrán bevándorlónak; Ukrajna különleges erői orosz katonákat öltek és fogtak el; Kína nyílt forráskódú AI keretrendszert adott ki; TSMC leállította egy gyár építését; az APEC pénzügyminiszterei megállapodtak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hírek sokrétűek és fontos migrációs, politikai és biztonsági témákat érintenek, de egyetlen forrásból származnak, és nem ellenőrzöttek. Különösen a migrációs és deportációs adatok fontosak, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:14:15.619178+00:00"
     }
   },
   "legacy_reviews": {}
