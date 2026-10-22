@@ -2,7 +2,7 @@
   "schema": "migration-osint-manual-editorial-overrides-v2",
   "date": "2026-10-21",
   "timezone": "Europe/Budapest",
-  "updated_at": "2026-10-22T12:01:24.505Z",
+  "updated_at": "2026-10-22T12:01:47.370Z",
   "overrides": [
     {
       "event_id": "telegram:1261826972:53688",
@@ -613,6 +613,19 @@
       "source_kind": "UNKNOWN",
       "note": "",
       "updated_at": "2026-10-22T12:01:23.997Z",
+      "reviewed_day": "2026-10-21"
+    },
+    {
+      "event_id": "record:reddit_1xbv1qw",
+      "decision": "PUBLISH",
+      "title": "Texas Sucks: Inside the Texas courtroom where toddlers face immigration judgesThe shit they report happens is so absurd and terrible that I wouldn't believe it",
+      "hungarian": "Texasban egy bíróságon migráns gyerekek állnak az ügyészek előtt, sokan ügyvéd nélkül. Egy 13 éves hondurasi fiú nem jogosult menedékjogra, mert a bíróság szerint nem elég veszélyes számára a hazatérés, bár családja az USA-ban él. A gyerekek nagyon fiatalok, és az eljárás komoly következményekkel járhat számukra.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "source_kind": "UNKNOWN",
+      "note": "",
+      "updated_at": "2026-10-22T12:01:46.699Z",
       "reviewed_day": "2026-10-21"
     }
   ]
