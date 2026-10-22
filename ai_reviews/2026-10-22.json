@@ -529,6 +529,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T09:02:41.591146+00:00"
+    },
+    "record:2113187954260914471": {
+      "hu_text": "Egy nagy migránskaraván éppen most hagyja el Mexikó déli határát, céljuk az Egyesült Államok elérése. Többségük közép-amerikai. Néhányan azt mondták, reménykednek, hogy a demokraták nyerik a félidős választásokat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A karaván mozgásáról szóló állítás fontos migrációs esemény, de nincs megerősített forrás vagy bizonyíték a jelenlegi mozgásra és a politikai reményekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:51.455381+00:00"
+    },
+    "record:2113188690478744059": {
+      "hu_text": "Egy tömeges migránscsoport, amely a határ felé tart, mind deportálásra kerül. A demokraták hamis információkat adtak nekik, hogy eljöjjenek, így a határőrség a határra koncentrál, és csökken a BP, ICE és HLS jelenléte városokban és szavazóhelyiségekben. Ez nem fog működni, mert a BP, ICE és HLS mindent kezelni tud.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és előrejelzés a deportálásról, nincs bizonyíték a tömeges deportálásra vagy a demokraták szándékaira.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:51.455400+00:00"
+    },
+    "record:2113191687140839802": {
+      "hu_text": "Propaganda. Az arab vezetők ellenezték a zsidó bevándorlást a második világháború után; a britek nyomásra korlátozták azt és sok menekült hajót elfogtak. A videó a brit mandátum alatti érkezéseket mutatja, nem pedig palesztin üdvözlést. A palesztin népesség azóta többszörösére nőtt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi állítás, amely a múlt eseményeit elemzi, de nincs új bizonyíték vagy forrás a videó hitelességéről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:51.455405+00:00"
+    },
+    "record:2113193366741717497": {
+      "hu_text": "Muhammad Shahid rendőr alfelügyelő, Aishath Sausan őrmester, Asad Abdul Kareem őrmester és Shamikh Ibrahim őrmester részt vettek az ENSZ Bűnügyi és Drogügyi Hivatala (UNODC) emberkereskedelemről és migránscsempészetről szóló workshopján, amelyet 2026. október 20-21-én tartottak Srí Lanka fővárosában, Colombóban.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Szakmai eseményről szóló információ, nincs bizonyíték a részvételről, de nem tartalmaz migrációs fenyegetést vagy eseményt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:51.455408+00:00"
+    },
+    "record:reddit_1xc6owv": {
+      "hu_text": "Embercsempészt fogtak el bombákkal és migránsokkal egy gyorsmotoros hajón Dél-Texasban, 2026. október 6-án. Az eset a Flour Bluff-i hajórámpánál történt, a Corpus Christi Haditengerészeti Repülőbázis közelében, ahol amerikai határvédelmi repülőgépek és drónok is működnek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos biztonsági eseményről szóló állítás, amely embercsempészetet és fegyveres fenyegetést is érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:51.455412+00:00"
+    },
+    "telegram:1173707041:9544": {
+      "hu_text": "Az Wasit tartományi Migrációs Minisztérium Nőügyi Egysége egy szemináriumot tartott a korai házasságok elleni társadalmi tudatosság növelésére. A rendezvényen részt vettek a helyi nőügyi és gyermekügyi osztály, a közösségi rendőrség és más illetékes szervek képviselői, akik a korai házasság társadalmi és gazdasági okairól, valamint annak hatásairól vitáztak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Hivatalos helyi eseményről szóló beszámoló, amely nem migrációs fenyegetést vagy illegális tevékenységet tartalmaz, hanem társadalmi tudatosságot növelő programot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:51.455416+00:00"
     }
   },
   "legacy_reviews": {}
