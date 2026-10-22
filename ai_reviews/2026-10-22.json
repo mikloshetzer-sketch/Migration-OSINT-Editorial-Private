@@ -463,6 +463,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T09:02:32.219588+00:00"
+    },
+    "information:20719": {
+      "hu_text": "Olaszország és Spanyolország megállapodott abban, hogy nem hosszabbítják meg a schengeni határellenőrzés felfüggesztését, ahogy azt a Viminale bejelentette. A Ceuta migránsválság után bevezetett ideiglenes légi és tengeri határellenőrzéseket nem hosszabbítják meg, helyettük erősebb biztonsági információmegosztás lép életbe.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a schengeni határellenőrzések változásáról, amely hatással lehet a migrációs folyamatokra és a határbiztonságra. Az állítás hivatalos forrásra hivatkozik, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:41.591111+00:00"
+    },
+    "information:20720": {
+      "hu_text": "Igen, Franciaország segítségével (Le Pen kormány alatt). Már megállapodás van a hajók visszaküldéséről. Ha ehhez hozzáadjuk a migránsok fogva tartását és a juttatások megvonását, akkor még 100 nap sem kell a változáshoz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és feltételezés a migrációs politika szigorításáról, amely nem bizonyított tény. További ellenőrzés szükséges a megállapodások és intézkedések valóságtartalmáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:41.591130+00:00"
+    },
+    "information:20721": {
+      "hu_text": "Az illegális migránsok különböző útvonalakon lépnek be Malajziába, nem csak a Golok folyón keresztül, ezért a General Operations Force (GOF) megerősítette a biztonsági intézkedéseket a szárazföldi és tengeri határoknál.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos információ a határbiztonsági intézkedések erősítéséről Malajziában, de az állítás nem ellenőrzött, további források szükségesek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:41.591135+00:00"
+    },
+    "information:20727": {
+      "hu_text": "A migránsok akár 500 millió dollárt fizettek csempészési díjakra az európai tengeri útvonalakon.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás jelentős összeget említ a migránsok által fizetett csempészési díjakról, ami fontos a migrációs hálózatok megértéséhez, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:41.591139+00:00"
+    },
+    "record:2113179613086023795": {
+      "hu_text": "Az Egyesült Királyság segélyprogramja június óta több mint 100 migránscsempészési kísérletet akadályozott meg a Nyugat-Balkánon keresztül. Lord Wood of Anfield, a Külügyminisztérium minisztere új támogatási csomagot jelent be a csempész hálózatok felszámolására.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migránscsempészés elleni küzdelemről és az Egyesült Királyság támogatási intézkedéseiről, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:41.591142+00:00"
+    },
+    "record:2113185116394524689": {
+      "hu_text": "FRISS: Egy újabb nagy migránskaraván indul el éppen Mexikó déli határáról, hogy megpróbáljon eljutni az Egyesült Államokba. A karaván tagjai, akik főként közép-amerikaiak, reményüket fejezték ki, hogy a Demokrata Párt nyeri a félidős választásokat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális migrációs eseményről szóló információ, amely fontos a migrációs mozgások nyomon követéséhez. Az állítás nem ellenőrzött, további források szükségesek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T09:02:41.591146+00:00"
     }
   },
   "legacy_reviews": {}
