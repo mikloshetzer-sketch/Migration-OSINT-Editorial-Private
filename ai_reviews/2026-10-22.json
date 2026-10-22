@@ -738,6 +738,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T14:47:30.938341+00:00"
+    },
+    "group:561": {
+      "hu_text": "„Súlyos egészségügyi problémákkal küzdő őrizetbe vett bevándorlókat arról tájékoztattak, hogy olyan afrikai országokba fogják kitoloncolni őket, ahol nincs családjuk vagy kapcsolataik. A floridai Krome fogvatartási központban tartják őket, és azt mondták, ezen a héten oda viszik őket, bár azt nem közölték, melyik országba.” - T Kennedy A Trump-kormányzat kegyetlensége elfogadhatatlan, vezetőik gonoszabbak, mint a nácik, új módszereket találnak ellenségeik kínzására és megölésére a 21. században. Sadizmusuk fokozódik‼️",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi kérdéseket vet fel a kitoloncolásokkal kapcsolatban, de nincs megerősített bizonyíték a konkrét esetekről vagy az afrikai országokról. Ezért fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:13.251629+00:00"
+    },
+    "group:562": {
+      "hu_text": "@AlexPadilla4CA Itt egy RING videókamerás képernyőkép 2026. október 20-áról. Egy ICE művelet során házkutatást tartottak és letartóztattak illegális bevándorlókat, akik gyerekekkel éltek egy embercsempészetre használt otthonban. Ügynökök, LAPD rendőrök, két kutyás egység és légi drónok is részt vettek. Én erre szavaztam.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét műveletről szól, de nincs független megerősítés vagy hivatalos forrás. A részletek ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:13.251650+00:00"
+    },
+    "information:20824": {
+      "hu_text": "Pat Ward (1944–1988) éhségsztrájkoló és a Green Book szerzője volt. Donegal megyei republikánus, aki a brit munkás- és polgárjogi mozgalmakban vett részt az 1960-as évek végén, majd a Provisional IRA és a republikánus börtönharcok aktív tagja volt az 1970-es években. Négy éhségsztrájk veteránja, egészségkárosodást szenvedett a Portlaoise börtönben 1975-ben. Később politikai oktatásban vett részt az IRA-n belül, és dolgozott a szervezet Green Book-ján. Élete utolsó éveiben ellenezte a Sinn Féin döntését a Dáil Éireann bojkottjának megszüntetéséről, és a Republican Sinn Féin egyik vezető alakja lett.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi tényeket tartalmaz, amelyek jól dokumentáltak és ellenőrizhetők.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:13.251654+00:00"
+    },
+    "information:20840": {
+      "hu_text": "@AbebaAbeba89473 @_AfricanUnion @antonioguterres @IntlCrimCourt @UNHumanRights @amnesty @Refugees @UNOCHA @UN A katonai pilóta nélküli légi járművek Etiópia határán súlyos emberi jogi jogsértéseket követnek el azzal, hogy szándékosan civileket támadnak Szudánban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos emberi jogi vádakat fogalmaz meg, de nincs független bizonyíték vagy hivatalos jelentés a konkrét eseményekről. Ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:13.251656+00:00"
+    },
+    "information:20843": {
+      "hu_text": "Illegális bevándorlók panaszkodnak, hogy nem engedik át a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Fenyegetnek, hogy bántani fognak, ha megpróbáljuk átlépni. Lengyelországba vagy Németországba akarok menni, hogy jobb életet éljek.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a migránsok szándékáról és a lengyel határzárról szól, de nincs független megerősítés a konkrét esetekről vagy fenyegetésekről. További ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:13.251658+00:00"
+    },
+    "information:20851": {
+      "hu_text": "@BristolGalt Nagy hajós migránsok, akiket senki sem akart, és mi sem akarjuk most sem. Deportálni kell az összeset.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz ellenőrizhető tényállítást, így nem igényel további ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T19:39:13.251660+00:00"
     }
   },
   "legacy_reviews": {}
