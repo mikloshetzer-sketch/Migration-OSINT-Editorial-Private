@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T02:13:33.282555+00:00"
+    },
+    "information:20643": {
+      "hu_text": "Bradon hazudik. Az USA már hat hónapja Mexikónál délebbre deportált mexikóiakat dob le. Több mint 60 000 migráns rekedt Tapachulában több mint hat hónapja, ebből a 600 fős csoport szeptemberben indult el. A republikánusok ismételték azt az állítást, hogy a demokraták megnyitják a határt, ami reményt adott nekik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, de nincs megerősített forrás vagy bizonyíték az állítások alátámasztására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:43.794482+00:00"
+    },
+    "information:20644": {
+      "hu_text": "Igen, ez egy valós történet. A cím és az állítás megfelel egy 2016. január 7-én megjelent Washington Post „Morning Mix” cikknek. A török rendőrség rajtaütött egy illegális műhelyen Izmirben, amely fontos kiindulópont a migránsoknak az Égei-tengeren Görögország felé.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét, korábbi újságcikkre hivatkozik, ami részben megerősíti a tartalmat, de a bemenet nem tartalmazza a teljes bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:43.794499+00:00"
+    },
+    "information:20646": {
+      "hu_text": "Igen, ez egy valós történet. A cím és az állítás megfelel egy 2016. január 7-én megjelent Washington Post „Morning Mix” cikknek. A török rendőrség rajtaütött egy illegális műhelyen Izmirben, amely fontos kiindulópont a migránsoknak az Égei-tengeren Görögország felé.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy korábbi, hiteles újságcikkre hivatkozik, ami részben megerősíti a tartalmat, de a bemenet nem tartalmazza a teljes bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:43.794503+00:00"
+    },
+    "information:20649": {
+      "hu_text": "Nincs semmi bajom Izraellel vagy a zsidó néppel. Csak azt kívánom, hogy az izraeliek ne „segítsék a muszlim menekülteket, akik hajón érkeznek”, ahogy itt szó szerint áll. Egyébként elnézést, amikor azt mondtam, hogy Izrael segít, valójában az izraeliek segítenek, nem Izrael állam.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény, amely nem tartalmaz ellenőrizhető tényállítást, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:43.794506+00:00"
+    },
+    "information:20652": {
+      "hu_text": "A felvétel 2015-ből származik, amikor az IsraAID önkéntesei segítettek a menekült hajókat fogadó Leszbosz szigetén, Görögországban a migrációs válság idején. Források között szerepelnek IsraAID posztok, a Times of Israel jelentései és egy 2016-os CBN/700 Club műsor. A piros körrel jelölt, vízjeles szerkesztett klipelem egy...",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több forrásra hivatkozik, amelyek részben igazolják a tartalmat, de a bemenet nem tartalmazza a teljes bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:43.794509+00:00"
+    },
+    "record:2113024774792429998": {
+      "hu_text": "@AlphaLiger @RepCasar Szerintem minden muszlim, illegális bevándorló, menekült és menedékkérő kitoloncolandó, de ez az eset nem ilyen volt: a floridai családjogi bíróság visszaküldte Kubába az apjához, mert az anyja elrabolta őt, és Floridába akarta vinni, amikor leesett a hajóról és megfulladt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét migrációs esetről szól, de nincs megerősített forrás vagy bizonyíték az esemény hitelességére, ezért ellenőrizetlennek minősül. A tartalom migrációs esemény kategóriába tartozik, és közepes prioritású a relevanciája miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:57.198524+00:00"
     }
   },
   "legacy_reviews": {}
