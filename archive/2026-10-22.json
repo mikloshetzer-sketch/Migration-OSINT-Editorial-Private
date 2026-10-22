@@ -199,6 +199,28 @@
       "text": "@AinsworthKeith That mass migrant group traveling to border will all be deported. Democrats gave them false info so they would come to keep border patrol focused on border &amp; reduce BP, ICE, &amp; HLS in cities &amp; polling stations. It wont work as BP, ICE, &amp; HLS can handle it all.",
       "url": "https://x.com/ppenguin95/status/2113188690478744059",
       "source_url": "https://x.com/ppenguin95/status/2113188690478744059"
+    },
+    {
+      "id": 695,
+      "event_id": 695,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xc461b",
+      "author": "usbordernews",
+      "published_at": "2026-10-22T00:29:39Z",
+      "collected_at": "2026-10-22T14:45:57Z",
+      "event_type": "SMUGGLING_ACTIVITY",
+      "signal_type": "SMUGGLING_ACTIVITY",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Coast Guard Stops 66 Migrants From Reaching US\nThe US Coast Guard intercepted 66 migrants aboard a human smuggling boat attempting to illegally reach Puerto Rico on Friday, October 16, 2026 . A Coast Guard airplane patrolling the treacherous waters of the Mona Passage first spotted the dangerously overloaded vessel 70 nautical miles northwest of Aguadilla and reported the sighting to Coast Guard Sector San Juan, which dispatched the Cutter Winslow Griesser and a rescue helicopter to the scene.",
+      "url": "https://www.reddit.com/r/uscg/comments/1xc461b/coast_guard_stops_66_migrants_from_reaching_us/",
+      "source_url": "https://www.reddit.com/r/uscg/comments/1xc461b/coast_guard_stops_66_migrants_from_reaching_us/"
     }
   ],
   "event_groups": [
@@ -433,6 +455,35 @@
       "average_confidence": 0.5,
       "created_at": "2026-10-22T09:00:31Z",
       "updated_at": "2026-10-22T09:00:31Z"
+    },
+    {
+      "id": 560,
+      "group_id": 560,
+      "event_type": "SMUGGLING_ACTIVITY",
+      "dominant_event_type": "SMUGGLING_ACTIVITY",
+      "title": "SMUGGLING_ACTIVITY",
+      "representative_text": "Coast Guard Stops 66 Migrants From Reaching US\nThe US Coast Guard intercepted 66 migrants aboard a human smuggling boat attempting to illegally reach Puerto Rico on Friday, October 16, 2026 . A Coast Guard airplane patrolling the treacherous waters of the Mona Passage first spotted the dangerously overloaded vessel 70 nautical miles northwest of Aguadilla and reported the sighting to Coast Guard Sector San Juan, which dispatched the Cutter Winslow Griesser and a rescue helicopter to the scene.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-22T00:29:39Z",
+      "last_seen": "2026-10-22T00:29:39Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "REDDIT"
+      ],
+      "sources": [
+        "REDDIT"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-22T14:45:57Z",
+      "updated_at": "2026-10-22T14:45:57Z"
     }
   ],
   "influence_signals": [
@@ -1232,6 +1283,124 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1151,
+      "source": "X",
+      "source_post_id": "2113277292075999435",
+      "author": "Michael78838372",
+      "language": "en",
+      "published_at": "2026-10-22T14:32:23Z",
+      "first_detected_at": "2026-10-22T14:45:23Z",
+      "last_detected_at": "2026-10-22T14:45:23Z",
+      "detection_count": 1,
+      "text": "@Dbow500 Yes agreed ! But its not impossible to clean the country up ! Poland only has 1 fence as the border to Poland and they keep all migrants out !\nTrump has deported over 100 000 already...you just start and keep going till theyre gone 🇬🇧💯",
+      "text_excerpt": "@Dbow500 Yes agreed ! But its not impossible to clean the country up ! Poland only has 1 fence as the border to Poland and they keep all migrants out !\nTrump has deported over 100 000 already...you just start and keep going till theyre gone 🇬🇧💯",
+      "url": "https://x.com/Michael78838372/status/2113277292075999435",
+      "source_url": "https://x.com/Michael78838372/status/2113277292075999435",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1150,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:53740",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-10-22T12:38:14Z",
+      "first_detected_at": "2026-10-22T14:44:56Z",
+      "last_detected_at": "2026-10-22T14:44:56Z",
+      "detection_count": 1,
+      "text": "🚩 ACTUALIZACIÓN CON VÍDEO ▶️ La casa patera de los horrores: 74 inmigrantes hacinados, algunos mordidos por perros, otros explotados\n\n➡️ La Policía Nacional cierra con un solo detenido el operativo desarrollado en el Príncipe, destapando una red que explotaba laboralmente a adultos y menores\n\n📷 Galería de fotos 📷\n\nhttps://elfarodeceuta.es/casa-patera-horrores-74-inmigrantes-hacinados-mordidos-perros-explotados/",
+      "text_excerpt": "🚩 ACTUALIZACIÓN CON VÍDEO ▶️ La casa patera de los horrores: 74 inmigrantes hacinados, algunos mordidos por perros, otros explotados\n\n➡️ La Policía Nacional cierra con un solo detenido el operativo desarrollado en el Príncipe, destapando una red que explotaba laboralmente a adultos y menores\n\n📷 Galería de fotos 📷\n\nhttps://elfarodeceuta.es/casa-patera-horrores-74-inmigrantes-hacinados-mordidos-perros-explotados/",
+      "url": "https://t.me/elfarodeceuta/53740",
+      "source_url": "https://t.me/elfarodeceuta/53740",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "enforcement",
+          "detenido"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
       "analyst_priority": "LOW"
     }
   ],
@@ -2033,6 +2202,124 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1151,
+      "source": "X",
+      "source_post_id": "2113277292075999435",
+      "author": "Michael78838372",
+      "language": "en",
+      "published_at": "2026-10-22T14:32:23Z",
+      "first_detected_at": "2026-10-22T14:45:23Z",
+      "last_detected_at": "2026-10-22T14:45:23Z",
+      "detection_count": 1,
+      "text": "@Dbow500 Yes agreed ! But its not impossible to clean the country up ! Poland only has 1 fence as the border to Poland and they keep all migrants out !\nTrump has deported over 100 000 already...you just start and keep going till theyre gone 🇬🇧💯",
+      "text_excerpt": "@Dbow500 Yes agreed ! But its not impossible to clean the country up ! Poland only has 1 fence as the border to Poland and they keep all migrants out !\nTrump has deported over 100 000 already...you just start and keep going till theyre gone 🇬🇧💯",
+      "url": "https://x.com/Michael78838372/status/2113277292075999435",
+      "source_url": "https://x.com/Michael78838372/status/2113277292075999435",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1150,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:53740",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-10-22T12:38:14Z",
+      "first_detected_at": "2026-10-22T14:44:56Z",
+      "last_detected_at": "2026-10-22T14:44:56Z",
+      "detection_count": 1,
+      "text": "🚩 ACTUALIZACIÓN CON VÍDEO ▶️ La casa patera de los horrores: 74 inmigrantes hacinados, algunos mordidos por perros, otros explotados\n\n➡️ La Policía Nacional cierra con un solo detenido el operativo desarrollado en el Príncipe, destapando una red que explotaba laboralmente a adultos y menores\n\n📷 Galería de fotos 📷\n\nhttps://elfarodeceuta.es/casa-patera-horrores-74-inmigrantes-hacinados-mordidos-perros-explotados/",
+      "text_excerpt": "🚩 ACTUALIZACIÓN CON VÍDEO ▶️ La casa patera de los horrores: 74 inmigrantes hacinados, algunos mordidos por perros, otros explotados\n\n➡️ La Policía Nacional cierra con un solo detenido el operativo desarrollado en el Príncipe, destapando una red que explotaba laboralmente a adultos y menores\n\n📷 Galería de fotos 📷\n\nhttps://elfarodeceuta.es/casa-patera-horrores-74-inmigrantes-hacinados-mordidos-perros-explotados/",
+      "url": "https://t.me/elfarodeceuta/53740",
+      "source_url": "https://t.me/elfarodeceuta/53740",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "enforcement",
+          "detenido"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "information_signals": [
@@ -2826,9 +3113,159 @@
       "first_collected_at": "2026-10-22T09:01:28Z",
       "last_collected_at": "2026-10-22T09:01:28Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20796",
+      "timestamp": "2026-10-22T14:22:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113274815964483957",
+      "author": "simplify77",
+      "url": "https://x.com/simplify77/status/2113274815964483957",
+      "source_url": "https://x.com/simplify77/status/2113274815964483957",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Guatemalan Human Trafficker Gets 30 Years for Role in 2022 Deadly Migrant-Smuggling Conspiracy\nhttps://t.co/sjCCdwD62Z",
+      "text_excerpt": "Guatemalan Human Trafficker Gets 30 Years for Role in 2022 Deadly Migrant-Smuggling Conspiracy\nhttps://t.co/sjCCdwD62Z",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T14:46:26Z",
+      "last_collected_at": "2026-10-22T14:46:26Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20757",
+      "timestamp": "2026-10-22T14:09:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xcjmtr",
+      "author": "Wide_Ride8849",
+      "url": "https://www.reddit.com/r/TrueUnpopularOpinion/comments/1xcjmtr/the_problem_with_african_americans_in_the_united/",
+      "source_url": "https://www.reddit.com/r/TrueUnpopularOpinion/comments/1xcjmtr/the_problem_with_african_americans_in_the_united/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "tunnel",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "The problem with African Americans in the United States is more cultural than structural\nI've heard and seen that a lot of African Americans are protesting and blaming \"White Supremacy\" as the reason as to why they are living in structural poverty and economic misery in the USA, but I don't think that is the main reason for their misfortunes and lower standard of living, and let me tell you why. The vast majority of Asian Americans arrived in America, empty handed, most of what triggered Asians to migrate and seek refuge to America are the wars that happened and decimated their countries. The bulk of Vietnamese Americans are migrants who escaped the Vietnam War. Same for Korean Americans, the vast majority are escapees from the Korean War. With the Chinese, it's a little bit different. The Chinese arrived in the 1800s as poor laborers in America, and they are ones of those who constructed the rail tunnels of California. Filipinos arrived in America as laborers in the sugar fields of Hawaii and California, and as canners and whalers in Alaska. Nowadays, the Asian communities are thriving in the United States, and they are quite successful, economically speaking. Vietnamese owns nail salons across America. Koreans own grocery chains. Chinese own restaurants and are managers at Silicon Valley. Filipinos are very much successful in the healthcare industry. Latinos have an even much difficult starting point. Latinos were very much discriminated in the past and they were employed in jobs that no one wants such as construction, cleaning, cooks, nannies, etc. , but now Latinos are also part of the growing American Middle Class. What's surprising is that, recent African migrants in the United States like Ghanaians, Kenyans, Nigerians and South Africans are also largely middle class and are highly educated. Recent African migrants don't face the same economic issues that Black Americans do. I really think that the problem with Black Americans with regards to the economic issues that they are facing are more cultural than political nor structural. One thing that I noticed with Black culture is that, they don't focus very much on education, not on the same level of how Asian Americans dedicated themselves to scientific and academic endeavors. One of the biggest problem with Black culture at present is that instead of focusing on academic excellence, many among them wants to be famous through sports or the entertainment industry. I'm not saying that it's bad, I'm just saying that having educational accomplishments can lift you more out of poverty than dreaming to be an athlete or entertainer, which has fewer doors or avenues of opportunities.",
+      "text_excerpt": "The problem with African Americans in the United States is more cultural than structural\nI've heard and seen that a lot of African Americans are protesting and blaming \"White Supremacy\" as the reason as to why they are living in structural poverty and economic misery in the USA, but I don't think that is the main reason for their misfortunes and lower standard of living, and let me tell you why. The vast majority of…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T14:44:54Z",
+      "last_collected_at": "2026-10-22T14:44:54Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20799",
+      "timestamp": "2026-10-22T14:06:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113270714912370911",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2113270714912370911",
+      "source_url": "https://x.com/grok/status/2113270714912370911",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@Nunyabiz6942069 @roby0512_daniel Stash houses run by cartels in Mexico mainly hold migrants for paid smuggling north. Some watchlist individuals have been encountered among border crossers, as cartels move anyone who pays. Official reports find no dedicated terrorist stash-house networks or established bases in",
+      "text_excerpt": "@Nunyabiz6942069 @roby0512_daniel Stash houses run by cartels in Mexico mainly hold migrants for paid smuggling north. Some watchlist individuals have been encountered among border crossers, as cartels move anyone who pays. Official reports find no dedicated terrorist stash-house networks or established bases in",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T14:46:27Z",
+      "last_collected_at": "2026-10-22T14:46:27Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20787",
+      "timestamp": "2026-10-22T11:37:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xcg5iv",
+      "author": "Ok_Signal4754",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xcg5iv/woman_is_gangraped_on_migrant_boat_during_deadly/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xcg5iv/woman_is_gangraped_on_migrant_boat_during_deadly/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Woman is gang-raped on migrant boat during deadly Atlantic crossing to Spanish holiday island | Spain\nSource",
+      "text_excerpt": "Woman is gang-raped on migrant boat during deadly Atlantic crossing to Spanish holiday island | Spain\nSource",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-22T14:45:57Z",
+      "last_collected_at": "2026-10-22T14:45:57Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-22T09:02:07.564431+00:00",
+  "last_archived_at": "2026-10-22T14:47:02.009323+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -3008,6 +3445,94 @@
         "X"
       ],
       "independent_author_count": 3,
+      "platform_count": 1
+    },
+    {
+      "id": 1148,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xc6owv",
+      "author": "usbordernews",
+      "language": null,
+      "published_at": "2026-10-22T02:31:10Z",
+      "first_detected_at": "2026-10-22T09:01:29Z",
+      "last_detected_at": "2026-10-22T14:45:57Z",
+      "detection_count": 2,
+      "text": "Human Smuggler With Bombs Busted\nThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on October 6, 2026. This unfolded at a boat ramp off the Intracoastal Waterway in Flour Bluff, Texas, just South of the Corpus Christi Naval Air Station (which ironically hosts a large squadron of US Customs & Border Protection patrol aircraft and surveillance drones).",
+      "text_excerpt": "Human Smuggler With Bombs Busted\nThe US Border Patrol busted a suspected human smuggler found with bombs and migrants aboard a speedboat in South Texas on October 6, 2026. This unfolded at a boat ramp off the Intracoastal Waterway in Flour Bluff, Texas, just South of the Corpus Christi Naval Air Station (which ironically hosts a large squadron of US Customs & Border Protection patrol aircraft and surveillance drones).",
+      "url": "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+      "source_url": "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "facilitation",
+          "Human Smuggler"
+        ],
+        [
+          "facilitation",
+          "human smuggler"
+        ],
+        [
+          "facilitation",
+          "Smuggler With Bombs Busted The US Border Patrol busted a suspected human smuggler found with bombs and migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Human Smuggler",
+        "human smuggler",
+        "Smuggler With Bombs Busted The US Border Patrol busted a suspected human smuggler found with bombs and migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "reddit_1xc6owv",
+        "reddit_1xc47uz"
+      ],
+      "related_authors": [
+        "usbordernews"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/corpus/comments/1xc6owv/human_smuggler_with_bombs_busted/",
+        "https://www.reddit.com/r/CorpusChristi/comments/1xc47uz/human_smuggler_with_bombs_busted/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
       "platform_count": 1
     }
   ]
