@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-21T22:56:54.489994+00:00"
+    },
+    "group:554": {
+      "hu_text": "2026. október 21-i nemzetközi hírek: Oroszország szabadon engedte az amerikai tanárt, Stephen Hubbard-t Trump személyes kérésére. Alberta 76-77%-ban maradásra szavazott Kanadában, elutasítva a kiválási népszavazást. Franciaország és Olaszország katonákat vezényeltek a hétvégi tüntetések miatt, Franciaország kijárási tilalmat rendelt el és 2400 embert tartóztatott le. Egy rwandai ellenzéki fej nélküli holttestét találták Ugandában. Burkina Faso visszaállította a halálbüntetést terrorizmus, hazaárulás és kémkedés miatt. A Trump-kormányzat több mint 300 000 vízumot vont vissza, és azt állítja, hogy 3 millió migráns hagyta el az USA-t, a határátlépések 95%-kal csökkentek Biden idejéhez képest. A DHS meghosszabbította a kitoloncolási védelmet 105 000 szudáni és ukrán bevándorlónak, szemben Trump ígéretével. Ukrán különleges erők állítólag 108 orosz katonát öltek meg és 29-et fogtak el. Egyéb hírek: kínai AI fejlesztések, gyárbaleset Tajvanon, APEC pénzügyminiszterek megállapodása.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg több migrációval kapcsolatos állítást tartalmaz, például migránsok számának csökkenése az USA-ban, vízumvisszavonások, kitoloncolási védelem meghosszabbítása. Ezek fontos migrációs események, de forrás nélkül nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:33.282524+00:00"
+    },
+    "group:555": {
+      "hu_text": "@nayibbukele 60 millió ember akar bevándorolni a következő 75 évben. Az infrastruktúránk már most nem bírja el az 5,1 millió bevándorlót 2016 óta. Az újonnan érkező menedékkérők első évükben nagyobb arányban szorulnak szociális támogatásra, kb. 65-85%-ban.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások migrációs szándékra és menedékkérők helyzetére vonatkoznak, de nem tartalmaznak bizonyított adatokat, ezért ellenőrizendők.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:33.282543+00:00"
+    },
+    "group:556": {
+      "hu_text": "@LRayM_01 @Jvnior Menekültként érkeztek Palesztinába 🇵🇸.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Rövid állítás, amely menekült státuszra utal, de nem tartalmaz további bizonyítékot vagy részleteket.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:33.282547+00:00"
+    },
+    "group:557": {
+      "hu_text": "@fullcontactman @nicksortor Igen... és mindez bevándorlási csalással kapcsolatos. Barack Obama mintegy 6320 szomáliai menekültet telepített le Minnesotában, míg összesen kb. 54 000 szomáliai menekült érkezett az USA-ba elnöksége alatt. Ez sok ellenőrizetlen muszlim bevándorlót jelent.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások bevándorlási csalásról és menekültek számáról, de nincs megerősített adat, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:33.282550+00:00"
+    },
+    "information:20638": {
+      "hu_text": "A visszafelé történő asszimiláció krónikája: Kaliforniában a migránscsempészet beágyazódott jelenség, amelyet városi és állami tisztviselők is aktívan védenek. Ezzel párhuzamosan a rablás és emberrablás bűnözői gazdasága is terjed a határon túlra. Egy újabb emberkereskedelmi eset.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások migránscsempészettel és emberkereskedelemmel kapcsolatosak, fontos biztonsági és bűnügyi témák, de forrás nélkül nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:33.282553+00:00"
+    },
+    "information:20639": {
+      "hu_text": "A visszafelé történő asszimiláció krónikája: Kaliforniában a migránscsempészet beágyazódott jelenség, amelyet városi és állami tisztviselők is aktívan védenek. Ezzel párhuzamosan a rablás és emberrablás bűnözői gazdasága is terjed a határon túlra. Egy újabb emberkereskedelmi eset.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az előző rekorddal azonos tartalom, migránscsempészettel és emberkereskedelemmel kapcsolatos állítások, forrás nélkül nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-22T02:13:33.282555+00:00"
     }
   },
   "legacy_reviews": {}
