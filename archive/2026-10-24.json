@@ -1,0 +1,697 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-24",
+  "influence_signals": [
+    {
+      "id": 1172,
+      "source": "X",
+      "source_post_id": "2113763260591722609",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:43:27Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "@MOSSADil Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@MOSSADil Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113763260591722609",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763260591722609",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1173,
+      "source": "X",
+      "source_post_id": "2113763239985103177",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:43:22Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/Pu40LXwFXq",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/Pu40LXwFXq",
+      "url": "https://x.com/PuryearFiberArt/status/2113763239985103177",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763239985103177",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1174,
+      "source": "X",
+      "source_post_id": "2113763105943462271",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:42:50Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "@texan_maga @SenTomCotton Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@texan_maga @SenTomCotton Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113763105943462271",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763105943462271",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1175,
+      "source": "X",
+      "source_post_id": "2113763059349020845",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:42:39Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/1dJcYlJj0p",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/1dJcYlJj0p",
+      "url": "https://x.com/PuryearFiberArt/status/2113763059349020845",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763059349020845",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1171,
+      "source": "X",
+      "source_post_id": "2113762909444596136",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:42:04Z",
+      "first_detected_at": "2026-10-23T22:43:16Z",
+      "last_detected_at": "2026-10-23T22:43:16Z",
+      "detection_count": 1,
+      "text": "@BillHagertyTN Fool!\n\nThoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@BillHagertyTN Fool!\n\nThoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113762909444596136",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113762909444596136",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1172,
+      "source": "X",
+      "source_post_id": "2113763260591722609",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:43:27Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "@MOSSADil Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@MOSSADil Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113763260591722609",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763260591722609",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1173,
+      "source": "X",
+      "source_post_id": "2113763239985103177",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:43:22Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/Pu40LXwFXq",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/Pu40LXwFXq",
+      "url": "https://x.com/PuryearFiberArt/status/2113763239985103177",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763239985103177",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1174,
+      "source": "X",
+      "source_post_id": "2113763105943462271",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:42:50Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "@texan_maga @SenTomCotton Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@texan_maga @SenTomCotton Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113763105943462271",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763105943462271",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1175,
+      "source": "X",
+      "source_post_id": "2113763059349020845",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:42:39Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/1dJcYlJj0p",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/1dJcYlJj0p",
+      "url": "https://x.com/PuryearFiberArt/status/2113763059349020845",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763059349020845",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1171,
+      "source": "X",
+      "source_post_id": "2113762909444596136",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:42:04Z",
+      "first_detected_at": "2026-10-23T22:43:16Z",
+      "last_detected_at": "2026-10-23T22:43:16Z",
+      "detection_count": 1,
+      "text": "@BillHagertyTN Fool!\n\nThoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@BillHagertyTN Fool!\n\nThoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113762909444596136",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113762909444596136",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1172,
+      "source": "X",
+      "source_post_id": "2113763260591722609",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T22:43:27Z",
+      "first_detected_at": "2026-10-23T22:45:07Z",
+      "last_detected_at": "2026-10-23T22:45:07Z",
+      "detection_count": 1,
+      "text": "@MOSSADil Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "text_excerpt": "@MOSSADil Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the",
+      "url": "https://x.com/PuryearFiberArt/status/2113763260591722609",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113763260591722609",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 33.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 9,
+      "related_post_ids": [
+        "2113763260591722609",
+        "2113763239985103177",
+        "2113763105943462271",
+        "2113763059349020845",
+        "2113762909444596136",
+        "2113629814590407084",
+        "2113628328628289637",
+        "2113628016387502158",
+        "2113627885802054071"
+      ],
+      "related_authors": [
+        "PuryearFiberArt"
+      ],
+      "related_urls": [
+        "https://x.com/PuryearFiberArt/status/2113763260591722609",
+        "https://x.com/PuryearFiberArt/status/2113763239985103177",
+        "https://x.com/PuryearFiberArt/status/2113763105943462271",
+        "https://x.com/PuryearFiberArt/status/2113763059349020845",
+        "https://x.com/PuryearFiberArt/status/2113762909444596136",
+        "https://x.com/PuryearFiberArt/status/2113629814590407084",
+        "https://x.com/PuryearFiberArt/status/2113628328628289637",
+        "https://x.com/PuryearFiberArt/status/2113628016387502158",
+        "https://x.com/PuryearFiberArt/status/2113627885802054071"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:21221",
+      "timestamp": "2026-10-23T22:40:53Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113762614358741003",
+      "author": "provocatr",
+      "url": "https://x.com/provocatr/status/2113762614358741003",
+      "source_url": "https://x.com/provocatr/status/2113762614358741003",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@W0lfyZx @bluemoonyellows It's called pushbacks happen at most EU external borders. Military-age men and other migrants are routinely used as weapons by trafficking states like Turkey, Libya, Algeria. Both practices are illegal under international law, but both occur regularly\nhttps://t.co/8LyaCqewAJ",
+      "text_excerpt": "@W0lfyZx @bluemoonyellows It's called pushbacks happen at most EU external borders. Military-age men and other migrants are routinely used as weapons by trafficking states like Turkey, Libya, Algeria. Both practices are illegal under international law, but both occur regularly\nhttps://t.co/8LyaCqewAJ",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T22:44:39Z",
+      "last_collected_at": "2026-10-23T22:44:39Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-10-23T22:45:13.518445+00:00"
+}
