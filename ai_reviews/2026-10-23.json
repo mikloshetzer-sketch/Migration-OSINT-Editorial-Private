@@ -628,6 +628,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T14:34:20.204568+00:00"
+    },
+    "telegram:1261826972:53778": {
+      "hu_text": "🚩 Amit a kormány mond azokról a bevándorlókról, akiket egy marokkói parti őrség hajó a tengerbe dobott, és akiket a Mentőszolgálat segített\n\n➡️ A végrehajtó hatalom azt állítja, hogy nincs tudomása a Marokkói Haditengerészet manőveréről, de védi a Mentőszolgálat humanitárius beavatkozását azzal az indokkal, hogy életveszélyben lévő embereket mentettek meg\n\nhttps://elfarodeceuta.es/gobierno-inmigrantes-arrojados-mar-patrullera-marroqui-auxilio-salvamento/",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy kormányzati állítást közöl egy konkrét eseményről, amely bevándorlók tengerbe dobásával kapcsolatos, és a mentőszolgálat beavatkozását említi. Az állítás nem ellenőrzött, mivel nincs független bizonyíték a manőver megtörténtéről vagy annak részleteiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:25.237922+00:00"
     }
   },
   "legacy_reviews": {}
