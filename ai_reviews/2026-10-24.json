@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-24",
+  "reviews": {
+    "information:21221": {
+      "hu_text": "Az EU külső határain rendszeresen előfordulnak visszatoloncolások. A katonakorú férfiakat és más migránsokat rendszeresen fegyverként használják olyan embercsempész államok, mint Törökország, Líbia és Algéria. Mindkét gyakorlat nemzetközi jog szerint illegális, de rendszeresen megtörténik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nemzetközi jogi és biztonsági kérdéseket érintenek, de nincs közvetlen bizonyíték a konkrét esetekre, ezért ellenőrizetlennek minősülnek. Fontos a határbiztonsági kontextus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T22:45:36.560835+00:00"
+    },
+    "record:2113762909444596136": {
+      "hu_text": "Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad, ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A karaván mozgásáról szóló információ fontos a migrációs mozgások előrejelzése szempontjából, de nincs megerősített bizonyíték az állításra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T22:45:36.560856+00:00"
+    },
+    "record:2113763059349020845": {
+      "hu_text": "Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad, ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz az információ, mint az előző rekordban, fontos a migrációs mozgások előrejelzéséhez, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T22:45:36.560861+00:00"
+    },
+    "record:2113763105943462271": {
+      "hu_text": "Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad, ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő információ a migránskaraván mozgásáról, fontos a mozgás szándékának megértéséhez, de nincs bizonyíték a pontos érkezési időpontra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T22:45:36.560864+00:00"
+    },
+    "record:2113763239985103177": {
+      "hu_text": "Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad, ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz az információ többször is megjelenik, ami a mozgás szándékát jelzi, de nincs megerősített adat az érkezés időpontjáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T22:45:36.560867+00:00"
+    },
+    "record:2113763260591722609": {
+      "hu_text": "Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad, ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő információ a migránskaraván mozgásáról, fontos a mozgás szándékának megértéséhez, de nincs bizonyíték a pontos érkezési időpontra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T22:45:36.560869+00:00"
+    }
+  }
+}
