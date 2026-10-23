@@ -705,6 +705,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T19:40:06.380017+00:00"
+    },
+    "information:21163": {
+      "hu_text": "Európai hírszerző ügynökségek megerősítették, hogy az Iszlám Államhoz hasonló csoportok évek óta katonákat csempésznek a nyugatra a menekültútvonalakon keresztül. A hajókon főként harcképes korú férfiak vannak, kevés nő, gyermek vagy idős ember.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás komoly biztonsági és migrációs kérdéseket vet fel, de nincs megbízható bizonyíték a csempészésre vagy az érintett csoportokra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:14.289098+00:00"
+    },
+    "information:21164": {
+      "hu_text": "Egy jobboldali Migránsfigyelő szerint az illegális érkezések az év eleje óta 43%-kal csökkentek. Még a Konzervatívok is vezetnek a közvélemény-kutatásokban, így egy esetleges választási győzelem után valószínűleg alig lenne illegális hajós bevándorlás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A statisztikai adatokat állít, de nincs közvetlen bizonyíték vagy hivatalos forrás megjelölve, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:14.289116+00:00"
+    },
+    "information:21170": {
+      "hu_text": "Nick Shirley vizsgálja az Arizonai határt, majd feltárja, kik keresnek milliókat a migránscsempészetből.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A csempészetből származó anyagi haszonszerzésről szóló állítás, de nincs további bizonyíték vagy részletek, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:14.289119+00:00"
+    },
+    "record:2113705032168214706": {
+      "hu_text": "Kérem, erősítsék meg, hogy Franciaországban nyitottak-e a határok. Statisztikailag hány új migráns érkezett Franciaországba az elmúlt 7 napban?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Határbiztonsági kérdés, de csak információkérés, nincs állítás vagy adat, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:14.289121+00:00"
+    },
+    "record:2113710238838960232": {
+      "hu_text": "Kutatásra buzdítanak: az időjárási viszonyok miatt az elmúlt két hétben teljesen megszűntek a kis hajós átkelések az angol csatornán, 2026. október 13. és 23. között egyetlen kis hajó és migráns sem érkezett.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Időjárási okokra hivatkozva állítja a migrációs mozgás szünetét, de nincs hivatalos adat vagy forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:14.289124+00:00"
+    },
+    "record:2113716304817627159": {
+      "hu_text": "Az állítás szerint, ha a Biden-kormányzat és a demokraták nem engedtek volna be több mint 12 millió ellenőrizetlen illegális migránst a déli határon, akkor nem lenne jelenlegi probléma, és a migránsok sem szenvednének. A poszt elítéli a demokratákat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika, amely migrációs helyzetet érint, de nincs bizonyíték az állításra, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:14.289126+00:00"
     }
   },
   "legacy_reviews": {}
