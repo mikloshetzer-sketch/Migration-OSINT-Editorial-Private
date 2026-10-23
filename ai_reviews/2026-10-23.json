@@ -639,6 +639,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T14:34:25.237922+00:00"
+    },
+    "group:568": {
+      "hu_text": "@BRICSinfo @grok kérjük, erősítsék meg, hogy Franciaországban nyitottak-e a határok. Statisztikailag hány új migráns érkezett Franciaországba az elmúlt 7 napban?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy kérdés, amely nyitott határokról és migránsok számáról érdeklődik Franciaországban, de nem tartalmaz konkrét tényállítást vagy bizonyított adatot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:06.379984+00:00"
+    },
+    "information:21132": {
+      "hu_text": "Információs architektúra és tantermi valóságok: a strukturális hiányosságok az automatizált adatlekérésben és a spanyol történelem tantervekben\nA mesterséges intelligencia modellek nagymértékben támaszkodnak a nagyszabású webes adatgyűjtésre, indexelési algoritmusokra és tanulási optimalizációs technikákra a felhasználói lekérdezések feldolgozásához. Geopolitikai feszültségekről szóló kérdések esetén – például a lengyel miniszterelnök és a spanyol miniszterelnök közötti vitáról az illegális migránsok szabályozásáról és annak hatásáról a schengeni térségre – a nagy nyelvi modellek strukturált híradatbázisokból dolgoznak. Azonban a kulcsszó-illesztés és a kontextuális igazítás szerkezeti hibái beszélgetési félreértésekhez vezethetnek. Egy felhasználó, aki az európai határpolitikáról beszél, váratlanul kaphat egy összefoglalót Spanyolország holokauszttal kapcsolatos diplomáciai múltjáról. Ez azért történik, mert a gépi tanulási architektúrák előnyben részesítik a magas valószínűségű jogi definíciókat és hivatalos kormányzati közleményeket a részletes, helyi működési valóságokkal szemben. Ez az alapvető elfogultság tükrözi az állami dokumentációk indexelését. Spanyolország esetében az automatizált lekérési mechanizmus gyorsan előhozza az olyan tényeket, mint a Nemzetközi Holokauszt Emlékezési Szövetség tagsága vagy az antiszemitizmus nemzetközi definícióinak elfogadása. Ezek a statikus adatkészletek azonban nem képesek megragadni az állami diplomácia és a helyi végrehajtás közötti eltérést. Aktív felhasználói beavatkozás és kifejezett visszajelzés nélkül az automatizált rendszerek félrevezető információkat hagyhatnak a felhasználónál.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy általános elemzés az AI rendszerek adatfeldolgozásáról és annak korlátairól, nem tartalmaz konkrét migrációs eseményre vagy állításra vonatkozó adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:06.380007+00:00"
+    },
+    "information:21138": {
+      "hu_text": "\"Néhány várossal egyszerűen nem érdemes szórakozni.\" - D Dayen\nRebecca Rodriguez, a Hands Off NYC társigazgatójának hivatalos nyilatkozata New York-i szomszédokról: tegnap Kelet Elmhurstben, Queensben megakadályozták, hogy az ICE egyetlen emberrablást is végrehajtson, annak ellenére, hogy több mint 25 járműnyi ügynök volt jelen több mint 10 órán át.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy aktivista szervezet nyilatkozatát idézi egy konkrét eseményről, de nincs független megerősítés az állításról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:06.380011+00:00"
+    },
+    "information:21149": {
+      "hu_text": "@dean3411234 @BashirHashiysf Etiópiában található ellátási központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek a szudáni határ mentén lévő menekülttáborokat bombázzák.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állítást tesz katonai támadásokról menekülttáborok ellen, ami humanitárius válságot érint. Az állítás ellenőrzése fontos a helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:06.380013+00:00"
+    },
+    "information:21153": {
+      "hu_text": "Trump legfőbb határügyi tisztviselője megvédi a Big Bend határfal tervét a növekvő ellenállás ellenére\nA Trump-kormányzat legfőbb határügyi tisztviselője megvédte a Texas-i Big Bend térségében tervezett fal és egyéb infrastruktúra építését, annak ellenére, hogy egyre nagyobb az ellenállás a projekt ellen, és a bíróság építési szünetet rendelt el. Rodney Scott, az Egyesült Államok Vám- és Határvédelmi Hivatalának (CBP) biztosa szerint a 46 milliárd dolláros falprojekt indokolt, bár egy kétpárti koalíció – földtulajdonosok, helyi vállalkozások és környezetvédők – pazarlásnak és a régióra károsnak tartja, ahol történelmileg alacsony a migránsok átlépése. Scott hangsúlyozta, hogy elsődleges céljuk tudni, ki és mi lép be az Egyesült Államokba. Ha a Big Bend térségében nem lenne fal vagy más határvédelmi infrastruktúra, miközben más területeken igen, akkor szerinte teljesen elárasztott és tönkretett lenne a régió. A Big Bend területén zajló vita a republikánus kormányzat határzárási szándékának fő próbája lett. Scottot Trump nevezte ki a határfal befejezésére, és az ügynöksége felelős a tavaly nyáron a kongresszus által finanszírozott, mintegy 3200 km-es határvonal menti fal megépítéséért.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg egy hivatalos nyilatkozatot és tervet ismertet a határfal építéséről, amely fontos határbiztonsági kérdés, de a leírtak nem függetlenül ellenőrzött tények.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:06.380015+00:00"
+    },
+    "information:21159": {
+      "hu_text": "2024 júniusában az Izraeli Védelmi Erők (IDF) egy nagyszabású nappali rajtaütést hajtott végre a Nuseirat menekülttáborban, hogy négy élő izraeli túszt kiszabadítson. Kevesebb mint 100 arab vesztette életét, egy izraeli halt meg arabok által. A művelet jogszerű volt, nem történt mészárlás.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy katonai művelet eredményeit és következményeit ismerteti, amely humanitárius és biztonsági szempontból is jelentős, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:06.380017+00:00"
     }
   },
   "legacy_reviews": {}
