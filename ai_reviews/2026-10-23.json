@@ -397,6 +397,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T08:58:25.810655+00:00"
+    },
+    "record:2113553275752792415": {
+      "hu_text": "Ebben a hónapban a CIS szemináriumaink Afganisztánra fókuszáltak. Két oktató osztott meg betekintést az ország kultúrájába és társadalmi kontextusába, támogatva a norvég önkormányzatokat az újonnan érkezett menekültek befogadó integrációjában. Érdeklődik egy szeminárium szervezése iránt? Vegye fel a kapcsolatot az iomosloLMI@iom.int címen.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy oktatási és integrációs programról szól, amely humanitárius támogatást nyújt, de nem tartalmaz ellenőrzött tényeket migrációs eseményről vagy biztonsági helyzetről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:34.393116+00:00"
+    },
+    "telegram:1261826972:53757": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról péntek reggelre: 1. Börtönbe került a Príncipe-i ház tulajdonosa, ahol 74 bevándorlót rejtettek el, napi 10 eurót kérve tőlük. Az igazságszolgáltatás a vádhatóság kérésére rendelte el a letartóztatást. 2. Öt embert tartóztattak le drogcsempészet miatt drónokkal Castillejos környékén, ami a biztonsági kihívásokat mutatja Észak-Marokkóban a több tengerparti útvonal és a módszerek fejlődése miatt. 3. Az IES Almina részt vett a CaixaBank Dualiza szakmai képzés 10. évfordulóján, ahol közel 200 résztvevő értékelte az elmúlt évtized szakmai képzésének fejlődését és a jövő kihívásait.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírek migrációval és biztonsággal kapcsolatos eseményeket tartalmaznak, de az információk forrása nem ellenőrzött, ezért előzetesen nem tekinthetők megerősítettnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:34.393135+00:00"
+    },
+    "telegram:1261826972:53759": {
+      "hu_text": "A rendőrség behatolt a Príncipe negyedbe, hogy megtalálja a bevándorlókat a tömeges beáramlás után. Hajnaltól több tucat rendőr jelent meg a környéken a marokkóiak nagy nyomása miatt az utcákon és közös létesítményekben. A bejegyzés fényképgalériát is tartalmaz.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális migrációs eseményről számol be, amely hatással van a határbiztonságra és a közrendre, de az információk forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:34.393139+00:00"
     }
   },
   "legacy_reviews": {}
