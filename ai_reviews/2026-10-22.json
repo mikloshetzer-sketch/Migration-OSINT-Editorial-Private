@@ -980,6 +980,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T22:53:13.367117+00:00"
+    },
+    "information:20991": {
+      "hu_text": "Az IRCC új, személyre szabott munkavállalási engedély feldolgozási idejeinek ellenőrző eszköze 2026 szeptember végétől elérhető. Az eszköz megmutatja a várható hátralévő várakozási időt hetekben, az előtted lévő kérelmek számát, valamint a teljes feldolgozási késedelmet, amely 2026. szeptember 26-án 202 900 volt. Az új eszköz előretekintő becslést ad az adott kérelem benyújtási dátuma alapján, szemben a korábbi, múltbeli átlagot mutató verzióval.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy hivatalos kormányzati eszköz új funkciójáról szól, de nincs közvetlen bizonyíték a pontos működésre vagy hitelességre, ezért ellenőrizendő. A tartalom releváns a migrációs folyamatok szempontjából, de nem szenzációs vagy kritikus fontosságú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:47.685976+00:00"
     }
   },
   "legacy_reviews": {}
