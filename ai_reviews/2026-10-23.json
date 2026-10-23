@@ -771,6 +771,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T19:40:14.289126+00:00"
+    },
+    "telegram:1261826972:53780": {
+      "hu_text": "🚩 Videókat is tartalmaz ▶️ Letartóztattak egy bevándorlót, aki megtámadott egy biztonsági őrt a kikötői táborban.\n\n➡️ Az eset csütörtök délután történt | A Guardia Civil és a Nemzeti Rendőrség intézkedett.\n\nhttps://elfarodeceuta.es/detenido-inmigrante-agredir-vigilante-seguridad-campamento-puerto/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét incidensről szól, amelyet egy helyi hírportál közöl, de nincs független megerősítés vagy hivatalos közlemény a letartóztatásról, ezért az ellenőrzöttsége alacsony.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:19.900296+00:00"
+    },
+    "telegram:1261826972:53783": {
+      "hu_text": "◼️ Robles hangsúlyozza, hogy Ceuta és Melilla \"nagyon spanyolok\", és a bevándorlókkal szembeni állítólagos bántalmazások ügyét a bíróságokra bízza.\n\n➡️ A miniszter méltatja a fegyveres erők szerepét, és kijelenti, hogy minden panaszt vagy visszaélésre utaló jelet azonnal az ügyészséghez és a bíróságokhoz továbbítottak.\n\nhttps://elfarodeceuta.es/robles-reivindica-ceuta-melilla-espanolisimas-justicia-presuntos-maltratos-inmigrantes/",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai nyilatkozatot tartalmaz, amely egy miniszter véleményét és állításait ismerteti, de nincs további bizonyíték a bántalmazások kezelésének módjáról, ezért az ellenőrzöttsége alacsony.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T19:40:19.900314+00:00"
     }
   },
   "legacy_reviews": {}
