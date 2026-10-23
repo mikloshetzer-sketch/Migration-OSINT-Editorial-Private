@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T08:58:00.414568+00:00"
+    },
+    "information:21025": {
+      "hu_text": "Ki finanszírozza a lengyelországi abortusz legalizálásának előmozdítását – az egyik legkatolikusabb országban –, és miért? Egyetlen nép sem tűnt el a történelem során azért, mert túl alacsony lett a születési aránya. Minden esetben a népesség a hit, a család és az életben maradás akarata révén újra növekedett. Lengyelország a legjobb modern példa erre: 1946-ban 23,9 millió volt a lakosság, 1996-ra pedig 38,3 millióra nőtt, miközben sokan kivándoroltak. A népesség nem tűnik el alacsony születési arány miatt, hanem akkor, ha nagy számú, a befogadó kultúrát nem osztó, be nem olvadó külföldi érkezik, akik végül túlszámolják az eredeti lakosságot. Ez a történelmi minta és így végződnek a civilizációk. Jelenleg külföldről finanszírozott csoportok három kampányt folytatnak Lengyelországban: az abortusz legalizálását, a nyitott határokat a nem európai migránsok befogadására, és a katolikus egyház kiszorítását a közéletből. Ezt demográfiai problémára adott válaszként adják el, de valójában egymásra épülő lépések sorozata.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások politikai véleményeket és feltételezéseket tartalmaznak, amelyek nem bizonyítottak, ezért ellenőrizetlen státuszúak. A téma jelentős társadalmi és politikai hatású, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:12.627149+00:00"
+    },
+    "information:21027": {
+      "hu_text": "@ZiaYusufUK Kivéve:\n1. Jelenleg nem illegális migránsok, és ha átkelnek a Csatornán, a többségük nem lesz illegális, mert menedékjogot kérnek.\n2. Az utolsó hajó október 7-én érkezett.\n3. Hol az bizonyítékod arra, hogy az adott országok állampolgárai...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés részleges információkat tartalmaz a migrációs helyzetről, de nem teljes és nem bizonyított, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:12.627167+00:00"
+    },
+    "information:21031": {
+      "hu_text": "@ChicoteLerena \"Egy marokkói katonai hajó a július 30-i ceutai hullám idején \"migránsokat\" dobott a tengerbe, akiket a spanyol tengeri mentőszolgálatnak kellett megmentenie.\" WTF??\n\n@UN_HRC\n@UNHumanRights\n@Cij_icj\n@Intlcrimecourt\n@ECHR_CEDH\n@UN_HRC\n@UNHumanRights\n@EU_Commission\n@vonderleyen",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás súlyos emberi jogi visszaélésekről, de nincs megerősített bizonyíték, ezért ellenőrizetlen státuszú és magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:12.627172+00:00"
+    },
+    "information:21032": {
+      "hu_text": "Jelentések szerint egy házat izraeli légicsapás ért a gázai Nuseirat menekülttáborban csütörtökön, annak ellenére, hogy 2025 októbere óta tűzszünet van érvényben. Tűzoltók, mentők és helyiek siettek a helyszínre, hogy eloltsák a tüzet és megmentsék a sérülteket.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés humanitárius eseményről szól, de nincs független megerősítés, ezért ellenőrizetlen státuszú és magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:12.627176+00:00"
+    },
+    "information:21033": {
+      "hu_text": "@Rod__Mason Tekintettel arra, hogy a hajóval érkezők több mint 60%-a végül menekültstátuszt kap, jelentős részük biztonságos útvonalakon keresztül is kezelhető lenne, hogy elkerüljék a hajózást. Az utolsó megállapítás valószínűleg igaz és megoldhatatlan, amíg az Egyesült Királyság nincs az EU-ban. A Reform / Farage nem fogadja el ezeket a tényeket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Elemző jellegű vélemény a menekültügyi politikáról, nincs bizonyíték, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:12.627179+00:00"
+    },
+    "information:21037": {
+      "hu_text": "Amikor az út csapda – a migrációs válság\n\n\"Az embercsempészet Afrikában azért tartós, mert a lánc végén, a mentés pillanatában harcolunk ellene, ahelyett, hogy az egész láncot irányítanánk, amely előállítja.\" – Laura Noella Rwiliriza",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános társadalmi diskurzus az embercsempészetről, nincs konkrét állítás vagy bizonyíték, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:12.627183+00:00"
     }
   },
   "legacy_reviews": {}
