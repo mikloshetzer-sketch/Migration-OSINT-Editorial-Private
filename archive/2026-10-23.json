@@ -23,6 +23,28 @@
       "text": "U.S. COAST GUARD INTERCEPTS BOAT CARRYING 66 MIGRANTS IN THE CARIBBEAN\n\nThe U.S. Coast Guard intercepted a makeshift boat carrying 66 migrants in the Mona Passage between Puerto Rico and the Dominican Republic. Aerial footage captured the Friday operation as crews moved in to https://t.co/8LqkFob41d",
       "url": "https://x.com/Trumpusa1A1/status/2113389600513175840",
       "source_url": "https://x.com/Trumpusa1A1/status/2113389600513175840"
+    },
+    {
+      "id": 703,
+      "event_id": 703,
+      "source": "X",
+      "source_post_id": "2113434533768880179",
+      "author": "Pramod59657443",
+      "published_at": "2026-10-23T00:57:13Z",
+      "collected_at": "2026-10-23T02:19:21Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@valdombre some arrived here shouting Khalistan in Punjab Lot fake refugees scammers just need excuse to get  citizenship Our groceries Gas rent high How these people have time  afford food Europe  welcome blindly Now hurt by KARMA Before our children hurt in future Stop it in our Canada",
+      "url": "https://x.com/Pramod59657443/status/2113434533768880179",
+      "source_url": "https://x.com/Pramod59657443/status/2113434533768880179"
     }
   ],
   "event_groups": [
@@ -54,6 +76,35 @@
       "average_confidence": 0.5,
       "created_at": "2026-10-22T22:51:35Z",
       "updated_at": "2026-10-22T22:51:35Z"
+    },
+    {
+      "id": 564,
+      "group_id": 564,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@valdombre some arrived here shouting Khalistan in Punjab Lot fake refugees scammers just need excuse to get  citizenship Our groceries Gas rent high How these people have time  afford food Europe  welcome blindly Now hurt by KARMA Before our children hurt in future Stop it in our Canada",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-23T00:57:13Z",
+      "last_seen": "2026-10-23T00:57:13Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-23T02:19:21Z",
+      "updated_at": "2026-10-23T02:19:21Z"
     }
   ],
   "influence_signals": [
@@ -228,6 +279,125 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1160,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xcelkp",
+      "author": "TVP_World_News",
+      "language": null,
+      "published_at": "2026-10-22T10:11:46Z",
+      "first_detected_at": "2026-10-23T02:17:45Z",
+      "last_detected_at": "2026-10-23T02:17:45Z",
+      "detection_count": 1,
+      "text": "Migrants paid smugglers up to $500m to reach Europe last year. Some migrants pay more than $7,500 according to the report",
+      "text_excerpt": "Migrants paid smugglers up to $500m to reach Europe last year. Some migrants pay more than $7,500 according to the report",
+      "url": "https://www.reddit.com/r/NewsThread/comments/1xcelkp/migrants_paid_smugglers_up_to_500m_to_reach/",
+      "source_url": "https://www.reddit.com/r/NewsThread/comments/1xcelkp/migrants_paid_smugglers_up_to_500m_to_reach/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrants paid smugglers up to $500m to reach"
+        ],
+        [
+          "facilitation",
+          "smugglers up to $500m to reach Europe last year. Some migrants"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrants",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Migrants paid smugglers up to $500m to reach",
+        "smugglers up to $500m to reach Europe last year. Some migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1159,
+      "source": "X",
+      "source_post_id": "2113449584433234218",
+      "author": "AncientHistorry",
+      "language": "en",
+      "published_at": "2026-10-23T01:57:01Z",
+      "first_detected_at": "2026-10-23T02:17:19Z",
+      "last_detected_at": "2026-10-23T02:17:19Z",
+      "detection_count": 1,
+      "text": "Constantinople had a weapon so secret that nobody alive today knows how to make it.\n\nIn the 670s, a refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached the Byzantine capital. He brought something with him: a liquid that caught fire and https://t.co/wSYOusSsqR",
+      "text_excerpt": "Constantinople had a weapon so secret that nobody alive today knows how to make it.\n\nIn the 670s, a refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached the Byzantine capital. He brought something with him: a liquid that caught fire and https://t.co/wSYOusSsqR",
+      "url": "https://x.com/AncientHistorry/status/2113449584433234218",
+      "source_url": "https://x.com/AncientHistorry/status/2113449584433234218",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [
+        "refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -401,6 +571,125 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1160,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xcelkp",
+      "author": "TVP_World_News",
+      "language": null,
+      "published_at": "2026-10-22T10:11:46Z",
+      "first_detected_at": "2026-10-23T02:17:45Z",
+      "last_detected_at": "2026-10-23T02:17:45Z",
+      "detection_count": 1,
+      "text": "Migrants paid smugglers up to $500m to reach Europe last year. Some migrants pay more than $7,500 according to the report",
+      "text_excerpt": "Migrants paid smugglers up to $500m to reach Europe last year. Some migrants pay more than $7,500 according to the report",
+      "url": "https://www.reddit.com/r/NewsThread/comments/1xcelkp/migrants_paid_smugglers_up_to_500m_to_reach/",
+      "source_url": "https://www.reddit.com/r/NewsThread/comments/1xcelkp/migrants_paid_smugglers_up_to_500m_to_reach/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrants paid smugglers up to $500m to reach"
+        ],
+        [
+          "facilitation",
+          "smugglers up to $500m to reach Europe last year. Some migrants"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrants",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Migrants paid smugglers up to $500m to reach",
+        "smugglers up to $500m to reach Europe last year. Some migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1159,
+      "source": "X",
+      "source_post_id": "2113449584433234218",
+      "author": "AncientHistorry",
+      "language": "en",
+      "published_at": "2026-10-23T01:57:01Z",
+      "first_detected_at": "2026-10-23T02:17:19Z",
+      "last_detected_at": "2026-10-23T02:17:19Z",
+      "detection_count": 1,
+      "text": "Constantinople had a weapon so secret that nobody alive today knows how to make it.\n\nIn the 670s, a refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached the Byzantine capital. He brought something with him: a liquid that caught fire and https://t.co/wSYOusSsqR",
+      "text_excerpt": "Constantinople had a weapon so secret that nobody alive today knows how to make it.\n\nIn the 670s, a refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached the Byzantine capital. He brought something with him: a liquid that caught fire and https://t.co/wSYOusSsqR",
+      "url": "https://x.com/AncientHistorry/status/2113449584433234218",
+      "source_url": "https://x.com/AncientHistorry/status/2113449584433234218",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [
+        "refugee architect named Kallinikos fled Syria ahead of the advancing Arab armies and reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -872,7 +1161,121 @@
       "first_collected_at": "2026-10-22T22:52:46Z",
       "last_collected_at": "2026-10-22T22:52:46Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20962",
+      "timestamp": "2026-10-23T01:53:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113448792246857984",
+      "author": "AnnetteRMC",
+      "url": "https://x.com/AnnetteRMC/status/2113448792246857984",
+      "source_url": "https://x.com/AnnetteRMC/status/2113448792246857984",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.8,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "boat",
+        "coast_guard",
+        "rescue",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@janninereid1 On October 16, 2026, a boat involved in a suspected migrant smuggling operation capsized 140 miles west of Ensenada, Mexico, leading to a mass rescue operation where survivors suffered injuries consistent with a shark attack.\nThe U.S. Coast Guard (USCG) and the Mexican Navy",
+      "text_excerpt": "@janninereid1 On October 16, 2026, a boat involved in a suspected migrant smuggling operation capsized 140 miles west of Ensenada, Mexico, leading to a mass rescue operation where survivors suffered injuries consistent with a shark attack.\nThe U.S. Coast Guard (USCG) and the Mexican Navy",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T02:16:52Z",
+      "last_collected_at": "2026-10-23T02:16:52Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20963",
+      "timestamp": "2026-10-23T01:52:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113448461861306666",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2113448461861306666",
+      "source_url": "https://x.com/grok/status/2113448461861306666",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "route",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@ETERNULL @MarioNawfal Evidence documents Belarus and Russia facilitating migrant surges since 2021 via visas, flights, transport and escorts to create border pressure. High-volume irregular arrivals on other routes stem from longstanding asylum rules and global drivers. Both dynamics exist",
+      "text_excerpt": "@ETERNULL @MarioNawfal Evidence documents Belarus and Russia facilitating migrant surges since 2021 via visas, flights, transport and escorts to create border pressure. High-volume irregular arrivals on other routes stem from longstanding asylum rules and global drivers. Both dynamics exist",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T02:16:52Z",
+      "last_collected_at": "2026-10-23T02:16:52Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20977",
+      "timestamp": "2026-10-23T01:28:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113442288336527832",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2113442288336527832",
+      "source_url": "https://x.com/grok/status/2113442288336527832",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@GlassX75450 @MarioNawfal EU reports and multiple investigations document Russia and Belarus facilitating migrant flows across eastern borders via visas, transport, and escorts as hybrid tactics. IsraAID is an Israeli humanitarian NGO that has given medical and support aid to people already arriving in",
+      "text_excerpt": "@GlassX75450 @MarioNawfal EU reports and multiple investigations document Russia and Belarus facilitating migrant flows across eastern borders via visas, transport, and escorts as hybrid tactics. IsraAID is an Israeli humanitarian NGO that has given medical and support aid to people already arriving in",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T02:17:45Z",
+      "last_collected_at": "2026-10-23T02:17:45Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-22T22:52:54.590820+00:00"
+  "last_archived_at": "2026-10-23T02:19:29.168355+00:00"
 }
