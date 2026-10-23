@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T08:58:34.393139+00:00"
+    },
+    "group:567": {
+      "hu_text": "A balti kormányok, a Frontex adatai, elfogott dokumentumok és jelentések bizonyítják, hogy Fehéroroszország és Oroszország 2021 óta hibrid taktikaként segíti a migránsok áramlását az EU határai felé, szervezett szállítási esetekkel, katonai részvétellel és határnyomással.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás több forrásra hivatkozik, de nincs közvetlen bizonyíték a szövegben, ezért ellenőrizetlen. Fontos a határbiztonsági kontextus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:33:57.080223+00:00"
+    },
+    "information:21066": {
+      "hu_text": "Az Egyesült Államok déli határán több száz új, mesterséges intelligenciával felszerelt kamerát telepítettek, amelyek 24 órában figyelik az embereket és járműveket, akár lakóházakba és közterületekre is belátnak, ami adatvédelmi aggályokat vet fel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg egy újságcikkre hivatkozik, de a pontos telepítési adatokat nem lehet ellenőrizni a bemenet alapján. Fontos a határbiztonsági és adatvédelmi szempont miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:33:57.080250+00:00"
+    },
+    "information:21080": {
+      "hu_text": "Az amerikai Védelmi Minisztérium készen áll arra, hogy hőlézerfegyvert alkalmazzon a határon a migránsok belépésének megakadályozására.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás rendkívüli és katonai jellegű, de nincs megerősített forrás vagy bizonyíték a szövegben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:33:57.080254+00:00"
+    },
+    "information:21086": {
+      "hu_text": "Összefoglaló a Financial Times 2026. október 23-i cikke alapján: Trump gazdasági ígéretei és a valóság között jelentős eltérések vannak, például az infláció nem csökkent, a külkereskedelmi deficit nőtt, a jelzáloghitelek kamata emelkedett, és az üzemanyagárak is magasabbak lettek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és gazdasági adatok összefoglalása, nincs közvetlen bizonyíték vagy cáfolat a szövegben, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:33:57.080257+00:00"
+    },
+    "information:21093": {
+      "hu_text": "Miért jelent meg Európa négy nagy vezetője Törökország isztambuli fotózási eseményén, és vajon bölcs döntés-e ez? Törökország földrajzi és demográfiai csomópont Európa és a Közel-Kelet között, kulcsfontosságú migrációs útvonalakat, a Fekete-tengerhez való hozzáférést, energiafolyosókat és a NATO déli szárnyát ellenőrzi.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Elemző jellegű információ, nincs konkrét állítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:33:57.080259+00:00"
+    },
+    "information:21095": {
+      "hu_text": "205 migráns, köztük 11 nő és 17 kiskorú érkezett meg Spanyolország El Hierro szigetén található La Restinga kikötőjébe egy nyolcnapos tengeri útról Gambiából.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről szóló információ, de nincs megerősített forrás a szövegben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:33:57.080262+00:00"
     }
   },
   "legacy_reviews": {}
