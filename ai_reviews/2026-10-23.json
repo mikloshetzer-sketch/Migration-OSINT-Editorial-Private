@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T08:58:12.627183+00:00"
+    },
+    "information:21039": {
+      "hu_text": "Az embercsempészet és a hamis okmányok átlépik a határokat, és a válaszunknak is ezt kell tennie. Az RCSP erősíteni fogja a határkezelést, a regionális együttműködést és a kereskedelem és kizsákmányolás által veszélyeztetett emberek védelmét.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások általánosak, nem tartalmaznak konkrét adatokat vagy bizonyítékokat, ezért ellenőrizetlennek minősülnek. Fontos a határbiztonság és a küzdelem az embercsempészet ellen, így közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:25.810626+00:00"
+    },
+    "information:21044": {
+      "hu_text": "🔴 Élő adás | Reggeli kiadás\n\nLíbiai migrációs útvonal: Az európai álom mögötti borzalmak\n\nSok nigériai számára az európai utazás jobb jövőt ígér, de a Szahara-sivatagon és Líbián át vezető út emberkereskedelemnek, zsarolásnak, bántalmazásnak és kényszermunkának teheti ki a migránsokat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményekről szól, de nem tartalmaz konkrét bizonyítékokat, ezért ellenőrizetlen. A témakör jelentős, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:25.810642+00:00"
+    },
+    "information:21045": {
+      "hu_text": "🔴 Élő adás | Reggeli kiadás\n\nLíbiai migrációs útvonal: Az európai álom mögötti borzalmak\n\nSok nigériai számára az európai utazás jobb jövőt ígér, de a Szahara-sivatagon és Líbián át vezető út emberkereskedelemnek, zsarolásnak, bántalmazásnak és kényszermunkának teheti ki a migránsokat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az előző rekordhoz hasonló tartalom, migrációs eseményekről szól, de nincs konkrét bizonyíték, ezért ellenőrizetlen. Magas prioritású a téma jelentősége miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:25.810646+00:00"
+    },
+    "record:1261826972:53757": {
+      "hu_text": "🗞️ Három hír az elfarodeceuta.es oldalról péntek reggelre:\n\n1️⃣ Börtönbe került a Príncipe-i ház tulajdonosa, amelyben 74 migránst rejtettek el, napi 10 eurót kérve tőlük.\n➡️ Az igazságszolgáltatás a vádhatóság kérésére rendelte el az intézkedést, miután a tulajdonost a migránsokkal teli házban fogták el.\n\n2️⃣ Öt embert tartóztattak le drogcsempészet miatt drónokkal Castillejos környékén.\n➡️ Ez rámutat Észak-Marokkó biztonsági kihívásaira a sok tengerparti útvonal és a kábítószer-kereskedelem módszereinek fejlődése miatt.\n\n3️⃣ Az IES Almina részt vett a CaixaBank Dualiza szakmai képzés 10. évfordulóján.\n➡️ Közel 200 résztvevő, köztük állami, oktatási és üzleti képviselők, diákok és partnerek vitatták meg a szakmai képzés fejlődését és jövőbeli kihívásait.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírek helyi eseményekről szólnak, amelyek hatással lehetnek a határbiztonságra és a migrációra, de nincs független megerősítésük, ezért ellenőrizetlenek. Közepes prioritásúak a relevancia miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:25.810649+00:00"
+    },
+    "record:2113544080680476989": {
+      "hu_text": "@MAGAByBlood @invisiablegirl1 Nos, napjainkra emberkereskedelmi bandákat irányítanak, közvetlenül szállítanak migránsokat az EU-ba, és segítik a latin-amerikai migrációs hullámokat az USA felé. Ön elavult információkon alapul.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás emberkereskedelemmel kapcsolatban, de nincs bizonyíték vagy forrás, ezért ellenőrizetlen. Közepes prioritású a téma érzékenysége miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:25.810652+00:00"
+    },
+    "record:2113544319357399468": {
+      "hu_text": "@Deiscirt @eoghan Talán ideje eltávolítani a „legális migrációt értékelő” megnevezést az ön bemutatkozásából? Szinte az összes migráns legálisan érkezett. Ez azonban nem teszi helyessé a helyzetet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a migránsok jogi státuszáról, nem tényállítás, ezért ellenőrizetlen. Alacsony prioritású, mert nem tartalmaz konkrét információt vagy eseményt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:25.810655+00:00"
     }
   },
   "legacy_reviews": {}
