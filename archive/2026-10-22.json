@@ -4218,9 +4218,49 @@
       "first_collected_at": "2026-10-22T22:51:35Z",
       "last_collected_at": "2026-10-22T22:51:35Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:20991",
+      "timestamp": "2026-10-22T17:46:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xcph7g",
+      "author": "Vineet0101",
+      "url": "https://www.reddit.com/r/LibertyImmigrationCA/comments/1xcph7g/irccs_new_personalized_work_permit_processing/",
+      "source_url": "https://www.reddit.com/r/LibertyImmigrationCA/comments/1xcph7g/irccs_new_personalized_work_permit_processing/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "landing"
+      ],
+      "freshness_cues": [
+        "today",
+        "now"
+      ],
+      "text": "IRCC's new personalized work permit processing times: how to check your wait...\nBy Vineet Tiwari, RCIC #R535983, Liberty Immigration Services Since late September 2026, IRCC's \"Check processing times\" tool gives personalized estimates for work permit extensions and PGWPs filed inside Canada. Pick \"Work permit extension in Canada,\" enter the date you applied, and the tool shows your remaining wait in weeks and how many applications sit ahead of yours. It also shows the total backlog, which was 202,900 applications as of September 26, 2026. What changed in the IRCC processing times tool For years, IRCC showed one historical number under \"Work permit in Canada.\" It reflected how long it took to finish 80% of applications over the previous six months. That figure said little about a file that landed during a busy season or got held up by a background check. The new version looks forward instead of back. It builds on the personalized tracking IRCC launched in October 2025 for permanent residence and citizenship applications. Feature Old tool New tool Estimate type Historical average Forward-looking, in weeks, based on your application date Menu option Work permit in Canada Work permit extension in Canada Queue position Not shown Number of applications ahead of yours Total backlog Not shown Shown (202,900 as of Sept 26, 2026) How to check your personalized estimate Open IRCC's \"Check processing times\" page. Choose \"Temporary residence.\" Select \"Work permit extension in Canada.\" Enter the date you submitted your application. Haven't applied yet? Enter today's date and the tool shows what the wait would look like if you filed now. That makes it useful for deciding when to start an extension, well before your current permit runs out. Who gets a personalized estimate The date-based estimate covers first-time PGWP applications made inside Canada, extensions of closed work permits, spousal open work permit applications, and applications to change employers or conditions inside Canada. In every one of those cases you use the same \"Work permit extension in Canada\" option. First-time work permits applied for inside Canada that aren't PGWPs still get the general historical lookup under \"Work permit in Canada.\" Applications made from outside Canada also use country-specific historical averages, with no personal countdown. What 202,900 pending applications means for you That number is the whole queue, not your wait. Your own estimate depends on when you filed and where your file sits. Extensions have typically taken about 12 to 16 weeks, so a permit that expires in two months can easily run out before a decision arrives. That gap is where maintained status matters. Can you keep working while you wait? Yes, if you applied before your permit expired. Under section 186(u) of the Immigration and Refugee Protection Regulations, filing an extension in time gives you maintained status, which lets you keep working under the same conditions until IRCC decides. Graduates who file a PGWP application before their study permit expires can work full-time while they wait under section 186(v). Travel changes things. If you leave Canada while on maintained status, you lose the automatic right to work when you come back. A border officer will admit you as a visitor, and you have to stop working until your new permit is approved and issued. Bridging open work permit relief for Base PNP candidates A temporary policy that took effect on June 9, 2026 helps people who applied for permanent residence through a non-Express Entry (Base) provincial nominee program. These candidates can apply for a bridging open work permit without first holding an IRCC acknowledgment of receipt. The exemption runs through December 31, 2026, so the window to use it is closing. What to do if your estimate passes with no decision Start by making sure you can prove your status. Keep your submission confirmation and your current permit on hand, and give your employer's HR team copies so they can confirm you're still authorized to work. Next, send IRCC a webform inquiry once you're past the estimated date. Attach anything that shows why timing matters, such as an updated employment letter. If you hold an employer-specific permit, ask your employer to watch their portal. Under rules that took effect September 17, 2026, officers who question a job offer's genuineness give employers 15 days to respond by webform. Missing that deadline can sink an otherwise clean file. If the file stays stuck, an RCIC can request your GCMS notes through an ATIP request to see whether it's waiting on security screening or an officer review. Get your extension reviewed before you file A missing document or a wrong NOC code can get an extension returned, and a returned application can cost you maintained status. Mr. Vineet Tiwari, a licensed RCIC, reviews extension files and handles procedural fairness responses for clients across Canada. Book a one-on-one strategy consultation here: libertyimmigration.ca/booking . Full pricing is at libertyimmigration.ca/our-pricing . When does your current work permit expire, and have you already filed the extension? Disclaimer: This information is for educational purposes only and does not constitute legal advice. Please book a formal consultation for legal advice tailored to your specific case.",
+      "text_excerpt": "IRCC's new personalized work permit processing times: how to check your wait...\nBy Vineet Tiwari, RCIC #R535983, Liberty Immigration Services Since late September 2026, IRCC's \"Check processing times\" tool gives personalized estimates for work permit extensions and PGWPs filed inside Canada. Pick \"Work permit extension in Canada,\" enter the date you applied, and the tool shows your remaining wait in weeks and how man…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T02:19:21Z",
+      "last_collected_at": "2026-10-23T02:19:21Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-22T22:52:52.747661+00:00",
+  "last_archived_at": "2026-10-23T02:19:27.000593+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
