@@ -562,6 +562,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T14:34:08.378751+00:00"
+    },
+    "record:2113638461895008399": {
+      "hu_text": "FRISS HÍR: Egy újabb nagy illegális migrációs hullám érte el Spanyolországot. Az elmúlt 48 órában több mint 800 hajós migráns érkezett a Kanári-szigetekre. Ma eddig három hajó érkezett 205, 170 és 41 illegális migránssal. Videó a @CanarioToday-tól.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számokat és helyszínt említ, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrizetlen. A téma migrációs esemény, és a nagy szám miatt fontos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:20.204539+00:00"
+    },
+    "record:reddit_1xdb7az": {
+      "hu_text": "Valóban cápa támadta meg a migránsok hajóját a Baja partjainál? Jelentések szerint egy hajó, amely több mint két tucat migránst szállított, elsüllyedt az éjszaka közepén, és a parti őrség 16 embert mentett ki, míg 11 eltűnt. Néhány túlélőn cápatámadásra utaló sérüléseket találtak. Egy cápa szakértő azonban kétli, hogy ilyen támadás valószínű lenne, és inkább a hipotermia és az ivóvíz hiánya jelent nagyobb veszélyt a nyílt tengeren.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A történet részleteket tartalmaz, de a cápatámadás ténye kétséges, szakértői vélemény szerint nagyon valószínűtlen. A bejelentés nem megerősített, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:20.204558+00:00"
+    },
+    "record:reddit_1xdefnn": {
+      "hu_text": "Az RSS (Rashtriya Swayamsevak Sangh) történelmi szerepéről és társadalmi segítségnyújtásáról szóló vitában egy részletes összefoglaló, amely bemutatja az RSS ellenállását az 1975-77-es indiai szükségállapot idején, beleértve az illegális tevékenységeket és letartóztatásokat. A forrás tudományos cikkeket és dokumentált tényeket idéz.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs eseményről szól, hanem egy politikai szervezet történelmi szerepéről, ezért háttér-történelmi kategória. Nem migrációs állítás, így alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:20.204562+00:00"
+    },
+    "telegram:1261826972:53764": {
+      "hu_text": "Egy migránst őrizetbe vettek rendőr elleni támadás miatt a Príncipe negyed kiürítése során. Egy rendőr lábsérülést szenvedett, amelyhez négy öltésre volt szükség, miután egy jármű ajtaja eltalálta és elesett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés migránsok és rendőri erők közötti incidensről szól, ami társadalmi diskurzus része lehet. Nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:20.204564+00:00"
+    },
+    "telegram:1261826972:53765": {
+      "hu_text": "Három személy eltűnt egy öt migránst szállító hajó felborulása után. A tengeri mentők és a csendőrség keresési műveletet folytat az eltűntek felkutatására. Két másik személy sikeresen partra jutott.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eltűnt migránsokról szóló információ humanitárius jelentőségű, de nincs hivatalos megerősítés, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:20.204566+00:00"
+    },
+    "telegram:1261826972:53766": {
+      "hu_text": "Rendőrségi művelet zajlik Ceutában, a Príncipe és Parisiana negyedekben, több mint 200 marokkói migráns felkutatására. A rendőri egységek utcákon, garázsokban és illegális lakásokban járnak el, és fotógaléria is elérhető.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A művelet migránsok felkutatására irányul, ami határbiztonsági eseménynek tekinthető. Nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:20.204568+00:00"
     }
   },
   "legacy_reviews": {}
