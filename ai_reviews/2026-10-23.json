@@ -122,6 +122,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-22T22:53:29.565621+00:00"
+    },
+    "group:564": {
+      "hu_text": "@valdombre néhányan ideérkeztek, Punjabban Khalisztánt kiabálva. Sok hamis menekült, csaló, csak ürügyet keresnek az állampolgárság megszerzésére. Az élelmiszer, a gáz és a lakbér magas. Hogyan van idejük ezeknek az embereknek, hogy megengedhessék maguknak az ételt? Európa vakon fogadja őket. Most a KARMA bántja őket, mielőtt a gyermekeinket bántanák a jövőben. Állítsuk meg Kanadánkban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy közösségi médiás vélemény, amely negatív állításokat tartalmaz menekültekről, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:57.980240+00:00"
+    },
+    "information:20962": {
+      "hu_text": "2026. október 16-án egy, a migránscsempészetben érintettnek gyanított hajó elsüllyedt 140 mérföldre nyugatra Ensenadától, Mexikótól, ami tömeges mentési művelethez vezetett, ahol a túlélők cápatámadásra utaló sérüléseket szenvedtek. Az Egyesült Államok Parti Őrsége (USCG) és a Mexikói Haditengerészet részt vett a mentésben.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről szóló információ, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:57.980250+00:00"
+    },
+    "information:20963": {
+      "hu_text": "Bizonyítékok dokumentálják, hogy Fehéroroszország és Oroszország 2021 óta vízumokkal, járatokkal, szállítással és kíséretekkel segíti a migránsok tömeges áramlását, hogy nyomást gyakoroljanak a határokra. A magas volumenű szabálytalan érkezések más útvonalakon a hosszú távú menedékjogi szabályokból és globális okokból erednek. Mindkét dinamika létezik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Átfogó állítás migrációs politikai és biztonsági helyzetről, de nincs közvetlen bizonyíték a posztban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:57.980253+00:00"
+    },
+    "information:20977": {
+      "hu_text": "Az EU jelentései és több vizsgálat dokumentálják, hogy Oroszország és Fehéroroszország vízumokkal, szállítással és kíséretekkel segítik a migránsok áramlását a keleti határokon hibrid taktikaként. Az IsraAID egy izraeli humanitárius szervezet, amely orvosi és támogatási segítséget nyújt az érkezőknek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migrációs folyamatokról és humanitárius segítségről, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:57.980255+00:00"
+    },
+    "record:2113434533768880179": {
+      "hu_text": "@valdombre néhányan ideérkeztek, Punjabban Khalisztánt kiabálva. Sok hamis menekült, csaló, csak ürügyet keresnek az állampolgárság megszerzésére. Az élelmiszer, a gáz és a lakbér magas. Hogyan van idejük ezeknek az embereknek, hogy megengedhessék maguknak az ételt? Európa vakon fogadja őket. Most a KARMA bántja őket, mielőtt a gyermekeinket bántanák a jövőben. Állítsuk meg Kanadánkban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ugyanaz a közösségi médiás vélemény, mint a 'group:564' rekordban, nincs bizonyíték az állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:57.980257+00:00"
+    },
+    "record:2113449584433234218": {
+      "hu_text": "Konstantinápolyban volt egy olyan titkos fegyver, amelynek elkészítését ma élő senki sem ismeri. Az 670-es években egy Kallinikos nevű menekült építész Szíriából menekült az előrenyomuló arab seregek elől, és eljutott a bizánci fővárosba. Valamit hozott magával: egy olyan folyadékot, amely meggyulladt és ...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi jellegű szöveg, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy aktuális helyzethez, és nincs bizonyíték a tartalom hitelességére.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:19:57.980259+00:00"
     }
   },
   "legacy_reviews": {}
