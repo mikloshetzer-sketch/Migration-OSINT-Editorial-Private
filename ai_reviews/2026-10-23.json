@@ -188,6 +188,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T02:19:57.980259+00:00"
+    },
+    "record:reddit_1xcelkp": {
+      "hu_text": "A migránsok tavaly akár 500 millió dollárt fizettek csempészeknek, hogy eljussanak Európába. Egyes migránsok a jelentés szerint több mint 7 500 dollárt fizetnek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét összegeket tartalmaz, de nincs megadva forrás vagy bizonyíték, ezért nem ellenőrzött. Fontos lehet a migrációs útvonalak és csempészés megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T02:20:01.916452+00:00"
     }
   },
   "legacy_reviews": {}
