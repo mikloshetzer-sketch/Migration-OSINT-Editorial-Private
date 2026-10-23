@@ -89,6 +89,50 @@
       "text": "@Deiscirt @eoghan Maybe it’s time to take “legal migration appreciator” out of your bio? Almost all of these migrants arrived legally. That doesn’t make it right.",
       "url": "https://x.com/LSLS1297/status/2113544319357399468",
       "source_url": "https://x.com/LSLS1297/status/2113544319357399468"
+    },
+    {
+      "id": 707,
+      "event_id": 707,
+      "source": "X",
+      "source_post_id": "2113638461895008399",
+      "author": "visegrad24",
+      "published_at": "2026-10-23T14:27:33Z",
+      "collected_at": "2026-10-23T14:32:22Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "confidence": 0.45,
+      "event_confidence": 0.45,
+      "relevance_score": 20.0,
+      "text": "BREAKING:\n\nA new large wave of illegal migration is hitting Spain again.\n\nMore than 800 boat migrants have arrived in the Canary Islands over the past 48 hours.\n\n3 boats with 205, 170 and 41 illegal migrants have arrived so far today.\n\nVideo via @CanarioToday https://t.co/JzM6Fa4UCq",
+      "url": "https://x.com/visegrad24/status/2113638461895008399",
+      "source_url": "https://x.com/visegrad24/status/2113638461895008399"
+    },
+    {
+      "id": 706,
+      "event_id": 706,
+      "source": "X",
+      "source_post_id": "2113637874713149554",
+      "author": "grok",
+      "published_at": "2026-10-23T14:25:13Z",
+      "collected_at": "2026-10-23T14:31:53Z",
+      "event_type": "INTERCEPTION",
+      "signal_type": "INTERCEPTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@JaniVicarious76 @f_philippot No. Evidence from Baltic governments, Frontex data, intercepted documents, and reports shows Belarus and Russia have facilitated migrant flows to EU borders as hybrid tactics since 2021, with ongoing cases of organized transport, military involvement, and border pressure into",
+      "url": "https://x.com/grok/status/2113637874713149554",
+      "source_url": "https://x.com/grok/status/2113637874713149554"
     }
   ],
   "event_groups": [
@@ -207,6 +251,35 @@
       "average_confidence": 0.55,
       "created_at": "2026-10-23T08:57:21Z",
       "updated_at": "2026-10-23T08:57:21Z"
+    },
+    {
+      "id": 567,
+      "group_id": 567,
+      "event_type": "INTERCEPTION",
+      "dominant_event_type": "INTERCEPTION",
+      "title": "INTERCEPTION - EASTERN_EU_BORDER",
+      "representative_text": "@JaniVicarious76 @f_philippot No. Evidence from Baltic governments, Frontex data, intercepted documents, and reports shows Belarus and Russia have facilitated migrant flows to EU borders as hybrid tactics since 2021, with ongoing cases of organized transport, military involvement, and border pressure into",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-23T14:25:13Z",
+      "last_seen": "2026-10-23T14:25:13Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-23T14:31:53Z",
+      "updated_at": "2026-10-23T14:31:53Z"
     }
   ],
   "influence_signals": [
@@ -625,6 +698,351 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1163,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdefnn",
+      "author": "11TANISHQ55",
+      "language": null,
+      "published_at": "2026-10-23T13:43:57Z",
+      "first_detected_at": "2026-10-23T14:31:19Z",
+      "last_detected_at": "2026-10-23T14:31:19Z",
+      "detection_count": 1,
+      "text": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, and factual claims require evidence. So let's examine some specific examples. 🇮🇳 RSS and resistance to the Emergency (1975–1977) What happened? On 25 June 1975, Prime Minister Indira Gandhi's government imposed the Emergency. Civil liberties were curtailed, opposition leaders were imprisoned, press censorship was imposed, and political dissent faced repression. The RSS was banned on 4 July 1975. Its volunteers participated in underground opposition activities, protests, the circulation of banned literature and the wider resistance movement. What is the evidence? A 2018 scholarly article published by Modern Asian Studies, Cambridge University Press, examines the RSS's role in anti-Emergency activism, including its overseas networks and underground activities. The article records 2,794 people identified as RSS members among those arrested under the Maintenance of Internal Security Act (MISA), alongside 1,358 Jana Sangh members. The Indian Express reported on the RSS's involvement in the wider anti-Emergency movement and how its grassroots network contributed to mobilisation. Why does this matter? The Emergency was a serious episode of authoritarian rule in independent India. Participation in resistance to censorship, detention and the suppression of democratic freedoms deserves historical recognition, regardless of whether one agrees with the organisation's ideology. Sources: \"Cambridge University Press — “Smugglers of Truth”: The Indian diaspora, Hindu nationalism, and the Emergency (1975–77)\" ( https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/smugglers-of-truth-the-indian-diaspora-hindu-nationalism-and-the-emergency-197577/2C59B29D6C36D0CA7C8B1C2EE207534D ) \"The Indian Express — When the Sangh became part of the Janata Parivar\" ( https://indianexpress.com/article/india/emergency-sangh-janata-parivar-10090165/ ) An important qualification: The RSS was one participant in a much broader opposition movement that included socialists, students, other political organisations and civil-liberties advocates. It did not single-handedly defeat the Emergency. 🏚️ Gujarat earthquake, 26 January 2001 — rescue and rehabilitation A devastating earthquake struck Gujarat on India's Republic Day in 2001, killing tens of thousands of people and destroying homes, schools and infrastructure. RSS volunteers and associated organisations participated in rescue and relief operations. What did they do? According to contemporary reporting in India Today, RSS and VHP workers were among the early volunteers helping rescue trapped people, care for the wounded and transport the dead. The report also described assistance reaching a Muslim-majority village in Kutch. A report from RSS-associated relief organisation Rashtriya Sewa Bharati describes a specific educational rehabilitation effort: 250 volunteers were deployed for relief work. Within 16 days, 1,250 temporary schoolrooms were established across 56 villages. The tent schools provided children with a place to resume education while permanent facilities were being restored. These figures come from the organisation's own account; the contemporary India Today reporting independently supports the broader account of volunteer rescue work. Why does this matter? Disaster relief is practical public service. Rescuing people, providing food and helping children resume education are useful contributions regardless of the political or religious identity of the volunteers. Sources: \"India Today — Surviving the government: Gujarat earthquake relief, 2001\" ( https://www.indiatoday.in/magazine/cover-story/story/20010212-gujarat-earthquake-despite-delayed-government-action-support-of-people-brings-hope-775771-2001-02-11 ) \"Rashtriya Sewa Bharati — Gujarat earthquake relief\" ( https://rssb.org/disaster_relief_gujarat.html ) Fairness note: There were also contemporary allegations of bias in the distribution of some earthquake relief. That issue deserves investigation rather than being ignored. Recognising documented rescue efforts does not require pretending every relief operation was flawless. 🦠 COVID-19 pandemic, 2020 — food, medicine and community relief During the COVID-19 lockdown, many people lost their livelihoods. Migrant workers, low-income households, elderly people and others struggled to access food and essential supplies. RSS volunteers and RSS-associated Sewa Bharati participated in relief activities. What was reported? In July 2020, The Indian Express reported figures provided by Sewa Bharati representatives: More than 5 lakh volunteers reportedly involved in relief efforts nationwide. Ration kits distributed to over 73 lakh families. Meal packets distributed to over 4.5 crore people. More than 60,000 volunteers reportedly donated blood. A separate Indian Express report in October 2020 covered RSS claims that volunteers had helped over 10 lakh households across western Maharashtra, working in 1,556 villages with more than 4,800 volunteers. Reported activities included food distribution, sanitary supplies, blood donation, health checks and assistance with education and employment. Why does this matter? Food distribution, blood donation and support for people affected by a public-health emergency are concrete forms of community service. The reported scale is substantial, although the headline numbers are organisation-reported figures rather than a complete independent audit of every beneficiary. Sources: \"The Indian Express — Sewa Bharati's COVID-19 relief activities, July 2020\" ( https://indianexpress.com/article/cities/delhi/outreach-efforts-as-covid-hits-livelihood-a-festival-brings-work-opportunity-for-some-6512738/ ) \"The Indian Express — RSS relief efforts in western Maharashtra, October 2020\" ( https://indianexpress.com/article/india/helped-over-10-lakh-households-in-western-maharashtra-during-pandemic-rss-6908956/ ) \"The Indian Express — RSS volunteers' COVID-19 relief activities\" ( https://indianexpress.com/article/india/rss-in-the-time-of-covid-from-plasma-donation-to-conducting-last-rites-6548122/ ) 🏫 Education, health and community development The RSS ecosystem includes organisations that work in areas beyond electoral politics. Two important examples are: Sewa Bharati Works through associated voluntary organisations on education, healthcare, community service and self-reliance, including activities for disadvantaged communities. Its work includes educational support, health initiatives, vocational training and local community projects. Vidya Bharati An education network associated with the wider Sangh Parivar. Its work includes schools and educational initiatives. These are not the same organisation as the RSS itself. Their programmes and results should be evaluated individually, but their activities are relevant when assessing the wider network's social contribution. Where can you verify their work? \"Rashtriya Sewa Bharati — About and programme areas\" ( https://www.rashtriyasewabharati.org/about ) \"Rashtriya Sewa Bharati — Annual reports\" ( https://rashtriyasewabharati.org/about/annual-reports ) Rashtriya Sewa Bharati reports more than 35,560 projects, 500-plus affiliated organisations and coverage across 28 states and union territories. These are its own cumulative figures, so they should be read as organisational reporting, not as independently audited proof that every project succeeded. The important point is that the wider network does undertake organised social-service work. Whether each programme is effective, inclusive and beneficial is a separate question that can be examined using evidence. 🧑‍🤝‍🧑 What about the RSS shakha system? A shakha is a local RSS gathering where volunteers participate in physical exercises, group activities, discussions and organisational training. The model has helped the RSS maintain a durable grassroots presence since its founding in 1925. Its potential positive contributions include: Giving people a regular structure for volunteering and community participation. Developing organisational and leadership skills. Creating networks that can be mobilised during emergencies. Encouraging physical activity and group discipline. Providing a framework for sustained participation in local initiatives. These are plausible benefits of a structured volunteer network, not proof that every shakha produces all these outcomes or that every aspect of its ideology is beneficial. Source: \"Springer — Man-making, Nation-Building and National Reconstruction: The Engaged Hinduism of the RSS and the Vivekananda Kendra\" ( https://link.springer.com/article/10.1007/s42240-023-00139-8 ) 🇮🇳 Did the RSS contribute to India's independence? This question needs particular care. The RSS was founded in 1925, during the freedom struggle. Its founder, K. B. Hedgewar, participated in anti-British activity and was imprisoned in 1930. However, Hedgewar's personal participation must not automatically be treated as proof that the RSS, as an organisation, played a major role in the national independence movement. Historical research distinguishes the actions of individual members from the organisation's overall strategy. The RSS leadership did not mobilise the organisation on the same scale as the Congress-led mass movements, and its role in the Quit India Movement of 1942 was limited. This means two sweeping claims should be avoided: “No person associated with the RSS ever participated in the freedom struggle.” “The RSS was one of the principal organisations that won Indian independence.” Neither accurately captures the historical complexity. Sources: \"The Wire — Did RSS Really Participate in the Freedom Movement?\" ( https://m.thewire.in/article/communalism/did-rss-participate-in-the-freedom-movement ) \"University of Mumbai — MA History: Indian National Movement\" ( https://mu.ac.in/wp-content/uploads/2022/06/MA-History-SEM-III-Paper-III-Indian-National-Movement-English-Version.pdf ) The honest position is that individual participation and the organisation's overall contribution are two different historical questions. Does doing social work mean the RSS should never be criticised? Absolutely not. An organisation can conduct disaster relief and educational programmes while also having a controversial ideology, political influence or members associated with communal violence. Its relief work does not erase the need to examine its record on minority rights, communal harmony and the constitutional principle of equal citizenship. But the reverse is equally important: controversies do not make every volunteer's act of service imaginary, nor do they justify claiming that the organisation has never contributed anything to society. Judge specific actions on evidence. Give credit where it is deserved, and criticism where it is justified. That is a stronger position than either blind admiration or blind hatred. Final point If someone says the RSS has done nothing for society, the examples above provide specific, checkable counterexamples: disaster relief in Gujarat, COVID-19 relief, education and community programmes, and participation in resistance to the Emergency. That does not settle every debate about the RSS. It does establish why blanket statements such as “it has done absolutely nothing” are historically and factually weak. You do not need to support Hindutva, the BJP or every action of the RSS to acknowledge documented acts of public service. And you do not need to dismiss every criticism of the RSS to recognise those contributions. Criticise it with evidence. Defend it with evidence. And hold both sides to the same standard.",
+      "text_excerpt": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, ",
+      "url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "source_url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "mobilisation"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1164,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdb7az",
+      "author": "Confident_Sir_8685",
+      "language": null,
+      "published_at": "2026-10-23T11:16:15Z",
+      "first_detected_at": "2026-10-23T14:32:54Z",
+      "last_detected_at": "2026-10-23T14:32:54Z",
+      "detection_count": 1,
+      "text": "Did sharks really attack migrants shipwrecked off the Baja coast?\nReports of shark attacks off the Baja coast Early last Friday, about 140 miles off the coast of Ensenada, something happened that sounded like a scene straight out of Steven Spielberg’s classic horror film “Jaws.” A boat loaded with more than two dozen migrants, following a route U.S. officials said is commonly used by human smugglers, sank in the middle of the night. ________________ When the American helicopters finally arrived, they managed to pluck 16 of the 27 people who had been on board from the waves — the other 11 are still missing and the search has been called off. Several of the people who were rescued, according to Coast Guard reports, had suffered “injuries consistent with shark bites.” ________________ A shark expert has his doubts But Christopher Lowe, director of the Cal State Long Beach Shark Lab , thinks that fear could be misplaced. On Tuesday, he was quick to point out how limited the information released so far has been, and described the odds of an attack by a group of sharks in the middle of the ocean as “not unheard of, but super unlikely.” If he ever found himself shipwrecked 140 miles from shore, Lowe said, hypothermia would be his main concern, followed closely by the lack of fresh drinking water. But encounters with marine life? “I would put that as a very low possibility,” he said, “unless you’re hurt and bleeding.” That would bump up the odds that passing sharks might get curious and come to investigate, Lowe said, but, even then, a mass attack would be highly unusual. “What happens sometimes is sharks get close, and people lash out to try to keep the sharks away, and then actually put their hand or foot in the shark’s mouth,” Lowe said.",
+      "text_excerpt": "Did sharks really attack migrants shipwrecked off the Baja coast?\nReports of shark attacks off the Baja coast Early last Friday, about 140 miles off the coast of Ensenada, something happened that sounded like a scene straight out of Steven Spielberg’s classic horror film “Jaws.” A boat loaded with more than two dozen migrants, following a route U.S. officials said is commonly used by human smugglers, sank in the middle of the night. ________________ When the American helicopters finally arrived, they managed to pluck 16 of the 27 people who had been on board from the waves — the other 11 are still missing and the search has been called off. Several of the people who were rescued, according t",
+      "url": "https://www.reddit.com/r/TheSharkAttackFiles/comments/1xdb7az/did_sharks_really_attack_migrants_shipwrecked_off/",
+      "source_url": "https://www.reddit.com/r/TheSharkAttackFiles/comments/1xdb7az/did_sharks_really_attack_migrants_shipwrecked_off/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "facilitation",
+          "human smugglers"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human smugglers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1165,
+      "source": "X",
+      "source_post_id": "2113629814590407084",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:53:11Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/2Se32CmkBy",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/2Se32CmkBy",
+      "url": "https://x.com/PuryearFiberArt/status/2113629814590407084",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113629814590407084",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1166,
+      "source": "X",
+      "source_post_id": "2113628328628289637",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:47:17Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/0aXrClutLd",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/0aXrClutLd",
+      "url": "https://x.com/PuryearFiberArt/status/2113628328628289637",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113628328628289637",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1167,
+      "source": "X",
+      "source_post_id": "2113628016387502158",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:46:03Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/3geXkYHS8o",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/3geXkYHS8o",
+      "url": "https://x.com/PuryearFiberArt/status/2113628016387502158",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113628016387502158",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1168,
+      "source": "X",
+      "source_post_id": "2113627885802054071",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:45:31Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/pgaAjYYDbN",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/pgaAjYYDbN",
+      "url": "https://x.com/PuryearFiberArt/status/2113627885802054071",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113627885802054071",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -1045,6 +1463,351 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1163,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdefnn",
+      "author": "11TANISHQ55",
+      "language": null,
+      "published_at": "2026-10-23T13:43:57Z",
+      "first_detected_at": "2026-10-23T14:31:19Z",
+      "last_detected_at": "2026-10-23T14:31:19Z",
+      "detection_count": 1,
+      "text": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, and factual claims require evidence. So let's examine some specific examples. 🇮🇳 RSS and resistance to the Emergency (1975–1977) What happened? On 25 June 1975, Prime Minister Indira Gandhi's government imposed the Emergency. Civil liberties were curtailed, opposition leaders were imprisoned, press censorship was imposed, and political dissent faced repression. The RSS was banned on 4 July 1975. Its volunteers participated in underground opposition activities, protests, the circulation of banned literature and the wider resistance movement. What is the evidence? A 2018 scholarly article published by Modern Asian Studies, Cambridge University Press, examines the RSS's role in anti-Emergency activism, including its overseas networks and underground activities. The article records 2,794 people identified as RSS members among those arrested under the Maintenance of Internal Security Act (MISA), alongside 1,358 Jana Sangh members. The Indian Express reported on the RSS's involvement in the wider anti-Emergency movement and how its grassroots network contributed to mobilisation. Why does this matter? The Emergency was a serious episode of authoritarian rule in independent India. Participation in resistance to censorship, detention and the suppression of democratic freedoms deserves historical recognition, regardless of whether one agrees with the organisation's ideology. Sources: \"Cambridge University Press — “Smugglers of Truth”: The Indian diaspora, Hindu nationalism, and the Emergency (1975–77)\" ( https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/smugglers-of-truth-the-indian-diaspora-hindu-nationalism-and-the-emergency-197577/2C59B29D6C36D0CA7C8B1C2EE207534D ) \"The Indian Express — When the Sangh became part of the Janata Parivar\" ( https://indianexpress.com/article/india/emergency-sangh-janata-parivar-10090165/ ) An important qualification: The RSS was one participant in a much broader opposition movement that included socialists, students, other political organisations and civil-liberties advocates. It did not single-handedly defeat the Emergency. 🏚️ Gujarat earthquake, 26 January 2001 — rescue and rehabilitation A devastating earthquake struck Gujarat on India's Republic Day in 2001, killing tens of thousands of people and destroying homes, schools and infrastructure. RSS volunteers and associated organisations participated in rescue and relief operations. What did they do? According to contemporary reporting in India Today, RSS and VHP workers were among the early volunteers helping rescue trapped people, care for the wounded and transport the dead. The report also described assistance reaching a Muslim-majority village in Kutch. A report from RSS-associated relief organisation Rashtriya Sewa Bharati describes a specific educational rehabilitation effort: 250 volunteers were deployed for relief work. Within 16 days, 1,250 temporary schoolrooms were established across 56 villages. The tent schools provided children with a place to resume education while permanent facilities were being restored. These figures come from the organisation's own account; the contemporary India Today reporting independently supports the broader account of volunteer rescue work. Why does this matter? Disaster relief is practical public service. Rescuing people, providing food and helping children resume education are useful contributions regardless of the political or religious identity of the volunteers. Sources: \"India Today — Surviving the government: Gujarat earthquake relief, 2001\" ( https://www.indiatoday.in/magazine/cover-story/story/20010212-gujarat-earthquake-despite-delayed-government-action-support-of-people-brings-hope-775771-2001-02-11 ) \"Rashtriya Sewa Bharati — Gujarat earthquake relief\" ( https://rssb.org/disaster_relief_gujarat.html ) Fairness note: There were also contemporary allegations of bias in the distribution of some earthquake relief. That issue deserves investigation rather than being ignored. Recognising documented rescue efforts does not require pretending every relief operation was flawless. 🦠 COVID-19 pandemic, 2020 — food, medicine and community relief During the COVID-19 lockdown, many people lost their livelihoods. Migrant workers, low-income households, elderly people and others struggled to access food and essential supplies. RSS volunteers and RSS-associated Sewa Bharati participated in relief activities. What was reported? In July 2020, The Indian Express reported figures provided by Sewa Bharati representatives: More than 5 lakh volunteers reportedly involved in relief efforts nationwide. Ration kits distributed to over 73 lakh families. Meal packets distributed to over 4.5 crore people. More than 60,000 volunteers reportedly donated blood. A separate Indian Express report in October 2020 covered RSS claims that volunteers had helped over 10 lakh households across western Maharashtra, working in 1,556 villages with more than 4,800 volunteers. Reported activities included food distribution, sanitary supplies, blood donation, health checks and assistance with education and employment. Why does this matter? Food distribution, blood donation and support for people affected by a public-health emergency are concrete forms of community service. The reported scale is substantial, although the headline numbers are organisation-reported figures rather than a complete independent audit of every beneficiary. Sources: \"The Indian Express — Sewa Bharati's COVID-19 relief activities, July 2020\" ( https://indianexpress.com/article/cities/delhi/outreach-efforts-as-covid-hits-livelihood-a-festival-brings-work-opportunity-for-some-6512738/ ) \"The Indian Express — RSS relief efforts in western Maharashtra, October 2020\" ( https://indianexpress.com/article/india/helped-over-10-lakh-households-in-western-maharashtra-during-pandemic-rss-6908956/ ) \"The Indian Express — RSS volunteers' COVID-19 relief activities\" ( https://indianexpress.com/article/india/rss-in-the-time-of-covid-from-plasma-donation-to-conducting-last-rites-6548122/ ) 🏫 Education, health and community development The RSS ecosystem includes organisations that work in areas beyond electoral politics. Two important examples are: Sewa Bharati Works through associated voluntary organisations on education, healthcare, community service and self-reliance, including activities for disadvantaged communities. Its work includes educational support, health initiatives, vocational training and local community projects. Vidya Bharati An education network associated with the wider Sangh Parivar. Its work includes schools and educational initiatives. These are not the same organisation as the RSS itself. Their programmes and results should be evaluated individually, but their activities are relevant when assessing the wider network's social contribution. Where can you verify their work? \"Rashtriya Sewa Bharati — About and programme areas\" ( https://www.rashtriyasewabharati.org/about ) \"Rashtriya Sewa Bharati — Annual reports\" ( https://rashtriyasewabharati.org/about/annual-reports ) Rashtriya Sewa Bharati reports more than 35,560 projects, 500-plus affiliated organisations and coverage across 28 states and union territories. These are its own cumulative figures, so they should be read as organisational reporting, not as independently audited proof that every project succeeded. The important point is that the wider network does undertake organised social-service work. Whether each programme is effective, inclusive and beneficial is a separate question that can be examined using evidence. 🧑‍🤝‍🧑 What about the RSS shakha system? A shakha is a local RSS gathering where volunteers participate in physical exercises, group activities, discussions and organisational training. The model has helped the RSS maintain a durable grassroots presence since its founding in 1925. Its potential positive contributions include: Giving people a regular structure for volunteering and community participation. Developing organisational and leadership skills. Creating networks that can be mobilised during emergencies. Encouraging physical activity and group discipline. Providing a framework for sustained participation in local initiatives. These are plausible benefits of a structured volunteer network, not proof that every shakha produces all these outcomes or that every aspect of its ideology is beneficial. Source: \"Springer — Man-making, Nation-Building and National Reconstruction: The Engaged Hinduism of the RSS and the Vivekananda Kendra\" ( https://link.springer.com/article/10.1007/s42240-023-00139-8 ) 🇮🇳 Did the RSS contribute to India's independence? This question needs particular care. The RSS was founded in 1925, during the freedom struggle. Its founder, K. B. Hedgewar, participated in anti-British activity and was imprisoned in 1930. However, Hedgewar's personal participation must not automatically be treated as proof that the RSS, as an organisation, played a major role in the national independence movement. Historical research distinguishes the actions of individual members from the organisation's overall strategy. The RSS leadership did not mobilise the organisation on the same scale as the Congress-led mass movements, and its role in the Quit India Movement of 1942 was limited. This means two sweeping claims should be avoided: “No person associated with the RSS ever participated in the freedom struggle.” “The RSS was one of the principal organisations that won Indian independence.” Neither accurately captures the historical complexity. Sources: \"The Wire — Did RSS Really Participate in the Freedom Movement?\" ( https://m.thewire.in/article/communalism/did-rss-participate-in-the-freedom-movement ) \"University of Mumbai — MA History: Indian National Movement\" ( https://mu.ac.in/wp-content/uploads/2022/06/MA-History-SEM-III-Paper-III-Indian-National-Movement-English-Version.pdf ) The honest position is that individual participation and the organisation's overall contribution are two different historical questions. Does doing social work mean the RSS should never be criticised? Absolutely not. An organisation can conduct disaster relief and educational programmes while also having a controversial ideology, political influence or members associated with communal violence. Its relief work does not erase the need to examine its record on minority rights, communal harmony and the constitutional principle of equal citizenship. But the reverse is equally important: controversies do not make every volunteer's act of service imaginary, nor do they justify claiming that the organisation has never contributed anything to society. Judge specific actions on evidence. Give credit where it is deserved, and criticism where it is justified. That is a stronger position than either blind admiration or blind hatred. Final point If someone says the RSS has done nothing for society, the examples above provide specific, checkable counterexamples: disaster relief in Gujarat, COVID-19 relief, education and community programmes, and participation in resistance to the Emergency. That does not settle every debate about the RSS. It does establish why blanket statements such as “it has done absolutely nothing” are historically and factually weak. You do not need to support Hindutva, the BJP or every action of the RSS to acknowledge documented acts of public service. And you do not need to dismiss every criticism of the RSS to recognise those contributions. Criticise it with evidence. Defend it with evidence. And hold both sides to the same standard.",
+      "text_excerpt": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, ",
+      "url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "source_url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "mobilisation"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1164,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdb7az",
+      "author": "Confident_Sir_8685",
+      "language": null,
+      "published_at": "2026-10-23T11:16:15Z",
+      "first_detected_at": "2026-10-23T14:32:54Z",
+      "last_detected_at": "2026-10-23T14:32:54Z",
+      "detection_count": 1,
+      "text": "Did sharks really attack migrants shipwrecked off the Baja coast?\nReports of shark attacks off the Baja coast Early last Friday, about 140 miles off the coast of Ensenada, something happened that sounded like a scene straight out of Steven Spielberg’s classic horror film “Jaws.” A boat loaded with more than two dozen migrants, following a route U.S. officials said is commonly used by human smugglers, sank in the middle of the night. ________________ When the American helicopters finally arrived, they managed to pluck 16 of the 27 people who had been on board from the waves — the other 11 are still missing and the search has been called off. Several of the people who were rescued, according to Coast Guard reports, had suffered “injuries consistent with shark bites.” ________________ A shark expert has his doubts But Christopher Lowe, director of the Cal State Long Beach Shark Lab , thinks that fear could be misplaced. On Tuesday, he was quick to point out how limited the information released so far has been, and described the odds of an attack by a group of sharks in the middle of the ocean as “not unheard of, but super unlikely.” If he ever found himself shipwrecked 140 miles from shore, Lowe said, hypothermia would be his main concern, followed closely by the lack of fresh drinking water. But encounters with marine life? “I would put that as a very low possibility,” he said, “unless you’re hurt and bleeding.” That would bump up the odds that passing sharks might get curious and come to investigate, Lowe said, but, even then, a mass attack would be highly unusual. “What happens sometimes is sharks get close, and people lash out to try to keep the sharks away, and then actually put their hand or foot in the shark’s mouth,” Lowe said.",
+      "text_excerpt": "Did sharks really attack migrants shipwrecked off the Baja coast?\nReports of shark attacks off the Baja coast Early last Friday, about 140 miles off the coast of Ensenada, something happened that sounded like a scene straight out of Steven Spielberg’s classic horror film “Jaws.” A boat loaded with more than two dozen migrants, following a route U.S. officials said is commonly used by human smugglers, sank in the middle of the night. ________________ When the American helicopters finally arrived, they managed to pluck 16 of the 27 people who had been on board from the waves — the other 11 are still missing and the search has been called off. Several of the people who were rescued, according t",
+      "url": "https://www.reddit.com/r/TheSharkAttackFiles/comments/1xdb7az/did_sharks_really_attack_migrants_shipwrecked_off/",
+      "source_url": "https://www.reddit.com/r/TheSharkAttackFiles/comments/1xdb7az/did_sharks_really_attack_migrants_shipwrecked_off/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "facilitation",
+          "human smugglers"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human smugglers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1165,
+      "source": "X",
+      "source_post_id": "2113629814590407084",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:53:11Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/2Se32CmkBy",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/2Se32CmkBy",
+      "url": "https://x.com/PuryearFiberArt/status/2113629814590407084",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113629814590407084",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1166,
+      "source": "X",
+      "source_post_id": "2113628328628289637",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:47:17Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/0aXrClutLd",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/0aXrClutLd",
+      "url": "https://x.com/PuryearFiberArt/status/2113628328628289637",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113628328628289637",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1167,
+      "source": "X",
+      "source_post_id": "2113628016387502158",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:46:03Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/3geXkYHS8o",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/3geXkYHS8o",
+      "url": "https://x.com/PuryearFiberArt/status/2113628016387502158",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113628016387502158",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1168,
+      "source": "X",
+      "source_post_id": "2113627885802054071",
+      "author": "PuryearFiberArt",
+      "language": "en",
+      "published_at": "2026-10-23T13:45:31Z",
+      "first_detected_at": "2026-10-23T14:33:27Z",
+      "last_detected_at": "2026-10-23T14:33:27Z",
+      "detection_count": 1,
+      "text": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/pgaAjYYDbN",
+      "text_excerpt": "Thoughts\nA migrant caravan is currently moving toward the United States. The question is whether its arrival is expected to coincide with the upcoming elections.\nIf it does not, the situation remains manageable. If it does, the timing presents a significant concern for the https://t.co/pgaAjYYDbN",
+      "url": "https://x.com/PuryearFiberArt/status/2113627885802054071",
+      "source_url": "https://x.com/PuryearFiberArt/status/2113627885802054071",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravan is currently moving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant caravan is currently moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -1099,6 +1862,58 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1163,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdefnn",
+      "author": "11TANISHQ55",
+      "language": null,
+      "published_at": "2026-10-23T13:43:57Z",
+      "first_detected_at": "2026-10-23T14:31:19Z",
+      "last_detected_at": "2026-10-23T14:31:19Z",
+      "detection_count": 1,
+      "text": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, and factual claims require evidence. So let's examine some specific examples. 🇮🇳 RSS and resistance to the Emergency (1975–1977) What happened? On 25 June 1975, Prime Minister Indira Gandhi's government imposed the Emergency. Civil liberties were curtailed, opposition leaders were imprisoned, press censorship was imposed, and political dissent faced repression. The RSS was banned on 4 July 1975. Its volunteers participated in underground opposition activities, protests, the circulation of banned literature and the wider resistance movement. What is the evidence? A 2018 scholarly article published by Modern Asian Studies, Cambridge University Press, examines the RSS's role in anti-Emergency activism, including its overseas networks and underground activities. The article records 2,794 people identified as RSS members among those arrested under the Maintenance of Internal Security Act (MISA), alongside 1,358 Jana Sangh members. The Indian Express reported on the RSS's involvement in the wider anti-Emergency movement and how its grassroots network contributed to mobilisation. Why does this matter? The Emergency was a serious episode of authoritarian rule in independent India. Participation in resistance to censorship, detention and the suppression of democratic freedoms deserves historical recognition, regardless of whether one agrees with the organisation's ideology. Sources: \"Cambridge University Press — “Smugglers of Truth”: The Indian diaspora, Hindu nationalism, and the Emergency (1975–77)\" ( https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/smugglers-of-truth-the-indian-diaspora-hindu-nationalism-and-the-emergency-197577/2C59B29D6C36D0CA7C8B1C2EE207534D ) \"The Indian Express — When the Sangh became part of the Janata Parivar\" ( https://indianexpress.com/article/india/emergency-sangh-janata-parivar-10090165/ ) An important qualification: The RSS was one participant in a much broader opposition movement that included socialists, students, other political organisations and civil-liberties advocates. It did not single-handedly defeat the Emergency. 🏚️ Gujarat earthquake, 26 January 2001 — rescue and rehabilitation A devastating earthquake struck Gujarat on India's Republic Day in 2001, killing tens of thousands of people and destroying homes, schools and infrastructure. RSS volunteers and associated organisations participated in rescue and relief operations. What did they do? According to contemporary reporting in India Today, RSS and VHP workers were among the early volunteers helping rescue trapped people, care for the wounded and transport the dead. The report also described assistance reaching a Muslim-majority village in Kutch. A report from RSS-associated relief organisation Rashtriya Sewa Bharati describes a specific educational rehabilitation effort: 250 volunteers were deployed for relief work. Within 16 days, 1,250 temporary schoolrooms were established across 56 villages. The tent schools provided children with a place to resume education while permanent facilities were being restored. These figures come from the organisation's own account; the contemporary India Today reporting independently supports the broader account of volunteer rescue work. Why does this matter? Disaster relief is practical public service. Rescuing people, providing food and helping children resume education are useful contributions regardless of the political or religious identity of the volunteers. Sources: \"India Today — Surviving the government: Gujarat earthquake relief, 2001\" ( https://www.indiatoday.in/magazine/cover-story/story/20010212-gujarat-earthquake-despite-delayed-government-action-support-of-people-brings-hope-775771-2001-02-11 ) \"Rashtriya Sewa Bharati — Gujarat earthquake relief\" ( https://rssb.org/disaster_relief_gujarat.html ) Fairness note: There were also contemporary allegations of bias in the distribution of some earthquake relief. That issue deserves investigation rather than being ignored. Recognising documented rescue efforts does not require pretending every relief operation was flawless. 🦠 COVID-19 pandemic, 2020 — food, medicine and community relief During the COVID-19 lockdown, many people lost their livelihoods. Migrant workers, low-income households, elderly people and others struggled to access food and essential supplies. RSS volunteers and RSS-associated Sewa Bharati participated in relief activities. What was reported? In July 2020, The Indian Express reported figures provided by Sewa Bharati representatives: More than 5 lakh volunteers reportedly involved in relief efforts nationwide. Ration kits distributed to over 73 lakh families. Meal packets distributed to over 4.5 crore people. More than 60,000 volunteers reportedly donated blood. A separate Indian Express report in October 2020 covered RSS claims that volunteers had helped over 10 lakh households across western Maharashtra, working in 1,556 villages with more than 4,800 volunteers. Reported activities included food distribution, sanitary supplies, blood donation, health checks and assistance with education and employment. Why does this matter? Food distribution, blood donation and support for people affected by a public-health emergency are concrete forms of community service. The reported scale is substantial, although the headline numbers are organisation-reported figures rather than a complete independent audit of every beneficiary. Sources: \"The Indian Express — Sewa Bharati's COVID-19 relief activities, July 2020\" ( https://indianexpress.com/article/cities/delhi/outreach-efforts-as-covid-hits-livelihood-a-festival-brings-work-opportunity-for-some-6512738/ ) \"The Indian Express — RSS relief efforts in western Maharashtra, October 2020\" ( https://indianexpress.com/article/india/helped-over-10-lakh-households-in-western-maharashtra-during-pandemic-rss-6908956/ ) \"The Indian Express — RSS volunteers' COVID-19 relief activities\" ( https://indianexpress.com/article/india/rss-in-the-time-of-covid-from-plasma-donation-to-conducting-last-rites-6548122/ ) 🏫 Education, health and community development The RSS ecosystem includes organisations that work in areas beyond electoral politics. Two important examples are: Sewa Bharati Works through associated voluntary organisations on education, healthcare, community service and self-reliance, including activities for disadvantaged communities. Its work includes educational support, health initiatives, vocational training and local community projects. Vidya Bharati An education network associated with the wider Sangh Parivar. Its work includes schools and educational initiatives. These are not the same organisation as the RSS itself. Their programmes and results should be evaluated individually, but their activities are relevant when assessing the wider network's social contribution. Where can you verify their work? \"Rashtriya Sewa Bharati — About and programme areas\" ( https://www.rashtriyasewabharati.org/about ) \"Rashtriya Sewa Bharati — Annual reports\" ( https://rashtriyasewabharati.org/about/annual-reports ) Rashtriya Sewa Bharati reports more than 35,560 projects, 500-plus affiliated organisations and coverage across 28 states and union territories. These are its own cumulative figures, so they should be read as organisational reporting, not as independently audited proof that every project succeeded. The important point is that the wider network does undertake organised social-service work. Whether each programme is effective, inclusive and beneficial is a separate question that can be examined using evidence. 🧑‍🤝‍🧑 What about the RSS shakha system? A shakha is a local RSS gathering where volunteers participate in physical exercises, group activities, discussions and organisational training. The model has helped the RSS maintain a durable grassroots presence since its founding in 1925. Its potential positive contributions include: Giving people a regular structure for volunteering and community participation. Developing organisational and leadership skills. Creating networks that can be mobilised during emergencies. Encouraging physical activity and group discipline. Providing a framework for sustained participation in local initiatives. These are plausible benefits of a structured volunteer network, not proof that every shakha produces all these outcomes or that every aspect of its ideology is beneficial. Source: \"Springer — Man-making, Nation-Building and National Reconstruction: The Engaged Hinduism of the RSS and the Vivekananda Kendra\" ( https://link.springer.com/article/10.1007/s42240-023-00139-8 ) 🇮🇳 Did the RSS contribute to India's independence? This question needs particular care. The RSS was founded in 1925, during the freedom struggle. Its founder, K. B. Hedgewar, participated in anti-British activity and was imprisoned in 1930. However, Hedgewar's personal participation must not automatically be treated as proof that the RSS, as an organisation, played a major role in the national independence movement. Historical research distinguishes the actions of individual members from the organisation's overall strategy. The RSS leadership did not mobilise the organisation on the same scale as the Congress-led mass movements, and its role in the Quit India Movement of 1942 was limited. This means two sweeping claims should be avoided: “No person associated with the RSS ever participated in the freedom struggle.” “The RSS was one of the principal organisations that won Indian independence.” Neither accurately captures the historical complexity. Sources: \"The Wire — Did RSS Really Participate in the Freedom Movement?\" ( https://m.thewire.in/article/communalism/did-rss-participate-in-the-freedom-movement ) \"University of Mumbai — MA History: Indian National Movement\" ( https://mu.ac.in/wp-content/uploads/2022/06/MA-History-SEM-III-Paper-III-Indian-National-Movement-English-Version.pdf ) The honest position is that individual participation and the organisation's overall contribution are two different historical questions. Does doing social work mean the RSS should never be criticised? Absolutely not. An organisation can conduct disaster relief and educational programmes while also having a controversial ideology, political influence or members associated with communal violence. Its relief work does not erase the need to examine its record on minority rights, communal harmony and the constitutional principle of equal citizenship. But the reverse is equally important: controversies do not make every volunteer's act of service imaginary, nor do they justify claiming that the organisation has never contributed anything to society. Judge specific actions on evidence. Give credit where it is deserved, and criticism where it is justified. That is a stronger position than either blind admiration or blind hatred. Final point If someone says the RSS has done nothing for society, the examples above provide specific, checkable counterexamples: disaster relief in Gujarat, COVID-19 relief, education and community programmes, and participation in resistance to the Emergency. That does not settle every debate about the RSS. It does establish why blanket statements such as “it has done absolutely nothing” are historically and factually weak. You do not need to support Hindutva, the BJP or every action of the RSS to acknowledge documented acts of public service. And you do not need to dismiss every criticism of the RSS to recognise those contributions. Criticise it with evidence. Defend it with evidence. And hold both sides to the same standard.",
+      "text_excerpt": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, ",
+      "url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "source_url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "mobilisation"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
     }
   ],
   "access_signals": [
@@ -1153,6 +1968,58 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1163,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdefnn",
+      "author": "11TANISHQ55",
+      "language": null,
+      "published_at": "2026-10-23T13:43:57Z",
+      "first_detected_at": "2026-10-23T14:31:19Z",
+      "last_detected_at": "2026-10-23T14:31:19Z",
+      "detection_count": 1,
+      "text": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, and factual claims require evidence. So let's examine some specific examples. 🇮🇳 RSS and resistance to the Emergency (1975–1977) What happened? On 25 June 1975, Prime Minister Indira Gandhi's government imposed the Emergency. Civil liberties were curtailed, opposition leaders were imprisoned, press censorship was imposed, and political dissent faced repression. The RSS was banned on 4 July 1975. Its volunteers participated in underground opposition activities, protests, the circulation of banned literature and the wider resistance movement. What is the evidence? A 2018 scholarly article published by Modern Asian Studies, Cambridge University Press, examines the RSS's role in anti-Emergency activism, including its overseas networks and underground activities. The article records 2,794 people identified as RSS members among those arrested under the Maintenance of Internal Security Act (MISA), alongside 1,358 Jana Sangh members. The Indian Express reported on the RSS's involvement in the wider anti-Emergency movement and how its grassroots network contributed to mobilisation. Why does this matter? The Emergency was a serious episode of authoritarian rule in independent India. Participation in resistance to censorship, detention and the suppression of democratic freedoms deserves historical recognition, regardless of whether one agrees with the organisation's ideology. Sources: \"Cambridge University Press — “Smugglers of Truth”: The Indian diaspora, Hindu nationalism, and the Emergency (1975–77)\" ( https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/smugglers-of-truth-the-indian-diaspora-hindu-nationalism-and-the-emergency-197577/2C59B29D6C36D0CA7C8B1C2EE207534D ) \"The Indian Express — When the Sangh became part of the Janata Parivar\" ( https://indianexpress.com/article/india/emergency-sangh-janata-parivar-10090165/ ) An important qualification: The RSS was one participant in a much broader opposition movement that included socialists, students, other political organisations and civil-liberties advocates. It did not single-handedly defeat the Emergency. 🏚️ Gujarat earthquake, 26 January 2001 — rescue and rehabilitation A devastating earthquake struck Gujarat on India's Republic Day in 2001, killing tens of thousands of people and destroying homes, schools and infrastructure. RSS volunteers and associated organisations participated in rescue and relief operations. What did they do? According to contemporary reporting in India Today, RSS and VHP workers were among the early volunteers helping rescue trapped people, care for the wounded and transport the dead. The report also described assistance reaching a Muslim-majority village in Kutch. A report from RSS-associated relief organisation Rashtriya Sewa Bharati describes a specific educational rehabilitation effort: 250 volunteers were deployed for relief work. Within 16 days, 1,250 temporary schoolrooms were established across 56 villages. The tent schools provided children with a place to resume education while permanent facilities were being restored. These figures come from the organisation's own account; the contemporary India Today reporting independently supports the broader account of volunteer rescue work. Why does this matter? Disaster relief is practical public service. Rescuing people, providing food and helping children resume education are useful contributions regardless of the political or religious identity of the volunteers. Sources: \"India Today — Surviving the government: Gujarat earthquake relief, 2001\" ( https://www.indiatoday.in/magazine/cover-story/story/20010212-gujarat-earthquake-despite-delayed-government-action-support-of-people-brings-hope-775771-2001-02-11 ) \"Rashtriya Sewa Bharati — Gujarat earthquake relief\" ( https://rssb.org/disaster_relief_gujarat.html ) Fairness note: There were also contemporary allegations of bias in the distribution of some earthquake relief. That issue deserves investigation rather than being ignored. Recognising documented rescue efforts does not require pretending every relief operation was flawless. 🦠 COVID-19 pandemic, 2020 — food, medicine and community relief During the COVID-19 lockdown, many people lost their livelihoods. Migrant workers, low-income households, elderly people and others struggled to access food and essential supplies. RSS volunteers and RSS-associated Sewa Bharati participated in relief activities. What was reported? In July 2020, The Indian Express reported figures provided by Sewa Bharati representatives: More than 5 lakh volunteers reportedly involved in relief efforts nationwide. Ration kits distributed to over 73 lakh families. Meal packets distributed to over 4.5 crore people. More than 60,000 volunteers reportedly donated blood. A separate Indian Express report in October 2020 covered RSS claims that volunteers had helped over 10 lakh households across western Maharashtra, working in 1,556 villages with more than 4,800 volunteers. Reported activities included food distribution, sanitary supplies, blood donation, health checks and assistance with education and employment. Why does this matter? Food distribution, blood donation and support for people affected by a public-health emergency are concrete forms of community service. The reported scale is substantial, although the headline numbers are organisation-reported figures rather than a complete independent audit of every beneficiary. Sources: \"The Indian Express — Sewa Bharati's COVID-19 relief activities, July 2020\" ( https://indianexpress.com/article/cities/delhi/outreach-efforts-as-covid-hits-livelihood-a-festival-brings-work-opportunity-for-some-6512738/ ) \"The Indian Express — RSS relief efforts in western Maharashtra, October 2020\" ( https://indianexpress.com/article/india/helped-over-10-lakh-households-in-western-maharashtra-during-pandemic-rss-6908956/ ) \"The Indian Express — RSS volunteers' COVID-19 relief activities\" ( https://indianexpress.com/article/india/rss-in-the-time-of-covid-from-plasma-donation-to-conducting-last-rites-6548122/ ) 🏫 Education, health and community development The RSS ecosystem includes organisations that work in areas beyond electoral politics. Two important examples are: Sewa Bharati Works through associated voluntary organisations on education, healthcare, community service and self-reliance, including activities for disadvantaged communities. Its work includes educational support, health initiatives, vocational training and local community projects. Vidya Bharati An education network associated with the wider Sangh Parivar. Its work includes schools and educational initiatives. These are not the same organisation as the RSS itself. Their programmes and results should be evaluated individually, but their activities are relevant when assessing the wider network's social contribution. Where can you verify their work? \"Rashtriya Sewa Bharati — About and programme areas\" ( https://www.rashtriyasewabharati.org/about ) \"Rashtriya Sewa Bharati — Annual reports\" ( https://rashtriyasewabharati.org/about/annual-reports ) Rashtriya Sewa Bharati reports more than 35,560 projects, 500-plus affiliated organisations and coverage across 28 states and union territories. These are its own cumulative figures, so they should be read as organisational reporting, not as independently audited proof that every project succeeded. The important point is that the wider network does undertake organised social-service work. Whether each programme is effective, inclusive and beneficial is a separate question that can be examined using evidence. 🧑‍🤝‍🧑 What about the RSS shakha system? A shakha is a local RSS gathering where volunteers participate in physical exercises, group activities, discussions and organisational training. The model has helped the RSS maintain a durable grassroots presence since its founding in 1925. Its potential positive contributions include: Giving people a regular structure for volunteering and community participation. Developing organisational and leadership skills. Creating networks that can be mobilised during emergencies. Encouraging physical activity and group discipline. Providing a framework for sustained participation in local initiatives. These are plausible benefits of a structured volunteer network, not proof that every shakha produces all these outcomes or that every aspect of its ideology is beneficial. Source: \"Springer — Man-making, Nation-Building and National Reconstruction: The Engaged Hinduism of the RSS and the Vivekananda Kendra\" ( https://link.springer.com/article/10.1007/s42240-023-00139-8 ) 🇮🇳 Did the RSS contribute to India's independence? This question needs particular care. The RSS was founded in 1925, during the freedom struggle. Its founder, K. B. Hedgewar, participated in anti-British activity and was imprisoned in 1930. However, Hedgewar's personal participation must not automatically be treated as proof that the RSS, as an organisation, played a major role in the national independence movement. Historical research distinguishes the actions of individual members from the organisation's overall strategy. The RSS leadership did not mobilise the organisation on the same scale as the Congress-led mass movements, and its role in the Quit India Movement of 1942 was limited. This means two sweeping claims should be avoided: “No person associated with the RSS ever participated in the freedom struggle.” “The RSS was one of the principal organisations that won Indian independence.” Neither accurately captures the historical complexity. Sources: \"The Wire — Did RSS Really Participate in the Freedom Movement?\" ( https://m.thewire.in/article/communalism/did-rss-participate-in-the-freedom-movement ) \"University of Mumbai — MA History: Indian National Movement\" ( https://mu.ac.in/wp-content/uploads/2022/06/MA-History-SEM-III-Paper-III-Indian-National-Movement-English-Version.pdf ) The honest position is that individual participation and the organisation's overall contribution are two different historical questions. Does doing social work mean the RSS should never be criticised? Absolutely not. An organisation can conduct disaster relief and educational programmes while also having a controversial ideology, political influence or members associated with communal violence. Its relief work does not erase the need to examine its record on minority rights, communal harmony and the constitutional principle of equal citizenship. But the reverse is equally important: controversies do not make every volunteer's act of service imaginary, nor do they justify claiming that the organisation has never contributed anything to society. Judge specific actions on evidence. Give credit where it is deserved, and criticism where it is justified. That is a stronger position than either blind admiration or blind hatred. Final point If someone says the RSS has done nothing for society, the examples above provide specific, checkable counterexamples: disaster relief in Gujarat, COVID-19 relief, education and community programmes, and participation in resistance to the Emergency. That does not settle every debate about the RSS. It does establish why blanket statements such as “it has done absolutely nothing” are historically and factually weak. You do not need to support Hindutva, the BJP or every action of the RSS to acknowledge documented acts of public service. And you do not need to dismiss every criticism of the RSS to recognise those contributions. Criticise it with evidence. Defend it with evidence. And hold both sides to the same standard.",
+      "text_excerpt": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, ",
+      "url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "source_url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "mobilisation"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
     }
   ],
   "top_crossing_access_posts": [
@@ -1222,6 +2089,73 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1163,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdefnn",
+      "author": "11TANISHQ55",
+      "language": null,
+      "published_at": "2026-10-23T13:43:57Z",
+      "first_detected_at": "2026-10-23T14:31:19Z",
+      "last_detected_at": "2026-10-23T14:31:19Z",
+      "detection_count": 1,
+      "text": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, and factual claims require evidence. So let's examine some specific examples. 🇮🇳 RSS and resistance to the Emergency (1975–1977) What happened? On 25 June 1975, Prime Minister Indira Gandhi's government imposed the Emergency. Civil liberties were curtailed, opposition leaders were imprisoned, press censorship was imposed, and political dissent faced repression. The RSS was banned on 4 July 1975. Its volunteers participated in underground opposition activities, protests, the circulation of banned literature and the wider resistance movement. What is the evidence? A 2018 scholarly article published by Modern Asian Studies, Cambridge University Press, examines the RSS's role in anti-Emergency activism, including its overseas networks and underground activities. The article records 2,794 people identified as RSS members among those arrested under the Maintenance of Internal Security Act (MISA), alongside 1,358 Jana Sangh members. The Indian Express reported on the RSS's involvement in the wider anti-Emergency movement and how its grassroots network contributed to mobilisation. Why does this matter? The Emergency was a serious episode of authoritarian rule in independent India. Participation in resistance to censorship, detention and the suppression of democratic freedoms deserves historical recognition, regardless of whether one agrees with the organisation's ideology. Sources: \"Cambridge University Press — “Smugglers of Truth”: The Indian diaspora, Hindu nationalism, and the Emergency (1975–77)\" ( https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/smugglers-of-truth-the-indian-diaspora-hindu-nationalism-and-the-emergency-197577/2C59B29D6C36D0CA7C8B1C2EE207534D ) \"The Indian Express — When the Sangh became part of the Janata Parivar\" ( https://indianexpress.com/article/india/emergency-sangh-janata-parivar-10090165/ ) An important qualification: The RSS was one participant in a much broader opposition movement that included socialists, students, other political organisations and civil-liberties advocates. It did not single-handedly defeat the Emergency. 🏚️ Gujarat earthquake, 26 January 2001 — rescue and rehabilitation A devastating earthquake struck Gujarat on India's Republic Day in 2001, killing tens of thousands of people and destroying homes, schools and infrastructure. RSS volunteers and associated organisations participated in rescue and relief operations. What did they do? According to contemporary reporting in India Today, RSS and VHP workers were among the early volunteers helping rescue trapped people, care for the wounded and transport the dead. The report also described assistance reaching a Muslim-majority village in Kutch. A report from RSS-associated relief organisation Rashtriya Sewa Bharati describes a specific educational rehabilitation effort: 250 volunteers were deployed for relief work. Within 16 days, 1,250 temporary schoolrooms were established across 56 villages. The tent schools provided children with a place to resume education while permanent facilities were being restored. These figures come from the organisation's own account; the contemporary India Today reporting independently supports the broader account of volunteer rescue work. Why does this matter? Disaster relief is practical public service. Rescuing people, providing food and helping children resume education are useful contributions regardless of the political or religious identity of the volunteers. Sources: \"India Today — Surviving the government: Gujarat earthquake relief, 2001\" ( https://www.indiatoday.in/magazine/cover-story/story/20010212-gujarat-earthquake-despite-delayed-government-action-support-of-people-brings-hope-775771-2001-02-11 ) \"Rashtriya Sewa Bharati — Gujarat earthquake relief\" ( https://rssb.org/disaster_relief_gujarat.html ) Fairness note: There were also contemporary allegations of bias in the distribution of some earthquake relief. That issue deserves investigation rather than being ignored. Recognising documented rescue efforts does not require pretending every relief operation was flawless. 🦠 COVID-19 pandemic, 2020 — food, medicine and community relief During the COVID-19 lockdown, many people lost their livelihoods. Migrant workers, low-income households, elderly people and others struggled to access food and essential supplies. RSS volunteers and RSS-associated Sewa Bharati participated in relief activities. What was reported? In July 2020, The Indian Express reported figures provided by Sewa Bharati representatives: More than 5 lakh volunteers reportedly involved in relief efforts nationwide. Ration kits distributed to over 73 lakh families. Meal packets distributed to over 4.5 crore people. More than 60,000 volunteers reportedly donated blood. A separate Indian Express report in October 2020 covered RSS claims that volunteers had helped over 10 lakh households across western Maharashtra, working in 1,556 villages with more than 4,800 volunteers. Reported activities included food distribution, sanitary supplies, blood donation, health checks and assistance with education and employment. Why does this matter? Food distribution, blood donation and support for people affected by a public-health emergency are concrete forms of community service. The reported scale is substantial, although the headline numbers are organisation-reported figures rather than a complete independent audit of every beneficiary. Sources: \"The Indian Express — Sewa Bharati's COVID-19 relief activities, July 2020\" ( https://indianexpress.com/article/cities/delhi/outreach-efforts-as-covid-hits-livelihood-a-festival-brings-work-opportunity-for-some-6512738/ ) \"The Indian Express — RSS relief efforts in western Maharashtra, October 2020\" ( https://indianexpress.com/article/india/helped-over-10-lakh-households-in-western-maharashtra-during-pandemic-rss-6908956/ ) \"The Indian Express — RSS volunteers' COVID-19 relief activities\" ( https://indianexpress.com/article/india/rss-in-the-time-of-covid-from-plasma-donation-to-conducting-last-rites-6548122/ ) 🏫 Education, health and community development The RSS ecosystem includes organisations that work in areas beyond electoral politics. Two important examples are: Sewa Bharati Works through associated voluntary organisations on education, healthcare, community service and self-reliance, including activities for disadvantaged communities. Its work includes educational support, health initiatives, vocational training and local community projects. Vidya Bharati An education network associated with the wider Sangh Parivar. Its work includes schools and educational initiatives. These are not the same organisation as the RSS itself. Their programmes and results should be evaluated individually, but their activities are relevant when assessing the wider network's social contribution. Where can you verify their work? \"Rashtriya Sewa Bharati — About and programme areas\" ( https://www.rashtriyasewabharati.org/about ) \"Rashtriya Sewa Bharati — Annual reports\" ( https://rashtriyasewabharati.org/about/annual-reports ) Rashtriya Sewa Bharati reports more than 35,560 projects, 500-plus affiliated organisations and coverage across 28 states and union territories. These are its own cumulative figures, so they should be read as organisational reporting, not as independently audited proof that every project succeeded. The important point is that the wider network does undertake organised social-service work. Whether each programme is effective, inclusive and beneficial is a separate question that can be examined using evidence. 🧑‍🤝‍🧑 What about the RSS shakha system? A shakha is a local RSS gathering where volunteers participate in physical exercises, group activities, discussions and organisational training. The model has helped the RSS maintain a durable grassroots presence since its founding in 1925. Its potential positive contributions include: Giving people a regular structure for volunteering and community participation. Developing organisational and leadership skills. Creating networks that can be mobilised during emergencies. Encouraging physical activity and group discipline. Providing a framework for sustained participation in local initiatives. These are plausible benefits of a structured volunteer network, not proof that every shakha produces all these outcomes or that every aspect of its ideology is beneficial. Source: \"Springer — Man-making, Nation-Building and National Reconstruction: The Engaged Hinduism of the RSS and the Vivekananda Kendra\" ( https://link.springer.com/article/10.1007/s42240-023-00139-8 ) 🇮🇳 Did the RSS contribute to India's independence? This question needs particular care. The RSS was founded in 1925, during the freedom struggle. Its founder, K. B. Hedgewar, participated in anti-British activity and was imprisoned in 1930. However, Hedgewar's personal participation must not automatically be treated as proof that the RSS, as an organisation, played a major role in the national independence movement. Historical research distinguishes the actions of individual members from the organisation's overall strategy. The RSS leadership did not mobilise the organisation on the same scale as the Congress-led mass movements, and its role in the Quit India Movement of 1942 was limited. This means two sweeping claims should be avoided: “No person associated with the RSS ever participated in the freedom struggle.” “The RSS was one of the principal organisations that won Indian independence.” Neither accurately captures the historical complexity. Sources: \"The Wire — Did RSS Really Participate in the Freedom Movement?\" ( https://m.thewire.in/article/communalism/did-rss-participate-in-the-freedom-movement ) \"University of Mumbai — MA History: Indian National Movement\" ( https://mu.ac.in/wp-content/uploads/2022/06/MA-History-SEM-III-Paper-III-Indian-National-Movement-English-Version.pdf ) The honest position is that individual participation and the organisation's overall contribution are two different historical questions. Does doing social work mean the RSS should never be criticised? Absolutely not. An organisation can conduct disaster relief and educational programmes while also having a controversial ideology, political influence or members associated with communal violence. Its relief work does not erase the need to examine its record on minority rights, communal harmony and the constitutional principle of equal citizenship. But the reverse is equally important: controversies do not make every volunteer's act of service imaginary, nor do they justify claiming that the organisation has never contributed anything to society. Judge specific actions on evidence. Give credit where it is deserved, and criticism where it is justified. That is a stronger position than either blind admiration or blind hatred. Final point If someone says the RSS has done nothing for society, the examples above provide specific, checkable counterexamples: disaster relief in Gujarat, COVID-19 relief, education and community programmes, and participation in resistance to the Emergency. That does not settle every debate about the RSS. It does establish why blanket statements such as “it has done absolutely nothing” are historically and factually weak. You do not need to support Hindutva, the BJP or every action of the RSS to acknowledge documented acts of public service. And you do not need to dismiss every criticism of the RSS to recognise those contributions. Criticise it with evidence. Defend it with evidence. And hold both sides to the same standard.",
+      "text_excerpt": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, ",
+      "url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "source_url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "mobilisation"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xdefnn"
+      ],
+      "related_authors": [
+        "11TANISHQ55"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "high_priority_intelligence": [
@@ -1288,6 +2222,73 @@
       ],
       "related_sources": [
         "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1163,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdefnn",
+      "author": "11TANISHQ55",
+      "language": null,
+      "published_at": "2026-10-23T13:43:57Z",
+      "first_detected_at": "2026-10-23T14:31:19Z",
+      "last_detected_at": "2026-10-23T14:31:19Z",
+      "detection_count": 1,
+      "text": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, and factual claims require evidence. So let's examine some specific examples. 🇮🇳 RSS and resistance to the Emergency (1975–1977) What happened? On 25 June 1975, Prime Minister Indira Gandhi's government imposed the Emergency. Civil liberties were curtailed, opposition leaders were imprisoned, press censorship was imposed, and political dissent faced repression. The RSS was banned on 4 July 1975. Its volunteers participated in underground opposition activities, protests, the circulation of banned literature and the wider resistance movement. What is the evidence? A 2018 scholarly article published by Modern Asian Studies, Cambridge University Press, examines the RSS's role in anti-Emergency activism, including its overseas networks and underground activities. The article records 2,794 people identified as RSS members among those arrested under the Maintenance of Internal Security Act (MISA), alongside 1,358 Jana Sangh members. The Indian Express reported on the RSS's involvement in the wider anti-Emergency movement and how its grassroots network contributed to mobilisation. Why does this matter? The Emergency was a serious episode of authoritarian rule in independent India. Participation in resistance to censorship, detention and the suppression of democratic freedoms deserves historical recognition, regardless of whether one agrees with the organisation's ideology. Sources: \"Cambridge University Press — “Smugglers of Truth”: The Indian diaspora, Hindu nationalism, and the Emergency (1975–77)\" ( https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/smugglers-of-truth-the-indian-diaspora-hindu-nationalism-and-the-emergency-197577/2C59B29D6C36D0CA7C8B1C2EE207534D ) \"The Indian Express — When the Sangh became part of the Janata Parivar\" ( https://indianexpress.com/article/india/emergency-sangh-janata-parivar-10090165/ ) An important qualification: The RSS was one participant in a much broader opposition movement that included socialists, students, other political organisations and civil-liberties advocates. It did not single-handedly defeat the Emergency. 🏚️ Gujarat earthquake, 26 January 2001 — rescue and rehabilitation A devastating earthquake struck Gujarat on India's Republic Day in 2001, killing tens of thousands of people and destroying homes, schools and infrastructure. RSS volunteers and associated organisations participated in rescue and relief operations. What did they do? According to contemporary reporting in India Today, RSS and VHP workers were among the early volunteers helping rescue trapped people, care for the wounded and transport the dead. The report also described assistance reaching a Muslim-majority village in Kutch. A report from RSS-associated relief organisation Rashtriya Sewa Bharati describes a specific educational rehabilitation effort: 250 volunteers were deployed for relief work. Within 16 days, 1,250 temporary schoolrooms were established across 56 villages. The tent schools provided children with a place to resume education while permanent facilities were being restored. These figures come from the organisation's own account; the contemporary India Today reporting independently supports the broader account of volunteer rescue work. Why does this matter? Disaster relief is practical public service. Rescuing people, providing food and helping children resume education are useful contributions regardless of the political or religious identity of the volunteers. Sources: \"India Today — Surviving the government: Gujarat earthquake relief, 2001\" ( https://www.indiatoday.in/magazine/cover-story/story/20010212-gujarat-earthquake-despite-delayed-government-action-support-of-people-brings-hope-775771-2001-02-11 ) \"Rashtriya Sewa Bharati — Gujarat earthquake relief\" ( https://rssb.org/disaster_relief_gujarat.html ) Fairness note: There were also contemporary allegations of bias in the distribution of some earthquake relief. That issue deserves investigation rather than being ignored. Recognising documented rescue efforts does not require pretending every relief operation was flawless. 🦠 COVID-19 pandemic, 2020 — food, medicine and community relief During the COVID-19 lockdown, many people lost their livelihoods. Migrant workers, low-income households, elderly people and others struggled to access food and essential supplies. RSS volunteers and RSS-associated Sewa Bharati participated in relief activities. What was reported? In July 2020, The Indian Express reported figures provided by Sewa Bharati representatives: More than 5 lakh volunteers reportedly involved in relief efforts nationwide. Ration kits distributed to over 73 lakh families. Meal packets distributed to over 4.5 crore people. More than 60,000 volunteers reportedly donated blood. A separate Indian Express report in October 2020 covered RSS claims that volunteers had helped over 10 lakh households across western Maharashtra, working in 1,556 villages with more than 4,800 volunteers. Reported activities included food distribution, sanitary supplies, blood donation, health checks and assistance with education and employment. Why does this matter? Food distribution, blood donation and support for people affected by a public-health emergency are concrete forms of community service. The reported scale is substantial, although the headline numbers are organisation-reported figures rather than a complete independent audit of every beneficiary. Sources: \"The Indian Express — Sewa Bharati's COVID-19 relief activities, July 2020\" ( https://indianexpress.com/article/cities/delhi/outreach-efforts-as-covid-hits-livelihood-a-festival-brings-work-opportunity-for-some-6512738/ ) \"The Indian Express — RSS relief efforts in western Maharashtra, October 2020\" ( https://indianexpress.com/article/india/helped-over-10-lakh-households-in-western-maharashtra-during-pandemic-rss-6908956/ ) \"The Indian Express — RSS volunteers' COVID-19 relief activities\" ( https://indianexpress.com/article/india/rss-in-the-time-of-covid-from-plasma-donation-to-conducting-last-rites-6548122/ ) 🏫 Education, health and community development The RSS ecosystem includes organisations that work in areas beyond electoral politics. Two important examples are: Sewa Bharati Works through associated voluntary organisations on education, healthcare, community service and self-reliance, including activities for disadvantaged communities. Its work includes educational support, health initiatives, vocational training and local community projects. Vidya Bharati An education network associated with the wider Sangh Parivar. Its work includes schools and educational initiatives. These are not the same organisation as the RSS itself. Their programmes and results should be evaluated individually, but their activities are relevant when assessing the wider network's social contribution. Where can you verify their work? \"Rashtriya Sewa Bharati — About and programme areas\" ( https://www.rashtriyasewabharati.org/about ) \"Rashtriya Sewa Bharati — Annual reports\" ( https://rashtriyasewabharati.org/about/annual-reports ) Rashtriya Sewa Bharati reports more than 35,560 projects, 500-plus affiliated organisations and coverage across 28 states and union territories. These are its own cumulative figures, so they should be read as organisational reporting, not as independently audited proof that every project succeeded. The important point is that the wider network does undertake organised social-service work. Whether each programme is effective, inclusive and beneficial is a separate question that can be examined using evidence. 🧑‍🤝‍🧑 What about the RSS shakha system? A shakha is a local RSS gathering where volunteers participate in physical exercises, group activities, discussions and organisational training. The model has helped the RSS maintain a durable grassroots presence since its founding in 1925. Its potential positive contributions include: Giving people a regular structure for volunteering and community participation. Developing organisational and leadership skills. Creating networks that can be mobilised during emergencies. Encouraging physical activity and group discipline. Providing a framework for sustained participation in local initiatives. These are plausible benefits of a structured volunteer network, not proof that every shakha produces all these outcomes or that every aspect of its ideology is beneficial. Source: \"Springer — Man-making, Nation-Building and National Reconstruction: The Engaged Hinduism of the RSS and the Vivekananda Kendra\" ( https://link.springer.com/article/10.1007/s42240-023-00139-8 ) 🇮🇳 Did the RSS contribute to India's independence? This question needs particular care. The RSS was founded in 1925, during the freedom struggle. Its founder, K. B. Hedgewar, participated in anti-British activity and was imprisoned in 1930. However, Hedgewar's personal participation must not automatically be treated as proof that the RSS, as an organisation, played a major role in the national independence movement. Historical research distinguishes the actions of individual members from the organisation's overall strategy. The RSS leadership did not mobilise the organisation on the same scale as the Congress-led mass movements, and its role in the Quit India Movement of 1942 was limited. This means two sweeping claims should be avoided: “No person associated with the RSS ever participated in the freedom struggle.” “The RSS was one of the principal organisations that won Indian independence.” Neither accurately captures the historical complexity. Sources: \"The Wire — Did RSS Really Participate in the Freedom Movement?\" ( https://m.thewire.in/article/communalism/did-rss-participate-in-the-freedom-movement ) \"University of Mumbai — MA History: Indian National Movement\" ( https://mu.ac.in/wp-content/uploads/2022/06/MA-History-SEM-III-Paper-III-Indian-National-Movement-English-Version.pdf ) The honest position is that individual participation and the organisation's overall contribution are two different historical questions. Does doing social work mean the RSS should never be criticised? Absolutely not. An organisation can conduct disaster relief and educational programmes while also having a controversial ideology, political influence or members associated with communal violence. Its relief work does not erase the need to examine its record on minority rights, communal harmony and the constitutional principle of equal citizenship. But the reverse is equally important: controversies do not make every volunteer's act of service imaginary, nor do they justify claiming that the organisation has never contributed anything to society. Judge specific actions on evidence. Give credit where it is deserved, and criticism where it is justified. That is a stronger position than either blind admiration or blind hatred. Final point If someone says the RSS has done nothing for society, the examples above provide specific, checkable counterexamples: disaster relief in Gujarat, COVID-19 relief, education and community programmes, and participation in resistance to the Emergency. That does not settle every debate about the RSS. It does establish why blanket statements such as “it has done absolutely nothing” are historically and factually weak. You do not need to support Hindutva, the BJP or every action of the RSS to acknowledge documented acts of public service. And you do not need to dismiss every criticism of the RSS to recognise those contributions. Criticise it with evidence. Defend it with evidence. And hold both sides to the same standard.",
+      "text_excerpt": "\"RSS has done nothing for India”? Here are some historical facts, documented relief efforts and sources worth reading.\nI keep seeing people say that the RSS has done absolutely nothing for Indian society, contributed nothing to the country, and is simply a terrorist organisation. Sometimes these claims come with arguments; sometimes they come with mockery, insults and absolutely no sources. You can criticise the RSS. You can disagree with Hindutva. You can question its political influence and its record on communal harmony. All of those are legitimate subjects of debate. But claiming that an organisation with a century-long history has done absolutely nothing for society is a factual claim, ",
+      "url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "source_url": "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "mobilisation"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xdefnn"
+      ],
+      "related_authors": [
+        "11TANISHQ55"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/HindutvaRises/comments/1xdefnn/rss_has_done_nothing_for_india_here_are_some/"
+      ],
+      "related_sources": [
+        "REDDIT"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -2125,9 +3126,239 @@
       "first_collected_at": "2026-10-23T08:55:45Z",
       "last_collected_at": "2026-10-23T08:55:45Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21100",
+      "timestamp": "2026-10-23T14:29:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113639066420064305",
+      "author": "SunfishBreeze",
+      "url": "https://x.com/SunfishBreeze/status/2113639066420064305",
+      "source_url": "https://x.com/SunfishBreeze/status/2113639066420064305",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@WesternLensman POTUS Biden tasked Harris to address root cause of migration from Central America through diplomacy &amp; investment resulting in record border crossings. Harris was criticized for “do not come” speech in Guatemala. Illegals, drug &amp; trafficking a political liability.",
+      "text_excerpt": "@WesternLensman POTUS Biden tasked Harris to address root cause of migration from Central America through diplomacy &amp; investment resulting in record border crossings. Harris was criticized for “do not come” speech in Guatemala. Illegals, drug &amp; trafficking a political liability.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T14:32:53Z",
+      "last_collected_at": "2026-10-23T14:32:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21080",
+      "timestamp": "2026-10-23T14:22:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113637293189652501",
+      "author": "BethBaisch",
+      "url": "https://x.com/BethBaisch/status/2113637293189652501",
+      "source_url": "https://x.com/BethBaisch/status/2113637293189652501",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "What a time to be alive.\n\nPentagon ready to use HEAT RAY weapon at the border to prevent migrants from crossing into US\n\nhttps://t.co/nR7IR6NJXl",
+      "text_excerpt": "What a time to be alive.\n\nPentagon ready to use HEAT RAY weapon at the border to prevent migrants from crossing into US\n\nhttps://t.co/nR7IR6NJXl",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T14:31:53Z",
+      "last_collected_at": "2026-10-23T14:31:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21093",
+      "timestamp": "2026-10-23T14:22:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113637084405612927",
+      "author": "EastMedMonitor",
+      "url": "https://x.com/EastMedMonitor/status/2113637084405612927",
+      "source_url": "https://x.com/EastMedMonitor/status/2113637084405612927",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "🎇 Why Europe’s big four showed up for Turkey’s Istanbul photo-op — and  is it wise?\n\nTurkey sits at a geographic and demographic crossroads between Europe and the Middle East. It controls key migration routes, Black Sea access, energy corridors, and NATO’s southern flank, while https://t.co/KIbkQ2SOPX",
+      "text_excerpt": "🎇 Why Europe’s big four showed up for Turkey’s Istanbul photo-op — and  is it wise?\n\nTurkey sits at a geographic and demographic crossroads between Europe and the Middle East. It controls key migration routes, Black Sea access, energy corridors, and NATO’s southern flank, while https://t.co/KIbkQ2SOPX",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T14:32:22Z",
+      "last_collected_at": "2026-10-23T14:32:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21095",
+      "timestamp": "2026-10-23T14:18:25Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113636162271166790",
+      "author": "MigrantmediaThe",
+      "url": "https://x.com/MigrantmediaThe/status/2113636162271166790",
+      "source_url": "https://x.com/MigrantmediaThe/status/2113636162271166790",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "🚨 🇪🇸 205 Migrants Reach El Hierro After Eight Days at Sea From The Gambia\n\nA total of 205 migrants, including 11 women and 17 minors, arrived at La Restinga port on Spain’s El Hierro island after an eight-day journey from Barra, The Gambia.\n\nThose on board reportedly came from https://t.co/2NYKmXYdNn",
+      "text_excerpt": "🚨 🇪🇸 205 Migrants Reach El Hierro After Eight Days at Sea From The Gambia\n\nA total of 205 migrants, including 11 women and 17 minors, arrived at La Restinga port on Spain’s El Hierro island after an eight-day journey from Barra, The Gambia.\n\nThose on board reportedly came from https://t.co/2NYKmXYdNn",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T14:32:22Z",
+      "last_collected_at": "2026-10-23T14:32:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21066",
+      "timestamp": "2026-10-23T14:06:27Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdf12g",
+      "author": "GrannyFlash7373",
+      "url": "https://www.reddit.com/r/u_GrannyFlash7373/comments/1xdf12g/you_are_being_watched_courtesy_of_nyt/",
+      "source_url": "https://www.reddit.com/r/u_GrannyFlash7373/comments/1xdf12g/you_are_being_watched_courtesy_of_nyt/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "interception"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "You are being watched. Courtesy of NYT.\nBora Erden/The New York Times You’re being watched You think Americans don’t like Flock cameras reading their license plates? The federal government has installed hundreds of powerful new A.I.-enabled cameras on tall towers all across the southern border of the United States, with plans to cover the nation’s perimeter, according to new reporting from Bora Erden and Nicholas Nehamas in The Times. President Trump’s 2024 campaign soared partly on the popularity of his argument that too many immigrants had crossed the border illegally. Large majorities back tough enforcement there. And for decades, Republicans and Democrats have agreed that a high-tech “smart wall” would be a good and cost-effective way to stop people sneaking in. That wall is rising now during an outcry about A.I. in general and mass surveillance in particular. It’s a stark illustration of a political axiom: Every policy choice comes with trade-offs. This one brings a potential loss of privacy. The new technology can see for miles in all directions, tracking people and vehicles for 24 hours a day, without a human at the controls. A tireless A.I. algorithm does the work. Many of the cameras are in remote locations deep in the desert. But others are in more populated areas, where they can see into bedrooms, watch over public beaches, track children on playgrounds and transmit footage back to the authorities. At least one million people in the United States and Mexico live in areas along the border where they can be seen by the surveillance towers, the Times analysis found. And at least four million more live under the gaze of an older generation of cameras that the government plans to retrofit with A.I. technology. There are many more to come. The Trump administration wants them in Florida, Puerto Rico and the nation’s northern border. America has Ring cameras on its entryways now — and they can pick up a lot. A security blanket The New York Times In the late 18th century, the philosopher Jeremy Bentham came up with the idea of the panopticon, a prison design that put guards in an all-seeing tower at its center. Panopticons have always made people uneasy. Modern thinkers came to view them as a metaphor for an omniscient watchfulness that would turn people docile and obedient. And some leaders are already wondering if the loss of privacy brought by these cameras is worth the gain in security. “We don’t want to be surveilled by our government,” a Republican former city councilman in Texas told The Times. He urged members of the G.O.P. to imagine the towers under the control of Democrats. To get a sense of what the cameras do, Times reporters went to two dozen A.I.-enabled camera towers in California, Arizona, New Mexico and Texas and launched a drone with a camera aboard it to approximate what the tower can see. And it’s a lot. The cameras can detect people coming in and out of houses. They can identify and track vehicles. They can follow people and cars from camera to camera as they move from one vantage point to another. And they can alert agents of the Border Patrol, who can view the footage and decide whether to dispatch agents to intercept the targets. Those agents can also share the footage with local, state and federal law enforcement authorities, and even foreign governments. “Any capability that improves an agent’s awareness and ability to assess potential risks helps protect agents, migrants and the public,” an official with U.S. Customs and Border Protection said in a statement. The official from C.B.P. said the agency “employs technology while respecting civil liberties and privacy interests.” But there’s a catch. Its privacy guidelines say that people near the border can’t “opt out” of surveillance and affirm that the cameras could record people engaging “in First Amendment protected activities” or “complying with the law.” The watched public Bora Erden/The New York Times And what if people don’t know that the cameras are there, watching them? Most of the people The Times spoke to who live or work near the surveillance towers did not know their purpose, or their power. “Most thought they were cell towers or radar equipment,” my colleagues write. Others shrugged. Surveillance is a way of life now. “This is the world we live in,” said a councilman in San Clemente, California, who supports the towers. “There are cameras everywhere. You walk down the street here, you’re being recorded. You can’t put the genie back in the bottle.” Read and see much more — including how the cameras work and how much of the border they can see. The link is free. submitted by /u/GrannyFlash7373 to u/GrannyFlash7373",
+      "text_excerpt": "You are being watched. Courtesy of NYT.\nBora Erden/The New York Times You’re being watched You think Americans don’t like Flock cameras reading their license plates? The federal government has installed hundreds of powerful new A.I.-enabled cameras on tall towers all across the southern border of the United States, with plans to cover the nation’s perimeter, according to new reporting from Bora Erden and Nicholas Neh…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T14:31:19Z",
+      "last_collected_at": "2026-10-23T14:31:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21086",
+      "timestamp": "2026-10-23T11:26:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdbdzu",
+      "author": "jan1of1",
+      "url": "https://www.reddit.com/r/economy/comments/1xdbdzu/trumps_and_rest_of_republicans_economic_promises/",
+      "source_url": "https://www.reddit.com/r/economy/comments/1xdbdzu/trumps_and_rest_of_republicans_economic_promises/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "breaking",
+        "now"
+      ],
+      "text": "Trump's (and rest of Republicans) Economic Promises vs Reality\nSummarized from the Financial Times, 23 Oct 2026: Inflation Trump Promise: \"starting on day one, we will end inflation and make America affordable again.\" Reality: Inflation at 3.7% in Sep, above the 2.4% in Biden's last month in office Global Trade Trump Promise: To rebalance global trade by slapping tariffs on \"foreign countries that have been ripping us off for years\" to shrink the US trade deficit Reality: The monthly trade deficit is now wider than when Trump took office. Imports > Exports by $96.9B Mortgage Rates Trump Promise: to bring mortgage rates \"back down to ... 3 percent, maybe even lower.\" Reality: 30 year mortgage rates hit 7.4% this month Tax Cuts Trump Promise: \"very large tax cuts\" including \"no tax on tips, no tax on overtime and no tax on Social Security benefits for our great seniors.\" Reality: Congress extended tax breaks for wealthy Americans and enacted relief for taxes on tips and overtime. Seniors received an additional $6,000 deduction. Many of the tax breaks expire in 2028 Energy Trump Promise: to unshackle the US oil and gas industry \"and make America the dominant energy produce in the world by far: Reality: Production rose to record levels, but it did so under Biden administration as well, spurred on by the shale revolution. Gas production has risen to almost 129 billion cubic feet/day to a record 137 billion cubic feet/day Gasoline Trump promise: \"Gasoline below $2 a gallon.\" Reality: On Wednesday gas cost $4.26/gal, up about 40% since Trump took office. Diesel, critical in industry and agriculture, was $6.32/gal, up more than 70%, after breaking record levels in Sep Electricity Trump promise: He would slash electricity prices \"by half within 12 months and a maximum of 18 months.\" Reality: Prices are significantly higher. Residential electricity rates have risen from 16.27 cents/KWh in Dec 24 to 18.31 cents/KWh in Jul 26, with data centers increasing demand Oil & Gas Exports Trump promise: to scrap a pause on new licenses for LNG terminals and turbocharge energy exports, allowing the US to \"supply the rest of the world with numbers that nobody has ever seen\" Reality: Oil and gas exports have risen at the same time gasoline, diesel, home heating fuel costs have risen in the domestic markets; refiners are making record profits US Strategic Petroleum Reserve (SPR) Trump promise: Criticized Biden for draining the SPR and said he would \"fill up the SPR immediately.\" Reality: SPR reserves at the lowest levels since 1982 Environment/Climate Trump promise: to \"terminate\" the Biden era climate agenda by gutting the Inflation Reduction Act, scrapping an \"electric vehicle mandate,\" reversing power plant regulations, and withdrawing from the Paris climate accords Reality: Much of this has been achieved. Approvals for large wind projects have been revoked. Russia/Ukraine War Trump promise: to end the Russia/Ukraine war \"in 24 hours\" with a deal struck \"before I even arrive in the Oval office.\" Reality: The conflict is ongoing and is now in its 56th month Wars Trump promise: \"I'm not going to start a war. I'm going to stop wars.\" Reality: He launched a war (though technically Congress has not declared it to be a war) in Feb 2026. To date 21 service members have been killed and over $43B dollars has been spent on a war that has had moving strategic objectives, that is not supported by the American people, that Congress has refused to end, and has no end in sight Immigration Trump promise: to \"seal the border and stoop the migrant invasion of our country.\" Reality: promise fulfilled. Illegal border crossings are way down; arrests of migrants by ICE are up, and more than 3M undocumented immigrants have left the US according to the DHS; the border wall is still under construction with end date TBD The above are facts, not opinions.",
+      "text_excerpt": "Trump's (and rest of Republicans) Economic Promises vs Reality\nSummarized from the Financial Times, 23 Oct 2026: Inflation Trump Promise: \"starting on day one, we will end inflation and make America affordable again.\" Reality: Inflation at 3.7% in Sep, above the 2.4% in Biden's last month in office Global Trade Trump Promise: To rebalance global trade by slapping tariffs on \"foreign countries that have been ripping u…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-23T14:31:54Z",
+      "last_collected_at": "2026-10-23T14:31:54Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-23T08:57:37.284449+00:00",
+  "last_archived_at": "2026-10-23T14:33:32.629027+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
