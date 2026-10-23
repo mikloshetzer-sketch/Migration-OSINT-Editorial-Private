@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T02:20:01.916452+00:00"
+    },
+    "group:565": {
+      "hu_text": "Ebben a hónapban a CIS szemináriumaink Afganisztánra fókuszáltak. Két oktató osztott meg betekintést az ország kultúrájába és társadalmi kontextusába, támogatva a norvég önkormányzatokat az újonnan érkezett menekültek befogadó integrációjában. Érdeklődés esetén szeminárium szervezéséhez írjon az iomosloLMI@iom.int címre.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy szervezett, hivatalos szemináriumról szól, amely a menekültek integrációját támogatja, nincs benne vitatható vagy ellenőrizetlen állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:00.414533+00:00"
+    },
+    "group:566": {
+      "hu_text": "@Deiscirt @eoghan Talán ideje lenne eltávolítani a „jogi migrációt értékelő” megnevezést az önéletrajzodból? Szinte az összes migráns legálisan érkezett. Ez azonban nem teszi helyessé a dolgot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, amely nem tartalmaz konkrét tényállítást, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:00.414553+00:00"
+    },
+    "information:21016": {
+      "hu_text": "@SneezyGremlin És kétségtelenül sikoltoznál, hogy „ez rasszista!”, ha a hirdetés kifejezetten azokat a migránsokat említené, akik átlépték a határt és ír nőket, gyerekeket támadnak meg. 😏",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy állítást tartalmaz, amely szerint migránsok ír nőket és gyerekeket támadnak meg, de nincs bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:00.414558+00:00"
+    },
+    "information:21021": {
+      "hu_text": "🚨 TÖRTÉNÉS: Egy ukrán szerint, ha valaki illegálisan próbál átlépni a határt, lőjék le őket! Például a lengyel határátkelők mind működnek, a menekültek 99%-a ezeket használja. Még ha nincs is papírjuk (például mert a házukat bombázták), legálisan léptek át, nem a kerítés alatt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos, erőszakra buzdít, és konkrét adatokat tartalmaz a határátlépésről, de nincs megerősített forrása, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:00.414562+00:00"
+    },
+    "information:21022": {
+      "hu_text": "🚨 FRISS: Putyin állítólag gúnyt űzött az Egyesült Királyság határőrizetéből, mondván: „Még a gumicsónakokat sem tudják megállítani, hogy elérjék az országukat, és most szomáliai menekültek lesznek parlamenti képviselők.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás Putyin szavait idézi, de nincs megerősített forrás vagy hiteles bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:00.414565+00:00"
+    },
+    "information:21023": {
+      "hu_text": "@egotis10 @Ibrahim_Blqasm Nem. Az EU nem adott ki semmilyen nyilatkozatot vagy aggodalmat, ez csak a te sírásod. Nem is említve, hogy az EU nem küldött milliókat Líbiába. Az olaj teszi ezt. Az EU milliókat küld a líbiai menekülttáborokba, hogy megállítsa őket a tengeri átkelésben. Nem akarunk menekülteket az országunkban, ezért nem érdekel minket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több állítást tartalmaz az EU szerepéről és pénzügyi támogatásáról, de nincs megerősített forrás, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T08:58:00.414568+00:00"
     }
   },
   "legacy_reviews": {}
