@@ -496,6 +496,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T14:33:57.080262+00:00"
+    },
+    "information:21100": {
+      "hu_text": "Joe Biden elnök Kamala Harris alelnököt bízta meg, hogy diplomácia és befektetések révén kezelje a közép-amerikai migráció alapvető okait, ami rekord számú határátlépést eredményezett. Harris-t kritizálták guatemalai „ne jöjjenek” beszéde miatt. Az illegális bevándorlók, a drog- és embercsempészet politikai terhet jelentenek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és részben tényeket tartalmaznak, de nincs közvetlen bizonyíték a bemutatott összefüggések igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:08.378720+00:00"
+    },
+    "record:2113627885802054071": {
+      "hu_text": "Gondolatok: Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük várhatóan egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés jelentős aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés előrejelzést és politikai kontextust tartalmaz, de nincs megerősített adat a karaván létezéséről vagy szándékairól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:08.378742+00:00"
+    },
+    "record:2113628016387502158": {
+      "hu_text": "Gondolatok: Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük várhatóan egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés jelentős aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás előzetes figyelmeztetés migrációs mozgásról, de nincs megerősített bizonyíték a karaván létezésére vagy céljára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:08.378745+00:00"
+    },
+    "record:2113628328628289637": {
+      "hu_text": "Gondolatok: Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük várhatóan egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés jelentős aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ előzetes figyelmeztetés migrációs mozgásról, de nincs bizonyíték a karaván létezésére vagy szándékára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:08.378747+00:00"
+    },
+    "record:2113629814590407084": {
+      "hu_text": "Gondolatok: Egy migránskaraván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük várhatóan egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés jelentős aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás előzetes figyelmeztetés migrációs mozgásról, de nincs megerősített bizonyíték a karaván létezésére vagy céljára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:08.378749+00:00"
+    },
+    "record:2113637874713149554": {
+      "hu_text": "Nem. A balti kormányok, a Frontex adatai, elfogott dokumentumok és jelentések bizonyítják, hogy Fehéroroszország és Oroszország 2021 óta hibrid taktikaként segíti a migránsok áramlását az EU határaihoz, szervezett szállítással, katonai részvétellel és határnyomással.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás több forrásra és bizonyítékra hivatkozik, amelyek részben megerősítik a hibrid migrációs taktikák alkalmazását, de további ellenőrzés szükséges a részletek pontosításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-23T14:34:08.378751+00:00"
     }
   },
   "legacy_reviews": {}
