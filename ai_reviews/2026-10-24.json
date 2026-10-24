@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T22:45:36.560869+00:00"
+    },
+    "group:569": {
+      "hu_text": "@daviddunn177 Az a mocskos, pedofíliát népszerűsítő, drogcsempész #Thiel bevándorló bűnöző és láncmigrációs családja #ICE által ki kellene toloncoltatni. #Vivek #Ramaswamy #Ohio",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és gyalázkodó állítás, nincs bizonyíték a tartalom igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:24.695910+00:00"
+    },
+    "group:570": {
+      "hu_text": "A palesztin őslakosokról szóló állítás szerint az Oszmán és Brit Mandátum időszakában arab munkások és migránsok érkeztek Palesztinába a szomszédos országokból, infrastrukturális projektek és gazdasági növekedés miatt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi háttérinformáció, amely részben ellenőrizhető, de a bemenet nem teljes, így nem teljesen igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:24.695931+00:00"
+    },
+    "information:21263": {
+      "hu_text": "Kíváncsi, hogyan boldogulna Greta egy migránshajón a Földközi-tengeren való átkelés során.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, vélemény vagy spekuláció, nem tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:24.695937+00:00"
+    },
+    "information:21273": {
+      "hu_text": "A Trump-kormány több mint 2,6 millió illegális bevándorlót távolított el az Egyesült Államokból kitoloncolások és önkéntes távozások révén, valamint több mint 650 000 letartóztatást, fogva tartást és kitoloncolást hajtott végre.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Statisztikai adatokat tartalmaz, amelyek ellenőrizhetők, de a forrás nem ismert, így nem teljesen igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:24.695942+00:00"
+    },
+    "information:21277": {
+      "hu_text": "A 60 Minutes nem készített kiemelt műsorokat amerikai áldozatokról, akiket illegális bevándorlók öltek meg vagy bántalmaztak; inkább a migránsok nehézségeit, csempészési veszélyeket és kitoloncolási gyakorlatokat vizsgálták.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a médiatartalomról, amely ellenőrizhető, de jelenleg nincs bizonyíték a bemenetben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:24.695946+00:00"
+    },
+    "record:2113809656669987028": {
+      "hu_text": "@ICEgov @TheDamaniFelder Ma majdnem elütött egy valószínűleg migráns kamionsofőr. A Doswama trucking felirat volt az ajtón (nyomtatott papíron ragasztószalaggal). A férfi indiai kinézetű volt. Többet kell tenni @DisrespectedThe",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jelzés egy közlekedési incidensről, amely migránshoz köthető, de nincs bizonyíték a részletek igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:24.695949+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
