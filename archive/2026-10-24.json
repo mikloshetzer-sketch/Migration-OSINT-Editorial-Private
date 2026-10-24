@@ -337,6 +337,313 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1177,
+      "source": "X",
+      "source_post_id": "2113908443186696578",
+      "author": "LuckyHeidiG25",
+      "language": "en",
+      "published_at": "2026-10-24T08:20:22Z",
+      "first_detected_at": "2026-10-24T08:29:27Z",
+      "last_detected_at": "2026-10-24T08:29:27Z",
+      "detection_count": 1,
+      "text": "@jon_delorraine I am English and have been worried about France 🇫🇷 , this can spread also very quickly here; let’s be honest BOAT ⛴️ loads of the far left pact with incompatible migrants come here everyday and now our Home Secretary is increasing rolling out so called ‘safe’ routes.\nYea tipped!",
+      "text_excerpt": "@jon_delorraine I am English and have been worried about France 🇫🇷 , this can spread also very quickly here; let’s be honest BOAT ⛴️ loads of the far left pact with incompatible migrants come here everyday and now our Home Secretary is increasing rolling out so called ‘safe’ routes.\nYea tipped!",
+      "url": "https://x.com/LuckyHeidiG25/status/2113908443186696578",
+      "source_url": "https://x.com/LuckyHeidiG25/status/2113908443186696578",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "pressure",
+          "migrants come here everyday and now our Home Secretary is increasing"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants come here everyday and now our Home Secretary is increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1178,
+      "source": "X",
+      "source_post_id": "2113906244079472757",
+      "author": "Monicaqfs02",
+      "language": "en",
+      "published_at": "2026-10-24T08:11:37Z",
+      "first_detected_at": "2026-10-24T08:29:27Z",
+      "last_detected_at": "2026-10-24T08:29:27Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me next will be shocking https://t.co/8oJJ8tPo5I",
+      "text_excerpt": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me next will be shocking https://t.co/8oJJ8tPo5I",
+      "url": "https://x.com/Monicaqfs02/status/2113906244079472757",
+      "source_url": "https://x.com/Monicaqfs02/status/2113906244079472757",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant criminals attempting to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant criminals attempting to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1179,
+      "source": "X",
+      "source_post_id": "2113895923101179961",
+      "author": "AmericaFir9vxb",
+      "language": "en",
+      "published_at": "2026-10-24T07:30:37Z",
+      "first_detected_at": "2026-10-24T08:29:28Z",
+      "last_detected_at": "2026-10-24T08:29:28Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me;@AmericaFir9vxb next will be shocking https://t.co/6jtYWP6Mur",
+      "text_excerpt": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me;@AmericaFir9vxb next will be shocking https://t.co/6jtYWP6Mur",
+      "url": "https://x.com/AmericaFir9vxb/status/2113895923101179961",
+      "source_url": "https://x.com/AmericaFir9vxb/status/2113895923101179961",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant criminals attempting to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant criminals attempting to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1180,
+      "source": "X",
+      "source_post_id": "2113905570768208182",
+      "author": "DougDante1",
+      "language": "en",
+      "published_at": "2026-10-24T08:08:57Z",
+      "first_detected_at": "2026-10-24T08:30:28Z",
+      "last_detected_at": "2026-10-24T08:30:28Z",
+      "detection_count": 1,
+      "text": "@UNODC_OrgCrime @ilias_chatzis Save kids from human trafficking! Homeland Security @DHSgov “We have one group that we broke up that these young ladies are claiming they were raped 600-700 times\" @SecMullinDHS on saving missing migrant children smuggled in under the Biden Administration\nhttps://t.co/6T6RrpXok2",
+      "text_excerpt": "@UNODC_OrgCrime @ilias_chatzis Save kids from human trafficking! Homeland Security @DHSgov “We have one group that we broke up that these young ladies are claiming they were raped 600-700 times\" @SecMullinDHS on saving missing migrant children smuggled in under the Biden Administration\nhttps://t.co/6T6RrpXok2",
+      "url": "https://x.com/DougDante1/status/2113905570768208182",
+      "source_url": "https://x.com/DougDante1/status/2113905570768208182",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "human trafficking"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1181,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdpsyo",
+      "author": "Slow-Property5895",
+      "language": null,
+      "published_at": "2026-10-23T20:55:03Z",
+      "first_detected_at": "2026-10-24T08:32:04Z",
+      "last_detected_at": "2026-10-24T08:32:04Z",
+      "detection_count": 1,
+      "text": "Behind the Popularity of Eileen Chang and “Runology”: The Troubled and Unpredictable Fates of Chinese Emigrants Who Leave Their Homeland, and Imagination Versus Reality of Their Lives in Foreign Lands\nㅤ Recently, journalist Chai Jing (柴静) produced a program about the Chinese woman writer Eileen Chang (张爱玲), revealing some details of Chang's life before and after she left China and sparking considerable discussion. Chang's departure from mainland China in 1952, followed by her journey through Hong Kong to the United States, has been a popular topic on the Chinese-language internet in recent years. It also reflects one aspect of the recent phenomenon of “Runology” in China. ㅤ Chai Jing, a former reporter for China Central Television (CCTV) who moved to Europe many years ago, is herself a prominent figure among a new generation of Chinese emigrants known as “run people.” Her production of a program about the circumstances surrounding Eileen Chang's departure from China carries a sense of kinship born of shared adversity. It also connects and echoes the history of Chinese people leaving their homeland across several decades and generations. ㅤ The Chinese internet slang term “run” (润) is a phonetic borrowing from the English word “run,” meaning to flee or escape. It refers to leaving or preparing to leave one's Chinese homeland to escape difficulties or even disasters and seek a new life elsewhere, whether in another region or another country. The information, knowledge, and discussions concerning how to “run,” where to “run,” and the history of such departures are collectively known as “Runology” (润学), while those who are leaving or have already left are colloquially called “run people” (润人). ㅤ Eileen Chang was one of the most famous among the large numbers of “run people” who fled mainland China during the wave of departures surrounding the dramatic upheavals of 1949. Another intellectual giant, Hu Shih (胡适), along with figures such as Qian Mu (钱穆), Fu Sinian (傅斯年), and Ni Kuang (倪匡), as well as many less prominent intellectual elites and ordinary people, also left mainland China during that period, heading to Taiwan, Hong Kong, Europe, the United States, and other parts of the world. ㅤ Their lives in Hong Kong, Taiwan, or the West were not necessarily very happy, but they escaped the brutal political storms, famines, and shortages that would engulf mainland China over the following decades, and spent the latter halves of their lives in relative stability. Eileen Chang, for example, lived until 1995. Hu Shih and some others died earlier only because of illness. There were also Chinese scholars based in the United States, such as Tsung-Dao Lee (李政道) and Chen-Ning Yang (杨振宁), who did not return to China in the first place, as well as Charles K. Kao (高锟), who, like Eileen Chang, first went to Hong Kong and then to the United States. In the relatively free and prosperous environments outside mainland China, they achieved remarkable accomplishments and even received the distinction of winning Nobel Prizes. ㅤ By contrast, Chinese people from various social classes who remained on the mainland or returned from abroad, particularly intellectual elites such as Lao She (老舍), Chen Yinke (陈寅恪), Shen Congwen (沈从文), Ding Ling (丁玲), Yao Tongbin (姚桐斌), Zhao Jiuzhang (赵九章), and Chen Tianchi (陈天池), suffered through successive disasters, including the Campaign to Suppress Counterrevolutionaries (镇反), the Anti-Rightist Campaign (反右), the Great Famine (大饥荒), and the Cultural Revolution (文革). Some died tragically, while others survived but were left deeply scarred. The contrast makes the good fortune of Eileen Chang and other “run people,” and the misfortune of those who stayed behind, all the more striking. Many people on the Chinese-language internet enthusiastically discuss these figures and their histories, clearly using them to allude to contemporary China and reflect the attitudes of some Chinese people today. ㅤ The rise of “Runology” in recent years stems from the stagnation of China's reforms and its pronounced economic downturn, particularly the impact of the COVID-19 pandemic and the “zero-COVID” policies, including lockdowns, which have made people's lives generally more difficult and deprived them of hope. Many Chinese people whose rights and interests have been harmed are disappointed with China's current situation, and quite a few hope to leave the country and seek opportunities abroad. The experiences of earlier “run people” such as Eileen Chang and Hu Shih have inspired them and become examples to follow. They praise Chang and others for their foresight, for not being deceived by sweet talk and false promises into remaining on the mainland, and for “running away” in time to avoid subsequent disasters. They even jokingly call Chang, Hu Shih, and others “pioneers of Runology” and “anti-scam pioneers.” ㅤ It is emotionally understandable that many Chinese people, for various reasons, hope to “run” out of China and admire earlier “run people” such as Eileen Chang. However, their understanding of the history and reality of emigration is actually biased and idealized, and does not entirely correspond to the facts. ㅤ Take Eileen Chang as an example. Although leaving China did spare her the impact of subsequent political campaigns, she faced a meager income and financial hardship in the unfamiliar environment of the West. She never again produced any widely celebrated literary works, and spent the following decades living a relatively quiet and withdrawn life. This stood in sharp contrast to her years in China, when she produced outstanding works one after another and rapidly rose to fame. To a large extent, this was because she had left behind the people, places, and social environment of her homeland, as well as the linguistic world of her mother tongue—all of which had nourished her literary creativity and provided the conditions in which she could thrive. She became like water cut off from its source or a tree severed from its roots. It is worth noting that some of Eileen Chang’s achievements after leaving mainland China, including writing The Rice-Sprout Song (《秧歌》) and Naked Earth (《赤地之恋》), as well as conducting research on Chinese literature, were accomplished precisely during her time in Hong Kong and Taiwan, far surpassing what she achieved during her much longer stay in the United States. This further illustrates, from another perspective, the importance of one's native language and the cultural environment of one's homeland. ㅤ Although Eileen Chang was fluent in English, she was still more accomplished in Chinese writing than in expressing herself in a foreign language. The pressures and everyday concerns of life in the United States also left her with little leisure or peace of mind for writing. Chang, who had lived in relative obscurity in America, regained prominence in her later years and after her death largely because Chinese academic circles rediscovered her work and Chinese readers embraced it. This, in turn, stimulated Western interest in and research on her. ㅤ It can be said that, for a writer of such stature, Eileen Chang's life after leaving China for the United States was uneventful and somewhat desolate, and her career was not particularly successful. Among the other, less famous “run people,” some achieved success, while others experienced lives that were far from smooth or satisfactory. It is simply that successful individuals tend to remain in the spotlight and receive more attention both in their countries of residence and in China, while those who struggle are overlooked, and often deliberately withdraw from public attention themselves, remaining largely unknown. ㅤ Whether the fate of “run people” is fortunate or unfortunate, and whether their lives are good or bad, is often determined by the broader circumstances of their times, over which they have little control. For example, China experienced another wave of emigration during the 1980s and 1990s. At the time, many believed that China was heading toward collapse while Europe and America represented paradise. Moreover, the gap in economic development and living standards between China and foreign countries was indeed enormous. Many preferred to live in basements and wash dishes for a living abroad rather than return to China. ㅤ Among those who left China at that time were quite a few elites from within the political system and broader society, who were willing to abandon their privileged positions at home in order to “run” to developed countries. However, China's economy subsequently took off and its society became more stable. People of similar social standing who remained in China generally seized opportunities to become wealthy and achieved greater success than those who had drifted overseas. This forms a striking contrast with the entirely different fates of those who chose to stay or “run away” around 1949. ㅤ The differences in their fates were determined by the choices made and policies adopted by China's rulers at critical historical junctures, by conditions in the countries to which they emigrated—particularly those countries' attitudes toward immigrants—and by the relative levels and trajectories of development in China and abroad. These outcomes were not the result of individual effort, nor were they developments that individuals could accurately foresee or meaningfully influence. Eileen Chang and Hu Shih could not have foreseen with any great certainty what would later happen in China. They simply made choices between leaving and staying based on their personal preferences and aversions. ㅤ If China's rulers in the 1990s had closed the country off from the outside world, intensified the persecution of dissidents, and allowed the economy to collapse and development to stagnate, those who “ran” to foreign countries would have been regarded as “wise” and “fortunate,” while those who stayed would have suffered fates similar to those who remained in the 1950s. Conversely, if China's rulers in the 1950s had refrained from mass arrests and killings and instead treated intellectuals and respected members of society well, as they had solemnly promised in 1949 and earlier, those who stayed or returned from abroad would have been entrusted with important responsibilities. Those who “ran” to Hong Kong, Taiwan, the United States, or Europe would instead have been seen as people who had “failed to recognize the direction of the times,” missing valuable opportunities to achieve distinction and accomplish great things, and spending the rest of their lives in disappointment and marginalization. Given the historical circumstances and preceding developments, all these hypothetical scenarios were entirely plausible. The happiness and disasters actually experienced by those who stayed or left in the real course of history were not easy to predict. ㅤ After the end of the COVID-19 pandemic and China's lifting of its COVID-related restrictions, however, the “run people” of this new wave have been relatively unfortunate. They are confronting a global wave of conservative, xenophobic populism, including in Europe, the United States, and Japan. From national policies to individual attitudes, countries have become increasingly unfriendly toward immigrants and refugees. ㅤ For example, US Immigration and Customs Enforcement (ICE) has carried out extensive arrests of undocumented immigrants, and many Chinese people who entered the United States illegally through irregular migration routes have been detained in immigration detention centers. Japan has substantially raised the requirements for business management visas and permanent residency, even applying some changes retroactively, leaving many Chinese people who “ran” to Japan out of admiration for the country devastated and with nowhere to turn. European countries have also tightened their immigration policies, making it increasingly difficult for both regular immigrants and refugees in exile to obtain long-term residence status, leaving their futures uncertain. The social atmosphere in countries around the world has also shifted from supporting diversity and welcoming outsiders to hostility toward those perceived as different and widespread racial discrimination. ㅤ Moreover, even liberal exiles who oppose China's political system and people who are pro-American, pro-Japanese, or pro-European are subjected to discrimination and exclusion. Xenophobia in various countries is primarily directed at people's ethnicity and place of birth rather than their political positions. Chinese “run people” are not necessarily welcomed or accepted simply because they admire freedom and democracy or feel an affinity with their host countries. Exceptions may be made for a small number of individuals deemed useful to the host country, but such cases do not represent the experience of the majority. ㅤ Even setting aside these recent political and social trends, Chinese people who move to foreign countries face numerous difficulties and obstacles in unfamiliar environments. Differences in language, culture, customs, and other aspects of life create considerable inconvenience. Democracy is not a universal remedy, either. Democratic countries also suffer from class divisions, the uglier aspects of human nature, bureaucracy, various forms of discrimination, and injustice. Chinese “run people” who arrive in foreign countries full of admiration for the free world must still worry about food, clothing, housing, transportation, and interpersonal conflicts. ㅤ Many Chinese people who enjoyed reasonably respectable lives at home, with some resources and personal connections, find that their resources and skills are almost entirely “reset to zero” after “running” abroad. They must start everything from scratch, often experiencing downward social mobility and being forced to undertake physically demanding and low-status work. In the process of adapting to rules, social conventions, and ways of dealing with people that differ considerably from those in their homeland, many “run people” inevitably have to learn costly lessons through bitter experience. ㅤ For example, Yuan Tengfei (袁腾飞), a well-known Chinese liberal public figure who had previously expressed great admiration for the United States, received an exorbitant medical bill from an American hospital shortly after moving there. He could not help venting his anger and dissatisfaction in a furious post on WeChat Moments. Although European Union countries generally offer better healthcare coverage and require less out-of-pocket spending, their healthcare systems suffer from inefficiency. Beyond healthcare, many sectors in Europe and America have problems unfamiliar to outsiders, which people only discover through firsthand experience, including inefficiency, complicated procedures, and racial discrimination. ㅤ Many Chinese “run people” only realize the gap between their ideals and reality after actually arriving in Europe, America, Japan, or other countries, and feel deeply disappointed. Within these Chinese emigrant and exile communities, conflicts also arise over competing interests, political differences, and personal grievances, leading people to scheme against and harm one another. There are many other hardships and sufferings that are difficult to put into words. As a Chinese person living away from home in Western Europe, I have considerable firsthand experience of these realities. Some Chinese people who have already “run” choose to return to China because life in foreign lands has become too difficult, painful, and hopeless. ㅤ Whether Eileen Chang and Hu Shih in the past, Yuan Tengfei and Chai Jing today, or the many lesser-known Chinese “run people” who have left their homeland, they have all departed from familiar surroundings for foreign lands, whether in pursuit of freedom or a livelihood, to escape disaster or seek a new beginning. They have escaped some forms of suffering only to encounter other hardships; gained some of what they sought while losing things they never wanted to lose; some have been relatively fortunate and happy, while others have experienced misfortune and hardship; some struggle to establish roots in foreign countries, while others return to their homeland. Still others have no permanent home, cannot return to the place they once called home, and remain caught in uncertainty between “running” and “returning”... ㅤ Fundamentally, the many crises and problems within China's political system and society, particularly the lack of democracy and freedom, and the fact that the lower and middle strata of society endure so much hardship while receiving so little in return, are the reasons why many Chinese people choose to uproot themselves and leave their homeland behind, “running” to other places. Yet many Chinese people also harbor excessively idealized visions of the West, as well as Hong Kong, Taiwan, Japan, and other destinations, and have overly high expectations of freedom, democracy, and their effectiveness. These expectations differ significantly from reality. ㅤ Most Chinese people living in foreign lands do not lead particularly satisfactory lives. Leaving China has not freed them from constant busyness and anxiety. Their futures are full of uncertainty, and their lives are like wild grass and drifting duckweed, uprooted and adrift, without a sense of identity or belonging. Ultimately, the hope for a happier future for the Chinese people lies in reform and progress within mainland China itself. ㅤ (The author, Wang Qingmin (王庆民) , is a Chinese writer based in Europe and a researcher of international politics. The original article was written in Chinese. The English translation contains minor revisions.)",
+      "text_excerpt": "Behind the Popularity of Eileen Chang and “Runology”: The Troubled and Unpredictable Fates of Chinese Emigrants Who Leave Their Homeland, and Imagination Versus Reality of Their Lives in Foreign Lands\nㅤ Recently, journalist Chai Jing (柴静) produced a program about the Chinese woman writer Eileen Chang (张爱玲), revealing some details of Chang's life before and after she left China and sparking considerable discussion. Chang's departure from mainland China in 1952, followed by her journey through Hong Kong to the United States, has been a popular topic on the Chinese-language internet in recent years. It also reflects one aspect of the recent phenomenon of “Runology” in China. ㅤ Chai Jing, a form",
+      "url": "https://www.reddit.com/r/centerleftpolitics/comments/1xdpsyo/behind_the_popularity_of_eileen_chang_and/",
+      "source_url": "https://www.reddit.com/r/centerleftpolitics/comments/1xdpsyo/behind_the_popularity_of_eileen_chang_and/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "detained"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugees",
+        "immigrants",
+        "irregular migration"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [
+        "For example"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -675,6 +982,313 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1177,
+      "source": "X",
+      "source_post_id": "2113908443186696578",
+      "author": "LuckyHeidiG25",
+      "language": "en",
+      "published_at": "2026-10-24T08:20:22Z",
+      "first_detected_at": "2026-10-24T08:29:27Z",
+      "last_detected_at": "2026-10-24T08:29:27Z",
+      "detection_count": 1,
+      "text": "@jon_delorraine I am English and have been worried about France 🇫🇷 , this can spread also very quickly here; let’s be honest BOAT ⛴️ loads of the far left pact with incompatible migrants come here everyday and now our Home Secretary is increasing rolling out so called ‘safe’ routes.\nYea tipped!",
+      "text_excerpt": "@jon_delorraine I am English and have been worried about France 🇫🇷 , this can spread also very quickly here; let’s be honest BOAT ⛴️ loads of the far left pact with incompatible migrants come here everyday and now our Home Secretary is increasing rolling out so called ‘safe’ routes.\nYea tipped!",
+      "url": "https://x.com/LuckyHeidiG25/status/2113908443186696578",
+      "source_url": "https://x.com/LuckyHeidiG25/status/2113908443186696578",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "pressure",
+          "migrants come here everyday and now our Home Secretary is increasing"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants come here everyday and now our Home Secretary is increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1178,
+      "source": "X",
+      "source_post_id": "2113906244079472757",
+      "author": "Monicaqfs02",
+      "language": "en",
+      "published_at": "2026-10-24T08:11:37Z",
+      "first_detected_at": "2026-10-24T08:29:27Z",
+      "last_detected_at": "2026-10-24T08:29:27Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me next will be shocking https://t.co/8oJJ8tPo5I",
+      "text_excerpt": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me next will be shocking https://t.co/8oJJ8tPo5I",
+      "url": "https://x.com/Monicaqfs02/status/2113906244079472757",
+      "source_url": "https://x.com/Monicaqfs02/status/2113906244079472757",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant criminals attempting to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant criminals attempting to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1179,
+      "source": "X",
+      "source_post_id": "2113895923101179961",
+      "author": "AmericaFir9vxb",
+      "language": "en",
+      "published_at": "2026-10-24T07:30:37Z",
+      "first_detected_at": "2026-10-24T08:29:28Z",
+      "last_detected_at": "2026-10-24T08:29:28Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me;@AmericaFir9vxb next will be shocking https://t.co/6jtYWP6Mur",
+      "text_excerpt": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me;@AmericaFir9vxb next will be shocking https://t.co/6jtYWP6Mur",
+      "url": "https://x.com/AmericaFir9vxb/status/2113895923101179961",
+      "source_url": "https://x.com/AmericaFir9vxb/status/2113895923101179961",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant criminals attempting to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant criminals attempting to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1180,
+      "source": "X",
+      "source_post_id": "2113905570768208182",
+      "author": "DougDante1",
+      "language": "en",
+      "published_at": "2026-10-24T08:08:57Z",
+      "first_detected_at": "2026-10-24T08:30:28Z",
+      "last_detected_at": "2026-10-24T08:30:28Z",
+      "detection_count": 1,
+      "text": "@UNODC_OrgCrime @ilias_chatzis Save kids from human trafficking! Homeland Security @DHSgov “We have one group that we broke up that these young ladies are claiming they were raped 600-700 times\" @SecMullinDHS on saving missing migrant children smuggled in under the Biden Administration\nhttps://t.co/6T6RrpXok2",
+      "text_excerpt": "@UNODC_OrgCrime @ilias_chatzis Save kids from human trafficking! Homeland Security @DHSgov “We have one group that we broke up that these young ladies are claiming they were raped 600-700 times\" @SecMullinDHS on saving missing migrant children smuggled in under the Biden Administration\nhttps://t.co/6T6RrpXok2",
+      "url": "https://x.com/DougDante1/status/2113905570768208182",
+      "source_url": "https://x.com/DougDante1/status/2113905570768208182",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "human trafficking"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1181,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdpsyo",
+      "author": "Slow-Property5895",
+      "language": null,
+      "published_at": "2026-10-23T20:55:03Z",
+      "first_detected_at": "2026-10-24T08:32:04Z",
+      "last_detected_at": "2026-10-24T08:32:04Z",
+      "detection_count": 1,
+      "text": "Behind the Popularity of Eileen Chang and “Runology”: The Troubled and Unpredictable Fates of Chinese Emigrants Who Leave Their Homeland, and Imagination Versus Reality of Their Lives in Foreign Lands\nㅤ Recently, journalist Chai Jing (柴静) produced a program about the Chinese woman writer Eileen Chang (张爱玲), revealing some details of Chang's life before and after she left China and sparking considerable discussion. Chang's departure from mainland China in 1952, followed by her journey through Hong Kong to the United States, has been a popular topic on the Chinese-language internet in recent years. It also reflects one aspect of the recent phenomenon of “Runology” in China. ㅤ Chai Jing, a former reporter for China Central Television (CCTV) who moved to Europe many years ago, is herself a prominent figure among a new generation of Chinese emigrants known as “run people.” Her production of a program about the circumstances surrounding Eileen Chang's departure from China carries a sense of kinship born of shared adversity. It also connects and echoes the history of Chinese people leaving their homeland across several decades and generations. ㅤ The Chinese internet slang term “run” (润) is a phonetic borrowing from the English word “run,” meaning to flee or escape. It refers to leaving or preparing to leave one's Chinese homeland to escape difficulties or even disasters and seek a new life elsewhere, whether in another region or another country. The information, knowledge, and discussions concerning how to “run,” where to “run,” and the history of such departures are collectively known as “Runology” (润学), while those who are leaving or have already left are colloquially called “run people” (润人). ㅤ Eileen Chang was one of the most famous among the large numbers of “run people” who fled mainland China during the wave of departures surrounding the dramatic upheavals of 1949. Another intellectual giant, Hu Shih (胡适), along with figures such as Qian Mu (钱穆), Fu Sinian (傅斯年), and Ni Kuang (倪匡), as well as many less prominent intellectual elites and ordinary people, also left mainland China during that period, heading to Taiwan, Hong Kong, Europe, the United States, and other parts of the world. ㅤ Their lives in Hong Kong, Taiwan, or the West were not necessarily very happy, but they escaped the brutal political storms, famines, and shortages that would engulf mainland China over the following decades, and spent the latter halves of their lives in relative stability. Eileen Chang, for example, lived until 1995. Hu Shih and some others died earlier only because of illness. There were also Chinese scholars based in the United States, such as Tsung-Dao Lee (李政道) and Chen-Ning Yang (杨振宁), who did not return to China in the first place, as well as Charles K. Kao (高锟), who, like Eileen Chang, first went to Hong Kong and then to the United States. In the relatively free and prosperous environments outside mainland China, they achieved remarkable accomplishments and even received the distinction of winning Nobel Prizes. ㅤ By contrast, Chinese people from various social classes who remained on the mainland or returned from abroad, particularly intellectual elites such as Lao She (老舍), Chen Yinke (陈寅恪), Shen Congwen (沈从文), Ding Ling (丁玲), Yao Tongbin (姚桐斌), Zhao Jiuzhang (赵九章), and Chen Tianchi (陈天池), suffered through successive disasters, including the Campaign to Suppress Counterrevolutionaries (镇反), the Anti-Rightist Campaign (反右), the Great Famine (大饥荒), and the Cultural Revolution (文革). Some died tragically, while others survived but were left deeply scarred. The contrast makes the good fortune of Eileen Chang and other “run people,” and the misfortune of those who stayed behind, all the more striking. Many people on the Chinese-language internet enthusiastically discuss these figures and their histories, clearly using them to allude to contemporary China and reflect the attitudes of some Chinese people today. ㅤ The rise of “Runology” in recent years stems from the stagnation of China's reforms and its pronounced economic downturn, particularly the impact of the COVID-19 pandemic and the “zero-COVID” policies, including lockdowns, which have made people's lives generally more difficult and deprived them of hope. Many Chinese people whose rights and interests have been harmed are disappointed with China's current situation, and quite a few hope to leave the country and seek opportunities abroad. The experiences of earlier “run people” such as Eileen Chang and Hu Shih have inspired them and become examples to follow. They praise Chang and others for their foresight, for not being deceived by sweet talk and false promises into remaining on the mainland, and for “running away” in time to avoid subsequent disasters. They even jokingly call Chang, Hu Shih, and others “pioneers of Runology” and “anti-scam pioneers.” ㅤ It is emotionally understandable that many Chinese people, for various reasons, hope to “run” out of China and admire earlier “run people” such as Eileen Chang. However, their understanding of the history and reality of emigration is actually biased and idealized, and does not entirely correspond to the facts. ㅤ Take Eileen Chang as an example. Although leaving China did spare her the impact of subsequent political campaigns, she faced a meager income and financial hardship in the unfamiliar environment of the West. She never again produced any widely celebrated literary works, and spent the following decades living a relatively quiet and withdrawn life. This stood in sharp contrast to her years in China, when she produced outstanding works one after another and rapidly rose to fame. To a large extent, this was because she had left behind the people, places, and social environment of her homeland, as well as the linguistic world of her mother tongue—all of which had nourished her literary creativity and provided the conditions in which she could thrive. She became like water cut off from its source or a tree severed from its roots. It is worth noting that some of Eileen Chang’s achievements after leaving mainland China, including writing The Rice-Sprout Song (《秧歌》) and Naked Earth (《赤地之恋》), as well as conducting research on Chinese literature, were accomplished precisely during her time in Hong Kong and Taiwan, far surpassing what she achieved during her much longer stay in the United States. This further illustrates, from another perspective, the importance of one's native language and the cultural environment of one's homeland. ㅤ Although Eileen Chang was fluent in English, she was still more accomplished in Chinese writing than in expressing herself in a foreign language. The pressures and everyday concerns of life in the United States also left her with little leisure or peace of mind for writing. Chang, who had lived in relative obscurity in America, regained prominence in her later years and after her death largely because Chinese academic circles rediscovered her work and Chinese readers embraced it. This, in turn, stimulated Western interest in and research on her. ㅤ It can be said that, for a writer of such stature, Eileen Chang's life after leaving China for the United States was uneventful and somewhat desolate, and her career was not particularly successful. Among the other, less famous “run people,” some achieved success, while others experienced lives that were far from smooth or satisfactory. It is simply that successful individuals tend to remain in the spotlight and receive more attention both in their countries of residence and in China, while those who struggle are overlooked, and often deliberately withdraw from public attention themselves, remaining largely unknown. ㅤ Whether the fate of “run people” is fortunate or unfortunate, and whether their lives are good or bad, is often determined by the broader circumstances of their times, over which they have little control. For example, China experienced another wave of emigration during the 1980s and 1990s. At the time, many believed that China was heading toward collapse while Europe and America represented paradise. Moreover, the gap in economic development and living standards between China and foreign countries was indeed enormous. Many preferred to live in basements and wash dishes for a living abroad rather than return to China. ㅤ Among those who left China at that time were quite a few elites from within the political system and broader society, who were willing to abandon their privileged positions at home in order to “run” to developed countries. However, China's economy subsequently took off and its society became more stable. People of similar social standing who remained in China generally seized opportunities to become wealthy and achieved greater success than those who had drifted overseas. This forms a striking contrast with the entirely different fates of those who chose to stay or “run away” around 1949. ㅤ The differences in their fates were determined by the choices made and policies adopted by China's rulers at critical historical junctures, by conditions in the countries to which they emigrated—particularly those countries' attitudes toward immigrants—and by the relative levels and trajectories of development in China and abroad. These outcomes were not the result of individual effort, nor were they developments that individuals could accurately foresee or meaningfully influence. Eileen Chang and Hu Shih could not have foreseen with any great certainty what would later happen in China. They simply made choices between leaving and staying based on their personal preferences and aversions. ㅤ If China's rulers in the 1990s had closed the country off from the outside world, intensified the persecution of dissidents, and allowed the economy to collapse and development to stagnate, those who “ran” to foreign countries would have been regarded as “wise” and “fortunate,” while those who stayed would have suffered fates similar to those who remained in the 1950s. Conversely, if China's rulers in the 1950s had refrained from mass arrests and killings and instead treated intellectuals and respected members of society well, as they had solemnly promised in 1949 and earlier, those who stayed or returned from abroad would have been entrusted with important responsibilities. Those who “ran” to Hong Kong, Taiwan, the United States, or Europe would instead have been seen as people who had “failed to recognize the direction of the times,” missing valuable opportunities to achieve distinction and accomplish great things, and spending the rest of their lives in disappointment and marginalization. Given the historical circumstances and preceding developments, all these hypothetical scenarios were entirely plausible. The happiness and disasters actually experienced by those who stayed or left in the real course of history were not easy to predict. ㅤ After the end of the COVID-19 pandemic and China's lifting of its COVID-related restrictions, however, the “run people” of this new wave have been relatively unfortunate. They are confronting a global wave of conservative, xenophobic populism, including in Europe, the United States, and Japan. From national policies to individual attitudes, countries have become increasingly unfriendly toward immigrants and refugees. ㅤ For example, US Immigration and Customs Enforcement (ICE) has carried out extensive arrests of undocumented immigrants, and many Chinese people who entered the United States illegally through irregular migration routes have been detained in immigration detention centers. Japan has substantially raised the requirements for business management visas and permanent residency, even applying some changes retroactively, leaving many Chinese people who “ran” to Japan out of admiration for the country devastated and with nowhere to turn. European countries have also tightened their immigration policies, making it increasingly difficult for both regular immigrants and refugees in exile to obtain long-term residence status, leaving their futures uncertain. The social atmosphere in countries around the world has also shifted from supporting diversity and welcoming outsiders to hostility toward those perceived as different and widespread racial discrimination. ㅤ Moreover, even liberal exiles who oppose China's political system and people who are pro-American, pro-Japanese, or pro-European are subjected to discrimination and exclusion. Xenophobia in various countries is primarily directed at people's ethnicity and place of birth rather than their political positions. Chinese “run people” are not necessarily welcomed or accepted simply because they admire freedom and democracy or feel an affinity with their host countries. Exceptions may be made for a small number of individuals deemed useful to the host country, but such cases do not represent the experience of the majority. ㅤ Even setting aside these recent political and social trends, Chinese people who move to foreign countries face numerous difficulties and obstacles in unfamiliar environments. Differences in language, culture, customs, and other aspects of life create considerable inconvenience. Democracy is not a universal remedy, either. Democratic countries also suffer from class divisions, the uglier aspects of human nature, bureaucracy, various forms of discrimination, and injustice. Chinese “run people” who arrive in foreign countries full of admiration for the free world must still worry about food, clothing, housing, transportation, and interpersonal conflicts. ㅤ Many Chinese people who enjoyed reasonably respectable lives at home, with some resources and personal connections, find that their resources and skills are almost entirely “reset to zero” after “running” abroad. They must start everything from scratch, often experiencing downward social mobility and being forced to undertake physically demanding and low-status work. In the process of adapting to rules, social conventions, and ways of dealing with people that differ considerably from those in their homeland, many “run people” inevitably have to learn costly lessons through bitter experience. ㅤ For example, Yuan Tengfei (袁腾飞), a well-known Chinese liberal public figure who had previously expressed great admiration for the United States, received an exorbitant medical bill from an American hospital shortly after moving there. He could not help venting his anger and dissatisfaction in a furious post on WeChat Moments. Although European Union countries generally offer better healthcare coverage and require less out-of-pocket spending, their healthcare systems suffer from inefficiency. Beyond healthcare, many sectors in Europe and America have problems unfamiliar to outsiders, which people only discover through firsthand experience, including inefficiency, complicated procedures, and racial discrimination. ㅤ Many Chinese “run people” only realize the gap between their ideals and reality after actually arriving in Europe, America, Japan, or other countries, and feel deeply disappointed. Within these Chinese emigrant and exile communities, conflicts also arise over competing interests, political differences, and personal grievances, leading people to scheme against and harm one another. There are many other hardships and sufferings that are difficult to put into words. As a Chinese person living away from home in Western Europe, I have considerable firsthand experience of these realities. Some Chinese people who have already “run” choose to return to China because life in foreign lands has become too difficult, painful, and hopeless. ㅤ Whether Eileen Chang and Hu Shih in the past, Yuan Tengfei and Chai Jing today, or the many lesser-known Chinese “run people” who have left their homeland, they have all departed from familiar surroundings for foreign lands, whether in pursuit of freedom or a livelihood, to escape disaster or seek a new beginning. They have escaped some forms of suffering only to encounter other hardships; gained some of what they sought while losing things they never wanted to lose; some have been relatively fortunate and happy, while others have experienced misfortune and hardship; some struggle to establish roots in foreign countries, while others return to their homeland. Still others have no permanent home, cannot return to the place they once called home, and remain caught in uncertainty between “running” and “returning”... ㅤ Fundamentally, the many crises and problems within China's political system and society, particularly the lack of democracy and freedom, and the fact that the lower and middle strata of society endure so much hardship while receiving so little in return, are the reasons why many Chinese people choose to uproot themselves and leave their homeland behind, “running” to other places. Yet many Chinese people also harbor excessively idealized visions of the West, as well as Hong Kong, Taiwan, Japan, and other destinations, and have overly high expectations of freedom, democracy, and their effectiveness. These expectations differ significantly from reality. ㅤ Most Chinese people living in foreign lands do not lead particularly satisfactory lives. Leaving China has not freed them from constant busyness and anxiety. Their futures are full of uncertainty, and their lives are like wild grass and drifting duckweed, uprooted and adrift, without a sense of identity or belonging. Ultimately, the hope for a happier future for the Chinese people lies in reform and progress within mainland China itself. ㅤ (The author, Wang Qingmin (王庆民) , is a Chinese writer based in Europe and a researcher of international politics. The original article was written in Chinese. The English translation contains minor revisions.)",
+      "text_excerpt": "Behind the Popularity of Eileen Chang and “Runology”: The Troubled and Unpredictable Fates of Chinese Emigrants Who Leave Their Homeland, and Imagination Versus Reality of Their Lives in Foreign Lands\nㅤ Recently, journalist Chai Jing (柴静) produced a program about the Chinese woman writer Eileen Chang (张爱玲), revealing some details of Chang's life before and after she left China and sparking considerable discussion. Chang's departure from mainland China in 1952, followed by her journey through Hong Kong to the United States, has been a popular topic on the Chinese-language internet in recent years. It also reflects one aspect of the recent phenomenon of “Runology” in China. ㅤ Chai Jing, a form",
+      "url": "https://www.reddit.com/r/centerleftpolitics/comments/1xdpsyo/behind_the_popularity_of_eileen_chang_and/",
+      "source_url": "https://www.reddit.com/r/centerleftpolitics/comments/1xdpsyo/behind_the_popularity_of_eileen_chang_and/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "detained"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugees",
+        "immigrants",
+        "irregular migration"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [
+        "For example"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -763,6 +1377,90 @@
         "X"
       ],
       "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1178,
+      "source": "X",
+      "source_post_id": "2113906244079472757",
+      "author": "Monicaqfs02",
+      "language": "en",
+      "published_at": "2026-10-24T08:11:37Z",
+      "first_detected_at": "2026-10-24T08:29:27Z",
+      "last_detected_at": "2026-10-24T08:29:27Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me next will be shocking https://t.co/8oJJ8tPo5I",
+      "text_excerpt": "🚨BREAKING: French police puncture a boat full of illegal migrant criminals attempting to cross the English channel\n\nThey've done more than Keir Starmer.\n\nWell done to those officers. 👏\n\nFollow me next will be shocking https://t.co/8oJJ8tPo5I",
+      "url": "https://x.com/Monicaqfs02/status/2113906244079472757",
+      "source_url": "https://x.com/Monicaqfs02/status/2113906244079472757",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant criminals attempting to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant criminals attempting to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 38.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "2113906244079472757",
+        "2113895923101179961"
+      ],
+      "related_authors": [
+        "AmericaFir9vxb",
+        "Monicaqfs02"
+      ],
+      "related_urls": [
+        "https://x.com/Monicaqfs02/status/2113906244079472757",
+        "https://x.com/AmericaFir9vxb/status/2113895923101179961"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 2,
       "platform_count": 1
     }
   ],
@@ -914,9 +1612,173 @@
       "first_collected_at": "2026-10-24T02:15:46Z",
       "last_collected_at": "2026-10-24T02:15:46Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21327",
+      "timestamp": "2026-10-24T07:56:18Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113902390080397740",
+      "author": "JoeJBusa",
+      "url": "https://x.com/JoeJBusa/status/2113902390080397740",
+      "source_url": "https://x.com/JoeJBusa/status/2113902390080397740",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "The 1,000,000 million Illegal Migrant men allowed into this country should have been housed in affluent areas from the start.\n\nThe uni-Party might then have ordered the Royal Navy to defend our sea borders at all costs!\n\nIt's all too late now!!\n\n#\n#TikTok https://t.co/yclfEbqdt9",
+      "text_excerpt": "The 1,000,000 million Illegal Migrant men allowed into this country should have been housed in affluent areas from the start.\n\nThe uni-Party might then have ordered the Royal Navy to defend our sea borders at all costs!\n\nIt's all too late now!!\n\n#\n#TikTok https://t.co/yclfEbqdt9",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T08:29:28Z",
+      "last_collected_at": "2026-10-24T08:29:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21328",
+      "timestamp": "2026-10-24T07:48:55Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113900530644680740",
+      "author": "m_mouse21",
+      "url": "https://x.com/m_mouse21/status/2113900530644680740",
+      "source_url": "https://x.com/m_mouse21/status/2113900530644680740",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@PetenShirl Until around 5th Nov the wind speed in the channel is too high for any small boat crossings.  After that the forecast suggests we will see lighter winds, and probably smaller waves.  So all these migrants lining the coast will probably make a concerted effort to get here!",
+      "text_excerpt": "@PetenShirl Until around 5th Nov the wind speed in the channel is too high for any small boat crossings.  After that the forecast suggests we will see lighter winds, and probably smaller waves.  So all these migrants lining the coast will probably make a concerted effort to get here!",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T08:29:28Z",
+      "last_collected_at": "2026-10-24T08:29:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21353",
+      "timestamp": "2026-10-24T04:11:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdywja",
+      "author": "CupEcstatic2721",
+      "url": "https://www.reddit.com/r/GeopoliticsMicroscope/comments/1xdywja/rubio_received_intel_warning_of_iranian_plots/",
+      "source_url": "https://www.reddit.com/r/GeopoliticsMicroscope/comments/1xdywja/rubio_received_intel_warning_of_iranian_plots/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 100,
+      "information_score": 10,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "route",
+        "checkpoint",
+        "vessel",
+        "sea",
+        "interception",
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [
+        "breaking"
+      ],
+      "text": "Rubio received intel warning of Iranian plots against US diplomats, official confirms to ‘Post’\n24 october 2026 News U.S. intelligence has reported a sharp increase in advanced Iranian assassination plots targeting American officials across the Middle East. In response, the State Department accelerated diplomatic evacuations from several regional posts, including an ordered departure of non-essential staff from Saudi Arabia. These evacuations come amid operational friction within embassies and growing fears of renewed U.S. military action against Iran. Analysis ​1. Why would Iran do this if negotiations are ongoing? ​In Middle Eastern diplomacy and military strategy, negotiations and aggressive escalation often occur simultaneously . For Tehran, this serves several strategic purposes: ​ \"Coercive diplomacy\" and raising the stakes: On the eve of potential agreements or concessions, a party attempts to demonstrate maximum force. Threats or preparations for assassination plots against U.S. officials are a way to signal to Washington that delaying or refusing Iran's conditions will carry an extraordinarily high personal cost for American leadership. ​ Multi-layered power structure in Iran: There is no single center of decision-making in Iran. While the civilian government or diplomats engage in talks, the IRGC ( Islamic Revolutionary Guard Corps ) or radical intelligence factions act autonomously, attempting to derail peace initiatives or seek revenge for previous strikes (such as military operation \"Epic Fury\"). ​ Messaging to the domestic audience and proxies: It is crucial for Iran to show its support base and affiliated proxy groups (such as the Houthis or Hezbollah) that it is not bending under U.S. and Israeli pressure. ​2. Could this be a deliberate narrative framing by U.S. Intelligence? ​ Yes, this probability is very high , and it is a common practice in information and psychological operations. Why the U.S. might leverage such accusations: ​ Legitimizing and justifying the evacuation: To avoid triggering panic with announcements of impending large-scale military strikes on Iran, Washington may have framed \"specific targeted assassination threats against diplomats\" as the primary reason for the evacuation. ​ Preparing for a new military strike: President Donald Trump explicitly hinted at the possibility of another military operation (a so-called \"little Epic Fury\"). Leaking intelligence on \"Iranian assassination plots\" conditions both the international community and American voters to view a future U.S. strike as necessary self-defense. ​ Clearing the field before escalation: If the U.S. plans to launch a decisive strike, diplomats are withdrawn in advance to prevent hostage-taking scenarios or retaliatory attacks on U.S. embassies. ​3. How has this impacted oil prices? ​This resulted in a sharp surge in oil prices : ​ Breaking the $110–$117 per barrel mark: Amid news of urgent U.S. diplomatic evacuations from Saudi Arabia and other Gulf states, alongside Houthi attacks on Saudi Aramco facilities, global Brent crude prices surged rapidly beyond $110 , peaking at over $117 per barrel due to heightened fears of renewed strikes on Iran. ​ Fears of supply disruptions: The market is reacting less to the diplomatic withdrawal itself and more to the fact that it serves as a precursor to a major war , threatening shipping through the Strait of Hormuz and regional oil refining infrastructure. Conspiracy theories ​1. The \"False Flag\" or Provocation Theory ​ Core assumption: In certain expert and geopolitical discussions, it is suggested that the threat of assassination plots—or the intelligence surrounding them—may be exaggerated or leveraged as a casus belli (a pretext for war). ​ Objective: To completely invalidate diplomatic options and provide the U.S. Administration with an unquestionable justification for a swift, uncompromising military strike against key Iranian targets, aimed at rallying public support ahead of the elections. ​2. The U.S. \"Domestic Political Maneuver\" Theory ​ Core assumption: A number of commentators link these high-profile intelligence leaks to the domestic political agenda in the U.S. ahead of the midterm elections. ​ Objective: Rhetoric focused on \"protecting our troops and diplomats,\" coupled with announcements of operations like a \"little Epic Fury,\" shifts voters' focus from economic issues and inflation toward decisive national security actions, while framing soaring fuel prices as an unavoidable consequence of the Middle East crisis. ​3. The \"Internal Sabotage and Misalignment\" Theory in Iran ​ Core assumption: This theory posits that the assassination plots are driven autonomously by radical factions within the IRGC or Iranian intelligence agencies acting independently of official diplomats. ​ Objective: Hardline factions in Tehran are deliberately seeking to torpedo potential negotiations or diplomatic compromises with Washington, courting direct military confrontation to prevent any erosion of their internal power. ​4. The \"Strategic Deception / Tactical Evacuation\" Theory ​ Core assumption: Some analysts argue that the assassination threat serves as a convenient cover story for a large-scale withdrawal of diplomatic and military personnel ahead of a much broader, pre-planned regional military campaign by the U.S. and Israel. ​ Objective: Executing evacuations under the guise of \"protection from targeted assassinations\" allows Washington to clear potential U.S. hostages and non-combatants from the region without explicitly announcing the start date of major military operations. ​Interesting Facts ​ US and Israeli Military Plans, and Donald Trump's Statements ​Possibility of new strikes in the near future: US Ambassador to Turkey and Special Envoy for Syria Tom Barrack stated that the US could strike Iran as early as this weekend, replying \"pm\" to the relevant question (The Hindu, The Indian Express, AFP). ​Statements regarding Operation \"Epic Fury\": US President Donald Trump during a campaign rally in Florida suggested several times the possibility of conducting another \"small\" operation named Epic Fury (the name of the campaign against Iran launched on February 28) if Tehran does not agree to US conditions (Anadolu Agency, The Hindu, China Daily, Iran International). ​Trump's reaction to the diplomat's comments: Speaking to journalists, Trump downplayed Tom Barrack's comments about weekend strikes, ironically noting that he had no such information and calling the diplomat a \"fairly influential person\" (The Hindu, AFP). ​Radical statements on controlling Iran: Donald Trump stated that if desired, the US could \"take all the oil\" or even \"take control of the entire country,\" adding that Iran is currently \"not capable of doing much\" (China Daily, Xinhua). ​Duration of the conflict and White House reflections: Reacting to words by US Ambassador to the UN Mike Waltz that the war could drag on for another year, Trump said the US could end it \"very quickly,\" facing a choice: finish off the regime or let it fade away (China Daily, Xinhua). ​Strike planning after US elections: According to The Atlantic, ABC News, and The New York Times, US and Israeli military officials have developed a plan for a short, intensive campaign after the midterm Congressional elections on November 3, targeting Iran's missile and drone arsenals, nuclear facilities, and energy infrastructure (BSS, Iran International). ​Disavowal of regime change idea: Tom Barrack stressed that the goal of the US is not to overthrow the Iranian regime, as the main problem with any power change is the lack of a \"day after\" scenario (The Hindu, AFP). ​Statements regarding Cuba: During a rally in Florida, Trump suggested that American ships returning from the war against Iran make a \"stopover\" off the coast of Cuba. Immediately after, Secretary of State Marco Rubio published a call to Cuban activists to act in partnership with the CIA (The Times of Israel, AP). ​ Threats from Iran and US Countermeasures ​Advanced plots against US officials: According to US intelligence, Iran has sharply escalated attempts to assassinate US officials and diplomats in the Middle East and beyond, with plot developments reaching \"advanced stages\" (Anadolu Agency, UA.NEWS, Axios, The Times of Israel). ​Intercepted intelligence memorandum: US Director of National Intelligence Jay Clayton, in an October 23 letter to Secretary of State Marco Rubio (copied to CIA Director John Ratcliffe), proposed downgrading the classification level of this data to warn a wider circle of personnel (Anadolu Agency, UA.NEWS, The Jerusalem Post). ​Evacuation of embassies: The received intelligence prompted a reduction in US diplomatic staff in the UAE, Lebanon, Qatar, and Jordan, as well as the evacuation of families and non-essential personnel from the embassy in Riyadh and consulates in Jeddah and Dhahran (Anadolu Agency, CNN, UA.NEWS). ​Threats to undersea internet cables: Two senior Iranian security officials and IRGC representative Yadollah Javani stated that Tehran has developed detailed plans to destroy 7 major undersea communication cables in the Strait of Hormuz and the Persian Gulf, and would obstruct their repair if attacks resume (Iran International, Haaretz, Reuters). ​Expansion of Iran's target list: Iranian officials and Mohsen Rezaee threatened strike actions against US-linked data centers, artificial intelligence facilities, airports, and oil pipelines in neighboring Persian Gulf countries (Iran International, Haaretz, The Wall Street Journal). ​IRGC statements on ground operation: IRGC political bureau chief Brigadier General Yadollah Javani warned that in the event of a US ground invasion attempt, Iran would become a \"cemetery and slaughterhouse\" for foreign troops (Iran International, The Indian Express, Fars). ​Position on nuclear guarantees: Iran's Deputy Ambassador to the UN Gholamhossein Darzi stated that Iran has not renounced its NPT obligations, but American aggression has altered the security conditions for their implementation (Al Jazeera, The Indian Express, Tasnim). ​ Economic Pressure, Blockade, and Oil Situation ​Over $25 billion in losses from blockade: According to CENTCOM data, the 100-day US naval blockade prevented Iran from exporting at least $25 billion worth of crude oil (Iran International). ​Depletion of floating oil reserves: According to Kpler data, Iran loaded zero barrels of crude oil onto tankers in September, and by mid-October Iranian floating oil reserves at sea had dropped to zero (Iran International, The Wall Street Journal). ​Collapse of \"Malaysian\" exports to China: Oil supplies to China documented as Malaysian (re-badged Iranian oil) fell in September to 276,000 barrels per day, down from nearly 1.3 million barrels per day in 2025 (Iran International). ​Cryptocurrency freeze: US financial authorities and partners froze approximately $350 million in Iranian cryptocurrency funds (Iran International). ​Surge in oil prices: Brent crude prices reached $117.30–$120 per barrel, setting five-month and four-year highs due to risks of renewed hostilities (Al Jazeera, Iran International, The Indian Express). ​Tanker fleet losses: Based on IMO data, 3.5% of the global ultra-large crude carrier fleet (over 900 vessels) suffered attacks during the conflict (Al Jazeera, Reuters). ​ Shipping Crisis and Preparations in the Persian Gulf Region ​Record attacks in the Strait of Hormuz: October became the worst month for maritime attacks in the Strait of Hormuz, with at least 28 ship attacks recorded in a single month, raising total incidents since the war began in February to between 113 and 135 according to various tracking services (Al Jazeera, Reuters). ​Interception of missiles over Riyadh: The Saudi coalition intercepted and destroyed a Houthi ballistic missile fired toward Riyadh, as well as a drone in the Eastern Province (Al Jazeera, The Times of Israel, The Jerusalem Post). ​Tanker hit off Oman: UKMTO recorded a delayed report of a commercial tanker struck by an unknown projectile 7 nautical miles off Lima (Oman) at the exit of the Strait of Hormuz (The Indian Express). ​Suspension of air travel: Indian airline Akasa Air extended the cancellation of flights to Jeddah until November 10, and to Riyadh until November 30, 2026, due to the security situation in Saudi Arabia (The Indian Express). ​US carrier strike group build-up: The US is preparing to deploy the aircraft carrier USS Theodore Roosevelt to the region, raising the number of US carrier strike groups in the Middle East to three, alongside dispatching an additional Marine Corps unit (BSS, The Hindu, ABS-CBN News). ​Iran's overland corridors threatened: Border checkpoints between Iran and Pakistan and Iraq were reported closed, along with 20-day truck delays at the Turkish border (Bazargan crossing) (Iran International). ​ Diplomatic Meetings and International Reaction ​Istanbul Security Summit: Consultations were held in Istanbul among foreign ministers of Turkey, Egypt, Saudi Arabia, Pakistan, the United Kingdom, France, Germany, and Italy. The foreign ministers warned against new strikes on Iran (Al Jazeera, Iran International, The Jerusalem Post). ​\"Mecca\" Defense Pact: Turkey, Saudi Arabia, and Pakistan (pact members) reaffirmed commitments to defend Saudi Arabia, and Egypt's parliament will consider sending troops to support Riyadh on October 26 (Iran International). ​Pezeshkian's visit to Moscow: Iranian President Masoud Pezeshkian will arrive in Moscow on October 27 to participate in the Gas Exporting Countries Forum (GECF) summit and meet with Vladimir Putin (Al Jazeera, Iran International, The Indian Express). ​IAEA statements: IAEA Chief Rafael Grossi informed the UN General Assembly that the agency has completed most technical preparations to resume inspections and verifications in Iran (Al Jazeera, The Indian Express). ​Context of war onset (Operations \"Roaring Lion\" and \"Epic Fury\"): Materials note that at the start of the operation on February 28, Iranian Supreme Leader Ayatollah Ali Khamenei and the country's Defense Minister were eliminated in an Israeli strike on a bunker in Tehran (The Jerusalem Post, Iran International). ​Philippine humanitarian aid: The Philippine Department of Migrant Workers provided financial assistance to 20,000 Filipino workers affected by the war in the Middle East (ABS-CBN News). ​ Situation in Israel and the West Bank ​West Bank lockdown: Israeli Prime Minister Benjamin Netanyahu announced a full lockdown of the West Bank and the closure of nearly 1,000 checkpoints following a shooting at a checkpoint in Hebron, where 2 Israeli soldiers and 2 Palestinians were killed (Al Jazeera, The Times of Israel, The Indian Express). ​Application of the \"Jenin model\" in Hebron: Israeli troops and bulldozers launched a large-scale counterterrorism operation in Hebron involving house demolitions and family evictions (Al Jazeera, The Times of Israel). ​Upcoming Israeli elections: Benjamin Netanyahu is preparing for parliamentary elections on October 27, where polling indicates his block trails the opposition slightly (50 seats versus 52) (Anadolu Agency, The Hindu). ​ Internal Developments in Iran, Society, and Starlink ​Public discussions on Iranian networks: Debates erupted across Iranian social media regarding the war: some citizens view the war as the sole path to overthrowing the regime, while others fear infrastructure destruction, economic chaos, and internet blackouts (Iran International). ​Confusion over student ID badges: Information circulated online regarding identification tokens/badges prepared for female school students in case of bombings, which was officially denied by Iran's Ministry of Education (Iran International). ​US requests regarding Starlink: The Biden and Trump administrations repeatedly requested Elon Musk to enable or disable Starlink in specific regions (including restricting connectivity for Iranian proxies in Yemen/Lebanon and activating the network inside Iran and Ukraine) (The Indian Express, Reuters). ​​Analytical Conclusions ​ Transformation of US and Israeli Military Strategy ​Shift in airstrike objectives (subordination to the blockade): US military strikes are no longer an autonomous forceful campaign, but are subordinated to economic warfare. Their primary task is to secure and protect the maritime blockade by systematically destroying launch pads, radars, and military infrastructure used by Iran to threaten shipping (Iran International). ​Preeminence of economic pressure over military force: The oil and trade blockade, combined with financial sanctions, inflicts significantly greater damage on the Iranian regime than previous airstrikes, as they have completely cut off revenue from raw material exports and closed alternative financing channels (Iran International). ​Impossibility of a ground invasion: The destruction of US bases in the region during earlier phases of the war renders the safe deployment of thousands (or tens of thousands) of troops necessary for a full-scale ground operation impossible (The Hindu, AFP, ABS-CBN News). ​Shift of potential targets to civilian infrastructure: Since most of Iran's conventional military facilities were already heavily damaged by previous waves of attacks, a new potential air campaign would be forced to shift toward critical, dual-use, or civilian infrastructure (The Hindu, AFP, ABS-CBN News). ​Divergence of US and Israeli strategic goals: Statements from the US indicating no intention of regime change in Tehran demonstrate Washington's desire to contain the Iranian threat without getting dragged into the chaos of a total overthrow of power, contrasting with Benjamin Netanyahu's more radical stance calling for the collapse of the Iranian government (The Hindu, AFP). ​Expansion of Washington's geopolitical rhetoric: Statements by Donald Trump and Marco Rubio regarding a potential \"stop\" off the coast of Cuba demonstrate the administration's desire to leverage the accumulated military presence and escalatory momentum of the Middle Eastern conflict to exert pressure on other adversary regimes (The Times of Israel). ​ Tehran's Asymmetrical Responses and the \"No Red Lines\" Doctrine ​Asymmetrical deterrence strategy: Threats to strike digital and communications infrastructure are aimed at creating direct economic and investment risks for Gulf countries and American tech giants (Amazon, Microsoft, Google), forcing them to pressure the White House to forego military escalation (Haaretz, Reuters). ​Formation of a \"no red lines\" doctrine: Statements from Iranian security structures indicate Tehran's readiness to transfer hostilities from a purely military domain to the civilian, digital, and energy infrastructure of the entire region (undersea cables, data centers, oil pipelines, airports) in response to renewed attacks (Haaretz, Reuters). ​Vulnerability of Gulf tech hubs: Attacks on data centers undermine the strategic plans of Gulf states to diversify their economies and transform into global artificial intelligence hubs (Haaretz). ​Escalation of regional confrontation via proxies: Ballistic missile launches by the Houthis against Riyadh and attacks on vessels in the Bab-el-Mandeb Strait highlight the active involvement of pro-Iranian forces in the conflict, expanding the combat zone across the geography of the entire Arabian Gulf (Al Jazeera). ​Threats to US diplomatic personnel: Urgent measures to downsize staff at US missions across the region (UAE, Lebanon, Qatar, Jordan, Saudi Arabia) indicate that intelligence regarding Iranian assassination plots against officials has reached \"advanced stages\" and is assessed as imminent (Anadolu Agency, UA.NEWS, Axios, The Jerusalem Post). ​ Economic Stranglehold and Global Consequences ​Comprehensive cutoff of financial and trade routes: The constriction of Iran's financial capabilities is occurring simultaneously along three vectors: halting maritime oil exports, blocking cryptocurrency transactions, and severing overland trade routes through neighboring countries (Pakistan, Iraq, Turkey), gradually grinding the regime's economic revenues to a halt (Iran International). ​Crisis in international shipping and energy security: A record number of attacks in the Strait of Hormuz and damage to over 3.5% of the global fleet of Very Large Crude Carriers have created a direct threat to global oil supplies, leading to a spike in oil prices (exceeding $117–120 per barrel) (Al Jazeera, Reuters, The Indian Express). ​Instability of the current status quo: The model of mutual attacks on commercial vessels, the US maritime blockade of Iranian ports, and Iran's attempts to control the Strait of Hormuz ties down significant US Navy forces and exhausts the Iranian economy, rendering the situation unsustainable in the long term (The Hindu, AFP, ABS-CBN News). ​ Diplomatic Architecture and Division of Labor ​Formation of a two-track deterrence architecture: A parallel division of labor is emerging around the conflict: the US and Israel exert direct military and maritime pressure on Iran, while regional powers (R4: Turkey, Saudi Arabia, Egypt, Pakistan) in coordination with European nations (UK, France, Germany, Italy) create a security coordination platform to protect their own infrastructure and neutralize the Houthis (Iran International). ​International resistance to further escalation: Statements by Turkish diplomacy and the stance of Istanbul Consultation participants demonstrate growing resistance among regional and European states against expanding the US and Israeli military campaign due to risks of destabilizing energy supplies and the global economy (The Jerusalem Post, Reuters). ​Diplomatic maneuvering around nuclear control: IAEA statements regarding readiness to verify nuclear facilities and the response from Iranian diplomats indicate that formally Iran is not renouncing international safeguards, but is using the security factor as leverage in negotiations with the US (Al Jazeera, Tasnim). ​ Domestic Political and Societal Factors ​Impact of electoral calendars in the US and Israel: The timing and rhetoric of potential military escalation are heavily pressured by the timeframes of parliamentary elections in Israel (October 27) and midterm elections to the US Congress (November 3). Rising fuel prices create severe electoral pressure on the US Republican Party (The Hindu, AFP, China Daily). ​Public disagreements and mixed signals in the US: Comments by diplomats (notably Tom Barrack) regarding possible strikes \"as early as this weekend\" against the backdrop of Trump's public distancing point to the use of psychological pressure tactics, probing the ground, or a lack of a single unified strategy within American leadership (The Hindu, AFP, The Indian Express). ​Deep division in Iranian public sentiment: A portion of the population, worn down by exhausting crises, is ready to support external military pressure as the only way to end the existing regime's rule, while others fear catastrophic destruction, an economic shutdown, and social chaos (Iran International). ​Escalation in the West Bank: The imposition of a severe regional lockdown (closures of around 1,000 checkpoints) by the Israeli side following events in Hebron is perceived as a preemptive attempt to suppress a possible uprising on the internal front ahead of elections (Al Jazeera, The Times of Israel). ​Bureaucratic hurdles to information sharing in the US: The initiative to downgrade the classification level of intelligence highlights an existing problem where restrictive access to classified information hinders the timely communication of threats to a broad circle of diplomatic personnel facing danger (Anadolu Agency, UA.NEWS, Axios). ​Prognoses ​US and Israeli Military Operations ​High probability of new large-scale strikes after the elections: Most experts, analysts, and media outlets emphasize that the US and Israel could carry out a new series of intensive airstrikes (another stage of Operation Epic Fury) immediately following the US Congressional midterm elections on November 3 (The Atlantic, ABC News, Iran International, BSS, The Hindu, China Daily). ​Possibility of preemptive or targeted actions in the near future: Despite the electoral calendar, the probability of targeted preemptive airstrikes on Iranian military or nuclear facilities remains if threats escalate further or intelligence reveals plots (Anadolu Agency, The Hindu, The Indian Express). ​Shift of targets to civilian and critical infrastructure: Since a significant portion of Iran's conventional military facilities has already been depleted or destroyed by previous waves of attacks, new US strikes will be forced to shift toward critical, energy, nuclear, and civilian infrastructure facilities (BSS, The Hindu, ABS-CBN News, Iran International). ​Impossibility of a full-scale ground operation: The US will refrain from a ground invasion due to the lack of secure staging grounds in the region to deploy the required multi-thousand troop formations and a desire to avoid the chaos of total regime change (a \"day-two scenario\") (The Hindu, BSS, ABS-CBN News). ​ Iran's Strategic and Asymmetric Responses ​Asymmetric strikes on regional infrastructure: In the event of renewed attacks, Iran plans to expand the geography of the conflict and launch strikes against undersea communication cables in the Persian Gulf, data centers (AWS, Microsoft, Google), airports, oil pipelines, and civil-economic infrastructure of neighboring Gulf states (Haaretz, Reuters, Iran International, The Wall Street Journal). ​Deliberate disruption of communications repairs: Iran will systematically hinder repair work on damaged undersea cables, causing prolonged disruptions to the internet, cloud services, and international financial transactions in the region (Haaretz, Reuters). ​Regime resilience to military pressure: Further military escalation and airstrikes will not force the Iranian regime to capitulate or change its strategic course, as Tehran demonstrates a readiness to absorb massive destruction and physical pain (BSS, The Hindu, ABS-CBN News). ​Strategic stalemate: Experts stress that the conflict fundamentally lacks a purely military solution and cannot be concluded through further escalation by either side (BSS, The Hindu, ABS-CBN News). ​ Economy, Energy, and Maritime Blockade ​Sustainability and continuation of the maritime blockade: The US Navy is capable of maintaining an oil and trade blockade of Iranian ports for the foreseeable future, rendering Iran's \"wait-and-see\" strategy ineffective (Iran International, Financial Times). ​Deepening economic crisis in Iran: The prolonged absence of oil revenues, exhaustion of floating reserves, blocking of cryptocurrency assets, and closure of overland trade routes will deprive Tehran of the ability to finance new imports, threatening an economic shutdown and a severe internal socio-economic crisis (Iran International). ​High oil prices and market turbulence: The persistent threat of strikes and risks to shipping in the Strait of Hormuz will keep global oil prices high (above $117–$120 per barrel) (Al Jazeera, China Daily, The Indian Express). ​China's reorientation to other suppliers: The disappearance of gray (\"Malaysian\") exports from Iran will force China to further replace Iranian oil with barrels from Oman, the UAE, Saudi Arabia, and Iraq (Iran International). ​ Diplomacy and Geopolitical Architecture ​Iran-Russia rapprochement: The expected meeting between Masoud Pezeshkian and Vladimir Putin in Moscow will facilitate deeper coordination between the two countries in the gas sector (GECF), as well as further military-technical and diplomatic support for Tehran from the Russian Federation (Al Jazeera, Tasnim, Fars). ​Formation of a regional-European security framework: The Istanbul Consultations platform (the R4 format + the UK, France, Germany, Italy) will form a parallel coordination system to deter Houthi attacks and protect infrastructure, allowing the US to redirect forces directly to pressure Iran (Iran International). ​Increased diplomatic pressure against escalation: Gulf countries, Europe, and Turkey will step up mediation to dissuade Washington from expanding the military campaign due to the threat of global destabilization (The Jerusalem Post, Reuters). ​Shift of technology investments to terrestrial routes: Due to threats to undersea cables, Gulf states and US technology corporations (including Microsoft) will accelerate the development of backup terrestrial communication lines (Haaretz). ​ US Diplomatic Presence and Counterintelligence ​Further downsizing of diplomatic missions: Threats of \"advanced stage\" Iranian assassination plots will force the US to implement additional staff reductions or mothball certain diplomatic missions in the Middle East (UAE, Lebanon, Qatar, Jordan, Saudi Arabia) (Anadolu Agency, UA.NEWS, Axios). ​Enhanced security measures for diplomats globally: The US and its partners will be forced to significantly expand counterintelligence activities and strengthen protection for officials not only in the Middle East but also in European countries (The Times of Israel, Axios). ​ Internal Situation in Iran and the Region ​Threat of a humanitarian crisis in the West Bank: Israel's complete closure of the occupied West Bank (approximately 1,000 checkpoints) and \"collective punishment\" measures following events in Hebron will inevitably lead to a new surge in confrontation and humanitarian issues (Al Jazeera). ​Societal rift and anxiety in Iran: Anticipation of another wave of attacks will deepen fears of internet blackouts, destruction of civilian infrastructure, and goods shortages, reinforcing the divide between those hoping for the regime's collapse and those fearing chaos (Iran International). ​Prolonged flight cancellations: Persistent high risk levels in the region will result in further extensions of international flight cancellations to Gulf countries (including decisions by Flydubai and Akasa Air regarding Saudi Arabia) (The Indian Express, Al Jazeera). Deep Analysis ​ The Electoral Calendar Trap and Operation \"Epic Fury\" ​ Fact A: On November 3, crucial midterm elections are taking place in the United States. The war is unpopular among Americans, and oil prices ($117–120 per barrel) along with fuel costs create severe political risks for Donald Trump's Republican Party (The Hindu, BSS, The Indian Express). ​ Fact B: Trump publicly downplays statements from diplomats (such as Tom Barrack) regarding the possibility of attacks \"as early as this weekend,\" but simultaneously hints at a new \"little Epic Fury\" and the development of large-scale strike plans after November 3 (The Hindu, China Daily, Iran International). ​ Assumption C: The White House deliberately froze the active phase of ground and air strikes until November 3 in order not to trigger another surge in gasoline prices at American gas stations immediately before the vote. Statements about \"strikes this weekend\" from individual diplomats serve merely as an element of disinformation and psychological pressure on Tehran. However, immediately after the polling stations close on November 3, the US and Israel are highly likely to unfreeze their prepared military plans and launch a new intensive air campaign. ​ Shift in Military Doctrine: From Regime Change to \"Naval Siege\" ​ Fact A: Susanne Maloney and Jason Campbell note that most of Iran's conventional military facilities and bases have already been destroyed, and the US lacks safe staging grounds for a ground invasion involving thousands of troops (The Hindu, BSS, ABS-CBN News). ​ Fact B: The US states that its naval blockade has cut off over $25 billion in Iranian oil exports, depleted its floating reserves in international waters, and halted the \"Malaysian\" transit to China (Iran International). ​ Assumption C: The US has completely abandoned the idea of rapid regime change or a classic military invasion (as confirmed by Ambassador Barrack). The military component has shifted into a \"service mode for the blockade\": future post-election airstrikes will aim not at capturing territory, but at the systematic destruction of IRGC launchers, radars, and speedboats. Washington's goal is to make maintaining the naval siege as cheap and safe as possible, forcing the Iranian economy to exhaust itself naturally. ​ Tehran's Asymmetrical Response: Threat to the Digital and Energy Heart of the Gulf ​ Fact A: Iran has lost the ability to fully export oil by sea, while its land borders with Pakistan, Iraq, and Turkey experience constant delays and blockades (Iran International). ​ Fact B: High-ranking IRGC officials (Yadollah Javani, Mohsen Rezaei) directly threaten to strike 7 undersea internet cables in the Persian Gulf, prevent their repair, and attack data centers and AI facilities of AWS, Microsoft, and Google in the UAE and Bahrain (Haaretz, Reuters). ​ Assumption C: Realizing the impossibility of breaking the US naval blockade with conventional forces, Iran is transitioning to a doctrine of \"mutual economic and digital destruction.\" Tehran's calculation is to jeopardize the technological transformation of the Gulf monarchies (UAE, Saudi Arabia) and cause heavy damages to Western tech giants. This is intended to compel Arab nations and lobbyists in Washington to demand that Trump lift the blockade in exchange for preserving critical infrastructure. ​ Diplomatic Evacuation as a Marker of Asymmetric \"Hunting for Officials\" ​ Fact A: According to a memorandum from US Director of National Intelligence Jay Clayton to Secretary of State Marco Rubio, Iranian plots to assassinate US officials abroad have reached \"advanced stages\" (Axios, UA.NEWS, The Jerusalem Post). ​ Fact B: The US has begun emergency staff reductions at embassies and the evacuation of diplomats' families from the UAE, Lebanon, Qatar, Jordan, and Saudi Arabia (Axios, UA.NEWS). ​ Assumption C: Fearing a direct clash with the US military, Iran has activated its sabotage and intelligence networks for targeted liquidations of American diplomats and military leaders worldwide. The embassy evacuations indicate that US intelligence agencies anticipate a risk of major terrorist attacks or assassination attempts comparable to the 1983 Beirut events, rendering the US civilian presence in the region extraordinarily vulnerable. ​ Formation of the New R4 Security Platform and the Rift Between Allies ​ Fact A: A meeting in the R4 format (Turkey, Saudi Arabia, Egypt, Pakistan) took place in Istanbul, attended by the United Kingdom, France, and Germany. They spoke out against escalation and called for the restoration of maritime navigation (Iran International, The Jerusalem Post). ​ Fact B: Turkey, Saudi Arabia, and Pakistan are strengthening the Mecca Pact on mutual defense, while Egypt is considering deploying troops to protect Saudi Arabia from the Houthis (Iran International). ​ Assumption C: A two-tier security system is emerging in the region. The first tier (the US and Israel) handles direct military and economic pressure on Iran. The second tier (Arab-Muslim states and Europe) creates a defensive shield against pro-Iranian proxies (particularly the Houthis in Yemen). This allows Saudi Arabia and its neighbors to protect themselves without entering into a direct alliance with Israel, while simultaneously reducing their reliance on direct US military assistance. ​ Internal Rift in Iran: From Disillusionment to Radicalization ​ Fact A: Fierce debates are taking place across Iranian social media: some citizens view a new war as a \"necessary evil\" to overthrow the regime, while others fear a humanitarian catastrophe. Parents are preparing personal dog tags for schoolchildren in case of bombings, and the population anticipates a total internet shutdown (Iran International). ​ Fact B: Radical circles in Iran demand preemptive strikes against nuclear power plants in Israel and the UAE, accusing the government of excessive weakness (Iran International). ​ Assumption C: Prolonged uncertainty and the exhaustion of Iranian society have destroyed the moderate political center. The internal situation in Iran has polarized to the extreme: the regime is losing legitimacy among ordinary citizens left without means of survival, creating fertile ground for an internal explosion in the event of another wave of destruction targeting critical infrastructure.",
+      "text_excerpt": "Rubio received intel warning of Iranian plots against US diplomats, official confirms to ‘Post’\n24 october 2026 News U.S. intelligence has reported a sharp increase in advanced Iranian assassination plots targeting American officials across the Middle East. In response, the State Department accelerated diplomatic evacuations from several regional posts, including an ordered departure of non-essential staff from Saudi…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T08:32:02Z",
+      "last_collected_at": "2026-10-24T08:32:02Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21355",
+      "timestamp": "2026-10-24T02:58:27Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdxjzg",
+      "author": "monsooncloudburst",
+      "url": "https://www.reddit.com/r/myanmar/comments/1xdxjzg/how_local_thais_perceive_the_myanmar_population/",
+      "source_url": "https://www.reddit.com/r/myanmar/comments/1xdxjzg/how_local_thais_perceive_the_myanmar_population/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "deportation",
+        "departure"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "How local Thais perceive the Myanmar population in Thailand\nThailand is home to 4.1 million people of Myanmar origin in Thailand. That is 5.7% of the entire population, which is a very large percentage to be held by a single source. I have always been curious about how local Thais perceive this exodus from the west. I talked to people I knew in government and business and also other Thai friends. I also found studies that tracked local perceptions. I found 3 broad reactions: A. Top level acceptance B. Lower-level hatred and C. Middle level annoyance. I will run through each and show why C is actually the most dangerous for the Myanmar community. A. Top level: Government officials I talked to readily accept that Thailand needs the migrants, especially those who are willing to stay long term. I was shocked to learn from them that Thailand’s fertility rate is about 0.8 to 1.2, which is horrendously low. Thailand IS getting some long-term immigrants but they are richer older people who want to retire there, not exactly bringing skills or energy. They want people willing to work blue collar jobs for lower wages and push Thais up the economic ladder. The larger myanmar migrant pool also gave them leverage against the Cambodian population in Thailand. Any labour loss due to expelling Cambodians can be easily solved by giving the jobs to Myanmar folks. This explains why the government is remarkably open to refugees and illegal crossings. This is no doubt a PR boost for themselves as well. B. Lower level: These people hate Myanmar folks. They are part of a growing right wing movement in all nations now that is festering with racism and xenophobia. They won’t even talk to me directly since I am from Myanmar. But accounts from Myanmar workers indicate that they have to put up with this xenophobic and racist remarks and actions often. Thankfully these people are still smaller in number for the most part. C. Middle level: This group was very nuanced in their take. These were educated, middle class professionals and business owners. On one hand, they share the government’s perspective on cheaper labour. They complain that they cannot get Thais to take jobs like waitering for lower pay and locals will quit if the conditions are tough. But Myanmar staff will be hardworking and polite. So these business owners treat the staff well and the myanmar staff are happy. On the other hand, they are getting worried. 1. They worry about the increasing number of illegal crossing and undocumented people. They believe that these people, being unregistered, would be more likely to commit crimes to support themselves. Since they are not registered, it is also harder to catch them and so deterrence is lost. 2. They worry that even jail and fines don’t work as deterrence. Fines don’t work if the illegal myanmars have no money. Jails might still be better than being deported to be a porter in the tat. 3. They are that both the legal and especially the illegal myanmars are not assimilating. Having a large community of Myanmar people means they do not feel the same pressure to learn thai and adopt local culture and customs. The thais do not want a large permanent population that speaks a different language and practise different religions like Christianity. The pattani thais are already a source of religious conflict. 4. They also think that the illegal myanmar folks in particular are depressing wages for local thais since they are willing to undercut and work for less. So these people don’t hate the Myanmar or want to expel all. However, they take a principled stance that Thailand is already generous in accepting so many legal immigrants. It is justified to deport the 1.7 million illegal immigrants and refugees. I am aware that these were anecdotal discussions in nature. I followed it up by going through the data found in various studies and articles. All showing significant levels of concern and hostility towards migrants from Myanmar residing in Thailand. They are listed at the end of the post. My concern is that one day, the political incentives will change. Thailand's economy depends on migrant labour, but economic dependence does not guarantee political protection. If public frustration over migration grows sufficiently strong, politicians may find it advantageous to impose harsher restrictions, expand deportations or make life increasingly difficult for Myanmar nationals. We have already seen how quickly political tensions can disrupt the lives of migrant communities. The mass departure of Cambodian workers from Thailand in 2025 is a reminder that cross-border populations can become vulnerable when bilateral relations deteriorate. The circumstances were different, but the lesson is worth considering. This is why I think Myanmar people need to be careful about how we approach cultural disputes with Thailand. I understand why people are upset when they believe Myanmar culture has been appropriated, misrepresented or treated disrespectfully. These concerns are not inherently illegitimate. But we need to consider the consequences of turning every cultural disagreement into a national confrontation. More than four million Myanmar nationals live in Thailand. They include workers supporting families back home, people who fled war and persecution, and people who have built their lives there over many years. Many have limited legal protections and few safe alternatives if they are forced to leave. A cultural controversy may last a few weeks. The consequences of a political backlash could last years. https://www.ilo.org/resource/brief/knowledge-attitudes-and-practices-towards-migrant-workers-malaysia https://www.ilo.org/resource/brief/public-attitudes-towards-migrant-workers-thailand https://so03.tci-thaijo.org/index.php/jpss/article/view/84512 https://migrationletters.com/index.php/ml/article/view/2858 https://so03.tci-thaijo.org/index.php/mekongjournal/article/view/266201 https://thailand.iom.int/sites/g/files/tmzbdl1371/files/documents/2024-03/public-perception-survey-findings_en.pdf https://so04.tci-thaijo.org/index.php/ombudsman/article/view/167122",
+      "text_excerpt": "How local Thais perceive the Myanmar population in Thailand\nThailand is home to 4.1 million people of Myanmar origin in Thailand. That is 5.7% of the entire population, which is a very large percentage to be held by a single source. I have always been curious about how local Thais perceive this exodus from the west. I talked to people I knew in government and business and also other Thai friends. I also found studies…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T08:32:04Z",
+      "last_collected_at": "2026-10-24T08:32:04Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-24T02:16:59.475015+00:00",
+  "last_archived_at": "2026-10-24T08:32:11.642971+00:00",
   "live_events": [
     {
       "id": 710,
@@ -983,6 +1845,72 @@
       "text": "A new large wave of illegal migration is hitting Spain again. More than 800 boat migrants have arrived in the Canary Islands over the past 48 hours. 3 boats with 205, 170 and 41 illegal migrants have arrived so far today.\nVideo via CanarioToday",
       "url": "https://www.reddit.com/r/TheDailyChaos/comments/1xdg0nu/a_new_large_wave_of_illegal_migration_is_hitting/",
       "source_url": "https://www.reddit.com/r/TheDailyChaos/comments/1xdg0nu/a_new_large_wave_of_illegal_migration_is_hitting/"
+    },
+    {
+      "id": 712,
+      "event_id": 712,
+      "source": "X",
+      "source_post_id": "2113910260268253301",
+      "author": "CrazyScooby1",
+      "published_at": "2026-10-24T08:27:35Z",
+      "collected_at": "2026-10-24T08:28:40Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@SydneyLWatson If any illegal or legal migrant to any country commits any crime, they should be deported. That's just basic common sense. The fact that governments are working so hard to stop migrants from being removed from our countries is madness. \n\nMercy to the guilty, is cruelty to the",
+      "url": "https://x.com/CrazyScooby1/status/2113910260268253301",
+      "source_url": "https://x.com/CrazyScooby1/status/2113910260268253301"
+    },
+    {
+      "id": 714,
+      "event_id": 714,
+      "source": "X",
+      "source_post_id": "2113906304397836633",
+      "author": "DougDante1",
+      "published_at": "2026-10-24T08:11:52Z",
+      "collected_at": "2026-10-24T08:30:28Z",
+      "event_type": "RESCUE_OPERATION",
+      "signal_type": "RESCUE_OPERATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@UNODC_OrgCrime @ilias_chatzis Protect kids from organized crime \"At the California marijuana facilities, ICE and CBP law enforcement rescued at least 14 migrant children from what looks like exploitation, forced child labor, and potentially human trafficking or smuggling\"\nhttps://t.co/wkTHxbn8jl",
+      "url": "https://x.com/DougDante1/status/2113906304397836633",
+      "source_url": "https://x.com/DougDante1/status/2113906304397836633"
+    },
+    {
+      "id": 713,
+      "event_id": 713,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117494080916584722",
+      "author": null,
+      "published_at": "2026-10-24T04:49:56Z",
+      "collected_at": "2026-10-24T08:28:43Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 40.0,
+      "text": "60,000 migrants flood Spain’s Ceuta border Spain has deployed additional security forces to its North African territory of Ceuta after a massive wave of migrants crossed from Morocco, creating one of the largest border crises in the region’s recent history. Ceuta’s President Juan Jesús Vivas said aroun… https:// justpaste.in/news/60000-migran ts-flood-spains-ceuta-border/ # ceuta # migrants # spain # border # morocco",
+      "url": "https://mastodon.social/@justpaste/117494080916584722",
+      "source_url": "https://mastodon.social/@justpaste/117494080916584722"
     }
   ],
   "event_groups": [
@@ -1043,6 +1971,64 @@
       "average_confidence": 0.55,
       "created_at": "2026-10-24T02:16:50Z",
       "updated_at": "2026-10-24T02:16:50Z"
+    },
+    {
+      "id": 571,
+      "group_id": 571,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@SydneyLWatson If any illegal or legal migrant to any country commits any crime, they should be deported. That's just basic common sense. The fact that governments are working so hard to stop migrants from being removed from our countries is madness. \n\nMercy to the guilty, is cruelty to the",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-24T08:27:35Z",
+      "last_seen": "2026-10-24T08:27:35Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-24T08:28:40Z",
+      "updated_at": "2026-10-24T08:28:40Z"
+    },
+    {
+      "id": 572,
+      "group_id": 572,
+      "event_type": "RESCUE_OPERATION",
+      "dominant_event_type": "RESCUE_OPERATION",
+      "title": "RESCUE_OPERATION",
+      "representative_text": "@UNODC_OrgCrime @ilias_chatzis Protect kids from organized crime \"At the California marijuana facilities, ICE and CBP law enforcement rescued at least 14 migrant children from what looks like exploitation, forced child labor, and potentially human trafficking or smuggling\"\nhttps://t.co/wkTHxbn8jl",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-24T08:11:52Z",
+      "last_seen": "2026-10-24T08:11:52Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-24T08:30:28Z",
+      "updated_at": "2026-10-24T08:30:28Z"
     }
   ]
 }
