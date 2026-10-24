@@ -958,6 +958,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T22:08:04.376410+00:00"
+    },
+    "information:21616": {
+      "hu_text": "Milliók szenvednek tömeges gyilkosságok, szexuális erőszak, éhezés és kitelepítés miatt Szudánban és a Kongói Demokratikus Köztársaságban. Azonban ezek a válságok csak töredéknyi figyelmet kapnak a BBC-től az Izraellel kapcsolatos hírekhez képest. 2026 áprilisa és októbere között a BBC honlapján 252 cikk jelent meg Izraelről, míg Szudánról 25, a Kongói Demokratikus Köztársaságról pedig csak 10. A szudáni és kongói civilek borzalmas atrocitásokat élnek át, de szenvedésük kevésbé látható a brit közönség számára. Ezek a konfliktusok összetettek és jelentősek, és komoly tudósítást érdemelnek. Minden civil megérdemli, hogy szenvedését elismerjék. A média felelőssége, hogy következetesen tudósítson a humanitárius válságokról, függetlenül attól, hol történnek, vagy hogy a történet illeszkedik-e egy ismert politikai narratívába.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés humanitárius válságokról szól, amelyek fontosak a migrációs OSINT szempontjából. Az állítások konkrét számokat és összehasonlítást tartalmaznak a médiafigyelemről, de nincs közvetlen bizonyíték a hitelességre, ezért UNVERIFIED státusz indokolt. A téma jelentősége miatt magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:12.163078+00:00"
+    },
+    "information:21617": {
+      "hu_text": "[SF] Egy szintónikus requiem\nA fluoreszkáló ballaszt zúgása és a harmadik emeleti légkondicionáló zörgése közötti csendben Arthur Pendleton négy embert ölt meg egy esővel csúszós tetőn Kiotóban. Az első támadó élő acéllal érkezett, de Arthur elkapta a csuklóját, és egy mikro-aktívátor 40 kHz-es sokkot bocsátott ki, amely eltörte a férfi alkarcsontjait. Anélkül, hogy ránézett volna, Arthur egy forgó horogrúgással a második támadót a sötét kert mélyébe küldte. Ekkor Arthur felébredt egy irodai székben, kezében egy ceruzával, miközben a monitorján egy autóalkatrész CAD modellje forgott. Egy kollégája közölte vele, hogy a költségcsökkentés miatt módosítani kell a tervet.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy sci-fi novellarészlet, amely nem kapcsolódik a migrációhoz vagy humanitárius témákhoz, így irreleváns. Nincs szükség ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:12.163093+00:00"
+    },
+    "information:21618": {
+      "hu_text": "Amikor Pakisztán három oldalról vette körül Tripurát: A Tripura elbeszéletlen története (1920–2005) — Hindi nyelvű hosszú olvasmány angol összefoglalóval és forrásokkal\nA cikk hindi nyelven íródott, az alábbiakban szakaszonkénti angol összefoglaló és források találhatók. A központi szereplők fiktívek, de az események, dátumok és adatok valós forrásokon alapulnak. A cikk bemutatja Tripura történetét, a falusi életet, a földművelést, a népesség összetételét, valamint a térség történelmi-politikai változásait a 20. század első felében.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés történelmi hátteret ismertet Tripura régiójáról, amely releváns lehet a migrációs háttér megértéséhez. Az információk forrásokra támaszkodnak, de a bejegyzés maga összefoglaló, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:12.163097+00:00"
     }
   },
   "legacy_reviews": {}
