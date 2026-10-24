@@ -133,6 +133,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T02:17:24.695949+00:00"
+    },
+    "record:2113811464007918012": {
+      "hu_text": "„Őslakos palesztinokról beszélsz. Az Oszmán Birodalom késői és a Brit Mandátum időszakában egy hullámnyi arab munkás és migráns érkezett Palesztinába a szomszédos országokból, akiket az infrastruktúra-fejlesztési projektek és a gazdasági növekedés vonzott. Több helyről érkeztek munkások és migránsok.”",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg történelmi migrációs folyamatokat említ, de nem tartalmaz konkrét forrásokat vagy bizonyítékokat, ezért ellenőrizetlennek minősül. Fontos a történelmi kontextus megértése miatt, de nem áll rendelkezésre hitelesítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:30.930681+00:00"
+    },
+    "record:2113816562805383532": {
+      "hu_text": "„Az a mocskos, pedofíliát népszerűsítő, drogcsempész #Thiel bevándorló bűnöző és láncmigrációs családja #ICE által ki kellene toloncoltatni. #Vivek #Ramaswamy #Ohio”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés durva, sértő politikai vélemény és személyeskedő támadás, nem tényállítás. Nem tartalmaz ellenőrizhető információt, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:30.930699+00:00"
+    },
+    "record:reddit_1xdg0nu": {
+      "hu_text": "Újabb nagy illegális migrációs hullám érkezik Spanyolországba. Az elmúlt 48 órában több mint 800 hajós migráns érkezett a Kanári-szigetekre. Ma eddig három hajó érkezett 205, 170 és 41 illegális migránssal. Videó a CanarioToday-től.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás aktuális migrációs eseményről szól, amely fontos a határbiztonság és migrációs folyamatok szempontjából. Mivel nincs független megerősítés, ellenőrizetlennek minősül, de magas prioritású a relevanciája miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T02:17:30.930704+00:00"
     }
   },
   "legacy_reviews": {}
