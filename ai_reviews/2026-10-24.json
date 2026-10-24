@@ -705,6 +705,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T17:07:55.213949+00:00"
+    },
+    "record:2114034253134504292": {
+      "hu_text": "41 migráns érkezett csónakkal Cartagena közelében. Egy kis csónak 41 embert szállítva szombat reggel ért partot Cala Dentoles közelében, Cabo de Palosnál, Cartagenában, délkelet-Spanyolországban. A Guardia Civil a csoportot a partra érkezéskor elfogta. Az eseményt az EFE jelentette, a Murcia-i spanyol kormányküldöttség is értesült róla.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló friss jelentés, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:08:01.906444+00:00"
+    },
+    "record:2114040171037376963": {
+      "hu_text": "@SteveAt69818704 Az Emberi Jogok Európai Egyezménye (ECHR) törvényeit naponta használják menekültügyi bíróságokon, hogy megvédjék a migránsokat, beleértve erőszaktevőket és pedofilokat is. Tények.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás, amely nem bizonyított, de releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:08:01.906462+00:00"
+    },
+    "record:mastodon_117496851488040178": {
+      "hu_text": "Nyolc holttestet találtak lavina után a Broad Peak hegynél Pakisztán északi részén. Mentőcsapatok megtalálták nyolc hegymászó holttestét, akik eltűntek egy hatalmas lavina következtében a Broad Peaknél, a világ egyik legmagasabb hegyén. A tragikus esemény sokkolta a nemzetközi hegymászó közösséget.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Nem migrációs esemény, hanem hegymászó baleset, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:08:01.906467+00:00"
+    },
+    "telegram:1229318139:29669": {
+      "hu_text": "Egy arab nyelvű hirdetés, amely egy muszlim ruházati modellt mutat be, elérhető árakkal és elérhetőségekkel, beleértve WhatsApp és TikTok linkeket, valamint üzleti címet Kairóban. A szöveg nem tartalmaz migrációval kapcsolatos információt.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Nem migrációs tartalom, hanem kereskedelmi hirdetés, így nem releváns a migrációs OSINT számára.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:08:01.906471+00:00"
     }
   },
   "legacy_reviews": {}
