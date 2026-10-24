@@ -881,6 +881,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T20:00:16.718457+00:00"
+    },
+    "record:2114081955578790327": {
+      "hu_text": "@FoxNews Barack Obama 3 millió illegális bevándorlót deportált ugyanazon szövetségi törvények alapján, majd saját pártja 4 év alatt 10 millió ellenőrizetlen határátlépőt engedett be amerikai városokba, mielőtt az ohiói választókat az érvényesítésről oktatta. Azok a politikusok, akik szándékosan aláássák a...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és számszerű adatokat tartalmaz, amelyek nem ellenőrzöttek, ezért az állítás hitelessége nem igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:20.004004+00:00"
     }
   },
   "legacy_reviews": {}
