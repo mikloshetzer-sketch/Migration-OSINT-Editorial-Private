@@ -474,6 +474,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T13:46:04.995839+00:00"
+    },
+    "record:2113978387383418975": {
+      "hu_text": "Egy migráns karaván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés migráns karaván mozgásáról szól, ami fontos migrációs esemény lehet, de nincs megerősített bizonyíték az állításra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:12.912652+00:00"
+    },
+    "record:2113978416642892074": {
+      "hu_text": "Egy migráns karaván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz az állítás ismétlődően jelenik meg, migráns karaván mozgásáról szól, de nincs megerősített bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:12.912676+00:00"
+    },
+    "record:2113978436720964041": {
+      "hu_text": "Egy migráns karaván jelenleg az Egyesült Államok felé halad. A kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető marad. Ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő állítás migráns karaván mozgásáról, nincs megerősített bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:12.912681+00:00"
+    },
+    "record:mastodon_117495766053888293": {
+      "hu_text": "Banglades éghajlati migránsai felkészületlenül érkeznek a városokba, amelyek nem tudják őket megfelelően védeni.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás éghajlati migránsok városi érkezéséről szól, ami releváns migrációs téma, de nincs közvetlen bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:12.912685+00:00"
+    },
+    "record:reddit_1xe7py0": {
+      "hu_text": "Új mentőakció Kréta déli részén: 42 migránst mentettek ki Gavdos közelében Görögországban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Mentőakcióról szóló jelentés, fontos humanitárius esemény, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:12.912689+00:00"
+    },
+    "record:reddit_1xe7qha": {
+      "hu_text": "Egy 17 éves fiút őrizetbe vettek, mert állítólag embercsempész volt a 36 Agiofaragóban talált migráns esetében. A túlélők Líbiából indultak, egyenként akár 16 000 dinárt fizettek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Őrizetbe vételről és embercsempészetről szóló állítás, fontos jogi és bűnügyi információ, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:12.912693+00:00"
     }
   },
   "legacy_reviews": {}
