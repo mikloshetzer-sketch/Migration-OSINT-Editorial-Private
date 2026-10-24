@@ -749,6 +749,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T17:08:01.906471+00:00"
+    },
+    "group:576": {
+      "hu_text": "A 1652-es betolakodók, akárcsak ők, látogatóként és menekültként jelentkeztek. Ugyanaz a forgatókönyv.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás történelmi párhuzamot von, de nincs bizonyíték a jelenlegi helyzetre vonatkozóan, ezért nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:07.530502+00:00"
+    },
+    "information:21510": {
+      "hu_text": "Nincs egyetértés ebben a kérdésben. A határ- és kitoloncolási politikák megfelelnek a dán, ausztrál és japán politikáknak különböző kormányok alatt. A német hírszerzés az AfD-t szélsőségesnek tartja főként az etnikai-ősi népfogalmat illetően, amely a migráns hátterű állampolgárokat másként kezeli.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai és jogi állításokat tartalmaz, amelyek részben ellenőrizhetők, de a bemenet nem tartalmaz konkrét bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:07.530522+00:00"
+    },
+    "information:21524": {
+      "hu_text": "Senki illegális migráns bűnöző, egyetlen sem érheti el a brit lakosságot, mindannyian számítsanak őrizetbe vételre és azonnali visszaküldésre várakozásra a következő busszal, vonattal, hajóval vagy repülővel, és ezt már az első érkező hajónál alkalmazni kellett volna. ELÉG.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erős politikai vélemény, amely nem bizonyított tény, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:07.530525+00:00"
+    },
+    "information:21529": {
+      "hu_text": "#tenger #fotográfia #fekete-fehérafotózás #tájkép #hajó",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Csak általános, migrációval nem kapcsolatos hashtag-ek és témák szerepelnek.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:07.530527+00:00"
+    },
+    "information:21551": {
+      "hu_text": "Ez egy abszurd, szürreális történet egy kaotikus keddi napról, amelyben gazdagok hobbijaival, rendőri intézkedésekkel és különös eseményekkel találkozunk egy neonfényes világban. A leírás egy szórakoztató, képzeletbeli jelenetsor, amely nem kapcsolódik migrációhoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs témájú, hanem egy szürreális, fikciós leírás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:07.530529+00:00"
+    },
+    "record:2114080648231092291": {
+      "hu_text": "Az Egyesült Királyságban a rendőrség több száz machetét (kis kardokat) foglalt le, amelyeket menedékkérőknek szállítottak egy menekültközpontban. Ezeket más bevándorlóknak és bevándorló gyerekeknek akarták szétosztani.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos biztonsági állítás, amelyet ellenőrizni kell, de a bemenet nem tartalmaz megerősített bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:07.530531+00:00"
     }
   },
   "legacy_reviews": {}
