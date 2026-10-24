@@ -342,6 +342,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T08:32:46.984872+00:00"
+    },
+    "group:573": {
+      "hu_text": "Őrizetbe vették egy halászhajó kapitányát, aki migránsokat szállított Formenterára. A letartóztatott férfi további migránsokkal való utazást tervezett Algériába, de a hajó motorhiba miatt zátonyra futott. | Spanyolország",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés konkrét eseményt ír le, de nincs megerősített forrás vagy további bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:45:55.645485+00:00"
+    },
+    "group:574": {
+      "hu_text": "Őrizetbe vettek egy 17 éves férfit, akit a 36 Agiofaragóban talált migráns csempészésével gyanúsítanak. A túlélők Líbiából indultak, és egyenként akár 16 000 dinárt fizettek. | Görögország",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részletes, de nincs megerősített forrás vagy további bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:45:55.645549+00:00"
+    },
+    "information:21381": {
+      "hu_text": "„@WolfgangRichtEU Ezek a szegény migránsok nemcsak a csatorna átkelését kellett elviseljék, hanem miután brit földre értek, további megterhelő intézkedéseket, mint amilyet te is kiemeltél, Wolfgang. Szívszorító látni, hogyan használják ki folyamatosan ezeket a szegény migránsokat.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és érzelmi megnyilvánulás, nem tényállítás, ezért nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:45:55.645556+00:00"
+    },
+    "information:21388": {
+      "hu_text": "„@Retradworld Engedjük, hogy az országot elárasszák a H1B vízumosok, miközben más jó kitoloncolásokat és politikai intézkedéseket hajtanak végre, és próbáljunk hosszú távon politikát változtatni. Vagy engedjük be őket LGBT propagandával, nyitott határokkal és menekültekkel. Kíváncsi vagyok, melyik ésszerűbb.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, nem tényállítás, így nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:45:55.645560+00:00"
+    },
+    "information:21398": {
+      "hu_text": "„@Rising_america2 Igen, az RNLI és a határőrség nem tud segíteni, ha egyszerre 3 vagy több hajó és mindegyiken 200-nál több migráns van. Ezeknek az embereknek menedékük volt saját országaikban, az Egyesült Királyságnak nincs elég helye, munkahelye stb. Életüket kockáztatják, amikor Franciaországból az Egyesült Királyságba hajóznak, a menekülteknek a közeli biztonságos országokba kellene menniük.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és értékelés a migrációs helyzetről, nem tényállítás, ezért nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:45:55.645564+00:00"
+    },
+    "information:21399": {
+      "hu_text": "„@georgedmadgwick Ó, már két hete tart a vihar? Mert akkor az volt az utolsó alkalom, amikor migránshajó átkelt. Szánalmas.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy szarkasztikus megjegyzés, nem tényállítás, így nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:45:55.645567+00:00"
     }
   },
   "legacy_reviews": {}
