@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-25",
+  "reviews": {
+    "information:21563": {
+      "hu_text": "Valószínűleg holnap a BBC híreiben az lesz, hogy a Munkáspárt „megoldotta” a csónakos migrációs válságot 100%-os csökkenéssel ma. Csak még többen jönnek majd, amikor az időjárás megnyugszik. Furcsa, hogy a Csatorna-szigeteken nincs migrációs válság, mert aki odaérkezik, azt azonnal visszaküldik Franciaországba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés véleményt és állítást tartalmaz, de nincs megerősített bizonyíték a csónakos migrációs válság 100%-os megszűnésére vagy a Csatorna-szigetek visszaküldési gyakorlatára vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:20.964590+00:00"
+    },
+    "information:21575": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik át a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engednek. Azzal fenyegetnek, hogy bántani fognak, ha megpróbálunk átkelni. Jó életet akarok Lengyelországban vagy Németországban.” Lengyelország nemet mond a nyitott határokra! 🇵🇱",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés illegális migránsok állításait tartalmazza, amelyek nem ellenőrzöttek, ugyanakkor a határbiztonsági helyzetre vonatkozó fontos információkat közöl.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:20.964607+00:00"
+    },
+    "record:2114111734973931707": {
+      "hu_text": "Több mint 400 illegális migráns érkezett Spanyolország El Hierro szigetére egyetlen nap alatt. Az elmúlt 48 órában több mint 800 illegális migráns érkezett a Kanári-szigetekre, három hajóval 205, 170 és 41 ember jutott partra ma. Az érkezések száma két hónap alatt 159%-kal nőtt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és eseményeket közöl, de nincs független megerősítés a pontos számokról vagy a növekedés mértékéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:20.964611+00:00"
+    },
+    "record:2114111811742261616": {
+      "hu_text": "Minden érkező migránscsoport létszáma növekszik.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános megfigyelést tartalmaz a migránsok számának növekedéséről, de nincs konkrét adat vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:20.964614+00:00"
+    },
+    "record:2114112499343909111": {
+      "hu_text": "ATLAS PULSE | FRISS HÍR: Az olasz miniszterelnök új törvényi rendeletet jelentett be a nemzeti határellenőrzések átalakítására és a regisztrálatlan migránsok gyorsabb kitoloncolására a növekvő biztonsági aggályok közepette.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai bejelentést tartalmaz, de nincs hivatalos forrás vagy részletes dokumentum a rendeletről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:20.964616+00:00"
+    },
+    "record:reddit_1xejn61": {
+      "hu_text": "Victoria választókerületét mélyen megosztotta a COVID-19 pandémia hosszú hatása. Az Asylum Seeker Resource Centre, amely segélyt nyújt a rászorulóknak és ismert jótékonysági szervezet Melbourne-ben, önkénteseinek száma 2019-ben 1227 volt, míg a legutóbbi adatok szerint 491-re csökkent. A pandémia alatt az emberek „elidegenedtek”, és a megélhetési költségek emelkedése miatt kevesebben tudnak önkénteskedni. Bár az önkéntesség lassan növekszik, még mindig nem érte el a pandémia előtti szintet. Ez a minta más viktoriánus jótékonysági szervezeteknél is megfigyelhető, és az államban az önkéntesek aránya alacsonyabb, mint az országos átlag.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Részletes elemzést tartalmaz a pandémia társadalmi hatásairól és az önkéntesség csökkenéséről, de nincs külső forrás vagy statisztikai adat megerősítésként.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:20.964619+00:00"
+    }
+  }
+}
