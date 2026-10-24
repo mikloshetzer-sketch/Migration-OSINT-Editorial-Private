@@ -281,6 +281,62 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1176,
+      "source": "X",
+      "source_post_id": "2113809656669987028",
+      "author": "benjamminvr",
+      "language": "en",
+      "published_at": "2026-10-24T01:47:49Z",
+      "first_detected_at": "2026-10-24T02:16:20Z",
+      "last_detected_at": "2026-10-24T02:16:20Z",
+      "detection_count": 1,
+      "text": "@ICEgov @TheDamaniFelder Almost got run off the road by most likely a migrant truck driver today. Doswama trucking was the tag on the door (printed on Printer paper with duct tape. Guy looked Hindi. Must do more @DisrespectedThe",
+      "text_excerpt": "@ICEgov @TheDamaniFelder Almost got run off the road by most likely a migrant truck driver today. Doswama trucking was the tag on the door (printed on Printer paper with duct tape. Guy looked Hindi. Must do more @DisrespectedThe",
+      "url": "https://x.com/benjamminvr/status/2113809656669987028",
+      "source_url": "https://x.com/benjamminvr/status/2113809656669987028",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrant truck driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant truck driver"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -563,6 +619,62 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1176,
+      "source": "X",
+      "source_post_id": "2113809656669987028",
+      "author": "benjamminvr",
+      "language": "en",
+      "published_at": "2026-10-24T01:47:49Z",
+      "first_detected_at": "2026-10-24T02:16:20Z",
+      "last_detected_at": "2026-10-24T02:16:20Z",
+      "detection_count": 1,
+      "text": "@ICEgov @TheDamaniFelder Almost got run off the road by most likely a migrant truck driver today. Doswama trucking was the tag on the door (printed on Printer paper with duct tape. Guy looked Hindi. Must do more @DisrespectedThe",
+      "text_excerpt": "@ICEgov @TheDamaniFelder Almost got run off the road by most likely a migrant truck driver today. Doswama trucking was the tag on the door (printed on Printer paper with duct tape. Guy looked Hindi. Must do more @DisrespectedThe",
+      "url": "https://x.com/benjamminvr/status/2113809656669987028",
+      "source_url": "https://x.com/benjamminvr/status/2113809656669987028",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrant truck driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant truck driver"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -691,7 +803,246 @@
       "first_collected_at": "2026-10-23T22:44:39Z",
       "last_collected_at": "2026-10-23T22:44:39Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21273",
+      "timestamp": "2026-10-24T02:15:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113816661211877697",
+      "author": "ThinkTank1980s",
+      "url": "https://x.com/ThinkTank1980s/status/2113816661211877697",
+      "source_url": "https://x.com/ThinkTank1980s/status/2113816661211877697",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "@FakeOliverQueen @groyperexplorer @ChiefTrumpster @NickJFuentes 300+ things the Trump Admin has done, libertarians and Black Pillers. \nPart 1: \nRemoved more than 2.6 million illegal aliens from the United States through deportations and voluntary self-departures.\n\nCarried out over 650,000 arrests, detentions, and deportations of illegal",
+      "text_excerpt": "@FakeOliverQueen @groyperexplorer @ChiefTrumpster @NickJFuentes 300+ things the Trump Admin has done, libertarians and Black Pillers. \nPart 1: \nRemoved more than 2.6 million illegal aliens from the United States through deportations and voluntary self-departures.\n\nCarried out over 650,000 arrests, detentions, and deportations of illegal",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T02:16:19Z",
+      "last_collected_at": "2026-10-24T02:16:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21277",
+      "timestamp": "2026-10-24T02:10:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113815480272109787",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2113815480272109787",
+      "source_url": "https://x.com/grok/status/2113815480272109787",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@MoMo163_a @60Minutes No, 60 Minutes has not produced prominent segments centered on American victims of murders or other violent crimes by illegal immigrants. Their immigration reporting has largely examined migrant hardships, smuggling dangers, and deportation practices, including recent",
+      "text_excerpt": "@MoMo163_a @60Minutes No, 60 Minutes has not produced prominent segments centered on American victims of murders or other violent crimes by illegal immigrants. Their immigration reporting has largely examined migrant hardships, smuggling dangers, and deportation practices, including recent",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T02:16:20Z",
+      "last_collected_at": "2026-10-24T02:16:20Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21263",
+      "timestamp": "2026-10-24T01:16:08Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2113801682416992734",
+      "author": "WongFei05333632",
+      "url": "https://x.com/WongFei05333632/status/2113801682416992734",
+      "source_url": "https://x.com/WongFei05333632/status/2113801682416992734",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@NineDragons3 How Greta would fare on a migrant boat crossing the Med?  Just wondering.",
+      "text_excerpt": "@NineDragons3 How Greta would fare on a migrant boat crossing the Med?  Just wondering.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T02:15:46Z",
+      "last_collected_at": "2026-10-24T02:15:46Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-23T22:45:13.518445+00:00"
+  "last_archived_at": "2026-10-24T02:16:59.475015+00:00",
+  "live_events": [
+    {
+      "id": 710,
+      "event_id": 710,
+      "source": "X",
+      "source_post_id": "2113816562805383532",
+      "author": "betabeth007",
+      "published_at": "2026-10-24T02:15:16Z",
+      "collected_at": "2026-10-24T02:16:20Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@daviddunn177 That filthy fn sh-- hole derived pedo-promoting drug trafficking #Thiel immigrant criminal and his chain migration family should be #ICE deported. #Vivek #Ramaswamy #Ohio",
+      "url": "https://x.com/betabeth007/status/2113816562805383532",
+      "source_url": "https://x.com/betabeth007/status/2113816562805383532"
+    },
+    {
+      "id": 711,
+      "event_id": 711,
+      "source": "X",
+      "source_post_id": "2113811464007918012",
+      "author": "AndrewG60213583",
+      "published_at": "2026-10-24T01:55:00Z",
+      "collected_at": "2026-10-24T02:16:50Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@hulme_edward Indigenous inhabitants of Palestine, you say.\nDuring the late Ottoman and British Mandate periods, a wave of Arab workers and migrants came to Palestine from neighboring countries, drawn by infrastructure projects and economic growth. Workers and migrants arrived from several",
+      "url": "https://x.com/AndrewG60213583/status/2113811464007918012",
+      "source_url": "https://x.com/AndrewG60213583/status/2113811464007918012"
+    },
+    {
+      "id": 709,
+      "event_id": 709,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xdg0nu",
+      "author": "XGramatik",
+      "published_at": "2026-10-23T14:44:19Z",
+      "collected_at": "2026-10-24T02:15:48Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "confidence": 0.45,
+      "event_confidence": 0.45,
+      "relevance_score": 20.0,
+      "text": "A new large wave of illegal migration is hitting Spain again. More than 800 boat migrants have arrived in the Canary Islands over the past 48 hours. 3 boats with 205, 170 and 41 illegal migrants have arrived so far today.\nVideo via CanarioToday",
+      "url": "https://www.reddit.com/r/TheDailyChaos/comments/1xdg0nu/a_new_large_wave_of_illegal_migration_is_hitting/",
+      "source_url": "https://www.reddit.com/r/TheDailyChaos/comments/1xdg0nu/a_new_large_wave_of_illegal_migration_is_hitting/"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 569,
+      "group_id": 569,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@daviddunn177 That filthy fn sh-- hole derived pedo-promoting drug trafficking #Thiel immigrant criminal and his chain migration family should be #ICE deported. #Vivek #Ramaswamy #Ohio",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-24T02:15:16Z",
+      "last_seen": "2026-10-24T02:15:16Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-24T02:16:20Z",
+      "updated_at": "2026-10-24T02:16:20Z"
+    },
+    {
+      "id": 570,
+      "group_id": 570,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@hulme_edward Indigenous inhabitants of Palestine, you say.\nDuring the late Ottoman and British Mandate periods, a wave of Arab workers and migrants came to Palestine from neighboring countries, drawn by infrastructure projects and economic growth. Workers and migrants arrived from several",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-24T01:55:00Z",
+      "last_seen": "2026-10-24T01:55:00Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-10-24T02:16:50Z",
+      "updated_at": "2026-10-24T02:16:50Z"
+    }
+  ]
 }
