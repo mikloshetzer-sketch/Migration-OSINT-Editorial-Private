@@ -991,6 +991,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T02:19:47.685976+00:00"
+    },
+    "information:21539": {
+      "hu_text": "Trump hivatalnokok a Legfelsőbb Bírósághoz fordultak, hogy engedélyezzék a határbiztonsági projekt folytatását egy texasi nemzeti parkban. Egy szövetségi bíró a hónap elején megállította a munkálatokat egy környezetvédelmi csoport, természetvédők, egy folyóvezető és földtulajdonos keresete miatt, akik szerint a projekt károsítja a vadvilágot, megvonja az emberektől a tulajdont, megzavarja a megélhetést és elzárja a Rio Grande-hoz való hozzáférést. A 1,7 milliárd dolláros projekt egy útból, kamerákból, érzékelőkből és járműakadályokból áll, de nem terveznek 30 láb magas kerítést. A Trump-kormányzat szerint a munkálatok leállítása súlyosan akadályozza a déli határ védelmét a kartellek, kábítószer-csempészet és illegális belépés ellen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg egy aktuális, jelentős határbiztonsági projektről szól, amely közvetlenül érinti a migrációs helyzetet és a határvédelmet. Az állítások egy bírósági ügy kapcsán hangzanak el, de nincs független megerősítés vagy cáfolat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T19:59:55.544119+00:00"
+    },
+    "information:21554": {
+      "hu_text": "Ez egy szürreális, kaotikus nap története, amelyben gazdag emberek hobbijaival, rendőri intézkedésekkel és abszurd jelenetekkel találkozunk egy neonfényes, mesterséges intelligencia által vezérelt világban. A leírás egy képzeletbeli, szürreális eseménysorozatot mutat be, amely nem kapcsolódik közvetlenül a migrációhoz vagy határbiztonsághoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval vagy határbiztonsággal kapcsolatos releváns információt, inkább egy abszurd, fikciós jelenetsorozatot ír le, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T19:59:55.544140+00:00"
+    },
+    "information:21555": {
+      "hu_text": "Egy férfi, aki az Egyesült Államok Bevándorlási és Vámhivatalának (ICE) őrizetében halt meg Texasban, jogszerű állandó lakos volt, aki évtizedek óta az államban élt. Emiliano Andrade-Covarrubias-t október 17-én találták eszméletlenül a Rio Grande Feldolgozó Központban, Laredóban. Bár orvosi ellátást kapott, beleértve a meglévő egészségügyi problémákat, október 20-án kihirdették a halálát. Az okát még vizsgálják. Az ICE közölte, hogy a férfit június vége óta tartották fogva, és hamis módon szerezte meg az állandó lakosi státuszát, mert nem közölte korábbi letartóztatását.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eset egy bevándorlási őrizetben elhunyt személyhez kapcsolódik, ami fontos humanitárius és migrációs kérdés. Az információk hivatalos forrásokra és családi közlésekre támaszkodnak, de nincs teljes körű független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T19:59:55.544144+00:00"
     }
   },
   "legacy_reviews": {}
