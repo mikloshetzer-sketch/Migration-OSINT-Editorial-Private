@@ -298,6 +298,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T08:32:39.152099+00:00"
+    },
+    "record:mastodon_117494080916584722": {
+      "hu_text": "60 000 migráns árasztotta el Spanyolország Ceuta határát. Spanyolország további biztonsági erőket vezényelt Észak-Afrikában található Ceuta területére, miután egy hatalmas migránshullám lépte át a határt Marokkóból, ami a régió egyik legnagyobb határválságát idézte elő az utóbbi időkben. Ceuta elnöke, Juan Jesús Vivas elmondta, hogy körülbelül...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy jelentős migrációs eseményről számol be, amely határbiztonsági intézkedéseket váltott ki. Az állítás nem ellenőrzött, mivel nincs megbízható forrás vagy hivatalos megerősítés a számadatokra és eseményekre vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:46.984844+00:00"
+    },
+    "record:reddit_1xdpsyo": {
+      "hu_text": "Az Eileen Chang és a „Runology” népszerűségének háttere: a kínai emigránsok nehéz és kiszámíthatatlan sorsa, valamint az elképzelések és a valóság közötti különbség az idegen országokban. A kínai internetes szlengben a „run” (润) szó az angol „run” (futni, menekülni) szóból ered, és arra utal, hogy valaki elhagyja Kínát, hogy elkerülje a nehézségeket vagy katasztrófákat, és új életet keressen máshol. A bejegyzés részletesen tárgyalja Eileen Chang életét és a kínai emigráció jelenségét.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés történelmi és társadalmi háttérinformációkat tartalmaz, nem migrációs eseményről vagy aktuális helyzetről szól. Az állítások nem konkrét tények, hanem elemzések és vélemények, így nincs szükség azonnali ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:46.984863+00:00"
+    },
+    "telegram:1261826972:53790": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról szombat reggel: 1. Szabadon engedték a Guardia Civil által Ceutában őrizetbe vett aktivistákat, akik elnyomást emlegetnek, és tagadják, hogy drogot vagy paprikasprayt adtak volna a bevándorlóknak. 2. Egy tunéziai és egy marokkói férfit felmentettek egy fodrász elleni lopás vádja alól, mert a sértett vallomása nem volt hiteles. 3. Shakespeare Macbeth című tragédiája a Revellín színházban kerül bemutatásra.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés helyi társadalmi és jogi eseményeket ismertet, amelyek közvetve kapcsolódhatnak migrációs témákhoz (aktivisták őrizetbe vétele), de nem migrációs esemény vagy politika közvetlen leírása. Az állítások forrása helyi híroldal, de nincs további bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:46.984868+00:00"
+    },
+    "telegram:1261826972:53791": {
+      "hu_text": "El Faro de Ceuta szombati szerkesztőségi véleménye: Torres minisztert bírálják, amiért Vivas-t vádolja azzal, hogy támogatja a kiskorúak Marokkóba történő visszaküldését, miközben elfelejti, hogy Vivas maga is a szárazföldi Spanyolországba történő áthelyezést szorgalmazta. A cikk szerint a spanyol kormány elsőként támogatta a kiskorúak és felnőttek törvényes visszatoloncolását hazájukba.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és vitát tartalmaz migrációs jogi kérdésekről, de nem tartalmaz konkrét tényállítást vagy bizonyítható adatot. Az állítások ellenőrzése hasznos lehet a politikai diskurzus megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:46.984872+00:00"
     }
   },
   "legacy_reviews": {}
