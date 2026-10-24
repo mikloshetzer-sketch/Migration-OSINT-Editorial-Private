@@ -408,6 +408,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T13:45:55.645567+00:00"
+    },
+    "information:21403": {
+      "hu_text": "Így vadásznak a rendőrségi drónok az Ibizára hajóval érkező illegális migránsokra Spanyolországban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy bizonyíték a drónok használatára az adott helyszínen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:04.995804+00:00"
+    },
+    "information:21404": {
+      "hu_text": "Spanyolországban egy Almería partján partra érkezett migránshajón tíz ember utazott, közülük hárman kisebb sérülésekkel kerültek ellátásra.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az eseményről szóló állítás konkrét, de nincs megerősített forrás vagy részletes bizonyíték a sérültek számáról és a helyszínről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:04.995822+00:00"
+    },
+    "information:21410": {
+      "hu_text": "Nick Shirley vizsgálja az Arizonai határt, majd feltárja, kik keresnek milliókat migránscsempészetből.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy vizsgálatról szól, de nincs közvetlen bizonyíték vagy részletes információ a csempészetben érintettekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:04.995827+00:00"
+    },
+    "information:21419": {
+      "hu_text": "Ilhan Omar (1982. október 4., Mogadishu) gyermekként menekült el a szomáliai polgárháború elől, kenyai menekülttáborban élt, 1995-ben érkezett az Egyesült Államokba, 2000-ben állampolgár lett apja révén. 2001-ben végzett az Edison középiskolában, 2011-ben BA diplomát szerzett az NDSU-n. 2017-19 között a Minnesota állami képviselőház tagja volt (az első szomáliai-amerikai törvényhozó), 2019 óta az Egyesült Államok képviselője MN-5 választókerületben (az első szomáliai-amerikai kongresszusi képviselő). Progresszív politikus.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az életrajzi adatok ellenőrizhetők és megbízható forrásokból származnak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:04.995831+00:00"
+    },
+    "record:2113977665535230222": {
+      "hu_text": "Európai tisztviselők több esetet említenek a migráció elősegítésére. Lettországi hatóságok szerint orosz és fehérorosz hírszerzés segíti a migránsok áramlását a Közel-Keletről és Afrikából az EU határai felé repülőjáratokkal és szállítással, telefonadatok útvonalakat mutatnak Oroszországon keresztül; több mint 11 000 embert fordítottak vissza.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás több ország hírszerzési tevékenységére és migrációs elősegítésre utal, ami jelentős biztonsági kérdés, de nincs nyilvános, független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:04.995835+00:00"
+    },
+    "record:2113978357956124737": {
+      "hu_text": "Jelenleg egy migránskaraván halad az Egyesült Államok felé. Kérdés, hogy érkezésük egybeesik-e a közelgő választásokkal. Ha nem, a helyzet kezelhető; ha igen, az időzítés komoly aggodalomra ad okot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás előrejelzés és politikai kontextusú spekuláció, nincs bizonyíték a karaván pontos érkezési idejére vagy szándékára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:04.995839+00:00"
     }
   },
   "legacy_reviews": {}
