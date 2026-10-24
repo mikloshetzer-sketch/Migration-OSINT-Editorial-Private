@@ -540,6 +540,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T13:46:12.912693+00:00"
+    },
+    "record:reddit_1xe7s2h": {
+      "hu_text": "Őrizetbe vették egy halászhajó kapitányát, aki migránsokat szállított Formenterára. A letartóztatott férfi további migránsokkal való utazást tervezett Algériába, de a hajó motorhiba miatt zátonyra futott Spanyolországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:17.897236+00:00"
+    },
+    "telegram:1229318139:29652": {
+      "hu_text": "Ez egy arab nyelvű hirdetés, amely egy iszlám ruházati üzlet termékeit kínálja kedvezményes áron, beleértve abáját és egyéb kiegészítőket. A poszt nem tartalmaz migrációval kapcsolatos információt.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik a migrációhoz, hanem kereskedelmi jellegű hirdetés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:17.897254+00:00"
+    },
+    "telegram:1261826972:53806": {
+      "hu_text": "A Hazte Oír nevű szervezet fellebbezést nyújtott be a Nemzeti Bírósághoz a ceutai kikötőben létesített migránstábor miatt. A szervezet megtámadja Óscar Puente miniszter döntését, amely engedélyezte a tábor létrehozását a Muelle de Poniente területén, valamint az adminisztratív fellebbezés elutasítását legitimáció hiánya miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy jogi eljárásról számol be, de nincs további megerősítés vagy hivatalos dokumentum a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T13:46:17.897259+00:00"
     }
   },
   "legacy_reviews": {}
