@@ -815,6 +815,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T20:00:07.530531+00:00"
+    },
+    "record:2114080707437801562": {
+      "hu_text": "🚨 FRISS HÍR: Több mint 400 illegális bevándorlót tartóztattak le egy hatalmas ICE rajtaütés során Houstonban – köztük elítélt gyilkosokat és gyermekmolesztálókat is. 🚨\n\nA Fox News kizárólagosan az ICE-vel volt egy héten át tartó akció során Houstonban – és amit felfedeztek, az sokkoló.\n\n💥 422 illegális migráns",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és súlyos bűncselekményeket említ, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlen. Fontos a határbiztonsági események szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:16.718428+00:00"
+    },
+    "record:2114080846982357146": {
+      "hu_text": "@BBCNewsnight @MattChorley A brit rendőrség több száz machetét (kis kardokat) foglalt le, amelyeket menedékkérőknek szállítottak a menekültközpontjukba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét fegyverfoglalásról szól, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:16.718447+00:00"
+    },
+    "record:2114081285711044628": {
+      "hu_text": "@BrianNights01 vannak baloldaliak, akik üdvözlik ezt a szemétládát az országunkban... A brit rendőrség több száz machetét (kis kardokat) foglalt le, amelyeket menedékkérőknek szállítottak a menekültközpontjukba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai véleményt és egy korábbi, ellenőrizetlen állítást tartalmaz, de önmagában nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:16.718451+00:00"
+    },
+    "record:2114081358129565890": {
+      "hu_text": "🚨 FRISS HÍR: Több mint 400 illegális bevándorlót tartóztattak le egy hatalmas ICE rajtaütés során Houstonban – köztük elítélt gyilkosokat és gyermekmolesztálókat is. 🚨\n\nA Fox News kizárólagosan az ICE-vel volt egy héten át tartó akció során Houstonban – és amit felfedeztek, az sokkoló.\n\n💥 422 illegális migráns",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz az állítás, mint az első rekordban, ellenőrizetlen, de fontos határbiztonsági eseményként kezelendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:16.718453+00:00"
+    },
+    "record:2114081687831293986": {
+      "hu_text": "@SianaNache79742 miért akarnak olyanok, mint te, ilyen gazembereket az országunkban... A brit rendőrség több száz machetét (kis kardokat) foglalt le, amelyeket menedékkérőknek szállítottak a menekültközpontjukba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai véleményt és egy korábbi, ellenőrizetlen állítást tartalmaz, önmagában nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:16.718455+00:00"
+    },
+    "record:2114081733356421219": {
+      "hu_text": "@Istillhavelifee @tafolaI8 Az 1652-es inváziósok pont úgy érkeztek, hogy látogatók és menekültek voltak. Ugyanaz a forgatókönyv.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi utalás és vélemény egy migrációs eseményről, nincs bizonyíték a jelenlegi állítás igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T20:00:16.718457+00:00"
     }
   },
   "legacy_reviews": {}
