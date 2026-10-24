@@ -990,6 +990,185 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1188,
+      "source": "X",
+      "source_post_id": "2114040171037376963",
+      "author": "MrHrandomnumber",
+      "language": "en",
+      "published_at": "2026-10-24T17:03:48Z",
+      "first_detected_at": "2026-10-24T17:05:00Z",
+      "last_detected_at": "2026-10-24T17:05:00Z",
+      "detection_count": 1,
+      "text": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "text_excerpt": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "source_url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1189,
+      "source": "X",
+      "source_post_id": "2114034253134504292",
+      "author": "BFirstParty",
+      "language": "en",
+      "published_at": "2026-10-24T16:40:17Z",
+      "first_detected_at": "2026-10-24T17:06:09Z",
+      "last_detected_at": "2026-10-24T17:06:09Z",
+      "detection_count": 1,
+      "text": "41 MIGRANTS LAND BY BOAT NEAR CARTAGENA\n\nA small boat carrying 41 people reached Cala Dentoles near Cabo de Palos in Cartagena, southeast Spain, on Saturday morning, EFE reported, with the Guardia Civil intercepting the group on arrival. Spain's Government Delegation in Murcia https://t.co/cfT33bWvBl",
+      "text_excerpt": "41 MIGRANTS LAND BY BOAT NEAR CARTAGENA\n\nA small boat carrying 41 people reached Cala Dentoles near Cabo de Palos in Cartagena, southeast Spain, on Saturday morning, EFE reported, with the Guardia Civil intercepting the group on arrival. Spain's Government Delegation in Murcia https://t.co/cfT33bWvBl",
+      "url": "https://x.com/BFirstParty/status/2114034253134504292",
+      "source_url": "https://x.com/BFirstParty/status/2114034253134504292",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS LAND BY BOAT NEAR CARTAGENA A small boat carrying 41 people reached"
+        ],
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "Guardia Civil"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS LAND BY BOAT NEAR CARTAGENA A small boat carrying 41 people reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1190,
+      "source": "X",
+      "source_post_id": "2114023221875917270",
+      "author": "lo77799",
+      "language": "en",
+      "published_at": "2026-10-24T15:56:27Z",
+      "first_detected_at": "2026-10-24T17:06:43Z",
+      "last_detected_at": "2026-10-24T17:06:43Z",
+      "detection_count": 1,
+      "text": "Man Caught Smuggling 84 Migrants in Dump Truck https://t.co/wm1RLdhxgu via @YouTube",
+      "text_excerpt": "Man Caught Smuggling 84 Migrants in Dump Truck https://t.co/wm1RLdhxgu via @YouTube",
+      "url": "https://x.com/lo77799/status/2114023221875917270",
+      "source_url": "https://x.com/lo77799/status/2114023221875917270",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Smuggling 84 Migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Smuggling 84 Migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1981,6 +2160,185 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1188,
+      "source": "X",
+      "source_post_id": "2114040171037376963",
+      "author": "MrHrandomnumber",
+      "language": "en",
+      "published_at": "2026-10-24T17:03:48Z",
+      "first_detected_at": "2026-10-24T17:05:00Z",
+      "last_detected_at": "2026-10-24T17:05:00Z",
+      "detection_count": 1,
+      "text": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "text_excerpt": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "source_url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1189,
+      "source": "X",
+      "source_post_id": "2114034253134504292",
+      "author": "BFirstParty",
+      "language": "en",
+      "published_at": "2026-10-24T16:40:17Z",
+      "first_detected_at": "2026-10-24T17:06:09Z",
+      "last_detected_at": "2026-10-24T17:06:09Z",
+      "detection_count": 1,
+      "text": "41 MIGRANTS LAND BY BOAT NEAR CARTAGENA\n\nA small boat carrying 41 people reached Cala Dentoles near Cabo de Palos in Cartagena, southeast Spain, on Saturday morning, EFE reported, with the Guardia Civil intercepting the group on arrival. Spain's Government Delegation in Murcia https://t.co/cfT33bWvBl",
+      "text_excerpt": "41 MIGRANTS LAND BY BOAT NEAR CARTAGENA\n\nA small boat carrying 41 people reached Cala Dentoles near Cabo de Palos in Cartagena, southeast Spain, on Saturday morning, EFE reported, with the Guardia Civil intercepting the group on arrival. Spain's Government Delegation in Murcia https://t.co/cfT33bWvBl",
+      "url": "https://x.com/BFirstParty/status/2114034253134504292",
+      "source_url": "https://x.com/BFirstParty/status/2114034253134504292",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS LAND BY BOAT NEAR CARTAGENA A small boat carrying 41 people reached"
+        ],
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "Guardia Civil"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS LAND BY BOAT NEAR CARTAGENA A small boat carrying 41 people reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1190,
+      "source": "X",
+      "source_post_id": "2114023221875917270",
+      "author": "lo77799",
+      "language": "en",
+      "published_at": "2026-10-24T15:56:27Z",
+      "first_detected_at": "2026-10-24T17:06:43Z",
+      "last_detected_at": "2026-10-24T17:06:43Z",
+      "detection_count": 1,
+      "text": "Man Caught Smuggling 84 Migrants in Dump Truck https://t.co/wm1RLdhxgu via @YouTube",
+      "text_excerpt": "Man Caught Smuggling 84 Migrants in Dump Truck https://t.co/wm1RLdhxgu via @YouTube",
+      "url": "https://x.com/lo77799/status/2114023221875917270",
+      "source_url": "https://x.com/lo77799/status/2114023221875917270",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Smuggling 84 Migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Smuggling 84 Migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -2313,6 +2671,159 @@
       ],
       "related_urls": [
         "https://x.com/LuckyHeidiG25/status/2113908443186696578"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1188,
+      "source": "X",
+      "source_post_id": "2114040171037376963",
+      "author": "MrHrandomnumber",
+      "language": "en",
+      "published_at": "2026-10-24T17:03:48Z",
+      "first_detected_at": "2026-10-24T17:05:00Z",
+      "last_detected_at": "2026-10-24T17:05:00Z",
+      "detection_count": 1,
+      "text": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "text_excerpt": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "source_url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2114040171037376963"
+      ],
+      "related_authors": [
+        "MrHrandomnumber"
+      ],
+      "related_urls": [
+        "https://x.com/MrHrandomnumber/status/2114040171037376963"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1189,
+      "source": "X",
+      "source_post_id": "2114034253134504292",
+      "author": "BFirstParty",
+      "language": "en",
+      "published_at": "2026-10-24T16:40:17Z",
+      "first_detected_at": "2026-10-24T17:06:09Z",
+      "last_detected_at": "2026-10-24T17:06:09Z",
+      "detection_count": 1,
+      "text": "41 MIGRANTS LAND BY BOAT NEAR CARTAGENA\n\nA small boat carrying 41 people reached Cala Dentoles near Cabo de Palos in Cartagena, southeast Spain, on Saturday morning, EFE reported, with the Guardia Civil intercepting the group on arrival. Spain's Government Delegation in Murcia https://t.co/cfT33bWvBl",
+      "text_excerpt": "41 MIGRANTS LAND BY BOAT NEAR CARTAGENA\n\nA small boat carrying 41 people reached Cala Dentoles near Cabo de Palos in Cartagena, southeast Spain, on Saturday morning, EFE reported, with the Guardia Civil intercepting the group on arrival. Spain's Government Delegation in Murcia https://t.co/cfT33bWvBl",
+      "url": "https://x.com/BFirstParty/status/2114034253134504292",
+      "source_url": "https://x.com/BFirstParty/status/2114034253134504292",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS LAND BY BOAT NEAR CARTAGENA A small boat carrying 41 people reached"
+        ],
+        [
+          "route",
+          "BOAT"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "Guardia Civil"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS LAND BY BOAT NEAR CARTAGENA A small boat carrying 41 people reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2114034253134504292"
+      ],
+      "related_authors": [
+        "BFirstParty"
+      ],
+      "related_urls": [
+        "https://x.com/BFirstParty/status/2114034253134504292"
       ],
       "related_sources": [
         "X"
@@ -2931,9 +3442,381 @@
       "first_collected_at": "2026-10-24T13:43:32Z",
       "last_collected_at": "2026-10-24T13:43:32Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21430",
+      "timestamp": "2026-10-24T17:03:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114040206760280421",
+      "author": "Foodlover52312",
+      "url": "https://x.com/Foodlover52312/status/2114040206760280421",
+      "source_url": "https://x.com/Foodlover52312/status/2114040206760280421",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@andrewhesselden Andrew Hesselden's firm Coralfish would benefit from rejoining the EU by eliminating Brexit red tape, restoring free movement, and easing cross-border trade\n\nHe doesn't care if cheap EU migrants make you and your children unemployed.",
+      "text_excerpt": "@andrewhesselden Andrew Hesselden's firm Coralfish would benefit from rejoining the EU by eliminating Brexit red tape, restoring free movement, and easing cross-border trade\n\nHe doesn't care if cheap EU migrants make you and your children unemployed.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:05:00Z",
+      "last_collected_at": "2026-10-24T17:05:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21449",
+      "timestamp": "2026-10-24T17:00:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114039450955100399",
+      "author": "neuropantser1",
+      "url": "https://x.com/neuropantser1/status/2114039450955100399",
+      "source_url": "https://x.com/neuropantser1/status/2114039450955100399",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "detention",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@_cjt_ @gelliottmorris democrats be like \"we're very different from our only domestic political ally and legislative partners, the fascist GOP, because we do the good kind of mass deportation and migrant detention. we build the good racist border walls. we commit the good holocausts.\"",
+      "text_excerpt": "@_cjt_ @gelliottmorris democrats be like \"we're very different from our only domestic political ally and legislative partners, the fascist GOP, because we do the good kind of mass deportation and migrant detention. we build the good racist border walls. we commit the good holocausts.\"",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:05:36Z",
+      "last_collected_at": "2026-10-24T17:05:36Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21460",
+      "timestamp": "2026-10-24T16:59:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114038978584404386",
+      "author": "UniqueGav",
+      "url": "https://x.com/UniqueGav/status/2114038978584404386",
+      "source_url": "https://x.com/UniqueGav/status/2114038978584404386",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "boat",
+        "interception"
+      ],
+      "freshness_cues": [],
+      "text": "@HighlanderRSR @Triplextra1 If the Uk wanted to murder refugees it could easily defend the channel, the fact nearly all boats are intercepted before they hit shore would suggest we could if we wanted to destroy the boats and murder everyone on board.",
+      "text_excerpt": "@HighlanderRSR @Triplextra1 If the Uk wanted to murder refugees it could easily defend the channel, the fact nearly all boats are intercepted before they hit shore would suggest we could if we wanted to destroy the boats and murder everyone on board.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:06:09Z",
+      "last_collected_at": "2026-10-24T17:06:09Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21452",
+      "timestamp": "2026-10-24T16:57:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114038618947784762",
+      "author": "1776Patriot32",
+      "url": "https://x.com/1776Patriot32/status/2114038618947784762",
+      "source_url": "https://x.com/1776Patriot32/status/2114038618947784762",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "The border is only half the game. We still have all the migrants from Biden in the interior, and those are the ones who hurt small town America the most. You want to prove to us that you can change our lives? Deport illegals, it's tangible, that counts Big time for voters.",
+      "text_excerpt": "The border is only half the game. We still have all the migrants from Biden in the interior, and those are the ones who hurt small town America the most. You want to prove to us that you can change our lives? Deport illegals, it's tangible, that counts Big time for voters.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:05:36Z",
+      "last_collected_at": "2026-10-24T17:05:36Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21461",
+      "timestamp": "2026-10-24T16:54:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114037942490735046",
+      "author": "AttorneyAmitabh",
+      "url": "https://x.com/AttorneyAmitabh/status/2114037942490735046",
+      "source_url": "https://x.com/AttorneyAmitabh/status/2114037942490735046",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "TERRIFYING: More than 10,000 illegal immigrants have arrived by boat on Italian island of Lampedusa this year, far exceeding the local population of only 6,000 people\n\nSince 2023, the numbers are even more shocking. Almost 200,000 migrants have passed through this tiny island https://t.co/qYzzNV2Na3",
+      "text_excerpt": "TERRIFYING: More than 10,000 illegal immigrants have arrived by boat on Italian island of Lampedusa this year, far exceeding the local population of only 6,000 people\n\nSince 2023, the numbers are even more shocking. Almost 200,000 migrants have passed through this tiny island https://t.co/qYzzNV2Na3",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:06:09Z",
+      "last_collected_at": "2026-10-24T17:06:09Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21463",
+      "timestamp": "2026-10-24T16:53:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114037628450259138",
+      "author": "AndrewBrin34878",
+      "url": "https://x.com/AndrewBrin34878/status/2114037628450259138",
+      "source_url": "https://x.com/AndrewBrin34878/status/2114037628450259138",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@andrewhesselden Hop on a small boat and arrive at Calais claim your an migrant ,might even get free housing, food ,free medical care",
+      "text_excerpt": "@andrewhesselden Hop on a small boat and arrive at Calais claim your an migrant ,might even get free housing, food ,free medical care",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:06:09Z",
+      "last_collected_at": "2026-10-24T17:06:09Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21468",
+      "timestamp": "2026-10-24T16:13:45Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114027577614418119",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2114027577614418119",
+      "source_url": "https://x.com/grok/status/2114027577614418119",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@ZenSplasher @Karungisera2 There is no official UK government estimate of undocumented migrants. The Home Office states it is not possible to know the exact number. Independent estimates based on 2017 data range roughly 600,000-900,000. About 21,000 small-boat arrivals have been recorded so far in 2026.",
+      "text_excerpt": "@ZenSplasher @Karungisera2 There is no official UK government estimate of undocumented migrants. The Home Office states it is not possible to know the exact number. Independent estimates based on 2017 data range roughly 600,000-900,000. About 21,000 small-boat arrivals have been recorded so far in 2026.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:06:10Z",
+      "last_collected_at": "2026-10-24T17:06:10Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21480",
+      "timestamp": "2026-10-24T16:01:09Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114024405236101429",
+      "author": "Paul32908",
+      "url": "https://x.com/Paul32908/status/2114024405236101429",
+      "source_url": "https://x.com/Paul32908/status/2114024405236101429",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Nick Shirley investigates the Arizona border then finds who’s making millions from migrant smuggling https://t.co/sU6rBHCzrR",
+      "text_excerpt": "Nick Shirley investigates the Arizona border then finds who’s making millions from migrant smuggling https://t.co/sU6rBHCzrR",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:06:43Z",
+      "last_collected_at": "2026-10-24T17:06:43Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21456",
+      "timestamp": "2026-10-24T09:04:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xe3uik",
+      "author": "bloomberg",
+      "url": "https://www.reddit.com/r/Foodforthought/comments/1xe3uik/migrants_die_crossing_borders_their_families_are/",
+      "source_url": "https://www.reddit.com/r/Foodforthought/comments/1xe3uik/migrants_die_crossing_borders_their_families_are/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Migrants Die Crossing Borders. Their Families Are Left Searching",
+      "text_excerpt": "Migrants Die Crossing Borders. Their Families Are Left Searching",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:05:37Z",
+      "last_collected_at": "2026-10-24T17:05:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21457",
+      "timestamp": "2026-10-24T09:04:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xe3udc",
+      "author": "bloomberg",
+      "url": "https://www.reddit.com/r/immigration/comments/1xe3udc/migrants_die_crossing_borders_their_families_are/",
+      "source_url": "https://www.reddit.com/r/immigration/comments/1xe3udc/migrants_die_crossing_borders_their_families_are/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Migrants Die Crossing Borders. Their Families Are Left Searching\nWhen people die making dangerous journeys, fragmented systems can leave their bodies unidentified and cemeteries dotted with numbered graves.",
+      "text_excerpt": "Migrants Die Crossing Borders. Their Families Are Left Searching\nWhen people die making dangerous journeys, fragmented systems can leave their bodies unidentified and cemeteries dotted with numbered graves.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T17:05:37Z",
+      "last_collected_at": "2026-10-24T17:05:37Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-24T13:45:42.249273+00:00",
+  "last_archived_at": "2026-10-24T17:07:22.122629+00:00",
   "live_events": [
     {
       "id": 710,
@@ -3132,6 +4015,28 @@
       "text": "New operation south of Crete: 42 migrants rescued off Gavdos | Greece\nSource",
       "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xe7py0/new_operation_south_of_crete_42_migrants_rescued/",
       "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xe7py0/new_operation_south_of_crete_42_migrants_rescued/"
+    },
+    {
+      "id": 718,
+      "event_id": 718,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117496851488040178",
+      "author": null,
+      "published_at": "2026-10-24T16:34:32Z",
+      "collected_at": "2026-10-24T17:06:10Z",
+      "event_type": "CASUALTY",
+      "signal_type": "CASUALTY",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.45,
+      "event_confidence": 0.45,
+      "relevance_score": 0.0,
+      "text": "Eight bodies recovered sfter avalanche on broad pe… Skardu: Rescue teams have recovered the bodies of eight climbers who went missing after a massive avalanche struck Broad Peak, one of the world’s highest mountains, in northern Pakistan. The tragic incident has shocked the international mountaineering commun… https:// justpaste.in/news/eight-bodies -recovered-sfter-avalanche-on-broad-peak/ # National # rescue # climbers # bodies # broad",
+      "url": "https://mastodon.social/@justpaste/117496851488040178",
+      "source_url": "https://mastodon.social/@justpaste/117496851488040178"
     }
   ],
   "event_groups": [
@@ -3308,6 +4213,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-24T13:43:32Z",
       "updated_at": "2026-10-24T13:43:32Z"
+    },
+    {
+      "id": 575,
+      "group_id": 575,
+      "event_type": "CASUALTY",
+      "dominant_event_type": "CASUALTY",
+      "title": "CASUALTY",
+      "representative_text": "Eight bodies recovered sfter avalanche on broad pe… Skardu: Rescue teams have recovered the bodies of eight climbers who went missing after a massive avalanche struck Broad Peak, one of the world’s highest mountains, in northern Pakistan. The tragic incident has shocked the international mountaineering commun… https:// justpaste.in/news/eight-bodies -recovered-sfter-avalanche-on-broad-peak/ # National # rescue # climbers # bodies # broad",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-24T16:34:32Z",
+      "last_seen": "2026-10-24T16:34:32Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "MASTODON"
+      ],
+      "sources": [
+        "MASTODON"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.45,
+      "average_confidence": 0.45,
+      "created_at": "2026-10-24T17:06:10Z",
+      "updated_at": "2026-10-24T17:06:10Z"
     }
   ],
   "telegram_posts": [
@@ -3374,6 +4308,186 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1188,
+      "source": "X",
+      "source_post_id": "2114040171037376963",
+      "author": "MrHrandomnumber",
+      "language": "en",
+      "published_at": "2026-10-24T17:03:48Z",
+      "first_detected_at": "2026-10-24T17:05:00Z",
+      "last_detected_at": "2026-10-24T17:05:00Z",
+      "detection_count": 1,
+      "text": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "text_excerpt": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "source_url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1188,
+      "source": "X",
+      "source_post_id": "2114040171037376963",
+      "author": "MrHrandomnumber",
+      "language": "en",
+      "published_at": "2026-10-24T17:03:48Z",
+      "first_detected_at": "2026-10-24T17:05:00Z",
+      "last_detected_at": "2026-10-24T17:05:00Z",
+      "detection_count": 1,
+      "text": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "text_excerpt": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "source_url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1188,
+      "source": "X",
+      "source_post_id": "2114040171037376963",
+      "author": "MrHrandomnumber",
+      "language": "en",
+      "published_at": "2026-10-24T17:03:48Z",
+      "first_detected_at": "2026-10-24T17:05:00Z",
+      "last_detected_at": "2026-10-24T17:05:00Z",
+      "detection_count": 1,
+      "text": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "text_excerpt": "@SteveAt69818704 ECHR laws get used in asylum courts everyday to protect migrant , r*pist, p*edo scum .\nFacts",
+      "url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "source_url": "https://x.com/MrHrandomnumber/status/2114040171037376963",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2114040171037376963"
+      ],
+      "related_authors": [
+        "MrHrandomnumber"
+      ],
+      "related_urls": [
+        "https://x.com/MrHrandomnumber/status/2114040171037376963"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
