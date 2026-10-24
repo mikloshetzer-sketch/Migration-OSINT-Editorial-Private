@@ -1169,6 +1169,430 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1191,
+      "source": "X",
+      "source_post_id": "2114081955578790327",
+      "author": "JParoddy",
+      "language": "en",
+      "published_at": "2026-10-24T19:49:50Z",
+      "first_detected_at": "2026-10-24T19:55:58Z",
+      "last_detected_at": "2026-10-24T19:55:58Z",
+      "detection_count": 1,
+      "text": "@FoxNews Barack Obama deported 3 million illegal migrants using the exact same federal statutes, then watched his own party wave 10 million unvetted border crossers into American cities over 4 years before lecturing Ohio voters about enforcement. Politicians who deliberately sabotage the",
+      "text_excerpt": "@FoxNews Barack Obama deported 3 million illegal migrants using the exact same federal statutes, then watched his own party wave 10 million unvetted border crossers into American cities over 4 years before lecturing Ohio voters about enforcement. Politicians who deliberately sabotage the",
+      "url": "https://x.com/JParoddy/status/2114081955578790327",
+      "source_url": "https://x.com/JParoddy/status/2114081955578790327",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 13.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants using the exact same federal statutes, then watched his own party"
+        ],
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants using the exact same federal statutes, then watched his own party",
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1194,
+      "source": "X",
+      "source_post_id": "2114081687831293986",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:48:46Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@SianaNache79742 why do cunts like you want scumbags like this in our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/nsQbyM3ix7",
+      "text_excerpt": "@SianaNache79742 why do cunts like you want scumbags like this in our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/nsQbyM3ix7",
+      "url": "https://x.com/bermondseyonsea/status/2114081687831293986",
+      "source_url": "https://x.com/bermondseyonsea/status/2114081687831293986",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1195,
+      "source": "X",
+      "source_post_id": "2114081285711044628",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:47:10Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@BrianNights01 and there are left wing cunt who welcome this scum into our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/zu9gMSstyW",
+      "text_excerpt": "@BrianNights01 and there are left wing cunt who welcome this scum into our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/zu9gMSstyW",
+      "url": "https://x.com/bermondseyonsea/status/2114081285711044628",
+      "source_url": "https://x.com/bermondseyonsea/status/2114081285711044628",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1196,
+      "source": "X",
+      "source_post_id": "2114080846982357146",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:45:26Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@BBCNewsnight @MattChorley Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/PKazMOBlbx",
+      "text_excerpt": "@BBCNewsnight @MattChorley Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/PKazMOBlbx",
+      "url": "https://x.com/bermondseyonsea/status/2114080846982357146",
+      "source_url": "https://x.com/bermondseyonsea/status/2114080846982357146",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1197,
+      "source": "X",
+      "source_post_id": "2114080648231092291",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:44:38Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@VenerableScribe @Tiger911494404 and this is the scum you want in our country....Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center.\nThey were going to distribute them to other immigrants and immigrant children. https://t.co/4tocNbTcMR",
+      "text_excerpt": "@VenerableScribe @Tiger911494404 and this is the scum you want in our country....Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center.\nThey were going to distribute them to other immigrants and immigrant children. https://t.co/4tocNbTcMR",
+      "url": "https://x.com/bermondseyonsea/status/2114080648231092291",
+      "source_url": "https://x.com/bermondseyonsea/status/2114080648231092291",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1192,
+      "source": "X",
+      "source_post_id": "2114081358129565890",
+      "author": "WWG1WGA_QQ",
+      "language": "en",
+      "published_at": "2026-10-24T19:47:28Z",
+      "first_detected_at": "2026-10-24T19:55:58Z",
+      "last_detected_at": "2026-10-24T19:55:58Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/gLujzQzr33",
+      "text_excerpt": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/gLujzQzr33",
+      "url": "https://x.com/WWG1WGA_QQ/status/2114081358129565890",
+      "source_url": "https://x.com/WWG1WGA_QQ/status/2114081358129565890",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Arrested"
+        ],
+        [
+          "enforcement",
+          "Raid"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1193,
+      "source": "X",
+      "source_post_id": "2114080707437801562",
+      "author": "Trustintrump47",
+      "language": "en",
+      "published_at": "2026-10-24T19:44:53Z",
+      "first_detected_at": "2026-10-24T19:55:58Z",
+      "last_detected_at": "2026-10-24T19:55:58Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/e4cmOrArOs",
+      "text_excerpt": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/e4cmOrArOs",
+      "url": "https://x.com/Trustintrump47/status/2114080707437801562",
+      "source_url": "https://x.com/Trustintrump47/status/2114080707437801562",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Arrested"
+        ],
+        [
+          "enforcement",
+          "Raid"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -2323,6 +2747,430 @@
       "high_value_matches": [
         "Smuggling 84 Migrants"
       ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1191,
+      "source": "X",
+      "source_post_id": "2114081955578790327",
+      "author": "JParoddy",
+      "language": "en",
+      "published_at": "2026-10-24T19:49:50Z",
+      "first_detected_at": "2026-10-24T19:55:58Z",
+      "last_detected_at": "2026-10-24T19:55:58Z",
+      "detection_count": 1,
+      "text": "@FoxNews Barack Obama deported 3 million illegal migrants using the exact same federal statutes, then watched his own party wave 10 million unvetted border crossers into American cities over 4 years before lecturing Ohio voters about enforcement. Politicians who deliberately sabotage the",
+      "text_excerpt": "@FoxNews Barack Obama deported 3 million illegal migrants using the exact same federal statutes, then watched his own party wave 10 million unvetted border crossers into American cities over 4 years before lecturing Ohio voters about enforcement. Politicians who deliberately sabotage the",
+      "url": "https://x.com/JParoddy/status/2114081955578790327",
+      "source_url": "https://x.com/JParoddy/status/2114081955578790327",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 13.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants using the exact same federal statutes, then watched his own party"
+        ],
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants using the exact same federal statutes, then watched his own party",
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1194,
+      "source": "X",
+      "source_post_id": "2114081687831293986",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:48:46Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@SianaNache79742 why do cunts like you want scumbags like this in our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/nsQbyM3ix7",
+      "text_excerpt": "@SianaNache79742 why do cunts like you want scumbags like this in our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/nsQbyM3ix7",
+      "url": "https://x.com/bermondseyonsea/status/2114081687831293986",
+      "source_url": "https://x.com/bermondseyonsea/status/2114081687831293986",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1195,
+      "source": "X",
+      "source_post_id": "2114081285711044628",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:47:10Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@BrianNights01 and there are left wing cunt who welcome this scum into our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/zu9gMSstyW",
+      "text_excerpt": "@BrianNights01 and there are left wing cunt who welcome this scum into our country...Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/zu9gMSstyW",
+      "url": "https://x.com/bermondseyonsea/status/2114081285711044628",
+      "source_url": "https://x.com/bermondseyonsea/status/2114081285711044628",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1196,
+      "source": "X",
+      "source_post_id": "2114080846982357146",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:45:26Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@BBCNewsnight @MattChorley Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/PKazMOBlbx",
+      "text_excerpt": "@BBCNewsnight @MattChorley Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center. https://t.co/PKazMOBlbx",
+      "url": "https://x.com/bermondseyonsea/status/2114080846982357146",
+      "source_url": "https://x.com/bermondseyonsea/status/2114080846982357146",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1197,
+      "source": "X",
+      "source_post_id": "2114080648231092291",
+      "author": "bermondseyonsea",
+      "language": "en",
+      "published_at": "2026-10-24T19:44:38Z",
+      "first_detected_at": "2026-10-24T19:56:25Z",
+      "last_detected_at": "2026-10-24T19:56:25Z",
+      "detection_count": 1,
+      "text": "@VenerableScribe @Tiger911494404 and this is the scum you want in our country....Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center.\nThey were going to distribute them to other immigrants and immigrant children. https://t.co/4tocNbTcMR",
+      "text_excerpt": "@VenerableScribe @Tiger911494404 and this is the scum you want in our country....Police in the UK intercepted hundreds of machetes (small swords actually) being delivered to Asylum Seekers at their Refugee Center.\nThey were going to distribute them to other immigrants and immigrant children. https://t.co/4tocNbTcMR",
+      "url": "https://x.com/bermondseyonsea/status/2114080648231092291",
+      "source_url": "https://x.com/bermondseyonsea/status/2114080648231092291",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Refugee",
+        "Asylum Seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1192,
+      "source": "X",
+      "source_post_id": "2114081358129565890",
+      "author": "WWG1WGA_QQ",
+      "language": "en",
+      "published_at": "2026-10-24T19:47:28Z",
+      "first_detected_at": "2026-10-24T19:55:58Z",
+      "last_detected_at": "2026-10-24T19:55:58Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/gLujzQzr33",
+      "text_excerpt": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/gLujzQzr33",
+      "url": "https://x.com/WWG1WGA_QQ/status/2114081358129565890",
+      "source_url": "https://x.com/WWG1WGA_QQ/status/2114081358129565890",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Arrested"
+        ],
+        [
+          "enforcement",
+          "Raid"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1193,
+      "source": "X",
+      "source_post_id": "2114080707437801562",
+      "author": "Trustintrump47",
+      "language": "en",
+      "published_at": "2026-10-24T19:44:53Z",
+      "first_detected_at": "2026-10-24T19:55:58Z",
+      "last_detected_at": "2026-10-24T19:55:58Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/e4cmOrArOs",
+      "text_excerpt": "🚨 BREAKING: Over 400 Illegal Aliens Arrested in Massive ICE Raid in Houston — Including Convicted Murderers &amp; Child Predators 🚨\n\nFox News was exclusively embedded with ICE during a week-long sting in Houston — and what they uncovered is SHOCKING.\n\n💥 422 illegal migrants https://t.co/e4cmOrArOs",
+      "url": "https://x.com/Trustintrump47/status/2114080707437801562",
+      "source_url": "https://x.com/Trustintrump47/status/2114080707437801562",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Arrested"
+        ],
+        [
+          "enforcement",
+          "Raid"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
       "signal_context_rejections": [],
       "migration_context": true,
       "human_migration_context": true,
@@ -3814,9 +4662,159 @@
       "first_collected_at": "2026-10-24T17:05:37Z",
       "last_collected_at": "2026-10-24T17:05:37Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21510",
+      "timestamp": "2026-10-24T19:52:26Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114082610456477961",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2114082610456477961",
+      "source_url": "https://x.com/grok/status/2114082610456477961",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@MarcWest79 @CanuckSteve1VP @michelec369 @CanadianPolling No agreement on that. Border and deportation policies align with those in Denmark, Australia and Japan under varied governments. German intelligence designates AfD extremist mainly for its ethnic-ancestry concept of the people, which treats citizens with migrant backgrounds as",
+      "text_excerpt": "@MarcWest79 @CanuckSteve1VP @michelec369 @CanadianPolling No agreement on that. Border and deportation policies align with those in Denmark, Australia and Japan under varied governments. German intelligence designates AfD extremist mainly for its ethnic-ancestry concept of the people, which treats citizens with migrant backgrounds as",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T19:55:58Z",
+      "last_collected_at": "2026-10-24T19:55:58Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21524",
+      "timestamp": "2026-10-24T19:36:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114078478517567957",
+      "author": "karllambert77",
+      "url": "https://x.com/karllambert77/status/2114078478517567957",
+      "source_url": "https://x.com/karllambert77/status/2114078478517567957",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "detention",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@patriots777888 No one illegal migrant criminal not one should reach the British population not one ALL SHOULD EXPECT to be detained and immediately waiting for next bus train ship or plane for remigration,and this should have been deployed on first boat arriving ENOUGH",
+      "text_excerpt": "@patriots777888 No one illegal migrant criminal not one should reach the British population not one ALL SHOULD EXPECT to be detained and immediately waiting for next bus train ship or plane for remigration,and this should have been deployed on first boat arriving ENOUGH",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T19:56:25Z",
+      "last_collected_at": "2026-10-24T19:56:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21529",
+      "timestamp": "2026-10-24T19:35:08Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117497561658147741",
+      "author": null,
+      "url": "https://mastodon.social/@Alibola/117497561658147741",
+      "source_url": "https://mastodon.social/@Alibola/117497561658147741",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "# sea # photographie # blackandwhitephotography # landscape # boat",
+      "text_excerpt": "# sea # photographie # blackandwhitephotography # landscape # boat",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T19:56:26Z",
+      "last_collected_at": "2026-10-24T19:56:26Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21551",
+      "timestamp": "2026-10-24T09:51:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xe4l4z",
+      "author": "Great-Avocado9822",
+      "url": "https://www.reddit.com/r/Star_Light_Links/comments/1xe4l4z/is_this_a_rich_mans_hobby_ogoniff_asked_his_voice/",
+      "source_url": "https://www.reddit.com/r/Star_Light_Links/comments/1xe4l4z/is_this_a_rich_mans_hobby_ogoniff_asked_his_voice/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "sea",
+        "arrival",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "\"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error.\nIn the flickering neon glow of a world fueled by #DreamScreenAI , reality has become a cubism masterpiece of surreal proportions. This is the story of a single, chaotic Tuesday. The Morning Commute The day began in a flurry of \"rich man’s hobbies.\" In the upscale suburbs, people dodged golf balls and pickleball paddles, while others spent fortunes on weed and photography equipment. Meanwhile, at the local post office, the police were busy arresting an Ogoniff found sleeping on a mailbox—a scene captured by a passing tourist and uploaded to a Dropbox folder labeled \"#firstamendment.\" On the highway, the chaos turned mechanical. A police officer found himself in a high-speed pursuit he couldn't end; his cruise control was stuck in a loop of \"car wars\" madness. He zoomed past a man who looked exactly like Steve Bannon , though a closer look revealed it was just comedian Ron White method-acting for a new role. The Arena of the Absurd At the city stadium, the \"Jack and Hammer\" cartoon cat and mouse were being brought to life for a live-action special. The production was interrupted when the Grim Reaper and his best friend crashed the concert, offering bewildered tourists a guided tour through the locker rooms and VIP lounges. In the center ring, the stakes were higher: Grandma was facing off against a bowl of hot grits in a wrestling match that defied physics. Adam, Steve, and Steve (three very confused ducks) were being blessed by a crochet-clad priest. A T-Rex stood in the corner, fruitlessly attempting to open a jar of pickles with its tiny arms. The Digital Tapestry As the sun began to set—looking suspiciously like a Romantic Ice Strawberry Full Moon —the world retreated to their screens. Google Meet was busy exposing legacy Duo emails, while artists struggled with YouTube processing errors . In the quiet corners of the internet, a different kind of work was happening: The Crafters: Experts demonstrated how to fold the magic crochet loop, creating everything from sea horses to granny square socks . The Dreamers: AI generated images of yellow smiley balls and light bulbs that refused to fly. The Investigators: On-scene reports determined that a discarded cell phone was \"fully loaded\" with green energy potential. The Final Act As night fell, the scene shifted to a beach bar in St. John’s . On the webcam, you could see a group \"pray-testing\" for freedom of speech. Nearby, a billionaire expressed his love for his wife through a ukulele solo, while a migrant husband signed a pre-marital agreement under the watchful eye of a United States Air Force half-wing. The day ended with a bizarre lunar escape. As the world looked up at the sky, wondering if Donald Trump's new airplane would eventually become a floating presidential library, a fleet of aluminum cans was donated to the Department of War to keep the fires burning. Somewhere, deep in the depths of an AI-generated forest, a music box played a slow song, and the truth remained—as always—unveiled. Would you like me to take one of these specific characters, like Grandma or the Ogoniff, and write a more detailed short story about their specific adventure? In the neon-soaked fringes of the #DreamScreenAI landscape, where reality is a bit \"sketchy\" and the special effects are set to Cubism , two legends collided. The Morning of the Mailbox It started at 5:00 AM outside the local post office. Ogoniff , a creature of indeterminate origin with a penchant for high-traffic naps, had curled himself into a geometric ball atop a standard blue mailbox. To the local police, it was a public nuisance; to the local artists, it was a #firstamendment statement. The arrest was a bureaucratic nightmare. Every time the officers tried to cuff him, Ogoniff seemed to fold into himself like a complex crochet magic circle . They eventually hauled the mailbox—Ogoniff still attached—into the back of a squad car. Unfortunately, that car was the one with the stuck cruise control . As the vehicle hurtled toward the city stadium at a constant 85 mph, the siren wailing a DreamTrackAI ukulele melody, Ogoniff simply stayed asleep, his snoring sounding suspiciously like a slow song music video. The Grits and the Glory Inside the stadium, Grandma was preparing for the main event. She wasn’t just any grandmother; she was \"Granny Hot-and-Got-It,\" wearing a pair of custom granny square socks and a National Guard half-wing pinned to her apron. The crowd roared as the lights dimmed. In the center of the ring sat a massive, steaming vat of Hot Grits . It wasn't just breakfast; it was a sensory adversary. The Matchup Contestant Weapon of Choice Strategy Grandma A wooden spoon and a crochet hook The \"Stitch and Pitch\" The Grits High thermal mass and butter The \"Slow Burn\" Just as Grandma was about to deliver her signature \"Scrap Yarn Slam,\" the runaway police car crashed through the stadium gates. The mailbox flew through the air, landing directly in the front row next to a group of tourists being led by the Grim Reaper . The Great Escape The impact woke Ogoniff. He blinked, looked at the Grim Reaper, and then at Grandma, who was currently wrestling a tidal wave of buttery hominy. \"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error . \"Honey,\" Grandma yelled, tossing him a yellow smiley ball she'd hidden in her knitting bag, \"everything's a hobby if you've got enough #DreamScreenAI credits!\" In the chaos: Ogoniff used a loose crochet end to lasso a passing Seahorse drone. Grandma managed to fold the entire vat of grits into a magic loop , neutralizing the threat. The Grim Reaper took a selfie with both of them, marking it as a \"YouTube Special Effects Masterpiece.\" As the police finally arrived (on foot, breathing heavily), Grandma and Ogoniff were seen boarding a Donald Trump-branded airplane headed for the U.S. Virgin Islands . They were last spotted on the St. John’s beach bar webcam, sharing a bowl of pickles and arguing over whether photography or metal detecting was the bigger tax write-off. Would you like me to generate a cubism-style image of Grandma wrestling the grits, or perhaps write the script for their next adventure in the depths of the forest? -pmCMnQut-E Police arrest ogoniff sleeping on mailbox Dropbox #firstamendment #DreamScreenAI #aperturefoundation 0TMbRWk4WjI The making of Jack and Hammer, cartoon cat and mouse, bang tpWdK6sqUd0 Grim reaper and best friend crash a stadium concert giving tourists a tour Through the arena. SvVHNXyPvdI #DreamTrackAI Jesus is my main squeeze _Tn8GDwQxAU Police officer can't stop car due to cruise control being stuck #crazycars #carwars 0S0KdQ3hBn8 Did you know Ron white the comedian is playing steve bannon, They look like twins. p5qNmwVz2d8 Google Meet calling replacing (legacy) Duo Exposes your phone number and email za5Vw4_VTkQ Girl scouts is a rich man's hobby W2tQJTTLi4Y Police surround Ogrokumia slerlrping on park bench #DreamScreenAI r384VZLXu3A It's go time with Grandma and hot grits in the ring d0bO1v9POII The J6 hook Crochet knit and woven string along u0WxCzwgTO0 God bless Adam, Steve and Steve, my ducks. eljLtnNyVX8 yellow smiley balls #DreamScreenAI hxicWioIX38 How to take the loose end of crochet stitch, put it over the main strand, fold loop wZPJ_RYiGls Photography is a rich man's hobby OXG_TSoULPY All aboard for the great lunar tick Escape AIbeJv_RxKs Weed Is a rich man's hobby ISHRckp61dA On Amazon Girl Scouts is a rich man's clickbaiting hobby HgBw11vLTBI Fire and winter solstice YouTube special effects cubism masterpiece #painting #sketch yPrCmfLEnLk Pictures of disney barracks fort knox kentucky 9f3Mhh9pnUY 100% of light bulbs do not fly well #DreamScreenAI #funny #supermemo #funnyideas #sadface _OXDABCjOZw crochet sea horse underwater #DreamTrackAI Soft heart music #aiartists JFvY-YHs7RA our on-scene investigation has determined that you are fully loaded#DreamScreenAI FNSI4FPUVcA Reduce your green energy costs recycle Cell Phones #DreamScreenAI YB9PtoepBdw Best Artificial intelligence draws colors with crayons kissing lips 👄AI I LOVE YOU SLOPPY KISSES -nv6BXse5v4 he loves his beautiful wife very much #DreamTrackAI ukulele #billionaire #dreamstar pawysiBqlpQ Pickleball is a rich man's hobby LL28iJqiNfU Do you think that Donald Trump's new airplane will be his presidential library? bkS5ldTxgjw Please donate your aluminum cans to help fire burn victims thank you Department of war DOW #woodburn fxXhIwZc9Xc with the pausing of tariffs, then what ones still exist, more presidential market manipulation 7vHKIY4CXp4 Are All civilians who work on navy air stations Corry Barracks Florida jerks? s5OKjNO8s-E Beach bar St. John's webcam United States Virgin Islands u3YEK8PR8bk protesting (praytesting) for Jesus freedom of speech #DreamScreenAI #legalexploration #aiartists aACJUp6s_lo bad pranks that turn into chaos and negative social influencing 3pXqrWGN99k Golf is a rich man's hobby o2EW0pq0Hzg crochet granny square socks #DreamScreenAI #knitting Ws8yubqGV9k Join the National Guard. OMX3YzbNiPo United States air force half wing I2C1FTOD7V0 Metal Detecting is a Rich man's Hobby mine lab voyager X-terra, nokta R2lL3RDheSM Common uploading issues on YouTube processing. Abandoned YouTube help and tips troubleshooting fk6J6XSiaXM AI Cubism, YouTube special effects, political art #PoliticArt #drawing #sketch cpzYcArwHnE beautiful scrap yarn crochet blanket stitches #DreamTrackAI countey FD3VthzJGOg Granny's still hot and got it going on #DreamScreenAI JzbSl4LkvmE Welcome to the United States Navy Seahorse tpdVt-qRVCk Failed Ship Launch search vlHeA9NvTtA I made Asian migrant husband's sign pre marital agreement he never gets citizenship #DreamScreenAI OjSmJ1M8P9U Homeless cats living inside of hotel trash cans d1JwhBPiedU crochet diorama Jesus - The truth unveiled #DreamTrackAI Play music box b982KApevR8 Romantic ice Strawberry full moon in the night sky #DreamTrackAI slow song music video #dreamtime m_CdcvqDuLw Donald Trump sets new business deal VaChina Pe9PV9V-Tmo How to make the magic crochet circle ring loop M5FsAkPbok8 What would T. Rex look like opening a jar of pickles #DreamScreenAI LgUPl3h-Xdw Journey to the unknown, DepthS of the forest #dreamscreenai #dreamtrackai #aiartists",
+      "text_excerpt": "\"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error.\nIn the flickering neon glow of a world fueled by #DreamScreenAI , reality has become a cubism masterpiece of surreal proportions. This is the story of a single, chaotic Tuesday. The Morning Commute The day began in a flurry of \"rich man’s hobbies.\" In the upscale suburbs, people dodged golf balls and pickleball paddles, w…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-24T19:59:22Z",
+      "last_collected_at": "2026-10-24T19:59:22Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-24T17:07:27.631887+00:00",
+  "last_archived_at": "2026-10-24T19:59:32.222527+00:00",
   "live_events": [
     {
       "id": 710,
@@ -4037,6 +5035,28 @@
       "text": "Eight bodies recovered sfter avalanche on broad pe… Skardu: Rescue teams have recovered the bodies of eight climbers who went missing after a massive avalanche struck Broad Peak, one of the world’s highest mountains, in northern Pakistan. The tragic incident has shocked the international mountaineering commun… https:// justpaste.in/news/eight-bodies -recovered-sfter-avalanche-on-broad-peak/ # National # rescue # climbers # bodies # broad",
       "url": "https://mastodon.social/@justpaste/117496851488040178",
       "source_url": "https://mastodon.social/@justpaste/117496851488040178"
+    },
+    {
+      "id": 719,
+      "event_id": 719,
+      "source": "X",
+      "source_post_id": "2114081733356421219",
+      "author": "PatrioticNews24",
+      "published_at": "2026-10-24T19:48:57Z",
+      "collected_at": "2026-10-24T19:59:21Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@Istillhavelifee @tafolaI8 The 1652 invaders just like them arrived and presented themselves as visitors and refugees. Same playbook.",
+      "url": "https://x.com/PatrioticNews24/status/2114081733356421219",
+      "source_url": "https://x.com/PatrioticNews24/status/2114081733356421219"
     }
   ],
   "event_groups": [
@@ -4242,6 +5262,35 @@
       "average_confidence": 0.45,
       "created_at": "2026-10-24T17:06:10Z",
       "updated_at": "2026-10-24T17:06:10Z"
+    },
+    {
+      "id": 576,
+      "group_id": 576,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Istillhavelifee @tafolaI8 The 1652 invaders just like them arrived and presented themselves as visitors and refugees. Same playbook.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-24T19:48:57Z",
+      "last_seen": "2026-10-24T19:48:57Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-24T19:59:21Z",
+      "updated_at": "2026-10-24T19:59:21Z"
     }
   ],
   "telegram_posts": [
