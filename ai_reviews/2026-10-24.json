@@ -166,6 +166,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T02:17:30.930704+00:00"
+    },
+    "group:571": {
+      "hu_text": "Ha bármely illegális vagy legális migráns bármely országban bűncselekményt követ el, ki kell őket toloncolni. Ez alapvető józan ész. Az, hogy a kormányok ennyire küzdenek azért, hogy a migránsokat ne távolítsák el az országaikból, őrültség.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményen alapul, nincs konkrét bizonyíték a toloncolásokkal vagy kormányzati intézkedésekkel kapcsolatban, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:29.759117+00:00"
+    },
+    "group:572": {
+      "hu_text": "Kaliforniai marihuána létesítményeknél az ICE és CBP rendfenntartó szervek legalább 14 migráns gyermeket mentettek ki, akik kizsákmányolás, kényszermunka és potenciális emberkereskedelem vagy csempészet áldozatai lehettek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét mentési műveletről szól, de nincs független megerősítés, ezért ellenőrizetlen, ugyanakkor fontos humanitárius jelentőségű.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:29.759136+00:00"
+    },
+    "information:21327": {
+      "hu_text": "Az országba beengedett egymillió illegális migráns férfit eleve tehetős területeken kellett volna elhelyezni. A politikai elitnek pedig a Királyi Haditengerészetet kellett volna utasítania, hogy minden áron védje a tengeri határokat. Most már túl késő.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és spekuláció a migránsok elhelyezéséről és a határvédelemről, nincs tényalapja vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:29.759141+00:00"
+    },
+    "information:21328": {
+      "hu_text": "November 5-ig a Csatornában a szélsebesség túl magas a kis hajók átkeléséhez, utána várhatóan enyhébb lesz az idő, így a parton várakozó migránsok valószínűleg megpróbálnak átkelni.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Időjárási előrejelzésre alapuló feltételezés a migránsok átkelési szándékáról, nincs megerősített adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:29.759145+00:00"
+    },
+    "information:21353": {
+      "hu_text": "Az USA hírszerzése jelentős növekedést észlelt iráni merénylettervekben amerikai diplomaták ellen a Közel-Keleten. Emiatt az USA felgyorsította diplomaták evakuálását több régiós posztról, köztük Szaúd-Arábiából. Iránban a tárgyalások mellett az IRGC és radikális hírszerző csoportok autonóm módon akadályozzák a békefolyamatokat, és fenyegetésekkel üzennek Washingtonnak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hírszerzési információkra és elemzésre épül, de nincs független megerősítés, ezért ellenőrizetlen, ugyanakkor fontos geopolitikai háttér.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:29.759148+00:00"
+    },
+    "information:21355": {
+      "hu_text": "Thaiföldön 4,1 millió, vagyis a lakosság 5,7%-át kitevő mianmari származású él. A helyiek háromféleképpen reagálnak: a kormányzat elfogadja a migránsokat, különösen a hosszú távon maradókat; az alsóbb rétegek gyűlölik őket; a középszintűek pedig bosszúsak, ami a legveszélyesebb a mianmari közösség számára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A helyi társadalmi megítélést elemzi, de az információk részben személyes beszélgetésekből és tanulmányokból származnak, nincs teljes körű ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T08:32:29.759151+00:00"
     }
   },
   "legacy_reviews": {}
