@@ -573,6 +573,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T13:46:17.897259+00:00"
+    },
+    "group:575": {
+      "hu_text": "Nyolc holttestet találtak lavina után a Broad Peak hegynél Pakisztán északi részén. A hegymászók egy nagy lavina miatt tűntek el, a tragédia megrázta a nemzetközi hegymászó közösséget.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés hegymászó balesetről szól, nem migrációs eseményről, ezért nem releváns a migrációs OSINT szempontjából. Az állítás nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:47.575646+00:00"
+    },
+    "information:21430": {
+      "hu_text": "@andrewhesselden Andrew Hesselden cége, a Coralfish profitálna az EU-hoz való visszatérésből, mert megszűnne a Brexit miatti bürokrácia, helyreállna a szabad mozgás és könnyebb lenne a határokon átnyúló kereskedelem. Nem érdekli, ha az olcsó uniós migránsok munkanélkülivé teszik Önt és gyermekeit.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és véleményformálás, amely nem bizonyított tény, ezért ellenőrizetlen státuszú. Migrációs társadalmi diskurzus kategória.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:47.575666+00:00"
+    },
+    "information:21449": {
+      "hu_text": "@_cjt_ @gelliottmorris A demokrata párt úgy fogalmaz, hogy különböznek a fasiszta republikánusoktól, mert ők a „jó” fajta tömeges kitoloncolást és migránstáborokat alkalmazzák, „jó” rasszista határfalakat építenek, és „jó” holokausztokat követnek el.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és kritika, amely nem bizonyított tény, ezért ellenőrizetlen. Migrációval kapcsolatos társadalmi diskurzus kategória.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:47.575672+00:00"
+    },
+    "information:21452": {
+      "hu_text": "A határ csak a játék fele. Még mindig ott vannak Biden által az ország belsejébe engedett migránsok, akik a kisvárosi Amerikát a legjobban károsítják. Ha bizonyítani akarják, hogy változtatni tudnak, toloncolják ki az illegálisokat, ez kézzelfogható és nagyon számít a választóknak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és követelés, nem bizonyított tény, ezért ellenőrizetlen. Migrációs társadalmi diskurzus kategória.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:47.575676+00:00"
+    },
+    "information:21456": {
+      "hu_text": "Migránsok halnak meg a határok átlépése közben. Családjaik keresik őket.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A migránsok haláláról és családjaik helyzetéről szóló állítás humanitárius témájú, de nincs megerősített forrás, ezért ellenőrizetlen. Fontos téma a migrációs OSINT szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:47.575680+00:00"
+    },
+    "information:21457": {
+      "hu_text": "Migránsok halnak meg a határok átlépése közben. Amikor emberek veszélyes utakat tesznek meg, a töredezett rendszerek miatt holttestük azonosítatlan maradhat, és temetőkben számozott sírok vannak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Humanitárius témájú állítás a migránsok haláláról és az azonosítási problémákról, nincs megerősített forrás, ezért ellenőrizetlen. Fontos a migrációs OSINT szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:47.575684+00:00"
     }
   },
   "legacy_reviews": {}
