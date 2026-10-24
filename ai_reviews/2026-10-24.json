@@ -892,6 +892,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T20:00:20.004004+00:00"
+    },
+    "information:21579": {
+      "hu_text": "A Trump-kormány több mint 2,6 millió illegális bevándorlót távolított el az Egyesült Államokból kitoloncolások és önkéntes távozások révén, valamint több mint 650 000 letartóztatást, fogva tartást és kitoloncolást hajtott végre illegális bevándorlók ellen.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számadatokat tartalmaznak a Trump-kormány migrációs intézkedéseiről, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősülnek. Fontos a politikai és migrációs kontextus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:04.376376+00:00"
+    },
+    "information:21585": {
+      "hu_text": "Nem akadályozta meg egyetlen migráns érkezését sem egy kis hajón a \"Nonce bonnets\" (valószínűleg egy szimbolikus vagy ironikus kifejezés).",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás rövid és nem részletezi a kontextust, nincs bizonyíték a hatékonyságra vagy annak hiányára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:04.376397+00:00"
+    },
+    "information:21588": {
+      "hu_text": "818 migráns érkezett El Hierro szigetére 24 órán belül, hét kis hajón, az utolsó két hajó szombat reggel érkezett La Restinga kikötőjébe. A Salvamento Marítimo hajózási mentőszolgálat is érintett az eseményben.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és eseményt közöl, de nincs hivatalos vagy független forrás megerősítése, ezért ellenőrizetlennek minősül. Fontos a migrációs események nyomon követése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:04.376401+00:00"
+    },
+    "information:21599": {
+      "hu_text": "Dél-Afrika migrációs aggályai között szerepel a kábítószer-kereskedelem, emberkereskedelem és migránscsempészet, szervezett bűnözés, csalás és okmányhamisítás, emberrablás és zsarolás, rablás, támadás és gyilkosság, valamint illegális bányászat és kapcsolódó bűncselekmények.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános társadalmi diskurzust tükröz a dél-afrikai migrációs problémákról, de nincs konkrét adat vagy forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:04.376405+00:00"
+    },
+    "information:21602": {
+      "hu_text": "Az FBI igazgatója, Kash Patel szerint 2025-ben több mint 6300 eltűnt gyermeket azonosítottak és mentettek meg, ami több mint 30%-os növekedés, továbbá 1700 gyermekmolesztálót tartóztattak le és több mint 300 emberkereskedőt.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat közöl az FBI gyermekvédelmi tevékenységéről, de nincs hivatalos forrás vagy dokumentum, ezért ellenőrizetlennek minősül. Fontos a humanitárius és biztonsági szempontok miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:04.376408+00:00"
+    },
+    "information:21612": {
+      "hu_text": "2015 óta, az Egyiptom-Izrael határzár befejezése után az illegális afrikai migránsok belépése gyakorlatilag nullára csökkent: 2015-ben 220, 2016-ban 18, azóta pedig szinte egy sem érkezett. A körülbelül 20 000 Eritreai/Szudáni migráns többsége korábban érkezett. A menedékjogi elismerés továbbra is fennáll.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét adatokat közöl a határbiztonsági helyzetről, de nincs hivatalos vagy független forrás, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági és migrációs politika szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T22:08:04.376410+00:00"
     }
   },
   "legacy_reviews": {}
