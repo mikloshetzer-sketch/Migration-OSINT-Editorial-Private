@@ -793,6 +793,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-23T19:40:19.900314+00:00"
+    },
+    "information:21552": {
+      "hu_text": "Ez a szöveg egy szürreális, abszurd jelenetekből álló, képzeletbeli történetet mesél el egy kaotikus keddi napról, amelyben gazdag emberek hobbijaival, rendőri intézkedésekkel és különféle furcsa eseményekkel találkozunk. A narratíva tele van humorral és irreális elemekkel, például egy rendőr autós üldözéssel, egy élő rajzfilm szereplőkkel, és egy fizikát meghazudtoló birkózó nagymamával.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval kapcsolatos információkat, hanem egy abszurd, fikciós történetet mesél el, ezért nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T19:59:59.816286+00:00"
     }
   },
   "legacy_reviews": {}
