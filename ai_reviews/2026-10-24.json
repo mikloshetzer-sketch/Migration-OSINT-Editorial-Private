@@ -639,6 +639,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T17:07:47.575684+00:00"
+    },
+    "information:21460": {
+      "hu_text": "Ha az Egyesült Királyság meg akarná ölni a menekülteket, könnyen meg tudná védeni a Csatornát, mivel a hajók szinte mind elfogásra kerülnek, mielőtt partra érnének, ami arra utal, hogy ha akarnák, megsemmisíthetnék a hajókat és megölhetnék az összes fedélzeten lévőt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és feltételezés, nincs bizonyíték a hajók megsemmisítésére vagy emberek megölésére, ezért nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:55.213917+00:00"
+    },
+    "information:21461": {
+      "hu_text": "Rémisztő: Idén több mint 10 000 illegális bevándorló érkezett hajóval az olaszországi Lampedusa szigetére, ami jóval meghaladja a helyi, mindössze 6 000 fős lakosságot. 2023 óta pedig még sokkolóbbak a számok: majdnem 200 000 migráns haladt át ezen a kis szigeten.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A számadatok jelentősek és fontosak a migrációs események megértéséhez, de nincs megerősített forrás a pontos adatokra, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:55.213935+00:00"
+    },
+    "information:21463": {
+      "hu_text": "Szállj fel egy kis hajóra, érkezz Calais-ba, jelentkezz migránsnak, és talán még ingyenes lakhatást, ételt és orvosi ellátást is kaphatsz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy egyszerű vélemény vagy tapasztalati megjegyzés, nincs bizonyíték arra, hogy ez általánosan igaz lenne, ezért nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:55.213939+00:00"
+    },
+    "information:21468": {
+      "hu_text": "Nincs hivatalos brit kormányzati becslés a dokumentumok nélküli migránsokról. A Belügyminisztérium szerint nem lehet pontosan tudni a számukat. Független becslések 2017-es adatok alapján körülbelül 600 000 és 900 000 közé teszik őket. 2026-ban eddig mintegy 21 000 kis hajós érkezést regisztráltak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hivatalos álláspont és független becslések összefoglalása, részben ellenőrzött információ, de a pontos számok továbbra is bizonytalanok.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:55.213943+00:00"
+    },
+    "information:21480": {
+      "hu_text": "Nick Shirley az Arizona határát vizsgálja, majd feltárja, kik keresnek milliókat a migránscsempészetből.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Egy vizsgálódó riport bejelentése, de a tartalom részletei és hitelessége nem ismert, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:55.213946+00:00"
+    },
+    "record:2114023221875917270": {
+      "hu_text": "Embert fogtak el, aki 84 migránst csempészett egy szemetesautóban.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A csempészet súlyos bűncselekmény, a hír fontos, de egyetlen forrás alapján nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-24T17:07:55.213949+00:00"
     }
   },
   "legacy_reviews": {}
