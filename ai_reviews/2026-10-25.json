@@ -628,6 +628,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T20:08:44.435447+00:00"
+    },
+    "information:21902": {
+      "hu_text": "[Világ] - Calais, 10 évvel a Jungle után: A migránsok még mindig kockáztatják a Csatorna átkelését.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános állítás migrációs eseményről, nincs konkrét bizonyíték, de releváns információ a migrációs helyzetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:53.566177+00:00"
+    },
+    "information:21904": {
+      "hu_text": "Körülbelül 330 000–340 000 szabálytalan tengeri érkezés (az illegális migránsok Olaszországba való belépésének fő mérőszáma) 2022 október végétől 2026 október közepéig, az olasz belügyminisztérium és az ENSZ Menekültügyi Főbiztossága adatai alapján.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét adatokat közöl hivatalos forrásokra hivatkozva, de az állítás nem ellenőrzött, mivel a jövőbeli időszakra is vonatkozik, ami kétségessé teszi a pontosságot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:53.566193+00:00"
+    },
+    "information:21907": {
+      "hu_text": "Bizonyíték arra, hogy Oroszország háborút szít az Egyesült Királyság ellen: a Királyi Haditengerészet hajói járőröznek a Balti- és a Fekete-tengeren, a Királyi Légierő megfigyelő repülőgépei pedig közel repülnek a Krímhez. Minél tovább tart a háború, annál nagyobb éhínséget okoz Afrikában, ami több afrikai migránst eredményez Európába. Élvezd.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és következtetés a migráció okairól, nincs konkrét bizonyíték, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:53.566197+00:00"
+    },
+    "information:21911": {
+      "hu_text": "És a \"kitoloncolások\" 69%-a olyan migráns, akiket a határon állítottak meg vagy fogtak el – tehát nem azok, akiket már az országban tartóztattak le.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a határon történő migránsok visszatartásáról, de nincs megerősített adat, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:53.566201+00:00"
+    },
+    "information:21922": {
+      "hu_text": "Több migráció? A hajók száma csökkent, a kitoloncolások száma nőtt. A csempészek letartóztatásai is emelkedtek. Farage kiabálhat a hajók számának növekedéséről, amit ő okozott, de most végre egy kormány tesz valamit az ügy érdekében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások a migrációs helyzetről és kormányzati intézkedésekről, nincs megerősített adat, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:53.566204+00:00"
+    },
+    "record:2114438159366807753": {
+      "hu_text": "Az említett \"kitoloncolások\" 69%-a olyan migráns volt, akiket a határon állítottak meg vagy fogtak el, nem pedig illegálisok, akik már az országban tartózkodnak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő állítás a határon történő migránsok visszatartásáról, nincs megerősített adat, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:53.566207+00:00"
     }
   },
   "legacy_reviews": {}
