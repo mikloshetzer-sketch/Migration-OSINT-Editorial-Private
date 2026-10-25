@@ -67,6 +67,51 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T23:42:51.884493+00:00"
+    },
+    "record:2114496904595976656": {
+      "hu_text": "Bukele elnök apai nagyszülei több mint egy évszázada érkeztek az Oszmán Birodalomból keresztény menekültként. Apja El Salvadorban született, anyai ága pedig nem arab salvadori. Mondd el, miért gondolod, hogy ez \"külföldivé\" teszi őt anélkül, hogy nevetségesen hangzana.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és családi háttérre vonatkozó állítás, amely nem tartalmaz konkrét bizonyítható tényt a migrációs eseményről vagy politikáról. Nem ellenőrzött, de nem is állít konkrét tényt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:59.075678+00:00"
+    },
+    "record:2114497726113304890": {
+      "hu_text": "Bukele elnök apai nagyszülei több mint egy évszázada érkeztek az Oszmán Birodalomból keresztény menekültként. Apja El Salvadorban született, anyai ága pedig nem arab salvadori. Mondd el, miért gondolod, hogy ez \"külföldivé\" teszi őt anélkül, hogy nevetségesen hangzana.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ismétlődő politikai vélemény és családi háttérre vonatkozó állítás, amely nem bizonyított tény. Nem ellenőrzött, de nem tartalmaz konkrét migrációs eseményt vagy politikai intézkedést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:59.075694+00:00"
+    },
+    "record:2114499294891753954": {
+      "hu_text": "A szövetségi belföldi légi szállítási költségek a migránsok számára Biden mintegy négy éve alatt több száz millió dollártól körülbelül 1 milliárd dollárig terjednek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a migránsok légi szállítási költségeiről, amelyet nem támasztanak alá konkrét források vagy hivatalos adatok. Fontos lehet a migrációs költségek megértéséhez, de ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:59.075700+00:00"
+    },
+    "record:2114502150718214242": {
+      "hu_text": "🚨 FRISS: Amerikaiak most azonnal követelik, hogy Minnesota törölje a közelgő csalási programját, amely 20 HÉTEN át fizetett szabadságot ad a szomáliaiaknak és migránsoknak évente.\n\nElon Musk: „Tim Walz egy csaló” 💯\n\nŐ pedig továbbra is kitart a csalás mellett!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és állítás egy állítólagos csalási programról, amely migránsokat érint. Nem bizonyított, de a közösségi viták és politikai diskurzus miatt magas prioritású az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:59.075704+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
