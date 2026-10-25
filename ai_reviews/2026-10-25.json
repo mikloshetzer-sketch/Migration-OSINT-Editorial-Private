@@ -562,6 +562,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T17:22:03.209466+00:00"
+    },
+    "group:582": {
+      "hu_text": "Ma reggel egy frissen érkezett hosszúfülű bagoly látható Grutnessnél, Shetlandon. Egy gyönyörű madár.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem migrációs eseményről vagy migrációval kapcsolatos témáról szól, hanem egy madárról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:44.435375+00:00"
+    },
+    "information:21892": {
+      "hu_text": "Módosítsák a bevándorlási törvényeket. Dél-Afrika nem engedheti meg magának, hogy hamis menedékkérőket fogadjon be, akik 5000 km-re vannak tőlünk (pakisztániak, bangladesiek, szomáliaiak és etiópok), és menekülttáborokat építsenek a határ közelében, nem akarjuk ezeket az embereket a városainkban és vidéki területeinken.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény a bevándorlási törvényekről és menekülttáborokról, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:44.435398+00:00"
+    },
+    "information:21893": {
+      "hu_text": "2025. április 8-án a határőrség két amerikai állampolgárt tartóztatott le a 86-os autópálya ellenőrzőpontjánál Westmorland, Kalifornia közelében, mert megpróbáltak két, 10 és 12 éves, kísérő nélküli mexikói lányt csempészni. A nők nem voltak rokonai a gyerekeknek, a dokumentumok nem egyeztek, és az El Centro ...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:44.435435+00:00"
+    },
+    "information:21898": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik őket átlépni a lengyel határt: „Be akarunk lépni Lengyelországba, de nem engedik. Megfenyegetnek minket, ha megpróbálunk átkelni.” Lengyelország nemet mond a nyitott határokra. Minden országnak olyan országnak kell lennie, mint Lengyelország.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migránsok panaszát és egy ország határvédelmi politikáját ismerteti, de nincs megerősített bizonyíték a konkrét esetekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:44.435439+00:00"
+    },
+    "information:21900": {
+      "hu_text": "Új FRANCE 24 angol nyelvű videó: Calais, 10 évvel a Jungle után: a migránsok továbbra is kockáztatják a Csatorna átkelését.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs eseményről szóló híradásra utal, de önmagában nem tartalmaz bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:44.435443+00:00"
+    },
+    "information:21901": {
+      "hu_text": "[Világ] - Calais, 10 évvel a Jungle után: a migránsok továbbra is kockáztatják a Csatorna átkelését | France24",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy híradás címe migrációs eseményről, de önmagában nem bizonyított információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:08:44.435447+00:00"
     }
   },
   "legacy_reviews": {}
