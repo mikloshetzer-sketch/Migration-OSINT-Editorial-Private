@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T07:25:40.294246+00:00"
+    },
+    "group:579": {
+      "hu_text": "@Silentone_P99 @LibOrNormal Nem. Az iráni háború elvakít. Emlékezz, mit tett – lezárta a határt!! Többé nem jönnek karavánok ezer migránssal, feltárta a DC (főleg demokrata) korrupcióját, felszámolta az USAID-demokrata pénzalapot és a karavánokat finanszírozókat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és határzár intézkedést tartalmaz, de nincs megerősített bizonyíték a határzár tényleges okairól vagy hatásairól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:47.844018+00:00"
+    },
+    "information:21747": {
+      "hu_text": "A bejegyzés egy nemzetközi szakember által írt segítségnyújtó ajánlat Hollandiába költözőknek, munkakereséshez, letelepedéshez kapcsolódó kérdésekben. Bemutatja a holland munkaerőpiacot, vízumokat, fizetéseket és egyéb hasznos információkat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Hasznos információs jellegű bejegyzés, nem tartalmaz ellenőrizhető állítást vagy vitatható tartalmat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:47.844039+00:00"
+    },
+    "information:21761": {
+      "hu_text": "@HannaaLido Etiópiában lévő ellátó központok menedéket és védelmet nyújtanak, valamint harci drónok kiindulópontjai, amelyek a szudáni határ menti menekülttáborokat bombázzák.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés katonai tevékenységet és menekülttáborok elleni támadásokat állít, ami súlyos biztonsági és humanitárius kérdés, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:47.844045+00:00"
+    },
+    "information:21764": {
+      "hu_text": "Illegális migránsok panaszkodnak, hogy nem engedik át a lengyel határon: „Be akarunk lépni Lengyelországba, de nem engednek. Fenyegetnek, ha megpróbáljuk átlépni. Lengyelországba vagy Németországba akarok menni, hogy jobb életet éljek.”",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsok határátlépési szándékát és az őket érő fenyegetéseket tartalmazza, ami fontos migrációs esemény, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:47.844050+00:00"
+    },
+    "information:21772": {
+      "hu_text": "@PigLazer Nem. Ez csak az orosz hibrid háború működése. Elfogadtuk az orosz drónok behatolását és civilek elleni támadásait a Fekete-tengeren normálisnak. Egy éven belül normális lesz, hogy fegyveres „migránsok” próbálnak titokban átlépni Lengyelországba, Észtországba és Lettországba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és előrejelzés az orosz hibrid hadviselésről és migrációs fenyegetésekről, nincs bizonyíték a valóságtartalomra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:47.844054+00:00"
+    },
+    "information:21775": {
+      "hu_text": "@Freelander27 Meg akarják állítani az illegális hajóátlépéseket és dicsekednek, hogy megoldották a problémát. Torz logikájuk szerint sikerülni fog. Az EU minden migránsnak állampolgárságot ad, amivel befejezhetik a veszélyes utat, felszállhatnak egy Calais-i kompra és legálisan érkezhetnek a szabad mozgás révén. Ez jön.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény az EU migrációs politikájáról, nincs bizonyíték az állítások valóságtartalmára, de releváns a migrációs jogi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:47.844057+00:00"
     }
   },
   "legacy_reviews": {}
