@@ -221,6 +221,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T02:06:17.818924+00:00"
+    },
+    "information:21701": {
+      "hu_text": "A Joe Biden-adminisztráció tisztviselői körülbelül 4,7 millió migráns kitoloncolását, hivatalos deportálását vagy visszaküldését hajtották végre, amelyből hozzávetőlegesen 682 000 és több mint 3,4 millió közötti szám adódik, ha összevonjuk a hivatalos deportálásokat, kitoloncolásokat és egyéb határvisszatérítési intézkedéseket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét számadatokat tartalmaz, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T07:25:40.294217+00:00"
+    },
+    "information:21724": {
+      "hu_text": "Mit tartalmaz:\n1973 óta végzett abortuszok (a domináns szám)\nHatár menti migráns halálesetek, az illegális kábítószer-kereskedelemhez kötődő fentanil halálesetek, valamint az illegálisan belépők vagy tartózkodók által elkövetett gyilkosságok\nKatonai halálesetek mindkét párt adminisztrációi alatt",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás általános kategóriákat sorol fel, de nem tartalmaz konkrét adatokat vagy forrásokat, így ellenőrizetlennek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T07:25:40.294238+00:00"
+    },
+    "record:2114247277560869296": {
+      "hu_text": "Teljes hülyeség. Egy kis vidéki városban élek, ahol hajókon érkező migránsokat helyeztek el különböző HMO-kban. Korábban alacsony volt a bűnözés, most jelentős emelkedés tapasztalható nemi erőszakokban, lopásokban és akár két gyilkosságban is, mindezt migránsok követték el. A városunk már nem biztonságos.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy személyes véleményen alapuló állítás, amely súlyos bűncselekményeket tulajdonít migránsoknak, de nincs bizonyíték vagy hivatalos adat a megerősítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T07:25:40.294243+00:00"
+    },
+    "record:2114251292365529350": {
+      "hu_text": "A D-napi kiképzést Inveraray-ban tartották, hogy Európában harcoljanak az ellenséggel. Ma az ellenség már a földjeinken van, a közelben, migránsszállókon, a városi mecsetekben, kebab- és vape boltokban, valamint az Uber futárodnál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és retorika, amely migránsokat ellenségként ábrázol, de nem tartalmaz konkrét bizonyítékot vagy adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T07:25:40.294246+00:00"
     }
   },
   "legacy_reviews": {}
