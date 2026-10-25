@@ -210,6 +210,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T02:06:12.709924+00:00"
+    },
+    "record:reddit_1xep6xj": {
+      "hu_text": "1948 októberében, az izraeli állam megalakulását követő három évben mintegy 600 000 bevándorló érkezett Izraelbe, akik gyakorlatilag megduplázták az ország lakosságát. A bevándorlók többsége holokauszt-túlélő volt, a többiek arab országokból vagy Amerikából érkeztek. A „Negba” eredetileg alaszkai ellátóhajóként szolgált, majd az 1940-es évek végén és az 1950-es évek közepéig több ezer zsidót szállított Marokkóból, Franciaországból és Olaszországból Izraelbe. Az első hónapokban érkezett bevándorlók nagy részét besorozták az izraeli hadseregbe, és harctéri kiképzésre küldték őket, mivel 1948 októberében újra fellángoltak a harcok. 1947 szeptemberében 500, főként romániai, magyarországi és németországi zsidó árva gyermek érkezett Hollandiába, ahol az „Ilaniah” ifjúsági faluban gondoskodtak róluk, hogy felkészítsék őket az izraeli életre.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg történelmi eseményeket ismertet, amelyek részben ellenőrizhetőek, de a bemenet nem tartalmaz közvetlen bizonyítékokat vagy forrásokat a pontos adatok hitelességéhez. A Yad Vashem oldalra hivatkozás segíthet a további ellenőrzésben, de önmagában a bejegyzés nem minősül teljesen ellenőrzöttnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:17.818924+00:00"
     }
   },
   "legacy_reviews": {}
