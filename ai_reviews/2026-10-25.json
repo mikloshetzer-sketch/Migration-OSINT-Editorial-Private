@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T12:52:47.844057+00:00"
+    },
+    "information:21776": {
+      "hu_text": "Nem, az angol után a második nyelv a spanyol. A vietnami a harmadik, majd a koreai következik (a VA szabályai szerint bizonyos helyeken).\n\nIgen: az USA 1975-ben körülbelül 125 ezer vietnami menekültet fogadott be, majd további több százezret (hajós menekültek, rendezett távozás) az 1990-es évekig, összesen kb. 760 ezret 2002-ig. Programok.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés történelmi adatokat közöl a vietnami menekültek befogadásáról az USA-ban, de nincs közvetlen bizonyíték a pontosságra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:57.582010+00:00"
+    },
+    "information:21793": {
+      "hu_text": "🟡 Terrorizmus elleni küzdelem | 5/10 🇾🇪 Houthi sejt elfogása Jemenben Egy 13 tagú Houthi sejtet és egy fegyvereket, robbanóanyagokat tengeren csempésző teherautót foglaltak le Shabwában (Jemen). #OSINT #Hírek #Jemen #Houthis #Csempészet",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés határbiztonsági eseményről számol be, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:57.582025+00:00"
+    },
+    "information:21801": {
+      "hu_text": "Mark Weber, a Vám- és Bevándorlási Hivatal képviselője a brit Képviselőház állandó bizottságának elmondta, hogy a személyzet hiánya és a Kanadai Határszolgálat (CBSA) automatizált \"One Touch\" rendszerének használata miatt a menekültek azonnali személyes biztonsági ellenőrzés nélkül léphetnek be az országba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés határbiztonsági és migrációs intézkedésekről szól, amelyek potenciálisan jelentős hatással vannak a menekültek belépésére, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:57.582030+00:00"
+    },
+    "record:2114337433651179715": {
+      "hu_text": "Nézd meg a Trigger Nometry YouTube csatornát, ahol egykori határőrségi parancsnok szerepelt; az Emberi Jogok Európai Bírósága (ECHR) mindezt a menekültek nevében egy 50 éves, elavult egyezményre hivatkozva irányítja.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogi és politikai véleményt tartalmaz a menekültügyi egyezményekről és azok alkalmazásáról, de nincs bizonyíték az állítások igazolására, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:57.582033+00:00"
+    },
+    "record:2114338050465800402": {
+      "hu_text": "Nem. Az Irán elleni háború elvakít. Emlékezz, mit tett - lezárta a határt! Többé nincs karaván, amely több ezer 'migránssal' átkelne, leleplezte a DC (főként demokrata) korrupcióját, felszámolta az USAID-demokrata pénzalapot és a karavánokat finanszírozókat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és állítást tartalmaz a határzárról és politikai korrupcióról, de nincs bizonyíték az állítások alátámasztására, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:57.582036+00:00"
+    },
+    "telegram:1261826972:53820": {
+      "hu_text": "David de la Encina, Ceuta kormánymegbízottja egy interjúban elmondta, hogy az azonnali megoldás ígérete szavazatért cserébe hazugság. Beszélt a választások hatásairól a város és a kormány viszonyára, a patera-házakról, kritikusan nyilatkozott a július 30-i eseményekről, és sajnálatát fejezte ki a mentőhajók érkezése miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy hivatalos személy nyilatkozatát tartalmazza migrációs és politikai témában, de nincs további bizonyíték a hitelességre, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T12:52:57.582039+00:00"
     }
   },
   "legacy_reviews": {}
