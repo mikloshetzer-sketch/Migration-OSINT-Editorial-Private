@@ -78,6 +78,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-24T22:08:25.205661+00:00"
+    },
+    "group:577": {
+      "hu_text": "@Trustintrump47 Több mint 400 illegális bevándorlót tartóztattak le egy hatalmas ICE rajtaütés során Houstonban – köztük elítélt gyilkosokat és gyermekek elleni ragadozókat. A Fox News kizárólagosan az ICE-vel volt egy héten át tartó akció alatt Houstonban, és amit felfedeztek, sokkoló. 422 illegális migránst tartóztattak le, 262-nek volt ...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és eseményt tartalmaz, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlen. A téma biztonsági és migrációs szempontból fontos, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:05:57.522021+00:00"
+    },
+    "group:578": {
+      "hu_text": "@realDonaldTrump Több fegyvert is elkaptak, amiket a migránsoknak szállítottak az Egyesült Királyságban. Be kellene vezetni a hadiállapotot, kitakarítani a saját udvarunkat, majd felszabadítani az Egyesült Királyság népét a kormányuktól és a migránsoktól, itt az ideje a rezsimváltásnak. Ők a gyökereink és a mi örökségünk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és követelés migrációs és biztonsági témában, de nincs bizonyíték a fegyverszállításra vagy hadiállapot bevezetésére. Ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:05:57.522043+00:00"
+    },
+    "information:21647": {
+      "hu_text": "Kanadai nő meghalt a határnál történt kihallgatás után. Félve kérte az orvosi ellátást a határon órákig tartó kérdezősködés után. #kanada #határ #bevándorlás",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A CBC hírportál által közölt eset részben ellenőrzött, mivel hivatalos forrásból származik, de további részletek hiányoznak. Emberi jogi és humanitárius szempontból fontos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:05:57.522050+00:00"
+    },
+    "information:21649": {
+      "hu_text": "Pénteken a Mediterranea Saving Humans, egy olasz civil szervezet, elindított egy migránsok keresési és mentési missziót. Ez volt az első alkalom, hogy egy támogatói hajó is részt vett, amelyet az olasz püspökök Migrantes alapítványa finanszírozott.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szervezet és az alapítvány létezése ismert, de az adott misszió részletei nem teljesen ellenőrzöttek. Fontos humanitárius információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:05:57.522054+00:00"
+    },
+    "information:21651": {
+      "hu_text": "Egy másik illegális migráns, aki nagyot hazudik. Annyira szerette az anyját, hogy hátrahagyta őt, és csónakon átkelt a tengeren, hogy Angliába jusson. Az idő fogy, a kifogások öregszenek gyorsabban, mint a papírok!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy véleményes, érzelmi töltetű állítás migránsokról, nincs tényalap vagy bizonyíték, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:05:57.522058+00:00"
+    },
+    "information:21656": {
+      "hu_text": "@Camelgenx @IsraelVive1948 A migránsok nagy része saját maga fizeti az embercsempészeknek a utazási költségeket, gyakran családi segítséggel vagy kölcsönből. Egy 2025-ös UNODC/IOM jelentés szerint csak a tengeri útvonalak díja 388-509 millió dollár volt körülbelül 190-209 ezer ember esetében. Az úton az étkezést általában saját forrásból fedezik vagy benne van a csempészcsomagban.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A jelentésre hivatkozó adatokat tartalmaz, de nincs közvetlen bizonyíték a pontos számokra, ezért ellenőrizetlen. Fontos információ az embercsempészet finanszírozásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:05:57.522061+00:00"
     }
   },
   "legacy_reviews": {}
