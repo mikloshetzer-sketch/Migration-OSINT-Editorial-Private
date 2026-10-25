@@ -1,0 +1,489 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "live_events": [
+    {
+      "id": 727,
+      "event_id": 727,
+      "source": "X",
+      "source_post_id": "2114497726113304890",
+      "author": "CarlosELV1",
+      "published_at": "2026-10-25T23:21:58Z",
+      "collected_at": "2026-10-25T23:42:18Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@Wallflower2026 @ThomBrady5 President Bukele's paternal grandparents arrived as Ottoman Christian refugees over a century ago now\nHis father was born in El Salvador \nHis maternal side is non-arab Salvadorian\nTell why you think this qualifies him as \"foreigner\" without sounding ridiculous",
+      "url": "https://x.com/CarlosELV1/status/2114497726113304890",
+      "source_url": "https://x.com/CarlosELV1/status/2114497726113304890"
+    },
+    {
+      "id": 728,
+      "event_id": 728,
+      "source": "X",
+      "source_post_id": "2114496904595976656",
+      "author": "CarlosELV1",
+      "published_at": "2026-10-25T23:18:42Z",
+      "collected_at": "2026-10-25T23:42:18Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@ThomBrady5 President Bukele's paternal grandparents arrived as Ottoman Christian refugees over a century ago now\nHis father was born in El Salvador \nHis maternal side is non-arab Salvadorian\nTell why you think this qualifies him as \"foreigner\" without sounding ridiculously stupid",
+      "url": "https://x.com/CarlosELV1/status/2114496904595976656",
+      "source_url": "https://x.com/CarlosELV1/status/2114496904595976656"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 583,
+      "group_id": 583,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Wallflower2026 @ThomBrady5 President Bukele's paternal grandparents arrived as Ottoman Christian refugees over a century ago now\nHis father was born in El Salvador \nHis maternal side is non-arab Salvadorian\nTell why you think this qualifies him as \"foreigner\" without sounding ridiculous",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-25T23:21:58Z",
+      "last_seen": "2026-10-25T23:21:58Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-25T23:42:18Z",
+      "updated_at": "2026-10-25T23:42:18Z"
+    },
+    {
+      "id": 584,
+      "group_id": 584,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@ThomBrady5 President Bukele's paternal grandparents arrived as Ottoman Christian refugees over a century ago now\nHis father was born in El Salvador \nHis maternal side is non-arab Salvadorian\nTell why you think this qualifies him as \"foreigner\" without sounding ridiculously stupid",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-25T23:18:42Z",
+      "last_seen": "2026-10-25T23:18:42Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-25T23:42:18Z",
+      "updated_at": "2026-10-25T23:42:18Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1217,
+      "source": "X",
+      "source_post_id": "2114502150718214242",
+      "author": "TomDHomanRV",
+      "language": "en",
+      "published_at": "2026-10-25T23:39:32Z",
+      "first_detected_at": "2026-10-25T23:40:22Z",
+      "last_detected_at": "2026-10-25T23:40:22Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: Americans are now demanding Minnesota IMMEDIATELY cancel their upcoming fraud program that gives Somalis and migrants “paid leave” for 20 WEEKS every year\n\nElon Musk: “Tim Walz is a CROOK” 💯\n\nHe’s DOUBLING DOWN on fraud! https://t.co/HmDhUpelB2",
+      "text_excerpt": "🚨 BREAKING: Americans are now demanding Minnesota IMMEDIATELY cancel their upcoming fraud program that gives Somalis and migrants “paid leave” for 20 WEEKS every year\n\nElon Musk: “Tim Walz is a CROOK” 💯\n\nHe’s DOUBLING DOWN on fraud! https://t.co/HmDhUpelB2",
+      "url": "https://x.com/TomDHomanRV/status/2114502150718214242",
+      "source_url": "https://x.com/TomDHomanRV/status/2114502150718214242",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants “paid leave"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants “paid leave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1218,
+      "source": "X",
+      "source_post_id": "2114499294891753954",
+      "author": "Anthony02684083",
+      "language": "en",
+      "published_at": "2026-10-25T23:28:12Z",
+      "first_detected_at": "2026-10-25T23:41:49Z",
+      "last_detected_at": "2026-10-25T23:41:49Z",
+      "detection_count": 1,
+      "text": "@SenSchumer 🖕the best-supported range for federal domestic air-related transport costs of migrants during the roughly four Biden years is several hundred million dollars to roughly $1 billion+",
+      "text_excerpt": "@SenSchumer 🖕the best-supported range for federal domestic air-related transport costs of migrants during the roughly four Biden years is several hundred million dollars to roughly $1 billion+",
+      "url": "https://x.com/Anthony02684083/status/2114499294891753954",
+      "source_url": "https://x.com/Anthony02684083/status/2114499294891753954",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport costs of migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport costs of migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1217,
+      "source": "X",
+      "source_post_id": "2114502150718214242",
+      "author": "TomDHomanRV",
+      "language": "en",
+      "published_at": "2026-10-25T23:39:32Z",
+      "first_detected_at": "2026-10-25T23:40:22Z",
+      "last_detected_at": "2026-10-25T23:40:22Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: Americans are now demanding Minnesota IMMEDIATELY cancel their upcoming fraud program that gives Somalis and migrants “paid leave” for 20 WEEKS every year\n\nElon Musk: “Tim Walz is a CROOK” 💯\n\nHe’s DOUBLING DOWN on fraud! https://t.co/HmDhUpelB2",
+      "text_excerpt": "🚨 BREAKING: Americans are now demanding Minnesota IMMEDIATELY cancel their upcoming fraud program that gives Somalis and migrants “paid leave” for 20 WEEKS every year\n\nElon Musk: “Tim Walz is a CROOK” 💯\n\nHe’s DOUBLING DOWN on fraud! https://t.co/HmDhUpelB2",
+      "url": "https://x.com/TomDHomanRV/status/2114502150718214242",
+      "source_url": "https://x.com/TomDHomanRV/status/2114502150718214242",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants “paid leave"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants “paid leave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1218,
+      "source": "X",
+      "source_post_id": "2114499294891753954",
+      "author": "Anthony02684083",
+      "language": "en",
+      "published_at": "2026-10-25T23:28:12Z",
+      "first_detected_at": "2026-10-25T23:41:49Z",
+      "last_detected_at": "2026-10-25T23:41:49Z",
+      "detection_count": 1,
+      "text": "@SenSchumer 🖕the best-supported range for federal domestic air-related transport costs of migrants during the roughly four Biden years is several hundred million dollars to roughly $1 billion+",
+      "text_excerpt": "@SenSchumer 🖕the best-supported range for federal domestic air-related transport costs of migrants during the roughly four Biden years is several hundred million dollars to roughly $1 billion+",
+      "url": "https://x.com/Anthony02684083/status/2114499294891753954",
+      "source_url": "https://x.com/Anthony02684083/status/2114499294891753954",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport costs of migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport costs of migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:21945",
+      "timestamp": "2026-10-25T23:39:12Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114502063405388182",
+      "author": "deemerwow",
+      "url": "https://x.com/deemerwow/status/2114502063405388182",
+      "source_url": "https://x.com/deemerwow/status/2114502063405388182",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@Gabby_Hoffman Let me ask a simple question, why Poland which is literally next to Belarus has 0 migrant crisis, but Italy and France which are farther to the West having gazillion niggers pouring in via boats through mediterranean sea (must be Putin too)",
+      "text_excerpt": "@Gabby_Hoffman Let me ask a simple question, why Poland which is literally next to Belarus has 0 migrant crisis, but Italy and France which are farther to the West having gazillion niggers pouring in via boats through mediterranean sea (must be Putin too)",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T23:40:22Z",
+      "last_collected_at": "2026-10-25T23:40:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21955",
+      "timestamp": "2026-10-25T23:37:40Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114501680347615485",
+      "author": "Trumpusa1A1",
+      "url": "https://x.com/Trumpusa1A1/status/2114501680347615485",
+      "source_url": "https://x.com/Trumpusa1A1/status/2114501680347615485",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "MASSIVE MIGRANT CARAVAN RESUMES MARCH TOWARD THE U.S. BORDER 🤪🤪\n\nThe “Génesis” migrant caravan is moving through southern Mexico for a fourth day, with nighttime footage showing a huge crowd marching along a highway in Chiapas. The group departed Tapachula on October 20 and is https://t.co/qwF7yckRBZ",
+      "text_excerpt": "MASSIVE MIGRANT CARAVAN RESUMES MARCH TOWARD THE U.S. BORDER 🤪🤪\n\nThe “Génesis” migrant caravan is moving through southern Mexico for a fourth day, with nighttime footage showing a huge crowd marching along a highway in Chiapas. The group departed Tapachula on October 20 and is https://t.co/qwF7yckRBZ",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T23:40:53Z",
+      "last_collected_at": "2026-10-25T23:40:53Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21972",
+      "timestamp": "2026-10-25T23:36:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114501497560162759",
+      "author": "Micksan51",
+      "url": "https://x.com/Micksan51/status/2114501497560162759",
+      "source_url": "https://x.com/Micksan51/status/2114501497560162759",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@RossyPrime Just the opposite - if you’re voting for democrats you’re voting for open borders,  child trafficking, massive fraud, massive illegal migration, high crime, men in women’s sports and bathrooms and high inflation.  Who’s the dummy?   Check reality, bub.",
+      "text_excerpt": "@RossyPrime Just the opposite - if you’re voting for democrats you’re voting for open borders,  child trafficking, massive fraud, massive illegal migration, high crime, men in women’s sports and bathrooms and high inflation.  Who’s the dummy?   Check reality, bub.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T23:41:49Z",
+      "last_collected_at": "2026-10-25T23:41:49Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21959",
+      "timestamp": "2026-10-25T23:29:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114499583493427484",
+      "author": "Mr_Reality5",
+      "url": "https://x.com/Mr_Reality5/status/2114499583493427484",
+      "source_url": "https://x.com/Mr_Reality5/status/2114499583493427484",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@Jahseh44570805 @whatisfucki @yaniversal This implies they stopped engaging in ethnic cleansings when they were still mass burning Irish Catholics from their homes in the mid 20th century. The republic had to set up refugee camps on the border.\nhttps://t.co/mFK6YsP5zP",
+      "text_excerpt": "@Jahseh44570805 @whatisfucki @yaniversal This implies they stopped engaging in ethnic cleansings when they were still mass burning Irish Catholics from their homes in the mid 20th century. The republic had to set up refugee camps on the border.\nhttps://t.co/mFK6YsP5zP",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T23:40:53Z",
+      "last_collected_at": "2026-10-25T23:40:53Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-10-25T23:42:26.654366+00:00"
+}
