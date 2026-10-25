@@ -540,6 +540,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T17:21:58.290072+00:00"
+    },
+    "telegram:1261826972:53839": {
+      "hu_text": "16 migráns Ceutából Marokkóba történő „garanciák nélküli” kitoloncolását jelentették be. A csoport különböző nemzetiségű férfiakból állt, szubszaharai, marokkói és ázsiai származásúakból, akik a CETI-ben tartózkodtak és menedékjogot kértek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, amely jogi és emberi jogi aggályokat vet fel, de az állítás nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:22:03.209448+00:00"
+    },
+    "telegram:1261826972:53840": {
+      "hu_text": "Trump ismét emlékeztetett a ceutai válságra, hogy megvédje migrációs politikáját. Az amerikai elnök a marokkói tömeges migránsbeáramlásra hivatkozott, hogy a republikánus szavazatokat szerezze a választások előtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és retorika migrációs témában, amely nem tartalmaz konkrét bizonyított tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:22:03.209466+00:00"
     }
   },
   "legacy_reviews": {}
