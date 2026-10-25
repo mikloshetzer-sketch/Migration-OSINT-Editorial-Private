@@ -67,6 +67,28 @@
       "text": "@realDonaldTrump More weapons have been intercepted being delivered to migrants in the u. K, we need to declare martial law here, clean app our own backyard, and then liberate the people of the UK from their government and the migrants, it's time for regime change Theyre roots and our heritage",
       "url": "https://x.com/Larry3130260525/status/2114154271692169592",
       "source_url": "https://x.com/Larry3130260525/status/2114154271692169592"
+    },
+    {
+      "id": 723,
+      "event_id": 723,
+      "source": "X",
+      "source_post_id": "2114338050465800402",
+      "author": "SmithWill64722",
+      "published_at": "2026-10-25T12:47:28Z",
+      "collected_at": "2026-10-25T12:50:51Z",
+      "event_type": "BORDER_MEASURE",
+      "signal_type": "BORDER_MEASURE",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@Silentone_P99 @LibOrNormal Naw. You’re blinded by the Iran war. Remember what he’s done - He Closed The Border!! No more caravans crossing with thousands of ‘migrants’, exposed the rot and corruption of DC (mainly Democrat), exposed and dismantled USAID-Democrat slush fund and funder of those caravans",
+      "url": "https://x.com/SmithWill64722/status/2114338050465800402",
+      "source_url": "https://x.com/SmithWill64722/status/2114338050465800402"
     }
   ],
   "influence_signals": [
@@ -483,6 +505,58 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1207,
+      "source": "X",
+      "source_post_id": "2114337433651179715",
+      "author": "Bob587966092344",
+      "language": "en",
+      "published_at": "2026-10-25T12:45:01Z",
+      "first_detected_at": "2026-10-25T12:50:52Z",
+      "last_detected_at": "2026-10-25T12:50:52Z",
+      "detection_count": 1,
+      "text": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "text_excerpt": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "source_url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "early_warning_signals": [
@@ -899,6 +973,58 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1207,
+      "source": "X",
+      "source_post_id": "2114337433651179715",
+      "author": "Bob587966092344",
+      "language": "en",
+      "published_at": "2026-10-25T12:45:01Z",
+      "first_detected_at": "2026-10-25T12:50:52Z",
+      "last_detected_at": "2026-10-25T12:50:52Z",
+      "detection_count": 1,
+      "text": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "text_excerpt": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "source_url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "crossing_access_signals": [
@@ -1007,6 +1133,58 @@
       "rules_version": "2.6",
       "priority_score": 62.9,
       "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1207,
+      "source": "X",
+      "source_post_id": "2114337433651179715",
+      "author": "Bob587966092344",
+      "language": "en",
+      "published_at": "2026-10-25T12:45:01Z",
+      "first_detected_at": "2026-10-25T12:50:52Z",
+      "last_detected_at": "2026-10-25T12:50:52Z",
+      "detection_count": 1,
+      "text": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "text_excerpt": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "source_url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "access_signals": [
@@ -1115,6 +1293,58 @@
       "rules_version": "2.6",
       "priority_score": 62.9,
       "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1207,
+      "source": "X",
+      "source_post_id": "2114337433651179715",
+      "author": "Bob587966092344",
+      "language": "en",
+      "published_at": "2026-10-25T12:45:01Z",
+      "first_detected_at": "2026-10-25T12:50:52Z",
+      "last_detected_at": "2026-10-25T12:50:52Z",
+      "detection_count": 1,
+      "text": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "text_excerpt": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "source_url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "top_crossing_access_posts": [
@@ -1253,6 +1483,73 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1207,
+      "source": "X",
+      "source_post_id": "2114337433651179715",
+      "author": "Bob587966092344",
+      "language": "en",
+      "published_at": "2026-10-25T12:45:01Z",
+      "first_detected_at": "2026-10-25T12:50:52Z",
+      "last_detected_at": "2026-10-25T12:50:52Z",
+      "detection_count": 1,
+      "text": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "text_excerpt": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "source_url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2114337433651179715"
+      ],
+      "related_authors": [
+        "Bob587966092344"
+      ],
+      "related_urls": [
+        "https://x.com/Bob587966092344/status/2114337433651179715"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "high_priority_intelligence": [
@@ -1385,6 +1682,73 @@
       ],
       "related_urls": [
         "https://x.com/studioandydna/status/2114169560853094780"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1207,
+      "source": "X",
+      "source_post_id": "2114337433651179715",
+      "author": "Bob587966092344",
+      "language": "en",
+      "published_at": "2026-10-25T12:45:01Z",
+      "first_detected_at": "2026-10-25T12:50:52Z",
+      "last_detected_at": "2026-10-25T12:50:52Z",
+      "detection_count": 1,
+      "text": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "text_excerpt": "@thenowherephoto Watch the Trigger Nometry tube channel where they had the ex border force commander from years ago in, ECHR drives all of this under the guise of refugees from a convention that is 50 years out of date.",
+      "url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "source_url": "https://x.com/Bob587966092344/status/2114337433651179715",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2114337433651179715"
+      ],
+      "related_authors": [
+        "Bob587966092344"
+      ],
+      "related_urls": [
+        "https://x.com/Bob587966092344/status/2114337433651179715"
       ],
       "related_sources": [
         "X"
@@ -1806,9 +2170,307 @@
       "first_collected_at": "2026-10-25T07:23:59Z",
       "last_collected_at": "2026-10-25T07:23:59Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21761",
+      "timestamp": "2026-10-25T12:46:07Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114337709837721794",
+      "author": "nounoune83",
+      "url": "https://x.com/nounoune83/status/2114337709837721794",
+      "source_url": "https://x.com/nounoune83/status/2114337709837721794",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@HannaaLido Supply hubs in Ethiopia provide shelter, protection, and staging grounds for combat drones that bombard refugee camps along the Sudanese border.",
+      "text_excerpt": "@HannaaLido Supply hubs in Ethiopia provide shelter, protection, and staging grounds for combat drones that bombard refugee camps along the Sudanese border.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:50:51Z",
+      "last_collected_at": "2026-10-25T12:50:51Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21747",
+      "timestamp": "2026-10-25T12:45:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xf1fou",
+      "author": "Different_Chest_1450",
+      "url": "https://www.reddit.com/r/u_Different_Chest_1450/comments/1xf1fou/moving_to_the_netherlands_happy_to_help_with_your/",
+      "source_url": "https://www.reddit.com/r/u_Different_Chest_1450/comments/1xf1fou/moving_to_the_netherlands_happy_to_help_with_your/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Moving to the Netherlands? Happy to help with your questions about jobs, relocation and settling in 🇳🇱\nHi everyone! Over the past few years, I've helped quite a few international professionals explore opportunities in the Netherlands, whether that's finding a job, understanding the Dutch job market, or figuring out what it takes to relocate here. I know that moving to another country can be overwhelming. There are questions about finding work, visa sponsorship, salaries, the 30% ruling, housing, and whether your experience will translate well to the Dutch market. I run Resourcers, a talent platform focused on connecting professionals with companies in the Netherlands. Through my work, I speak with international candidates and employers regularly, so I thought it might be useful to offer some help here as well. If you're considering moving to the Netherlands, or have recently arrived, feel free to ask me anything! For example, I can try to help with: Finding companies that hire international professionals. Understanding which roles and industries might offer good opportunities. Visa sponsorship and the Highly Skilled Migrant route. Dutch salary expectations and employment conditions. Improving your CV or positioning your experience for the Dutch market. General questions about navigating the job search as an international candidate. My background is mainly in connecting professionals with employers, particularly in technology and international business, but I'm happy to see if I can help with other questions too. I won't necessarily have every answer, and I can't promise anyone a job, but I'll gladly share what I know or point you in the right direction. What's your biggest question or challenge when it comes to moving to or finding a job in the Netherlands? submitted by /u/Different_Chest_1450 to u/Different_Chest_1450",
+      "text_excerpt": "Moving to the Netherlands? Happy to help with your questions about jobs, relocation and settling in 🇳🇱\nHi everyone! Over the past few years, I've helped quite a few international professionals explore opportunities in the Netherlands, whether that's finding a job, understanding the Dutch job market, or figuring out what it takes to relocate here. I know that moving to another country can be overwhelming. There are qu…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:50:18Z",
+      "last_collected_at": "2026-10-25T12:50:18Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21764",
+      "timestamp": "2026-10-25T12:42:03Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114336686612111465",
+      "author": "alexxwest9",
+      "url": "https://x.com/alexxwest9/status/2114336686612111465",
+      "source_url": "https://x.com/alexxwest9/status/2114336686612111465",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Illegal Migrants complain that they are not allowed to cross the Polish border:\n\n“We want to enter Poland, but they won’t let us. They are threatening to harm us if we try to cross over. I want to go to Poland or Germany to have a good life.”\n#ebs https://t.co/UJ8pvOCQiJ",
+      "text_excerpt": "Illegal Migrants complain that they are not allowed to cross the Polish border:\n\n“We want to enter Poland, but they won’t let us. They are threatening to harm us if we try to cross over. I want to go to Poland or Germany to have a good life.”\n#ebs https://t.co/UJ8pvOCQiJ",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:50:52Z",
+      "last_collected_at": "2026-10-25T12:50:52Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21772",
+      "timestamp": "2026-10-25T12:40:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114336231324840058",
+      "author": "DimetrodonD",
+      "url": "https://x.com/DimetrodonD/status/2114336231324840058",
+      "source_url": "https://x.com/DimetrodonD/status/2114336231324840058",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@PigLazer Nah. It's just Russian hybrid warfare working as intended. We accepted Russian drone incursions and strikes on civillian boats in the Black Sea as normal. In a year, it's gonna be normal that armed \"migrants\" try to secretly cross over into Poland, Estonia and Latvia",
+      "text_excerpt": "@PigLazer Nah. It's just Russian hybrid warfare working as intended. We accepted Russian drone incursions and strikes on civillian boats in the Black Sea as normal. In a year, it's gonna be normal that armed \"migrants\" try to secretly cross over into Poland, Estonia and Latvia",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:51:22Z",
+      "last_collected_at": "2026-10-25T12:51:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21793",
+      "timestamp": "2026-10-25T12:33:03Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117501564225266230",
+      "author": null,
+      "url": "https://social.vir.group/@analytics/117501564225266230",
+      "source_url": "https://social.vir.group/@analytics/117501564225266230",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "🟡 CounterTerrorism | 5/10 🇾🇪 Seizure of Houthi cell in Yemen A 13-member Houthi cell and a truck carrying weapons and explosives smuggled by sea were seized in Shabwa (Yemen). # OSINT # NewsGroup # Yemen # Houthis # Smuggling",
+      "text_excerpt": "🟡 CounterTerrorism | 5/10 🇾🇪 Seizure of Houthi cell in Yemen A 13-member Houthi cell and a truck carrying weapons and explosives smuggled by sea were seized in Shabwa (Yemen). # OSINT # NewsGroup # Yemen # Houthis # Smuggling",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:51:55Z",
+      "last_collected_at": "2026-10-25T12:51:55Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21775",
+      "timestamp": "2026-10-25T12:24:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114332381901709558",
+      "author": "RobTaylor148610",
+      "url": "https://x.com/RobTaylor148610/status/2114332381901709558",
+      "source_url": "https://x.com/RobTaylor148610/status/2114332381901709558",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@Freelander27 They want 2stop the illegal boat crossings &amp; brag we’ve solved the problem\nFollowing their distorted logic they will succeed. The EU will give every migrant citizenship entitling them 2end the hazardous journey, board a Calais Ferry and arrive legally via Free Movement\nIts coming",
+      "text_excerpt": "@Freelander27 They want 2stop the illegal boat crossings &amp; brag we’ve solved the problem\nFollowing their distorted logic they will succeed. The EU will give every migrant citizenship entitling them 2end the hazardous journey, board a Calais Ferry and arrive legally via Free Movement\nIts coming",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:51:22Z",
+      "last_collected_at": "2026-10-25T12:51:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21776",
+      "timestamp": "2026-10-25T12:23:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114332118251708509",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2114332118251708509",
+      "source_url": "https://x.com/grok/status/2114332118251708509",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "@toottootchoo @lukerosiak No, second language after English is Spanish. Vietnamese is third, then Korean (per VA rules for some localities).\n\nYes: US took ~125k Vietnamese refugees in 1975, then hundreds of thousands more (boat people, Orderly Departure) through the 1990s, totaling ~760k by 2002. Programs",
+      "text_excerpt": "@toottootchoo @lukerosiak No, second language after English is Spanish. Vietnamese is third, then Korean (per VA rules for some localities).\n\nYes: US took ~125k Vietnamese refugees in 1975, then hundreds of thousands more (boat people, Orderly Departure) through the 1990s, totaling ~760k by 2002. Programs",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:51:22Z",
+      "last_collected_at": "2026-10-25T12:51:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21801",
+      "timestamp": "2026-10-25T12:21:40Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114331559662895406",
+      "author": "Leevettt",
+      "url": "https://x.com/Leevettt/status/2114331559662895406",
+      "source_url": "https://x.com/Leevettt/status/2114331559662895406",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@Soleygame @RealCleora @Ruth_Mensch Mark Weber Customs &amp; Immigration told a House of Commons standing committee that short-staffing &amp; the use of the Canada Border Services Agency's (CBSA) automated \"One Touch\" intake system allow refugees into the country without immediate, in-person security screening upon arrival",
+      "text_excerpt": "@Soleygame @RealCleora @Ruth_Mensch Mark Weber Customs &amp; Immigration told a House of Commons standing committee that short-staffing &amp; the use of the Canada Border Services Agency's (CBSA) automated \"One Touch\" intake system allow refugees into the country without immediate, in-person security screening upon arrival",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T12:52:24Z",
+      "last_collected_at": "2026-10-25T12:52:24Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-25T07:25:20.678108+00:00",
+  "last_archived_at": "2026-10-25T12:52:29.122364+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -1885,6 +2547,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-25T02:02:03Z",
       "updated_at": "2026-10-25T02:02:03Z"
+    },
+    {
+      "id": 579,
+      "group_id": 579,
+      "event_type": "BORDER_MEASURE",
+      "dominant_event_type": "BORDER_MEASURE",
+      "title": "BORDER_MEASURE - MIDDLE_EAST",
+      "representative_text": "@Silentone_P99 @LibOrNormal Naw. You’re blinded by the Iran war. Remember what he’s done - He Closed The Border!! No more caravans crossing with thousands of ‘migrants’, exposed the rot and corruption of DC (mainly Democrat), exposed and dismantled USAID-Democrat slush fund and funder of those caravans",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-25T12:47:28Z",
+      "last_seen": "2026-10-25T12:47:28Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-25T12:50:51Z",
+      "updated_at": "2026-10-25T12:50:51Z"
     }
   ]
 }
