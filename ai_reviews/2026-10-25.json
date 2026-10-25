@@ -694,6 +694,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T20:08:53.566207+00:00"
+    },
+    "record:2114438748276662736": {
+      "hu_text": "69%-uk migráns, akiket a határon megállítanak vagy elfognak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét százalékot közöl a határon megállított migránsokról, de nincs megerősített forrás vagy adat, ezért ellenőrizetlen. A határbiztonsági kategória megfelelő, mert a szöveg a határon történő megállításról szól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:09:01.967034+00:00"
+    },
+    "record:2114438800411967651": {
+      "hu_text": "Nagyon rossz volt. New York város adófizetőit 12 milliárd dollárral terhelték a migránsválság miatt Biden alatt. Végtelenül sok nem megjelenő munkahely, szubvencionált emberkereskedelem, illegálisnak számító migráns Medicaid finanszírozás, börtönöknek küldött covid támogatások stb.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai véleményeket és állításokat tartalmaz, amelyek migrációs témához kapcsolódnak, de nincs bizonyíték a konkrét pénzügyi vagy jogi állításokra, ezért ellenőrizetlen. Fontos a társadalmi diskurzus kategória, mert politikai és társadalmi véleményeket fogalmaz meg.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:09:01.967051+00:00"
+    },
+    "record:2114440759256781153": {
+      "hu_text": "Ma reggel egy frissen érkezett hosszúfülű bagoly jelent meg Grutnessnél, Shetlandon. Egy gyönyörű madár.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés madárról szól, nem migrációs eseményről vagy témáról, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:09:01.967056+00:00"
+    },
+    "record:2114444207867981853": {
+      "hu_text": "Sok migráns a világ minden tájáról Kanadából az Egyesült Államok vagy más országok felé távozik; ugyanígy a Kanadában született emberek is elvándorolnak – vagy mert ugyanazokkal a problémákkal küzdenek, mint én, vagy mert el akarják kerülni azokat a gondokat, amiket én jelenleg Torontóban tapasztalok.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsok és kanadai születésű emberek elvándorlási szándékáról szól, ami a mozgási szándék kategóriába tartozik. Az állítás személyes tapasztalatokra és általános megfigyelésekre épül, nincs megerősített adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:09:01.967060+00:00"
+    },
+    "record:2114447117041172567": {
+      "hu_text": "Nem, ezt globális NGO-k okozzák, amelyek politikusokat lobbiznak (megvesztegetnek), elősegítik a nyitott határokat és a migránsok emberkereskedelmét, hogy előidézzék a jelenlegi káoszt, így kétségbeesésünkben elfogadjuk az ő 2030-as totalitárius 'megoldásukat'... és ez az ütemterv szerint működik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai összeesküvés-elméletet tartalmaz migrációs témában, amely társadalmi diskurzus kategóriába tartozik. Nincs bizonyíték az állításokra, ezért ellenőrizetlen. Fontos a magas prioritás a potenciális félretájékoztatás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T20:09:01.967064+00:00"
     }
   },
   "legacy_reviews": {}
