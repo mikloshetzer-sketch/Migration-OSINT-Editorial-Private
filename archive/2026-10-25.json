@@ -133,6 +133,28 @@
       "text": "In 1783, 15,000 Loyalist refugees arrived on the St. John River with no land and no orders.\n\nWithin months, the settlement fractured into armed camps, forcing Britain to partition Nova Scotia and create a new province: New Brunswick.\n\nFull documentary streaming now on The Amit... https://t.co/JtuQ4RbUCM",
       "url": "https://x.com/Amitylenz/status/2114393805935812762",
       "source_url": "https://x.com/Amitylenz/status/2114393805935812762"
+    },
+    {
+      "id": 726,
+      "event_id": 726,
+      "source": "X",
+      "source_post_id": "2114440759256781153",
+      "author": "Naturegir360",
+      "published_at": "2026-10-25T19:35:36Z",
+      "collected_at": "2026-10-25T20:08:04Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.4,
+      "event_confidence": 0.4,
+      "relevance_score": 20.0,
+      "text": "A newly-arrived migrant Long-eared Owl at Grutness, Shetland this morning. A beautiful bird. https://t.co/XFodYtXI8q",
+      "url": "https://x.com/Naturegir360/status/2114440759256781153",
+      "source_url": "https://x.com/Naturegir360/status/2114440759256781153"
     }
   ],
   "influence_signals": [
@@ -776,6 +798,304 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1212,
+      "source": "X",
+      "source_post_id": "2114438748276662736",
+      "author": "MillyG74",
+      "language": "en",
+      "published_at": "2026-10-25T19:27:36Z",
+      "first_detected_at": "2026-10-25T20:07:00Z",
+      "last_detected_at": "2026-10-25T20:07:00Z",
+      "detection_count": 1,
+      "text": "@slantwisenews @LeadingReport 69% are also migrants being stopped/intercepted at the border",
+      "text_excerpt": "@slantwisenews @LeadingReport 69% are also migrants being stopped/intercepted at the border",
+      "url": "https://x.com/MillyG74/status/2114438748276662736",
+      "source_url": "https://x.com/MillyG74/status/2114438748276662736",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1213,
+      "source": "X",
+      "source_post_id": "2114438159366807753",
+      "author": "MillyG74",
+      "language": "en",
+      "published_at": "2026-10-25T19:25:16Z",
+      "first_detected_at": "2026-10-25T20:07:00Z",
+      "last_detected_at": "2026-10-25T20:07:00Z",
+      "detection_count": 1,
+      "text": "@LeadingReport 69% of that \"deportations\" were migrants stopped or intercepted at the border. Not illegals already here in the states.",
+      "text_excerpt": "@LeadingReport 69% of that \"deportations\" were migrants stopped or intercepted at the border. Not illegals already here in the states.",
+      "url": "https://x.com/MillyG74/status/2114438159366807753",
+      "source_url": "https://x.com/MillyG74/status/2114438159366807753",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1214,
+      "source": "X",
+      "source_post_id": "2114447117041172567",
+      "author": "ScottMa47226876",
+      "language": "en",
+      "published_at": "2026-10-25T20:00:51Z",
+      "first_detected_at": "2026-10-25T20:07:33Z",
+      "last_detected_at": "2026-10-25T20:07:33Z",
+      "detection_count": 1,
+      "text": "@AdaLluch No, it's caused by globalist NGOs who lobby (bribe) politicians, facilitate open borders &amp; human trafficking of migrants to engineer the present chaos, so in desperation on our knees we will accept their agenda 2030 totalitarian 'solution'...\n\n...and it's working to schedule.",
+      "text_excerpt": "@AdaLluch No, it's caused by globalist NGOs who lobby (bribe) politicians, facilitate open borders &amp; human trafficking of migrants to engineer the present chaos, so in desperation on our knees we will accept their agenda 2030 totalitarian 'solution'...\n\n...and it's working to schedule.",
+      "url": "https://x.com/ScottMa47226876/status/2114447117041172567",
+      "source_url": "https://x.com/ScottMa47226876/status/2114447117041172567",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking of migrants"
+        ],
+        [
+          "facilitation",
+          "facilitate open borders &amp; human trafficking of migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking of migrants",
+        "facilitate open borders &amp; human trafficking of migrants"
+      ],
+      "signal_context_rejections": [
+        "bribe"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1216,
+      "source": "X",
+      "source_post_id": "2114444207867981853",
+      "author": "p_communityhub",
+      "language": "en",
+      "published_at": "2026-10-25T19:49:18Z",
+      "first_detected_at": "2026-10-25T20:08:03Z",
+      "last_detected_at": "2026-10-25T20:08:03Z",
+      "detection_count": 1,
+      "text": "Many migrants from all over the world are leaving Canada for the US or other countries; likewise, people born in Canada are emigrating—either because they're facing the same problems that I'm, or because they want to avoid the issues I am currently experiencing in Toronto. #News",
+      "text_excerpt": "Many migrants from all over the world are leaving Canada for the US or other countries; likewise, people born in Canada are emigrating—either because they're facing the same problems that I'm, or because they want to avoid the issues I am currently experiencing in Toronto. #News",
+      "url": "https://x.com/p_communityhub/status/2114444207867981853",
+      "source_url": "https://x.com/p_communityhub/status/2114444207867981853",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from all over the world are leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from all over the world are leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1215,
+      "source": "X",
+      "source_post_id": "2114438800411967651",
+      "author": "katiewr31413491",
+      "language": "en",
+      "published_at": "2026-10-25T19:27:49Z",
+      "first_detected_at": "2026-10-25T20:07:33Z",
+      "last_detected_at": "2026-10-25T20:07:33Z",
+      "detection_count": 1,
+      "text": "@MurielBlaivePhD It was SO awful.\nNYC taxpayers were charged $12 billion for migrant crisis - under Biden. Endless no show jobs, subsidized sex trafficking, financing migrant medicaid (technically illegal), sending covid checks to prisoners ….",
+      "text_excerpt": "@MurielBlaivePhD It was SO awful.\nNYC taxpayers were charged $12 billion for migrant crisis - under Biden. Endless no show jobs, subsidized sex trafficking, financing migrant medicaid (technically illegal), sending covid checks to prisoners ….",
+      "url": "https://x.com/katiewr31413491/status/2114438800411967651",
+      "source_url": "https://x.com/katiewr31413491/status/2114438800411967651",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking, financing migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking, financing migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1404,6 +1724,304 @@
       "signal_context_rejections": [
         "could"
       ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1212,
+      "source": "X",
+      "source_post_id": "2114438748276662736",
+      "author": "MillyG74",
+      "language": "en",
+      "published_at": "2026-10-25T19:27:36Z",
+      "first_detected_at": "2026-10-25T20:07:00Z",
+      "last_detected_at": "2026-10-25T20:07:00Z",
+      "detection_count": 1,
+      "text": "@slantwisenews @LeadingReport 69% are also migrants being stopped/intercepted at the border",
+      "text_excerpt": "@slantwisenews @LeadingReport 69% are also migrants being stopped/intercepted at the border",
+      "url": "https://x.com/MillyG74/status/2114438748276662736",
+      "source_url": "https://x.com/MillyG74/status/2114438748276662736",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1213,
+      "source": "X",
+      "source_post_id": "2114438159366807753",
+      "author": "MillyG74",
+      "language": "en",
+      "published_at": "2026-10-25T19:25:16Z",
+      "first_detected_at": "2026-10-25T20:07:00Z",
+      "last_detected_at": "2026-10-25T20:07:00Z",
+      "detection_count": 1,
+      "text": "@LeadingReport 69% of that \"deportations\" were migrants stopped or intercepted at the border. Not illegals already here in the states.",
+      "text_excerpt": "@LeadingReport 69% of that \"deportations\" were migrants stopped or intercepted at the border. Not illegals already here in the states.",
+      "url": "https://x.com/MillyG74/status/2114438159366807753",
+      "source_url": "https://x.com/MillyG74/status/2114438159366807753",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1214,
+      "source": "X",
+      "source_post_id": "2114447117041172567",
+      "author": "ScottMa47226876",
+      "language": "en",
+      "published_at": "2026-10-25T20:00:51Z",
+      "first_detected_at": "2026-10-25T20:07:33Z",
+      "last_detected_at": "2026-10-25T20:07:33Z",
+      "detection_count": 1,
+      "text": "@AdaLluch No, it's caused by globalist NGOs who lobby (bribe) politicians, facilitate open borders &amp; human trafficking of migrants to engineer the present chaos, so in desperation on our knees we will accept their agenda 2030 totalitarian 'solution'...\n\n...and it's working to schedule.",
+      "text_excerpt": "@AdaLluch No, it's caused by globalist NGOs who lobby (bribe) politicians, facilitate open borders &amp; human trafficking of migrants to engineer the present chaos, so in desperation on our knees we will accept their agenda 2030 totalitarian 'solution'...\n\n...and it's working to schedule.",
+      "url": "https://x.com/ScottMa47226876/status/2114447117041172567",
+      "source_url": "https://x.com/ScottMa47226876/status/2114447117041172567",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking of migrants"
+        ],
+        [
+          "facilitation",
+          "facilitate open borders &amp; human trafficking of migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking of migrants",
+        "facilitate open borders &amp; human trafficking of migrants"
+      ],
+      "signal_context_rejections": [
+        "bribe"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1216,
+      "source": "X",
+      "source_post_id": "2114444207867981853",
+      "author": "p_communityhub",
+      "language": "en",
+      "published_at": "2026-10-25T19:49:18Z",
+      "first_detected_at": "2026-10-25T20:08:03Z",
+      "last_detected_at": "2026-10-25T20:08:03Z",
+      "detection_count": 1,
+      "text": "Many migrants from all over the world are leaving Canada for the US or other countries; likewise, people born in Canada are emigrating—either because they're facing the same problems that I'm, or because they want to avoid the issues I am currently experiencing in Toronto. #News",
+      "text_excerpt": "Many migrants from all over the world are leaving Canada for the US or other countries; likewise, people born in Canada are emigrating—either because they're facing the same problems that I'm, or because they want to avoid the issues I am currently experiencing in Toronto. #News",
+      "url": "https://x.com/p_communityhub/status/2114444207867981853",
+      "source_url": "https://x.com/p_communityhub/status/2114444207867981853",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from all over the world are leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from all over the world are leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1215,
+      "source": "X",
+      "source_post_id": "2114438800411967651",
+      "author": "katiewr31413491",
+      "language": "en",
+      "published_at": "2026-10-25T19:27:49Z",
+      "first_detected_at": "2026-10-25T20:07:33Z",
+      "last_detected_at": "2026-10-25T20:07:33Z",
+      "detection_count": 1,
+      "text": "@MurielBlaivePhD It was SO awful.\nNYC taxpayers were charged $12 billion for migrant crisis - under Biden. Endless no show jobs, subsidized sex trafficking, financing migrant medicaid (technically illegal), sending covid checks to prisoners ….",
+      "text_excerpt": "@MurielBlaivePhD It was SO awful.\nNYC taxpayers were charged $12 billion for migrant crisis - under Biden. Endless no show jobs, subsidized sex trafficking, financing migrant medicaid (technically illegal), sending covid checks to prisoners ….",
+      "url": "https://x.com/katiewr31413491/status/2114438800411967651",
+      "source_url": "https://x.com/katiewr31413491/status/2114438800411967651",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking, financing migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking, financing migrant"
+      ],
+      "signal_context_rejections": [],
       "migration_context": true,
       "human_migration_context": true,
       "historical_reference": false,
@@ -2975,9 +3593,384 @@
       "first_collected_at": "2026-10-25T17:19:46Z",
       "last_collected_at": "2026-10-25T17:19:46Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21904",
+      "timestamp": "2026-10-25T20:00:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114447020375277696",
+      "author": "order477",
+      "url": "https://x.com/order477/status/2114447020375277696",
+      "source_url": "https://x.com/order477/status/2114447020375277696",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@DeepLeaksHQ Roughly 330,000–340,000 irregular sea arrivals (the main tracked measure of irregular migrant entries into Italy) from late October 2022 through mid/late October 2026, based on Italian Ministry of Interior / UNHCR data.",
+      "text_excerpt": "@DeepLeaksHQ Roughly 330,000–340,000 irregular sea arrivals (the main tracked measure of irregular migrant entries into Italy) from late October 2022 through mid/late October 2026, based on Italian Ministry of Interior / UNHCR data.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:59Z",
+      "last_collected_at": "2026-10-25T20:06:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21892",
+      "timestamp": "2026-10-25T20:00:18Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114446976607518968",
+      "author": "BQ_Kunene",
+      "url": "https://x.com/BQ_Kunene/status/2114446976607518968",
+      "source_url": "https://x.com/BQ_Kunene/status/2114446976607518968",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@mmkubayi Amend the immigration laws.  SA can't afford to accept fake asylum seekers from 5000km away from us (Pakistani, Bangladesh, Somalians &amp; Ethiopians), and build REFUGEE CAMPS near the border, we don't want these people in our townships and rural area's @Leon_Schreib @GovernmentZA",
+      "text_excerpt": "@mmkubayi Amend the immigration laws.  SA can't afford to accept fake asylum seekers from 5000km away from us (Pakistani, Bangladesh, Somalians &amp; Ethiopians), and build REFUGEE CAMPS near the border, we don't want these people in our townships and rural area's @Leon_Schreib @GovernmentZA",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:30Z",
+      "last_collected_at": "2026-10-25T20:06:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21893",
+      "timestamp": "2026-10-25T19:58:48Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114446600831721924",
+      "author": "EclipeByDeath",
+      "url": "https://x.com/EclipeByDeath/status/2114446600831721924",
+      "source_url": "https://x.com/EclipeByDeath/status/2114446600831721924",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "checkpoint",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@Tironianae On April 8, 2025, Border Patrol arrested two American citizens at the Highway 86 checkpoint near Westmorland, California, for trying to smuggle two unaccompanied Mexican girls, ages 10 and 12. The women were not related to the children, the documents did not match, and El Centro https://t.co/Ri58hBx6Ot",
+      "text_excerpt": "@Tironianae On April 8, 2025, Border Patrol arrested two American citizens at the Highway 86 checkpoint near Westmorland, California, for trying to smuggle two unaccompanied Mexican girls, ages 10 and 12. The women were not related to the children, the documents did not match, and El Centro https://t.co/Ri58hBx6Ot",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:30Z",
+      "last_collected_at": "2026-10-25T20:06:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21898",
+      "timestamp": "2026-10-25T19:53:10Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114445179855749365",
+      "author": "TinaZimmermann4",
+      "url": "https://x.com/TinaZimmermann4/status/2114445179855749365",
+      "source_url": "https://x.com/TinaZimmermann4/status/2114445179855749365",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "💊Illegal Migrants complain that they are not allowed to cross the Polish border:\n\n“💥We want to enter Poland, but they won’t let us. \n💥They are threatening to harm us if we try to cross over. \n\n💪Poland says NO to Open Borders\n🗺️ Every country needs \nto be like Poland 🇵🇱 \nSCIF https://t.co/OsDdthaui1",
+      "text_excerpt": "💊Illegal Migrants complain that they are not allowed to cross the Polish border:\n\n“💥We want to enter Poland, but they won’t let us. \n💥They are threatening to harm us if we try to cross over. \n\n💪Poland says NO to Open Borders\n🗺️ Every country needs \nto be like Poland 🇵🇱 \nSCIF https://t.co/OsDdthaui1",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:31Z",
+      "last_collected_at": "2026-10-25T20:06:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21907",
+      "timestamp": "2026-10-25T19:41:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114442135936123317",
+      "author": "RexPad",
+      "url": "https://x.com/RexPad/status/2114442135936123317",
+      "source_url": "https://x.com/RexPad/status/2114442135936123317",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "vessel",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@Jonatha59730373 @ClarkeMicah Proof of Ru stoking war against UK is this: Royal Navy vessels patrol the Baltic &amp; Black Sea. RAF surveilance planes fly close to Crimea? Dumba$$, the longer this war lasts the more hunger u cause in Africa. What this means is more African migrants going to Europe. Enjoy.",
+      "text_excerpt": "@Jonatha59730373 @ClarkeMicah Proof of Ru stoking war against UK is this: Royal Navy vessels patrol the Baltic &amp; Black Sea. RAF surveilance planes fly close to Crimea? Dumba$$, the longer this war lasts the more hunger u cause in Africa. What this means is more African migrants going to Europe. Enjoy.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:07:00Z",
+      "last_collected_at": "2026-10-25T20:07:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21911",
+      "timestamp": "2026-10-25T19:28:26Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114438956284563809",
+      "author": "MillyG74",
+      "url": "https://x.com/MillyG74/status/2114438956284563809",
+      "source_url": "https://x.com/MillyG74/status/2114438956284563809",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "interception",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@tradingdaily25 @LeadingReport And 69% are migrants being intercepted at the border - so not what most of us would consider deportations",
+      "text_excerpt": "@tradingdaily25 @LeadingReport And 69% are migrants being intercepted at the border - so not what most of us would consider deportations",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:07:00Z",
+      "last_collected_at": "2026-10-25T20:07:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21922",
+      "timestamp": "2026-10-25T18:52:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114429994134839427",
+      "author": "petegee1",
+      "url": "https://x.com/petegee1/status/2114429994134839427",
+      "source_url": "https://x.com/petegee1/status/2114429994134839427",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "boat",
+        "deportation",
+        "smuggling"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "@MikeyDT1979 More migration ? Boat numbers are down, deportations are up. People smuggler arrests are up.  Farage might shout about the increase in boats he caused but we now have a government finally doing something about it.",
+      "text_excerpt": "@MikeyDT1979 More migration ? Boat numbers are down, deportations are up. People smuggler arrests are up.  Farage might shout about the increase in boats he caused but we now have a government finally doing something about it.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:07:33Z",
+      "last_collected_at": "2026-10-25T20:07:33Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21900",
+      "timestamp": "2026-10-25T15:00:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xf4l3r",
+      "author": "yt-app",
+      "url": "https://www.reddit.com/r/PredictionCodesMarket/comments/1xf4l3r/new_france_24_english_upload_calais_10_years/",
+      "source_url": "https://www.reddit.com/r/PredictionCodesMarket/comments/1xf4l3r/new_france_24_english_upload_calais_10_years/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "New FRANCE 24 English Upload: Calais, 10 years after the Jungle: Migrants still risk the Channel crossing • FRANCE 24 English",
+      "text_excerpt": "New FRANCE 24 English Upload: Calais, 10 years after the Jungle: Migrants still risk the Channel crossing • FRANCE 24 English",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:32Z",
+      "last_collected_at": "2026-10-25T20:06:32Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21901",
+      "timestamp": "2026-10-25T14:29:40Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xf3tvc",
+      "author": "AutoNewspaperAdmin",
+      "url": "https://www.reddit.com/r/AutoNewspaper/comments/1xf3tvc/world_calais_10_years_after_the_jungle_migrants/",
+      "source_url": "https://www.reddit.com/r/AutoNewspaper/comments/1xf3tvc/world_calais_10_years_after_the_jungle_migrants/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "[World] - Calais, 10 years after the Jungle: Migrants still risk the Channel crossing | France24",
+      "text_excerpt": "[World] - Calais, 10 years after the Jungle: Migrants still risk the Channel crossing | France24",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:32Z",
+      "last_collected_at": "2026-10-25T20:06:32Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21902",
+      "timestamp": "2026-10-25T14:27:18Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xf3rqw",
+      "author": "AutoNewsAdmin",
+      "url": "https://www.reddit.com/r/FRANCE24auto/comments/1xf3rqw/world_calais_10_years_after_the_jungle_migrants/",
+      "source_url": "https://www.reddit.com/r/FRANCE24auto/comments/1xf3rqw/world_calais_10_years_after_the_jungle_migrants/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "[World] - Calais, 10 years after the Jungle: Migrants still risk the Channel crossing",
+      "text_excerpt": "[World] - Calais, 10 years after the Jungle: Migrants still risk the Channel crossing",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T20:06:32Z",
+      "last_collected_at": "2026-10-25T20:06:32Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-25T17:21:28.451116+00:00",
+  "last_archived_at": "2026-10-25T20:08:13.571616+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -3237,6 +4230,35 @@
       "average_confidence": 0.5,
       "created_at": "2026-10-25T17:21:15Z",
       "updated_at": "2026-10-25T17:21:15Z"
+    },
+    {
+      "id": 582,
+      "group_id": 582,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "A newly-arrived migrant Long-eared Owl at Grutness, Shetland this morning. A beautiful bird. https://t.co/XFodYtXI8q",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-25T19:35:36Z",
+      "last_seen": "2026-10-25T19:35:36Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.4,
+      "average_confidence": 0.4,
+      "created_at": "2026-10-25T20:08:04Z",
+      "updated_at": "2026-10-25T20:08:04Z"
     }
   ]
 }
