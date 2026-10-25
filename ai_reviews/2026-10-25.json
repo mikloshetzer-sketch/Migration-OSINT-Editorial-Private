@@ -474,6 +474,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T17:21:46.907644+00:00"
+    },
+    "record:2114394981511434275": {
+      "hu_text": "@DavQuinn Közép-Írország kénytelen együtt élni felnőtt gyermekeivel, miközben olvassa, hogy az állam házakat ad a nemrég érkezett afrikai és ázsiai gazdasági migránsoknak, akik illegálisan léptek be az országba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás közösségi médiás vélemény, amely nem tartalmaz konkrét bizonyítékot az állami lakásadásokra vagy a migránsok illegális belépésére vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:58.290043+00:00"
+    },
+    "record:2114400242627997946": {
+      "hu_text": "🚨 FRISS HÍR: Több mint 400 illegális bevándorlót tartóztattak le egy hatalmas ICE rajtaütés során Houstonban – köztük elítélt gyilkosokat és gyermekek elleni ragadozókat 🚨\n\nA Fox News kizárólagosan az ICE-vel volt egyhetes akció alatt Houstonban – és amit találtak, az sokkoló.\n\n💥 422 illegális migráns",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy rendőrségi műveletről szól, de nincs független megerősítés vagy hivatalos forrás megjelölve, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:58.290063+00:00"
+    },
+    "record:2114405151780000176": {
+      "hu_text": "Tehát jól értem, hogy az illegális migránsok nap mint nap hajókkal törnek be az országunkba, miközben a helyi tervezési hivatal és a rendőrség az adófizetők pénzét pazarolja erre a hülyeségre. A szegény 12 éves! @bedspolice @letstalkcentral",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és panasz az illegális migrációról és a helyi hatóságok tevékenységéről, amely nem tartalmaz konkrét bizonyítékot vagy hivatalos adatot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:58.290066+00:00"
+    },
+    "record:reddit_1xf6drw": {
+      "hu_text": "[Eclipse Net] - 8. fejezet\nKÉT NAPPAL A TANÁCSADÓJÁVAL FOLYTATOTT BESZÉLGETÉS UTÁN Lin Zong barátnője ismét megmondta neki, hogy mindig ugyanazokat a tervezői ruhákat viselje, amikor kimegy. Lin Zong egyedül sétált lassú tempóban a Fuxing középső útról a Yan'an emelt útra. Chen professzor továbbította neki Liang professzor elérhetőségét, aki szívesen fogadná jelentkezését, de az idei keret már betelt, így Lin Zongnak jövőre kell jelentkeznie. Közben az hadseregtől is érkezett hívás: bejutott a hónap végi hivatalos interjúra. Így két jövő között állt: ha felveszik a doktori programba, három év múlva a társadalmi hitel pontszáma javulna. A katonai előléptetés szabályait nem ismerte pontosan. A társadalmi hitel rendszer négy osztályból áll (A, B, C, D), mindegyik három fokozattal (pl. C1, C2, C3).",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy irodalmi vagy narratív szöveg, amely nem tartalmaz migrációs eseményre vagy aktuális helyzetre vonatkozó konkrét tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:58.290068+00:00"
+    },
+    "telegram:1210507736:2511": {
+      "hu_text": "⚡️GYORS! Migránsoknak szóló hírek [2026.10.25.] 🇷🇺\n\nNézze meg a videót 🎬\n\nNézze meg a videót 💙\n\n________________________\n✍🏻 Kapcsolat vagy ingyenes jogi információkért link.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés migránsoknak szóló híreket és jogi információkat kínál, de nem tartalmaz konkrét tényállítást vagy eseményt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:58.290070+00:00"
+    },
+    "telegram:1261826972:53838": {
+      "hu_text": "◼ Logroñóban tüntetés zajlott, amely méltó befogadást követel a Ceutába érkező bevándorlók számára.\n\n➡️ Az Amnesty International és a Rioja Acoge tüntetést szervezett a rasszizmus elleni fellépésért, a jogszerű és biztonságos átjárókért, a gyermekvédelemért és a határokon tapasztalható erőszak megszüntetéséért.\n\nhttps://elfarodeceuta.es/concentracion-logrono-reclama-acogida-digna-inmigrantes-ceuta/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy tüntetésről számol be, amelyet ismert szervezetek szerveztek, de nincs független forrás vagy további bizonyíték a részletek megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:58.290072+00:00"
     }
   },
   "legacy_reviews": {}
