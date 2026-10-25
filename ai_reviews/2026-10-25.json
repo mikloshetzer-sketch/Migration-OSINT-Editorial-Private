@@ -144,6 +144,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T02:05:57.522061+00:00"
+    },
+    "information:21662": {
+      "hu_text": "Az illegális drogok, mint a fentanil, tönkretették fiatalok és családok életét az államunkban. Ezért harcoltam a határ lezárásáért az illegális migránsok előtt, és elfogadtattam a Halt Fentanyl törvényt, amely szigorította a kábítószer-kereskedelem büntetéseit, valamint a másolatként előállított anyagokat is szabályozza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai állítást tartalmaz a határzárról és a kábítószer-ellenes törvényről, de nincs konkrét bizonyíték a hatásokról vagy a törvény részleteiről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:07.659527+00:00"
+    },
+    "information:21675": {
+      "hu_text": "Ilhan Omar Mogadishuban, Szomáliában született (hivatalos adatok szerint 1982. október 4.). Családja a polgárháború elől menekült, évekig egy kenyai menekülttáborban élt, majd 1995-ben érkeztek az Egyesült Államokba. Omar 2000-ben vált állampolgárrá apja révén, aki őt kiskorúként honosította.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés életrajzi adatokat tartalmaz, amelyek hivatalos nyilvántartásokkal összevethetők, de jelenleg nincs megerősített forrás a pontos adatokra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:07.659555+00:00"
+    },
+    "information:21677": {
+      "hu_text": "Hogyan alakítsuk át Az utolsó Jediket egy jobb és értelmesebb történetté, mint egy újabb ismétlés (1. rész). A szerző részletesen ismerteti az átdolgozás terveit, beleértve a történet nézőpontjainak megváltoztatását, a helyszínek módosítását és új karakterek bevezetését. A sorozat hat részből áll majd, és a következő évben, az eredeti film 10. évfordulójáig folyamatosan megosztják a részeket.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy filmes rajongói átdolgozásról szól, amely nem kapcsolódik a migrációhoz vagy annak aspektusaihoz, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:07.659560+00:00"
+    },
+    "record:2114154271692169592": {
+      "hu_text": "@realDonaldTrump Egyre több fegyvert foglalnak le, amelyeket migránsoknak szállítanak az Egyesült Királyságban. Katonai törvényt kellene kihirdetni, rendet tenni a saját házunk táján, majd felszabadítani az Egyesült Királyság népét a kormányuktól és a migránsoktól, itt az ideje a rezsimváltásnak. Ők a gyökereink és örökségünk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai és társadalmi véleményt tartalmaz migránsokkal és fegyverekkel kapcsolatban, de nincs bizonyíték a fegyverszállítások tényleges megtörténtére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:07.659564+00:00"
+    },
+    "record:2114169560853094780": {
+      "hu_text": "@TRobinsonNewEra A pápa támogatását fejezte ki az olasz püspökök által szervezett első migránsmentő misszióhoz.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy humanitárius esemény támogatásáról szól, de nincs további bizonyíték a pápa hivatalos állásfoglalására vagy a misszió részleteire, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:07.659568+00:00"
+    },
+    "record:2114173215706947845": {
+      "hu_text": "@Trustintrump47 Több mint 400 illegális bevándorlót tartóztattak le egy hatalmas ICE rajtaütés során Houstonban — köztük elítélt gyilkosokat és gyermekek elleni ragadozókat is 🚨\n\nA Fox News kizárólagosan az ICE-vel volt jelen egy egyhetes rajtaütés alatt Houstonban — és amit felfedeztek, az sokkoló.\n\n💥 422 illegális migránst tartóztattak le\n💥 262-en közülük...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét számokat és súlyos bűncselekményeket említenek, de nincs megerősített forrás vagy hivatalos jelentés, ezért az információk ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T02:06:12.709924+00:00"
     }
   },
   "legacy_reviews": {}
