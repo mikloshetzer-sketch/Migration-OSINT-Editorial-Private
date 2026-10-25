@@ -408,6 +408,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T12:53:01.338687+00:00"
+    },
+    "group:580": {
+      "hu_text": "@DavQuinn Közép-Írország kénytelen együtt élni felnőtt gyermekeivel, miközben arról olvas, hogy az állam házakat ad a nemrég érkezett afrikai és ázsiai gazdasági migránsoknak, akik illegálisan léptek be az országba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás közösségi médiás vélemény, amely nem tartalmaz konkrét bizonyítékot a házak átadásáról vagy a migránsok illegális belépéséről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:46.907613+00:00"
+    },
+    "group:581": {
+      "hu_text": "1783-ban 15 000 lojalista menekült érkezett a St. John folyóhoz föld és parancs nélkül. Néhány hónapon belül a település fegyveres táborokra szakadt, ami arra kényszerítette Nagy-Britanniát, hogy felossza Új-Skóciát és létrehozza az új Brunswick tartományt. Teljes dokumentumfilm elérhető az Amit csatornán.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi eseményről szóló állítás, amely nem tartalmaz konkrét forrásokat, de nem tartalmaz kétséges vagy manipulált elemeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:46.907634+00:00"
+    },
+    "information:21843": {
+      "hu_text": "@TheRealJamieKay @MadDogBrit Tudjuk, hogy az időjárás az oka annak, hogy a hajók ideiglenesen nem indulnak. Amint javulnak a tengeri körülmények, a hajók újra érkezni fognak. Olvastam, hogy a francia partokon várakozó migránsok száma nagyobb, mint korábban.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Időjárási és migrációs helyzetre vonatkozó megfigyelés, amely nem tartalmaz konkrét adatokat vagy hivatalos forrást.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:46.907638+00:00"
+    },
+    "information:21846": {
+      "hu_text": "Ha alaposan kiszámolom a térképet, Törökország és Egyiptom területi tengere összekapcsolódik, így átkelhetnek Kréta és Ciprus között saját területükön. Ez természetes falat képez a palesztin/szír menekültek ellen, akik tengeri úton próbálnak menekülni.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Térképi és területi tengeri határokkal kapcsolatos elemzés, amely nem tartalmaz hivatalos vagy megerősített adatokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:46.907641+00:00"
+    },
+    "information:21848": {
+      "hu_text": "Nem hiszem el ezt a Munkáspárti kormányt: 30 év ellenőrizetlen migráció, kis hajós invázió, migráns bűnözés elterjedt, az emberek kiáltanak segítségért. A kormány: \"Nyissuk meg a határt 500 millió EU állampolgár előtt\".",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika, amely nem tartalmaz konkrét bizonyítékokat vagy hivatalos adatokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:46.907642+00:00"
+    },
+    "record:2114393805935812762": {
+      "hu_text": "1783-ban 15 000 lojalista menekült érkezett a St. John folyóhoz föld és parancs nélkül. Néhány hónapon belül a település fegyveres táborokra szakadt, ami arra kényszerítette Nagy-Britanniát, hogy felossza Új-Skóciát és létrehozza az új Brunswick tartományt. Teljes dokumentumfilm elérhető az Amit csatornán.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az előzővel azonos történelmi állítás, amely nem tartalmaz konkrét forrásokat, de nem tartalmaz kétséges vagy manipulált elemeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T17:21:46.907644+00:00"
     }
   },
   "legacy_reviews": {}
