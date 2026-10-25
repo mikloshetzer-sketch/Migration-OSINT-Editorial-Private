@@ -359,6 +359,130 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1205,
+      "source": "X",
+      "source_post_id": "2114247277560869296",
+      "author": "GuardianDan",
+      "language": "en",
+      "published_at": "2026-10-25T06:46:46Z",
+      "first_detected_at": "2026-10-25T07:22:45Z",
+      "last_detected_at": "2026-10-25T07:22:45Z",
+      "detection_count": 1,
+      "text": "@SamCKx @84894e452d53499 Absolute bullshit. I live in a small rural town where we’ve had an influx of boat migrants being housed in various HMO’s\nWe had low crime, now there is a significant rise in rapes, theft, and even 2 murders all by migrants.\n\nOur town isn’t safe any more",
+      "text_excerpt": "@SamCKx @84894e452d53499 Absolute bullshit. I live in a small rural town where we’ve had an influx of boat migrants being housed in various HMO’s\nWe had low crime, now there is a significant rise in rapes, theft, and even 2 murders all by migrants.\n\nOur town isn’t safe any more",
+      "url": "https://x.com/GuardianDan/status/2114247277560869296",
+      "source_url": "https://x.com/GuardianDan/status/2114247277560869296",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "influx"
+        ],
+        [
+          "pressure",
+          "rise in rapes, theft, and even 2 murders all by migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "influx",
+        "rise in rapes, theft, and even 2 murders all by migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1206,
+      "source": "X",
+      "source_post_id": "2114251292365529350",
+      "author": "icedupchihuahua",
+      "language": "en",
+      "published_at": "2026-10-25T07:02:43Z",
+      "first_detected_at": "2026-10-25T07:23:58Z",
+      "last_detected_at": "2026-10-25T07:23:58Z",
+      "detection_count": 1,
+      "text": "@apereceived @DiarmuidSon @FatiguedRobert training for DDay was conducted at Inveraray to fight the enemy in Europe. Today the enemy is already on our lands, down the road from you, at migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver",
+      "text_excerpt": "@apereceived @DiarmuidSon @FatiguedRobert training for DDay was conducted at Inveraray to fight the enemy in Europe. Today the enemy is already on our lands, down the road from you, at migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver",
+      "url": "https://x.com/icedupchihuahua/status/2114251292365529350",
+      "source_url": "https://x.com/icedupchihuahua/status/2114251292365529350",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver"
+      ],
+      "signal_context_rejections": [
+        "fight"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -650,6 +774,130 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1205,
+      "source": "X",
+      "source_post_id": "2114247277560869296",
+      "author": "GuardianDan",
+      "language": "en",
+      "published_at": "2026-10-25T06:46:46Z",
+      "first_detected_at": "2026-10-25T07:22:45Z",
+      "last_detected_at": "2026-10-25T07:22:45Z",
+      "detection_count": 1,
+      "text": "@SamCKx @84894e452d53499 Absolute bullshit. I live in a small rural town where we’ve had an influx of boat migrants being housed in various HMO’s\nWe had low crime, now there is a significant rise in rapes, theft, and even 2 murders all by migrants.\n\nOur town isn’t safe any more",
+      "text_excerpt": "@SamCKx @84894e452d53499 Absolute bullshit. I live in a small rural town where we’ve had an influx of boat migrants being housed in various HMO’s\nWe had low crime, now there is a significant rise in rapes, theft, and even 2 murders all by migrants.\n\nOur town isn’t safe any more",
+      "url": "https://x.com/GuardianDan/status/2114247277560869296",
+      "source_url": "https://x.com/GuardianDan/status/2114247277560869296",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "influx"
+        ],
+        [
+          "pressure",
+          "rise in rapes, theft, and even 2 murders all by migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "influx",
+        "rise in rapes, theft, and even 2 murders all by migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1206,
+      "source": "X",
+      "source_post_id": "2114251292365529350",
+      "author": "icedupchihuahua",
+      "language": "en",
+      "published_at": "2026-10-25T07:02:43Z",
+      "first_detected_at": "2026-10-25T07:23:58Z",
+      "last_detected_at": "2026-10-25T07:23:58Z",
+      "detection_count": 1,
+      "text": "@apereceived @DiarmuidSon @FatiguedRobert training for DDay was conducted at Inveraray to fight the enemy in Europe. Today the enemy is already on our lands, down the road from you, at migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver",
+      "text_excerpt": "@apereceived @DiarmuidSon @FatiguedRobert training for DDay was conducted at Inveraray to fight the enemy in Europe. Today the enemy is already on our lands, down the road from you, at migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver",
+      "url": "https://x.com/icedupchihuahua/status/2114251292365529350",
+      "source_url": "https://x.com/icedupchihuahua/status/2114251292365529350",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant hotels, at the town mosques, the kebab and vape shops, your uber delivery driver"
+      ],
+      "signal_context_rejections": [
+        "fight"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -1484,9 +1732,83 @@
       "first_collected_at": "2026-10-25T02:01:37Z",
       "last_collected_at": "2026-10-25T02:01:37Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21701",
+      "timestamp": "2026-10-25T06:57:10Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114249893036638419",
+      "author": "Lindaandlight",
+      "url": "https://x.com/Lindaandlight/status/2114249893036638419",
+      "source_url": "https://x.com/Lindaandlight/status/2114249893036638419",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@TeamOverhaulGA The Joe Biden administration officials conducted around 4.7 million total expulsions, formal deportations, or returns of migrants, which includes approximately 682,000 to over 3.4 million when combining formal deportations with expulsions and other border return authorities.",
+      "text_excerpt": "@TeamOverhaulGA The Joe Biden administration officials conducted around 4.7 million total expulsions, formal deportations, or returns of migrants, which includes approximately 682,000 to over 3.4 million when combining formal deportations with expulsions and other border return authorities.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T07:22:23Z",
+      "last_collected_at": "2026-10-25T07:22:23Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:21724",
+      "timestamp": "2026-10-25T06:18:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2114240202415743394",
+      "author": "JustJayDogeCoin",
+      "url": "https://x.com/JustJayDogeCoin/status/2114240202415743394",
+      "source_url": "https://x.com/JustJayDogeCoin/status/2114240202415743394",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "What it includes:\nAbortions since 1973 (the dominant number)\nBorder migrant deaths, fentanyl deaths linked to illegal trafficking, and killings by people who entered or remained illegally\nMilitary deaths under each party’s administrations",
+      "text_excerpt": "What it includes:\nAbortions since 1973 (the dominant number)\nBorder migrant deaths, fentanyl deaths linked to illegal trafficking, and killings by people who entered or remained illegally\nMilitary deaths under each party’s administrations",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-25T07:23:59Z",
+      "last_collected_at": "2026-10-25T07:23:59Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-25T02:05:30.207255+00:00",
+  "last_archived_at": "2026-10-25T07:25:20.678108+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
