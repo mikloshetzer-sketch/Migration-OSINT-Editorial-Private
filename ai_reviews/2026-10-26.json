@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-26",
+  "reviews": {
+    "group:583": {
+      "hu_text": "Bukele elnök apai nagyszülei több mint egy évszázada, mint oszmán keresztény menekültek érkeztek. Apja El Salvadorban született, anyai ága pedig nem arab salvadori. Mondd el, miért gondolod, hogy ez \"külföldivé\" teszi őt anélkül, hogy nevetségesen hangzana.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és családi háttérre vonatkozó állítás, amely nem tartalmaz konkrét migrációs eseményre vagy politikára vonatkozó bizonyítható adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:51.884460+00:00"
+    },
+    "group:584": {
+      "hu_text": "Bukele elnök apai nagyszülei több mint egy évszázada, mint oszmán keresztény menekültek érkeztek. Apja El Salvadorban született, anyai ága pedig nem arab salvadori. Mondd el, miért gondolod, hogy ez \"külföldivé\" teszi őt anélkül, hogy nevetségesen bután hangzana.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és családi háttérre vonatkozó állítás, amely nem tartalmaz konkrét migrációs eseményre vagy politikára vonatkozó bizonyítható adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:51.884478+00:00"
+    },
+    "information:21945": {
+      "hu_text": "Megkérdezem egyszerűen, miért van Lengyelországnak, amely közvetlenül Fehéroroszország mellett van, nulla migrációs válsága, míg Olaszországnak és Franciaországnak, amelyek nyugatabbra vannak, rengeteg migráns érkezik hajókon a Földközi-tengeren keresztül (ez is Putyin műve lehet).",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs helyzetre vonatkozik, de nem tartalmaz konkrét adatokat vagy bizonyítékokat, és részben politikai véleményt is tükröz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:51.884483+00:00"
+    },
+    "information:21955": {
+      "hu_text": "HATALMAS MIGRÁNS KARAVÁN INDUL ÚJRA AZ USA HATÁRA FELÉ 🤪🤪\n\nA “Génesis” migránskaraván negyedik napja halad Dél-Mexikón keresztül, éjszakai felvételeken hatalmas tömeg vonul egy autópályán Chiapas államban. A csoport október 20-án indult Tapachulából.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés aktuális migrációs eseményről számol be, de nincs független megerősítés vagy hivatalos forrás megjelölve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:51.884487+00:00"
+    },
+    "information:21959": {
+      "hu_text": "Ez arra utal, hogy abbahagyták az etnikai tisztogatásokat, amikor még a 20. század közepén tömegesen égették ki az ír katolikusokat otthonaikból. A köztársaságnak menekülttáborokat kellett létrehoznia a határon.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi állítás, amely nem tartalmaz konkrét bizonyítékot, és nem kapcsolódik közvetlenül aktuális migrációs eseményhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:51.884490+00:00"
+    },
+    "information:21972": {
+      "hu_text": "Pont az ellenkezője igaz - ha demokratákra szavazol, akkor nyitott határokra, gyermekkereskedelemre, tömeges csalásokra, tömeges illegális migrációra, magas bűnözésre, férfiak női sportokban és mosdókban való részvételére, valamint magas inflációra szavazol. Ki a hülye? Nézd meg a valóságot, haver.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és általánosítás, amely nem tartalmaz konkrét bizonyítható adatot vagy eseményt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-25T23:42:51.884493+00:00"
+    }
+  }
+}
