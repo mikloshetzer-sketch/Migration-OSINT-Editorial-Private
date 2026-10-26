@@ -870,6 +870,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T22:06:17.373507+00:00"
+    },
+    "telegram:1173707041:9568": {
+      "hu_text": "A Basrai Migrációs Minisztérium Nőügyi Egysége egy szemináriumot szervezett a lázbetegségekről és a közegészség védelméről. Az eseményt az Iraki Vöröskereszt szervezetével együttműködve tartották, és a résztvevők a lázbetegség és a veszettség okairól, terjedéséről, kockázatairól és megelőzéséről kaptak tájékoztatást, hangsúlyozva a megelőző intézkedések fontosságát a betegségek terjedésének megakadályozására.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás egy helyi egészségügyi tájékoztató eseményről szól, amely nem migrációs esemény vagy politikai állítás, és nincs további bizonyíték a hitelességére.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:06:26.419021+00:00"
+    },
+    "telegram:1261826972:53886": {
+      "hu_text": "Óscar Puente azt vádolja Vivas-t, hogy kétszínű és példátlan intézményi hűtlenséget tanúsít. A miniszter kritizálja Juan Vivas elnök hozzáállását a Ceutába érkező tömeges bevándorlás kapcsán, és hangsúlyozza, hogy Vivas aláírta a kikötői tábor létesítéséről szóló megállapodást, majd később ellenezte azt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és vádaskodás egy politikai szereplő részéről, amely nem bizonyított, de releváns a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:06:26.419043+00:00"
+    },
+    "telegram:1688600455:1170": {
+      "hu_text": "Amszterdamban 16 ezer jelentkezés érkezett egyetlen lakásra, ami a hollandiai legproblémásabb lakáspiaci helyzetet tükrözi. A RefugeeHelp podcastban egy ingatlanügynök beszél arról, hogy a szociális lakhatás mennyire elérhető az ukránok számára, hogyan működnek a várólisták, milyen feltételeknek kell megfelelni a bérléshez, és milyen nehézségekkel szembesülnek a lakáskeresők. A podcast hasznos információkat nyújt azoknak, akik lakást keresnek Hollandiában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg egy podcast ismertetője a hollandiai lakáspiaci helyzetről és az ukrán menekültek lakhatási lehetőségeiről, amely releváns a migrációs társadalmi diskurzus szempontjából, de nincs további bizonyíték a hitelességére.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:06:26.419048+00:00"
     }
   },
   "legacy_reviews": {}
