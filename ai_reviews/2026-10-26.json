@@ -177,6 +177,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T02:04:54.570112+00:00"
+    },
+    "record:2114538052647297260": {
+      "hu_text": "A valóság: A felvétel egy valódi londoni rendőrségi műveletet mutat be, amely illegális fegyverszállítmányozókat céloz. Egy zombistílusú machetékből álló szállítmányt foglaltak le egy magánlakásban Croydonban, Londonban – nem egy migránsközpontban vagy menedékkérői lakóegységben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy rendőrségi műveletre vonatkozik, de nincs független bizonyíték a hitelesség megerősítésére, ezért ellenőrizetlen marad. Fontos a határbiztonsági kontextus miatt, de nem kiemelten sürgős.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:59.436006+00:00"
     }
   },
   "legacy_reviews": {}
