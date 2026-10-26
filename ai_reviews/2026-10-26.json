@@ -507,6 +507,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T16:24:45.000835+00:00"
+    },
+    "information:22118": {
+      "hu_text": "A 60 Minutes műsorok, a CBS archívumok és a kapcsolódó tudósítások 2020 óta nem tartalmaznak olyan történeteket, amelyek illegális bevándorlók által megölt amerikaiakról szólnának. Az immigration témájú riportok inkább a migránsok tapasztalataira, a határhelyzetre és a kitoloncolási gyakorlatokra fókuszálnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy médium tartalmi elemzésére vonatkozik, de nincs konkrét bizonyíték a teljes igazságra, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:54.751877+00:00"
+    },
+    "information:22119": {
+      "hu_text": "Az első videó az Eagle Pass, Texas, Rio Grande folyó mentén készült 2023 októberében, ahol a határőrség sárga homlokrakodót használt a kerítés megemelésére, hogy a már átkelt migránsokat feldolgozhassák. A második videón egy nagy csoport látható, amint átkelnek a Rio Grande folyón, valószínűleg az Eagle Pass vagy Del Rio környékén.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A videók határbiztonsági helyzetet mutatnak be, ami fontos információ a migrációs események megértéséhez, de az állítások nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:54.751896+00:00"
+    },
+    "information:22120": {
+      "hu_text": "Chan Mathok Atak, egy 19 éves dél-szudáni fiatal, aki egy csatornahajót vezetett 165 migránssal, börtönbe került az Egyesült Királyságban.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ egy konkrét személy és esemény kapcsán fontos, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:54.751899+00:00"
+    },
+    "information:22126": {
+      "hu_text": "A migránsok hajóval érkeznek a Kanári-szigetekre, ahol a Vöröskereszt segíti őket. Innen repülővel továbbviszik őket Spanyolország szárazföldjére, majd ismét a Vöröskereszt segíti őket Franciaországba jutni, ahol ingyenes tömegközlekedéssel juthatnak el a migránstáborokba.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A leírás migránsok segítésének folyamatát mutatja be, ami fontos a migrációs útvonalak és támogatási rendszerek megértéséhez, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:54.751901+00:00"
+    },
+    "information:22127": {
+      "hu_text": "2015 és 2020 között 1 763 dublini átadás történt ki, nem kevesebb, mint 1 500. 2021 előtt a kis hajós érkezések száma 10 608 volt, nem 65 000. Az Oxfordi jelentések szerint a migránsok Brexitet és Dublin rendszert említik, míg Durham az elveszett visszatéréseket azonosította.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az adatok pontosítása történelmi migrációs statisztikákra vonatkozik, de nincs hivatalos forrás vagy dokumentum, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:54.751903+00:00"
+    },
+    "information:22132": {
+      "hu_text": "Öt hajó 58 migránssal érkezett a Baleár-szigetekre Spanyolországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény migrációs érkezést jelent, ami fontos információ, de nincs megerősített forrás vagy további részletek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:54.751905+00:00"
     }
   },
   "legacy_reviews": {}
