@@ -738,6 +738,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T16:25:23.361958+00:00"
+    },
+    "group:591": {
+      "hu_text": "Krétán egy 18 éves dél-szudáni állampolgárt letartóztattak 67 migráns csempészéséért.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hír konkrét eseményt ír le, de nincs megerősített forrás vagy további részletek, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:40.370354+00:00"
+    },
+    "group:592": {
+      "hu_text": "🚨 FRISS: Egy iraki migránst nem toloncolnak ki, miután azt állította, hogy halálos fenyegetéseket kapott, mert egy másik férfi feleségével aludt. Egy húszas éveiben járó iraki migráns, HI néven ismert személy menedékjogi fellebbezést nyert, miután a bíró elfogadta, hogy halálos fenyegetésekkel nézett szembe egy viszony miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét jogi döntésről szól, de nincs hivatalos megerősítés vagy részletes forrás, ezért ellenőrizetlennek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:40.370378+00:00"
+    },
+    "information:22190": {
+      "hu_text": "Az Egyesült Államok déli határán az amerikai kormány több száz új, mesterséges intelligenciával felszerelt kamerát telepített magas tornyokra, amelyek 24 órában figyelik az embereket és járműveket. Ezek a kamerák távoli sivatagi területeken és lakott helyeken egyaránt működnek, és akár magánéleti területekre is betekinthetnek, ami adatvédelmi aggályokat vet fel. A határ mentén élő több millió ember van a megfigyelő rendszerek hatókörében.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A leírás egy újságírói riporton alapul, de a részletek és a hatás mértéke további ellenőrzést igényel, ezért jelenleg ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:40.370384+00:00"
+    },
+    "information:22205": {
+      "hu_text": "A Frontex új jogkörökre készül az EU határain túli kitoloncolások végrehajtásában a legutóbbi átalakítás részeként.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ egy politikai és jogi változásról szól, de nincs hivatalos megerősítés vagy részletes forrás, ezért ellenőrizetlennek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:40.370387+00:00"
+    },
+    "information:22208": {
+      "hu_text": "Különböző megfogalmazások különböző kontextusokat vagy adatkiemeléseket tükröznek. A 60 Minutes műsor részletesen foglalkozott migránsok útjaival, csempészéssel, kínai átkelésekkel, észak-amerikai határtevékenységgel, valamint kitoloncolási körülményekkel, de nincs bizonyíték arra, hogy folyamatosan az amerikai áldozatok nagyságrendjére fókuszált volna.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy információs jelzés, amely nem tartalmaz konkrét állítást vagy bizonyítható tényt, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:40.370391+00:00"
+    },
+    "information:22227": {
+      "hu_text": "Liberálisok elfojtják a bevándorlási vitát, miután konzervatívok Carney-t vádolják, hogy vállalati lobbi érdekében szabja meg a bevándorlási számokat. Michelle Rempel konzervatív képviselő szerint Carney és tanácsadói régóta úgy tekintenek a bevándorlásra, mint a vállalatok gazdagításának eszközére. A konzervatívok azt követelik, hogy a bevándorlási szinteket ne egy ottawai bürokratikus testület vagy vállalati lobbi határozza meg, hanem a tartományok és területek a helyi infrastruktúra alapján. Rempel szerint a fiatalok fizetik meg leginkább az árát, mivel a 2022-2024 közötti bevándorlási hullám növelte a fiatalok munkanélküliségét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és kritikákat tartalmaz, amelyek önmagukban nem bizonyíthatók, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:40.370394+00:00"
     }
   },
   "legacy_reviews": {}
