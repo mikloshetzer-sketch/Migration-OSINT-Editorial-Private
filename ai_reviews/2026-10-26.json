@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T09:29:50.686944+00:00"
+    },
+    "information:22048": {
+      "hu_text": "A szomszédos államok határátlépési adatai szerint a katonai szolgálatra alkalmas korú férfiak, akik elhagyták az országot és külföldön maradtak, körülbelül 500-540 ezer főre tehetők, beleértve a legális kilépéseket, mentességeket és illegális átlépéseket. A menekültek száma közel 5,6 millió, az adult férfiak aránya 25-27 százalék körül van. A katonai halálozások száma alacsony százakra becsülhető.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos statisztikai adatokat tartalmaz a migrációs eseményekről, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:00.775195+00:00"
+    },
+    "information:22051": {
+      "hu_text": "A LemFi határokon átnyúló platform új alkalmazást mutat be és termékbővítést indít, amely hordozható hitelkereteket, brit megtakarítási számlákat és eSIM hozzáférést kínál, hogy támogassa a milliónyi globális migránst és külföldi munkavállalót.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Új szolgáltatás bevezetéséről szól, amely migránsokat segíthet, de nincs hivatalos megerősítés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:00.775266+00:00"
+    },
+    "information:22053": {
+      "hu_text": "Most fizetsz vagy később?\n\nAz embercsempészeti díjakat teljes egészében, részletekben vagy az út során különböző csempészeknek lehet fizetni. A legtöbb fizetés készpénzben, hawala rendszeren vagy mobil pénzzel történik. A fizetési megállapodások befolyásolhatják a kockázatokat és a migránsok esélyeit az út befejezésére.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információkat tartalmaz az embercsempészet finanszírozásáról, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:00.775278+00:00"
+    },
+    "information:22061": {
+      "hu_text": "2025-ben az Olaszországba tengeren érkező migránsok körülbelül 87%-a Líbiából indult.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos adat a migrációs útvonalakról, de nincs hivatalos vagy megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:00.775285+00:00"
+    },
+    "record:1604168769:12345": {
+      "hu_text": "Moszkva vezető helyen áll a szabadúszó migráns szakemberek számában. 2026 első kilenc hónapjában a fővárosban 437,65 ezer külföldi szakember regisztrált szabadúszóként. Országosan a szabadúszó migránsok száma meghaladta az 1,5 milliót, ami 400 ezerrel kevesebb az előző év azonos időszakához képest.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos statisztikai adat a migránsok munkaerőpiaci helyzetéről, de nincs hivatalos forrás vagy megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:00.775292+00:00"
+    },
+    "record:2114629232932327454": {
+      "hu_text": "Friss hír: Több száz papírok nélküli migráns szállítása Orléans felé (Párizsból, Marseille-ből, St Denis-ből stb.). 2026. október 24-én a rendőrség három buszt fogott el.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ az illegális migrációs szállításról, de nincs hivatalos megerősítés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:00.775300+00:00"
     }
   },
   "legacy_reviews": {}
