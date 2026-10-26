@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T09:30:00.775300+00:00"
+    },
+    "record:2114635812373680467": {
+      "hu_text": "🚨🇪🇸 158 migráns érkezett hajóval Spanyolország Kanári-szigeteire\n\nEgy másik cayuco, amely 158 szubszaharai afrikai embert szállított, tegnap érkezett El Hierro szigetére. Sok érkezőt később a spanyol szárazföldre szállítanak, bár további úticéljaik és utazási terveik változóak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, amely friss érkezéseket dokumentál, de nincs további hitelesítés vagy hivatalos forrás megjelölve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:11.262634+00:00"
+    },
+    "record:2114637539986346365": {
+      "hu_text": "Egy másik cayuco, amely 158 illegális szubszaharai hajóval érkező migránst szállított, tegnap érkezett El Hierro szigetére a Kanári-szigeteken.\n\nInnen végül a spanyol szárazföldre szállítják őket, ahonnan sokan tovább folytatják útjukat Franciaország, Belgium, az Egyesült Királyság, Németország és más országok felé.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, amely a Kanári-szigeteken történt illegális határátlépést dokumentálja, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:11.262652+00:00"
+    },
+    "record:2114640802366578925": {
+      "hu_text": "@JudasandChariot @dave43law @reformparty_uk A hajóátkelések csökkentek az időjárás miatt. Ha a Brexit rossz volt Nagy-Britanniának, akkor hogy lehet, hogy a még meg nem határozott EU-gazdaságok rosszabbak nálunk? Ezt újra megosztom, mert nem akarjátok megvitatni Rhiannon Whyte és Wayne Broadhurst ügyét, akiket illegális migránsok öltek meg, akik fogva tarthatók lettek volna.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi vita része, amely nem tartalmaz konkrét bizonyítható tényeket, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:11.262659+00:00"
+    },
+    "record:2114643225029804195": {
+      "hu_text": "7000 euró egyetlen útért, fiatal sofőröket toboroznak Snapchat-en keresztül. Idén több mint 46 holland állampolgárt tartóztattak le Horvátországban migránscsempészet gyanújával.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránscsempészettel kapcsolatos állításokat tartalmaz, de nincs hivatalos megerősítés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:11.262663+00:00"
+    },
+    "record:2114643469322903679": {
+      "hu_text": "2026. július 1. és szeptember 30. között 41 560 migráns lépte át a Vörös-tengert és az Adeni-öblöt – ebből 36 925 etióp és szomáliai érkezett Jemenbe, míg 4 635 és további 3 793 migráns Djiboutiba szeptember 10. és 28. között, miközben a jemeni konfliktus eszkalálódik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs adatokat közöl a Vörös-tengeri és Adeni-öböl térségéből, de nincs hivatalos forrás vagy megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:11.262668+00:00"
+    },
+    "record:2114643438759006628": {
+      "hu_text": "11/7: Hat migráns meghalt, míg további három és a sofőrjük megsérült egy járműbalesetben a Fekete-tenger melletti Burgasz város közelében, közölte egy belügyminisztériumi vezető pénteken. Az előzetes adatok szerint a migránsok Afganisztánból származtak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés egy halálos migrációs eseményről szól, amely fontos információ a migrációs helyzet megértéséhez, de az állítások még nem ellenőrzöttek független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:16.627100+00:00"
     }
   },
   "legacy_reviews": {}
