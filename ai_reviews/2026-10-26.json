@@ -441,6 +441,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T09:30:26.892615+00:00"
+    },
+    "group:590": {
+      "hu_text": "74 migránst fogtak el négy hajóban a Baleár-szigetek felé Spanyolországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:45.000803+00:00"
+    },
+    "information:22110": {
+      "hu_text": "Biden négyéves elnöksége alatt körülbelül 10 millió engedély nélküli migráns lépett be (határátlépések, elkerülések, CBP One járatok, menedékkérelmek stb.). Trump pedig várhatóan ennek körülbelül 25%-át, azaz 2,5 milliót fog kitoloncolni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Számadatokat és politikai állítást tartalmaz, amelyek fontosak a migrációs diskurzus szempontjából, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:45.000826+00:00"
+    },
+    "information:22112": {
+      "hu_text": "Az elmúlt időszakban több riport is készült migránsokról, például Moussa Diawaráról és családjáról harmadik országba történő kitoloncolás kapcsán, két venezuelairól a CECOT körülményeiről, több kínai és más migránsról a határon, valamint csempészekről és családokról a nehézségekről, átkelésekről és kitoloncolásokról szóló korábbi beszámolókban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Több migrációs esetről szóló információkat sorol fel, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:45.000829+00:00"
+    },
+    "information:22114": {
+      "hu_text": "A 60 Minutes archívumának keresései azt mutatják, hogy a műsor következetesen a migránsok nehézségeire, határátlépésekre és kitoloncolási esetekre fókuszál. Nem készítettek interjút amerikai családtagokkal, akik illegális bevándorlók által elhunyt szeretteiket gyászolnák. Ez a fókusz a műsorokban dokumentált.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A műsor tartalmi fókuszára vonatkozó megfigyelést tartalmaz, de nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:45.000831+00:00"
+    },
+    "information:22115": {
+      "hu_text": "Körülbelül 35%-a az állításoknak hamis vagy eltúlzott. Pontos vagy többnyire pontos példák: adócsökkentések, nulla határátlépés engedélyezése, körülbelül 3 millió migráns távozása, körülbelül 270 ezer kormányzati megszorítás, gyártási növekedés, történelmi alacsony gyilkossági ráta, Maduro letartóztatása és olajmegállapodás, Grönland megállapodás, energiafejlesztés, USAID megszüntetése, Epstein letartóztatások (Trump első ciklusa).",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai állításokat és értékeléseket tartalmaz, amelyek részben igazak, de nincs teljes körű bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:45.000833+00:00"
+    },
+    "information:22116": {
+      "hu_text": "A 60 Minutes műsorok és archívumok keresése nem talált interjút olyan családtagokkal, akik illegális bevándorlók által elhunyt szeretteiket gyászolnák. A műsor bevándorlással kapcsolatos tudósításai a migránsok nehézségeire, határátlépésekre, csempészetre és kitoloncolási esetekre koncentrálnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A műsor tartalmi fókuszára vonatkozó megfigyelést tartalmaz, de nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:24:45.000835+00:00"
     }
   },
   "legacy_reviews": {}
