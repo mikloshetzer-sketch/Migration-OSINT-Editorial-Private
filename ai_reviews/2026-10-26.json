@@ -804,6 +804,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T22:05:40.370394+00:00"
+    },
+    "record:2114837151099609311": {
+      "hu_text": "Gazdasági játékelmélet szerint, amint az emberek tulajdont szereznek, ösztönözve vannak a határ nyitva tartására, és a megoldás a csoporton belüli születési arány növelése, ami visszatérést jelent bizonyos hagyományos értékekhez.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és elméleti megközelítés, nem tényállítás, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:52.365091+00:00"
+    },
+    "record:2114837194443469069": {
+      "hu_text": "A 60 Minutes archívumainak, átiratainak és jelentéseinek keresése nem talált történeteket amerikai állampolgárokról, akiket illegális bevándorlók öltek meg; a műsor inkább a migránsok nehézségeire, határátlépésekre, csempészés közbeni halálesetekre és kitoloncolási ügyekre fókuszál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy médium tartalmára vonatkozik, de nincs hivatalos megerősítés, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:52.365150+00:00"
+    },
+    "record:reddit_1xg93dv": {
+      "hu_text": "Információ azoknak, akik módosított dokumentumokkal (pl. születési anyakönyvi kivonatokkal) rendelkeznek: a szerző és házastársa, akik anyai ágon negyedik generációs állampolgárságért folyamodtak, sürgős ügyintézést kértek, de a házastárs esetében egy „komplex” dokumentumprobléma miatt az ügy felülvizsgálatra került, és azóta várakozik.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez személyes tapasztalat és információ megosztása, nem hivatalos adat, ezért ellenőrzésre szorulhat, de alacsony prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:05:52.365159+00:00"
+    },
+    "record:reddit_1xfxymj": {
+      "hu_text": "Krétán egy 18 éves dél-szudáni állampolgárt tartóztattak le 67 migráns csempészéséért Görögországban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ migrációs határbiztonsági eseményt ír le, de csak egy Reddit bejegyzésen alapul, nincs hivatalos vagy megbízható forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:06:01.375483+00:00"
+    },
+    "record:2114826087205044418": {
+      "hu_text": "🚨 FRISS HÍR: Egy iraki migránst nem toloncolnak ki, miután azt állította, hogy halálos fenyegetéseket kapott, mert egy másik férfi feleségével volt viszonya.\n\n• Egy húszas éveiben járó iraki migráns, akit csak HI-ként ismernek, megnyerte a menedékjogi fellebbezését, miután egy bíró elfogadta, hogy halálos fenyegetéseket kapott egy viszony miatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egyedi, nem ellenőrzött közösségi médiás forrásból származik, nincs további bizonyíték a hitelességére. A téma migrációs esemény, menedékjogi döntésről szól, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:06:15.013455+00:00"
+    },
+    "record:2114833616257658929": {
+      "hu_text": "SPANYOLORSZÁG KIUTASÍTJA A CEUTÁBAN ELUTASÍTOTT MENEDÉKJOGI KÉRELMEZŐKET\n\nA spanyol rendőrség ma áthelyezte a menedékkérelmüket elutasított migránsokat Ceuta migránsközpontjából a marokkói határhoz, jelentette az RTVE. Az El Español szerint körülbelül 70 embert kellett volna eltávolítani, de a legtöbben elmenekültek a rendőrök megérkezése előtt, az Antena pedig https://t.co/tf0Sr1FlSJ",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy hivatalos közlés, ezért az ellenőrzöttsége nem biztos. Fontos a migrációs politika és gyakorlat szempontjából, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T22:06:17.373507+00:00"
     }
   },
   "legacy_reviews": {}
