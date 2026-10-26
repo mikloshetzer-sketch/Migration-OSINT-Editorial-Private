@@ -2767,6 +2767,87 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1205,
+      "source": "X",
+      "source_post_id": "2114247277560869296",
+      "author": "GuardianDan",
+      "language": "en",
+      "published_at": "2026-10-25T06:46:46Z",
+      "first_detected_at": "2026-10-25T07:22:45Z",
+      "last_detected_at": "2026-10-25T07:22:45Z",
+      "detection_count": 1,
+      "text": "@SamCKx @84894e452d53499 Absolute bullshit. I live in a small rural town where we’ve had an influx of boat migrants being housed in various HMO’s\nWe had low crime, now there is a significant rise in rapes, theft, and even 2 murders all by migrants.\n\nOur town isn’t safe any more",
+      "text_excerpt": "@SamCKx @84894e452d53499 Absolute bullshit. I live in a small rural town where we’ve had an influx of boat migrants being housed in various HMO’s\nWe had low crime, now there is a significant rise in rapes, theft, and even 2 murders all by migrants.\n\nOur town isn’t safe any more",
+      "url": "https://x.com/GuardianDan/status/2114247277560869296",
+      "source_url": "https://x.com/GuardianDan/status/2114247277560869296",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "influx"
+        ],
+        [
+          "pressure",
+          "rise in rapes, theft, and even 2 murders all by migrants"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "influx",
+        "rise in rapes, theft, and even 2 murders all by migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2114247277560869296"
+      ],
+      "related_authors": [
+        "GuardianDan"
+      ],
+      "related_urls": [
+        "https://x.com/GuardianDan/status/2114247277560869296"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -3970,7 +4051,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-25T20:08:13.571616+00:00",
+  "last_archived_at": "2026-10-26T02:04:23.086420+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
