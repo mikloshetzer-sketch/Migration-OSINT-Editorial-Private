@@ -386,6 +386,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T09:30:16.627100+00:00"
+    },
+    "record:2114644259890454668": {
+      "hu_text": "2022 februárjától általános kilépési tilalom vonatkozott a katonai korú férfiakra, kivételekkel és kezdeti káosz miatt azonban távozhattak. Határadatok szerint a besorozási korú férfiak közül, akik elhagyták az országot és külföldön maradtak, körülbelül 500-540 ezer fő lehet, nem milliók. A teljes menekültszám 5,6-5,9 millió körül van; a felnőtt férfiak aránya 25-29% körül.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások számszerű adatokat tartalmaznak, de nincs közvetlen bizonyíték vagy hivatalos forrás megjelölve, ezért ellenőrizetlennek minősülnek. A tartalom a migrációs háttérre vonatkozik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:26.892587+00:00"
+    },
+    "record:2114646677915136079": {
+      "hu_text": "Egy újabb, 158 illegális szubszaharai hajós migráns érkezett tegnap El Hierro szigetére a Kanári-szigeteken. Innen a szárazföldi Spanyolországba szállítják őket, ahonnan sokan tovább folytatják útjukat Franciaország, Belgium, az Egyesült Királyság, Németország és más országok felé.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét határátlépési eseményt ír le, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen. Fontos a határbiztonsági helyzet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:26.892604+00:00"
+    },
+    "record:2114650112030896620": {
+      "hu_text": "Az üzenet szerint egy népcsoport, amely nemrég érkezett menekültként, most a Moyale város tulajdonjogát szeretné igényelni, és a szerző felszólítja a komolyságra.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vagy társadalmi vélemény, amely nem tartalmaz konkrét tényállítást vagy bizonyítható adatot, ezért ellenőrizetlen. A társadalmi diskurzus kategóriába tartozik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:26.892609+00:00"
+    },
+    "telegram:1604168769:12344": {
+      "hu_text": "Szentpéterváron egyre több takarítói állásajánlat jelenik meg. Miután a városban betiltották a kereskedelmi munkát, a migránsokat a városrendezési munkákba kívánják bevonni. 2027. január 1-től a takarítók havi fizetése 77 ezer rubel, a gépkezelőké pedig 112 ezer rubel lesz, és ideiglenes lakhatást is biztosítanak a dolgozóknak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az üzenet munkaerőpiaci és migrációs szabályozással kapcsolatos információkat tartalmaz, de nincs hivatalos forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:26.892612+00:00"
+    },
+    "telegram:1604168769:12345": {
+      "hu_text": "Moszkvában a legtöbb migráns szakképzett szakember, akik szabadalmi engedéllyel dolgoznak. 2026 első kilenc hónapjában a fővárosban 437,65 ezer külföldi szakember regisztrált ilyen engedéllyel. Országosan a szabadalmi engedéllyel dolgozó migránsok száma meghaladja az 1,5 milliót, ami 400 ezerrel kevesebb az előző év azonos időszakához képest.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Számadatokat tartalmaz a migránsok munkaerőpiaci helyzetéről, de nincs hivatalos forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:30:26.892615+00:00"
     }
   },
   "legacy_reviews": {}
