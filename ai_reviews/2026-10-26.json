@@ -111,6 +111,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T23:42:59.075704+00:00"
+    },
+    "group:585": {
+      "hu_text": "A valóság: A felvétel egy valódi londoni rendőrségi műveletet mutat be, amely illegális fegyverszállítók ellen irányult. Egy zombistílusú macheték szállítmányát foglalták le egy magánlakásban Croydonban, Londonban – nem egy migránsközpontban vagy menedékkérői lakóhelyen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét rendőrségi műveletre utal, de nincs független megerősítés vagy további bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:54.570077+00:00"
+    },
+    "information:22019": {
+      "hu_text": "Nem. A 60 Minutes műsorainak és archívumainak alapos keresése nem talált jelentéseket amerikaiak illegális bevándorlók általi megöléséről, beleértve Laken Riley esetét is. A műsor inkább a migránsok nehézségeire, csempészettel kapcsolatos halálesetekre, határátlépésekre és kitoloncolási ügyekre fókuszál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állítás a médiatartalomról, amely ellenőrzést igényel, de nem tartalmaz konkrét bizonyítékot vagy cáfolatot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:54.570101+00:00"
+    },
+    "information:22021": {
+      "hu_text": "A 60 Minutes több mint 50 éves műsorának pontos statisztikái nem nyilvánosak. Az archívumok és jelentések ismételten foglalkoznak a migránsok határátlépéseivel, csempészési kockázatokkal és a jogellenesen belépők kitoloncolási nehézségeivel. A műsor nem központozza az amerikai áldozatokat illegális bevándorlók által elkövetett bűncselekményekben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Médiatartalomra vonatkozó állítás, amely további ellenőrzést igényel, de nem bizonyított vagy cáfolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:54.570105+00:00"
+    },
+    "record:2114537639231521015": {
+      "hu_text": "A valóság: A felvétel egy valódi londoni rendőrségi műveletet mutat be, amely illegális fegyverszállítók ellen irányult. Egy zombistílusú macheték szállítmányát foglalták le egy magánlakásban Croydonban, Londonban – nem egy migránsközpontban vagy menedékkérői lakóhelyen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét rendőrségi akcióra utal, de nincs független forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:54.570107+00:00"
+    },
+    "record:2114537819561714172": {
+      "hu_text": "Az olasz rendőrség őrizetbe vette Youssef Siher-t, egy 30 éves, marokkói származású, olasz útlevéllel rendelkező, palesztinbarát migránst, akit az „Október 17 Mozgalom” vezetőjeként gyanúsítanak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Őrizetbe vételről szóló állítás, amely jelentős lehet a migrációs és biztonsági kontextusban, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:54.570110+00:00"
+    },
+    "record:2114537819939000400": {
+      "hu_text": "A valóság: A felvétel egy valódi londoni rendőrségi műveletet mutat be, amely illegális fegyverszállítók ellen irányult. Egy zombistílusú macheték szállítmányát foglalták le egy magánlakásban Croydonban, Londonban – nem egy migránsközpontban vagy menedékkérői lakóhelyen.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét rendőrségi akcióra utal, de nincs független forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T02:04:54.570112+00:00"
     }
   },
   "legacy_reviews": {}
