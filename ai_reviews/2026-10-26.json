@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T02:04:59.436006+00:00"
+    },
+    "group:586": {
+      "hu_text": "2026. július 1. és szeptember 30. között 41 560 migráns lépte át a Vörös-tengert és az Aden-öblöt: 36 925 etióp és szomáliai érkezett Jemenbe, míg 4 635, illetve további 3 793 migráns szeptember 10. és 28. között Dzsibutiban, miközben a jemeni konfliktus eszkalálódott.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló adat, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:29:50.686903+00:00"
+    },
+    "group:587": {
+      "hu_text": "2026. november 7-én hat migráns vesztette életét, míg további három és a sofőr megsérült egy járműbalesetben Burgasz közelében, a Fekete-tenger partján. Előzetes adatok szerint a migránsok afgánok voltak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos balesetről és halálesetekről szóló információ, amely migránsokat érint, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:29:50.686925+00:00"
+    },
+    "group:588": {
+      "hu_text": "Egy út ára 7000 euró, fiatal sofőröket a Snapchat-en toboroznak. Idén több mint 46 holland állampolgárt tartóztattak le Horvátországban migránscsempészet gyanújával.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránscsempészettel kapcsolatos állítás, fontos a további ellenőrzés, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:29:50.686932+00:00"
+    },
+    "group:589": {
+      "hu_text": "@QalifQaqow Az önök népe nemrég érkezett menekültként, és most a Moyale tulajdonjogát követelik, komolyan kellene venni a helyzetet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény vagy társadalmi vita, nincs konkrét tényállítás vagy bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:29:50.686936+00:00"
+    },
+    "information:22042": {
+      "hu_text": "Carl Bernard Schwartz két verse a migrációról és a függetlenségről, amelyben a bevándorlók áldozatait és a nemzeti önrendelkezést tárgyalja, vegyes érzelmekkel és történelmi utalásokkal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Irodalmi mű, nem tényállítás vagy migrációs esemény, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:29:50.686940+00:00"
+    },
+    "information:22046": {
+      "hu_text": "@ktdu33 @TheMeldrew Az illegális migránsok kísérése a csatorna közepén, a francia járőrhajók helyettesítése nem csökkenti a bajba jutottak számát, hanem a csempészek munkáját végzi.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény vagy kritika a migrációs intézkedésekről, nincs bizonyíték a valóságtartalomra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T09:29:50.686944+00:00"
     }
   },
   "legacy_reviews": {}
