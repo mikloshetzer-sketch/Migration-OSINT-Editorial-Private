@@ -639,6 +639,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T16:25:04.742803+00:00"
+    },
+    "telegram:1229318139:29707": {
+      "hu_text": "Ez egy arab nyelvű hirdetés egy muszlim női ruházati márkáról, amely különféle ruhadarabokat kínál, például abáját, fejkendőt és arcmaszkot, magas minőségű anyagból, egy méretben, elérhető áron. A hirdetés tartalmazza a kapcsolatfelvételi adatokat és közösségi média linkeket is.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem tartalmaz migrációval kapcsolatos információt, hanem ruházati termékek reklámja.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:15.025899+00:00"
+    },
+    "telegram:1229318139:29708": {
+      "hu_text": "Ez egy arab nyelvű hirdetés egy muszlim női ruházati márkáról, amely fekete színű ruhát és különálló fejkendőt kínál, magas minőségű anyagból, egy méretben, elérhető áron. A hirdetés tartalmazza a kapcsolatfelvételi adatokat és közösségi média linkeket is.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem tartalmaz migrációval kapcsolatos információt, hanem ruházati termékek reklámja.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:15.025919+00:00"
+    },
+    "telegram:1261826972:53864": {
+      "hu_text": "Frissítés videóval: A rendőrség különböző ceutai negyedekben razziázik, hogy migránsokat keressen. Nagy művelet zajlik több helyszínen, például Los Rosales, Príncipe Felipe, Benítez és Almadraba negyedekben, amely korábbi akciókhoz csatlakozik. Van egy bejelentőcsatorna, amely anonim módon segíti a zsúfolt lakások felderítését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről és határbiztonsági műveletről számol be, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:15.025922+00:00"
+    },
+    "telegram:1261826972:53874": {
+      "hu_text": "A belügyminisztérium tagadja, hogy szabálytalanságok történtek volna a ceutai migránsok Marokkóba történő kitoloncolásakor. Ugyanakkor civil szervezetek, mint az Elín és a Caminando Fronteras, aggályokat fogalmaztak meg, mert szerintük ezek a gyakorlatok jogi garanciák nélkül zajlanak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs politikai és jogi kérdéseket érint, de nincs független bizonyíték a vitatott állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:15.025924+00:00"
+    },
+    "telegram:1261826972:53875": {
+      "hu_text": "Marokkó a figyelem középpontjában a Guardia Civil és a rendőrség parancsnokainak ellentmondásos vallomásai miatt a ceutai invázió napján. Tájékoztatták a bírónőt, hogy hat hadihajó volt a térségben a tömeges bevándorlás előtt, és marokkói ügynökök vezették a migránsokat Ceutába. A parancsnokok eltérően nyilatkoztak egy összetűzésről, amelyet egy videó is rögzített, és nem volt felsőbb parancs a helyzet kezelésére.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről és biztonsági incidensről számol be, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:15.025926+00:00"
+    },
+    "telegram:1261826972:53877": {
+      "hu_text": "Videóval: Drámai jelenetek Tarajalnál, ahol egy marokkói migráns megpróbál elmenekülni a kitoloncolás elől, de Marokkóban elfogják Ceutánál. A migráns visszafordult Marokkó felé, majd vízbe ugrott, hogy visszatérjen Ceutába. Két marokkói motorcsónak gyorsan behatolt a spanyol vizekre, hogy elfogják őt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről számol be, amely határbiztonsági és emberi jogi kérdéseket érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:15.025929+00:00"
     }
   },
   "legacy_reviews": {}
