@@ -573,6 +573,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T16:24:54.751905+00:00"
+    },
+    "information:22138": {
+      "hu_text": "Kash Patel, az FBI igazgatója 2026 júniusáig 7200 gyermeket mentett ki emberkereskedőktől és ragadozóktól, ami 42%-os növekedést jelent. Szeptemberben megjegyezte, hogy az FBI 18 hónap alatt 11 100 eltűnt gyermeket talált meg. A DHS több mint 157 000 korábban nem követett, kísérő nélküli migráns gyermeket azonosított.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számokat tartalmaznak, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül. Fontos humanitárius információ migráns gyermekek helyzetéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:04.742771+00:00"
+    },
+    "information:22143": {
+      "hu_text": "A 60 Minutes archívumának keresései nem találtak interjúkat amerikai családokkal, akik illegális bevándorlók által elhunyt szeretteiket gyászolnák. A műsor inkább a migránsok tapasztalataira, határátlépésekre, csempészettel kapcsolatos halálesetekre és kitoloncolási ügyekre fókuszál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a médiatartalomra vonatkozik, de nincs bizonyíték a teljes körű vizsgálatra, így ellenőrizetlen. Fontos a társadalmi diskurzus megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:04.742793+00:00"
+    },
+    "information:22155": {
+      "hu_text": "Görögországban hatvan migránst helyeztek át a szerresi létesítményből egy Előzetes Távozási Fogdába (PROKEKA) a zavargások után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ konkrét eseményről szól, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:04.742796+00:00"
+    },
+    "record:mastodon_117507114116185030": {
+      "hu_text": "Marokkói migránsok hazatérnek, miután sikertelenül próbáltak meg eljutni Európába. Több ezer marokkói migráns, akik a spanyol Ceuta észak-afrikai enklávéjába léptek be ezen a héten, elkezdtek hazatérni, miután reményeik az európai szárazföld elérésére szertefoszlottak. Sokukat az éhség, a kimerültség és a nehéz életkörülmények kényszerítették vissza.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migránsok mozgásáról és szándékairól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:04.742798+00:00"
+    },
+    "record:reddit_1xfx7wd": {
+      "hu_text": "Spanyolországban négy hajón 74 migránst fogtak el a Baleár-szigetek felé tartva.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét elfogási eseményről szól, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:04.742800+00:00"
+    },
+    "telegram:1173707041:9565": {
+      "hu_text": "A bagdadi Migrációs Minisztérium Nőügyi Egysége szemináriumot szervezett a mellrák korai felismerésének fontosságáról, valamint az anya és gyermek gondozásáról. Az esemény egészségügyi tájékoztatást nyújtott a betegség tüneteiről, a korai szűrés jelentőségéről, és hangsúlyozta az egészségügyi intézmények felkeresésének szükségességét, továbbá az anya terhesség alatti és utáni egészségügyi követését.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az üzenet egészségügyi tájékoztatásról szól, nem kapcsolódik közvetlenül a migrációhoz, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:04.742803+00:00"
     }
   },
   "legacy_reviews": {}
