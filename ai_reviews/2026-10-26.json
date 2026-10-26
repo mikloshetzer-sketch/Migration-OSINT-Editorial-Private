@@ -705,6 +705,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-26T16:25:15.025929+00:00"
+    },
+    "telegram:1261826972:53878": {
+      "hu_text": "🚩 VIDEÓVAL ▶️ Ceutából Marokkóba: kitoloncolások és önkéntes visszatérések a határnál\n\n➡ Hétfőn nagy számú migránst vezettek a Tarajal határhoz erős rendőri biztosítás mellett, miközben marokkói rendőrök várakoztak a határ túloldalán.\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/ceuta-marruecos-expulsiones-retornos-voluntarios-pie-frontera/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs eseményről számol be, konkrét helyszínnel és eseménnyel, de nincs független megerősítés vagy további bizonyíték a tartalom hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:23.361934+00:00"
+    },
+    "telegram:1604168769:12351": {
+      "hu_text": "Egy migráns hamis igazolással próbált orosz állampolgárságot szerezni, amiért elítélték. Egy Tádzsikisztánból származó migráns, aki hamis dokumentumot vásárolt arról, hogy részt vett a katonai műveletben, bíróság elé került, és egymillió rubel bírságot szabtak ki rá.\n\n👉https://migrantlar24.com/nq8nnr",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogi ügyet ismertet migránssal kapcsolatban, de nincs független forrás vagy hivatalos megerősítés a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:23.361955+00:00"
+    },
+    "telegram:1688600455:1169": {
+      "hu_text": "🇺🇦 Segítsen nekünk javítani az ukránok támogatását Hollandiában\n\nA VluchtelingenWerk Nederland (VWN) / RefugeeHelp szeretné jobban megérteni, hogyan fejlesztheti támogatását és szolgáltatásait, hogy azok megfeleljenek az ukránok igényeinek Hollandiában.\n\n8 ukrán résztvevőt keresnek egy közös megbeszélésre, hogy közvetlenül hallják, mikor és hogyan lehetnek a leginkább hasznosak a segítők, és milyen támogatás segítene igazán.\n\nIdőpont: november 5., csütörtök, 12:30–15:00\nRésztvevők száma: 8\n\nA részvételért minden résztvevő 15 eurós ajándékkártyát kap utazási költségtérítésként.\n\nTapasztalatok és ötletek segítenek a szolgáltatások fejlesztésében.\n\nRegisztráció: forms.gle/YBxpwDkdsNoUy4AV8\n\n📲 Ossza meg ezt a közösségi médiában.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy civil szervezet által szervezett támogatási kezdeményezést ismertet, amely nem tartalmaz ellenőrizhetetlen állításokat, de nincs hivatalos megerősítés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-26T16:25:23.361958+00:00"
     }
   },
   "legacy_reviews": {}
