@@ -771,6 +771,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T19:08:04.904634+00:00"
+    },
+    "information:22519": {
+      "hu_text": "Az állítás az Egyesült Királyság indiai diákokkal szembeni bevándorlási politikájának képmutatását kritizálja, hangsúlyozva, hogy a brit felsőoktatás erősen támaszkodik a nemzetközi diákok tandíjára, akik jóval magasabb díjat fizetnek, mint a helyiek. Ugyanakkor a politikusok ellenségképként használják őket a hazai problémák elterelésére, például szigorítják a vízumfeltételeket és korlátozzák a családegyesítést.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és általánosításokat tartalmaz, amelyek nem ellenőrzöttek, de relevánsak a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:23.152286+00:00"
+    },
+    "information:22520": {
+      "hu_text": "Az Egyesült Királyság indiai diákokkal szembeni bevándorlási politikájának képmutatását elemzi, kiemelve, hogy a brit felsőoktatás jelentős bevételt szerez a nemzetközi diákok tandíjából, miközben a politikusok szigorúbb szabályokat vezetnek be ellenük, például családegyesítés tilalmát és a posztgraduális vízumidő lerövidítését.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és általánosításokat tartalmaz, amelyek nem ellenőrzöttek, de relevánsak a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:23.152307+00:00"
+    },
+    "information:22524": {
+      "hu_text": "Egy kanadai nő meghalt, mert túl félt elhagyni nyugat-washingtoni otthonát, hogy orvosi ellátást kérjen, miközben amerikai választási csalás vádakkal nézett szembe – állítja a fia.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eset súlyos humanitárius vonatkozású, de az állítás egyetlen forrásból származik és nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:23.152311+00:00"
+    },
+    "information:22547": {
+      "hu_text": "Nigéria több mint 5400 emberkereskedelemmel érintett áldozatot mentett meg, rehabilitált és reintegrált az elmúlt három évben, miközben 26 elítélést ért el a szervezett bűnözés elleni globális fellépés részeként.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ fontos humanitárius eseményről szól, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:23.152313+00:00"
+    },
+    "information:22570": {
+      "hu_text": "Egy fantasy történet részlete, amely egy utazóról és menekültként való életéről szól egy képzeletbeli világban, nem kapcsolódik migrációs valós eseményekhez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg fikció, nem valós migrációs esemény vagy információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:23.152316+00:00"
+    },
+    "information:22571": {
+      "hu_text": "Egy fantasy történet részlete egy utazóról és menekültként való életéről egy képzeletbeli világban, amely nem kapcsolódik valós migrációs eseményekhez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg fikció, nem valós migrációs esemény vagy információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:23.152318+00:00"
     }
   },
   "legacy_reviews": {}
