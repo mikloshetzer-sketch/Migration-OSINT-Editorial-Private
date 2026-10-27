@@ -617,6 +617,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T13:47:25.601060+00:00"
+    },
+    "group:599": {
+      "hu_text": "Törökország három fő okból építette meg az iráni határfalat: az illegális migráció, különösen Afganisztánból érkező migránsok megakadályozására; a csempészet és kábítószer-kereskedelem elleni küzdelemre; valamint fegyveres csoportok határon való átlépésének és a nemzetbiztonság fenyegetésének megállítására.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét állításokat tartalmaz a török-iráni határfal építésének okairól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:48.733516+00:00"
+    },
+    "information:22464": {
+      "hu_text": "Etiópiában található ellátó központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek a szudáni határ mentén lévő menekülttáborokat bombázzák.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állítást tesz katonai támadásokról menekülttáborok ellen, ami humanitárius válságot érint, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:48.733539+00:00"
+    },
+    "information:22467": {
+      "hu_text": "Anthony Mann \"Border Incident\" (1949) című filmje egy egyedi film-noir alkotás, amely majdnem westernnek tűnik, westernként viselkedő karakterekkel, de valójában nem az. Dokumentumdráma hangulatot is áraszt, és az illegális mexikói munkáscsempészetre fókuszál.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy filmről szóló vélemény, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikához, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:48.733544+00:00"
+    },
+    "information:22468": {
+      "hu_text": "A \"hajó\" válságot Farage Brexit-katasztrófája okozta, a migránsok nem nagyon keltek át a Csatornán előtte. Ez csak retorika a hiszékeny rasszistáknak, és teljesen végrehajthatatlan, még a nácik sem tudták megvalósítani a céljukat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus a migrációról, amely nem tartalmaz konkrét bizonyítható tényeket, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:48.733548+00:00"
+    },
+    "information:22477": {
+      "hu_text": "Danny Tommo kilyukasztott egy migráns csempészekhez tartozó hajót, őt előzetes letartóztatásba helyezték, míg egy másik személy óvadék ellenében szabadon távozhatott. Az üzenet szerint tudják, mi folyik, és meg fogják állítani.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy konkrét incidensről migráns csempészettel kapcsolatban, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:48.733551+00:00"
+    },
+    "information:22486": {
+      "hu_text": "Egy levél, amely szerint az Egyesült Királyság börtön túlzsúfoltságának és a migránsok hajókkal történő csempészetének megoldása visszatérés az alapokhoz. Az üzenetben szerepel a király megóvására irányuló jókívánság.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai javaslat és vélemény a migrációs és börtönügyi problémák kezelésére, de nincs konkrét bizonyíték vagy hivatalos dokumentum, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:48.733554+00:00"
     }
   },
   "legacy_reviews": {}
