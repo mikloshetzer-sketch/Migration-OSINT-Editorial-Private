@@ -683,6 +683,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T19:07:48.733554+00:00"
+    },
+    "information:22497": {
+      "hu_text": "@FoxNews egy illegális migráns, papírok nélkül próbál belépni az Egyesült Államokba. Fogják el és deportálják érkezéskor.\n\n\"Brazília Legfelsőbb Bírósága elrendelte Flávio Bolsonaro útleveleinek elkobzását egy pénzmosási ügyben folyó büntetőeljárás részeként.\"",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások migrációval kapcsolatosak, de nincs megerősített bizonyíték az illegális migránsra vagy az útlevelek elkobzására vonatkozóan, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:59.144106+00:00"
+    },
+    "information:22505": {
+      "hu_text": "Ez egy irodalmi mű elemzése és vitája Michael Chabon \"The Amazing Adventures of Kavalier and Clay\" című regényéről, amely nem kapcsolódik a migrációhoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs témájú, hanem irodalmi mű elemzése, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:59.144127+00:00"
+    },
+    "record:2115152051021684775": {
+      "hu_text": "@growthtrend Törökország három fő okból építette meg az iráni határfalat: az illegális migráció, különösen Afganisztánból érkezők megakadályozására; a csempészet és kábítószer-kereskedelem elleni küzdelemre; valamint fegyveres csoportok határon való átlépésének megakadályozására, amelyek nemzetbiztonsági fenyegetést jelentenek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A határfal építésének indokai migrációs és biztonsági kérdéseket érintenek, de az állítás forrása nem ellenőrzött, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:59.144131+00:00"
+    },
+    "record:2115156578726969807": {
+      "hu_text": "Spanyolországban Barcelonában 100 embert tartóztattak le migránstömegek zavargásai és több száz üzlet kifosztása után. A zavargók üzletek kirakatát betörték, boltokat fosztottak ki, és több mint 30 tüzet okoztak a környéken.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény migrációval kapcsolatos társadalmi feszültségeket ír le, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:59.144134+00:00"
+    },
+    "telegram:1173707041:9578": {
+      "hu_text": "Közös megbeszélés zajlott az Irak Migrációs Minisztériuma és az Emberi Jogok Bizottsága között a kurd feyli kisebbség jogainak nyomon követéséről. A minisztérium vezetője elmondta, hogy a 2019-es rendelet visszavonása után kiadott 2026-os rendelet kiegészíti az előzőt, és a minisztérium igazgatója szerint a módosítás célja a bizottság újraszervezése és a jogalkotási folyamatok felgyorsítása a feyli kurdok jogainak védelmében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos minisztériumi és emberi jogi szervezeti találkozóról szól, de nincs külső megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:59.144138+00:00"
+    },
+    "telegram:1229318139:29727": {
+      "hu_text": "Egy migrációs témájú üzlet reklámja, amely francia fejkendőket árul, többféle méretben és szállítási lehetőséggel, beleértve a nemzetközi szállítást is. A poszt tartalmazza a kapcsolatfelvételi adatokat és közösségi média linkeket.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A poszt migrációhoz kapcsolódó árucikk értékesítését mutatja be, de nincs benne ellenőrizhető állítás vagy esemény, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:07:59.144141+00:00"
     }
   },
   "legacy_reviews": {}
