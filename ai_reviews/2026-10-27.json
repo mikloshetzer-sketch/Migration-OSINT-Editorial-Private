@@ -364,6 +364,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T13:46:26.184388+00:00"
+    },
+    "information:22385": {
+      "hu_text": "@jameschappers Ha azt hiszed, hogy egy olyan szudáni migráns, aki annyira tehetetlen, hogy tengereket kellett átszelnie egy állásért, ismeri az Egyesült Királyság/EU határmegállapodásainak részleteit, akkor még butább vagy, mint gondoltam. Vagy csak hazudsz?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és véleménycserére utaló állítás, nincs konkrét tényállítás vagy bizonyítható adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:40.589750+00:00"
+    },
+    "information:22389": {
+      "hu_text": "Menekülthullámok özönlenek Moyale-ba, miután heves összecsapások törtek ki az etióp határon, otthonokat gyújtottak fel és helyieket sebesítettek meg az Oromo-Szomáli feszültségek közepette. A KNCHR riasztást adott ki az élelmiszer-, víz-, menedék-, higiéniai és egészségügyi ellátás megterheltsége miatt. A Kenya Vöröskereszt családokról számolt be.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről szóló információ, amely segélyezési és biztonsági szempontból releváns, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:40.589769+00:00"
+    },
+    "information:22392": {
+      "hu_text": "Katonaelemzés a második lázadásról (kampánytérképekkel)! A Panem földrajzi határainak elemzése után a lázadók katonai-taktikai lépéseit vizsgáltam, figyelembe véve Panem egyedi domborzatát. Az első fázis a logisztikai központ, St. Louis megfojtása volt, amely stratégiai ellenőrzőpontként szolgál a kelet-nyugati tengelyen. A lázadók elfoglalták és letiltották a St. Louis-i ellenőrzőpontot, ezzel megvakították a Capitolium megfigyelését és gazdasági blokádot indítottak, megakadályozva fontos áruk szállítását és katonai mozgásokat.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Fiktív vagy játékbeli tartalom, nem valós migrációs esemény vagy elemzés, így háttérként kezelhető, de nem ellenőrzött tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:40.589774+00:00"
+    },
+    "information:22404": {
+      "hu_text": "@JulianPFoulkes @IainDale Te kevered az gazdasági migránsokat (a videó témája) és a kis hajós érkezéseket, barátom...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Vélemény és vita egy migrációs témáról, nincs konkrét tényállítás vagy bizonyítható adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:40.589778+00:00"
+    },
+    "information:22414": {
+      "hu_text": "@MarlaBartoli @Pointblank_78 Az USCCB és a Katolikus Karitász szövetségi támogatásai a migráns/menekült szolgáltatásokra a magas átkelésekhez igazodnak, a püspökök esetében ez a programköltségek kb. 95%-át fedezi, évi több mint 100 millió dollár értékben. Az érkezések csökkentése csökkenti mind a szolgáltatási igényt, mind a támogatásokat. A csoportok ezt így kommunikálják.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás támogatási rendszerekről és költségekről, de nincs megerősített hivatalos adat vagy forrás a pontos összegre és hatásra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:40.589782+00:00"
+    },
+    "information:22417": {
+      "hu_text": "Az EU országokat, amelyek lezárták határaikat és megtagadták az illegális migránsok befogadását, bírságolták és bojkottálják őket az EU-s társaik. Eközben az EU finanszírozást nyújt az ENSZ-nek, amely NGO-kon keresztül szervezi az illegális migránsok csempészetét az EU országokba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erős állítás az EU és ENSZ migrációs politikájáról, amely komoly vádakat tartalmaz, de nincs megerősített bizonyíték vagy hivatalos forrás a csempészet szervezésére vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:40.589786+00:00"
     }
   },
   "legacy_reviews": {}
