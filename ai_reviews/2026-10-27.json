@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T13:46:40.589786+00:00"
+    },
+    "information:22418": {
+      "hu_text": "A migránsok megérkeznek Spanyolország Kanári-szigeteire, ahol humanitárius segítséget kapnak. Észak-Franciaországban a Vöröskereszt és más szervezetek támogatást nyújtanak a hajléktalan táborokban élőknek. Az ingyenes repülőjáratok és a nyilvános támogatások kérdése azonban vitatott.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés humanitárius helyzetet ír le, de nem tartalmaz konkrét, ellenőrizhető adatokat vagy bizonyítékokat, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:51.769574+00:00"
+    },
+    "record:2115056987499352190": {
+      "hu_text": "Egy török vegyi tanker, amely a West Ace Tanker & Shipping tulajdonában van, 47 irreguláris migránst mentett meg a haláltól.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Mentési műveletet ír le, ami fontos információ a migrációs helyzet szempontjából, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:51.769593+00:00"
+    },
+    "record:2115057953892188165": {
+      "hu_text": "Az üzenet felsorolja a brit kormány migrációs és gazdasági intézkedéseit, például az illegális migránsok kitoloncolását, és kérdezi, mely intézkedésekkel nem ért egyet a címzett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi vita, nem tényállítás vagy esemény, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:51.769598+00:00"
+    },
+    "record:2115060250822771060": {
+      "hu_text": "Dél-afrikai tisztviselők sürgetik a migrációt kiváltó okok kezelését, és azt állítják, hogy az illegális sofőröket el kell távolítani, kivéve, ha rendelkeznek munkavállalási engedéllyel Dél-Afrikában.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs politikai álláspontot közöl, de nem tartalmaz konkrét bizonyítékot vagy hivatalos döntést, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:51.769603+00:00"
+    },
+    "record:2115062099324142040": {
+      "hu_text": "Az üzenet szerint Obama bombázta Líbiát, ami káoszt és rabszolgaságot eredményezett, ahonnan a legtöbb európai menekült érkezik.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi-politikai vélemény, amely nem tartalmaz konkrét bizonyítékot, és erősen vitatott narratívát közöl, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:51.769607+00:00"
+    },
+    "record:2115062547393196359": {
+      "hu_text": "Marokkói rendőrök elfogtak egy migránst, aki úszva próbált eljutni Spanyolország észak-afrikai enklávéjába, Ceutába, október 26-án. Az eset a szigorúbb határvédelem és a migránstáborok elleni fellépés közepette történt, miután július végén tömeges bevándorlás volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági eseményről számol be, amely releváns a migrációs helyzet szempontjából, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:51.769611+00:00"
     }
   },
   "legacy_reviews": {}
