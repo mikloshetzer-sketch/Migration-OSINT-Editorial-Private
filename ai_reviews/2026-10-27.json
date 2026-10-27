@@ -100,6 +100,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T01:14:34.817210+00:00"
+    },
+    "group:593": {
+      "hu_text": "„@datafan12 Nagyon nehéz volt. Szíriából elmenve megismertem a المقذوفين-t, azaz a szíriai menekülteket, akiket még a jordániai sivatagi táborokból is kitoloncoltak a szíriai vad sivatagba. Szeretet-gyűlölet kapcsolat Jordániával. Az elmúlt éjszaka óta a szíriai hangulat az „árulva érzés”.”",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes tapasztalatot és érzelmi állapotot ír le a szíriai menekültek jordániai helyzetével kapcsolatban, de nincs külső bizonyíték a kitoloncolásokra vagy a hangulatra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:39.972499+00:00"
+    },
+    "information:22312": {
+      "hu_text": "@OldFoxDirtRoad @honestpollster Nettó negatív bevándorlásunk van, és havi rekordokat döntünk kitoloncolásokban, miközben a határunk zárva van. Biden havi több százezer bevándorlót engedett be. Valóban bárki is azt várta, hogy ez egyik napról a másikra megváltozik? A legális bevándorlás drasztikusan csökkent, hogy ezt kompenzálja.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állításokat tartalmaz a bevándorlási és kitoloncolási statisztikákról, de nincs hivatalos adat vagy forrás a megerősítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:39.972521+00:00"
+    },
+    "information:22314": {
+      "hu_text": "A törvényjavaslat, amely átalakítja a varsói székhelyű ügynökség mandátumát, három fő területre fókuszál: a kitoloncolások szerepének megerősítése, a határválságok előrejelzésének és kezelésének javítása, valamint az operatív kapacitás erősítése anélkül, hogy más országok határőreit toborozná.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A javaslatról szóló információk hivatalos forrásból származhatnak, de a részletek és a végrehajtás még nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:39.972538+00:00"
+    },
+    "information:22317": {
+      "hu_text": "2021-ben menekültek támogatása. Voltam Calais-ban, hajón menekülteket mentettem a tengeren, és menekültek elhelyezésében is segítettem. Mit tesznek a szélsőjobboldali botok a hajléktalan katonákért, akikről beszélnek? Igen, én is segítettem nekik szállást találni!",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes tapasztalatokat és humanitárius tevékenységet ír le, de nincs külső bizonyíték a konkrét eseményekre vagy hatásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:39.972543+00:00"
+    },
+    "information:22331": {
+      "hu_text": "Vissza akarják hozni a tömeges migráns karavánokat, gyermekek bántalmazását és emberkereskedelmét, korlátlan csalásokat és adóelvonásokat, munkahelyek külföldre küldését, gyengített hadsereget és magasabb adókat, valamint a kommunizmusnak való behódolást Epstein miatt. Nekem semmi közöm ehhez.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és összeesküvés-elmélet jellegű állításokat tartalmaz, amelyek nem bizonyítottak és nem tényalapúak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:39.972548+00:00"
+    },
+    "information:22349": {
+      "hu_text": "Egy játékbeli településrendszer fejlesztési ötlete, amely gazdasági pontokat, frakciókat, telepeseket és egyéb mechanikákat használ a Starfield játék egyszerűsített településeihez képest. A rendszer célja, hogy a játékosok számára komplexebb és gazdaságilag motivált településkezelést biztosítson.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Játékfejlesztési ötlet, amely nem kapcsolódik a migrációhoz vagy a valós eseményekhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:39.972551+00:00"
     }
   },
   "legacy_reviews": {}
