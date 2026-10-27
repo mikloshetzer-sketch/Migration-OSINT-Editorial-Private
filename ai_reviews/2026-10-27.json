@@ -67,6 +67,40 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T01:14:28.477678+00:00"
+    },
+    "telegram:1229318139:29713": {
+      "hu_text": "Ez egy arab nyelvű hirdetés, amely orvosi jellegű fejfedőket és hosszú kendőket kínál eladásra egy üzletből, amely az iszlám öltözékekre specializálódott Kairóban, a Khan el-Khalili épület második emeletén. A termékek ára nagykereskedelmi és kiskereskedelmi árakon van feltüntetve, és elérhetők WhatsApp és telefonos kapcsolattartás útján.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy kereskedelmi hirdetés, amely nem tartalmaz migrációval kapcsolatos információkat vagy állításokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:34.817191+00:00"
+    },
+    "telegram:1229318139:29715": {
+      "hu_text": "Ez a bejegyzés egy arab nyelvű hirdetés, amely egy ruházati terméket, egy alapvető készletet kínál eladásra, amely egy sapkából és egy felsőből áll, különböző árakon nagy- és kiskereskedelmi vásárlók számára. Az üzlet Kairóban található, és elérhető WhatsApp-on és telefonon keresztül.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés kizárólag kereskedelmi tartalom, nem tartalmaz migrációval kapcsolatos információkat vagy állításokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:34.817207+00:00"
+    },
+    "telegram:1229318139:29719": {
+      "hu_text": "Ez a poszt egy arab nyelvű hirdetés, amely egy két részes ruhakészletet kínál eladásra, amely egy laza szabású sapkából és egy szoknyából áll, különböző árakon nagy- és kiskereskedelmi vásárlók számára. Az üzlet Kairóban található, és elérhető WhatsApp-on és telefonon keresztül.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés kereskedelmi jellegű, nem tartalmaz migrációval kapcsolatos információkat vagy állításokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:34.817210+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
