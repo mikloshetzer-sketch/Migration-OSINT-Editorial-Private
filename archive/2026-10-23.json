@@ -4077,9 +4077,46 @@
       "first_collected_at": "2026-10-24T19:59:22Z",
       "last_collected_at": "2026-10-24T19:59:22Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22398",
+      "timestamp": "2026-10-23T13:24:11Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xddy5i",
+      "author": "dokonano",
+      "url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xddy5i/netanyahu_hebron_neighborhood_of_gunmen_in/",
+      "source_url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xddy5i/netanyahu_hebron_neighborhood_of_gunmen_in/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "checkpoint",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "Netanyahu: Hebron neighborhood of gunmen in checkpoint attack to be 'destroyed' | “We will act to destroy this place, to change it completely,” Netanyahu said. \"We will implement the successful and aggressive model we used in the refugee camps, which are essentially terrorist strongholds\"",
+      "text_excerpt": "Netanyahu: Hebron neighborhood of gunmen in checkpoint attack to be 'destroyed' | “We will act to destroy this place, to change it completely,” Netanyahu said. \"We will implement the successful and aggressive model we used in the refugee camps, which are essentially terrorist strongholds\"",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-27T13:43:29Z",
+      "last_collected_at": "2026-10-27T13:43:29Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-24T19:59:30.284815+00:00",
+  "last_archived_at": "2026-10-27T13:45:19.438402+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
