@@ -562,6 +562,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T13:47:12.478198+00:00"
+    },
+    "telegram:1261826972:53910": {
+      "hu_text": "A spanyol Legfelsőbb Bíróság elutasította, hogy a kormányt sürgős kitoloncolási és visszaküldési terv kidolgozására kötelezze Ceutában. Elutasította a város által Pedro Sánchez kormányának tétlensége ellen benyújtott fellebbezésben kért sürgősségi intézkedéseket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét bírósági döntésről számol be, amely politikai és jogi témájú. Az állítás ellenőrzése további hivatalos forrásokat igényelne, ezért jelenleg nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:25.601035+00:00"
+    },
+    "telegram:1261826972:53915": {
+      "hu_text": "Brüsszel javasolja a Frontex megerősítését a ceutai válság után, valamint az illegális bevándorlók visszaküldésének digitalizálását. Az Európai Bizottság tervezi a határvédelmi ügynökség létszámának 30 000 főre növelését, egy gyorsreagálású erő létrehozását vészhelyzetekre, valamint egy közös digitális platform kialakítását a visszatérések felgyorsítására.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés az EU-s határvédelmi politika javaslatáról szól, ami fontos migrációs esemény és politika. Az állítás hivatalos EU-s dokumentumokkal ellenőrizhető lenne, de jelenleg nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:25.601050+00:00"
+    },
+    "telegram:1261826972:53919": {
+      "hu_text": "A spanyol kormány elutasította 704 menedékkérelmet a Ceutában elbírált 853-ból. Saiz miniszter tájékoztatása szerint összesen 13 823 személy tért vissza Marokkóba, ebből 13 215 önkéntesen, 608 pedig kitoloncolással.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét statisztikai adatokat közöl a menedékkérelmekről és visszatérésekről, ami fontos migrációs esemény. Az adatok hitelessége további hivatalos forrásokkal ellenőrizhető, ezért jelenleg nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:25.601054+00:00"
+    },
+    "telegram:1604168769:12368": {
+      "hu_text": "Jugra kormányzata tervezi a munkavállalói engedély árának 27%-nál nagyobb mértékű emelését. Az új javaslat szerint az engedély díja 4,284-ről 5,445-re nő, ami azt célozza, hogy a külföldi munkavállalók adóterhe közelítsen a helyi lakosság által fizetett jövedelemadóhoz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy regionális munkavállalói engedély díjának tervezett emeléséről szól, ami migrációs politika és jogi kérdés. Az állítás ellenőrzése további hivatalos regionális forrásokat igényel, ezért jelenleg nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:25.601057+00:00"
+    },
+    "telegram:1604168769:12369": {
+      "hu_text": "Magadan régióban 2027-re emelkedik a munkavállalói engedély díja: jogi személyek alkalmazottai számára 13 320 rubelre, magánszemélyek alkalmazottai számára 18 870 rubelre. Bár a regionális szorzó nem változott, a számítási mód változásai miatt az engedély ára nőtt az előző évhez képest.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy régiós munkavállalói engedély díjának változásáról tájékoztat, ami migrációs politika és jogi kérdés. Az állítás ellenőrzése további hivatalos regionális forrásokat igényel, ezért jelenleg nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:25.601060+00:00"
     }
   },
   "legacy_reviews": {}
