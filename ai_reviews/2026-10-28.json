@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "reviews": {
+    "group:600": {
+      "hu_text": "Putyin fegyverként használja a szegény muszlimokat és afrikaiakat, hogy háborút indítson Európa ellen! Kivéve Lengyelországot, mert Putyinnak valamiért tetszik Lengyelország, így oda nem érkeznek migránsok. Ursula ugyanolyan arrogáns, pszichopata és hazug, mint Macron.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és állításokat tartalmaz migrációs témában, de nincs bizonyíték az állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:33.184250+00:00"
+    },
+    "group:601": {
+      "hu_text": "Bahaa, próbálj meg többet és sírj hangosabban. Biztos vagyok benne, hogy néhány őseink 65 000 évvel ezelőtt érkeztek Ausztráliába. Mások 235 éve rabszolgák voltak, így nem tekinthetők bevándorlóknak, mert kényszerítve voltak. Az igazi migránsok tegnap érkeztek, és semmit sem építettek. Egyébként olvass el egy könyvet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és történelmi utalások vegyesen, nincs konkrét migrációs esemény vagy adat, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:33.184269+00:00"
+    },
+    "group:602": {
+      "hu_text": "Farage szokásos félrevezetése elhallgatással: Az államadósság 2,7 billió font volt, amikor a Munkáspárt hatalomra került, és 2,9 billió, amikor Burnham megérkezett. Farage narancssárga barátja 2 font/literre emelte a dízelt. Foglyokat engedtek szabadon, nem mind volt veszélyes. 8400 migráns érkezett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai állításokat tartalmaz migrációs és gazdasági témában, de nincs megerősített adat vagy forrás a pontos ellenőrzéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:33.184272+00:00"
+    },
+    "information:22521": {
+      "hu_text": "Az Európai Bizottság egy sokkal nagyobb Frontexet szeretne. Javaslatuk szerint a határügynökség állandó állománya 30 000 tisztre nőne (jövőre 10 000-et terveztek), létrehoznának egy Visszatérési Koordinációs Központot, nagyobb szerepet kapna a kitoloncolásokban, és lehetővé tennék, hogy embereket egyik nem uniós országból a másikba toloncoljanak, ahol megállapodások vannak, ami szolgálhatna a tervezett \"visszatérési központok\" számára az EU-n kívül. Egy új Online Monitoring és Reagálási Központ figyelné a nyilvános közösségi médiát a migrációs mozgások jelei után, amit a nyári Ceuta válságból tanultak. Egy Gyors Reagálás Erő válságok esetén települne a határokra. A Bizottság azt kéri, hogy Frontex költségvetését megduplázzák körülbelül 12 milliárd euróra a következő hosszú távú uniós költségvetésben. A Parlamentnek és a tagállamoknak még meg kell egyezniük.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hivatalos uniós forrásokra és megbízható hírekre alapuló információ a Frontex bővítéséről és szerepének növeléséről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:33.184275+00:00"
+    },
+    "information:22533": {
+      "hu_text": "Megérkeztek a határhoz vagy a belépési ponthoz és menedéket kértek? Úgy tűnik, hogy ez az információ nem áll rendelkezésre más migránsokról, csak az államtitkár kedvenc személyeiről.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy esetleges kivételezésről, de nincs bizonyíték vagy részletes adat az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:33.184277+00:00"
+    },
+    "information:22534": {
+      "hu_text": "Úgy tűnik, nagy migránscsoport érkezett. Csónakra várnak?",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Megfigyelés egy migrációs eseményről, de nincs megerősített információ vagy további részlet a helyzetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:33.184280+00:00"
+    }
+  }
+}
