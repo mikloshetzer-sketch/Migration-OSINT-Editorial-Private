@@ -133,6 +133,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T23:22:49.979996+00:00"
+    },
+    "record:mastodon_117514443464980859": {
+      "hu_text": "📰 Az önkéntes venezuelai távozások száma az elmúlt évben négyszeresére nőtt: az országba belépő migránsok száma pedig 85%-kal csökkent 🔗 https://www.theclinic.cl/2026/10/27/salidas-voluntarias-de-venezolanos-se-han-cuadruplicado-en-el-ultimo-ano-migrantes-ingresando-al-pais-tambien-han-disminuido-en-un-85/ #migracion #venezuela #salidas",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs mozgásokat érint, fontos adatokat közöl a venezuelai migránsok önkéntes távozásáról és az országba belépők számának csökkenéséről, de nincs megerősített forrás vagy hivatalos adat a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:57.455235+00:00"
+    },
+    "telegram:1229318139:29730": {
+      "hu_text": "✨ Francia fejkendő, új és nagyon elegáns dizájn. ❤️ Puha, kényelmes szaúdi sifon anyagból, alkalmas mindennapi használatra és minden alkalomra. Méretek: hátul 130 cm, elöl 100 cm. Foglalás és információ a megadott telefonszámon és WhatsApp-on. Cím és helyszín: Iszlám öltözék központ, Khan el-Khalili épület második emelet, Al-Ataba, Kairó.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy termékbemutató és értékesítési hirdetés, amely nem kapcsolódik migrációs eseményhez vagy témához.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:57.455255+00:00"
+    },
+    "telegram:1229318139:29733": {
+      "hu_text": "Francia kis fejkendő modell, Royal Wah anyagból. Méretek: elöl 70 cm, hátul 90 cm. Foglalás és információ a megadott telefonszámon és WhatsApp-on. Cím és helyszín: Iszlám öltözék központ, Khan el-Khalili épület második emelet, Al-Ataba, Kairó.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy termékbemutató és értékesítési hirdetés, nem migrációs tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:57.455258+00:00"
+    },
+    "telegram:1229318139:29740": {
+      "hu_text": "🔺 Akció 🔺 Az ajánlat ára: 350 egyiptomi font. Az ajánlat tartalma (5 darabos készlet): 1. Öt darabos nikáb szett több színben, 2. Hosszú pamut csuklópánt, 3. Elegáns nikáb lánc, 4. Csatt masni, 5. Rögzítő pálca a kényelemért. Foglalás és információ a megadott telefonszámon és WhatsApp-on. Cím és helyszín: Iszlám öltözék központ, Khan el-Khalili épület második emelet, Al-Ataba, Kairó.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy termékértékesítési hirdetés, nem migrációs témájú tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:57.455260+00:00"
     }
   },
   "legacy_reviews": {}
