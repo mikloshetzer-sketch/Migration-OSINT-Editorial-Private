@@ -749,6 +749,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T19:07:59.144141+00:00"
+    },
+    "telegram:1261826972:53928": {
+      "hu_text": "◼️ Videót is tartalmaz ▶ Így jelezheti a rendőrségnek és a helyi hatóságnak a környékén történt bármilyen eseményt\n\n➡ Két e-mail címet hoztak létre, ahol névtelenül lehet bejelenteni bármilyen ismert szabálytalanságot, például illegális lakásokat\n\nhttps://elfarodeceuta.es/asi-puede-comunicar-policia-delegacion-cualquier-incidente-barrio/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy hivatalos kommunikációs lehetőséget ismertet a rendőrség és helyi hatóságok felé, amely a határbiztonsághoz kapcsolódik. Az állítások nem tartalmaznak konkrét adatokat vagy eseményeket, így ellenőrzésük nem lehetséges, de a forrás hitelesnek tűnik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:08:04.904613+00:00"
+    },
+    "telegram:1261826972:53930": {
+      "hu_text": "◼️ Videót is tartalmaz ▶ Migránsok futva menekülnek a rendőrség elől Ceutában\n\n➡ A Nemzeti Rendőrség meglepetésszerű razziái a migránsok felkutatására olyan jelenetekhez vezetnek, amikor csoportok futva próbálnak elrejtőzni\n\nhttps://elfarodeceuta.es/inmigrantes-carrera-evitar-policia-ceuta/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsok és rendőrségi akciók közötti interakcióról számol be, ami fontos a határbiztonság szempontjából. Az állítások konkrét eseményeket írnak le, de nincs független megerősítés, ezért ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T19:08:04.904634+00:00"
     }
   },
   "legacy_reviews": {}
