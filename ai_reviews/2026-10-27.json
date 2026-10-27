@@ -232,6 +232,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T07:00:55.197416+00:00"
+    },
+    "record:reddit_1xgk3u3": {
+      "hu_text": "Indiában élő, 5 éves tapasztalattal rendelkező könyvelő (ebből 2 év Londonban). Mennyire reális közvetlenül Indiából szponzorált állást kapni Hollandiában? Egy indiai könyvelő kérdez a holland munkaerőpiacról, a szükséges készségekről, a nyelvtudás fontosságáról és a szponzoráló cégekről, hogy 1-2 éven belül a magas képzettségű migránsok útján költözhessen Hollandiába.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés személyes kérdés és tapasztalatmegosztás, nem tartalmaz ellenőrzött tényeket vagy állításokat migrációs eseményről vagy politikáról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:01:06.726027+00:00"
+    },
+    "telegram:1604168769:12356": {
+      "hu_text": "106 migránst kényszerűen kiutasítottak. Novoszibirszk régióban végzett razziák során 106 külföldi állampolgárt fogtak el, akik megsértették a migrációs szabályokat, és kényszerűen kiutasították őket. Emellett 233 személynek tiltották meg az oroszországi belépést, és 36 illegális migrációval kapcsolatos bűncselekmény ügyében indult eljárás.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét számadatokat és intézkedéseket közöl, de nincs független forrás vagy hivatalos megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:01:06.726045+00:00"
+    },
+    "telegram:1604168769:12357": {
+      "hu_text": "Külföldi munkavállalók fizetésének készpénzes kifizetése tilos lehet. Az orosz Állami Dumának benyújtott új törvényjavaslat szerint a migránsok fizetését csak oroszországi bankszámlákra lehetne átutalni 2027. március 1-től, hogy az adófizetés folyamatát jobban ellenőrizhessék a munkáltatók.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy törvényjavaslatot ismertet, amely még nem biztos, hogy elfogadásra került, ezért ellenőrizetlen információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:01:06.726051+00:00"
+    },
+    "telegram:1604168769:12358": {
+      "hu_text": "Új szabályok léptek életbe Kazanyban a futárok számára. Kötelezővé tették speciális IoT modulok felszerelését az elektromos kerékpárokra a sebességkorlátozás és tiltott területek elérése ellenőrzésére. Minden futár táskáján egyedi azonosító szám és fényvisszaverő elem lesz, a sebesség pedig nem haladhatja meg az óránként 25 km-t.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés helyi szabályozásról szól, de nincs hivatalos megerősítés vagy további bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:01:06.726055+00:00"
+    },
+    "telegram:1604168769:12359": {
+      "hu_text": "Az üzleti ombudsman kérte a kormányzót, hogy enyhítse a migránsok tevékenységére vonatkozó tilalmat. Decembertől Szentpéterváron tilos lesz a migránsoknak fodrászati és szépségszalonokban dolgozni patent alapján. Az ombudsman szerint mintegy 10 ezer migráns dolgozik ezen a területen, és ezek az olcsó fodrászatok a lakosság 70%-át szolgálják ki, ezért újra kell vizsgálni a döntést.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi szabályozási javaslatról és annak kritikájáról szól, de nincs hivatalos döntés vagy megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:01:06.726058+00:00"
+    },
+    "telegram:1604168769:12360": {
+      "hu_text": "Egy üzbég migránst letartóztattak Dél-Koreában. A migráns illegális munkavégzés közben összeveszett egy helyi lakossal, megverte, aki kórházba került. A migránst őrizetbe vették, és nyomozás indult az ügyben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét incidensről számol be, de nincs hivatalos vagy független forrásból származó megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:01:06.726062+00:00"
     }
   },
   "legacy_reviews": {}
