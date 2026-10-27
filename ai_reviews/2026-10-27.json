@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-27",
+  "reviews": {
+    "information:22253": {
+      "hu_text": "@XavierBecerra Nos, ez gazdag. Az a személy, aki nemcsak segített lehetővé tenni az illegális 2020-2024-es határinváziót (és ezzel együtt a látszólag 330 000 megoldatlan migráns gyermekügy elvesztését, amelyekről emberkereskedelemről és halálesetekről érkeztek jelentések), hanem a több tízmillió harmadik világbeli migránst is.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai véleményeket és súlyos, de nem bizonyított állításokat tartalmaz migrációs eseményekről és gyermekügyekről, ezért fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:28.477643+00:00"
+    },
+    "information:22256": {
+      "hu_text": "@BeetleBailey04 @Trustintrump47 @BillMelugin_ Nem. Ez nem aktuális. Ez a 2026. július 30-31-i Ceuta-i hullámot ismétli, amikor több tízezer főként marokkói férfi lépte át Marokkóból a határt. Egy helyi Guardia Civil szakszervezeti szóvivő (nem a nemzeti vezető) akkor teljes határösszeomlásról beszélt. Spanyolország szabályozási folyamata.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy korábbi migrációs eseményre utal, de nem bizonyított, hogy jelenleg is igaz, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:28.477664+00:00"
+    },
+    "information:22263": {
+      "hu_text": "@VakabonJun @LEOVING Igen. Dokumentált esetek vannak arról, hogy dominikai migránsok túlélési kannibalizmushoz folyamodtak a tengeren, miközben Puerto Ricóba próbáltak eljutni. 2001-ben túlélők, akik heteken át sodródtak egy hajón, arról számoltak be, hogy a halottak húsát ették. Hasonló jelentések érkeztek 2004-ben, 2008-ban pedig túlélők megerősítették az evést.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás súlyos humanitárius helyzetet ír le, de nem tartalmaz konkrét bizonyítékokat, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:28.477669+00:00"
+    },
+    "information:22272": {
+      "hu_text": "@MariaDeLeone @JonesOyl1776 @ICEgov @60Minutes Nem kommentáltak, mert nincs ilyen tudósítás. A posztjaik és műsoraik keresése nem hoz elő illegális bevándorlók által megölt amerikai állampolgárokról szóló anyagot. A jelentések a migránsok nehézségeire, átkelésekre, csempészetre és kitoloncolásokra fókuszálnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás a média tartalmára vonatkozik, de nem bizonyított, hogy teljesen igaz vagy hamis, ezért további ellenőrzés javasolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:28.477672+00:00"
+    },
+    "information:22275": {
+      "hu_text": "@ladyabroly Ilhan Omar 2019 óta Minnesota 5. körzetének demokrata képviselője az USA-ban. 1982-ben született Szomáliában, gyerekként menekült a polgárháború elől, kenyai menekülttáborban élt, majd 1995-ben érkezett az USA-ba. Tim Martin a brit JD Wetherspoon pub alapítója és elnöke.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás tényeket tartalmaz egy ismert politikusról és egy üzletemberről, amelyek könnyen ellenőrizhetők és igazak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:28.477675+00:00"
+    },
+    "telegram:1229318139:29711": {
+      "hu_text": "Ez egy arab nyelvű hirdetés egy ötdarabos, stílusos és visszafogott iszlám viselet szettjéről, amely tartalmaz fejkendőt, sálat és egyéb kiegészítőket. A termékek magas minőségű anyagból készülnek, és elérhetők nagy- és kiskereskedelmi áron Egyiptomban, a megadott elérhetőségeken keresztül lehet rendelni.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem migrációval kapcsolatos információ, hanem kereskedelmi hirdetés, ezért migrációs OSINT szempontból irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T01:14:28.477678+00:00"
+    }
+  }
+}
