@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T23:22:33.184280+00:00"
+    },
+    "record:2115202349056598427": {
+      "hu_text": "Farage szokásos elhallgatáson alapuló félrevezetése:\n- Amikor a Munkáspárt hatalomra került, az államadósság 2,7 billió font volt, Burnham érkezésekor 2,9 billió.\n- Farage narancssárga, szenilis társa a dízelt 2 font/literre emelte.\n- Foglyokat engedtek szabadon, nem mind volt veszélyes.\n- 8400 migráns érkezett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és számszerű adatokat tartalmaznak, de nincs megerősített forrás vagy bizonyíték a pontos adatokra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:45.242835+00:00"
+    },
+    "record:2115202846090240019": {
+      "hu_text": "Egy vita során elhangzott, hogy egyes őseink 65 000 éve éltek Ausztráliában, mások 235 évig rabszolgák voltak, így nem tekinthetők bevándorlóknak, mert kényszerből érkeztek. A valódi migránsok tegnap érkeztek, és nem építettek semmit. Ajánlott könyvet olvasni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és történelmi megjegyzés, amely nem tartalmaz konkrét, ellenőrizhető tényállítást, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:45.242855+00:00"
+    },
+    "record:2115216355125235987": {
+      "hu_text": "A marokkói rendőrség visszafordított egy migránst, aki úszva próbált eljutni Spanyolország Ceuta enklávéjába. A határbiztonság csak akkor ér valamit, ha érvényesítik is a szabályokat, és az országoknak joguk van ellenőrizni a belépőket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs független bizonyíték vagy hivatalos forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:45.242858+00:00"
+    },
+    "record:2115216594838094165": {
+      "hu_text": "2026. július 30-án tömeges határátlépés történt Ceutában, több ezer, később több tízezer migráns érkezett főként Marokkóból és Szaharától délre fekvő Afrikából. Egy helyi polgári őrség vezetője szerint a határ teljesen összeomlott. A videó aznap készült.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eseményről konkrét adatokat közöl, de nincs hivatalos vagy független forrás, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:45.242861+00:00"
+    },
+    "record:2115220435725906271": {
+      "hu_text": "Putyin fegyverként használja a szegény muszlimokat és afrikaiakat Európa elleni háborúhoz, kivéve Lengyelországot, ahol nincs migráns határátlépés. Ursula arrogáns és pszichopata, akárcsak Macron.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai véleményeket és összeesküvés-elméleteket tartalmaz, amelyek nem bizonyítottak, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:45.242862+00:00"
+    },
+    "record:2115205649122390348": {
+      "hu_text": "@Reuters 🇪🇸 Spanyolország 16 afrikai és ázsiai menedékkérőt deportált Marokkóba a Ceuta nevű észak-afrikai enklávéjából, miután elutasították a menedékkérelmüket. Emberi jogi szervezetek tiltakozást emeltek emiatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számadatot és eseményt közöl, amely jelentős migrációs esemény, de nincs megerősített forrás vagy hivatalos adat a deportálások pontos részleteiről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T23:22:49.979996+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
