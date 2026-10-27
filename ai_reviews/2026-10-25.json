@@ -749,6 +749,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-25T20:09:01.967064+00:00"
+    },
+    "information:22394": {
+      "hu_text": "Netanjahu elkezdte kiüríteni a palesztin negyedeket Hebronban, de az indoklása meglehetősen gyenge. Az izraeli katonai források nem tudtak konkrét bizonyítékot szolgáltatni arra, hogy az érintett emberek kapcsolatban állnának a terrorcselekményekkel, amelyekre hivatkozva az intézkedéseket végrehajtják. Eközben a telepes hatóságok a támadásra válaszul terjeszkedést jelentettek be. A palesztinokat elűzik, a telepeseknek pedig több területet ígérnek, miközben Netanjahu a biztonságot hangsúlyozza, különösen a választások előtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, és politikai véleményeket is tartalmaznak. Nincs megerősített bizonyíték a kiürítések indoklására, ezért az állítások ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:06.379194+00:00"
     }
   },
   "legacy_reviews": {}
