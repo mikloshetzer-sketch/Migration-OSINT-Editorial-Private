@@ -496,6 +496,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T13:46:51.769611+00:00"
+    },
+    "record:2115073168419557400": {
+      "hu_text": "„Azért nem lehet visszaküldeni őket, mert a határőrség/RNLI a brit partokra szállítja őket az életmentés ürügyén, ami védett státuszt biztosít számukra. Ha nem kísérnék partra őket, illegális migránsok lennének, akiket ki lehetne toloncolni.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a brit határőrség gyakorlatára vonatkozik, de nincs megerősített bizonyíték, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:05.363543+00:00"
+    },
+    "telegram:1173707041:9571": {
+      "hu_text": "A Nők Ügyosztálya a Migrációs és Menekültügyi Minisztériumban Duhokban egy szemináriumot tartott az újrabeilleszkedésről és a társadalmi békéről, amelyen belső menekült családok vettek részt a Shariya táborban. A rendezvény célja a békés együttélés erősítése, a tolerancia és elfogadás kultúrájának terjesztése, valamint a nők szerepének hangsúlyozása a békeépítésben és a társadalmi kohézióban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szemináriumról szóló információk nem tartalmaznak vitatható vagy kétséges állításokat, de nincs külső megerősítés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:05.363561+00:00"
+    },
+    "telegram:1173707041:9574": {
+      "hu_text": "Az Esőzések és árvizek szezonjára való felkészülésként a Migrációs Minisztérium elővigyázatossági terveket dolgozott ki a válságok és katasztrófák kezelésére. A minisztérium részlege részt vett egy széleskörű konferencián, amely a belügyi minisztérium Válságkezelő Központja által szervezett „A válaszadás otthon kezdődik” címet viselte. A konferencián a téli szezonban várható kockázatok csökkentésére irányuló intézkedéseket és a koordináció fontosságát tárgyalták.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tájékoztatás a katasztrófavédelmi felkészülésről szól, nem tartalmaz kétséges állításokat, de nincs külső ellenőrzés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:05.363566+00:00"
+    },
+    "telegram:1261826972:53906": {
+      "hu_text": "Frissítés videóval: A Nemzeti Rendőrség művelete Ceutában – razziák a migránsok kitoloncolása vagy regisztrálása érdekében, néhányan menekülnek. Az UIP második napja folyamatosan Ceutában van, hogy megtalálja azokat a migránsokat, akiket ki lehet toloncolni vagy regisztrálni kell, ami ellentétes az NGO-k álláspontjával.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A rendőrségi műveletekről szóló beszámoló fontos a határbiztonsági helyzet megértéséhez, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:05.363570+00:00"
+    },
+    "record:2115066121401270556": {
+      "hu_text": "„Úgy bánnak velünk, mintha nem lennénk emberek.” Mauritániából Szenegálba kitoloncolt migránsok arról számolnak be, hogy érvényes papírok ellenére letartóztatják őket, fogva tartják, és érkezéskor kevés segítséget kapnak. Seydou Belem tudósítása Rossóból.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsok emberi jogi helyzetéről szól, ami fontos humanitárius kérdés. Az állítások nem ellenőrzöttek, nincs közvetlen bizonyíték, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:12.478180+00:00"
+    },
+    "telegram:1261826972:53900": {
+      "hu_text": "Az Elín nevű szervezet illegális visszatoloncolásokat jelent az LMBTI közösséghez tartozó és harmadik országbeli személyek esetében. A szervezet követeli a rendőri műveletek befejezését a CETI-ben, és figyelmeztet, hogy néhány személynek még folyamatban van a menedékjogi kérelme.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások jogi és politikai vonatkozásúak, fontosak a migrációs politika szempontjából. Az információk nem ellenőrzöttek, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:47:12.478198+00:00"
     }
   },
   "legacy_reviews": {}
