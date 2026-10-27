@@ -298,6 +298,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T07:01:06.726062+00:00"
+    },
+    "group:594": {
+      "hu_text": "@triffic_stuff_ @GMB Az az oka annak, hogy „nem lehet visszaküldeni őket”, mert a határőrség/RNLI a brit partokra szállítja őket az életmentés álcája alatt, ami védett státuszt biztosít számukra. Ha az illegális bevándorlókat nem kísérnék partra, illegális migránsnak minősülnének, és ki lehetne őket toloncolni!",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás a határőrség és mentőhajók szerepéről szól az illegális migránsok partra szállításában, ami fontos a határbiztonság szempontjából, de nincs megerősített bizonyíték az állítás igazságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:20.814581+00:00"
+    },
+    "group:595": {
+      "hu_text": "@GGMANYANITED Tehát Ön ellenzi:\n- Az NHS várakozási idejének csökkenését\n- A GDP növekedését\n- Az erőszakos bűncselekmények csökkenését\n- Az 1000 font feletti nyugdíjemelést\n- Az energia számlák áfájának csökkentését\n- A kis hajós átkelések csökkenését\n- Több mint 70 000 illegális migráns kitoloncolását\n- A minimálbér emelését\n- 250 000 gyermek kiemelését a szegénységből\nMelyiket ellenzi ezek közül?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és kérdés, amely nem tartalmaz ellenőrizhető tényállítást, így alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:20.814598+00:00"
+    },
+    "group:596": {
+      "hu_text": "Török hajó mentési műveletet hajt végre\n\nA West Ace Tanker & Shipping vegyi tankerhajója 47 szabálytalan migránst ment meg a haláltól.\n\n#Channel16 #ChemicalTanker #Ivyan #Libya #WestAceTankerShipping",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Mentési műveletet ír le, ami humanitárius esemény, de nincs független megerősítés a mentésről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:20.814603+00:00"
+    },
+    "group:597": {
+      "hu_text": "Dél-afrikai tisztviselők sürgetik a migrációs okok kezelését https://t.co/GyOugI29Eq Ez igaz, az illegális bevándorló sofőröket el kell távolítani, kivéve, ha engedéllyel rendelkeznek Dél-Afrikában való munkavégzésre.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A migrációs politika és jogi kérdések kapcsán fogalmaz meg állítást, de nincs bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:20.814608+00:00"
+    },
+    "information:22382": {
+      "hu_text": "💥HARCI AKCIÓ💥\nA SIGNUM pilóták megsemmisítettek egy migránskolonnát, amely illegálisan lépte át államhatárunkat.\n#СЛАВАУКРАЇНІ\n#SlavaUkraïni",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás katonai akcióról illegális határátlépők ellen, fontos a határbiztonság szempontjából, de nincs független bizonyíték a művelet megtörténtére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:20.814612+00:00"
+    },
+    "group:598": {
+      "hu_text": "„Úgy bánnak velünk, mintha nem is emberek lennénk.” Mauritániából Szenegálba kitoloncolt migránsok arról számolnak be, hogy érvényes papírok ellenére letartóztatják őket, fogva tartják, és érkezéskor kevés segítséget kapnak. Seydou Belem, a MMC tudósítója Rosso városából jelent.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, konkrét kitoloncolásról és az érintettek helyzetéről. Az állítások nem ellenőrzöttek, mivel nincs megerősítő bizonyíték vagy hivatalos forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T13:46:26.184388+00:00"
     }
   },
   "legacy_reviews": {}
