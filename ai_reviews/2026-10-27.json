@@ -166,6 +166,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T07:00:39.972551+00:00"
+    },
+    "record:2114956508211651037": {
+      "hu_text": "Egy migránst, aki úszva próbált eljutni Spanyolország Ceuta enklávéjába, a marokkói rendőrség elfogott. A rendőrök hajóval követték őt spanyol vizeken, majd visszavitték Marokkóba.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részletes, de nincs hivatalos vagy megbízható forrás, így ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:49.719148+00:00"
+    },
+    "record:2114957527200706684": {
+      "hu_text": "🔴 Egy migránst, aki úszva próbált eljutni Spanyolország Ceuta enklávéjába, a marokkói rendőrség elfogott, akik hajóval követték őt spanyol vizeken, majd visszavitték Marokkóba.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ugyanaz az információ, mint az előző bejegyzés, nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:49.719166+00:00"
+    },
+    "record:2114967988654739859": {
+      "hu_text": "„Nagyon nehéz volt. Szíriából elmenekülve megtanultam a المقذوفين kifejezést, ami a jordániai sivatagi táborokból is kiutasított szíriai menekülteket jelenti, akiket a szíriai vad sivatagba küldtek. Szeretet és gyűlölet keveréke Jordánia iránt. Az elmúlt éjszaka óta a szíriai hangulat az elárultatottság érzése.”",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes tapasztalatot és érzelmi állapotot ír le, nincs külső bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:49.719171+00:00"
+    },
+    "record:2114971671958298936": {
+      "hu_text": "„Miért van egy nem választott hülye a 10-es szám alatt? Miért fizetünk több mint 12 milliárd fontot a migránsoknak? Szükségünk van a Határőrség tisztjeire, hogy végezzék a munkájukat, és bármi áron visszafordítsák őket a 12 mérföldes határjelzőnél; ha ez azt jelenti, hogy elsüllyesztik a gumicsónakokat, hát legyen. Ki kell lépnünk az Emberi Jogok Európai Egyezményéből MOST!”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és követelés, nincs tényállítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:49.719174+00:00"
+    },
+    "record:2114972144912171461": {
+      "hu_text": "Egy vonatvezető Finnországban havi 4000–5000 eurót keres juttatásokkal együtt. A VR jelenleg új vonatvezetőket toboroz képzésre, és a Közlekedési Minisztérium belső emlékeztetője szerint az összes kiválasztott jelentkező migráns lesz.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét állításokat tartalmaz, de nincs hivatalos vagy megbízható forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:49.719177+00:00"
+    },
+    "record:1604168769:12356": {
+      "hu_text": "106 migránst kényszerűen kiutasítottak. Novoszibirszk régióban végrehajtott razziák eredményeként 106 külföldi állampolgárt fogtak el, akik megsértették a migrációs szabályokat, és kényszerűen kiutasították az országból speciális intézményen keresztül. Emellett a vizsgálatok során 233 személynek tiltották meg az oroszországi belépést, és 36 bűnügyi eljárást indítottak illegális migráció szervezése miatt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét számadatokat és intézkedéseket tartalmaz migránsokkal kapcsolatban, de nincs független forrás vagy bizonyíték a hitelesség megerősítésére, ezért ellenőrizetlennek minősül. A téma a határbiztonsághoz kapcsolódik, közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-27T07:00:55.197416+00:00"
     }
   },
   "legacy_reviews": {}
