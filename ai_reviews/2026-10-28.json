@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T10:09:11.964311+00:00"
+    },
+    "record:2115356619299340560": {
+      "hu_text": "@annaturley Hány illegális hajós migránst deportáltál?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés jellegű közösségi média bejegyzés, amely nem tartalmaz ellenőrzött tényt vagy bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:22.604485+00:00"
+    },
+    "record:2115368186812014679": {
+      "hu_text": "Migráns úszik Ceuta felé, miközben a rendőrség üldözi\n\nMarokkói rendőrök elfogtak egy migránst, aki úszva próbált eljutni Spanyolország észak-afrikai enklávéjába, Ceutába október 26-án. Gyorsmotoros hajókkal követték, majd visszavitték Marokkóba. Az eset a migránstáborok elleni fellépés közepette történt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az eseményről szóló beszámoló részletes, de nincs független megerősítés vagy hivatalos forrás megjelölve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:22.604503+00:00"
+    },
+    "record:2115383109231259947": {
+      "hu_text": "Az EU 30 000 Frontex határőrrel, 11,8 milliárd eurós költségvetéssel és közösségi média megfigyeléssel számol. Azonban egy nagy probléma van: ki fogja ténylegesen visszafogadni a kitoloncolt migránsokat?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás az EU terveiről szól, de nem tartalmaz konkrét, ellenőrzött forrást vagy hivatalos dokumentumot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:22.604506+00:00"
+    },
+    "record:reddit_1xhihjt": {
+      "hu_text": "Minden 11 gyanúsítottat, akik a malajziai Kuala Perlisnél egy MMEA tiszt halálával kapcsolatban lettek őrizetbe véve, gyilkosság miatt vizsgálnak. A gyanúsítottak illegális migránsok lehetnek Mianmarból és Thaiföldről, és az ügy nem csak bevándorlási szabálysértéseket érint, hanem a Büntető Törvénykönyv 302. szakasza szerinti gyilkosságot is. Az incidens során egy MMEA tiszt meghalt, amikor a hajójuk egy beton szerkezetnek ütközött a Kuala Perlis közelében végzett művelet közben.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletes beszámoló egy konkrét eseményről, de nincs hivatalos vagy független forrás megerősítése, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:22.604508+00:00"
+    },
+    "telegram:1173707041:9583": {
+      "hu_text": "A Migrációs Minisztérium helyettes államtitkára részt vett a károsodott területek újjáépítését támogató alap kuratóriumi ülésén Bagdadban, ahol a projektek állapotát, befektetési terveket, valamint a szolgáltatási projektek megvalósítását akadályozó kihívásokat vitatták meg, különös tekintettel az oktatás, egészségügy, víz, villamos energia és belügy területeire.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény hivatalos jellegű, de nincs független forrás vagy további bizonyíték a részletek megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:22.604510+00:00"
+    },
+    "telegram:1173707041:9586": {
+      "hu_text": "A Szaláhaddin tartományi Migrációs Minisztérium szervezésében, az ENSZ Fejlesztési Programjával együttműködve, széleskörű párbeszédet tartottak a visszatérők reintegrációjának kihívásairól és a társadalmi stabilitás erősítéséről. A megbeszélésen számos kormányzati, biztonsági, vallási és civil szervezeti képviselő vett részt, és megvitatták a visszatérő családok előtt álló biztonsági, társadalmi és gazdasági akadályokat, valamint a tolerancia és békés együttélés előmozdításának lehetőségeit.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos eseményről szóló beszámoló, de nincs független forrás vagy további bizonyíték a részletek megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:22.604513+00:00"
     }
   },
   "legacy_reviews": {}
