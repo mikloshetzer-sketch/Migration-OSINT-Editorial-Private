@@ -309,6 +309,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T02:52:22.522842+00:00"
+    },
+    "record:2115267313502998605": {
+      "hu_text": "Egy albán halász bevallotta, hogy 17 migránst, köztük egy gyermeket csempészett egy 40 láb hosszú jachton, amelyet a Dorset partjainál elfogtak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét emberi csempészésről szól, ami fontos információ a migrációs folyamatok megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:30.320387+00:00"
+    },
+    "record:2115269239674110403": {
+      "hu_text": "DNS bizonyítékok szerint az ősi filiszteusok, akik a Palesztina név eredetét adják, dél-európai származásúak voltak az Égei-tengeri régióból, például Krétáról és Görögországból, és körülbelül i.e. 1200 körül érkeztek, mint a Tenger népei migránsai, akik különböznek a helyi bronzkori kánaánitáktól.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi genetikai állítás, amely nem közvetlenül migrációs esemény vagy aktuális migrációs szándék, és nincs független forrás általi megerősítés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:30.320406+00:00"
+    },
+    "telegram:1229318139:29745": {
+      "hu_text": "Egy arab nyelvű hirdetés egy muszlim ruházati üzletről, amely különféle ruhákat kínál eladásra, beleértve a hagyományos öltözékeket, és elérhetőségeket ad meg a rendeléshez és érdeklődéshez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik közvetlenül a migrációhoz vagy annak aspektusaihoz, hanem kereskedelmi jellegű hirdetés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:30.320411+00:00"
+    },
+    "telegram:1604168769:12374": {
+      "hu_text": "Egy migránst bíróság elé állítottak hamis okmányok használata és vesztegetési kísérlet miatt Leningrád megyében Oroszországban. A 35 éves külföldi állampolgár illegális tartózkodási okmányokat használt, és megpróbált 15 ezer rubelt adni egy rendőrnek, de a pénzt a szolgálati autó kesztyűtartójába dobta, és azonnal elfogták.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos információ a migrációs szabályok megsértéséről és a korrupciós kísérletről, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:30.320415+00:00"
+    },
+    "telegram:1604168769:12375": {
+      "hu_text": "Három migránst letartóztattak Rostov megyében, akik fél kilogramm heroinnal és metadonnal voltak, és vádat emeltek ellenük kábítószer-kereskedelem kísérlete miatt, ami életfogytiglani börtönbüntetéssel is járhat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés a migránsokkal kapcsolatos bűnügyi ügyet tárgyalja, ami társadalmi diskurzus része lehet, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:30.320419+00:00"
     }
   },
   "legacy_reviews": {}
