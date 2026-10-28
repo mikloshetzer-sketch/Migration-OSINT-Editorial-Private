@@ -529,6 +529,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T10:09:29.657883+00:00"
+    },
+    "group:605": {
+      "hu_text": "„Nincs több vélemény, beszéljünk politikáról és tényekről. Gyakorlatilag a határ zárva van, az országos bűnözés 30%-kal csökkent, és több ezer bűnöző migránst deportálnak. A jövedelmedtől függően nincs adó borravalón, túlórán vagy társadalombiztosításon.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és statisztikai adatokat tartalmaznak, de nincs megbízható forrás vagy bizonyíték a tényszerűségük alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:04.847629+00:00"
+    },
+    "group:606": {
+      "hu_text": "„A migráns csempészet ára 20 és 25 000 USD között mozog, az útvonaltól, szállítási módoktól és a kockázatoktól függően. Fedezze fel az UNODC új kutatását a témában.”",
+      "content_category": "FACILITATION",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az UNODC (ENSZ Kábítószer- és Bűnözés Elleni Hivatala) kutatására hivatkozik, ami hiteles forrásnak számít, de a pontos összeg és részletek ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:04.847653+00:00"
+    },
+    "group:607": {
+      "hu_text": "„Carin Cilliers, egy 49 éves, Boksburgból származó menekült, aki 2026. június 30-án érkezett az Egyesült Államokba, 2026. szeptember 8-án öngyilkosságot követett el Houstonban. A jelentések magányt, depressziót, bipoláris diagnózist és munkakeresési nehézségeket említenek.”",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Személyes tragédiáról szóló állítás, amelyet nem támasztanak alá hivatalos források vagy bizonyítékok, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:04.847658+00:00"
+    },
+    "group:608": {
+      "hu_text": "„Izrael története: A zsidó nép a második világháború után menekültként érkezett Palesztinába. A háború előtt a zsidók hasonlóan éltek, mint a cigányok, a Tóra és a judaizmus kötötte össze őket. Végül jótékonyságból földet kaptak, és az évek során Izrael fokozatosan kiszorította a palesztinokat földjeikről.”",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi összefoglaló, amely politikai véleményeket is tartalmaz, de nem részletezi forrásait, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:04.847661+00:00"
+    },
+    "information:22731": {
+      "hu_text": "„Négy évig voltak demokraták, akik engedték, hogy 25 millió migráns átlépje a határunkat, és hölgyeim, még mindig fizetünk ezért.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény, amely nem tartalmaz konkrét bizonyítékot vagy forrást, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:04.847664+00:00"
+    },
+    "information:22747": {
+      "hu_text": "„Figyelmeztető szint: SÁRGA. Az elkövetkező napokban valószínűleg illegális migráns hajóátlépések lesznek. A bizonyíték: a francia partokról kis hajókat figyelő RIDENS és KERMORVAN hajók járőröznek. A tengeri viszonyok enyhülnek.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális határbiztonsági helyzetre vonatkozó figyelmeztetés, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:04.847667+00:00"
     }
   },
   "legacy_reviews": {}
