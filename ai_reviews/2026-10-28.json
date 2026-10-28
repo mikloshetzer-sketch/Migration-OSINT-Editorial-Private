@@ -364,6 +364,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T02:52:30.320419+00:00"
+    },
+    "group:604": {
+      "hu_text": "@annaturley Hány illegális hajós migránst deportáltál?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, amely nem tartalmaz konkrét tényt vagy bizonyítható állítást, így ellenőrizhetetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:11.964275+00:00"
+    },
+    "information:22645": {
+      "hu_text": "Ez egy szürreális, kaotikus nap története egy neonfényes, mesterséges intelligencia által vezérelt világban, ahol gazdagok hobbijaival és abszurd jelenetekkel van tele a város, például rendőrök üldözése, élő rajzfilm előadás és szokatlan birkózó mérkőzés nagymamával.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy szürreális, fikciós vagy művészi leírás, amely nem kapcsolódik közvetlenül migrációs témához, így nem releváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:11.964299+00:00"
+    },
+    "information:22664": {
+      "hu_text": "@TheEnglishPat Szegény menekült, Afrikából jött át a határon, hogy ellopjon egy kutyát egy idős nénitől, tudod, 60 éve árultunk téged az én országomban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés sértő, rasszista tartalmú, és nem tartalmaz ellenőrizhető tényeket, de fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:11.964303+00:00"
+    },
+    "information:22696": {
+      "hu_text": "@GovernmentZA Az ANC kormánynak abba kellene hagynia a félretájékoztatást. Az illegális bevándorlók nem menekültek. Ezek gazdasági migráns bűnözők, akik megsértették törvényeinket azzal, hogy illegálisan léptek be és tartózkodnak Dél-Afrikában. A menekültek a határon jelentkeznek a Belügyminisztériumnál és kérnek védelmet érkezéskor. Deportálni kell őket!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai véleményt és állítást tartalmaz a migrációról, amely fontos a társadalmi diskurzus szempontjából, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:11.964306+00:00"
+    },
+    "information:22697": {
+      "hu_text": "@GovernmentZA Az ANC kormánynak abba kellene hagynia a félretájékoztatást. Az illegális bevándorlók nem menekültek. Ezek gazdasági migráns bűnözők, akik megsértették törvényeinket azzal, hogy illegálisan léptek be és tartózkodnak Dél-Afrikában. A menekültek a határon jelentkeznek a Belügyminisztériumnál és kérnek védelmet érkezéskor. Deportálni kell őket!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő politikai vélemény és állítás migrációs témában, fontos a társadalmi diskurzus miatt, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:11.964308+00:00"
+    },
+    "record:1261826972:53947": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról szerdára: 1. Letartóztattak egy embert, aki migránsokat zsúfolt össze egy házban és fenyegette őket; 2. Marokkói rendőri és politikai vezetők voltak a határon az invázió napján, három úszva bejutó marokkói ma vallomást tesz; 3. A CCOO-Justicia szakszervezet kéri a Ceutai válság miatt áthelyezett személyzet megerősítésének meghosszabbítását és megújítását érzékeny területeken, mint az ügyészség és igazságügyi orvostan.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hírek konkrét eseményeket és intézkedéseket írnak le a Ceutai határhelyzettel kapcsolatban, részben ellenőrzött forrásból származnak, fontosak a határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:11.964311+00:00"
     }
   },
   "legacy_reviews": {}
