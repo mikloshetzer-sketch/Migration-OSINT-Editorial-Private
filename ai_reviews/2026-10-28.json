@@ -738,6 +738,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T17:34:34.838638+00:00"
+    },
+    "information:22789": {
+      "hu_text": "Bevándorló családok és érdekvédelmi csoportok kedden gyűltek össze, hogy arra kérjék a választott tisztségviselőket, lassítsák le a szövetségi tömeges kitoloncolási erőfeszítéseket Washington államban, és segítsenek a családoknak a fogva tartott vagy kitoloncolt családtagok következményeivel kapcsolatban.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy eseményről számol be, amelyben bevándorló családok és érdekvédelmi csoportok politikai nyomást gyakorolnak a tömeges kitoloncolások lassítására. Az állítás nem tartalmaz konkrét adatokat vagy bizonyítékokat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:23.560083+00:00"
+    },
+    "information:22806": {
+      "hu_text": "Steve Cortes, volt Trump-tanácsadó egy Al Jazeera interjúban nyíltan a teljes bevándorlási moratórium mellett érvelt, beleértve a legális bevándorlást is. Kijelentette, hogy meg kell állítani minden bevándorlást, és időt kell adni az országban lévő bevándorlók beilleszkedésére. Ez az álláspont aggodalomra ad okot a jelenlegi bevándorlási vízumok szüneteltetése és a konzulátusi késedelmek miatt érintett családok helyzete miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy nyilvános interjúból származik, de a teljes kontextus és a pontos idézetek ellenőrzése szükséges a hitelesség megállapításához. A téma jelentős politikai és társadalmi hatással bír, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:23.560100+00:00"
+    },
+    "information:22809": {
+      "hu_text": "Gosport nemet mond az illegális migráns hajók partra szállására! Írd alá a petíciót!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy felhívás egy petíció aláírására egy helyi közösség részéről, amely elutasítja az illegális migránsok partra szállását. Nem tartalmaz konkrét tényállítást vagy bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:23.560104+00:00"
+    },
+    "record:2115561431311757375": {
+      "hu_text": "@KaiserLoengramm Ha ez helyes, akkor ez egyáltalán nem tűnik tömeges kitoloncolásnak. Az MPI megállapította, hogy a 980 000 kitoloncolás több mint kétharmada az első 18 hónapban a második Trump-kormányzat idején olyan migránsokat érintett, akiket először a határon fogtak el.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy kutatási eredményre hivatkozik, amely pontos adatokat közöl a kitoloncolások számáról és körülményeiről, de a forrás és az adatok ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:23.560108+00:00"
+    },
+    "record:2115561918215635367": {
+      "hu_text": "FRISS HÍR: Lengyelország bejelentette, hogy a lengyel hadsereget küldi a Németországgal és Litvániával közös határaira, hogy megállítsa az illegális migránsok Lengyelországba való átlépését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés jelentős határbiztonsági intézkedést jelez, amely fontos a migrációs helyzet szempontjából. Az állítás hitelességének ellenőrzése fontos a helyzet pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:23.560123+00:00"
+    },
+    "record:mastodon_117519927238089314": {
+      "hu_text": "Az amerikai álom úticélja megváltozott. Azok a migránsok, akik az Egyesült Államokba akartak eljutni, most Mexikóban építenek új életet a Trump-kormányzat korlátozásai miatt. Tijuanában néhányan már vállalkozásokat indítottak, munkájuk van, és nem tervezik az amerikai határ átlépését.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs trendről számol be, amely a politikai korlátozások hatására alakult ki. Az állítás ellenőrzése fontos a migrációs szándékok és helyzet pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:23.560126+00:00"
     }
   },
   "legacy_reviews": {}
