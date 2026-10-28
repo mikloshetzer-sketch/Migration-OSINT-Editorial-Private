@@ -661,6 +661,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T17:34:18.943292+00:00"
+    },
+    "record:2115494979804303772": {
+      "hu_text": "Ha Mark Kelly kapitány valóban a nők védelmét akarná, nem fogadott volna be 15 millió, nem ellenőrzött migránst, köztük gyilkosokat, erőszaktevőket, pedofilokat, ember- és szexkereskedőket az országunkba. Ha Mark Kelly szenátor a nők védelmét akarja, támogatnia kellene a Belbiztonsági Minisztériumot.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás erősen politikai és érzelmi töltetű, de nem tartalmaz konkrét bizonyítékot a migránsok bűnözői tevékenységére vagy a számukra vonatkozó pontos adatokat. Ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:30.496975+00:00"
+    },
+    "record:2115495538581819587": {
+      "hu_text": "Nincs több vélemény, beszéljünk politikáról és tényekről. Gyakorlatilag a határ zárva van, az országos bűnözés 30%-kal csökkent, a bűnöző migránsokat ezrek számra toloncolják ki. A jövedelmedtől függően nincs adó borravalón, túlórán vagy társadalombiztosításon.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások statisztikai adatokat és politikai véleményt tartalmaznak, de nem mellékelnek hiteles forrásokat vagy bizonyítékokat, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:30.496994+00:00"
+    },
+    "telegram:1261826972:53965": {
+      "hu_text": "Így nézett ki az a ház Ceutában, ahol egy helyi férfi fegyverrel és katanákkal fenyegetve rejtett el bevándorlókat. A rendőrség közzétette a képeket, amelyek bizonyítják a bevándorlók méltatlan életkörülményeit. Kábítószert, fegyvereket és egy 'La casa de papel' álarcot is találtak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A rendőrség hivatalos képeket tett közzé, ami részben igazolja az eseményeket, de további részletek hiányoznak a teljes képhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:30.496998+00:00"
+    },
+    "telegram:1261826972:53968": {
+      "hu_text": "Egy bevándorló megharapott és megtámadott egy nemzeti rendőrt egy CATE-hez történő szállítás során, majd később megpróbált megszökni a kórházból. A reggeli esemény során legalább két rendőrt megtámadtak, és volt egy szökési kísérlet.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részleteket közöl egy incidensről, de nem tartalmaz hivatalos megerősítést vagy bizonyítékot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:30.497001+00:00"
+    },
+    "telegram:1604168769:12382": {
+      "hu_text": "Moszkvában illegális migrációs helyzetet tártak fel. Filimonkovszkij kerületben egy 51 éves moszkvai férfit bűnügyi eljárás alá vontak, mert három külföldit illegálisan szállásolt el. A három szabálysértő migránst 5000 rubel bírsággal sújtották, és kiutasítják Oroszországból.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ hivatalosnak tűnik, de nincs közvetlen bizonyíték vagy forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:30.497004+00:00"
+    },
+    "telegram:1604168769:12384": {
+      "hu_text": "Primorszk területén eltörlik a migránsokra vonatkozó korlátozásokat. A helyi kormányzat ismét engedélyezte a külföldi munkások számára a közlekedési és logisztikai szektorban való tevékenységet. A döntést a régió gazdaságának stabil fejlődése és a munkaerőhiány pótlása érdekében hozták meg.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés hivatalos döntésnek tűnik, de nincs közvetlen forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T17:34:30.497006+00:00"
     }
   },
   "legacy_reviews": {}
