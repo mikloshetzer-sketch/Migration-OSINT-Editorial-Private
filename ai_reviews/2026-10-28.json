@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-27T23:22:57.455260+00:00"
+    },
+    "group:603": {
+      "hu_text": "Ha menekült vagy, és az Egyesült Államokba tartasz, hogy elmenekülj egy szélsőjobboldali diktátor elől, megtagadják a belépést, vagy visszaküldenek érkezéskor. Ha viszont te egy szélsőjobboldali diktátor vagy, aki az igazságszolgáltatás elől menekül, akkor meghívnak a fasiszta USA-ba, segítenek a bűnözői menekülésedben, és VIP bánásmódban részesülsz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és állítást tartalmaz, de nincs hozzá valódi bizonyíték vagy forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:13.127060+00:00"
+    },
+    "information:22581": {
+      "hu_text": "@Galindotwtg @AssadSheldon @iAnonPatriot @RCMP @PierrePoilievre A kép pontosan tükrözi Poilievre nyilvános álláspontjait. Ő a nem jogosultak (beleértve az elrendelt kitoloncolásra várókat és az illegális határátlépőket) nyomon követését és kitoloncolását szorgalmazza, a hamis menedékkérelmek megszüntetését, az olyan szabálytalan átkelők bezárását, mint a Roxham Road, valamint a kitoloncolást.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai álláspontot és információt tartalmaz, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:13.127082+00:00"
+    },
+    "information:22585": {
+      "hu_text": "Az EU új hatásköröket ad a Frontexnek, hogy migránsokat toloncoljon ki Európán kívülről. Az új szabályok szerint az EU határügynöksége engedélyt kap arra, hogy migránsokat harmadik országok között áthelyezzen, ezzel kiterjesztve működését Európán túlra és megkönnyítve a kitoloncolásokat visszatérési központokból.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ fontos uniós migrációs politikai változásról szól, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:13.127087+00:00"
+    },
+    "information:22597": {
+      "hu_text": "Az igazi határigazság nem a végtelen fogva tartás, családegyesítés hiánya és tömeges kitoloncolás. Ez együttérzés, igazságosság, egyenlő esélyek és méltóság minden migráns számára, származástól függetlenül. Amerika most reformálnia kell kegyetlen, rosszul működő bevándorlási rendszerét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és értékítéletet tartalmaz, nincs tényállítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:13.127092+00:00"
+    },
+    "information:22598": {
+      "hu_text": "@JamiAnnFerg Etiópiában lévő ellátási központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek menekülttáborokat bombáznak a szudáni határ mentén.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius információt tartalmaz fegyveres konfliktusról és menekültek helyzetéről, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:13.127096+00:00"
+    },
+    "information:22612": {
+      "hu_text": "Tizenegy gumicsónak érkezett egy nap alatt 170 emberrel a Baleári-szigetekhez, ami már meghaladja a Kanári-szigetek útvonalát | Spanyolország\nForrás",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló információ, de nincs hivatalos forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:13.127100+00:00"
     }
   },
   "legacy_reviews": {}
