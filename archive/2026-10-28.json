@@ -1220,6 +1220,182 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1248,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117519927238089314",
+      "author": null,
+      "language": null,
+      "published_at": "2026-10-28T18:23:00Z",
+      "first_detected_at": "2026-10-28T21:58:27Z",
+      "last_detected_at": "2026-10-28T21:58:27Z",
+      "detection_count": 1,
+      "text": "🇲🇽 El sueño americano cambió de destino. Migrantes que buscaban llegar a Estados Unidos ahora construyen una nueva vida en México, tras las restricciones de Trump. En Tijuana, algunos ya tienen negocios, empleos y no piensan cruzar la frontera. # Migracion # Mexico # Tijuana https:// updateme.news/nacional/trump-b loqueo-el-sueno-americano-migrantes-se-arraigan-en-mexico/",
+      "text_excerpt": "🇲🇽 El sueño americano cambió de destino. Migrantes que buscaban llegar a Estados Unidos ahora construyen una nueva vida en México, tras las restricciones de Trump. En Tijuana, algunos ya tienen negocios, empleos y no piensan cruzar la frontera. # Migracion # Mexico # Tijuana https:// updateme.news/nacional/trump-b loqueo-el-sueno-americano-migrantes-se-arraigan-en-mexico/",
+      "url": "https://mastodon.social/@updateme/117519927238089314",
+      "source_url": "https://mastodon.social/@updateme/117519927238089314",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrantes que buscaban llegar"
+        ],
+        [
+          "route",
+          "frontera"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "Migrantes"
+      ],
+      "high_value_matches": [
+        "Migrantes que buscaban llegar"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1250,
+      "source": "X",
+      "source_post_id": "2115561431311757375",
+      "author": "Sean1_23",
+      "language": "en",
+      "published_at": "2026-10-28T21:48:45Z",
+      "first_detected_at": "2026-10-28T21:59:26Z",
+      "last_detected_at": "2026-10-28T21:59:26Z",
+      "detection_count": 1,
+      "text": "@KaiserLoengramm If this is correct, this doesn't look like mass deportations at all.\n\n\"MPI finds:\nMore than two-thirds of the 980,000 deportations in the first 18 months of the second Trump term involved migrants initially intercepted at the border\"\n\nhttps://t.co/jPo7hMTAhj",
+      "text_excerpt": "@KaiserLoengramm If this is correct, this doesn't look like mass deportations at all.\n\n\"MPI finds:\nMore than two-thirds of the 980,000 deportations in the first 18 months of the second Trump term involved migrants initially intercepted at the border\"\n\nhttps://t.co/jPo7hMTAhj",
+      "url": "https://x.com/Sean1_23/status/2115561431311757375",
+      "source_url": "https://x.com/Sean1_23/status/2115561431311757375",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1249,
+      "source": "X",
+      "source_post_id": "2115561918215635367",
+      "author": "TrumpWorld_QQ",
+      "language": "en",
+      "published_at": "2026-10-28T21:50:41Z",
+      "first_detected_at": "2026-10-28T21:58:57Z",
+      "last_detected_at": "2026-10-28T21:58:57Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/GMeAiH3p22",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/GMeAiH3p22",
+      "url": "https://x.com/TrumpWorld_QQ/status/2115561918215635367",
+      "source_url": "https://x.com/TrumpWorld_QQ/status/2115561918215635367",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1889,6 +2065,182 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1248,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117519927238089314",
+      "author": null,
+      "language": null,
+      "published_at": "2026-10-28T18:23:00Z",
+      "first_detected_at": "2026-10-28T21:58:27Z",
+      "last_detected_at": "2026-10-28T21:58:27Z",
+      "detection_count": 1,
+      "text": "🇲🇽 El sueño americano cambió de destino. Migrantes que buscaban llegar a Estados Unidos ahora construyen una nueva vida en México, tras las restricciones de Trump. En Tijuana, algunos ya tienen negocios, empleos y no piensan cruzar la frontera. # Migracion # Mexico # Tijuana https:// updateme.news/nacional/trump-b loqueo-el-sueno-americano-migrantes-se-arraigan-en-mexico/",
+      "text_excerpt": "🇲🇽 El sueño americano cambió de destino. Migrantes que buscaban llegar a Estados Unidos ahora construyen una nueva vida en México, tras las restricciones de Trump. En Tijuana, algunos ya tienen negocios, empleos y no piensan cruzar la frontera. # Migracion # Mexico # Tijuana https:// updateme.news/nacional/trump-b loqueo-el-sueno-americano-migrantes-se-arraigan-en-mexico/",
+      "url": "https://mastodon.social/@updateme/117519927238089314",
+      "source_url": "https://mastodon.social/@updateme/117519927238089314",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrantes que buscaban llegar"
+        ],
+        [
+          "route",
+          "frontera"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "Migrantes"
+      ],
+      "high_value_matches": [
+        "Migrantes que buscaban llegar"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1250,
+      "source": "X",
+      "source_post_id": "2115561431311757375",
+      "author": "Sean1_23",
+      "language": "en",
+      "published_at": "2026-10-28T21:48:45Z",
+      "first_detected_at": "2026-10-28T21:59:26Z",
+      "last_detected_at": "2026-10-28T21:59:26Z",
+      "detection_count": 1,
+      "text": "@KaiserLoengramm If this is correct, this doesn't look like mass deportations at all.\n\n\"MPI finds:\nMore than two-thirds of the 980,000 deportations in the first 18 months of the second Trump term involved migrants initially intercepted at the border\"\n\nhttps://t.co/jPo7hMTAhj",
+      "text_excerpt": "@KaiserLoengramm If this is correct, this doesn't look like mass deportations at all.\n\n\"MPI finds:\nMore than two-thirds of the 980,000 deportations in the first 18 months of the second Trump term involved migrants initially intercepted at the border\"\n\nhttps://t.co/jPo7hMTAhj",
+      "url": "https://x.com/Sean1_23/status/2115561431311757375",
+      "source_url": "https://x.com/Sean1_23/status/2115561431311757375",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1249,
+      "source": "X",
+      "source_post_id": "2115561918215635367",
+      "author": "TrumpWorld_QQ",
+      "language": "en",
+      "published_at": "2026-10-28T21:50:41Z",
+      "first_detected_at": "2026-10-28T21:58:57Z",
+      "last_detected_at": "2026-10-28T21:58:57Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/GMeAiH3p22",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/GMeAiH3p22",
+      "url": "https://x.com/TrumpWorld_QQ/status/2115561918215635367",
+      "source_url": "https://x.com/TrumpWorld_QQ/status/2115561918215635367",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -2875,9 +3227,120 @@
       "first_collected_at": "2026-10-28T17:32:33Z",
       "last_collected_at": "2026-10-28T17:32:33Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22809",
+      "timestamp": "2026-10-28T21:54:37Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2115562909736587562",
+      "author": "MarianLax",
+      "url": "https://x.com/MarianLax/status/2115562909736587562",
+      "source_url": "https://x.com/MarianLax/status/2115562909736587562",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/ZIXYnvWXUf",
+      "text_excerpt": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/ZIXYnvWXUf",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T21:59:25Z",
+      "last_collected_at": "2026-10-28T21:59:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22789",
+      "timestamp": "2026-10-28T21:11:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_ae83ecb73dfc16a0e6f9",
+      "author": null,
+      "url": "https://bots.gruezi.net/@kuow/statuses/01M625NJ45MX3DDMHM6CBQ31P1",
+      "source_url": "https://bots.gruezi.net/@kuow/statuses/01M625NJ45MX3DDMHM6CBQ31P1",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "detention",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "Immigrant families and advocate groups gathered Tuesday to call on elected officials to slow federal mass deportation efforts in Washington state and help families with the fallout from having detained or deported family members. https://www.kuow.org/immigration/2026-10-28/wa-immigrant-families-urge-lawmakers-to-push-back-against-mass-ice-deportations # KUOW # News # ImmigrationAndCustomsEnforcement # ImmigrationInTheNorthwest # SeattleNews # TrumpAndTheNorthwest # Immigration",
+      "text_excerpt": "Immigrant families and advocate groups gathered Tuesday to call on elected officials to slow federal mass deportation efforts in Washington state and help families with the fallout from having detained or deported family members. https://www.kuow.org/immigration/2026-10-28/wa-immigrant-families-urge-lawmakers-to-push-back-against-mass-ice-deportations # KUOW # News # ImmigrationAndCustomsEnforcement # ImmigrationInTh…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T21:58:26Z",
+      "last_collected_at": "2026-10-28T21:58:26Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22806",
+      "timestamp": "2026-10-28T15:00:08Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xhqf6y",
+      "author": "Ok-Unit-2133",
+      "url": "https://www.reddit.com/r/i130_75CountryPause/comments/1xhqf6y/steve_cortes_says_the_quiet_part_out_loud_he/",
+      "source_url": "https://www.reddit.com/r/i130_75CountryPause/comments/1xhqf6y/steve_cortes_says_the_quiet_part_out_loud_he/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Steve Cortes Says the Quiet Part Out Loud: He Wants to Stop ALL Immigration, Including Legal Immigration\nDuring an interview with Mehdi Hasan on Al Jazeera's Head to Head , former Trump adviser Steve Cortes openly advocated for a complete immigration moratorium, explicitly including legal immigration. This wasn't about illegal border crossings. He was talking about shutting down immigration altogether. At 36:40: Mehdi Hasan: \"You're against legal immigration?\" Steve Cortes: \"I'm against legal immigration. I think we need a pause, yes. We need a moratorium, we need a timeout.\" At 38:29: Steve Cortes: \"I don't want immigrants from Sweden, okay? I don't want immigrants from anywhere.\" At 38:37: Steve Cortes: \"It's time for us to close the door to America, to assimilate the immigrants that we have here and then decide...\" At 40:15: Steve Cortes: \"I don't want migrants at all. I think it's time for a timeout.\" ### For years, we've heard the argument that the opposition is only to illegal immigration, not legal immigration. Yet here is a former Trump adviser explicitly advocating for stopping legal immigration altogether. The Trump administration has been boasting recently about stopping legal immigration too. The statements of Cortes, who's parents are immigrants, are particularly concerning given what thousands of families are experiencing with the 75-country immigrant visa pause, prolonged administrative processing, and growing consular backlogs. When someone tells you they want to stop all immigration, including legal immigration, we should take them seriously. One of the comments on the video is very appropriate: If you think you love freedom but you don't care if it applies to everyone, then what you actually love is privilege. Watch the interview: Al Jazeera — Head to Head with Mehdi Hasan and Steve Cortes (36:34)",
+      "text_excerpt": "Steve Cortes Says the Quiet Part Out Loud: He Wants to Stop ALL Immigration, Including Legal Immigration\nDuring an interview with Mehdi Hasan on Al Jazeera's Head to Head , former Trump adviser Steve Cortes openly advocated for a complete immigration moratorium, explicitly including legal immigration. This wasn't about illegal border crossings. He was talking about shutting down immigration altogether. At 36:40: Mehd…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T21:58:57Z",
+      "last_collected_at": "2026-10-28T21:58:57Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-28T17:33:42.958165+00:00",
+  "last_archived_at": "2026-10-28T22:00:48.150172+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
