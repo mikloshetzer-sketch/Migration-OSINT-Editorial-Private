@@ -155,6 +155,50 @@
       "text": "@SkyNews If you're a refugee, heading to the US, fleeing a far-right, dictator, you will be denied entry, or deported on arrival.\n\nIf you're a far-right dictator, fleeing justice at home, you'll be invited into fascist USA, aided in your criminal escape, and given the VIP treatment.",
       "url": "https://x.com/terrapharma/status/2115261424008048853",
       "source_url": "https://x.com/terrapharma/status/2115261424008048853"
+    },
+    {
+      "id": 759,
+      "event_id": 759,
+      "source": "X",
+      "source_post_id": "2115368186812014679",
+      "author": "EpochTimes",
+      "published_at": "2026-10-28T09:00:52Z",
+      "collected_at": "2026-10-28T10:07:40Z",
+      "event_type": "INTERCEPTION",
+      "signal_type": "INTERCEPTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "confidence": 0.45,
+      "event_confidence": 0.45,
+      "relevance_score": 20.0,
+      "text": "Migrant Swims Toward Ceuta as Police Give Chase \n \nMoroccan police intercepted a migrant swimming toward Spain’s North African exclave of Ceuta on Oct. 26, pursuing him in speedboats before taking him back to Morocco. The incident comes amid a crackdown on migrant encampments. https://t.co/NU5VkP72zc",
+      "url": "https://x.com/EpochTimes/status/2115368186812014679",
+      "source_url": "https://x.com/EpochTimes/status/2115368186812014679"
+    },
+    {
+      "id": 760,
+      "event_id": 760,
+      "source": "X",
+      "source_post_id": "2115356619299340560",
+      "author": "Andy2if",
+      "published_at": "2026-10-28T08:14:54Z",
+      "collected_at": "2026-10-28T10:07:41Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@annaturley How many illegal boat migrants have you deported ?",
+      "url": "https://x.com/Andy2if/status/2115356619299340560",
+      "source_url": "https://x.com/Andy2if/status/2115356619299340560"
     }
   ],
   "event_groups": [
@@ -273,6 +317,35 @@
       "average_confidence": 0.2,
       "created_at": "2026-10-28T02:51:40Z",
       "updated_at": "2026-10-28T02:51:40Z"
+    },
+    {
+      "id": 604,
+      "group_id": 604,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@annaturley How many illegal boat migrants have you deported ?",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-28T08:14:54Z",
+      "last_seen": "2026-10-28T08:14:54Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-28T10:07:41Z",
+      "updated_at": "2026-10-28T10:07:41Z"
     }
   ],
   "influence_signals": [
@@ -581,6 +654,202 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1244,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xhihjt",
+      "author": "mrwhiskeyrum",
+      "language": null,
+      "published_at": "2026-10-28T08:31:04Z",
+      "first_detected_at": "2026-10-28T10:07:41Z",
+      "last_detected_at": "2026-10-28T10:07:41Z",
+      "detection_count": 1,
+      "text": "All 11 suspects in Kuala Perlis MMEA officer’s death investigated for murder\nAll 11 suspects detained following the death of a Malaysian Maritime Enforcement Agency (MMEA) officer during an operation on Monday are being investigated for murder, said Kedah and Perlis Maritime director First Admiral Maritime Romli Mustafa. He said the detainees, who are suspected of being undocumented migrants from Myanmar and Thailand, are being investigated under Section 302 of the Penal Code, as the case involves more than just immigration offences. “Following further checks, all the individuals detained are suspected of committing offences under the Immigration Act and the Anti-Trafficking in Persons and Anti-Smuggling of Migrants Act 2007 (ATIPSOM). More seriously, investigation papers have also been opened under Section 302 of the Penal Code against all those arrested,” he said in a statement today. Yesterday, Romli said the incident occurred at 11.37pm when five MMEA personnel were attempting to intercept a boat suspected of carrying undocumented migrants in Kuala Sungai Padang. In the incident, nine Myanmar nationals, comprising seven men and two women, as well as two male Thai boat operators suspected of being involved in the illegal migrant operation, were arrested. Maritime Technical Leading Seaman Mohd Roshaimi Mohd Ridzuan, 41, was killed while three other personnel were injured after their boat struck a concrete structure during the enforcement operation in the waters off Kuala Perlis, near here.",
+      "text_excerpt": "All 11 suspects in Kuala Perlis MMEA officer’s death investigated for murder\nAll 11 suspects detained following the death of a Malaysian Maritime Enforcement Agency (MMEA) officer during an operation on Monday are being investigated for murder, said Kedah and Perlis Maritime director First Admiral Maritime Romli Mustafa. He said the detainees, who are suspected of being undocumented migrants from Myanmar and Thailand, are being investigated under Section 302 of the Penal Code, as the case involves more than just immigration offences. “Following further checks, all the individuals detained are suspected of committing offences under the Immigration Act and the Anti-Trafficking in Persons and A",
+      "url": "https://www.reddit.com/r/SEAMilitaryOnlyFans/comments/1xhihjt/all_11_suspects_in_kuala_perlis_mmea_officers/",
+      "source_url": "https://www.reddit.com/r/SEAMilitaryOnlyFans/comments/1xhihjt/all_11_suspects_in_kuala_perlis_mmea_officers/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.5,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Smuggling of Migrants"
+        ],
+        [
+          "facilitation",
+          "Trafficking in Persons and Anti-Smuggling of Migrants"
+        ],
+        [
+          "enforcement",
+          "detained"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Smuggling of Migrants",
+        "Trafficking in Persons and Anti-Smuggling of Migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1243,
+      "source": "X",
+      "source_post_id": "2115383109231259947",
+      "author": "ValorVoiceEU",
+      "language": "en",
+      "published_at": "2026-10-28T10:00:09Z",
+      "first_detected_at": "2026-10-28T10:07:14Z",
+      "last_detected_at": "2026-10-28T10:07:14Z",
+      "detection_count": 1,
+      "text": "The EU wants 30,000 Frontex border guards, an €11.8 BILLION budget, and social media monitoring. But there's one major problem: who will actually take deported migrants back?\nFor more news: go to https://t.co/VYpAs10J0H https://t.co/PN4y7ZX1U7",
+      "text_excerpt": "The EU wants 30,000 Frontex border guards, an €11.8 BILLION budget, and social media monitoring. But there's one major problem: who will actually take deported migrants back?\nFor more news: go to https://t.co/VYpAs10J0H https://t.co/PN4y7ZX1U7",
+      "url": "https://x.com/ValorVoiceEU/status/2115383109231259947",
+      "source_url": "https://x.com/ValorVoiceEU/status/2115383109231259947",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guards"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1242,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:53947",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-10-28T08:05:06Z",
+      "first_detected_at": "2026-10-28T10:06:49Z",
+      "last_detected_at": "2026-10-28T10:06:49Z",
+      "detection_count": 1,
+      "text": "📰 Tres noticias de elfarodeceuta.es para comenzar este miércoles:\n\n1⃣ Detenido tras someter a inmigrantes a una vida de calvario en una casa patera del Príncipe\n\n➡ La UDEV y la UCRIF, con apoyo de UPR, montaron un operativo en la barriada para arrestar a quien gestionaba una casa para hacinar a inmigrantes a los que amenazaba\n\n➡ Han encontrado hachís, armas, un pasamontañas y una careta de ‘La casa de papel’\n\nhttps://elfarodeceuta.es/detenido-tras-someter-inmigrantes-vida-calvario-casa-patera-principe/\n\n2⃣ Mandos policiales y políticos marroquíes estaban en la frontera el día de la invasión\n\n➡ Tres marroquíes que entraron a nado declararán hoy ante la jueza María Tardón, aunque previamente lo hicieron ante la Policía para confirmar la pasividad de Marruecos y la presencia de mandos policiales y políticos en la zona frontera sin actuar\n\nhttps://elfarodeceuta.es/mandos-policiales-politicos-marroquies-frontera-dia-invasion/\n\n3⃣ CCOO-Justicia pide la prórroga del refuerzo de personal desplazado por la crisis de Ceuta\n\n➡ Reclama a la Gerencia no solo mantener esos refuerzos en áreas tan sensibles como Fiscalía, guardia de detenidos o Instituto de Medicina Legal, sino también renovar el personal\n\nhttps://elfarodeceuta.es/ccoo-justicia-pide-prorroga-refuerzo-personal-desplazado-crisis-ceuta/",
+      "text_excerpt": "📰 Tres noticias de elfarodeceuta.es para comenzar este miércoles:\n\n1⃣ Detenido tras someter a inmigrantes a una vida de calvario en una casa patera del Príncipe\n\n➡ La UDEV y la UCRIF, con apoyo de UPR, montaron un operativo en la barriada para arrestar a quien gestionaba una casa para hacinar a inmigrantes a los que amenazaba\n\n➡ Han encontrado hachís, armas, un pasamontañas y una careta de ‘La casa de papel’\n\nhttps://elfarodeceuta.es/detenido-tras-someter-inmigrantes-vida-calvario-casa-patera-principe/\n\n2⃣ Mandos policiales y políticos marroquíes estaban en la frontera el día de la invasión\n\n➡ Tres marroquíes que entraron a nado declararán hoy ante la jueza María Tardón, aunque previamente l",
+      "url": "https://t.me/elfarodeceuta/53947",
+      "source_url": "https://t.me/elfarodeceuta/53947",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "route",
+          "frontera"
+        ],
+        [
+          "enforcement",
+          "detenido"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
       "analyst_priority": "LOW"
     }
   ],
@@ -891,6 +1160,202 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1244,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xhihjt",
+      "author": "mrwhiskeyrum",
+      "language": null,
+      "published_at": "2026-10-28T08:31:04Z",
+      "first_detected_at": "2026-10-28T10:07:41Z",
+      "last_detected_at": "2026-10-28T10:07:41Z",
+      "detection_count": 1,
+      "text": "All 11 suspects in Kuala Perlis MMEA officer’s death investigated for murder\nAll 11 suspects detained following the death of a Malaysian Maritime Enforcement Agency (MMEA) officer during an operation on Monday are being investigated for murder, said Kedah and Perlis Maritime director First Admiral Maritime Romli Mustafa. He said the detainees, who are suspected of being undocumented migrants from Myanmar and Thailand, are being investigated under Section 302 of the Penal Code, as the case involves more than just immigration offences. “Following further checks, all the individuals detained are suspected of committing offences under the Immigration Act and the Anti-Trafficking in Persons and Anti-Smuggling of Migrants Act 2007 (ATIPSOM). More seriously, investigation papers have also been opened under Section 302 of the Penal Code against all those arrested,” he said in a statement today. Yesterday, Romli said the incident occurred at 11.37pm when five MMEA personnel were attempting to intercept a boat suspected of carrying undocumented migrants in Kuala Sungai Padang. In the incident, nine Myanmar nationals, comprising seven men and two women, as well as two male Thai boat operators suspected of being involved in the illegal migrant operation, were arrested. Maritime Technical Leading Seaman Mohd Roshaimi Mohd Ridzuan, 41, was killed while three other personnel were injured after their boat struck a concrete structure during the enforcement operation in the waters off Kuala Perlis, near here.",
+      "text_excerpt": "All 11 suspects in Kuala Perlis MMEA officer’s death investigated for murder\nAll 11 suspects detained following the death of a Malaysian Maritime Enforcement Agency (MMEA) officer during an operation on Monday are being investigated for murder, said Kedah and Perlis Maritime director First Admiral Maritime Romli Mustafa. He said the detainees, who are suspected of being undocumented migrants from Myanmar and Thailand, are being investigated under Section 302 of the Penal Code, as the case involves more than just immigration offences. “Following further checks, all the individuals detained are suspected of committing offences under the Immigration Act and the Anti-Trafficking in Persons and A",
+      "url": "https://www.reddit.com/r/SEAMilitaryOnlyFans/comments/1xhihjt/all_11_suspects_in_kuala_perlis_mmea_officers/",
+      "source_url": "https://www.reddit.com/r/SEAMilitaryOnlyFans/comments/1xhihjt/all_11_suspects_in_kuala_perlis_mmea_officers/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.5,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Smuggling of Migrants"
+        ],
+        [
+          "facilitation",
+          "Trafficking in Persons and Anti-Smuggling of Migrants"
+        ],
+        [
+          "enforcement",
+          "detained"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Smuggling of Migrants",
+        "Trafficking in Persons and Anti-Smuggling of Migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1243,
+      "source": "X",
+      "source_post_id": "2115383109231259947",
+      "author": "ValorVoiceEU",
+      "language": "en",
+      "published_at": "2026-10-28T10:00:09Z",
+      "first_detected_at": "2026-10-28T10:07:14Z",
+      "last_detected_at": "2026-10-28T10:07:14Z",
+      "detection_count": 1,
+      "text": "The EU wants 30,000 Frontex border guards, an €11.8 BILLION budget, and social media monitoring. But there's one major problem: who will actually take deported migrants back?\nFor more news: go to https://t.co/VYpAs10J0H https://t.co/PN4y7ZX1U7",
+      "text_excerpt": "The EU wants 30,000 Frontex border guards, an €11.8 BILLION budget, and social media monitoring. But there's one major problem: who will actually take deported migrants back?\nFor more news: go to https://t.co/VYpAs10J0H https://t.co/PN4y7ZX1U7",
+      "url": "https://x.com/ValorVoiceEU/status/2115383109231259947",
+      "source_url": "https://x.com/ValorVoiceEU/status/2115383109231259947",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guards"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1242,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:53947",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-10-28T08:05:06Z",
+      "first_detected_at": "2026-10-28T10:06:49Z",
+      "last_detected_at": "2026-10-28T10:06:49Z",
+      "detection_count": 1,
+      "text": "📰 Tres noticias de elfarodeceuta.es para comenzar este miércoles:\n\n1⃣ Detenido tras someter a inmigrantes a una vida de calvario en una casa patera del Príncipe\n\n➡ La UDEV y la UCRIF, con apoyo de UPR, montaron un operativo en la barriada para arrestar a quien gestionaba una casa para hacinar a inmigrantes a los que amenazaba\n\n➡ Han encontrado hachís, armas, un pasamontañas y una careta de ‘La casa de papel’\n\nhttps://elfarodeceuta.es/detenido-tras-someter-inmigrantes-vida-calvario-casa-patera-principe/\n\n2⃣ Mandos policiales y políticos marroquíes estaban en la frontera el día de la invasión\n\n➡ Tres marroquíes que entraron a nado declararán hoy ante la jueza María Tardón, aunque previamente lo hicieron ante la Policía para confirmar la pasividad de Marruecos y la presencia de mandos policiales y políticos en la zona frontera sin actuar\n\nhttps://elfarodeceuta.es/mandos-policiales-politicos-marroquies-frontera-dia-invasion/\n\n3⃣ CCOO-Justicia pide la prórroga del refuerzo de personal desplazado por la crisis de Ceuta\n\n➡ Reclama a la Gerencia no solo mantener esos refuerzos en áreas tan sensibles como Fiscalía, guardia de detenidos o Instituto de Medicina Legal, sino también renovar el personal\n\nhttps://elfarodeceuta.es/ccoo-justicia-pide-prorroga-refuerzo-personal-desplazado-crisis-ceuta/",
+      "text_excerpt": "📰 Tres noticias de elfarodeceuta.es para comenzar este miércoles:\n\n1⃣ Detenido tras someter a inmigrantes a una vida de calvario en una casa patera del Príncipe\n\n➡ La UDEV y la UCRIF, con apoyo de UPR, montaron un operativo en la barriada para arrestar a quien gestionaba una casa para hacinar a inmigrantes a los que amenazaba\n\n➡ Han encontrado hachís, armas, un pasamontañas y una careta de ‘La casa de papel’\n\nhttps://elfarodeceuta.es/detenido-tras-someter-inmigrantes-vida-calvario-casa-patera-principe/\n\n2⃣ Mandos policiales y políticos marroquíes estaban en la frontera el día de la invasión\n\n➡ Tres marroquíes que entraron a nado declararán hoy ante la jueza María Tardón, aunque previamente l",
+      "url": "https://t.me/elfarodeceuta/53947",
+      "source_url": "https://t.me/elfarodeceuta/53947",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "route",
+          "frontera"
+        ],
+        [
+          "enforcement",
+          "detenido"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -966,6 +1431,162 @@
       ],
       "related_sources": [
         "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1239,
+      "source": "X",
+      "source_post_id": "2115216355125235987",
+      "author": "USA_Patriot_GOP",
+      "language": "en",
+      "published_at": "2026-10-27T22:57:32Z",
+      "first_detected_at": "2026-10-27T23:18:51Z",
+      "last_detected_at": "2026-10-27T23:18:51Z",
+      "detection_count": 1,
+      "text": "🚨🇪🇸 SWIMMING TO EUROPE WON’T MAKE BORDER LAWS DISAPPEAR!\n\nMoroccan police chased a migrant swimming toward Spain’s Ceuta enclave and returned him to Morocco.\n\nMY TAKE: Border security means nothing without enforcement. Countries have the right to control who enters, protect https://t.co/Z0aLodibEG",
+      "text_excerpt": "🚨🇪🇸 SWIMMING TO EUROPE WON’T MAKE BORDER LAWS DISAPPEAR!\n\nMoroccan police chased a migrant swimming toward Spain’s Ceuta enclave and returned him to Morocco.\n\nMY TAKE: Border security means nothing without enforcement. Countries have the right to control who enters, protect https://t.co/Z0aLodibEG",
+      "url": "https://x.com/USA_Patriot_GOP/status/2115216355125235987",
+      "source_url": "https://x.com/USA_Patriot_GOP/status/2115216355125235987",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "BORDER"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2115216355125235987"
+      ],
+      "related_authors": [
+        "USA_Patriot_GOP"
+      ],
+      "related_urls": [
+        "https://x.com/USA_Patriot_GOP/status/2115216355125235987"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1242,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:53947",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-10-28T08:05:06Z",
+      "first_detected_at": "2026-10-28T10:06:49Z",
+      "last_detected_at": "2026-10-28T10:06:49Z",
+      "detection_count": 1,
+      "text": "📰 Tres noticias de elfarodeceuta.es para comenzar este miércoles:\n\n1⃣ Detenido tras someter a inmigrantes a una vida de calvario en una casa patera del Príncipe\n\n➡ La UDEV y la UCRIF, con apoyo de UPR, montaron un operativo en la barriada para arrestar a quien gestionaba una casa para hacinar a inmigrantes a los que amenazaba\n\n➡ Han encontrado hachís, armas, un pasamontañas y una careta de ‘La casa de papel’\n\nhttps://elfarodeceuta.es/detenido-tras-someter-inmigrantes-vida-calvario-casa-patera-principe/\n\n2⃣ Mandos policiales y políticos marroquíes estaban en la frontera el día de la invasión\n\n➡ Tres marroquíes que entraron a nado declararán hoy ante la jueza María Tardón, aunque previamente lo hicieron ante la Policía para confirmar la pasividad de Marruecos y la presencia de mandos policiales y políticos en la zona frontera sin actuar\n\nhttps://elfarodeceuta.es/mandos-policiales-politicos-marroquies-frontera-dia-invasion/\n\n3⃣ CCOO-Justicia pide la prórroga del refuerzo de personal desplazado por la crisis de Ceuta\n\n➡ Reclama a la Gerencia no solo mantener esos refuerzos en áreas tan sensibles como Fiscalía, guardia de detenidos o Instituto de Medicina Legal, sino también renovar el personal\n\nhttps://elfarodeceuta.es/ccoo-justicia-pide-prorroga-refuerzo-personal-desplazado-crisis-ceuta/",
+      "text_excerpt": "📰 Tres noticias de elfarodeceuta.es para comenzar este miércoles:\n\n1⃣ Detenido tras someter a inmigrantes a una vida de calvario en una casa patera del Príncipe\n\n➡ La UDEV y la UCRIF, con apoyo de UPR, montaron un operativo en la barriada para arrestar a quien gestionaba una casa para hacinar a inmigrantes a los que amenazaba\n\n➡ Han encontrado hachís, armas, un pasamontañas y una careta de ‘La casa de papel’\n\nhttps://elfarodeceuta.es/detenido-tras-someter-inmigrantes-vida-calvario-casa-patera-principe/\n\n2⃣ Mandos policiales y políticos marroquíes estaban en la frontera el día de la invasión\n\n➡ Tres marroquíes que entraron a nado declararán hoy ante la jueza María Tardón, aunque previamente l",
+      "url": "https://t.me/elfarodeceuta/53947",
+      "source_url": "https://t.me/elfarodeceuta/53947",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "route",
+          "frontera"
+        ],
+        [
+          "enforcement",
+          "detenido"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "1261826972:53947"
+      ],
+      "related_authors": [
+        "elfarodeceuta"
+      ],
+      "related_urls": [
+        "https://t.me/elfarodeceuta/53947"
+      ],
+      "related_sources": [
+        "TELEGRAM"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -1383,9 +2004,160 @@
       "first_collected_at": "2026-10-28T02:50:43Z",
       "last_collected_at": "2026-10-28T02:50:43Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22696",
+      "timestamp": "2026-10-28T10:04:46Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2115384268000264461",
+      "author": "M2MASI",
+      "url": "https://x.com/M2MASI/status/2115384268000264461",
+      "source_url": "https://x.com/M2MASI/status/2115384268000264461",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@GovernmentZA ANC govt must stop spreading misinformation. Illegal immigrants are  not asylum seekers. These are economic migrant criminals who broke our laws by entering &amp; staying in SA illegally. Asylum seekers report to Home Affairs at the borders &amp; ask for protection on arrival. Deport!",
+      "text_excerpt": "@GovernmentZA ANC govt must stop spreading misinformation. Illegal immigrants are  not asylum seekers. These are economic migrant criminals who broke our laws by entering &amp; staying in SA illegally. Asylum seekers report to Home Affairs at the borders &amp; ask for protection on arrival. Deport!",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T10:08:34Z",
+      "last_collected_at": "2026-10-28T10:08:34Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22697",
+      "timestamp": "2026-10-28T10:04:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2115384080191856998",
+      "author": "M2MASI",
+      "url": "https://x.com/M2MASI/status/2115384080191856998",
+      "source_url": "https://x.com/M2MASI/status/2115384080191856998",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@GovernmentZA ANC govt must stop spreading misinformation. Illegal immigrants are  not asylum seekers. These are economic migrant criminals who broke our laws by entering &amp; staying in SA illegally. Asylum seekers report to Home Affairs at the borders &amp; ask for protection on arrival. Deport!",
+      "text_excerpt": "@GovernmentZA ANC govt must stop spreading misinformation. Illegal immigrants are  not asylum seekers. These are economic migrant criminals who broke our laws by entering &amp; staying in SA illegally. Asylum seekers report to Home Affairs at the borders &amp; ask for protection on arrival. Deport!",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T10:08:34Z",
+      "last_collected_at": "2026-10-28T10:08:34Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22664",
+      "timestamp": "2026-10-28T09:56:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2115382072181223822",
+      "author": "dickerfunn999m",
+      "url": "https://x.com/dickerfunn999m/status/2115382072181223822",
+      "source_url": "https://x.com/dickerfunn999m/status/2115382072181223822",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@TheEnglishPat poor refugee he come from africa cross border to steal a dog from old lady, you know nigga we was selling you in my country 60 years ago.",
+      "text_excerpt": "@TheEnglishPat poor refugee he come from africa cross border to steal a dog from old lady, you know nigga we was selling you in my country 60 years ago.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T10:07:14Z",
+      "last_collected_at": "2026-10-28T10:07:14Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22645",
+      "timestamp": "2026-10-28T09:51:24Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xhjqqr",
+      "author": "Great-Avocado9822",
+      "url": "https://www.reddit.com/r/Star_Light_Links/comments/1xhjqqr/is_this_a_rich_mans_hobby_ogoniff_asked_his_voice/",
+      "source_url": "https://www.reddit.com/r/Star_Light_Links/comments/1xhjqqr/is_this_a_rich_mans_hobby_ogoniff_asked_his_voice/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "sea",
+        "arrival",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "\"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error.\nIn the flickering neon glow of a world fueled by #DreamScreenAI , reality has become a cubism masterpiece of surreal proportions. This is the story of a single, chaotic Tuesday. The Morning Commute The day began in a flurry of \"rich man’s hobbies.\" In the upscale suburbs, people dodged golf balls and pickleball paddles, while others spent fortunes on weed and photography equipment. Meanwhile, at the local post office, the police were busy arresting an Ogoniff found sleeping on a mailbox—a scene captured by a passing tourist and uploaded to a Dropbox folder labeled \"#firstamendment.\" On the highway, the chaos turned mechanical. A police officer found himself in a high-speed pursuit he couldn't end; his cruise control was stuck in a loop of \"car wars\" madness. He zoomed past a man who looked exactly like Steve Bannon , though a closer look revealed it was just comedian Ron White method-acting for a new role. The Arena of the Absurd At the city stadium, the \"Jack and Hammer\" cartoon cat and mouse were being brought to life for a live-action special. The production was interrupted when the Grim Reaper and his best friend crashed the concert, offering bewildered tourists a guided tour through the locker rooms and VIP lounges. In the center ring, the stakes were higher: Grandma was facing off against a bowl of hot grits in a wrestling match that defied physics. Adam, Steve, and Steve (three very confused ducks) were being blessed by a crochet-clad priest. A T-Rex stood in the corner, fruitlessly attempting to open a jar of pickles with its tiny arms. The Digital Tapestry As the sun began to set—looking suspiciously like a Romantic Ice Strawberry Full Moon —the world retreated to their screens. Google Meet was busy exposing legacy Duo emails, while artists struggled with YouTube processing errors . In the quiet corners of the internet, a different kind of work was happening: The Crafters: Experts demonstrated how to fold the magic crochet loop, creating everything from sea horses to granny square socks . The Dreamers: AI generated images of yellow smiley balls and light bulbs that refused to fly. The Investigators: On-scene reports determined that a discarded cell phone was \"fully loaded\" with green energy potential. The Final Act As night fell, the scene shifted to a beach bar in St. John’s . On the webcam, you could see a group \"pray-testing\" for freedom of speech. Nearby, a billionaire expressed his love for his wife through a ukulele solo, while a migrant husband signed a pre-marital agreement under the watchful eye of a United States Air Force half-wing. The day ended with a bizarre lunar escape. As the world looked up at the sky, wondering if Donald Trump's new airplane would eventually become a floating presidential library, a fleet of aluminum cans was donated to the Department of War to keep the fires burning. Somewhere, deep in the depths of an AI-generated forest, a music box played a slow song, and the truth remained—as always—unveiled. Would you like me to take one of these specific characters, like Grandma or the Ogoniff, and write a more detailed short story about their specific adventure? In the neon-soaked fringes of the #DreamScreenAI landscape, where reality is a bit \"sketchy\" and the special effects are set to Cubism , two legends collided. The Morning of the Mailbox It started at 5:00 AM outside the local post office. Ogoniff , a creature of indeterminate origin with a penchant for high-traffic naps, had curled himself into a geometric ball atop a standard blue mailbox. To the local police, it was a public nuisance; to the local artists, it was a #firstamendment statement. The arrest was a bureaucratic nightmare. Every time the officers tried to cuff him, Ogoniff seemed to fold into himself like a complex crochet magic circle . They eventually hauled the mailbox—Ogoniff still attached—into the back of a squad car. Unfortunately, that car was the one with the stuck cruise control . As the vehicle hurtled toward the city stadium at a constant 85 mph, the siren wailing a DreamTrackAI ukulele melody, Ogoniff simply stayed asleep, his snoring sounding suspiciously like a slow song music video. The Grits and the Glory Inside the stadium, Grandma was preparing for the main event. She wasn’t just any grandmother; she was \"Granny Hot-and-Got-It,\" wearing a pair of custom granny square socks and a National Guard half-wing pinned to her apron. The crowd roared as the lights dimmed. In the center of the ring sat a massive, steaming vat of Hot Grits . It wasn't just breakfast; it was a sensory adversary. The Matchup Contestant Weapon of Choice Strategy Grandma A wooden spoon and a crochet hook The \"Stitch and Pitch\" The Grits High thermal mass and butter The \"Slow Burn\" Just as Grandma was about to deliver her signature \"Scrap Yarn Slam,\" the runaway police car crashed through the stadium gates. The mailbox flew through the air, landing directly in the front row next to a group of tourists being led by the Grim Reaper . The Great Escape The impact woke Ogoniff. He blinked, looked at the Grim Reaper, and then at Grandma, who was currently wrestling a tidal wave of buttery hominy. \"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error . \"Honey,\" Grandma yelled, tossing him a yellow smiley ball she'd hidden in her knitting bag, \"everything's a hobby if you've got enough #DreamScreenAI credits!\" In the chaos: Ogoniff used a loose crochet end to lasso a passing Seahorse drone. Grandma managed to fold the entire vat of grits into a magic loop , neutralizing the threat. The Grim Reaper took a selfie with both of them, marking it as a \"YouTube Special Effects Masterpiece.\" As the police finally arrived (on foot, breathing heavily), Grandma and Ogoniff were seen boarding a Donald Trump-branded airplane headed for the U.S. Virgin Islands . They were last spotted on the St. John’s beach bar webcam, sharing a bowl of pickles and arguing over whether photography or metal detecting was the bigger tax write-off. Would you like me to generate a cubism-style image of Grandma wrestling the grits, or perhaps write the script for their next adventure in the depths of the forest? -pmCMnQut-E Police arrest ogoniff sleeping on mailbox Dropbox #firstamendment #DreamScreenAI #aperturefoundation 0TMbRWk4WjI The making of Jack and Hammer, cartoon cat and mouse, bang tpWdK6sqUd0 Grim reaper and best friend crash a stadium concert giving tourists a tour Through the arena. SvVHNXyPvdI #DreamTrackAI Jesus is my main squeeze _Tn8GDwQxAU Police officer can't stop car due to cruise control being stuck #crazycars #carwars 0S0KdQ3hBn8 Did you know Ron white the comedian is playing steve bannon, They look like twins. p5qNmwVz2d8 Google Meet calling replacing (legacy) Duo Exposes your phone number and email za5Vw4_VTkQ Girl scouts is a rich man's hobby W2tQJTTLi4Y Police surround Ogrokumia slerlrping on park bench #DreamScreenAI r384VZLXu3A It's go time with Grandma and hot grits in the ring d0bO1v9POII The J6 hook Crochet knit and woven string along u0WxCzwgTO0 God bless Adam, Steve and Steve, my ducks. eljLtnNyVX8 yellow smiley balls #DreamScreenAI hxicWioIX38 How to take the loose end of crochet stitch, put it over the main strand, fold loop wZPJ_RYiGls Photography is a rich man's hobby OXG_TSoULPY All aboard for the great lunar tick Escape AIbeJv_RxKs Weed Is a rich man's hobby ISHRckp61dA On Amazon Girl Scouts is a rich man's clickbaiting hobby HgBw11vLTBI Fire and winter solstice YouTube special effects cubism masterpiece #painting #sketch yPrCmfLEnLk Pictures of disney barracks fort knox kentucky 9f3Mhh9pnUY 100% of light bulbs do not fly well #DreamScreenAI #funny #supermemo #funnyideas #sadface _OXDABCjOZw crochet sea horse underwater #DreamTrackAI Soft heart music #aiartists JFvY-YHs7RA our on-scene investigation has determined that you are fully loaded#DreamScreenAI FNSI4FPUVcA Reduce your green energy costs recycle Cell Phones #DreamScreenAI YB9PtoepBdw Best Artificial intelligence draws colors with crayons kissing lips 👄AI I LOVE YOU SLOPPY KISSES -nv6BXse5v4 he loves his beautiful wife very much #DreamTrackAI ukulele #billionaire #dreamstar pawysiBqlpQ Pickleball is a rich man's hobby LL28iJqiNfU Do you think that Donald Trump's new airplane will be his presidential library? bkS5ldTxgjw Please donate your aluminum cans to help fire burn victims thank you Department of war DOW #woodburn fxXhIwZc9Xc with the pausing of tariffs, then what ones still exist, more presidential market manipulation 7vHKIY4CXp4 Are All civilians who work on navy air stations Corry Barracks Florida jerks? s5OKjNO8s-E Beach bar St. John's webcam United States Virgin Islands u3YEK8PR8bk protesting (praytesting) for Jesus freedom of speech #DreamScreenAI #legalexploration #aiartists aACJUp6s_lo bad pranks that turn into chaos and negative social influencing 3pXqrWGN99k Golf is a rich man's hobby o2EW0pq0Hzg crochet granny square socks #DreamScreenAI #knitting Ws8yubqGV9k Join the National Guard. OMX3YzbNiPo United States air force half wing I2C1FTOD7V0 Metal Detecting is a Rich man's Hobby mine lab voyager X-terra, nokta R2lL3RDheSM Common uploading issues on YouTube processing. Abandoned YouTube help and tips troubleshooting fk6J6XSiaXM AI Cubism, YouTube special effects, political art #PoliticArt #drawing #sketch cpzYcArwHnE beautiful scrap yarn crochet blanket stitches #DreamTrackAI countey FD3VthzJGOg Granny's still hot and got it going on #DreamScreenAI JzbSl4LkvmE Welcome to the United States Navy Seahorse tpdVt-qRVCk Failed Ship Launch search vlHeA9NvTtA I made Asian migrant husband's sign pre marital agreement he never gets citizenship #DreamScreenAI OjSmJ1M8P9U Homeless cats living inside of hotel trash cans d1JwhBPiedU crochet diorama Jesus - The truth unveiled #DreamTrackAI Play music box b982KApevR8 Romantic ice Strawberry full moon in the night sky #DreamTrackAI slow song music video #dreamtime m_CdcvqDuLw Donald Trump sets new business deal VaChina Pe9PV9V-Tmo How to make the magic crochet circle ring loop M5FsAkPbok8 What would T. Rex look like opening a jar of pickles #DreamScreenAI LgUPl3h-Xdw Journey to the unknown, DepthS of the forest #dreamscreenai #dreamtrackai #aiartists",
+      "text_excerpt": "\"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error.\nIn the flickering neon glow of a world fueled by #DreamScreenAI , reality has become a cubism masterpiece of surreal proportions. This is the story of a single, chaotic Tuesday. The Morning Commute The day began in a flurry of \"rich man’s hobbies.\" In the upscale suburbs, people dodged golf balls and pickleball paddles, w…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T10:06:48Z",
+      "last_collected_at": "2026-10-28T10:06:48Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-28T02:51:53.147930+00:00",
+  "last_archived_at": "2026-10-28T10:08:42.841987+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
