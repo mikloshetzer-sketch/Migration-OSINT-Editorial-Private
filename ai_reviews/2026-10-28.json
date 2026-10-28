@@ -496,6 +496,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T10:09:22.604513+00:00"
+    },
+    "telegram:1261826972:53947": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról szerdára: 1. Letartóztattak egy embert, aki migránsokat tartott fogva egy zsúfolt házban Ceutában, ahol kábítószert, fegyvereket és álarcokat is találtak. 2. Marokkói rendőri és politikai vezetők is jelen voltak a határon a tömeges határátlépés napján, a migránsok szerint nem léptek közbe. 3. A CCOO-Justicia szakszervezet a Ceutában dolgozó személyzet megerősítésének meghosszabbítását és megújítását kéri a válság miatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés több migrációval kapcsolatos eseményt ismertet, amelyek fontosak a migrációs helyzet megértéséhez. Az állítások forrása egy helyi hírportál, de nincs független megerősítésük, ezért ellenőrizendők.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:29.657853+00:00"
+    },
+    "telegram:1261826972:53954": {
+      "hu_text": "Ceuta városa 45,3 millió euróra becsüli a migrációs válság rendkívüli költségeit, amelyek az alapvető szolgáltatásokra, mint takarítás, egészségügy, oktatás és biztonság, nehezedtek. Ez az összeg nem tartalmazza a kiskorúak ellátásának költségeit és a vállalkozói szektor gazdasági veszteségeit.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos költségbecslést közöl a migrációs válság hatásairól, ami releváns a migrációs politika és gazdasági terhek szempontjából. Az állítások forrása helyi kormányzati jelentés, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:29.657879+00:00"
+    },
+    "telegram:1604168769:12376": {
+      "hu_text": "Egy 25 éves külföldi állampolgárt csalás gyanújával őrizetbe vettek Csuvasföldön, aki hamis végrehajtói egyenruhában eladott egy más tulajdonában lévő KAMAZ teherautót 1,9 millió rubelért. Az ügyben büntetőeljárás indult, és a migrációs szabályok megsértése miatt is intézkednek ellene.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az eset bűnügyi jellegű, nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikához, így migrációs OSINT szempontból kevésbé releváns. Az állítás ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T10:09:29.657883+00:00"
     }
   },
   "legacy_reviews": {}
