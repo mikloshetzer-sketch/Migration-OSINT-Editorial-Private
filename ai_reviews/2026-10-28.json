@@ -804,6 +804,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T22:01:23.560126+00:00"
+    },
+    "telegram:1173707041:9593": {
+      "hu_text": "Az Irakban a migrációs minisztérium részt vett az ország magas szintű bizottságának ülésén, amely az instabilitás és sebezhetőség értékelésével foglalkozik. A találkozón politikusok, szakértők és akadémikusok vettek részt, és elfogadták az instabilitás mérésére szolgáló új módszertant, amely figyelembe veszi az iraki politikai és intézményi sajátosságokat, hogy elősegítse a megfelelő politikai döntések meghozatalát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos találkozóról és szakmai értékelésről szól, de nincs további bizonyíték a tényszerűség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:34.387007+00:00"
+    },
+    "telegram:1229318139:29755": {
+      "hu_text": "Egy iszlám ruházati márka reklámja, amely egy teljes öltözéket kínál, beleértve sapkát, kényelmes szoknyát, fátylat és nikábot, magas minőségű anyagból, egy méretben, elérhető áron. A poszt tartalmaz elérhetőségeket és közösségi média linkeket a rendeléshez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kereskedelmi hirdetés, amely nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:34.387025+00:00"
+    },
+    "telegram:1229318139:29768": {
+      "hu_text": "Egy iszlám ruházati bolt ajánlata az Umra szezonra, amely tíz különböző modellt kínál a zarándoklatra készülőknek, hangsúlyozva a kényelmet, az eleganciát és az illemet. A poszt tartalmaz elérhetőségeket és közösségi média linkeket a rendeléshez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kereskedelmi hirdetés, amely nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:34.387030+00:00"
+    },
+    "telegram:1261826972:53983": {
+      "hu_text": "Az Ingesa egészségügyi szolgáltató 1137 migránsnak nyújtott segítséget Ceutában öt nap alatt, ebből 660 esetben alapellátást és sürgősségi ellátást, 127 mentőszállítást és 352 oltást regisztráltak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az egészségügyi ellátás migránsok számára fontos humanitárius információ, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:34.387034+00:00"
+    },
+    "telegram:1261826972:53985": {
+      "hu_text": "Egy tajvani tévécsapat Ceutába utazott, hogy első kézből mutassa be a város helyzetét az invázió után. A műsorban ceutaiak, migránsok és hatóságok vallomásai szerepelnek, kiemelve a helyiek barátságosságát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A beszámoló egy médiajelentés, amely migrációs és társadalmi helyzetet mutat be, de nincs további bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T22:01:34.387038+00:00"
     }
   },
   "legacy_reviews": {}
