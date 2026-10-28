@@ -199,6 +199,94 @@
       "text": "@annaturley How many illegal boat migrants have you deported ?",
       "url": "https://x.com/Andy2if/status/2115356619299340560",
       "source_url": "https://x.com/Andy2if/status/2115356619299340560"
+    },
+    {
+      "id": 761,
+      "event_id": 761,
+      "source": "X",
+      "source_post_id": "2115495538581819587",
+      "author": "RalphMorrissey2",
+      "published_at": "2026-10-28T17:26:55Z",
+      "collected_at": "2026-10-28T17:32:06Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@Paganheart7171 @angiegibson2 No more opinions, let's argue policy and facts. For all practical purposes, the border is closed, nationwide crime is down 30%,. criminal migrants are being deported by the thousands. Depending upon your income, no tax on tips, overtime, or Social Security. Your turn.",
+      "url": "https://x.com/RalphMorrissey2/status/2115495538581819587",
+      "source_url": "https://x.com/RalphMorrissey2/status/2115495538581819587"
+    },
+    {
+      "id": 763,
+      "event_id": 763,
+      "source": "X",
+      "source_post_id": "2115489159557087548",
+      "author": "grok",
+      "published_at": "2026-10-28T17:01:34Z",
+      "collected_at": "2026-10-28T17:33:27Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@Thabo1186 @Badger419256 @JackPosobiec Carin Cilliers, a 49-year-old from Boksburg who arrived in the US as a refugee on 30 June 2026, died by suicide in Houston on 8 September. Reports cite loneliness, depression, a prior bipolar diagnosis, and difficulty finding work after moving alone. Her cousin said she had",
+      "url": "https://x.com/grok/status/2115489159557087548",
+      "source_url": "https://x.com/grok/status/2115489159557087548"
+    },
+    {
+      "id": 764,
+      "event_id": 764,
+      "source": "X",
+      "source_post_id": "2115488751971348892",
+      "author": "SacredElectra",
+      "published_at": "2026-10-28T16:59:57Z",
+      "collected_at": "2026-10-28T17:33:28Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@netanyahu History of Israel \n1. Jewish ✡️ people arrived in Palestine as refugees after WW2\nBefore the war Jews were like Gypsies, united by Torah and Judaism\nFinally through charity 🙌 you were given land and over the years Israel kept squeezing Palestinians off their land",
+      "url": "https://x.com/SacredElectra/status/2115488751971348892",
+      "source_url": "https://x.com/SacredElectra/status/2115488751971348892"
+    },
+    {
+      "id": 762,
+      "event_id": 762,
+      "source": "X",
+      "source_post_id": "2115487559442661494",
+      "author": "UNODC",
+      "published_at": "2026-10-28T16:55:12Z",
+      "collected_at": "2026-10-28T17:33:00Z",
+      "event_type": "SMUGGLING_ACTIVITY",
+      "signal_type": "SMUGGLING_ACTIVITY",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Migrant smuggling starts with a price tag. \n\nMigrants pay between USD 20 and 25,000 to be smuggled, depending on their route, modes of transport and the risks involved. \n\nExplore UNODC’s new research to learn more: https://t.co/l2xhpUGMrI https://t.co/79jtSMF8SU",
+      "url": "https://x.com/UNODC/status/2115487559442661494",
+      "source_url": "https://x.com/UNODC/status/2115487559442661494"
     }
   ],
   "event_groups": [
@@ -346,6 +434,122 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-28T10:07:41Z",
       "updated_at": "2026-10-28T10:07:41Z"
+    },
+    {
+      "id": 605,
+      "group_id": 605,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@Paganheart7171 @angiegibson2 No more opinions, let's argue policy and facts. For all practical purposes, the border is closed, nationwide crime is down 30%,. criminal migrants are being deported by the thousands. Depending upon your income, no tax on tips, overtime, or Social Security. Your turn.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-28T17:26:55Z",
+      "last_seen": "2026-10-28T17:26:55Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-28T17:32:06Z",
+      "updated_at": "2026-10-28T17:32:06Z"
+    },
+    {
+      "id": 607,
+      "group_id": 607,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Thabo1186 @Badger419256 @JackPosobiec Carin Cilliers, a 49-year-old from Boksburg who arrived in the US as a refugee on 30 June 2026, died by suicide in Houston on 8 September. Reports cite loneliness, depression, a prior bipolar diagnosis, and difficulty finding work after moving alone. Her cousin said she had",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-28T17:01:34Z",
+      "last_seen": "2026-10-28T17:01:34Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-28T17:33:27Z",
+      "updated_at": "2026-10-28T17:33:27Z"
+    },
+    {
+      "id": 608,
+      "group_id": 608,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - MIDDLE_EAST",
+      "representative_text": "@netanyahu History of Israel \n1. Jewish ✡️ people arrived in Palestine as refugees after WW2\nBefore the war Jews were like Gypsies, united by Torah and Judaism\nFinally through charity 🙌 you were given land and over the years Israel kept squeezing Palestinians off their land",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-28T16:59:57Z",
+      "last_seen": "2026-10-28T16:59:57Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-10-28T17:33:28Z",
+      "updated_at": "2026-10-28T17:33:28Z"
+    },
+    {
+      "id": 606,
+      "group_id": 606,
+      "event_type": "SMUGGLING_ACTIVITY",
+      "dominant_event_type": "SMUGGLING_ACTIVITY",
+      "title": "SMUGGLING_ACTIVITY",
+      "representative_text": "Migrant smuggling starts with a price tag. \n\nMigrants pay between USD 20 and 25,000 to be smuggled, depending on their route, modes of transport and the risks involved. \n\nExplore UNODC’s new research to learn more: https://t.co/l2xhpUGMrI https://t.co/79jtSMF8SU",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-28T16:55:12Z",
+      "last_seen": "2026-10-28T16:55:12Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-28T17:33:00Z",
+      "updated_at": "2026-10-28T17:33:00Z"
     }
   ],
   "influence_signals": [
@@ -850,6 +1054,171 @@
       "longitude": -5.3213,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1247,
+      "source": "X",
+      "source_post_id": "2115488942871003153",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-28T17:00:42Z",
+      "first_detected_at": "2026-10-28T17:33:27Z",
+      "last_detected_at": "2026-10-28T17:33:27Z",
+      "detection_count": 1,
+      "text": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "text_excerpt": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "url": "https://x.com/grok/status/2115488942871003153",
+      "source_url": "https://x.com/grok/status/2115488942871003153",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1245,
+      "source": "X",
+      "source_post_id": "2115494979804303772",
+      "author": "LagunitaRFC",
+      "language": "en",
+      "published_at": "2026-10-28T17:24:41Z",
+      "first_detected_at": "2026-10-28T17:32:07Z",
+      "last_detected_at": "2026-10-28T17:32:07Z",
+      "detection_count": 1,
+      "text": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/iCLhoEWFZW https://t.co/A84cyrpQjp",
+      "text_excerpt": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/iCLhoEWFZW https://t.co/A84cyrpQjp",
+      "url": "https://x.com/LagunitaRFC/status/2115494979804303772",
+      "source_url": "https://x.com/LagunitaRFC/status/2115494979804303772",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human traffickers"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human traffickers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1246,
+      "source": "X",
+      "source_post_id": "2115494887567360303",
+      "author": "LagunitaRFC",
+      "language": "en",
+      "published_at": "2026-10-28T17:24:19Z",
+      "first_detected_at": "2026-10-28T17:32:07Z",
+      "last_detected_at": "2026-10-28T17:32:07Z",
+      "detection_count": 1,
+      "text": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/T3wx79T9vX https://t.co/A84cyrpQjp",
+      "text_excerpt": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/T3wx79T9vX https://t.co/A84cyrpQjp",
+      "url": "https://x.com/LagunitaRFC/status/2115494887567360303",
+      "source_url": "https://x.com/LagunitaRFC/status/2115494887567360303",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human traffickers"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human traffickers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -1356,6 +1725,171 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 36.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1247,
+      "source": "X",
+      "source_post_id": "2115488942871003153",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-28T17:00:42Z",
+      "first_detected_at": "2026-10-28T17:33:27Z",
+      "last_detected_at": "2026-10-28T17:33:27Z",
+      "detection_count": 1,
+      "text": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "text_excerpt": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "url": "https://x.com/grok/status/2115488942871003153",
+      "source_url": "https://x.com/grok/status/2115488942871003153",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1245,
+      "source": "X",
+      "source_post_id": "2115494979804303772",
+      "author": "LagunitaRFC",
+      "language": "en",
+      "published_at": "2026-10-28T17:24:41Z",
+      "first_detected_at": "2026-10-28T17:32:07Z",
+      "last_detected_at": "2026-10-28T17:32:07Z",
+      "detection_count": 1,
+      "text": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/iCLhoEWFZW https://t.co/A84cyrpQjp",
+      "text_excerpt": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/iCLhoEWFZW https://t.co/A84cyrpQjp",
+      "url": "https://x.com/LagunitaRFC/status/2115494979804303772",
+      "source_url": "https://x.com/LagunitaRFC/status/2115494979804303772",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human traffickers"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human traffickers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1246,
+      "source": "X",
+      "source_post_id": "2115494887567360303",
+      "author": "LagunitaRFC",
+      "language": "en",
+      "published_at": "2026-10-28T17:24:19Z",
+      "first_detected_at": "2026-10-28T17:32:07Z",
+      "last_detected_at": "2026-10-28T17:32:07Z",
+      "detection_count": 1,
+      "text": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/T3wx79T9vX https://t.co/A84cyrpQjp",
+      "text_excerpt": "If Captain Mark Kelly wanted to protect women, he shouldn’t have welcomed 15 million unvetted migrants, among them murderers, rapists, pedophiles, human traffickers, and sex traffickers into our country.\n\nIf Senator Mark Kelly wants to protect women, he should support DHS and https://t.co/T3wx79T9vX https://t.co/A84cyrpQjp",
+      "url": "https://x.com/LagunitaRFC/status/2115494887567360303",
+      "source_url": "https://x.com/LagunitaRFC/status/2115494887567360303",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human traffickers"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human traffickers"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1587,6 +2121,74 @@
       ],
       "related_sources": [
         "TELEGRAM"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1247,
+      "source": "X",
+      "source_post_id": "2115488942871003153",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-28T17:00:42Z",
+      "first_detected_at": "2026-10-28T17:33:27Z",
+      "last_detected_at": "2026-10-28T17:33:27Z",
+      "detection_count": 1,
+      "text": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "text_excerpt": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "url": "https://x.com/grok/status/2115488942871003153",
+      "source_url": "https://x.com/grok/status/2115488942871003153",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2115488942871003153"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2115488942871003153"
+      ],
+      "related_sources": [
+        "X"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -2155,9 +2757,127 @@
       "first_collected_at": "2026-10-28T10:06:48Z",
       "last_collected_at": "2026-10-28T10:06:48Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22731",
+      "timestamp": "2026-10-28T17:28:41Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2115495983257948291",
+      "author": "MsMacAttack321",
+      "url": "https://x.com/MsMacAttack321/status/2115495983257948291",
+      "source_url": "https://x.com/MsMacAttack321/status/2115495983257948291",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@WhipKClark We had 4 years of Democrats who let 25 million migrants cross our border and lady, WE'RE STILL PAYING FOR THAT.",
+      "text_excerpt": "@WhipKClark We had 4 years of Democrats who let 25 million migrants cross our border and lady, WE'RE STILL PAYING FOR THAT.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T17:32:06Z",
+      "last_collected_at": "2026-10-28T17:32:06Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22747",
+      "timestamp": "2026-10-28T17:10:50Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2115491494098342322",
+      "author": "channelwatchuk",
+      "url": "https://x.com/channelwatchuk/status/2115491494098342322",
+      "source_url": "https://x.com/channelwatchuk/status/2115491494098342322",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "vessel",
+        "sea"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "🟡 Alert Level: AMBER 🟡\n= Illegal migrant boat crossings likely over the next few days.\n\nThe evidence: \n\n🚢 Vessels which “monitor” small boat crossings from the French coast are now out on patrol. These include the RIDENS and the KERMORVAN.\n\n🌊 Sea conditions are calming after",
+      "text_excerpt": "🟡 Alert Level: AMBER 🟡\n= Illegal migrant boat crossings likely over the next few days.\n\nThe evidence: \n\n🚢 Vessels which “monitor” small boat crossings from the French coast are now out on patrol. These include the RIDENS and the KERMORVAN.\n\n🌊 Sea conditions are calming after",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T17:32:33Z",
+      "last_collected_at": "2026-10-28T17:32:33Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:22749",
+      "timestamp": "2026-10-28T15:26:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xhr60p",
+      "author": "TheUnPopulist",
+      "url": "https://www.reddit.com/r/neoliberal/comments/1xhr60p/its_open_season_for_racism_and_bigotry_in_the/",
+      "source_url": "https://www.reddit.com/r/neoliberal/comments/1xhr60p/its_open_season_for_racism_and_bigotry_in_the/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "deportation"
+      ],
+      "freshness_cues": [
+        "today",
+        "now"
+      ],
+      "text": "It’s Open Season for Racism and Bigotry in the Republican Party This Midterm\nAmericans have come to expect hateful campaign rhetoric from Republican candidates and their proxies. Comments that once were off-limits to politicians are now standard fare. Donald Trump did more than anyone to normalize such vicious attacks, and his example continues to inspire imitation. The 2026 midterm elections have spawned a hurricane of extremist vitriol. Republicans used to rhapsodize about curbing federal deficits, minimizing government intervention in the economy, and standing for democracy around the world. But those themes are obsolete under Trump. Today, the GOP takes a distinctly different approach: vilifying one marginal and vulnerable group after another in an effort to provoke fear and anger among voters. And Trump’s noxious views and tactics have permeated to the lowest offices on the ballot. There was a time not so long ago when appeals to racial prejudice had to be subtle and deniable, like Ronald Reagan’s denunciation of “welfare queens.” Those were bad enough. But Trump has normalized overt racism so thoroughly that some Republican candidates feel empowered to practice it openly. The Texas Races Bo French, running for the Texas Railroad Commission, posted a photo of dark-skinned students, apparently of South Asian descent, cheering at a University of Texas football game with the lament: “I heard UT graduation this year looked like this. I didn’t believe it. The problem is now obviously far worse than anyone imagined.” Facing criticism, he added : “Like body-cams expose criminals, social media is exposing how many Americans have been displaced by foreigners.” For French, who chaired the Republican Party of Tarrant County, home to Fort Worth and 2.2 million people, this was nothing unusual. Earlier this year he demanded that Muslims “go home,” declaring, “That’s the only way we’re going to stop the Islamification of Texas and America.” He charged that the federal H-1B visa program replaces American workers with “low IQ, document mill fake diploma having, non assimilating third worlders.” Such inflammatory invective would have rendered him radioactive with a previous generation of GOP leaders—even in Texas, where the comparatively moderate George W. Bush once reigned supreme. But those days are gone. The Texas Tribune reported , “Even as a long line of Republicans condemn French—calling his comments racist—none have rescinded their endorsements. Meanwhile, some party leaders—like Lt. Gov. Dan Patrick—have remained silent.” Gov. Greg Abbott’s prim response was that French’s tirades were “not my message.” Texas has no peers when it comes to baseless smears and nasty abuse. Sen. John Cornyn lost to his primary foe, Attorney General Ken Paxton, after accusing him of being “soft on radical Islam”—an astonishing claim against someone who has sued to block a Muslim residential development near Dallas while vowing , “There will be no ‘Sharia city’ in Texas under my watch.” Paxton responded by asserting that Cornyn “helped radical Islamic Afghans invade Texas”—referring to a commendable program to admit people who had helped American forces in the war against the Taliban. Islamophobia is not the only poisonous Republican theme in this Senate race. A Republican PAC has run ads accusing the Democratic nominee, state Rep. James Talarico, of voting to use “taxpayer dollars for sex change surgeries on children,” which he didn’t. White House aide Stephen Miller feigned surprise that Democrats would “nominate their first transgender senate candidate, who is clearly transitioning to female.” Vice President JD Vance, who has turned the office into a delivery system for MAGA’s most inflammatory talking points, suggested that Talarico, a Presbyterian seminarian with a longtime girlfriend, is gay. At a rally for Paxton, hearing an expression of support from a man in the audience, he said: “I love you too, sir. In a totally platonic way, to be clear. I’m the vice president, not James Talarico.” He also implied that Talarico is a pedophile: “He was asked what he loves in life besides his own family and friends, and he responded, without skipping a beat, and I quote, ‘trans children,’” said Vance. “Now, you gotta wonder what the Internet search history of a man like that looks like.” It was a malicious misrepresentation. Talarico had been asked in an interview what he loves besides family and friends, and he mentioned transgender kids who had come to the Texas Capitol to speak up for themselves. His reply : “I love—and I’m just going to say this because it’s on my mind—the trans children who showed up at the State Capitol to advocate for their humanity. They shouldn’t have to, but it was an inspiration to watch.” The obvious term for that sentiment would be “kind.” Michigan’s Senate and House Races But if Texas is second to none in crude hyperbole, Michigan can hold its own. Former Rep. Mike Rogers, running for the Senate against Democrat Abdul El-Sayed, said : “Never in a million years did I think that I would be running against someone who believes America deserved 9/11.” The remark cited by Rogers actually came from leftist commentator Hasan Piker, who campaigned with El-Sayed before the primary. But Piker retracted it, and El-Sayed has said, “Of course I don’t think 9/11 was justified.” Referring to an attack on a synagogue that houses a preschool in a Detroit suburb, Rogers has claimed that his opponent “could not condemn the terrorist who tried to attack and kill 140 Jewish children right here in Michigan.” El-Sayed did condemn the attack. Then, in a follow-up statement offering “context,” he said that “hurt people hurt people,” which sounded like a lame rationalization of the attempt. He later apologized , saying, “I made a mistake.” Campaigning with Rogers, Louisiana Sen. John Kennedy said El-Sayed “sleeps in a bin Laden jersey.” When social media provocateur Dave Portnoy called the Democrat a “terrorist,” Rogers said he was “exactly right.” Rogers charged that his opponent “has taken money from individuals on his campaign who openly support Hamas, Hezbollah, al-Qaeda.” PolitiFact concluded that Rogers was “cherry-picking donations and associations from El-Sayed supporters.” Let’s not forget that Rogers decided to run after getting a call from Trump saying, “I need you to do this”—the same Trump who incited the insurrection at the Capitol on Jan. 6, a shocking episode of domestic terrorism, and who accepted a $400 million plane from Qatar, a country with a long history of funding the Muslim Brotherhood. Rogers has suggested that El-Sayed is a radical Islamist while, hilariously, also attacking him for supporting transgender rights. “Abdul thinks football is bad but men playing in women’s sports is good,” said a Rogers campaign ad . El-Sayed, who played football in high school, has talked about the dilemma of enjoying a sport that inflicts so much damage on players, which hardly makes him un-American. And on the subject of transgender participants in athletics, El-Sayed has said , “I think it’s perfectly within the means of local communities and sporting governing bodies to lead the conversation about high school sports.” Michigan also boasts the candidacy of Tom Smith, the GOP nominee for Congress in its 8th District, who is firmly ensconced on the right-wing lunatic fringe. Earlier this year, he reposted a tweet that urged, “Eliminate every demonic violent liberal terrorist and deport the corrupt Somali infestation from American soil.” A CNN review of his social media history found “repeated accusations of treason, attacks on Muslim Americans and Islam, birther-style conspiracy theories about Barack Obama, and posts in which Smith said he had been awakened before dawn with a message from God for conservative radio host Dan Bongino.” Smith calls his Democratic opponent, Rep. Kristen McDonald Rivet, a “communist.” Rivet has signed on to the Promise to America, a project of centrist Democrats who reject democratic socialism. Smith won the primary despite dropping out of the race. He beat Amir Hassan, who is Black and had Trump’s endorsement—but whose name apparently turned off GOP voters. After the primary, Laura Loomer, a notoriously extreme MAGA enthusiast, waxed triumphant, noting that Hassan “claims he’s not a Muslim, but it doesn’t matter. His name sounds like he’s fresh off the boat and MAGA voters reject the Islamic infiltration of our country and party.” Beyond Texas and Michigan There are plenty of other examples across the country. In the House, more than 65 Republicans have joined a “Sharia-Free America” caucus. In response to El-Sayed’s nomination, South Carolina Rep. Nancy Mace posted on X , “Every single Muslim holding public office in America is a Trojan horse, and a threat to both national security and our republic.” Tennessee Rep. Andy Ogles, who lost his August reelection primary, said that “Muslims don’t belong in American society.” In 2024, asked about the deaths of Palestinian children in Gaza, he replied , “I think we should kill them all.” Bruce Blakeman, running for governor of New York, asked a group of Hasidic Jews, “If there is rioting here, if they’re burning down the yeshivas and your shuls, and burning down your house and raping your women, you think Zohran Mamdani is going to stop them?” Trevor Lee, a Utah state representative running for reelection, responded to the entry of Democrat Liban Mohamed into a race for Congress by posting , “This is what happens when past policies to incentives (sic) foreigners and not protect your culture run unchecked,” while endorsing “prosecuting and deporting foreign invaders.” Mohamed, whose parents came from Somalia, was born in Utah. As usual, the president is happy to join in. He has repeatedly called El-Sayed a jihadist and a terrorist . “If Abdul and the Democrats win, they will open the floodgates and invite hordes of jihadis to our shores, creating a nightmare of violence and terror until you cannot even have a Christmas,” he said at a Sunday rally in Port Huron. Asked in August for his advice to GOP candidates, he said , “We have jihadists being elected all over the place.” On Truth Social, he referred to South Carolina’s Democratic Senate candidate as “Annie ‘Trannie’ Andrews.” Andrews is not transgender. At a recent rally in Youngstown, Ohio, supporting GOP candidates, he bragged about expelling Haitians who had been here legally, recalling his absurd 2024 claim that those in Springfield were eating pets. He denounced Somali immigrants as “low-IQ people” from a country where “all they do is shoot each other.” He said Democrats favor the “transgender mutilization of your children.” He said Democratic Senate nominee Sherrod Brown is the choice of “Marxists, communists and anti-Americans.” Campaigning in Kansas, he did more of the same. “If you want to see what’s at stake in this election, just look at what’s happening in France, a once great nation, that is being conquered, looted and burned to the ground by migrants, jihadists and communists who hate Christianity, and they hate, frankly, Western civilization itself,” Trump said . “When you see burning steeples and raging fires in France, just remember that is what the radical Democrats want to do in America.” (The left is hardly immune to demagoguery, but nothing on that side approaches the torrential downpour of extremism that Republicans, from candidates on the ballot to the president himself, are peddling.) How the GOP Got Here What happened to make such rhetoric not only acceptable but popular among much of the party rank and file? The immediate explanation is that given the unpopularity of their president, Republicans desperately want to change the subject. But their thuggish methods are not a new thing. The election of Barack Obama, who not only is Black but has an Arabic middle name (see: Loomer’s “insight,” above), brought out the latent racial and religious prejudice of many white Americans, which the GOP fanned and exploited. Bush’s war on terrorism induced many of the same people to equate Islam with extremist violence. The push to protect transgender people offends many Americans who have no experience with them and perceive a dire threat to religious dictates and gender norms. The growing share of immigrants and their kids in the national population has created fantastical fears that nonwhites will seize power, punish whites, and destroy American culture. All these factors create a fertile environment for right-wing efforts to demonize Muslims, immigrants, transgender people, and conventional liberals. Democrats are likely to win a sweeping national victory in November in the face of this systematic fear-mongering. But given how far it’s taken them and Trump, it may be too much to hope that Republicans will give it up.",
+      "text_excerpt": "It’s Open Season for Racism and Bigotry in the Republican Party This Midterm\nAmericans have come to expect hateful campaign rhetoric from Republican candidates and their proxies. Comments that once were off-limits to politicians are now standard fare. Donald Trump did more than anyone to normalize such vicious attacks, and his example continues to inspire imitation. The 2026 midterm elections have spawned a hurricane…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-28T17:32:33Z",
+      "last_collected_at": "2026-10-28T17:32:33Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-28T10:08:49.874977+00:00",
+  "last_archived_at": "2026-10-28T17:33:36.600924+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -2334,6 +3054,186 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1247,
+      "source": "X",
+      "source_post_id": "2115488942871003153",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-28T17:00:42Z",
+      "first_detected_at": "2026-10-28T17:33:27Z",
+      "last_detected_at": "2026-10-28T17:33:27Z",
+      "detection_count": 1,
+      "text": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "text_excerpt": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "url": "https://x.com/grok/status/2115488942871003153",
+      "source_url": "https://x.com/grok/status/2115488942871003153",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1247,
+      "source": "X",
+      "source_post_id": "2115488942871003153",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-28T17:00:42Z",
+      "first_detected_at": "2026-10-28T17:33:27Z",
+      "last_detected_at": "2026-10-28T17:33:27Z",
+      "detection_count": 1,
+      "text": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "text_excerpt": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "url": "https://x.com/grok/status/2115488942871003153",
+      "source_url": "https://x.com/grok/status/2115488942871003153",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1247,
+      "source": "X",
+      "source_post_id": "2115488942871003153",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-28T17:00:42Z",
+      "first_detected_at": "2026-10-28T17:33:27Z",
+      "last_detected_at": "2026-10-28T17:33:27Z",
+      "detection_count": 1,
+      "text": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "text_excerpt": "@Truthseekerrr99 Reform UK policies map more closely to current Conservative positions on leaving the ECHR, deporting illegal migrants, raising the personal allowance, inheritance tax relief on homes, and ending net zero rules. Restore Britain goes further, seeking full asylum system abolition,",
+      "url": "https://x.com/grok/status/2115488942871003153",
+      "source_url": "https://x.com/grok/status/2115488942871003153",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2115488942871003153"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2115488942871003153"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
