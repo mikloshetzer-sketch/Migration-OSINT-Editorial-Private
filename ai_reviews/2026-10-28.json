@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T02:52:13.127100+00:00"
+    },
+    "information:22615": {
+      "hu_text": "Akár 168 migráns érkezett Mallorca, Cabrera, Ibiza és Formentera partjaira nyolc hajón. Idén eddig 5 795 ember érkezett a szigetcsoportba 314 hajón.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló adat, de nincs megerősített forrás vagy további bizonyíték a pontos számokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:22.522806+00:00"
+    },
+    "information:22618": {
+      "hu_text": "Ismerd meg Pretty Girl és Shiner (kötött páros)! Ez az aranyos rövidszőrű mopsz kutya örökbefogadót keres Millisben, Massachusetts államban. Részletek a linken.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állatörökbefogadási hirdetés, nem kapcsolódik migrációhoz vagy migrációs témákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:22.522825+00:00"
+    },
+    "information:22622": {
+      "hu_text": "A képzés gyakorlati készségekkel látta el a résztvevőket az utazók hatékony értékeléséhez, interjútechnikák alkalmazásához, emberkereskedelem és migránscsempészet jeleinek felismeréséhez, valamint a sérülékeny migránsok megfelelő továbbirányítási útvonalainak megértéséhez.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos képzési információ a migránsok védelmével kapcsolatban, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:22.522830+00:00"
+    },
+    "record:2115257196489372114": {
+      "hu_text": "A gazdasági lehetőségek a fő mozgatórugók. Felmérések szerint az indiai migránsjelöltek körében a pénzügyi növekedés (magasabb fizetés) a legfőbb ok (~46%), ezt követi a karrierfejlődés (~34%). India nagy, képzett, angolul beszélő munkaerőpiaca jobb béreket, életminőséget és munkalehetőségeket keres.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Gazdasági motivációkat ismertető állítás, de nincs hivatkozott kutatás vagy megerősített adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:22.522834+00:00"
+    },
+    "record:2115261424008048853": {
+      "hu_text": "Ha menekült vagy, és az Egyesült Államokba tartasz, hogy egy szélsőjobboldali diktátortól menekülj, megtagadják a belépést vagy visszaküldenek érkezéskor. Ha te egy szélsőjobboldali diktátor vagy, aki az igazságszolgáltatás elől menekül, meghívnak a fasiszta USA-ba, segítenek a bűnös menekülésedben, és VIP bánásmódban részesülsz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika az USA menekültpolitikájáról, nincs bizonyíték a valóságtartalomra, de releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:22.522838+00:00"
+    },
+    "record:2115261549933891584": {
+      "hu_text": "Ha menekült vagy, és az Egyesült Államokba tartasz, hogy egy szélsőjobboldali diktátortól menekülj, megtagadják a belépést vagy visszaküldenek érkezéskor. Ha te egy szélsőjobboldali diktátor vagy, aki az igazságszolgáltatás elől menekül, meghívnak a fasiszta USA-ba, segítenek a bűnös menekülésedben, és VIP bánásmódban részesülsz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika az USA menekültpolitikájáról, ugyanaz a tartalom, mint az előző rekordnál, nincs bizonyíték a valóságtartalomra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-28T02:52:22.522842+00:00"
     }
   },
   "legacy_reviews": {}
