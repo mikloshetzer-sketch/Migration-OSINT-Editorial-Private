@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-29",
+  "reviews": {
+    "group:609": {
+      "hu_text": "Az Egyesült Államok a kubaiakat is felvette azon migránsok közé, akiket „legkegyetlenebbként” deportálnak harmadik országokba. A listán 20 férfi szerepel, akik súlyos bűnügyi előélettel rendelkeznek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét, de nincs megerősített forrás vagy bizonyíték a listára és a kategorizálásra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:10.137809+00:00"
+    },
+    "group:610": {
+      "hu_text": "@StirFryAfricans egész nap francia szerepet játszanak, pedig kb. 10 éve érkeztek banánhajón menekültként.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy gúnyos megjegyzés, amely nem tartalmaz ellenőrizhető tényeket, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:10.137832+00:00"
+    },
+    "information:22847": {
+      "hu_text": "Chandler, Arizona területén egy emberkereskedelmi hálózatot lelepleztek. Amikor a demokraták azt állították, hogy a határ biztonságos, valójában milliókat importáltak olyan patriarchális ideológiákkal rendelkező emberekből a Közel-Keletről, Afrikából és más országokból, akik ellenségesek a nők és gyermekek iránt. A demokraták ellene szavaztak a H.R. 2 törvényjavaslatnak, a Lakennek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás több politikai véleményt és konkrét eseményt kever, de nincs megerősített bizonyíték a leírtakra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:10.137836+00:00"
+    },
+    "information:22848": {
+      "hu_text": "Azt állítja, hogy a globalisták birtokolják Ohiót, és meg fogja védeni a migránsokat. Úgy gondolja, hogy minden határon átlépő migráns olyan amerikai, mint George Washington és az almás pite. Szerinte ez az ember csaló.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és személyeskedés, amely nem tartalmaz ellenőrizhető tényeket, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:10.137838+00:00"
+    },
+    "information:22856": {
+      "hu_text": "Izraeli hadihajók lövéseket adtak le gránátokkal és géppuskákkal palesztinokra a gázai al-Shati menekülttábor közelében a tengerparton. Egy halászt is megsebesített egy izraeli drónbomba Khan Younis közelében. Ezek a támadások olyan embereket céloztak meg, akik már ostrom alatt vannak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az események konkrétak, de nincs független megerősítés vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:10.137841+00:00"
+    },
+    "information:22857": {
+      "hu_text": "Ha egy ember a tengeren fuldoklik, nem az óceánt húzod be a csónakba. Szomáliaiaknak és másoknak meg kellene oldaniuk a saját országuk problémáit. Ezek a \"menekültek\" az Egyesült Államokba semmit nem oldanak meg. Például El Salvador rendbe tette a dolgait, így nincs szükség elhagyni az országot. Probléma megoldva.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, amely nem tartalmaz ellenőrizhető tényeket, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:10.137843+00:00"
+    }
+  }
+}
