@@ -859,6 +859,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-28T22:01:34.387038+00:00"
+    },
+    "information:23029": {
+      "hu_text": "Roger Ailes: Az ember, aki elindította a média lezüllesztését\nRoger Ailes egy gazember volt. Évtizedekkel azelőtt, hogy a közösségi média algoritmusai megtanulták volna kihasználni az ösztönös emberi reakciókat, Ailes létrehozott egy visszhangkamrát, és azt az Egyesült Államok egyik legnagyobb hírcsatornájává fejlesztette. Hátrahagyott egy játékkönyvet arról, hogyan lehet megosztani egy nemzetet a hatalom érdekében. Más, tisztességtelen médiafigurák világszerte látták, mi történik az USA-ban; szemük dollárjelekké változott, és alkalmazták ugyanazt a módszert. A helyzet a közösségi médiával még rosszabb lett, az algoritmusok felerősítették ezt a megosztó megközelítést. Például a tüntetések bemutatása teljesen eltérő lehet a különböző csatornákon, amelyek más-más narratívát sugallnak, így befolyásolva a közvéleményt. Az ilyen megközelítés a bevándorlásról szóló hírekben is megjelenik, ahol az egyik csatorna „karaván”, „invázió” és „határválság” kifejezéseket használ, míg egy másik „menekültkérelmezőkről” és „dokumentum nélküli munkásokról” beszél.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg egy vélemény- és elemzésjellegű közösségi médiás bejegyzés, amely a média torzításáról és a narratívák eltéréséről szól, különösen a bevándorlás témájában. Nem tartalmaz konkrét, ellenőrizhető tényállítást migrációs eseményről vagy politikáról, ezért az állítások ellenőrzése szükséges lehet, de jelenleg nem bizonyítottak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:14.505413+00:00"
     }
   },
   "legacy_reviews": {}
