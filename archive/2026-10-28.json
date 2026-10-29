@@ -2544,6 +2544,80 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1248,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117519927238089314",
+      "author": null,
+      "language": null,
+      "published_at": "2026-10-28T18:23:00Z",
+      "first_detected_at": "2026-10-28T21:58:27Z",
+      "last_detected_at": "2026-10-29T01:29:15Z",
+      "detection_count": 2,
+      "text": "🇲🇽 El sueño americano cambió de destino. Migrantes que buscaban llegar a Estados Unidos ahora construyen una nueva vida en México, tras las restricciones de Trump. En Tijuana, algunos ya tienen negocios, empleos y no piensan cruzar la frontera. # Migracion # Mexico # Tijuana https:// updateme.news/nacional/trump-b loqueo-el-sueno-americano-migrantes-se-arraigan-en-mexico/",
+      "text_excerpt": "🇲🇽 El sueño americano cambió de destino. Migrantes que buscaban llegar a Estados Unidos ahora construyen una nueva vida en México, tras las restricciones de Trump. En Tijuana, algunos ya tienen negocios, empleos y no piensan cruzar la frontera. # Migracion # Mexico # Tijuana https:// updateme.news/nacional/trump-b loqueo-el-sueno-americano-migrantes-se-arraigan-en-mexico/",
+      "url": "https://mastodon.social/@updateme/117519927238089314",
+      "source_url": "https://mastodon.social/@updateme/117519927238089314",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrantes que buscaban llegar"
+        ],
+        [
+          "route",
+          "frontera"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "Migrantes"
+      ],
+      "high_value_matches": [
+        "Migrantes que buscaban llegar"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117519927238089314"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://mastodon.social/@updateme/117519927238089314"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -3340,7 +3414,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-28T22:00:53.786631+00:00",
+  "last_archived_at": "2026-10-29T01:34:45.159968+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
