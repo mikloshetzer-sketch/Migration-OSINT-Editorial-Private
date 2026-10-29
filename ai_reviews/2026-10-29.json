@@ -309,6 +309,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T07:47:49.666199+00:00"
+    },
+    "group:615": {
+      "hu_text": "Az idő kitisztult, a csónakok visszatértek. Körülbelül 150 migráns lépte át vagy lép át éppen a Csatornát ma, az első október 7-e óta, néhányan egy belga taxi csónakkal. A határőrség szerint majdnem 3800-an várakoznak francia táborokban, ami a szokásos duplája. Nigel Farage: „The https://t.co/yCyixugjJw”",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, konkrét számadatokat közöl, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:25.869099+00:00"
+    },
+    "group:616": {
+      "hu_text": "Összesen 21 bűnszervezeti tagot ítéltek el egy kelet-londoni embercsempész hálózatban való részvételükért, amely illegálisan szállított migránsokat határokon át. A legutóbbi ítéletek: Shuhal Ahmed (8,6 év), Robiul Islam (5 év), Qasim Jan (4 év). A többi 16 tag ítélete nem részletezett.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás embercsempészettel kapcsolatos bűnügyi eseményről szól, konkrét ítéleteket említ, de nincs hivatalos forrás vagy további bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:25.869118+00:00"
+    },
+    "group:617": {
+      "hu_text": "Ő a menekültprogramon keresztül érkezett. Ő a második dél-afrikai menekült, akit szexuális bűncselekmények miatt tartóztattak le.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét migrációs eseményről és bűncselekményről szól, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:25.869121+00:00"
+    },
+    "information:22964": {
+      "hu_text": "Kötelező határozatlan idejű fogva tartás, a Folkston-i éhségsztrájk miatti megtorlás és a migránsok tárolásának politikai gazdaságtana. A jelentés az INA § 1225 szerinti óvadék meghallgatások megszüntetéséről, a Folkston ICE feldolgozó központban történt halálesetről, éhségsztrájk megtorlásokról, sürgősségi végzésekről Fort Bliss-ben, valamint a Palantir ImmigrationOS országos bevezetéséről szól. Részletezi a fogvatartási gyakorlatokat, emberi jogi visszaéléseket, sztrájkokat, jogi védekezést, valamint a megfigyelési technológiák és magánbörtönök gazdasági hátterét.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés komplex jogi és politikai témákat érint migrációs fogvatartással kapcsolatban, de forrásként Reddit szolgál, így további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:25.869124+00:00"
+    },
+    "information:22965": {
+      "hu_text": "Mi van, ha félreértettük, kiknek kell találkozniuk a Harley próféciában? Egy elmélet szerint a nap és a hold találkozása egy teljes napfogyatkozást vagy egy ősi hajó holdra való visszatérését jelenti. Egy másik értelmezés szerint azonban emberek, akik évszázadok óta el vannak választva, végre újraegyesülnek. A japán szövegben a 'karera' szó emberekre vagy csoportokra utal, nem csillagászati testekre. Ez a prófécia a One Piece történetének elválasztottság témájával is összefügg, például ősi civilizációk vándorlásával és a múlt katasztrófáival.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés fikciós, szórakoztató tartalom, nem kapcsolódik migrációs valós eseményekhez, ezért irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:25.869126+00:00"
+    },
+    "information:22969": {
+      "hu_text": "Az EU egy merész lépést tesz a technológiai szuverenitás felé az 'EU Inc.' nevű javasolt jogi keretrendszerrel, amely egyszerűsíti a határokon átnyúló működést startupok és növekedési vállalkozások számára. A kezdeményezés célja a szabályozási akadályok csökkentése és az innováció ösztönzése, hogy erősítse az európai technológiai ökoszisztémát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés az EU technológiai politikájáról szól, amely közvetetten érintheti a migrációt, de nincs konkrét migrációs adat vagy esemény, ezért közepes prioritású és ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:25.869128+00:00"
     }
   },
   "legacy_reviews": {}
