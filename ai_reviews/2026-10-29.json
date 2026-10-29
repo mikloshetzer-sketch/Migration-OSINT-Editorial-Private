@@ -507,6 +507,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T14:47:46.754854+00:00"
+    },
+    "telegram:1109512869:1222": {
+      "hu_text": "Migrációval és lehetőségekkel kapcsolatos WhatsApp csatornánk:\n\nhttps://whatsapp.com/channel/0029VbDkXy20gcfLRcc3lP04",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy WhatsApp csatorna linkjét tartalmazza migrációs témában, de nincs benne konkrét állítás vagy esemény, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:56.680966+00:00"
+    },
+    "telegram:1261826972:53997": {
+      "hu_text": "Az Elín szervezet erőszakos razziákat és illegális visszaküldéseket jelentett Marokkóba a CETI-ben. Az egyesület és a Barrios koordinátora figyelmeztet a menedékkérelmek elbírálására váró személyek és az Audiencia Nacional óvintézkedései ellenére történő kitoloncolásokra.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi aggályokat vet fel, de nincs megerősített bizonyíték, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:56.680984+00:00"
+    },
+    "telegram:1261826972:54003": {
+      "hu_text": "Frissítés videóval: A Vox párt megkérdőjelezi az ACNUR támogatását, amelyet a Ceutai kormányzatnak törvény szerint kell biztosítania, például 30 000 eurós támogatást a menedékkérő kiskorúak azonosítására.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vita zajlik a menekültügyi támogatásokról, de nincs konkrét bizonyíték a támogatás visszavonására vagy törvénytelenségére.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:56.680988+00:00"
+    },
+    "telegram:1604168769:12401": {
+      "hu_text": "Habarovszkban egy 26 éves külföldi állampolgárt letartóztattak, mert megpróbált 50 ezer rubellel megvesztegetni egy rendőrt a belépési tilalom feloldásáért. Az elkövetőt az FSB fogta el, és előzetes letartóztatásba helyezték.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét bűncselekményről szól, de nincs független megerősítés, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:56.680990+00:00"
+    },
+    "telegram:1604168769:12402": {
+      "hu_text": "Omszki bíróság két év öt hónap börtönbüntetésre ítélt egy vasúti mozdonyvezetőt, aki 100 ezer rubelért segített egy belépési tilalom alatt álló illegális bevándorlónak vasúti dolgozói egyenruhában átlépni az orosz határt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az ítéletről szóló állítás konkrét, de nincs független forrásból megerősítve, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:56.680992+00:00"
+    },
+    "telegram:1688600455:1171": {
+      "hu_text": "Mikor lehet kérni a bérleti díj csökkentését?\n\nBevételcsökkenés, túl magas bérleti díj vagy súlyos lakhatási hiányosságok esetén néha jogos a bérleti díj mérséklése. A szabályok a szerződéstől, az ingatlan típusától és a bérlő személyes helyzetétől függnek. 2023. július 1-től jogosultság keletkezhet, ha a jövedelem a szociális minimum 120%-a alatt van, az ingatlan lakhatási társaságtól bérelt, és a bérleti díj 2023-ban meghaladta a havi 575,03 eurót. A részletekért ellenőrizze a szerződést és a hatályos szabályokat.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Általános tájékoztató jellegű információ, nem tartalmaz konkrét állítást vagy eseményt, így nem szükséges ellenőrizni.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:56.680995+00:00"
     }
   },
   "legacy_reviews": {}
