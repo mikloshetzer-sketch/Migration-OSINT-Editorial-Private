@@ -441,6 +441,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T14:47:36.386120+00:00"
+    },
+    "information:23019": {
+      "hu_text": "A képek megfelelnek a nyilvános jelentéseknek José Gerardo Galindo Prato (Anaida nagybátyja) ügyében: 2017-ben venezuelai elítélés egy drogcsempész börtönből való szökésének segítéséért (ő politikai üldöztetésnek nevezi), korábbi kanadai kitoloncolás, 2018-as Roxham újra belépés, és 2021-es H&C kérelmi segítség.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét személyhez kötődnek és több eseményt is említenek, de nincs közvetlen bizonyíték a hitelességükre, ezért előzetesen ellenőrizendőnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:46.754825+00:00"
+    },
+    "information:23020": {
+      "hu_text": "Az időjárás javulása miatt Nagy-Britannia ezen a héten ismét több száz illegális bevándorlót fogad. A kormány nem tudja ellenőrizni a határokat, de mindig talál milliárdokat az adófizetők pénzéből az újonnan érkezők elhelyezésére.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és közösségi média állítás, amely nem tartalmaz konkrét adatokat vagy bizonyítékokat, így ellenőrizendő, de nem megerősített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:46.754844+00:00"
+    },
+    "information:23024": {
+      "hu_text": "Laila, egy 60 éves rohingya nő 2024-ben érkezett Bangladesbe, és jelenleg egy ideiglenes ponyvás menedékhelyen él a menekülttáborban. Jobb kezét érintő fogyatékossága miatt mindennapi élete még nehezebb.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét személy helyzetét írja le humanitárius kontextusban, de nincs független forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:46.754847+00:00"
+    },
+    "record:2115803431973666869": {
+      "hu_text": "Összesen 21 bűnözőt ítéltek el egy kelet-londoni embercsempész hálózatban való részvétel miatt, amely illegálisan szállított migránsokat határokon át. A legutóbbi ítéletek: Shuhal Ahmed (8,6 év), Robiul Islam (5 év), Qasim Jan (4 év).",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az ítéletek konkrét személyekhez és bűncselekményekhez kötődnek, fontos információ a migrációs bűnözésről, de nincs közvetlen bizonyíték a hitelességre, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:46.754849+00:00"
+    },
+    "record:2115809336899330140": {
+      "hu_text": "Az időjárás kitisztult, a csónakok visszatértek. Körülbelül 150 migráns lépte át vagy lép át a Csatornát ma, az első ilyen október 7. óta, néhányan Belgiumból taxi csónakkal érkeztek. A francia táborokban majdnem 3800-an várakoznak, ami a szokásos duplája.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számokat és eseményeket közöl a Csatornán átkelő migránsokról, fontos migrációs esemény, de nincs független forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:46.754851+00:00"
+    },
+    "record:2115813774447853792": {
+      "hu_text": "Egy személy a menekültprogramon keresztül érkezett, és ő a második dél-afrikai menekült, akit szexuális bűncselekmények miatt tartóztattak le.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy menekültről és bűncselekményről, de nincs további bizonyíték vagy részletes információ, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:46.754854+00:00"
     }
   },
   "legacy_reviews": {}
