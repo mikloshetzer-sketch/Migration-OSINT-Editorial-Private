@@ -166,6 +166,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T07:47:22.329929+00:00"
+    },
+    "information:22916": {
+      "hu_text": "Jenrick egyértelműen hiányzik az, ami a mai emberekben megvan! A fickó azt akarja, hogy a tengerészgyalogosok halálos erővel lépjenek fel a Csatornán átkelő migránsokkal szemben. Csak őrültnek lehet nevezni! Persze lehet, hogy csak a Reformok diktátorának kívánságait követi?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás, amely nem tartalmaz konkrét bizonyítékot, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:33.152130+00:00"
+    },
+    "information:22933": {
+      "hu_text": "Mohamed Shafeeq rendőr alfelügyelő, Abdulla Hamdoon főtörzsőrmester és Ahmed Shaan törzsőrmester részt vettek a Dhakában tartott regionális nyílt forráskódú hírszerzés (OSINT) és digitális bizonyítékok emberkereskedelem és migránscsempészet elleni workshopján.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét eseményről szóló hivatalos részvételi információ, amely ellenőrizhető és hitelesnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:33.152147+00:00"
+    },
+    "information:22951": {
+      "hu_text": "Az angol szöveg egy fiktív vagy nem migrációs témájú történetet mesél el, amely egy kórházi eseményt és egy légi járat eltérítési helyzetet ír le, nem kapcsolódik közvetlenül a migrációhoz vagy annak aspektusaihoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs témájú, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:33.152153+00:00"
+    },
+    "record:2115695604890587319": {
+      "hu_text": "Nem adjuk a gangu delhit a parjeeteknek. A parjeeteket a pajeet kormány ingyenes otthonnal és földdel támogatta, amikor menekültként érkeztek. Most visszavesszük és a gangusoknak adjuk, a poopajabikat pedig visszaküldjük Rawalpindi és Heeramandi hazájukba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Gyűlöletkeltő, közösségi médiás állítás, amely nem tartalmaz bizonyítékot, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:33.152157+00:00"
+    },
+    "record:2115702655314194651": {
+      "hu_text": "Egy harmadik világbeli migránscsoporttól érkező üzenet, amely szerint hajón kell Európába jutniuk, hogy ott gyűlöletet kapjanak és kitoloncolják őket. Állítás, hogy nincs nemzetük, földjük vagy nyelvük.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és általánosítás migránsokról, bizonyíték nélkül, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:33.152161+00:00"
+    },
+    "record:2115703220878061665": {
+      "hu_text": "Nyilvános jelentések szerint 2026-ban Ghánában ismételt műveletek zajlanak kiber csalás és emberkereskedelem ellen, amelyekben gyakran nigériai állampolgárok érintettek, több száz embert letartóztattak vagy hazatelepítettek; sokukat később emberkereskedelem áldozataként azonosították. Hivatalos migrációs becslések szerint a nigériaiak jelentős számban vannak jelen.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét műveletekről és statisztikákról szóló állítás, amely hivatalos forrásokkal ellenőrizhető lenne, de jelenleg nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:33.152165+00:00"
     }
   },
   "legacy_reviews": {}
