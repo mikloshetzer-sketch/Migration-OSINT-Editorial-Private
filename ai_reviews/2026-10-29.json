@@ -298,6 +298,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T07:47:45.615149+00:00"
+    },
+    "telegram:1604168769:12392": {
+      "hu_text": "Orosz állampolgárok számára bevezetik a biometrikus azonosítást a Gosuslugi rendszerben. Mostantól a migránsok a ruID alkalmazáson keresztül regisztrálhatják biometrikus adataikat, és távolról is megerősíthetik Gosuslugi fiókjukat. Ez az újítás lehetővé teszi, hogy SIM-kártyát vásároljanak és más állami szolgáltatásokat vegyenek igénybe anélkül, hogy bankba vagy többfunkciós központba kellene menniük.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy új biometrikus azonosítási rendszerről szól migránsok számára, ami fontos lehet a migrációs folyamatok szempontjából, de nincs megerősített forrás vagy hivatalos közlemény a hitelesség igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:49.666199+00:00"
     }
   },
   "legacy_reviews": {}
