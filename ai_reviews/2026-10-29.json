@@ -375,6 +375,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T14:47:25.869128+00:00"
+    },
+    "information:22985": {
+      "hu_text": "Miközben a litván határőrök életüket kockáztatják, a katolikus \"Caritas\" szervezet női tagjai buliznak az illegális bevándorlókkal a felügyelt fogvatartási létesítményekben. Nem csoda, hogy a migránsok rohannak át a határon.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, és erősen véleményes, politikai töltetű narratívát tartalmaznak, ezért csak részben megbízhatók.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:36.386094+00:00"
+    },
+    "information:22986": {
+      "hu_text": "Miközben a litván határőrök életüket kockáztatják, a katolikus \"Caritas\" szervezet női tagjai buliznak az illegális bevándorlókkal a felügyelt fogvatartási létesítményekben. Litvánia az illegális bevándorlóknak modern edzőtermeket, halal étlapot és szállodai szintű ellátást biztosít.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, és részben politikai véleményeket tartalmaznak, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:36.386109+00:00"
+    },
+    "information:22987": {
+      "hu_text": "Miközben a litván határőrök életüket kockáztatják, a katolikus \"Caritas\" szervezet női tagjai buliznak az illegális bevándorlókkal a fogvatartási létesítményekben. Litvánia az illegális bevándorlóknak modern edzőtermeket, halal étlapot és szállodai szintű ellátást biztosít.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, és politikai véleményeket tartalmaznak, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:36.386112+00:00"
+    },
+    "information:22996": {
+      "hu_text": "FRISS HÍR: Jelenleg két brit határőrség tartózkodik francia vizeken, hogy migránsokat gyűjtsenek össze. Egy körülbelül 250 fős csoport hajóval indult el nemrég a francia partokról. 70 embert már feldolgoztak Doverben, majd busszal továbbindultak valahová.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági információ, de nincs megerősített forrás, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:36.386115+00:00"
+    },
+    "information:23001": {
+      "hu_text": "KIS HAJÓS ÁTKELÉSEK ÚJRÁINDULNAK HÁROM HÉT SZÜNET UTÁN: A GB News jelentése szerint a migránsok kis hajókkal kezdtek újra átkelni a Csatornán, miután a viharok elmúltak. Egy producer 72 embert számolt, főként férfiakat, akiket a határőrök Doverben hoztak partra.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, de nincs független megerősítés, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:36.386117+00:00"
+    },
+    "information:23005": {
+      "hu_text": "Az RRS Sir David Attenborough hajó webkamerája elérhető a British Antarctic Survey oldalán, jelenlegi helyzete a vesselfinder.com oldalon követhető.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem migrációs témájú, hanem hajóhelyzet-követésről szól, ezért nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T14:47:36.386120+00:00"
     }
   },
   "legacy_reviews": {}
