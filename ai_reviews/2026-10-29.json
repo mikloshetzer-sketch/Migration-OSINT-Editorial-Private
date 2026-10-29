@@ -639,6 +639,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T20:46:30.089603+00:00"
+    },
+    "information:23067": {
+      "hu_text": "[FR] - Calais, 10 évvel a Dzsungel után: A migránsok továbbra is kockáztatják a Csatorna átkelését.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs eseményről szól, de nincs további bizonyíték vagy részletes információ az állítás hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:36.861122+00:00"
+    },
+    "information:23075": {
+      "hu_text": "Az amerikai Trump-kormányzat továbbra is terhes migráns fiatalkorúakat helyez el Dél-Texasban, ahol hiányoznak a speciális szülészeti ellátások, ami életveszélyes lehet számukra. Egy vizsgálat szerint legalább négy terhes lányt kellett más államba szállítani speciális orvosi ellátás miatt, beleértve abortuszt is, amit Texasban nem biztosítanak. A gyakorlat ellenére több jelenlegi és volt tisztviselő, valamint kongresszusi tag is aggályokat fogalmazott meg. Jen Smyers, aki a Biden-kormányzat alatt az ORR-t felügyelte, felháborítónak nevezte a politikát, amely fiatal terhes lányokat helyez el olyan területeken, ahol nem kapnak megfelelő ellátást.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás részletes, de nem tartalmaz közvetlen bizonyítékot, ezért ellenőrzésre szorul. Fontos emberi jogi és migrációs politikai kérdéseket érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:36.861139+00:00"
+    },
+    "telegram:1604168769:12390": {
+      "hu_text": "Szentpéterváron fontolóra vették a futárok és elektromos kerékpárosok gyalogos övezetben való közlekedésének tiltását. Emellett a városban megvizsgálják egy speciális közlekedési vizsga bevezetésének lehetőségét a migránsok számára.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs és közlekedési szabályozási változásokról szól, de nincs megerősített forrás vagy hivatalos bejelentés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:36.861144+00:00"
     }
   },
   "legacy_reviews": {}
