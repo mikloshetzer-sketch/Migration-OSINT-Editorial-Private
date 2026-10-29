@@ -232,6 +232,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T07:47:33.152165+00:00"
+    },
+    "record:2115707100970287574": {
+      "hu_text": "@naturalordr Ő lezárta a határt, véget vetett a Biden-féle migránsinváziónak, több mint 1 millió embert kitoloncolt, jelentősen bővítette az ICE-t, csökkentette a diákvízumokat, jelentősen mérsékelte a menekültbefogadást, kiállt a Dél-Afrikában megölt fehér gazdák mellett, szabadon engedte a J6 tüntetőket… hogyan számít ez másoknak való alárendeltségnek?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és számos, ellenőrizetlen adatot tartalmaznak, például a kitoloncolások számát és egyéb intézkedéseket. Ezek nem bizonyítottak, ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:45.615067+00:00"
+    },
+    "record:2115707455665746407": {
+      "hu_text": "Ti migránsok tényleg buták vagytok, mi nem vagyunk ugyanazok, már 500 éve itt vagyunk az USA-ban. Mi nem vagyunk olyan bevándorlók, akik harmadik világból hajón menekültek Európába. Minket nem lehet kitoloncolni, mint a ti népeteket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy személyes vélemény és általánosítás, amely nem tartalmaz ellenőrizhető tényeket, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:45.615131+00:00"
+    },
+    "telegram:1173707041:9597": {
+      "hu_text": "A migrációs minisztérium és egy ausztrál delegáció megbeszélést tartottak a biztonságos visszatérés támogatási programjainak fejlesztéséről. A találkozón áttekintették a visszatérők támogatását célzó projektek végrehajtását, a nemzetközi koordinációt és a programok nyomon követését. A minisztérium hangsúlyozta a különböző érintett felek közötti együttműködés fontosságát a visszatérési programok sikeres megvalósítása érdekében, ami elősegíti a visszatérők fenntartható stabilitását.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés hivatalos minisztériumi közlemény, amely egyértelműen dokumentált eseményről számol be, így ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:45.615137+00:00"
+    },
+    "telegram:1173707041:9601": {
+      "hu_text": "A Migrációs és Munkaügyi Minisztérium közösen szervezett képzést az állami alkalmazottak számára a munkahelyi etikett és intézményi diplomácia témájában. A tréning célja a szakmai készségek fejlesztése és az emberi, tiszteleten alapuló ügyfélkezelési kultúra erősítése volt, hogy javítsák az állampolgároknak nyújtott szolgáltatások színvonalát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos minisztériumi tájékoztató, amely egyértelműen dokumentált eseményt ír le, így ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:45.615142+00:00"
+    },
+    "telegram:1173707041:9606": {
+      "hu_text": "A Migrációs Minisztérium helyettes államtitkára részt vett az Európai Unió iraki küldöttségének éves ünnepségén Bagdadban, ahol hangsúlyozta a minisztérium elkötelezettségét az EU-val való együttműködés erősítése iránt, különösen a humanitárius és fejlesztési területeken. Az EU képviselői elismerték az iraki kormány erőfeszítéseit a bonyolult humanitárius ügyek kezelésében, és megerősítették támogatásukat az ország biztonságának és fejlődésének előmozdításában.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hivatalos eseményről szóló minisztériumi közlemény, amely hiteles forrásból származik, ezért ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:45.615146+00:00"
+    },
+    "telegram:1604168769:12391": {
+      "hu_text": "Az utóbbi években egyre gyakoribbá vált, hogy Oroszország, Törökország, az Egyesült Arab Emírségek és Dél-Korea repülőterein nem engedik be az üzbég állampolgárokat. A hatóságok ezt biztonsági intézkedéseknek, az illegális migráció elleni küzdelemnek, valamint egyes állampolgárok vízumszabályok megsértése és illegális munkavállalási kísérleteinek tulajdonítják.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások általános megfigyeléseken alapulnak, de nincs hivatalos adat vagy bizonyíték a konkrét esetekről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:45.615149+00:00"
     }
   },
   "legacy_reviews": {}
