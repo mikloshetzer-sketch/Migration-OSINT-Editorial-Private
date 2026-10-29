@@ -67,6 +67,40 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T01:35:10.137843+00:00"
+    },
+    "record:2115592286797209674": {
+      "hu_text": "@StirFryAfricans egész nap úgy tesznek, mintha franciák lennének, pedig kb. 10 éve érkeztek oda banánhajón menekültként.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy gúnyos megjegyzés, nincs bizonyíték az állítás igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:15.550814+00:00"
+    },
+    "record:2115609865393692679": {
+      "hu_text": "Ez 2022. június 27-én történt San Antonio, Texas közelében (Lackland légibázis / Quintana Road), 53 halottal. Ez a 2022-es San Antonio migráns haláleset, az Egyesült Államok történetének leghalálosabb embercsempészési eseménye. A csempészek kb. 64–66 migránst szállítottak (főként ...).",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos esemény embercsempészettel és migránsok halálával kapcsolatban, de a részletek nem teljesen ellenőrzöttek a szöveg alapján.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:15.550834+00:00"
+    },
+    "record:reddit_1xi4ggo": {
+      "hu_text": "Az Egyesült Államok a kubaiakat a „legbarbárabb” harmadik országokba kitoloncolt migránsok közé sorolja. A listán 20, súlyos bűnügyi előélettel rendelkező férfi szerepel.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy migrációs politikai intézkedésről, de nincs megerősített forrás vagy hivatalos dokumentum a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T01:35:15.550837+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
