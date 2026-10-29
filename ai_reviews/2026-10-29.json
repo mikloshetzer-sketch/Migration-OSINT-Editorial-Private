@@ -573,6 +573,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T14:47:56.680995+00:00"
+    },
+    "information:23054": {
+      "hu_text": "Obama elnöksége alatt 2012 és 2017 között közel 16 000 kísérő nélküli kiskorút helyeztek el olyan katonai bázisokon, mint a Lackland AFB, Fort Sill és Fort Bliss. Korábban hasonlóan használták ezeket a bázisokat kubaiak, haitiak, vietnamiak és mások esetében is. Jelenleg ismét használják a bázisokat.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét adatokat tartalmaz, de nincs megerősített forrás vagy hivatalos dokumentum a bemenetben, ezért ellenőrizetlennek minősül. A téma humanitárius és migrációs eseményekhez kapcsolódik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:30.089561+00:00"
+    },
+    "information:23061": {
+      "hu_text": "Egy videó követi az afrikai migránsokat az Egyesült Királyságba, bemutatva, hogyan fektettek be több millió fontot a kormány által működtetett befogadóközpontokba, és hogyan vált a migráció üzletté a határokon áthaladó emberek számára.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs folyamatokat és üzleti érdekeket említ, de nincs megerősített bizonyíték vagy hivatalos forrás a bemenetben, ezért ellenőrizetlennek minősül. Fontos a további ellenőrzés a pontosság érdekében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:30.089584+00:00"
+    },
+    "information:23063": {
+      "hu_text": "Egy fantáziaregény részlete, amely egy démonológusról és csapatáról szól, akik egy posztszűkösségi utópia megteremtésén dolgoznak. A történet optimizmust, fejlődést és karakterfejlődést mutat be, nem kapcsolódik migrációhoz vagy valós eseményekhez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg fikciós irodalmi tartalom, amely nem kapcsolódik migrációs témákhoz, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:30.089590+00:00"
+    },
+    "information:23064": {
+      "hu_text": "Az AfD párt belső dokumentumai szerint a párt egyre radikálisabbá válik, és titokban finanszírozza szélsőjobboldali szervezetek tagjait. Egy ismert neonáci, Patrick S., aki korábban erőszakos bűncselekményekért elítélték, jelenleg grafikai szolgáltatásokat nyújt az AfD-nek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai és társadalmi diskurzusra vonatkozik, de nincs megerősített forrás vagy hivatalos bizonyíték a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:30.089595+00:00"
+    },
+    "information:23065": {
+      "hu_text": "Az Európai Bizottság tervezi a Frontex létszámának háromszorosára növelését és szélesebb jogkörök biztosítását, beleértve a migránsok EU-n kívüli kitoloncolását és a közösségi média megfigyelését. A javaslatok célja az új migrációs kihívások kezelése, de aggályokat vetnek fel az alapvető jogok és a megfigyelés miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg az EU migrációs politikájának tervezett változásairól szól, amelyek fontosak a migrációs események és jogi szabályozás szempontjából. Mivel hivatalos forrás nincs megadva, ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:30.089599+00:00"
+    },
+    "information:23066": {
+      "hu_text": "Calais, tíz évvel a 'Jungle' menekülttábor felszámolása után: a migránsok továbbra is kockáztatják az Átjáró (Csatorna) átkelését.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A rövid szöveg migrációs eseményről szól, de részletek és forrás nélkül, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T20:46:30.089603+00:00"
     }
   },
   "legacy_reviews": {}
