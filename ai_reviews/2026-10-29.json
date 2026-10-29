@@ -100,6 +100,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-29T01:35:15.550837+00:00"
+    },
+    "group:611": {
+      "hu_text": "@naturalordr Lezárta a határt, véget vetett a Biden-féle migránsinváziónak, több mint egymillió embert kitoloncolt, jelentősen bővítette az ICE-t, csökkentette a diákvízumokat, drasztikusan mérsékelte a menekültbefogadást, kiállt a Dél-Afrikában megölt fehér gazdákért, szabadon engedte a J6 tüntetőket… hogyan számít ez másoknak való alárendeltségnek?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és állításokat tartalmaz migrációs intézkedésekről, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:22.329889+00:00"
+    },
+    "group:612": {
+      "hu_text": "Ti migránsok tényleg buták vagytok, mi nem vagyunk ugyanazok, már 500 éve itt vagyunk az USA-ban. Nem vagyunk olyan bevándorlók, akik harmadik világból hajón menekültek Európába. Titeket nem lehet úgy kitoloncolni, mint a ti népeteket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes vélemény és sértő megjegyzés migránsokról, nincs tényállítás vagy bizonyítható információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:22.329911+00:00"
+    },
+    "group:613": {
+      "hu_text": "@Rufmanp @AmirlishiAa @kittycattang Egy olyan harmadik világbeli migránscsoporttól jön, akik hajón mennek Európába, hogy utálják és kitoloncolják őket. Nincs nemzetük, földjük vagy nyelvük.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes vélemény és sértő megjegyzés migránsokról, nincs bizonyítható tény vagy információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:22.329917+00:00"
+    },
+    "group:614": {
+      "hu_text": "@sensitveyungbih Nem adjuk a gangu delhit a parjeeteknek. A parjeeteket a pajeet kormány ingyen házzal és földdel támogatta, amikor menekültként érkeztek. Ők kormányzati segítséggel indultak be. Mi visszavesszük és a gangusoknak adjuk, a poopajabikat pedig visszaküldjük Rawalpindi és Heeramandi hazájába.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Gyűlöletkeltő, etnikai alapú megjegyzéseket tartalmaz, nincs bizonyítható tény vagy releváns migrációs esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:22.329921+00:00"
+    },
+    "information:22894": {
+      "hu_text": "Valóban probléma-e a bevándorlás? A jelenlegi világhelyzetben a bevándorlás elvesztette eredeti jelentését. Két fogalomra osztható: nemzetközi migránsokra és illegális migránsokra. Sok országban tiltakozások vannak a bevándorlás ellen, melyeket politikai erők választói bázisuk erősítésére használnak. A valódi probléma az illegális határátlépők száma és társadalmi terhe, melyről kevés adat áll rendelkezésre. Az Egyesült Királyság és az USA példája mutatja, hogy a fehérgallérosok jogai sérülnek. Ausztráliában kevesebb az illegális migráns, de a harmadik világból érkezők száma problémát jelent, és a központi támogatási rendszer is vitatott.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Átfogó elemzés és vélemény a bevándorlásról, de nem tartalmaz konkrét, ellenőrizhető adatokat vagy forrásokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:22.329925+00:00"
+    },
+    "information:22914": {
+      "hu_text": "🚨 INVÁZIÓS RIASZTÁS 🚨\n\nMegkezdődött a bevándorlók átadása a francia és brit hatóságok között a Csatorna közepén, miközben kis szabadidős hajók szállítják a migránsokat a határőrség hajójához, hogy visszavigyék őket Angliába.\n\n🛑 ÁLLÍTSUK MEG A HAJÓKAT 🛑",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális határbiztonsági eseményről szóló információ, amely fontos a migrációs helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-29T07:47:22.329929+00:00"
     }
   },
   "legacy_reviews": {}
