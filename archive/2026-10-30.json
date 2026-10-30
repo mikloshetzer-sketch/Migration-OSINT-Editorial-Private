@@ -45,6 +45,50 @@
       "text": "Source: NY Post (Oct 29) — Homan: September deportations set the all-time ICE record, NY warned to cooperate: nypost​.com​/2026/10/29/us-news/record-number-of-migrants-deported-by-ice-in-september-border-czar-says-as-he-sends-warning-to-ny/",
       "url": "https://x.com/boratmankini/status/2115975115632677131",
       "source_url": "https://x.com/boratmankini/status/2115975115632677131"
+    },
+    {
+      "id": 776,
+      "event_id": 776,
+      "source": "X",
+      "source_post_id": "2116073580177785158",
+      "author": "Tim_Citeh",
+      "published_at": "2026-10-30T07:43:50Z",
+      "collected_at": "2026-10-30T07:51:13Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@Leon_Schreib This is performative stop posting this nonsense \n\nWe want to see refugee camps in the border and buses crossing the border deporting them",
+      "url": "https://x.com/Tim_Citeh/status/2116073580177785158",
+      "source_url": "https://x.com/Tim_Citeh/status/2116073580177785158"
+    },
+    {
+      "id": 777,
+      "event_id": 777,
+      "source": "X",
+      "source_post_id": "2116071965962252356",
+      "author": "TrumpFact_News",
+      "published_at": "2026-10-30T07:37:26Z",
+      "collected_at": "2026-10-30T07:52:19Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "🚨 ALERTE INFO : 🇺🇸 L’administration Trump aurait accepté de fournir 35 millions de dollars d’aide militaire à une unité camerounaise accusée de crimes de guerre, en échange de l’accueil de migrants expulsés des États-Unis.\n\nLe programme comprend notamment des véhicules blindés https://t.co/sywaRuQmqV",
+      "url": "https://x.com/TrumpFact_News/status/2116071965962252356",
+      "source_url": "https://x.com/TrumpFact_News/status/2116071965962252356"
     }
   ],
   "event_groups": [
@@ -105,6 +149,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-30T01:26:01Z",
       "updated_at": "2026-10-30T01:26:01Z"
+    },
+    {
+      "id": 620,
+      "group_id": 620,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Leon_Schreib This is performative stop posting this nonsense \n\nWe want to see refugee camps in the border and buses crossing the border deporting them",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-30T07:43:50Z",
+      "last_seen": "2026-10-30T07:43:50Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-10-30T07:51:13Z",
+      "updated_at": "2026-10-30T07:51:13Z"
     }
   ],
   "influence_signals": [
@@ -336,6 +409,171 @@
       "country": "-",
       "region": "AMERICAS",
       "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1259,
+      "source": "X",
+      "source_post_id": "2116052664400118202",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-30T06:20:44Z",
+      "first_detected_at": "2026-10-30T07:52:41Z",
+      "last_detected_at": "2026-10-30T07:52:41Z",
+      "detection_count": 1,
+      "text": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "text_excerpt": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "url": "https://x.com/grok/status/2116052664400118202",
+      "source_url": "https://x.com/grok/status/2116052664400118202",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 64.65,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1258,
+      "source": "X",
+      "source_post_id": "2116068421028765972",
+      "author": "Abom1nabl3",
+      "language": "en",
+      "published_at": "2026-10-30T07:23:20Z",
+      "first_detected_at": "2026-10-30T07:51:13Z",
+      "last_detected_at": "2026-10-30T07:51:13Z",
+      "detection_count": 1,
+      "text": "Belarus border: the pressure is back\n\nLithuania's border guard (VSAT) turned back 24 irregular migrants from Belarus in the last day, after two days with none. That brings this year's total to nearly 1,800.\n\nLatvia turned back 15 on Thursday, and Poland reported no attempts on",
+      "text_excerpt": "Belarus border: the pressure is back\n\nLithuania's border guard (VSAT) turned back 24 irregular migrants from Belarus in the last day, after two days with none. That brings this year's total to nearly 1,800.\n\nLatvia turned back 15 on Thursday, and Poland reported no attempts on",
+      "url": "https://x.com/Abom1nabl3/status/2116068421028765972",
+      "source_url": "https://x.com/Abom1nabl3/status/2116068421028765972",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1257,
+      "source": "TELEGRAM",
+      "source_post_id": "1604168769:12407",
+      "author": "migrantlar24",
+      "language": null,
+      "published_at": "2026-10-30T02:12:01Z",
+      "first_detected_at": "2026-10-30T07:50:50Z",
+      "last_detected_at": "2026-10-30T07:50:50Z",
+      "detection_count": 1,
+      "text": "Уссурийскда ноқонуний мигрантлар ушланди\n\nПриморье ўлкасининг Уссурийск шаҳрида ўтказилган рейд давомида ҳужжатларида муаммоси бўлган етти нафар хориж фуқароси қўлга олинди. Олти нафар шахсга жарима солиниб, уларга Россия ҳудудини мустақил тарк этиш мажбурияти юкланди, суд қарорини бажармаган яна бир фуқаро эса мажбурий тартибда чиқариб юборилади.\n\n👉https://migrantlar24.com/5c6zt9",
+      "text_excerpt": "Уссурийскда ноқонуний мигрантлар ушланди\n\nПриморье ўлкасининг Уссурийск шаҳрида ўтказилган рейд давомида ҳужжатларида муаммоси бўлган етти нафар хориж фуқароси қўлга олинди. Олти нафар шахсга жарима солиниб, уларга Россия ҳудудини мустақил тарк этиш мажбурияти юкланди, суд қарорини бажармаган яна бир фуқаро эса мажбурий тартибда чиқариб юборилади.\n\n👉https://migrantlar24.com/5c6zt9",
+      "url": "https://t.me/migrantlar24/12407",
+      "source_url": "https://t.me/migrantlar24/12407",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "рейд"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "мигрантлар"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
       "latitude": null,
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
@@ -577,6 +815,171 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1259,
+      "source": "X",
+      "source_post_id": "2116052664400118202",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-30T06:20:44Z",
+      "first_detected_at": "2026-10-30T07:52:41Z",
+      "last_detected_at": "2026-10-30T07:52:41Z",
+      "detection_count": 1,
+      "text": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "text_excerpt": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "url": "https://x.com/grok/status/2116052664400118202",
+      "source_url": "https://x.com/grok/status/2116052664400118202",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 64.65,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1258,
+      "source": "X",
+      "source_post_id": "2116068421028765972",
+      "author": "Abom1nabl3",
+      "language": "en",
+      "published_at": "2026-10-30T07:23:20Z",
+      "first_detected_at": "2026-10-30T07:51:13Z",
+      "last_detected_at": "2026-10-30T07:51:13Z",
+      "detection_count": 1,
+      "text": "Belarus border: the pressure is back\n\nLithuania's border guard (VSAT) turned back 24 irregular migrants from Belarus in the last day, after two days with none. That brings this year's total to nearly 1,800.\n\nLatvia turned back 15 on Thursday, and Poland reported no attempts on",
+      "text_excerpt": "Belarus border: the pressure is back\n\nLithuania's border guard (VSAT) turned back 24 irregular migrants from Belarus in the last day, after two days with none. That brings this year's total to nearly 1,800.\n\nLatvia turned back 15 on Thursday, and Poland reported no attempts on",
+      "url": "https://x.com/Abom1nabl3/status/2116068421028765972",
+      "source_url": "https://x.com/Abom1nabl3/status/2116068421028765972",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1257,
+      "source": "TELEGRAM",
+      "source_post_id": "1604168769:12407",
+      "author": "migrantlar24",
+      "language": null,
+      "published_at": "2026-10-30T02:12:01Z",
+      "first_detected_at": "2026-10-30T07:50:50Z",
+      "last_detected_at": "2026-10-30T07:50:50Z",
+      "detection_count": 1,
+      "text": "Уссурийскда ноқонуний мигрантлар ушланди\n\nПриморье ўлкасининг Уссурийск шаҳрида ўтказилган рейд давомида ҳужжатларида муаммоси бўлган етти нафар хориж фуқароси қўлга олинди. Олти нафар шахсга жарима солиниб, уларга Россия ҳудудини мустақил тарк этиш мажбурияти юкланди, суд қарорини бажармаган яна бир фуқаро эса мажбурий тартибда чиқариб юборилади.\n\n👉https://migrantlar24.com/5c6zt9",
+      "text_excerpt": "Уссурийскда ноқонуний мигрантлар ушланди\n\nПриморье ўлкасининг Уссурийск шаҳрида ўтказилган рейд давомида ҳужжатларида муаммоси бўлган етти нафар хориж фуқароси қўлга олинди. Олти нафар шахсга жарима солиниб, уларга Россия ҳудудини мустақил тарк этиш мажбурияти юкланди, суд қарорини бажармаган яна бир фуқаро эса мажбурий тартибда чиқариб юборилади.\n\n👉https://migrantlar24.com/5c6zt9",
+      "url": "https://t.me/migrantlar24/12407",
+      "source_url": "https://t.me/migrantlar24/12407",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "рейд"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "мигрантлар"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -732,6 +1135,73 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1259,
+      "source": "X",
+      "source_post_id": "2116052664400118202",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-30T06:20:44Z",
+      "first_detected_at": "2026-10-30T07:52:41Z",
+      "last_detected_at": "2026-10-30T07:52:41Z",
+      "detection_count": 1,
+      "text": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "text_excerpt": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "url": "https://x.com/grok/status/2116052664400118202",
+      "source_url": "https://x.com/grok/status/2116052664400118202",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 64.65,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2116052664400118202"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2116052664400118202"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -846,9 +1316,271 @@
       "first_collected_at": "2026-10-30T01:26:02Z",
       "last_collected_at": "2026-10-30T01:26:02Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23152",
+      "timestamp": "2026-10-30T07:39:19Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xj91ez",
+      "author": "HistoricalCarsFan",
+      "url": "https://www.reddit.com/r/islamichistory/comments/1xj91ez/manufacturing_the_great_replacement_a_covert/",
+      "source_url": "https://www.reddit.com/r/islamichistory/comments/1xj91ez/manufacturing_the_great_replacement_a_covert/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "Manufacturing the Great Replacement: a covert anti-Muslim, anti-migrant and anti-Qatar ad campaign\nFor three years, a covert paid influence campaign has pushed more than half a billion exposures of far-right propaganda to 30 countries, mostly in Europe. Beginning in October 2023 and still advertising in October 2026, the operation targeted audiences across Europe, the Americas, Asia and the Middle East with racist, anti-Muslim, anti-migrant, anti-Qatar and anti-Iran messaging. The recorded total is 533 million exposures 1 , a composite of commercial-tracker impressions, platform reach and video views. 2 Projected for advertising the archives could not obtain, it reached 831 million. This figure is likely a massive undercount, and only accounts for advertising cost, as opposed to labour and commissioning costs. Over the past three years we have documented and tracked the campaign, creating a large archive of its content. The archive holds 1,473 Facebook advertisements with 94.7 million recorded reach; 189 YouTube videos on 15 channels with 132 million public views; 359 TikTok advertisements with 72.2 million reach; and 105 videos on the No to the Iranian Occupation TikTok account with 5.6 million views. The campaign also ran web ads, although it was not possible to count the reach or number. On the 17 pages it covered, the commercial tracker Ad Clarity recorded 262 million impressions and $1.59 million of spend. 3 Alongside the advertising, the operation ran branded and covert accounts on Twitter/X and Telegram, a Change.org petition signed by more than 7,500 people in the name of a fake human rights organisation, a sockpuppet network of at least 24 accounts editing Wikipedia, and billboards in Times Square and Lebanon. The campaign’s European messaging draws heavily on the “Great Replacement” conspiracy: the racist belief that Europe’s white, native population is being deliberately displaced through mass immigration, particularly Muslim immigration, as part of an organised political project. In antisemitic variants, Jewish elites are presented as orchestrating or financing this process, with George Soros frequently cast as its architect. This campaign reproduces that conspiratorial structure but places Qatar in the role usually assigned to Soros: the concealed force directing migration, manipulating European institutions and seeking to “Islamise” Europe. Historical conquest imagery, inflammatory slogans and AI-generated parody songs present Muslim presence itself as evidence of conquest. In Lebanon the campaign deploys anti-Iran and anti-Hezbollah narratives, and in 2026 it carried calls for regime change in Iran to European audiences on TikTok, in at least 118 advertisements with 12.6 million recorded reach. Interestingly, this campaign calling for regime change in Iran started four days before the US-Israeli bombing of Iran on February 28th. The operation ran in three phases, which group pages rather than mark strict date windows: October 2023 to July 2024, mainly on Facebook; a smaller burst in November and December 2024, aimed mainly at Hungary; and October 2025 to October 2026 on Facebook, YouTube and TikTok. Phase-one buying in France ran through the months before the June 2024 European Parliament election, and UK buying stopped on 17 May, days before the general election was called, and two months before the anti-Muslim Southport riots. Meta told AFP in early July 2024 that it had removed the network nearly two months earlier, which puts the removal at about mid-May. The archive nonetheless records 27 advertisements from one phase-one page, Défendons la laïcité, on 13 and 14 June, and 22 on pages grouped into phase two between 1 June and 1 July. The authors published on 7 July 2024 and Meta disclosed the takedown in August. Advertising resumed under new identities in November 2024 and returned at scale in October 2025. Phase-three buying in Germany ran through the Saxony-Anhalt state election of 6 September 2026 and resumed later that month. In October 2026 YouTube terminated four of the 15 channels, Grand Theft Qatar, EURO Summer Fest, Qatar is Responsible and AirAlert, for violating its Terms of Service, and the videos of ThanksIran and Wedontwantyoutobewithus were no longer available. On 26 October new channels under the first three names (@GrandTheftQatar2, @EuroSummerFest-z and @QatarIsResponsibl3) posted eight videos, with the same channel descriptions and the same Brazilian advertisers as the previous flight. Among the operations in Meta’s published reports on coordinated inauthentic behaviour (CIB) and adversarial threats from 2018 to 2025 that targeted EU member states, none has higher disclosed advertising spend than this operation’s first phase, which Meta puts at around $1.2 million. That is 69% of the total across the 13 EU-facing networks with a stated spend, 6.8 times the next largest and 11 times what Meta stated for Doppelgänger. On Meta’s whole record phase one ranks sixth, or seventh if The BL network, for which Meta gave only a ceiling, spent more, and the five operations above it with exact figures are commercial advertising or public-relations firms working for political clients (Section 9.7). 4 Phases two and three appear nowhere in that record, and will likely make the campaign the most expensive CIB operation in Meta’s history. For phase one, Meta’s own figure is more than a thousand times the spend visible for the same pages in its public Ad Library, because almost none of the advertising was filed as political or social-issue content. Set against the audience figures published for other documented operations, this is one of the largest influence operations by known reach ever recorded (Section 9.7). Advertising was placed through accounts and companies recorded in Vietnam, Brazil, Belgium, and through German-named TikTok advertiser strings, none with a disclosed connection to the countries targeted. When asked, the Vietnamese proxy LT Media and the Brazilian agency Agência Moll, gave the same account: the advertising assets were sold to a buyer they could or would not identify. Phases one and two form a single connected component in the disclosure records; the two phase-three clusters are joined to it, and to each other, by narrative and method rather than by any shared payer, advertiser or beneficiary (Section 14.2). The evidence indicates with moderate to high confidence that the campaign originated in Israel, with other entities acting as contractors for various dimensions of the campaign. Campaign material passed on two occasions through former Gaza Humanitarian Foundation head Johnnie Moore and his public-relations firm JDA Worldwide. One Wikipedia editing session on 30 January 2024 included a fixed-line Israeli IP address interleaved with campaign accounts and known German proxy exits. That is consistent with a proxy failure exposing an operator’s own presence in Israel. Edit metadata in the videos on the operation’s Telegram channel puts their production on a Sunday-to-Thursday working week at UTC+3, on machines with Hebrew drive and folder names, and one machine’s clock moved back between 22 and 27 October 2024, the week Israel left daylight saving time. The same Telegram metadata also includes the same name as a prominent Israeli political creative campaigner with ties to people working in Israel’s influence industry, including Lior Chorev, who was implicated in a reportedly aborted anti-Qatar operation in October 2023. The narrative, anti-Qatar, anti-Muslim and anti-Iran, is consistent with Israel’s politics, and specifically previous campaigns reportedly contracted by the Israel’s Ministry of Diaspora Affairs through the Tel-Aviv firm STOIC. We also analysed a sample of responses to the ads. The advertising drew polarised responses. Of 406 comments coded on UK-targeted Facebook advertisements from one page in 2024, 61% supported Islamophobic views and 19% opposed them. Of 2,560 top-level YouTube comments from 2024 to 2026, 28% supported the advertisement’s message and 42% opposed it. Italian was the only language in which support led. 15% of the YouTube comments attributed the advertising to Israel, and a share of those crossed into antisemitic tropes. The two samples differ in platform, years, campaigns and coding, so the gap between them is not evidence of a platform effect, but points to how the ads promote polarised discussion on the issue of Islam and immigration in Europe. KEY FINDINGS 1. Between October 2023 and October 2026 the operation recorded at least 533 million exposures of anti-Muslim, anti-migrant, racist and anti-Qatar advertising in 30 countries, mostly in Europe. 2. Meta puts the first phase alone at around $1.2 million. That is the highest advertising spend Meta has disclosed for any operation targeting EU member states: 69% of the total across the 13 such networks with a stated spend, 6.8 times the next largest and 11 times what Meta stated for Doppelgänger. Phases two and three appear nowhere in Meta’s record (Section 9.6). At the commercial tracker’s rate, with YouTube views at $0.02 each, that advertising prices at $5.08 million, and at up to $8.22 million when projected for what the ad archives missed. Exposures are deliveries in mixed units (impressions, reach and video views), and one person can account for several (Sections 1.1, 9.4, 14.6). 3. The operation ran for 37 months in three phases and survived enforcement by Meta . Meta removed the phase-one network in about mid-May 2024; advertising resumed under new identities in November 2024 and returned at scale in October 2025 (Sections 1.2, 8.4), highlighting the relative ease of bypassing platform moderation. 4. After the takedown the operation returned to Meta but had even more success with YouTube and TikTok. 189 YouTube videos on 15 channels drew 132 million views, more than the 94.7 million reach of all 1,473 Facebook advertisements, and 359 TikTok advertisements reached 72.2 million. While TikTok tend to remove offending ads (although not the advertiser responsible), six of the 15 YouTube channels were terminated or emptied only in October 2026, and three were replaced under the same names within days (Sections 1.1, 10.1). 5. In Europe the campaign uses the structure of the “Great Replacement” conspiracy theory, with Qatar in the role antisemitic versions give to George Soros: a hidden power directing Muslim immigration to “Islamise” Europe. In Lebanon it ran anti-Hezbollah and anti-Iran material aimed at Shia audiences (Sections 4.1, 4.2). Continued here: https://thegreatreplacement.dysinfluence.com/report",
+      "text_excerpt": "Manufacturing the Great Replacement: a covert anti-Muslim, anti-migrant and anti-Qatar ad campaign\nFor three years, a covert paid influence campaign has pushed more than half a billion exposures of far-right propaganda to 30 countries, mostly in Europe. Beginning in October 2023 and still advertising in October 2026, the operation targeted audiences across Europe, the Americas, Asia and the Middle East with racist, a…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:50:49Z",
+      "last_collected_at": "2026-10-30T07:50:49Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23168",
+      "timestamp": "2026-10-30T07:32:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116070622740562378",
+      "author": "CryptoNite360",
+      "url": "https://x.com/CryptoNite360/status/2116070622740562378",
+      "source_url": "https://x.com/CryptoNite360/status/2116070622740562378",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@visegrad24 UK Labour government claim to be reducing small boats crossing.  They paint a proactive picture of controlling UK borders.  It's a lie\n\nIllegal migrants come. The Government  uses taxpayers money to feed, clothe and accommodate them.  Dare to protest and you will feel the full https://t.co/ZdBSgp4xR5",
+      "text_excerpt": "@visegrad24 UK Labour government claim to be reducing small boats crossing.  They paint a proactive picture of controlling UK borders.  It's a lie\n\nIllegal migrants come. The Government  uses taxpayers money to feed, clothe and accommodate them.  Dare to protest and you will feel the full https://t.co/ZdBSgp4xR5",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:51:13Z",
+      "last_collected_at": "2026-10-30T07:51:13Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23181",
+      "timestamp": "2026-10-30T07:30:13Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116070151204348135",
+      "author": "BrittonicUK",
+      "url": "https://x.com/BrittonicUK/status/2116070151204348135",
+      "source_url": "https://x.com/BrittonicUK/status/2116070151204348135",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "🚨Two more boat loads of migrants have been spotted in the Channel and are about to break into our country. https://t.co/B09z8QYoYO",
+      "text_excerpt": "🚨Two more boat loads of migrants have been spotted in the Channel and are about to break into our country. https://t.co/B09z8QYoYO",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:51:36Z",
+      "last_collected_at": "2026-10-30T07:51:36Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23174",
+      "timestamp": "2026-10-30T07:18:26Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116067185105711309",
+      "author": "StevenScrase",
+      "url": "https://x.com/StevenScrase/status/2116067185105711309",
+      "source_url": "https://x.com/StevenScrase/status/2116067185105711309",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "vessel"
+      ],
+      "freshness_cues": [],
+      "text": "French patrol vessel Kermorvan trailing migrant dinghies right to the median line exposes the failure of our bilateral policy. The UK has poured nearly £500 million into French beach operations, yet Paris still relies on maritime safety law (SOLAS) to justify shadowing https://t.co/09N9BtOH7k",
+      "text_excerpt": "French patrol vessel Kermorvan trailing migrant dinghies right to the median line exposes the failure of our bilateral policy. The UK has poured nearly £500 million into French beach operations, yet Paris still relies on maritime safety law (SOLAS) to justify shadowing https://t.co/09N9BtOH7k",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:51:13Z",
+      "last_collected_at": "2026-10-30T07:51:13Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23188",
+      "timestamp": "2026-10-30T07:04:46Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116063746321797232",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2116063746321797232",
+      "source_url": "https://x.com/grok/status/2116063746321797232",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@govindkrbokaro @New829728374589 @sarkar28922 NCRB 2024 data shows West Bengal reports the highest number of missing girl children (19,050), ahead of Madhya Pradesh and Bihar (10,747). Figures are by the state where reported missing. WB's border districts see high trafficking and migration inflows from Nepal, Bangladesh and",
+      "text_excerpt": "@govindkrbokaro @New829728374589 @sarkar28922 NCRB 2024 data shows West Bengal reports the highest number of missing girl children (19,050), ahead of Madhya Pradesh and Bihar (10,747). Figures are by the state where reported missing. WB's border districts see high trafficking and migration inflows from Nepal, Bangladesh and",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:52:19Z",
+      "last_collected_at": "2026-10-30T07:52:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23192",
+      "timestamp": "2026-10-30T06:45:35Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116058917985726872",
+      "author": "thenowherephoto",
+      "url": "https://x.com/thenowherephoto/status/2116058917985726872",
+      "source_url": "https://x.com/thenowherephoto/status/2116058917985726872",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "smuggling"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "I just caught an illegal migrant pulling out a large knife to attack a smuggler on a boat\n\nWe all thought these people armed, and now I believe I have proof\n\nFootage being downloaded now\n\nJust another average day in the water on the French coast\n\nBy first glance, it looked about",
+      "text_excerpt": "I just caught an illegal migrant pulling out a large knife to attack a smuggler on a boat\n\nWe all thought these people armed, and now I believe I have proof\n\nFootage being downloaded now\n\nJust another average day in the water on the French coast\n\nBy first glance, it looked about",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:52:19Z",
+      "last_collected_at": "2026-10-30T07:52:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23204",
+      "timestamp": "2026-10-30T05:07:43Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116034291188605071",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2116034291188605071",
+      "source_url": "https://x.com/grok/status/2116034291188605071",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@Truthseekerrr99 @Elfrom2024 @electionmapsuk @pramila1144 Reform UK is closer overall to current Conservative positions.\n\nBoth prioritise leaving the ECHR, ramping deportations of illegal migrants (around 150k a year), tighter settlement rules, North Sea oil and gas expansion, scrapping or diluting net-zero targets, welfare limited",
+      "text_excerpt": "@Truthseekerrr99 @Elfrom2024 @electionmapsuk @pramila1144 Reform UK is closer overall to current Conservative positions.\n\nBoth prioritise leaving the ECHR, ramping deportations of illegal migrants (around 150k a year), tighter settlement rules, North Sea oil and gas expansion, scrapping or diluting net-zero targets, welfare limited",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T07:52:42Z",
+      "last_collected_at": "2026-10-30T07:52:42Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-30T01:27:38.646457+00:00",
+  "last_archived_at": "2026-10-30T07:52:48.040993+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -865,6 +1597,183 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1259,
+      "source": "X",
+      "source_post_id": "2116052664400118202",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-30T06:20:44Z",
+      "first_detected_at": "2026-10-30T07:52:41Z",
+      "last_detected_at": "2026-10-30T07:52:41Z",
+      "detection_count": 1,
+      "text": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "text_excerpt": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "url": "https://x.com/grok/status/2116052664400118202",
+      "source_url": "https://x.com/grok/status/2116052664400118202",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 64.65,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1259,
+      "source": "X",
+      "source_post_id": "2116052664400118202",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-30T06:20:44Z",
+      "first_detected_at": "2026-10-30T07:52:41Z",
+      "last_detected_at": "2026-10-30T07:52:41Z",
+      "detection_count": 1,
+      "text": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "text_excerpt": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "url": "https://x.com/grok/status/2116052664400118202",
+      "source_url": "https://x.com/grok/status/2116052664400118202",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 64.65,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1259,
+      "source": "X",
+      "source_post_id": "2116052664400118202",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-10-30T06:20:44Z",
+      "first_detected_at": "2026-10-30T07:52:41Z",
+      "last_detected_at": "2026-10-30T07:52:41Z",
+      "detection_count": 1,
+      "text": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "text_excerpt": "@ghst_0nx @dec_lea1 These are migrants at a gathering point in Gravelines, northern France. The town is a regular departure site for small-boat (dinghy) crossings of the Channel to the UK. Groups often wait near bus stops or the harbour before moving to beaches to board inflatable boats organised by",
+      "url": "https://x.com/grok/status/2116052664400118202",
+      "source_url": "https://x.com/grok/status/2116052664400118202",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 64.65,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2116052664400118202"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2116052664400118202"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
