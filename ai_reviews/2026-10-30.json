@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T01:28:20.630476+00:00"
+    },
+    "group:620": {
+      "hu_text": "@Leon_Schreib Ez csak színjáték, hagyd abba ennek a képtelenségnek a posztolását. Látni akarjuk a menekülttáborokat a határon és a határt átlépő buszokat, amelyek kitoloncolják őket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, nem tényállítás, nincs bizonyíték a tartalom igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:14.118774+00:00"
+    },
+    "information:23152": {
+      "hu_text": "A Nagy Helyettesítés gyártása: egy titkos, muszlim-ellenes, migráns-ellenes és Katar-ellenes reklámkampány. Három éve egy titkos fizetett befolyásolási kampány több mint ötszázharmincmillió alkalommal juttatta el szélsőjobboldali propagandáját 30 országba, főként Európában. 2023 októberétől 2026 októberéig tartóan rasszista, muszlim-ellenes, migráns-ellenes, Katar- és Irán-ellenes üzeneteket közvetített Európában, Amerikában, Ázsiában és a Közel-Keleten. A kampány tartalmát és elérését részletesen dokumentálták, több platformon jelentős nézettséget és elérést ért el, miközben a költségek több millió dollárra rúgtak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A kampány létezése és részletei részben dokumentáltak, de a teljes hatás és minden állítás ellenőrzése hiányzik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:14.118795+00:00"
+    },
+    "information:23168": {
+      "hu_text": "@visegrad24 Az Egyesült Királyság Munkáspárt kormánya azt állítja, hogy csökkenti a kis csónakok átkelését. Proaktív képet festenek a határok ellenőrzéséről. Ez hazugság. Illegális migránsok érkeznek, a kormány adófizetői pénzből eteti, ruházza és szállásolja őket. Ha tiltakozol, megérzed a teljes következményt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a kormány intézkedéseiről, de nincs bizonyíték a valóságtartalomra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:14.118799+00:00"
+    },
+    "information:23174": {
+      "hu_text": "A francia Kermorvan járőrhajó a migráns csónakokat egészen a középvonalig követi, ami a kétoldalú politika kudarcát mutatja. Az Egyesült Királyság közel 500 millió fontot öntött a francia partszakaszok őrzésébe, mégis Párizs a tengeri biztonsági törvényre (SOLAS) hivatkozva igazolja az árnyékkövetést.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A határbiztonsági intézkedésekről szóló állítás, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:14.118801+00:00"
+    },
+    "information:23181": {
+      "hu_text": "🚨 Két újabb migránscsónakot észleltek a Csatornában, amelyek hamarosan be fognak törni az országunkba.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Friss migrációs eseményről szóló állítás, amely fontos a határbiztonság szempontjából, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:14.118804+00:00"
+    },
+    "information:23188": {
+      "hu_text": "@govindkrbokaro @New829728374589 @sarkar28922 Az NCRB 2024-es adatai szerint Nyugat-Bengál a legtöbb eltűnt kislányt jelenti (19 050), megelőzve Madhja Pradesht és Bihart (10 747). Az adatok az eltűnés helye szerinti államokat mutatják. Nyugat-Bengál határ menti kerületeiben magas a gyermekkereskedelem és a migráció Nepálból, Bangladesből érkezve.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Statisztikai adatokat tartalmaz, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:14.118806+00:00"
     }
   },
   "legacy_reviews": {}
