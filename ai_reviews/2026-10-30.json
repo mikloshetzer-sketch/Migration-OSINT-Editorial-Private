@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T07:53:34.314577+00:00"
+    },
+    "group:621": {
+      "hu_text": "Tegnap 263 migráns érkezett csónakkal. Úgy tűnik, ma hasonló szám fog megérkezni. Az egyik csónakot a Kurdisztán zászlajának színeire festették. Az egyetlen magyarázat az, hogy a kormány bűnrészes a veszélyes migránsok behozatalában.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számokat és állításokat tartalmaz a migránsok érkezéséről és a kormány szerepéről, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:26.255068+00:00"
+    },
+    "information:23243": {
+      "hu_text": "Egy késsel felfegyverkezett migráns sikeresen felmászott egy kis csónakra, amely a Csatornán átkel, miközben azt kiabálta: „Megöllek” – ezzel kezdte útját Nagy-Britannia felé.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás erőszakos cselekményt ír le migráns részéről, ami határbiztonsági és közbiztonsági szempontból fontos, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:26.255088+00:00"
+    },
+    "information:23244": {
+      "hu_text": "UPSC Aktuális események – 2026. október 30. | Fontos kérdések a vizsgákhoz\nRövid összefoglaló a mai előkészítő anyagból. A J&K Legfelsőbb Bíróság megsemmisítette a vízhasználati díjakat, kimondva, hogy a 2010-es törvény ezen része túllépte a jogalkotási hatáskört. A bíróság szerint a vízhasználati díjak és az elektromos áram termelésére kivetett adók különböző jogintézmények. Emellett a NCLT személyzeti kinevezésekről is szó esett, ahol a bíróság megállapította, hogy a kinevezéseknek a NCLT elnökének hatáskörében kell maradniuk, és javasolta a UPSC vagy a Staff Selection Commission általi toborzást. Ezek szóbeli megjegyzések voltak egy folyamatban lévő ügyben, nem végleges ítélet.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg jogi és közigazgatási témákat érint, amelyek nem kapcsolódnak a migrációhoz, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:26.255092+00:00"
+    },
+    "information:23245": {
+      "hu_text": "Az Egyesült Államok és Mexikó közötti szezonális, körkörös migráció történelmi emlékezete pontos. Évtizedeken át a munkavállalók mozgása a déli határon dinamikus volt, és csak később változott meg jelentősen a politikai intézkedések hatására. A körkörös migráció korszaka (1986 előtt) alatt a mexikói migráció főként szezonális és körkörös volt. A Bracero program (1942–1964) hivatalosan vendégmunkásokat hozott az USA mezőgazdasági területeire, és a program megszűnése után is megmaradt a munkaerőigény és a munkavállalók szükséglete.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg történelmi háttérinformációkat tartalmaz a migrációról, amelyek relevánsak, de nincs közvetlen bizonyíték vagy forrásellenőrzés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:26.255095+00:00"
+    },
+    "information:23246": {
+      "hu_text": "Kanári-szigetek, Spanyolország: Egy migráns hajón két férfit holtan találtak, akik Gambiából indultak, és egy csecsemőt kritikus állapotban légi úton kórházba szállítottak a spanyol mentőszolgálatok szerint.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eset humanitárius válságot és migrációs tragédiát ír le, ami fontos információ, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:26.255116+00:00"
+    },
+    "information:23248": {
+      "hu_text": "Egy illegális migráns, akinek ingyen háza és minden egyéb ellátása van, valóban jobban él, mint én. És bármilyen bűnügyi nyilvántartásuk is volt, az eltűnt a útlevelükkel együtt. Ráadásul egyikük sincs besorozási veszélyben. A képviselőm és a bűnügyi biztosom őket részesíti előnyben velem szemben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményt és társadalmi vitát tükröz a migránsok helyzetéről, de nincs tényellenőrzés vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:26.255119+00:00"
     }
   },
   "legacy_reviews": {}
