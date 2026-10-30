@@ -617,6 +617,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T20:20:20.152458+00:00"
+    },
+    "information:23311": {
+      "hu_text": "Migránsválság: Késes férfi sikeresen felmászik egy kis csónakra, amely a Csatornán átkel, miközben éppen az útját kezdi Nagy-Britannia felé, néhány másodperccel azután, hogy azt kiabálta: 'Megöllek'.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményt ír le, de nincs megerősített forrás vagy bizonyíték a történet hitelességére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:30.133491+00:00"
+    },
+    "information:23313": {
+      "hu_text": "Migránsválság: Késes férfi sikeresen felmászik egy kis csónakra, amely a Csatornán átkel, miközben éppen az útját kezdi Nagy-Britannia felé, néhány másodperccel azután, hogy azt kiabálta: 'Megöllek'. A videó szerint a férfi fenyegetőzött, majd egy vitában késsel próbált támadni, de végül feljutott a csónakra. A kés leesett, mielőtt elérhette volna a célpontját.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A részletes leírás és a videó linkje miatt fontos eseménynek tűnik, de a hitelességét nem lehet megerősíteni a rendelkezésre álló információk alapján.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:30.133509+00:00"
+    },
+    "information:23335": {
+      "hu_text": "Franciaországban a migránsok új indulási pontokat használnak a francia partok mentén az angol csatorna átkelésére, ami biztonsági aggályokat vet fel a túlzsúfolt csónakok miatt. A hatóságok fokozott járőrözéssel próbálják megakadályozni a veszélyes átkeléseket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés általános helyzetjelentést ad, de nincs konkrét bizonyíték vagy hivatalos forrás megjelölve, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:30.133514+00:00"
+    },
+    "record:2116244371020382553": {
+      "hu_text": "A New York Times szerint Washington tervezi, hogy több tucat, Louisiana államban fogva tartott afgán migránst Pakisztánon keresztül Afganisztánba deportáljon repülővel.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A New York Times mint forrás megbízhatónak tekinthető, de a részletek és a végrehajtás még nem teljesen tisztázottak, ezért részben ellenőrzöttnek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:30.133519+00:00"
+    },
+    "record:2116249968860148046": {
+      "hu_text": "Fegyveres migránsok érkeznek: az elmúlt két napban 263 migráns érkezett három csónakkal, ma további 400-520 fő várható hat-nyolc csónakkal, összesen körülbelül 660-780 fő, miután az időjárás miatt szünetelt az átkelés.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és eseményeket közöl, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:30.133522+00:00"
+    },
+    "record:2116256984320393303": {
+      "hu_text": "A Nemzeti kormány megszünteti a családon belüli erőszak megelőzését, de 18 millió dollárt ad újonnan érkezett gazdasági migránsoknak, hogy azok más frissen érkezett gazdasági migránsokkal szembeni munkahelyi visszaélések ellen harcoljanak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai döntésről szóló állítás, de nincs hivatalos forrás vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:30.133526+00:00"
     }
   },
   "legacy_reviews": {}
