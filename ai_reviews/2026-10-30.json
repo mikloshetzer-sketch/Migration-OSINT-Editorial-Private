@@ -463,6 +463,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T14:42:35.047543+00:00"
+    },
+    "record:2116173616215630026": {
+      "hu_text": "Csütörtökön mintegy 263 migráns érkezett az Egyesült Királyságba, miközben a Csatorna átkelési kísérletek folytatódtak egy háromhetes szünet után – az egyik hajót a kurd zászló színeire festették.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés aktuális migrációs eseményről szól, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:43.670120+00:00"
+    },
+    "record:2116178317782990860": {
+      "hu_text": "ÚJ: Körülbelül 400 további migráns állítólag hat kis hajón kelte át a Csatornát ma, egy nappal azután, hogy 263-an érkeztek, ezzel véget ért a háromhetes szünet.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, de nincs hivatalos megerősítés, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:43.670139+00:00"
+    },
+    "telegram:1229318139:29778": {
+      "hu_text": "Az üzenet egy ruházati termék, az 'Umrah abaya' reklámja, amely kényelmes és praktikus viselet a vallási zarándoklat során.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik a migrációhoz vagy határbiztonsághoz, hanem egy ruházati termék reklámja.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:43.670141+00:00"
+    },
+    "telegram:1261826972:54052": {
+      "hu_text": "Loma Colmenar településen zavargás tört ki, egy őr megsérült, a rendőrség három migránst őrizetbe vett az incidens után, amely során elrejtett botokat találtak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény migránsokkal kapcsolatos társadalmi feszültséget mutat, de nincs hivatalos megerősítés, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:43.670144+00:00"
+    },
+    "telegram:1261826972:54053": {
+      "hu_text": "Ceuta 10 000 influenza elleni vakcinát vásárol migránsok immunizálására, az egészségügyi szolgáltatások párhuzamosan zajlanak a helyi lakosság ellátásával, a vakcinázás a közegészségügyet biztosítja.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ migránsok egészségügyi ellátásáról szól, de nincs hivatalos forrás, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:43.670146+00:00"
+    },
+    "telegram:1604168769:12416": {
+      "hu_text": "Egy migránst letartóztattak Ivanovóban, aki egy talált bankkártyával több mint 5000 rubelt vett fel. Az ügyben büntetőeljárás indult, a migráns illegális lakosként nyilvántartásba került, és a büntetés letöltése után kiutasítják az országból.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az eset jogi és migrációs vonatkozású, de nincs hivatalos megerősítés, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:43.670148+00:00"
     }
   },
   "legacy_reviews": {}
