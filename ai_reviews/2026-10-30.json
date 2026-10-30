@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T01:27:52.999558+00:00"
+    },
+    "record:2115973614407413823": {
+      "hu_text": "Friss hír: \"A bandák kinevetnek minket\": Csatorna-migránsok egy kurd zászló színeiben készült kis hajóra szállnak fel, miközben a belga rendőrség csak nézi az eseményeket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs mozgásra utal, de nincs megerősített bizonyíték a hajó egyediségéről vagy a rendőrség reakciójáról, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:28:03.869862+00:00"
+    },
+    "record:2115978492861202596": {
+      "hu_text": "Ő egy félénk párszi menekültként érkezett Zanzibárból Angliába pénz és támogatás nélkül. A zenei ipar nem tudott neki mintát adni, ezért Farrokh Bulsara megalkotta sajátját – Freddie Mercury néven vált ismertté, egy római isten nevét és egy monarchista címertervet választva.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs eseményről vagy politikáról szól, hanem egy ismert személy életrajzi adatáról, így nem releváns a migrációs OSINT szempontból.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:28:03.869932+00:00"
+    },
+    "telegram:1229318139:29775": {
+      "hu_text": "Iszlám viseletet árusító üzlet reklámja, amely egy praktikus és elegáns szudáni ruhakészletet kínál, többféle színben, elérhetőségekkel és közösségi média linkekkel.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációs eseményekhez vagy politikához, hanem kereskedelmi jellegű hirdetés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:28:03.869944+00:00"
+    },
+    "record:reddit_1xj23na": {
+      "hu_text": "A Trump-kormányzat megállapodott, hogy mintegy 35 millió dollár katonai segélyt küld egy közép-afrikai katonai egységnek, amelyet korábban háborús bűncselekményekkel vádoltak, miközben harmadik országokból származó migránsok kitoloncolásáról egyeztek meg. A megállapodás részeként a katonai segély és a kitoloncolási program egyszerre került kialakításra, és több afrikai ország bevonásával bővítik a deportációs programot. Kamerun decembertől fogadja az USA-ból kitoloncolt harmadik országbeli állampolgárokat, és eddig legalább 36 deportáltat fogadott.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás részletes, de forrása nem ellenőrzött, és a Redditen jelent meg. A téma jelentős migrációs és politikai vonatkozású, ezért fontos a további hitelesítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:28:12.000143+00:00"
+    },
+    "record:reddit_1xj27bi": {
+      "hu_text": "A Trump-kormányzat megállapodott, hogy mintegy 35 millió dollár katonai segélyt küld egy közép-afrikai katonai egységnek, amelyet korábban háborús bűncselekményekkel vádoltak, miközben harmadik országokból származó migránsok kitoloncolásáról egyeztek meg. A megállapodás részeként a katonai segély és a kitoloncolási program egyszerre került kialakításra, és több afrikai ország bevonásával bővítik a deportációs programot. Kamerun decembertől fogadja az USA-ból kitoloncolt harmadik országbeli állampolgárokat, és eddig legalább 36 deportáltat fogadott.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás megegyezik a reddit_1xj23na rekordéval, ugyanazokat az információkat tartalmazza, forrása nem ellenőrzött, ezért további hitelesítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:28:12.000160+00:00"
+    },
+    "record:2115975115632677131": {
+      "hu_text": "Forrás: NY Post (október 29.) — Homan: szeptemberi kitoloncolások rekordot döntöttek az ICE-nél, New Yorkot együttműködésre figyelmeztették.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy hírcikkre hivatkozik, de a bemenet nem tartalmazza a cikk tartalmának ellenőrzött bizonyítékait, ezért az állítás ellenőrizetlen. A téma fontos a migrációs politika szempontjából, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:28:20.630476+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
