@@ -397,6 +397,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T14:42:26.255119+00:00"
+    },
+    "information:23249": {
+      "hu_text": "Két férfit holtan találtak egy migránsokkal teli hajón, amely pénteken érkezett meg Spanyolország Kanári-szigeteire, miután Gambiai kikötőből indult. Egy csecsemőt kritikus állapotban helikopterrel szállítottak kórházba, közölték a spanyol mentőszolgálatok.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló információ, amely emberéleteket érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:35.047517+00:00"
+    },
+    "information:23250": {
+      "hu_text": "Egy illegális hajós migráns ingyenes házzal és minden mással a házban ma tényleg jobban él, mint én. És bármilyen bűnügyi nyilvántartásuk is volt, az eltűnt a útlevelükkel. Szerencsések, ráadásul egyikük sincs besorozási veszélyben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és állításokat tartalmaz, amelyek nem ellenőrzöttek, és politikai vagy társadalmi vitára utalnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:35.047535+00:00"
+    },
+    "information:23252": {
+      "hu_text": "Egy illegális hajós migráns ingyenes házzal és minden mással a házban ma tényleg jobban él, mint én. És bármilyen bűnügyi nyilvántartásuk is volt, az eltűnt a útlevelükkel. Szerencsések.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő véleményes állítás, amely nem ellenőrzött és társadalmi vitára utal.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:35.047537+00:00"
+    },
+    "information:23253": {
+      "hu_text": "@AndyBird125 @harrysoulcoach Akkor magyarázd el… Amikor az RNLI és BF hajók megjelennek migránsokkal tele, honnan szedték őket? Űrhajóról teleportálták őket a Csatornába? Más dimenzióból? Vagy a tengerfenékről halászták ki?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ironikus vagy szarkasztikus kérdés, amely társadalmi vitára utal, de nem tartalmaz konkrét tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:35.047539+00:00"
+    },
+    "record:2116171048341344363": {
+      "hu_text": "Tegnap 263 migráns érkezett csónakkal. Úgy tűnik, ma hasonló szám fog megérkezni. Egy hajót a Kurdisztán zászlajának színeire festettek. Az egyetlen magyarázat az, hogy a kormány bűnrészes a veszélyes migránsok behozatalában.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló állítás, amely politikai véleményt is tartalmaz, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:35.047541+00:00"
+    },
+    "record:2116172131163660391": {
+      "hu_text": "Egy késsel felfegyverzett migráns sikeresen felmászott egy kis hajóra, amely a Csatornán átkel, miközben azt kiabálta: 'Megöllek', és ezzel megkezdte útját Nagy-Britannia felé.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos biztonsági eseményről szóló információ, amely migrációs kontextusban fontos, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T14:42:35.047543+00:00"
     }
   },
   "legacy_reviews": {}
