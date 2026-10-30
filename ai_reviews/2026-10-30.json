@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T07:53:14.118806+00:00"
+    },
+    "information:23192": {
+      "hu_text": "Épp most láttam, hogy egy illegális migráns elővett egy nagy kést, hogy megtámadjon egy csempészt egy hajón. Mindannyian azt hittük, hogy ezek az emberek fegyveresek, és most úgy hiszem, bizonyítékom is van erre. A felvétel letöltése folyamatban van. Csak egy átlagos nap a francia partoknál a vízen.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos, de nincs megerősített bizonyíték, csak a bejelentő szavai. Fontos lehet a határbiztonság és migrációs események szempontjából, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:24.287357+00:00"
+    },
+    "information:23204": {
+      "hu_text": "A Reform UK párt általánosságban közelebb áll a jelenlegi Konzervatív párt álláspontjaihoz. Mindkettő prioritásként kezeli az Emberi Jogok Európai Egyezményének (ECHR) elhagyását, az illegális migránsok kitoloncolásának fokozását (évente kb. 150 ezer), szigorúbb letelepedési szabályokat, az Északi-tengeri olaj- és gázkitermelés bővítését, a nettó zéró kibocsátási célok eltörlését vagy enyhítését, valamint a jóléti támogatások korlátozását.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai állításokat tartalmaz pártprogramokról, amelyek részben ellenőrizhetők, de a bemenet nem tartalmaz konkrét forrásokat vagy hivatalos dokumentumokat. Közepes prioritású a politikai migrációs diskurzus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:24.287376+00:00"
+    },
+    "record:1604168769:12407": {
+      "hu_text": "Usszurijszkban illegális migránsokat fogtak el. Egy rajtaütés során hét külföldi állampolgárt tartóztattak fel, akiknek problémák voltak a papírjaikkal. Hat személyt megbírságoltak és kötelezték, hogy önként hagyják el Oroszország területét, egy másik személyt pedig kényszerűen kiutasítanak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos jellegű hatósági intézkedésről szóló információ, de nincs független megerősítés. Fontos a határbiztonság szempontjából, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:24.287379+00:00"
+    },
+    "record:2116052664400118202": {
+      "hu_text": "Migránsok gyülekeznek Gravelines-ben, Észak-Franciaországban. Ez a város rendszeres indulási hely a kis csónakos átkelésekhez a Csatornán az Egyesült Királyság felé. A csoportok gyakran várakoznak buszmegállóknál vagy a kikötőnél, mielőtt a strandokra mennének, hogy felfújható csónakokra szálljanak, amelyeket szerveznek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános információ migránsok mozgásáról és szervezett átkelésről, de nincs bizonyíték a pontos helyzetre vagy időpontra. Közepes prioritású a migrációs események megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:24.287381+00:00"
+    },
+    "record:2116068421028765972": {
+      "hu_text": "Fehérorosz határ: ismét nő a nyomás. Litvánia határőrsége az elmúlt napban 24 szabálytalan migránst fordított vissza Fehéroroszországból, két nap szünet után. Ezzel az idei összes visszafordított migráns száma közel 1800. Lettország csütörtökön 15 migránst fordított vissza, Lengyelország pedig nem jelentett próbálkozást.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági információ a migrációs nyomásról a kelet-európai határoknál, de nincs független megerősítés. Magas prioritású a régió biztonsági helyzete miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:24.287383+00:00"
+    },
+    "record:2116071965962252356": {
+      "hu_text": "Figyelem: Az amerikai Trump-kormányzat állítólag 35 millió dolláros katonai segélyt fogadott el egy kameruni egység számára, amely háborús bűncselekményekkel vádolt, cserébe az Egyesült Államokból kitoloncolt migránsok befogadásáért. A program páncélozott járműveket is tartalmaz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állítás katonai segélyről és migránsok befogadásáról, de nincs megerősített forrás vagy bizonyíték. Magas prioritású a politikai és migrációs következmények miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:24.287386+00:00"
     }
   },
   "legacy_reviews": {}
