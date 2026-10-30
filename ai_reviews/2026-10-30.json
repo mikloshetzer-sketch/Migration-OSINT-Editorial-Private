@@ -749,6 +749,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T20:20:41.060679+00:00"
+    },
+    "telegram:1261826972:54070": {
+      "hu_text": "A Vox párt felelőssé teszi Sánchez spanyol miniszterelnököt azért, hogy Ceutát olyan területté alakította, ahol az „inváziósok” el tudnak rejtőzni. Juan Sergio Redondo azt állítja, hogy több száz menedékkérő „eltűnt a hatóságok ellenőrzése alól”, és követeli a helyzetük felderítését és kitoloncolásukat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások egy politikai párttól, amelyek nem bizonyítottak, és nem áll rendelkezésre független megerősítés. A témakör migrációval kapcsolatos, de az állítások ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:47.015270+00:00"
+    },
+    "telegram:1688600455:1172": {
+      "hu_text": "Egy hollandiai lakhatási szabályról szóló tájékoztatás, amely szerint Hollandiában az „egy lakás – egy család” elv érvényesül, és két család közös lakhatását akár el is utasíthatják, még közeli rokonok esetén is. Példaként két nővér és gyermekeik közös bérlését említik, akik külön háztartásnak számítanak, ezért külön engedély szükséges. A szöveg egy podcastot is ajánl, amelyben egy ingatlanos szakértő beszél a holland lakáspiacról és a bérleti szerződések előtti teendőkről.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Információ egy adott ország lakhatási szabályairól, amely nem tartalmaz vitatható vagy bizonyítatlan állítást, inkább tájékoztató jellegű. Nem igényel azonnali ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:47.015290+00:00"
     }
   },
   "legacy_reviews": {}
