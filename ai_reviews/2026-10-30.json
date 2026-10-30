@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-30",
+  "reviews": {
+    "group:618": {
+      "hu_text": "Forrás: NY Post (október 29.) — Homan: szeptemberi kitoloncolások rekordot döntöttek az ICE-nél, New Yorkot együttműködésre figyelmeztették.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hivatalos forrásra hivatkozik, de nincs közvetlen bizonyíték a szövegben, ezért ellenőrizetlen. Fontos a migrációs politika szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:27:52.999517+00:00"
+    },
+    "group:619": {
+      "hu_text": "Ő egy félénk parszi menekültként érkezett Zanzibárból Angliába, pénz és támogatás nélkül. A zeneiparnak nem volt mintája számára, ezért Farrokh Bulsara megalkotta sajátját – Freddie Mercury néven vált ismertté, egy római isten nevét vette fel, királyi címerrel. Senki más a rockban nem volt ilyen.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy ismert életrajzi történet, nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikához.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:27:52.999539+00:00"
+    },
+    "information:23109": {
+      "hu_text": "Lehetséges-e még 2026-ban az Egyesült Államokba belépni a mexikói határon keresztül és az országban maradni? Egy közép-ázsiai üzbég állampolgár őszinte, naprakész információkat keres a határhelyzetről, a migránsok sorsáról, a nemzetiség szerepéről, valamint a legális bevándorlási lehetőségekről munkavállalás és jobb élet reményében.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy információs jelzés, kérdés a migrációs helyzetről, nem állítás, ezért ellenőrizetlen. Fontos a migrációs szándék megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:27:52.999546+00:00"
+    },
+    "information:23113": {
+      "hu_text": "@foreverusa76 Zárják le a határokat, és mondják meg Franciaországnak, hogy minden migráns hajó mellé egy halászhajó menjen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, nem tényállítás, ezért ellenőrizetlen. A társadalmi diskurzus része.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:27:52.999550+00:00"
+    },
+    "information:23116": {
+      "hu_text": "@MAGA__Patriot Grok?\nAz arab/muszlim rabszolga-kereskedelem szubszaharai afrikaiakkal (transz-szaharai, Vörös-tengeri és Indiai-óceáni útvonalakon) az egyik leghosszabb és legnagyobb a történelemben, kb. a 7. századtól (az arab hódítások és az iszlám terjedése Észak-Afrikában) egészen...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció, nem aktuális migrációs esemény vagy állítás, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:27:52.999554+00:00"
+    },
+    "record:2115961500460302621": {
+      "hu_text": "Belgium most már migránsokat küld az Egyesült Királyságba, itt Belgium és a rendőrség segíti a csónakos migránsokat a La Manche csatornán való átkelésben!",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás egy aktuális migrációs útvonalról és segítésről, de nincs megerősített bizonyíték, ezért ellenőrizetlen. Fontos a migrációs útvonalak és segítés megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T01:27:52.999558+00:00"
+    }
+  }
+}
