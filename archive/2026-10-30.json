@@ -133,6 +133,72 @@
       "text": "@EternalEnglish 263 migrants arrived by dinghy yesterday.\nIt appears a similar number will arrive today.\nOne boat was painted in the colours of the Kurdistan flag.\nThe only rationale is that the Gov is complicit in importing dangerous migrants.",
       "url": "https://x.com/sean_russe76226/status/2116171048341344363",
       "source_url": "https://x.com/sean_russe76226/status/2116171048341344363"
+    },
+    {
+      "id": 781,
+      "event_id": 781,
+      "source": "X",
+      "source_post_id": "2116256984320393303",
+      "author": "dellavaris",
+      "published_at": "2026-10-30T19:52:37Z",
+      "collected_at": "2026-10-30T20:19:43Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "National scraps family violence prevention but gives $18 million to newly arrived econo-migrants to fight workplace abuse by other fresh-off-a-plane econo-migrants 🙄\n\nhttps://t.co/ug5ZIlWF4r",
+      "url": "https://x.com/dellavaris/status/2116256984320393303",
+      "source_url": "https://x.com/dellavaris/status/2116256984320393303"
+    },
+    {
+      "id": 782,
+      "event_id": 782,
+      "source": "X",
+      "source_post_id": "2116249968860148046",
+      "author": "britmatters",
+      "published_at": "2026-10-30T19:24:45Z",
+      "collected_at": "2026-10-30T20:19:44Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "Armed Migrants: Coming To A Council House Near You 🔪\n\nOver the past two days, 263 migrants arrived in three boats, with another 400-520 crossing in six to eight boats today, bringing the total to roughly 660-780 following a pause in crossings due to poor weather.\n\nThe Home https://t.co/2XPD7iXypv",
+      "url": "https://x.com/britmatters/status/2116249968860148046",
+      "source_url": "https://x.com/britmatters/status/2116249968860148046"
+    },
+    {
+      "id": 780,
+      "event_id": 780,
+      "source": "X",
+      "source_post_id": "2116244371020382553",
+      "author": "waslnew",
+      "published_at": "2026-10-30T19:02:30Z",
+      "collected_at": "2026-10-30T20:17:13Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "The New York Times: Washington Plans to Deport Dozens of Detained Afghan Migrants in Louisiana to Afghanistan via Pakistan\n\nThe United States plans to transport dozens of Afghan migrants detained in the state of Louisiana by air to Pakistan, in preparation for their subsequent https://t.co/7mHD8mtrY3",
+      "url": "https://x.com/waslnew/status/2116244371020382553",
+      "source_url": "https://x.com/waslnew/status/2116244371020382553"
     }
   ],
   "event_groups": [
@@ -251,6 +317,93 @@
       "average_confidence": 0.55,
       "created_at": "2026-10-30T14:40:36Z",
       "updated_at": "2026-10-30T14:41:53Z"
+    },
+    {
+      "id": 623,
+      "group_id": 623,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "National scraps family violence prevention but gives $18 million to newly arrived econo-migrants to fight workplace abuse by other fresh-off-a-plane econo-migrants 🙄\n\nhttps://t.co/ug5ZIlWF4r",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-30T19:52:37Z",
+      "last_seen": "2026-10-30T19:52:37Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-30T20:19:43Z",
+      "updated_at": "2026-10-30T20:19:43Z"
+    },
+    {
+      "id": 624,
+      "group_id": 624,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "Armed Migrants: Coming To A Council House Near You 🔪\n\nOver the past two days, 263 migrants arrived in three boats, with another 400-520 crossing in six to eight boats today, bringing the total to roughly 660-780 following a pause in crossings due to poor weather.\n\nThe Home https://t.co/2XPD7iXypv",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-30T19:24:45Z",
+      "last_seen": "2026-10-30T19:24:45Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-10-30T20:19:44Z",
+      "updated_at": "2026-10-30T20:19:44Z"
+    },
+    {
+      "id": 622,
+      "group_id": 622,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION - AMERICAS",
+      "representative_text": "The New York Times: Washington Plans to Deport Dozens of Detained Afghan Migrants in Louisiana to Afghanistan via Pakistan\n\nThe United States plans to transport dozens of Afghan migrants detained in the state of Louisiana by air to Pakistan, in preparation for their subsequent https://t.co/7mHD8mtrY3",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-30T19:02:30Z",
+      "last_seen": "2026-10-30T19:02:30Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-10-30T20:17:13Z",
+      "updated_at": "2026-10-30T20:17:13Z"
     }
   ],
   "influence_signals": [
@@ -752,6 +905,173 @@
       ],
       "high_value_matches": [
         "migrants have REPORTEDLY crossed the Channel in six small boats today, a day after 263 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1264,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlcyw",
+      "author": "Reddenbawker",
+      "language": null,
+      "published_at": "2026-10-30T17:16:10Z",
+      "first_detected_at": "2026-10-30T20:19:46Z",
+      "last_detected_at": "2026-10-30T20:19:46Z",
+      "detection_count": 1,
+      "text": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey Renault Clio had randomly opened fire in the streets. He narrowly missed a mother and her daughter in their car on Avenue Hector-Berlioz, and on Avenue Salvador Allende, he killed Pengo Wossio Bengi, 26. Between the Esso gas station on Boulevard Martin-Luther King, where he went next, and the Bois de l’Étang pharmacy he tried to get into but his gun jammed, he managed to fire 128 bullets, gravely injuring five other people, including a 12-year-old girl on her way to the town pool, who got shot eight times. All the victims appeared to be either Black or Arab. Between the riots of the previous weekend and the expected demonstrations the next day, the timing could not have been more sensitive. Usually reluctant to get involved, the National Anti-Terrorism Prosecutor’s Office (PNAT) immediately issued a statement that it had opened a murder investigation “in connection with a terrorist enterprise.” Macron issued his own statement right afterwards expressing his “deep emotion,” and rushed to Trappes to emphasize twice in front of the cameras PNAT’s categorization of the shooting as a terrorist act. What Macron said that infuriated public opinion in general, and Jews in particular, is worth quoting at length despite the platitudes: “What happened today was a racist terrorist attack, as characterized by the National Anti-Terrorism Prosecutor’s Office. It left six victims. A man was killed this morning by one of our fellow citizens on the basis of a racist ideology. … What happened is a turning point because it is the first time a terrorist attack was planned to kill our fellow citizens, our children, because of the color of their skin or the religion they were raised in.” Then, in response to a reporter’s question, he added: “It is a racist terror attack qualified as such by the judicial authorities. As I just said, this is a first in our country.” The PNAT added aggravating circumstances to the Trappes shooting because they were perpetrated “on the basis of actual or supposed membership in a particular race, ethnicity, nation, or religion”—phrasing that’s in line with a bill to toughen penalties for racist, antisemitic, or xenophobic crimes that Jewish Representative Pierre Lelouche introduced in 2003 to combat the rising attacks on Jewish French citizens at the time. So, ironically, by characterizing this latest attack as a first, Macron destroyed the reason for the law he was referencing. Not only that, with a few sentences, he also erased the killing of Myriam Monsonego (8), Gabriel and Arié Sandler (3 and 6) and their father Jonathan Sandler at the Ozar Hatorah school in Toulouse in 2012; the killing of Yohan Cohen (20) Philippe Braham (45) Yoav Hattab (21), and François-Michel Saada (64) at the Hypercasher kosher supermarket in January 2015; the machete attack against a Jewish man on a street in Marseille in January 2016; the killing of Father Jacques Amel in his church by two Islamists in July 2016; the killing of three Christian worshippers by an Islamist in the Notre-Dame de Nice basilica in October 2020; the knife killing of the Iraqi Christian Ashur Sarnaya in Lyon in 2025, and, more generally, the 62 Islamist terror attacks that have claimed 270 lives since March 2012. The immediate backlash was so fierce that Macron had to issue a second, longer statement later that day: “I also want to reiterate a fundamental truth and avoid any controversy. In recent years, our country has experienced attacks that targeted Christians simply because they were Christians, and Jews simply because they were Jews. None of these victims should be forgotten. No grief should be ranked above another.” What could explain such a fantastic blunder? Let’s put it this way: The whole Trappes sequence illustrates best the encounter between a powerless president floating in his dematerialized technocratic paradise, where communications reigns supreme, and a country that has become opaque even to itself. The city of Trappes is a case in point. A commuter town built near automobile factories in the ’60s, Trappes received a massive influx of immigrants from what were then the slums of Nanterre. The immigrant population rose by 325% between 1968 and 1975. For a while, a strong communist leadership provided educational support, summer camps, community organizations that fostered the emergence of local talents (like actors Omar Sy). But in the early ’90s the arrival of members of the Armed Islamic Group of Algeria (GIA), Tablighi preachers, and Muslim Brotherhood members changed that. During the 2000s, the construction of a large mosque, the growing social pressure which translated into control over women, and opposition to schools and science coincided with the burning of the city’s synagogue and the exodus of the Jewish community. In the 2010s, with only 35,000 inhabitants, Trappes had one of the highest rates in Europe of local jihadists traveling to Syria and Iraq. There’s also the large-scale drug trafficking and chronic shootings (including one which occurred near a private hospital only three days after the Trappes attack). Add to that the complete takeover of local social culture by Islamists and/or political organizations aligned with Jean-Luc Mélenchon’s La France Insoumise (LFI), and the death threats against any heterodox speech, and you begin to get a sense of what daily life looks like in a urban maze where labels and identities are everything, but nobody is who they seem to be. For instance, since his murder, Pengo Wossio Bengi, one of the victims of the Trappes shooting, has been systematically honored by self-proclaimed spokespersons for the citizens of Trappes as “a brother,” that is to say a Muslim, even though according to what his sister posted on X, the family is evangelical Protestant. Bengi’s suspected killer, who was apprehended the morning of the shooting and identified as “Kévin T.” (39), is another example of that fragmented reality. Following Macron’s statements that day, the media immediately identified the suspect as a far-right activist. Adding his voice to the choir, which includes LFI’s star figures, Trappes’ mayor Ali Rabeh denounced Kévin T.’s fascism and “Islamophobia.” According to the PNAT prosecutor, who spoke to the press twice between Oct. 26 and 29, in addition to the WWII-era Sten gun that the suspect used for his shooting spree, the police also found in his car a fake police armband, a pair of handcuffs, and a knife—materials that suggest further intended actions that he did not have time to carry out. The cops who searched the suspected shooter’s place in the nearby town of Guyancourt found an apartment booby-trapped with a gas cylinder, a copy of Mein Kampf along with the Bible and the Quran, a series of homemade stickers supporting Marine Le Pen’s Rassemblement National party (RN), and flyers supporting the police. By Oct. 29, Kévin T. had admitted his racist motivation and ultra-right views, which was confirmed by several witnesses in his surroundings. Nothing, however, quite explains the picture from a 2018 event in Guyancourt, the city where he lives, organized by the Association France-Palestine Solidarité (AFPS), a left-wing group whose honorary president Taoufiq Tahani endorsed the Oct. 7, 2023 attacks, in which he appears. (The AFPS did not deny the authenticity of the picture, and quietly took it down.) When considered alongside Kévin T.’s psychological frailty, which had led the authorities to require a psychiatric evaluation, this picture suggests a psychological/existential wandering in a social environment marked by pressure to belong to one group or another. No less confusing, even as Trappes’ mayor Ali Rabeh denounced Kévin T. as a fascist, the man standing alongside the mayor during the press conference was the Muslim “influencer” Elias d’Imzalène. D’Imzalène is a former sympathizer of the far-right antisemite Alain Soral, and is currently an activist close to LFI and a member of “Urgence Palestine,” a movement that supports Palestinian “resistance.” Notably, the police did find a copy of Mein Kampf in d’Imzalène’s apartment following the Bataclan massacre in November 2015, according to L’Express and Libération . Again, in Trappes as in the rest of the country, words are disconnected from reality. Perhaps nothing better illustrates this disconnect than what happened on Oct. 24 in Orléans, where Le Pen’s RN held its national congress. Outside, an “anti-fascist” protest mostly comprised of middled-aged demonstrators marched against the congress while waving two huge Palestinian flags, as though one had anything to do with the other. Meanwhile inside, where Jordan Bardella was being reelected party president with 98% of the vote (a score that gives an indication of the party’s conception of a functioning democracy), a group of Jewish students, members of the the moderate left Jewish Student Union of France (UEJF) began to shout in protest. A few weeks earlier, the left-wing site Mediapart had broken the news that Bardella had been a fierce antisemite and an admirer of Soral in 2013-2015. (Bardella denies it rather unconvincingly). In a video showing the students being removed by force, one can see a member of the congress doing a Nazi salute. “We will never tolerate the far-left extremists,” said Bardella after the Jewish students were expelled. The same disconnect exists on the other side. Also on Oct. 24, a reporter asked a student what a company should do if the student demand to remove selection criteria for university admissions were to materialize, resulting in far too many students with college degrees, that company ends up with 100 applicants for a single job opening. The student answered, “well, it should create 99 other jobs.” The response underscores the complete disconnect between people’s slogans, or even sincere beliefs, and the reality of the country they live in. The two most active parties in France today, LFI and RN, both want to resurrect the welfare state as it existed in the ‘70s—the former, by “taxing the rich,” and the latter by taking back the money from the migrants who supposedly stole it. Which brings us back to Emmanuel Macron. As the president posed for the cameras in Trappes, the country was bracing for renewed violent street action the following day in response to the Oct. 17 riots. Despite some serious incidents in Marseille and Lyon, the demonstrations that took place on Oct. 24 were more or less kept under control across the country, in contrast with what was going on in Barcelona, Rome, and Florence. But the government maintained calm at the cost of a massive deployment of police forces, and what appears to have been heavy censorship. This week, the left wing outlet Blast published a letter that Prime Minister Sébastien Lecornu sent to Meta and to the chief executives of France’s four major telecom operators two days before the Oct. 24 protests, asking them to prepare to temporarily block access to Snapchat, TikTok, Instagram, and X and to “proceed without delay if I give the instruction.” This measure was supposed to control the “illicit calls” to riots coming from TikTok and Snapshat influencers that had circulated online before Oct. 17. As of this writing, a new national demonstration is expected Oct. 30, this time organized by the Yellow Vests. Or at least, that’s what they say.",
+      "text_excerpt": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey R",
+      "url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "source_url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 68.65,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1262,
+      "source": "X",
+      "source_post_id": "2116261660633493826",
+      "author": "joslobie",
+      "language": "en",
+      "published_at": "2026-10-30T20:11:12Z",
+      "first_detected_at": "2026-10-30T20:16:17Z",
+      "last_detected_at": "2026-10-30T20:16:17Z",
+      "detection_count": 1,
+      "text": "@gryzak_wredny @bigmac0351 @EYakoby @grok Complete lie. Tusk&amp;his cronies are trting to paint Nawrocki as proputin so that they can oust him. Nawrocki is very anti-russia which he has proven during his career as a historian. Tusk did a reset with Russia and joined putins migrants in 21' during the raid on our border.",
+      "text_excerpt": "@gryzak_wredny @bigmac0351 @EYakoby @grok Complete lie. Tusk&amp;his cronies are trting to paint Nawrocki as proputin so that they can oust him. Nawrocki is very anti-russia which he has proven during his career as a historian. Tusk did a reset with Russia and joined putins migrants in 21' during the raid on our border.",
+      "url": "https://x.com/joslobie/status/2116261660633493826",
+      "source_url": "https://x.com/joslobie/status/2116261660633493826",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "raid"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1263,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjibax",
+      "author": "Little-Attorney1287",
+      "language": null,
+      "published_at": "2026-10-30T15:23:49Z",
+      "first_detected_at": "2026-10-30T20:16:45Z",
+      "last_detected_at": "2026-10-30T20:16:45Z",
+      "detection_count": 1,
+      "text": "Nigel Farage: 'Chaos in the Channel today. Hundreds of migrants crossing. A lifeboat in Dungeness had 80 illegal migrants on board. A man boarded a boat in Hardelot wielding a knife, screaming, \"I will kill you.\" He will be in Britain soon. Does @AndyBurnham care?'",
+      "text_excerpt": "Nigel Farage: 'Chaos in the Channel today. Hundreds of migrants crossing. A lifeboat in Dungeness had 80 illegal migrants on board. A man boarded a boat in Hardelot wielding a knife, screaming, \"I will kill you.\" He will be in Britain soon. Does @AndyBurnham care?'",
+      "url": "https://www.reddit.com/r/ukpolitics/comments/1xjibax/nigel_farage_chaos_in_the_channel_today_hundreds/",
+      "source_url": "https://www.reddit.com/r/ukpolitics/comments/1xjibax/nigel_farage_chaos_in_the_channel_today_hundreds/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants crossing"
       ],
       "signal_context_rejections": [],
       "migration_context": true,
@@ -1287,6 +1607,173 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1264,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlcyw",
+      "author": "Reddenbawker",
+      "language": null,
+      "published_at": "2026-10-30T17:16:10Z",
+      "first_detected_at": "2026-10-30T20:19:46Z",
+      "last_detected_at": "2026-10-30T20:19:46Z",
+      "detection_count": 1,
+      "text": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey Renault Clio had randomly opened fire in the streets. He narrowly missed a mother and her daughter in their car on Avenue Hector-Berlioz, and on Avenue Salvador Allende, he killed Pengo Wossio Bengi, 26. Between the Esso gas station on Boulevard Martin-Luther King, where he went next, and the Bois de l’Étang pharmacy he tried to get into but his gun jammed, he managed to fire 128 bullets, gravely injuring five other people, including a 12-year-old girl on her way to the town pool, who got shot eight times. All the victims appeared to be either Black or Arab. Between the riots of the previous weekend and the expected demonstrations the next day, the timing could not have been more sensitive. Usually reluctant to get involved, the National Anti-Terrorism Prosecutor’s Office (PNAT) immediately issued a statement that it had opened a murder investigation “in connection with a terrorist enterprise.” Macron issued his own statement right afterwards expressing his “deep emotion,” and rushed to Trappes to emphasize twice in front of the cameras PNAT’s categorization of the shooting as a terrorist act. What Macron said that infuriated public opinion in general, and Jews in particular, is worth quoting at length despite the platitudes: “What happened today was a racist terrorist attack, as characterized by the National Anti-Terrorism Prosecutor’s Office. It left six victims. A man was killed this morning by one of our fellow citizens on the basis of a racist ideology. … What happened is a turning point because it is the first time a terrorist attack was planned to kill our fellow citizens, our children, because of the color of their skin or the religion they were raised in.” Then, in response to a reporter’s question, he added: “It is a racist terror attack qualified as such by the judicial authorities. As I just said, this is a first in our country.” The PNAT added aggravating circumstances to the Trappes shooting because they were perpetrated “on the basis of actual or supposed membership in a particular race, ethnicity, nation, or religion”—phrasing that’s in line with a bill to toughen penalties for racist, antisemitic, or xenophobic crimes that Jewish Representative Pierre Lelouche introduced in 2003 to combat the rising attacks on Jewish French citizens at the time. So, ironically, by characterizing this latest attack as a first, Macron destroyed the reason for the law he was referencing. Not only that, with a few sentences, he also erased the killing of Myriam Monsonego (8), Gabriel and Arié Sandler (3 and 6) and their father Jonathan Sandler at the Ozar Hatorah school in Toulouse in 2012; the killing of Yohan Cohen (20) Philippe Braham (45) Yoav Hattab (21), and François-Michel Saada (64) at the Hypercasher kosher supermarket in January 2015; the machete attack against a Jewish man on a street in Marseille in January 2016; the killing of Father Jacques Amel in his church by two Islamists in July 2016; the killing of three Christian worshippers by an Islamist in the Notre-Dame de Nice basilica in October 2020; the knife killing of the Iraqi Christian Ashur Sarnaya in Lyon in 2025, and, more generally, the 62 Islamist terror attacks that have claimed 270 lives since March 2012. The immediate backlash was so fierce that Macron had to issue a second, longer statement later that day: “I also want to reiterate a fundamental truth and avoid any controversy. In recent years, our country has experienced attacks that targeted Christians simply because they were Christians, and Jews simply because they were Jews. None of these victims should be forgotten. No grief should be ranked above another.” What could explain such a fantastic blunder? Let’s put it this way: The whole Trappes sequence illustrates best the encounter between a powerless president floating in his dematerialized technocratic paradise, where communications reigns supreme, and a country that has become opaque even to itself. The city of Trappes is a case in point. A commuter town built near automobile factories in the ’60s, Trappes received a massive influx of immigrants from what were then the slums of Nanterre. The immigrant population rose by 325% between 1968 and 1975. For a while, a strong communist leadership provided educational support, summer camps, community organizations that fostered the emergence of local talents (like actors Omar Sy). But in the early ’90s the arrival of members of the Armed Islamic Group of Algeria (GIA), Tablighi preachers, and Muslim Brotherhood members changed that. During the 2000s, the construction of a large mosque, the growing social pressure which translated into control over women, and opposition to schools and science coincided with the burning of the city’s synagogue and the exodus of the Jewish community. In the 2010s, with only 35,000 inhabitants, Trappes had one of the highest rates in Europe of local jihadists traveling to Syria and Iraq. There’s also the large-scale drug trafficking and chronic shootings (including one which occurred near a private hospital only three days after the Trappes attack). Add to that the complete takeover of local social culture by Islamists and/or political organizations aligned with Jean-Luc Mélenchon’s La France Insoumise (LFI), and the death threats against any heterodox speech, and you begin to get a sense of what daily life looks like in a urban maze where labels and identities are everything, but nobody is who they seem to be. For instance, since his murder, Pengo Wossio Bengi, one of the victims of the Trappes shooting, has been systematically honored by self-proclaimed spokespersons for the citizens of Trappes as “a brother,” that is to say a Muslim, even though according to what his sister posted on X, the family is evangelical Protestant. Bengi’s suspected killer, who was apprehended the morning of the shooting and identified as “Kévin T.” (39), is another example of that fragmented reality. Following Macron’s statements that day, the media immediately identified the suspect as a far-right activist. Adding his voice to the choir, which includes LFI’s star figures, Trappes’ mayor Ali Rabeh denounced Kévin T.’s fascism and “Islamophobia.” According to the PNAT prosecutor, who spoke to the press twice between Oct. 26 and 29, in addition to the WWII-era Sten gun that the suspect used for his shooting spree, the police also found in his car a fake police armband, a pair of handcuffs, and a knife—materials that suggest further intended actions that he did not have time to carry out. The cops who searched the suspected shooter’s place in the nearby town of Guyancourt found an apartment booby-trapped with a gas cylinder, a copy of Mein Kampf along with the Bible and the Quran, a series of homemade stickers supporting Marine Le Pen’s Rassemblement National party (RN), and flyers supporting the police. By Oct. 29, Kévin T. had admitted his racist motivation and ultra-right views, which was confirmed by several witnesses in his surroundings. Nothing, however, quite explains the picture from a 2018 event in Guyancourt, the city where he lives, organized by the Association France-Palestine Solidarité (AFPS), a left-wing group whose honorary president Taoufiq Tahani endorsed the Oct. 7, 2023 attacks, in which he appears. (The AFPS did not deny the authenticity of the picture, and quietly took it down.) When considered alongside Kévin T.’s psychological frailty, which had led the authorities to require a psychiatric evaluation, this picture suggests a psychological/existential wandering in a social environment marked by pressure to belong to one group or another. No less confusing, even as Trappes’ mayor Ali Rabeh denounced Kévin T. as a fascist, the man standing alongside the mayor during the press conference was the Muslim “influencer” Elias d’Imzalène. D’Imzalène is a former sympathizer of the far-right antisemite Alain Soral, and is currently an activist close to LFI and a member of “Urgence Palestine,” a movement that supports Palestinian “resistance.” Notably, the police did find a copy of Mein Kampf in d’Imzalène’s apartment following the Bataclan massacre in November 2015, according to L’Express and Libération . Again, in Trappes as in the rest of the country, words are disconnected from reality. Perhaps nothing better illustrates this disconnect than what happened on Oct. 24 in Orléans, where Le Pen’s RN held its national congress. Outside, an “anti-fascist” protest mostly comprised of middled-aged demonstrators marched against the congress while waving two huge Palestinian flags, as though one had anything to do with the other. Meanwhile inside, where Jordan Bardella was being reelected party president with 98% of the vote (a score that gives an indication of the party’s conception of a functioning democracy), a group of Jewish students, members of the the moderate left Jewish Student Union of France (UEJF) began to shout in protest. A few weeks earlier, the left-wing site Mediapart had broken the news that Bardella had been a fierce antisemite and an admirer of Soral in 2013-2015. (Bardella denies it rather unconvincingly). In a video showing the students being removed by force, one can see a member of the congress doing a Nazi salute. “We will never tolerate the far-left extremists,” said Bardella after the Jewish students were expelled. The same disconnect exists on the other side. Also on Oct. 24, a reporter asked a student what a company should do if the student demand to remove selection criteria for university admissions were to materialize, resulting in far too many students with college degrees, that company ends up with 100 applicants for a single job opening. The student answered, “well, it should create 99 other jobs.” The response underscores the complete disconnect between people’s slogans, or even sincere beliefs, and the reality of the country they live in. The two most active parties in France today, LFI and RN, both want to resurrect the welfare state as it existed in the ‘70s—the former, by “taxing the rich,” and the latter by taking back the money from the migrants who supposedly stole it. Which brings us back to Emmanuel Macron. As the president posed for the cameras in Trappes, the country was bracing for renewed violent street action the following day in response to the Oct. 17 riots. Despite some serious incidents in Marseille and Lyon, the demonstrations that took place on Oct. 24 were more or less kept under control across the country, in contrast with what was going on in Barcelona, Rome, and Florence. But the government maintained calm at the cost of a massive deployment of police forces, and what appears to have been heavy censorship. This week, the left wing outlet Blast published a letter that Prime Minister Sébastien Lecornu sent to Meta and to the chief executives of France’s four major telecom operators two days before the Oct. 24 protests, asking them to prepare to temporarily block access to Snapchat, TikTok, Instagram, and X and to “proceed without delay if I give the instruction.” This measure was supposed to control the “illicit calls” to riots coming from TikTok and Snapshat influencers that had circulated online before Oct. 17. As of this writing, a new national demonstration is expected Oct. 30, this time organized by the Yellow Vests. Or at least, that’s what they say.",
+      "text_excerpt": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey R",
+      "url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "source_url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 68.65,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1262,
+      "source": "X",
+      "source_post_id": "2116261660633493826",
+      "author": "joslobie",
+      "language": "en",
+      "published_at": "2026-10-30T20:11:12Z",
+      "first_detected_at": "2026-10-30T20:16:17Z",
+      "last_detected_at": "2026-10-30T20:16:17Z",
+      "detection_count": 1,
+      "text": "@gryzak_wredny @bigmac0351 @EYakoby @grok Complete lie. Tusk&amp;his cronies are trting to paint Nawrocki as proputin so that they can oust him. Nawrocki is very anti-russia which he has proven during his career as a historian. Tusk did a reset with Russia and joined putins migrants in 21' during the raid on our border.",
+      "text_excerpt": "@gryzak_wredny @bigmac0351 @EYakoby @grok Complete lie. Tusk&amp;his cronies are trting to paint Nawrocki as proputin so that they can oust him. Nawrocki is very anti-russia which he has proven during his career as a historian. Tusk did a reset with Russia and joined putins migrants in 21' during the raid on our border.",
+      "url": "https://x.com/joslobie/status/2116261660633493826",
+      "source_url": "https://x.com/joslobie/status/2116261660633493826",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "raid"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1263,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjibax",
+      "author": "Little-Attorney1287",
+      "language": null,
+      "published_at": "2026-10-30T15:23:49Z",
+      "first_detected_at": "2026-10-30T20:16:45Z",
+      "last_detected_at": "2026-10-30T20:16:45Z",
+      "detection_count": 1,
+      "text": "Nigel Farage: 'Chaos in the Channel today. Hundreds of migrants crossing. A lifeboat in Dungeness had 80 illegal migrants on board. A man boarded a boat in Hardelot wielding a knife, screaming, \"I will kill you.\" He will be in Britain soon. Does @AndyBurnham care?'",
+      "text_excerpt": "Nigel Farage: 'Chaos in the Channel today. Hundreds of migrants crossing. A lifeboat in Dungeness had 80 illegal migrants on board. A man boarded a boat in Hardelot wielding a knife, screaming, \"I will kill you.\" He will be in Britain soon. Does @AndyBurnham care?'",
+      "url": "https://www.reddit.com/r/ukpolitics/comments/1xjibax/nigel_farage_chaos_in_the_channel_today_hundreds/",
+      "source_url": "https://www.reddit.com/r/ukpolitics/comments/1xjibax/nigel_farage_chaos_in_the_channel_today_hundreds/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1506,6 +1993,73 @@
       ],
       "related_sources": [
         "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1264,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlcyw",
+      "author": "Reddenbawker",
+      "language": null,
+      "published_at": "2026-10-30T17:16:10Z",
+      "first_detected_at": "2026-10-30T20:19:46Z",
+      "last_detected_at": "2026-10-30T20:19:46Z",
+      "detection_count": 1,
+      "text": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey Renault Clio had randomly opened fire in the streets. He narrowly missed a mother and her daughter in their car on Avenue Hector-Berlioz, and on Avenue Salvador Allende, he killed Pengo Wossio Bengi, 26. Between the Esso gas station on Boulevard Martin-Luther King, where he went next, and the Bois de l’Étang pharmacy he tried to get into but his gun jammed, he managed to fire 128 bullets, gravely injuring five other people, including a 12-year-old girl on her way to the town pool, who got shot eight times. All the victims appeared to be either Black or Arab. Between the riots of the previous weekend and the expected demonstrations the next day, the timing could not have been more sensitive. Usually reluctant to get involved, the National Anti-Terrorism Prosecutor’s Office (PNAT) immediately issued a statement that it had opened a murder investigation “in connection with a terrorist enterprise.” Macron issued his own statement right afterwards expressing his “deep emotion,” and rushed to Trappes to emphasize twice in front of the cameras PNAT’s categorization of the shooting as a terrorist act. What Macron said that infuriated public opinion in general, and Jews in particular, is worth quoting at length despite the platitudes: “What happened today was a racist terrorist attack, as characterized by the National Anti-Terrorism Prosecutor’s Office. It left six victims. A man was killed this morning by one of our fellow citizens on the basis of a racist ideology. … What happened is a turning point because it is the first time a terrorist attack was planned to kill our fellow citizens, our children, because of the color of their skin or the religion they were raised in.” Then, in response to a reporter’s question, he added: “It is a racist terror attack qualified as such by the judicial authorities. As I just said, this is a first in our country.” The PNAT added aggravating circumstances to the Trappes shooting because they were perpetrated “on the basis of actual or supposed membership in a particular race, ethnicity, nation, or religion”—phrasing that’s in line with a bill to toughen penalties for racist, antisemitic, or xenophobic crimes that Jewish Representative Pierre Lelouche introduced in 2003 to combat the rising attacks on Jewish French citizens at the time. So, ironically, by characterizing this latest attack as a first, Macron destroyed the reason for the law he was referencing. Not only that, with a few sentences, he also erased the killing of Myriam Monsonego (8), Gabriel and Arié Sandler (3 and 6) and their father Jonathan Sandler at the Ozar Hatorah school in Toulouse in 2012; the killing of Yohan Cohen (20) Philippe Braham (45) Yoav Hattab (21), and François-Michel Saada (64) at the Hypercasher kosher supermarket in January 2015; the machete attack against a Jewish man on a street in Marseille in January 2016; the killing of Father Jacques Amel in his church by two Islamists in July 2016; the killing of three Christian worshippers by an Islamist in the Notre-Dame de Nice basilica in October 2020; the knife killing of the Iraqi Christian Ashur Sarnaya in Lyon in 2025, and, more generally, the 62 Islamist terror attacks that have claimed 270 lives since March 2012. The immediate backlash was so fierce that Macron had to issue a second, longer statement later that day: “I also want to reiterate a fundamental truth and avoid any controversy. In recent years, our country has experienced attacks that targeted Christians simply because they were Christians, and Jews simply because they were Jews. None of these victims should be forgotten. No grief should be ranked above another.” What could explain such a fantastic blunder? Let’s put it this way: The whole Trappes sequence illustrates best the encounter between a powerless president floating in his dematerialized technocratic paradise, where communications reigns supreme, and a country that has become opaque even to itself. The city of Trappes is a case in point. A commuter town built near automobile factories in the ’60s, Trappes received a massive influx of immigrants from what were then the slums of Nanterre. The immigrant population rose by 325% between 1968 and 1975. For a while, a strong communist leadership provided educational support, summer camps, community organizations that fostered the emergence of local talents (like actors Omar Sy). But in the early ’90s the arrival of members of the Armed Islamic Group of Algeria (GIA), Tablighi preachers, and Muslim Brotherhood members changed that. During the 2000s, the construction of a large mosque, the growing social pressure which translated into control over women, and opposition to schools and science coincided with the burning of the city’s synagogue and the exodus of the Jewish community. In the 2010s, with only 35,000 inhabitants, Trappes had one of the highest rates in Europe of local jihadists traveling to Syria and Iraq. There’s also the large-scale drug trafficking and chronic shootings (including one which occurred near a private hospital only three days after the Trappes attack). Add to that the complete takeover of local social culture by Islamists and/or political organizations aligned with Jean-Luc Mélenchon’s La France Insoumise (LFI), and the death threats against any heterodox speech, and you begin to get a sense of what daily life looks like in a urban maze where labels and identities are everything, but nobody is who they seem to be. For instance, since his murder, Pengo Wossio Bengi, one of the victims of the Trappes shooting, has been systematically honored by self-proclaimed spokespersons for the citizens of Trappes as “a brother,” that is to say a Muslim, even though according to what his sister posted on X, the family is evangelical Protestant. Bengi’s suspected killer, who was apprehended the morning of the shooting and identified as “Kévin T.” (39), is another example of that fragmented reality. Following Macron’s statements that day, the media immediately identified the suspect as a far-right activist. Adding his voice to the choir, which includes LFI’s star figures, Trappes’ mayor Ali Rabeh denounced Kévin T.’s fascism and “Islamophobia.” According to the PNAT prosecutor, who spoke to the press twice between Oct. 26 and 29, in addition to the WWII-era Sten gun that the suspect used for his shooting spree, the police also found in his car a fake police armband, a pair of handcuffs, and a knife—materials that suggest further intended actions that he did not have time to carry out. The cops who searched the suspected shooter’s place in the nearby town of Guyancourt found an apartment booby-trapped with a gas cylinder, a copy of Mein Kampf along with the Bible and the Quran, a series of homemade stickers supporting Marine Le Pen’s Rassemblement National party (RN), and flyers supporting the police. By Oct. 29, Kévin T. had admitted his racist motivation and ultra-right views, which was confirmed by several witnesses in his surroundings. Nothing, however, quite explains the picture from a 2018 event in Guyancourt, the city where he lives, organized by the Association France-Palestine Solidarité (AFPS), a left-wing group whose honorary president Taoufiq Tahani endorsed the Oct. 7, 2023 attacks, in which he appears. (The AFPS did not deny the authenticity of the picture, and quietly took it down.) When considered alongside Kévin T.’s psychological frailty, which had led the authorities to require a psychiatric evaluation, this picture suggests a psychological/existential wandering in a social environment marked by pressure to belong to one group or another. No less confusing, even as Trappes’ mayor Ali Rabeh denounced Kévin T. as a fascist, the man standing alongside the mayor during the press conference was the Muslim “influencer” Elias d’Imzalène. D’Imzalène is a former sympathizer of the far-right antisemite Alain Soral, and is currently an activist close to LFI and a member of “Urgence Palestine,” a movement that supports Palestinian “resistance.” Notably, the police did find a copy of Mein Kampf in d’Imzalène’s apartment following the Bataclan massacre in November 2015, according to L’Express and Libération . Again, in Trappes as in the rest of the country, words are disconnected from reality. Perhaps nothing better illustrates this disconnect than what happened on Oct. 24 in Orléans, where Le Pen’s RN held its national congress. Outside, an “anti-fascist” protest mostly comprised of middled-aged demonstrators marched against the congress while waving two huge Palestinian flags, as though one had anything to do with the other. Meanwhile inside, where Jordan Bardella was being reelected party president with 98% of the vote (a score that gives an indication of the party’s conception of a functioning democracy), a group of Jewish students, members of the the moderate left Jewish Student Union of France (UEJF) began to shout in protest. A few weeks earlier, the left-wing site Mediapart had broken the news that Bardella had been a fierce antisemite and an admirer of Soral in 2013-2015. (Bardella denies it rather unconvincingly). In a video showing the students being removed by force, one can see a member of the congress doing a Nazi salute. “We will never tolerate the far-left extremists,” said Bardella after the Jewish students were expelled. The same disconnect exists on the other side. Also on Oct. 24, a reporter asked a student what a company should do if the student demand to remove selection criteria for university admissions were to materialize, resulting in far too many students with college degrees, that company ends up with 100 applicants for a single job opening. The student answered, “well, it should create 99 other jobs.” The response underscores the complete disconnect between people’s slogans, or even sincere beliefs, and the reality of the country they live in. The two most active parties in France today, LFI and RN, both want to resurrect the welfare state as it existed in the ‘70s—the former, by “taxing the rich,” and the latter by taking back the money from the migrants who supposedly stole it. Which brings us back to Emmanuel Macron. As the president posed for the cameras in Trappes, the country was bracing for renewed violent street action the following day in response to the Oct. 17 riots. Despite some serious incidents in Marseille and Lyon, the demonstrations that took place on Oct. 24 were more or less kept under control across the country, in contrast with what was going on in Barcelona, Rome, and Florence. But the government maintained calm at the cost of a massive deployment of police forces, and what appears to have been heavy censorship. This week, the left wing outlet Blast published a letter that Prime Minister Sébastien Lecornu sent to Meta and to the chief executives of France’s four major telecom operators two days before the Oct. 24 protests, asking them to prepare to temporarily block access to Snapchat, TikTok, Instagram, and X and to “proceed without delay if I give the instruction.” This measure was supposed to control the “illicit calls” to riots coming from TikTok and Snapshat influencers that had circulated online before Oct. 17. As of this writing, a new national demonstration is expected Oct. 30, this time organized by the Yellow Vests. Or at least, that’s what they say.",
+      "text_excerpt": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey R",
+      "url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "source_url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 68.65,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xjlcyw"
+      ],
+      "related_authors": [
+        "Reddenbawker"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/"
+      ],
+      "related_sources": [
+        "REDDIT"
       ],
       "independent_author_count": 1,
       "platform_count": 1
@@ -2232,9 +2786,239 @@
       "first_collected_at": "2026-10-30T14:40:37Z",
       "last_collected_at": "2026-10-30T14:40:37Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23300",
+      "timestamp": "2026-10-30T20:05:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116260181436969286",
+      "author": "AnnBriggsomjf",
+      "url": "https://x.com/AnnBriggsomjf/status/2116260181436969286",
+      "source_url": "https://x.com/AnnBriggsomjf/status/2116260181436969286",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "boat",
+        "coast_guard",
+        "interception",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Maritime Interdictions: The video features footage of the U.S. Coast Guard and Border Patrol intercepting migrant smuggling boats near Florida and the Texas coast😇🙏🇺🇸🌎\nhttps://t.co/7xSUGm6SNj",
+      "text_excerpt": "Maritime Interdictions: The video features footage of the U.S. Coast Guard and Border Patrol intercepting migrant smuggling boats near Florida and the Texas coast😇🙏🇺🇸🌎\nhttps://t.co/7xSUGm6SNj",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T20:16:17Z",
+      "last_collected_at": "2026-10-30T20:16:17Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23305",
+      "timestamp": "2026-10-30T19:58:10Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116258378028863602",
+      "author": "LauraLFB",
+      "url": "https://x.com/LauraLFB/status/2116258378028863602",
+      "source_url": "https://x.com/LauraLFB/status/2116258378028863602",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Suspect they're doing this so all the migrants can come over \"legally\" under this scheme instead of via the channel, then they can claim they've \"beat the small boat gangs\"\nCon merchants. https://t.co/ustmO2muew",
+      "text_excerpt": "Suspect they're doing this so all the migrants can come over \"legally\" under this scheme instead of via the channel, then they can claim they've \"beat the small boat gangs\"\nCon merchants. https://t.co/ustmO2muew",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T20:16:44Z",
+      "last_collected_at": "2026-10-30T20:16:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23307",
+      "timestamp": "2026-10-30T19:42:08Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116254343691370660",
+      "author": "auralian420",
+      "url": "https://x.com/auralian420/status/2116254343691370660",
+      "source_url": "https://x.com/auralian420/status/2116254343691370660",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@jomickane The problem isn’t the smugglers, it’s their cargo that is just as bad\n\nLabour thinks the knife wielding boat migrants are the victims \n\nNo wonder we are so screwed",
+      "text_excerpt": "@jomickane The problem isn’t the smugglers, it’s their cargo that is just as bad\n\nLabour thinks the knife wielding boat migrants are the victims \n\nNo wonder we are so screwed",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T20:16:44Z",
+      "last_collected_at": "2026-10-30T20:16:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23335",
+      "timestamp": "2026-10-30T19:20:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116248773362172353",
+      "author": "telesurenglish",
+      "url": "https://x.com/telesurenglish/status/2116248773362172353",
+      "source_url": "https://x.com/telesurenglish/status/2116248773362172353",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "#France | Migrants are using new departure points along the French coast to cross the English Channel, raising safety concerns over overcrowded boats. Authorities have stepped up patrols to curb dangerous crossings.\n\n#Migration #EnglishChannel #UK #teleSUREnglish https://t.co/IA7MYHU7bo",
+      "text_excerpt": "#France | Migrants are using new departure points along the French coast to cross the English Channel, raising safety concerns over overcrowded boats. Authorities have stepped up patrols to curb dangerous crossings.\n\n#Migration #EnglishChannel #UK #teleSUREnglish https://t.co/IA7MYHU7bo",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T20:19:44Z",
+      "last_collected_at": "2026-10-30T20:19:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23311",
+      "timestamp": "2026-10-30T15:36:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjin67",
+      "author": "spidernapoleon",
+      "url": "https://www.reddit.com/r/uknews/comments/1xjin67/migrant_crisis_knifewielding_man_successfully/",
+      "source_url": "https://www.reddit.com/r/uknews/comments/1xjin67/migrant_crisis_knifewielding_man_successfully/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Migrant crisis: Knife-wielding man successfully climbs on small boat crossing Channel as he begins journey to Britain just seconds after shouting: 'I will kill you'",
+      "text_excerpt": "Migrant crisis: Knife-wielding man successfully climbs on small boat crossing Channel as he begins journey to Britain just seconds after shouting: 'I will kill you'",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T20:16:45Z",
+      "last_collected_at": "2026-10-30T20:16:45Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23313",
+      "timestamp": "2026-10-30T15:23:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjib5t",
+      "author": "spidernapoleon",
+      "url": "https://www.reddit.com/r/europe_sub/comments/1xjib5t/migrant_crisis_knifewielding_man_successfully/",
+      "source_url": "https://www.reddit.com/r/europe_sub/comments/1xjib5t/migrant_crisis_knifewielding_man_successfully/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat",
+        "vessel"
+      ],
+      "freshness_cues": [],
+      "text": "Migrant crisis: Knife-wielding man successfully climbs on small boat crossing Channel as he begins journey to Britain just seconds after shouting: 'I will kill you'\nHere is a link to the YouTube video, which is easier to navigate than the GB News website. https://youtube.com/shorts/-xIwizJ18\\_I A knife-wielding migrant successfully climbed on board a small boat crossing the Channel just seconds after threatening to \"kill\" those on the vessel. (...) As the boat turned towards a group waiting to board, an argument erupted between a man already on board and another attempting to get onto the vessel. The confrontation rapidly escalated when the man attempting to board produced a large knife and appeared to lunge towards the man on the boat in what looked like an attempted stabbing. (...) During the confrontation, the migrant can be heard shouting: \"I will kill you.\" Fortunately, the man dropped the knife before he could reach his intended target. But just moments later, the same man managed to climb aboard the vessel as it set sail for Britain.",
+      "text_excerpt": "Migrant crisis: Knife-wielding man successfully climbs on small boat crossing Channel as he begins journey to Britain just seconds after shouting: 'I will kill you'\nHere is a link to the YouTube video, which is easier to navigate than the GB News website. https://youtube.com/shorts/-xIwizJ18\\_I A knife-wielding migrant successfully climbed on board a small boat crossing the Channel just seconds after threatening to \"…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-30T20:16:45Z",
+      "last_collected_at": "2026-10-30T20:16:45Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-30T14:42:04.915752+00:00",
+  "last_archived_at": "2026-10-30T20:19:54.379128+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -2481,6 +3265,58 @@
       "rules_version": "2.6",
       "priority_score": 64.65,
       "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1264,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlcyw",
+      "author": "Reddenbawker",
+      "language": null,
+      "published_at": "2026-10-30T17:16:10Z",
+      "first_detected_at": "2026-10-30T20:19:46Z",
+      "last_detected_at": "2026-10-30T20:19:46Z",
+      "detection_count": 1,
+      "text": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey Renault Clio had randomly opened fire in the streets. He narrowly missed a mother and her daughter in their car on Avenue Hector-Berlioz, and on Avenue Salvador Allende, he killed Pengo Wossio Bengi, 26. Between the Esso gas station on Boulevard Martin-Luther King, where he went next, and the Bois de l’Étang pharmacy he tried to get into but his gun jammed, he managed to fire 128 bullets, gravely injuring five other people, including a 12-year-old girl on her way to the town pool, who got shot eight times. All the victims appeared to be either Black or Arab. Between the riots of the previous weekend and the expected demonstrations the next day, the timing could not have been more sensitive. Usually reluctant to get involved, the National Anti-Terrorism Prosecutor’s Office (PNAT) immediately issued a statement that it had opened a murder investigation “in connection with a terrorist enterprise.” Macron issued his own statement right afterwards expressing his “deep emotion,” and rushed to Trappes to emphasize twice in front of the cameras PNAT’s categorization of the shooting as a terrorist act. What Macron said that infuriated public opinion in general, and Jews in particular, is worth quoting at length despite the platitudes: “What happened today was a racist terrorist attack, as characterized by the National Anti-Terrorism Prosecutor’s Office. It left six victims. A man was killed this morning by one of our fellow citizens on the basis of a racist ideology. … What happened is a turning point because it is the first time a terrorist attack was planned to kill our fellow citizens, our children, because of the color of their skin or the religion they were raised in.” Then, in response to a reporter’s question, he added: “It is a racist terror attack qualified as such by the judicial authorities. As I just said, this is a first in our country.” The PNAT added aggravating circumstances to the Trappes shooting because they were perpetrated “on the basis of actual or supposed membership in a particular race, ethnicity, nation, or religion”—phrasing that’s in line with a bill to toughen penalties for racist, antisemitic, or xenophobic crimes that Jewish Representative Pierre Lelouche introduced in 2003 to combat the rising attacks on Jewish French citizens at the time. So, ironically, by characterizing this latest attack as a first, Macron destroyed the reason for the law he was referencing. Not only that, with a few sentences, he also erased the killing of Myriam Monsonego (8), Gabriel and Arié Sandler (3 and 6) and their father Jonathan Sandler at the Ozar Hatorah school in Toulouse in 2012; the killing of Yohan Cohen (20) Philippe Braham (45) Yoav Hattab (21), and François-Michel Saada (64) at the Hypercasher kosher supermarket in January 2015; the machete attack against a Jewish man on a street in Marseille in January 2016; the killing of Father Jacques Amel in his church by two Islamists in July 2016; the killing of three Christian worshippers by an Islamist in the Notre-Dame de Nice basilica in October 2020; the knife killing of the Iraqi Christian Ashur Sarnaya in Lyon in 2025, and, more generally, the 62 Islamist terror attacks that have claimed 270 lives since March 2012. The immediate backlash was so fierce that Macron had to issue a second, longer statement later that day: “I also want to reiterate a fundamental truth and avoid any controversy. In recent years, our country has experienced attacks that targeted Christians simply because they were Christians, and Jews simply because they were Jews. None of these victims should be forgotten. No grief should be ranked above another.” What could explain such a fantastic blunder? Let’s put it this way: The whole Trappes sequence illustrates best the encounter between a powerless president floating in his dematerialized technocratic paradise, where communications reigns supreme, and a country that has become opaque even to itself. The city of Trappes is a case in point. A commuter town built near automobile factories in the ’60s, Trappes received a massive influx of immigrants from what were then the slums of Nanterre. The immigrant population rose by 325% between 1968 and 1975. For a while, a strong communist leadership provided educational support, summer camps, community organizations that fostered the emergence of local talents (like actors Omar Sy). But in the early ’90s the arrival of members of the Armed Islamic Group of Algeria (GIA), Tablighi preachers, and Muslim Brotherhood members changed that. During the 2000s, the construction of a large mosque, the growing social pressure which translated into control over women, and opposition to schools and science coincided with the burning of the city’s synagogue and the exodus of the Jewish community. In the 2010s, with only 35,000 inhabitants, Trappes had one of the highest rates in Europe of local jihadists traveling to Syria and Iraq. There’s also the large-scale drug trafficking and chronic shootings (including one which occurred near a private hospital only three days after the Trappes attack). Add to that the complete takeover of local social culture by Islamists and/or political organizations aligned with Jean-Luc Mélenchon’s La France Insoumise (LFI), and the death threats against any heterodox speech, and you begin to get a sense of what daily life looks like in a urban maze where labels and identities are everything, but nobody is who they seem to be. For instance, since his murder, Pengo Wossio Bengi, one of the victims of the Trappes shooting, has been systematically honored by self-proclaimed spokespersons for the citizens of Trappes as “a brother,” that is to say a Muslim, even though according to what his sister posted on X, the family is evangelical Protestant. Bengi’s suspected killer, who was apprehended the morning of the shooting and identified as “Kévin T.” (39), is another example of that fragmented reality. Following Macron’s statements that day, the media immediately identified the suspect as a far-right activist. Adding his voice to the choir, which includes LFI’s star figures, Trappes’ mayor Ali Rabeh denounced Kévin T.’s fascism and “Islamophobia.” According to the PNAT prosecutor, who spoke to the press twice between Oct. 26 and 29, in addition to the WWII-era Sten gun that the suspect used for his shooting spree, the police also found in his car a fake police armband, a pair of handcuffs, and a knife—materials that suggest further intended actions that he did not have time to carry out. The cops who searched the suspected shooter’s place in the nearby town of Guyancourt found an apartment booby-trapped with a gas cylinder, a copy of Mein Kampf along with the Bible and the Quran, a series of homemade stickers supporting Marine Le Pen’s Rassemblement National party (RN), and flyers supporting the police. By Oct. 29, Kévin T. had admitted his racist motivation and ultra-right views, which was confirmed by several witnesses in his surroundings. Nothing, however, quite explains the picture from a 2018 event in Guyancourt, the city where he lives, organized by the Association France-Palestine Solidarité (AFPS), a left-wing group whose honorary president Taoufiq Tahani endorsed the Oct. 7, 2023 attacks, in which he appears. (The AFPS did not deny the authenticity of the picture, and quietly took it down.) When considered alongside Kévin T.’s psychological frailty, which had led the authorities to require a psychiatric evaluation, this picture suggests a psychological/existential wandering in a social environment marked by pressure to belong to one group or another. No less confusing, even as Trappes’ mayor Ali Rabeh denounced Kévin T. as a fascist, the man standing alongside the mayor during the press conference was the Muslim “influencer” Elias d’Imzalène. D’Imzalène is a former sympathizer of the far-right antisemite Alain Soral, and is currently an activist close to LFI and a member of “Urgence Palestine,” a movement that supports Palestinian “resistance.” Notably, the police did find a copy of Mein Kampf in d’Imzalène’s apartment following the Bataclan massacre in November 2015, according to L’Express and Libération . Again, in Trappes as in the rest of the country, words are disconnected from reality. Perhaps nothing better illustrates this disconnect than what happened on Oct. 24 in Orléans, where Le Pen’s RN held its national congress. Outside, an “anti-fascist” protest mostly comprised of middled-aged demonstrators marched against the congress while waving two huge Palestinian flags, as though one had anything to do with the other. Meanwhile inside, where Jordan Bardella was being reelected party president with 98% of the vote (a score that gives an indication of the party’s conception of a functioning democracy), a group of Jewish students, members of the the moderate left Jewish Student Union of France (UEJF) began to shout in protest. A few weeks earlier, the left-wing site Mediapart had broken the news that Bardella had been a fierce antisemite and an admirer of Soral in 2013-2015. (Bardella denies it rather unconvincingly). In a video showing the students being removed by force, one can see a member of the congress doing a Nazi salute. “We will never tolerate the far-left extremists,” said Bardella after the Jewish students were expelled. The same disconnect exists on the other side. Also on Oct. 24, a reporter asked a student what a company should do if the student demand to remove selection criteria for university admissions were to materialize, resulting in far too many students with college degrees, that company ends up with 100 applicants for a single job opening. The student answered, “well, it should create 99 other jobs.” The response underscores the complete disconnect between people’s slogans, or even sincere beliefs, and the reality of the country they live in. The two most active parties in France today, LFI and RN, both want to resurrect the welfare state as it existed in the ‘70s—the former, by “taxing the rich,” and the latter by taking back the money from the migrants who supposedly stole it. Which brings us back to Emmanuel Macron. As the president posed for the cameras in Trappes, the country was bracing for renewed violent street action the following day in response to the Oct. 17 riots. Despite some serious incidents in Marseille and Lyon, the demonstrations that took place on Oct. 24 were more or less kept under control across the country, in contrast with what was going on in Barcelona, Rome, and Florence. But the government maintained calm at the cost of a massive deployment of police forces, and what appears to have been heavy censorship. This week, the left wing outlet Blast published a letter that Prime Minister Sébastien Lecornu sent to Meta and to the chief executives of France’s four major telecom operators two days before the Oct. 24 protests, asking them to prepare to temporarily block access to Snapchat, TikTok, Instagram, and X and to “proceed without delay if I give the instruction.” This measure was supposed to control the “illicit calls” to riots coming from TikTok and Snapshat influencers that had circulated online before Oct. 17. As of this writing, a new national demonstration is expected Oct. 30, this time organized by the Yellow Vests. Or at least, that’s what they say.",
+      "text_excerpt": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey R",
+      "url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "source_url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 68.65,
+      "analyst_priority": "HIGH"
     }
   ],
   "access_signals": [
@@ -2534,6 +3370,58 @@
       "longitude": null,
       "rules_version": "2.6",
       "priority_score": 64.65,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1264,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlcyw",
+      "author": "Reddenbawker",
+      "language": null,
+      "published_at": "2026-10-30T17:16:10Z",
+      "first_detected_at": "2026-10-30T20:19:46Z",
+      "last_detected_at": "2026-10-30T20:19:46Z",
+      "detection_count": 1,
+      "text": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey Renault Clio had randomly opened fire in the streets. He narrowly missed a mother and her daughter in their car on Avenue Hector-Berlioz, and on Avenue Salvador Allende, he killed Pengo Wossio Bengi, 26. Between the Esso gas station on Boulevard Martin-Luther King, where he went next, and the Bois de l’Étang pharmacy he tried to get into but his gun jammed, he managed to fire 128 bullets, gravely injuring five other people, including a 12-year-old girl on her way to the town pool, who got shot eight times. All the victims appeared to be either Black or Arab. Between the riots of the previous weekend and the expected demonstrations the next day, the timing could not have been more sensitive. Usually reluctant to get involved, the National Anti-Terrorism Prosecutor’s Office (PNAT) immediately issued a statement that it had opened a murder investigation “in connection with a terrorist enterprise.” Macron issued his own statement right afterwards expressing his “deep emotion,” and rushed to Trappes to emphasize twice in front of the cameras PNAT’s categorization of the shooting as a terrorist act. What Macron said that infuriated public opinion in general, and Jews in particular, is worth quoting at length despite the platitudes: “What happened today was a racist terrorist attack, as characterized by the National Anti-Terrorism Prosecutor’s Office. It left six victims. A man was killed this morning by one of our fellow citizens on the basis of a racist ideology. … What happened is a turning point because it is the first time a terrorist attack was planned to kill our fellow citizens, our children, because of the color of their skin or the religion they were raised in.” Then, in response to a reporter’s question, he added: “It is a racist terror attack qualified as such by the judicial authorities. As I just said, this is a first in our country.” The PNAT added aggravating circumstances to the Trappes shooting because they were perpetrated “on the basis of actual or supposed membership in a particular race, ethnicity, nation, or religion”—phrasing that’s in line with a bill to toughen penalties for racist, antisemitic, or xenophobic crimes that Jewish Representative Pierre Lelouche introduced in 2003 to combat the rising attacks on Jewish French citizens at the time. So, ironically, by characterizing this latest attack as a first, Macron destroyed the reason for the law he was referencing. Not only that, with a few sentences, he also erased the killing of Myriam Monsonego (8), Gabriel and Arié Sandler (3 and 6) and their father Jonathan Sandler at the Ozar Hatorah school in Toulouse in 2012; the killing of Yohan Cohen (20) Philippe Braham (45) Yoav Hattab (21), and François-Michel Saada (64) at the Hypercasher kosher supermarket in January 2015; the machete attack against a Jewish man on a street in Marseille in January 2016; the killing of Father Jacques Amel in his church by two Islamists in July 2016; the killing of three Christian worshippers by an Islamist in the Notre-Dame de Nice basilica in October 2020; the knife killing of the Iraqi Christian Ashur Sarnaya in Lyon in 2025, and, more generally, the 62 Islamist terror attacks that have claimed 270 lives since March 2012. The immediate backlash was so fierce that Macron had to issue a second, longer statement later that day: “I also want to reiterate a fundamental truth and avoid any controversy. In recent years, our country has experienced attacks that targeted Christians simply because they were Christians, and Jews simply because they were Jews. None of these victims should be forgotten. No grief should be ranked above another.” What could explain such a fantastic blunder? Let’s put it this way: The whole Trappes sequence illustrates best the encounter between a powerless president floating in his dematerialized technocratic paradise, where communications reigns supreme, and a country that has become opaque even to itself. The city of Trappes is a case in point. A commuter town built near automobile factories in the ’60s, Trappes received a massive influx of immigrants from what were then the slums of Nanterre. The immigrant population rose by 325% between 1968 and 1975. For a while, a strong communist leadership provided educational support, summer camps, community organizations that fostered the emergence of local talents (like actors Omar Sy). But in the early ’90s the arrival of members of the Armed Islamic Group of Algeria (GIA), Tablighi preachers, and Muslim Brotherhood members changed that. During the 2000s, the construction of a large mosque, the growing social pressure which translated into control over women, and opposition to schools and science coincided with the burning of the city’s synagogue and the exodus of the Jewish community. In the 2010s, with only 35,000 inhabitants, Trappes had one of the highest rates in Europe of local jihadists traveling to Syria and Iraq. There’s also the large-scale drug trafficking and chronic shootings (including one which occurred near a private hospital only three days after the Trappes attack). Add to that the complete takeover of local social culture by Islamists and/or political organizations aligned with Jean-Luc Mélenchon’s La France Insoumise (LFI), and the death threats against any heterodox speech, and you begin to get a sense of what daily life looks like in a urban maze where labels and identities are everything, but nobody is who they seem to be. For instance, since his murder, Pengo Wossio Bengi, one of the victims of the Trappes shooting, has been systematically honored by self-proclaimed spokespersons for the citizens of Trappes as “a brother,” that is to say a Muslim, even though according to what his sister posted on X, the family is evangelical Protestant. Bengi’s suspected killer, who was apprehended the morning of the shooting and identified as “Kévin T.” (39), is another example of that fragmented reality. Following Macron’s statements that day, the media immediately identified the suspect as a far-right activist. Adding his voice to the choir, which includes LFI’s star figures, Trappes’ mayor Ali Rabeh denounced Kévin T.’s fascism and “Islamophobia.” According to the PNAT prosecutor, who spoke to the press twice between Oct. 26 and 29, in addition to the WWII-era Sten gun that the suspect used for his shooting spree, the police also found in his car a fake police armband, a pair of handcuffs, and a knife—materials that suggest further intended actions that he did not have time to carry out. The cops who searched the suspected shooter’s place in the nearby town of Guyancourt found an apartment booby-trapped with a gas cylinder, a copy of Mein Kampf along with the Bible and the Quran, a series of homemade stickers supporting Marine Le Pen’s Rassemblement National party (RN), and flyers supporting the police. By Oct. 29, Kévin T. had admitted his racist motivation and ultra-right views, which was confirmed by several witnesses in his surroundings. Nothing, however, quite explains the picture from a 2018 event in Guyancourt, the city where he lives, organized by the Association France-Palestine Solidarité (AFPS), a left-wing group whose honorary president Taoufiq Tahani endorsed the Oct. 7, 2023 attacks, in which he appears. (The AFPS did not deny the authenticity of the picture, and quietly took it down.) When considered alongside Kévin T.’s psychological frailty, which had led the authorities to require a psychiatric evaluation, this picture suggests a psychological/existential wandering in a social environment marked by pressure to belong to one group or another. No less confusing, even as Trappes’ mayor Ali Rabeh denounced Kévin T. as a fascist, the man standing alongside the mayor during the press conference was the Muslim “influencer” Elias d’Imzalène. D’Imzalène is a former sympathizer of the far-right antisemite Alain Soral, and is currently an activist close to LFI and a member of “Urgence Palestine,” a movement that supports Palestinian “resistance.” Notably, the police did find a copy of Mein Kampf in d’Imzalène’s apartment following the Bataclan massacre in November 2015, according to L’Express and Libération . Again, in Trappes as in the rest of the country, words are disconnected from reality. Perhaps nothing better illustrates this disconnect than what happened on Oct. 24 in Orléans, where Le Pen’s RN held its national congress. Outside, an “anti-fascist” protest mostly comprised of middled-aged demonstrators marched against the congress while waving two huge Palestinian flags, as though one had anything to do with the other. Meanwhile inside, where Jordan Bardella was being reelected party president with 98% of the vote (a score that gives an indication of the party’s conception of a functioning democracy), a group of Jewish students, members of the the moderate left Jewish Student Union of France (UEJF) began to shout in protest. A few weeks earlier, the left-wing site Mediapart had broken the news that Bardella had been a fierce antisemite and an admirer of Soral in 2013-2015. (Bardella denies it rather unconvincingly). In a video showing the students being removed by force, one can see a member of the congress doing a Nazi salute. “We will never tolerate the far-left extremists,” said Bardella after the Jewish students were expelled. The same disconnect exists on the other side. Also on Oct. 24, a reporter asked a student what a company should do if the student demand to remove selection criteria for university admissions were to materialize, resulting in far too many students with college degrees, that company ends up with 100 applicants for a single job opening. The student answered, “well, it should create 99 other jobs.” The response underscores the complete disconnect between people’s slogans, or even sincere beliefs, and the reality of the country they live in. The two most active parties in France today, LFI and RN, both want to resurrect the welfare state as it existed in the ‘70s—the former, by “taxing the rich,” and the latter by taking back the money from the migrants who supposedly stole it. Which brings us back to Emmanuel Macron. As the president posed for the cameras in Trappes, the country was bracing for renewed violent street action the following day in response to the Oct. 17 riots. Despite some serious incidents in Marseille and Lyon, the demonstrations that took place on Oct. 24 were more or less kept under control across the country, in contrast with what was going on in Barcelona, Rome, and Florence. But the government maintained calm at the cost of a massive deployment of police forces, and what appears to have been heavy censorship. This week, the left wing outlet Blast published a letter that Prime Minister Sébastien Lecornu sent to Meta and to the chief executives of France’s four major telecom operators two days before the Oct. 24 protests, asking them to prepare to temporarily block access to Snapchat, TikTok, Instagram, and X and to “proceed without delay if I give the instruction.” This measure was supposed to control the “illicit calls” to riots coming from TikTok and Snapshat influencers that had circulated online before Oct. 17. As of this writing, a new national demonstration is expected Oct. 30, this time organized by the Yellow Vests. Or at least, that’s what they say.",
+      "text_excerpt": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey R",
+      "url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "source_url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 68.65,
       "analyst_priority": "HIGH"
     }
   ],
@@ -2601,6 +3489,73 @@
       ],
       "related_sources": [
         "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1264,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlcyw",
+      "author": "Reddenbawker",
+      "language": null,
+      "published_at": "2026-10-30T17:16:10Z",
+      "first_detected_at": "2026-10-30T20:19:46Z",
+      "last_detected_at": "2026-10-30T20:19:46Z",
+      "detection_count": 1,
+      "text": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey Renault Clio had randomly opened fire in the streets. He narrowly missed a mother and her daughter in their car on Avenue Hector-Berlioz, and on Avenue Salvador Allende, he killed Pengo Wossio Bengi, 26. Between the Esso gas station on Boulevard Martin-Luther King, where he went next, and the Bois de l’Étang pharmacy he tried to get into but his gun jammed, he managed to fire 128 bullets, gravely injuring five other people, including a 12-year-old girl on her way to the town pool, who got shot eight times. All the victims appeared to be either Black or Arab. Between the riots of the previous weekend and the expected demonstrations the next day, the timing could not have been more sensitive. Usually reluctant to get involved, the National Anti-Terrorism Prosecutor’s Office (PNAT) immediately issued a statement that it had opened a murder investigation “in connection with a terrorist enterprise.” Macron issued his own statement right afterwards expressing his “deep emotion,” and rushed to Trappes to emphasize twice in front of the cameras PNAT’s categorization of the shooting as a terrorist act. What Macron said that infuriated public opinion in general, and Jews in particular, is worth quoting at length despite the platitudes: “What happened today was a racist terrorist attack, as characterized by the National Anti-Terrorism Prosecutor’s Office. It left six victims. A man was killed this morning by one of our fellow citizens on the basis of a racist ideology. … What happened is a turning point because it is the first time a terrorist attack was planned to kill our fellow citizens, our children, because of the color of their skin or the religion they were raised in.” Then, in response to a reporter’s question, he added: “It is a racist terror attack qualified as such by the judicial authorities. As I just said, this is a first in our country.” The PNAT added aggravating circumstances to the Trappes shooting because they were perpetrated “on the basis of actual or supposed membership in a particular race, ethnicity, nation, or religion”—phrasing that’s in line with a bill to toughen penalties for racist, antisemitic, or xenophobic crimes that Jewish Representative Pierre Lelouche introduced in 2003 to combat the rising attacks on Jewish French citizens at the time. So, ironically, by characterizing this latest attack as a first, Macron destroyed the reason for the law he was referencing. Not only that, with a few sentences, he also erased the killing of Myriam Monsonego (8), Gabriel and Arié Sandler (3 and 6) and their father Jonathan Sandler at the Ozar Hatorah school in Toulouse in 2012; the killing of Yohan Cohen (20) Philippe Braham (45) Yoav Hattab (21), and François-Michel Saada (64) at the Hypercasher kosher supermarket in January 2015; the machete attack against a Jewish man on a street in Marseille in January 2016; the killing of Father Jacques Amel in his church by two Islamists in July 2016; the killing of three Christian worshippers by an Islamist in the Notre-Dame de Nice basilica in October 2020; the knife killing of the Iraqi Christian Ashur Sarnaya in Lyon in 2025, and, more generally, the 62 Islamist terror attacks that have claimed 270 lives since March 2012. The immediate backlash was so fierce that Macron had to issue a second, longer statement later that day: “I also want to reiterate a fundamental truth and avoid any controversy. In recent years, our country has experienced attacks that targeted Christians simply because they were Christians, and Jews simply because they were Jews. None of these victims should be forgotten. No grief should be ranked above another.” What could explain such a fantastic blunder? Let’s put it this way: The whole Trappes sequence illustrates best the encounter between a powerless president floating in his dematerialized technocratic paradise, where communications reigns supreme, and a country that has become opaque even to itself. The city of Trappes is a case in point. A commuter town built near automobile factories in the ’60s, Trappes received a massive influx of immigrants from what were then the slums of Nanterre. The immigrant population rose by 325% between 1968 and 1975. For a while, a strong communist leadership provided educational support, summer camps, community organizations that fostered the emergence of local talents (like actors Omar Sy). But in the early ’90s the arrival of members of the Armed Islamic Group of Algeria (GIA), Tablighi preachers, and Muslim Brotherhood members changed that. During the 2000s, the construction of a large mosque, the growing social pressure which translated into control over women, and opposition to schools and science coincided with the burning of the city’s synagogue and the exodus of the Jewish community. In the 2010s, with only 35,000 inhabitants, Trappes had one of the highest rates in Europe of local jihadists traveling to Syria and Iraq. There’s also the large-scale drug trafficking and chronic shootings (including one which occurred near a private hospital only three days after the Trappes attack). Add to that the complete takeover of local social culture by Islamists and/or political organizations aligned with Jean-Luc Mélenchon’s La France Insoumise (LFI), and the death threats against any heterodox speech, and you begin to get a sense of what daily life looks like in a urban maze where labels and identities are everything, but nobody is who they seem to be. For instance, since his murder, Pengo Wossio Bengi, one of the victims of the Trappes shooting, has been systematically honored by self-proclaimed spokespersons for the citizens of Trappes as “a brother,” that is to say a Muslim, even though according to what his sister posted on X, the family is evangelical Protestant. Bengi’s suspected killer, who was apprehended the morning of the shooting and identified as “Kévin T.” (39), is another example of that fragmented reality. Following Macron’s statements that day, the media immediately identified the suspect as a far-right activist. Adding his voice to the choir, which includes LFI’s star figures, Trappes’ mayor Ali Rabeh denounced Kévin T.’s fascism and “Islamophobia.” According to the PNAT prosecutor, who spoke to the press twice between Oct. 26 and 29, in addition to the WWII-era Sten gun that the suspect used for his shooting spree, the police also found in his car a fake police armband, a pair of handcuffs, and a knife—materials that suggest further intended actions that he did not have time to carry out. The cops who searched the suspected shooter’s place in the nearby town of Guyancourt found an apartment booby-trapped with a gas cylinder, a copy of Mein Kampf along with the Bible and the Quran, a series of homemade stickers supporting Marine Le Pen’s Rassemblement National party (RN), and flyers supporting the police. By Oct. 29, Kévin T. had admitted his racist motivation and ultra-right views, which was confirmed by several witnesses in his surroundings. Nothing, however, quite explains the picture from a 2018 event in Guyancourt, the city where he lives, organized by the Association France-Palestine Solidarité (AFPS), a left-wing group whose honorary president Taoufiq Tahani endorsed the Oct. 7, 2023 attacks, in which he appears. (The AFPS did not deny the authenticity of the picture, and quietly took it down.) When considered alongside Kévin T.’s psychological frailty, which had led the authorities to require a psychiatric evaluation, this picture suggests a psychological/existential wandering in a social environment marked by pressure to belong to one group or another. No less confusing, even as Trappes’ mayor Ali Rabeh denounced Kévin T. as a fascist, the man standing alongside the mayor during the press conference was the Muslim “influencer” Elias d’Imzalène. D’Imzalène is a former sympathizer of the far-right antisemite Alain Soral, and is currently an activist close to LFI and a member of “Urgence Palestine,” a movement that supports Palestinian “resistance.” Notably, the police did find a copy of Mein Kampf in d’Imzalène’s apartment following the Bataclan massacre in November 2015, according to L’Express and Libération . Again, in Trappes as in the rest of the country, words are disconnected from reality. Perhaps nothing better illustrates this disconnect than what happened on Oct. 24 in Orléans, where Le Pen’s RN held its national congress. Outside, an “anti-fascist” protest mostly comprised of middled-aged demonstrators marched against the congress while waving two huge Palestinian flags, as though one had anything to do with the other. Meanwhile inside, where Jordan Bardella was being reelected party president with 98% of the vote (a score that gives an indication of the party’s conception of a functioning democracy), a group of Jewish students, members of the the moderate left Jewish Student Union of France (UEJF) began to shout in protest. A few weeks earlier, the left-wing site Mediapart had broken the news that Bardella had been a fierce antisemite and an admirer of Soral in 2013-2015. (Bardella denies it rather unconvincingly). In a video showing the students being removed by force, one can see a member of the congress doing a Nazi salute. “We will never tolerate the far-left extremists,” said Bardella after the Jewish students were expelled. The same disconnect exists on the other side. Also on Oct. 24, a reporter asked a student what a company should do if the student demand to remove selection criteria for university admissions were to materialize, resulting in far too many students with college degrees, that company ends up with 100 applicants for a single job opening. The student answered, “well, it should create 99 other jobs.” The response underscores the complete disconnect between people’s slogans, or even sincere beliefs, and the reality of the country they live in. The two most active parties in France today, LFI and RN, both want to resurrect the welfare state as it existed in the ‘70s—the former, by “taxing the rich,” and the latter by taking back the money from the migrants who supposedly stole it. Which brings us back to Emmanuel Macron. As the president posed for the cameras in Trappes, the country was bracing for renewed violent street action the following day in response to the Oct. 17 riots. Despite some serious incidents in Marseille and Lyon, the demonstrations that took place on Oct. 24 were more or less kept under control across the country, in contrast with what was going on in Barcelona, Rome, and Florence. But the government maintained calm at the cost of a massive deployment of police forces, and what appears to have been heavy censorship. This week, the left wing outlet Blast published a letter that Prime Minister Sébastien Lecornu sent to Meta and to the chief executives of France’s four major telecom operators two days before the Oct. 24 protests, asking them to prepare to temporarily block access to Snapchat, TikTok, Instagram, and X and to “proceed without delay if I give the instruction.” This measure was supposed to control the “illicit calls” to riots coming from TikTok and Snapshat influencers that had circulated online before Oct. 17. As of this writing, a new national demonstration is expected Oct. 30, this time organized by the Yellow Vests. Or at least, that’s what they say.",
+      "text_excerpt": "The French Disconnection (Tablet, Marc Weitzmann)\nIt may sound sardonic, but Emmanuel Macron is probably France’s most perfect president right now. Who else could be so self-destructive, so nakedly empty? In other words, who could better embody the country’s current vibe? It’s difficult not to arrive at that conclusion while watching Macron on TV last Friday, Oct. 23, at 1 p.m. condemning “the first racist terror attack ever to occur in France.” Surrounded by his interior minister and advisers, the president stood in front of the town hall of the Paris suburb of Trappes playing statesman and simulating emotion. Three hours earlier, on the same day in the same city, a shooter driving a grey R",
+      "url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "source_url": "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 18.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 68.65,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xjlcyw"
+      ],
+      "related_authors": [
+        "Reddenbawker"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/DeepStateCentrism/comments/1xjlcyw/the_french_disconnection_tablet_marc_weitzmann/"
+      ],
+      "related_sources": [
+        "REDDIT"
       ],
       "independent_author_count": 1,
       "platform_count": 1
