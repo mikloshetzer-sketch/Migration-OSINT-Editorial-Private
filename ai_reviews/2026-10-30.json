@@ -683,6 +683,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T20:20:30.133526+00:00"
+    },
+    "record:2116261660633493826": {
+      "hu_text": "Teljes hazugság. Tusk és társai megpróbálják Putyin-pártinak beállítani Nawrockit, hogy eltávolíthassák őt. Nawrocki nagyon Oroszország-ellenes, amit történészi pályafutása során bizonyított. Tusk 2021-ben újraindította a kapcsolatot Oroszországgal, és csatlakozott Putyin migránsaihoz a határunk elleni rajtaütés idején.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és állításokat tartalmaz, amelyek nem bizonyítottak, ezért ellenőrizetlen státuszúak. Nem tartalmaz konkrét bizonyítékot vagy hivatalos adatot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:41.060644+00:00"
+    },
+    "record:reddit_1xjibax": {
+      "hu_text": "Nigel Farage: „Káosz van ma a Csatornánál. Több száz migráns kel át. Egy mentőcsónakban Dungenessnél 80 illegális migráns volt. Egy férfi Hardelot-ban késsel felszerelkezve szállt hajóra, kiabálva: 'Megöllek titeket.' Hamarosan Nagy-Britanniában lesz. Érdeklik ezt @AndyBurnham-t?”",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állításokat tartalmaz migránsok tömeges átkeléséről és erőszakos cselekményről, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:41.060662+00:00"
+    },
+    "record:reddit_1xjlcyw": {
+      "hu_text": "Az írás Emmanuel Macron francia elnököt kritizálja, aki egy párizsi elővárosban történt rasszista terrorcselekmény kapcsán nyilatkozott. Egy fegyveres támadó 128 lövést adott le, többeket megsebesített és egy embert megölt, főként fekete vagy arab áldozatok voltak. Az ügyben gyilkossági és terrorizmus gyanúja miatt nyomozás indult. A szöveg elemzi a francia társadalmi feszültségeket és a politikai reakciókat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részletes beszámoló egy eseményről, de nem tartalmaz hivatalos forrásokat vagy megerősített adatokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:41.060668+00:00"
+    },
+    "telegram:1173707041:9609": {
+      "hu_text": "Az iraki migrációs ügyekért felelős bizottság első ülését tartotta a Migrációs és Menekültügyi Minisztériumban, ahol megvitatták Irak csatlakozásának követelményeit a Nemzetközi Migrációs Szervezet alapszabályához. A találkozón részt vettek a külügyminisztérium, a választási bizottság és a miniszterelnöki hivatal képviselői is. Megvitatták a szükséges lépéseket, a tervezett projekteket és a szervezettel való együttműködés fejlesztésének lehetőségeit, hangsúlyozva a kormányzati koordináció fontosságát a migrációs ügyek kezelésében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos jellegű tájékoztató egy kormányzati ülésről, de nincs független megerősítés vagy további bizonyíték, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:41.060671+00:00"
+    },
+    "telegram:1229318139:29779": {
+      "hu_text": "Egy migrációs bolt különleges ajánlatot hirdet: két ötrészes készletet kínál kiváló minőségben és kedvező áron (500 egyiptomi font). A készlet tartalmaz fejkendőt, sálat, arcmaszkot és egyéb kiegészítőket, amelyek elegáns és visszafogott megjelenést biztosítanak. A rendeléshez és érdeklődéshez elérhetők telefonszámok, WhatsApp, TikTok, Instagram és WhatsApp csatorna linkek, valamint a bolt pontos címe Kairóban.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Reklám jellegű tartalom, amely nem kapcsolódik migrációs eseményhez vagy politikához, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:41.060675+00:00"
+    },
+    "telegram:1229318139:29780": {
+      "hu_text": "A migrációs bolt egy ötrészes, több színben elérhető nikáb készletet kínál 350 egyiptomi fontért. A csomag tartalmaz hosszú pamut kesztyűt, elegáns nikáb láncot, díszes csatot és rögzítő eszközt a kényelemért. A rendeléshez elérhetők telefonszámok, WhatsApp, TikTok, Instagram és WhatsApp csatorna linkek, valamint a bolt címe Kairóban.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Reklám jellegű tartalom, amely nem kapcsolódik migrációs eseményhez vagy politikához, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:41.060679+00:00"
     }
   },
   "legacy_reviews": {}
