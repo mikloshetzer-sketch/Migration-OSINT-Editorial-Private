@@ -551,6 +551,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T14:42:50.291033+00:00"
+    },
+    "group:622": {
+      "hu_text": "A New York Times szerint Washington tervezi, hogy több tucat, Louisiana államban őrizetbe vett afgán migránst Pakisztánon keresztül Afganisztánba deportáljon repülővel.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hír egy ismert forrásra hivatkozik, de nincs további bizonyíték vagy hivatalos megerősítés, ezért ellenőrizetlen. A téma jelentős migrációs politikai intézkedést érint, így magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:20.152417+00:00"
+    },
+    "group:623": {
+      "hu_text": "A nemzeti kormány megszünteti a családon belüli erőszak megelőzését, de 18 millió dollárt ad újonnan érkezett gazdasági migránsoknak, hogy azok más frissen érkezett gazdasági migránsok munkahelyi bántalmazása ellen harcoljanak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményt és egy állítólagos kormányzati döntést tartalmaz, de nincs megerősített forrás vagy hivatalos adat. Közepes prioritású a társadalmi és politikai hatás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:20.152440+00:00"
+    },
+    "group:624": {
+      "hu_text": "Fegyveres migránsok érkeznek: az elmúlt két napban 263 migráns érkezett három hajóval, ma további 400-520 fő hat-hét hajóval, összesen körülbelül 660-780 fő, miután a rossz idő miatt szünet volt a határátlépéseknél.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs határbiztonsági eseményről szól, de nincs hivatalos vagy megbízható forrás, ezért ellenőrizetlen. A fegyveres migránsok említése miatt magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:20.152446+00:00"
+    },
+    "information:23300": {
+      "hu_text": "Tengeri elfogások: A videó az amerikai parti őrség és határőrség migránscsempész hajók elfogását mutatja Florida és Texas partjainál.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A videó információs jellegű, de nincs megerősített hiteles forrás vagy további bizonyíték. Közepes prioritású a határbiztonsági jelentőség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:20.152450+00:00"
+    },
+    "information:23305": {
+      "hu_text": "Gyanítom, hogy ezt azért csinálják, hogy minden migráns \"legálisan\" jöhessen át ezen a rendszeren keresztül, nem a Csatornán, így azt állíthatják, hogy legyőzték a kis hajós bandákat. Csalók.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és spekuláció a migrációs politikáról, nincs bizonyíték vagy hivatalos információ. Alacsony prioritású, mert inkább társadalmi diskurzus.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:20.152455+00:00"
+    },
+    "information:23307": {
+      "hu_text": "A probléma nem a csempészek, hanem az általuk szállított emberek, akik ugyanolyan rosszak. A Munkáspárt szerint a késsel fenyegető hajós migránsok az áldozatok. Nem csoda, hogy ilyen rossz a helyzet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és társadalmi kommentár, nincs tényalapú bizonyíték. Alacsony prioritású, mert inkább társadalmi diskurzus.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T20:20:20.152458+00:00"
     }
   },
   "legacy_reviews": {}
