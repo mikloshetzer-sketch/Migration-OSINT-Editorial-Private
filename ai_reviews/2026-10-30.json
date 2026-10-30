@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-30T07:53:24.287386+00:00"
+    },
+    "record:2116073580177785158": {
+      "hu_text": "@Leon_Schreib Ez csak színjáték, ne posztold ezt a hülyeséget. Látni akarjuk a menekülttáborokat a határon és a határt átlépő buszokat, amik kitoloncolják őket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely nem tartalmaz ellenőrizhető tényeket, hanem egy politikai álláspontot fogalmaz meg a menekülttáborok és kitoloncolások kapcsán.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:34.314546+00:00"
+    },
+    "telegram:1604168769:12407": {
+      "hu_text": "Usszurijszkban illegális migránsokat fogtak el. Egy rajtaütés során hét külföldi állampolgárt tartóztattak le, akiknek problémáik voltak a papírjaikkal. Hat személyt megbírságoltak és kötelezték, hogy önként hagyják el Oroszország területét, egy másik személyt pedig kényszerrel kiutasítanak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le határőrizeti intézkedésekről, de nincs független forrás vagy hivatalos megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:34.314567+00:00"
+    },
+    "telegram:1604168769:12408": {
+      "hu_text": "Egy migráns nő, aki házvezetőnőként dolgozott, 6 millió rubel értékű ékszert lopott el Szentpéterváron. A 29 éves nőt őrizetbe vették, és nagy értékű lopás miatt indult ellene büntetőeljárás, jelenleg folyik a nyomozás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Bűncselekményről szóló állítás, amely migránsokkal kapcsolatos, de nincs hivatalos vagy független megerősítés, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:34.314570+00:00"
+    },
+    "telegram:1604168769:12410": {
+      "hu_text": "Oroszország Állami Dumájában javaslatot tettek arra, hogy a külföldi munkavállalók fizetését csak bankszámlára utalják, és kötelező díjat vezessenek be a külföldre küldött pénzátutalásokra. A cél a migránsok jövedelmének ellenőrzése és az állami költségvetés védelme.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai javaslatról van szó, amely migránsok pénzügyi ellenőrzését célozza, de nincs hivatalos törvény vagy végrehajtási dokumentum, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:34.314572+00:00"
+    },
+    "telegram:1604168769:12411": {
+      "hu_text": "Moszkvában a 77-es sorozatú engedéllyel rendelkező migránsok a munkaszerződésről szóló értesítést a Szaharovo migrációs központ 6-os bejáratánál adhatják le, 550 rubel díj ellenében, amelyet a központ munkatársai töltenek ki és küldenek el a belügyminisztériumnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránsok adminisztratív ügyintézéséről szóló tájékoztatás, amely nem tartalmaz vitatható vagy ellenőrizendő állítást, de hivatalos forrás hiányában ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:34.314575+00:00"
+    },
+    "telegram:1604168769:12412": {
+      "hu_text": "Oroszországban a Digitális Fejlesztési Minisztérium kötelezővé teszi az IMEI-kódok regisztrációját a 'Gosuslugi' portálon a vámkezelés nélküli okostelefonok esetében. A határidőn belül nem regisztrált készülékek nem fognak működni az orosz mobilhálózatokon.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Szabályozási változásról szóló információ, amely nem közvetlenül migrációs esemény, de érintheti a migránsokat is. Nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-30T07:53:34.314577+00:00"
     }
   },
   "legacy_reviews": {}
