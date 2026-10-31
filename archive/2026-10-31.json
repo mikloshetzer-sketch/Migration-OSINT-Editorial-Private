@@ -243,6 +243,50 @@
       "text": "The arrival of two other boats increases to 144 migrants arrived in Formentera in less than 48 hours | Spain\nSource",
       "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xk9pfc/the_arrival_of_two_other_boats_increases_to_144/",
       "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xk9pfc/the_arrival_of_two_other_boats_increases_to_144/"
+    },
+    {
+      "id": 794,
+      "event_id": 794,
+      "source": "X",
+      "source_post_id": "2116592765035520068",
+      "author": "WorldInMotionHQ",
+      "published_at": "2026-10-31T18:06:54Z",
+      "collected_at": "2026-10-31T18:07:43Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "🇫🇷 🇬🇧 NEWS: France detained 5 Britons near Dunkirk Thursday over anti-migrant acts, officials say",
+      "url": "https://x.com/WorldInMotionHQ/status/2116592765035520068",
+      "source_url": "https://x.com/WorldInMotionHQ/status/2116592765035520068"
+    },
+    {
+      "id": 795,
+      "event_id": 795,
+      "source": "X",
+      "source_post_id": "2116584453304971508",
+      "author": "MarkoS2075",
+      "published_at": "2026-10-31T17:33:52Z",
+      "collected_at": "2026-10-31T18:08:42Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "History in the Netherlands: For the first time, a boat carrying illegal migrants has landed on the country’s coast (in the Cadzand area).\n\nThe boat brought 38 African migrants into Dutch territory. https://t.co/awuLR9LQei",
+      "url": "https://x.com/MarkoS2075/status/2116584453304971508",
+      "source_url": "https://x.com/MarkoS2075/status/2116584453304971508"
     }
   ],
   "event_groups": [
@@ -506,6 +550,35 @@
       "average_confidence": 0.7,
       "created_at": "2026-10-31T13:59:34Z",
       "updated_at": "2026-10-31T13:59:34Z"
+    },
+    {
+      "id": 634,
+      "group_id": 634,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "🇫🇷 🇬🇧 NEWS: France detained 5 Britons near Dunkirk Thursday over anti-migrant acts, officials say",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-31T18:06:54Z",
+      "last_seen": "2026-10-31T18:06:54Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-31T18:07:43Z",
+      "updated_at": "2026-10-31T18:07:43Z"
     }
   ],
   "influence_signals": [
@@ -1303,6 +1376,572 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1280,
+      "source": "X",
+      "source_post_id": "2116588844594413846",
+      "author": "DinieStrijker",
+      "language": "en",
+      "published_at": "2026-10-31T17:51:19Z",
+      "first_detected_at": "2026-10-31T18:08:42Z",
+      "last_detected_at": "2026-10-31T18:08:42Z",
+      "detection_count": 1,
+      "text": "@visegrad24 Every week, around 900 to 1,000 asylum seekers from the Middle East and Africa arrive in the Netherlands, usually transported by bus. This steady influx of asylum seekers has been ongoing since 2015 and continues unabated. This boat carrying 36 'refugees' must have simply lost",
+      "text_excerpt": "@visegrad24 Every week, around 900 to 1,000 asylum seekers from the Middle East and Africa arrive in the Netherlands, usually transported by bus. This steady influx of asylum seekers has been ongoing since 2015 and continues unabated. This boat carrying 36 'refugees' must have simply lost",
+      "url": "https://x.com/DinieStrijker/status/2116588844594413846",
+      "source_url": "https://x.com/DinieStrijker/status/2116588844594413846",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "influx"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees",
+        "asylum seekers"
+      ],
+      "high_value_matches": [
+        "influx"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1282,
+      "source": "X",
+      "source_post_id": "2116589989051949530",
+      "author": "ImtiazMadmood",
+      "language": "en",
+      "published_at": "2026-10-31T17:55:52Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.\n\nThis has to stop. We can't house any African or Asian man who decides to move to Britain for better prospects. We have no other homeland to go to. We",
+      "text_excerpt": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.\n\nThis has to stop. We can't house any African or Asian man who decides to move to Britain for better prospects. We have no other homeland to go to. We",
+      "url": "https://x.com/ImtiazMadmood/status/2116589989051949530",
+      "source_url": "https://x.com/ImtiazMadmood/status/2116589989051949530",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1283,
+      "source": "X",
+      "source_post_id": "2116588072359891044",
+      "author": "VincentVanCloth",
+      "language": "en",
+      "published_at": "2026-10-31T17:48:15Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "And the left want this here....to fill any vacant property in every town, village or city\n@andyburnham Vote Labour and you're voting for this 👇\n\nViolent migrants jump into packed small boats as 671 arrived yesterday https://t.co/hYWE1dRtwD via @DailyMail",
+      "text_excerpt": "And the left want this here....to fill any vacant property in every town, village or city\n@andyburnham Vote Labour and you're voting for this 👇\n\nViolent migrants jump into packed small boats as 671 arrived yesterday https://t.co/hYWE1dRtwD via @DailyMail",
+      "url": "https://x.com/VincentVanCloth/status/2116588072359891044",
+      "source_url": "https://x.com/VincentVanCloth/status/2116588072359891044",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1284,
+      "source": "X",
+      "source_post_id": "2116587906718449909",
+      "author": "MontgomeryCla20",
+      "language": "en",
+      "published_at": "2026-10-31T17:47:35Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/u8Pyx0b2h4 via @DailyMail.  Heading our way..Wait! They already here😳",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/u8Pyx0b2h4 via @DailyMail.  Heading our way..Wait! They already here😳",
+      "url": "https://x.com/MontgomeryCla20/status/2116587906718449909",
+      "source_url": "https://x.com/MontgomeryCla20/status/2116587906718449909",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1285,
+      "source": "X",
+      "source_post_id": "2116587036157059517",
+      "author": "JohnMartinSain",
+      "language": "en",
+      "published_at": "2026-10-31T17:44:08Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/CMSWOMn1li via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/CMSWOMn1li via @DailyMail",
+      "url": "https://x.com/JohnMartinSain/status/2116587036157059517",
+      "source_url": "https://x.com/JohnMartinSain/status/2116587036157059517",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1286,
+      "source": "X",
+      "source_post_id": "2116586627435012457",
+      "author": "JohnPerry",
+      "language": "en",
+      "published_at": "2026-10-31T17:42:30Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "This Government is MAD to be bringing and welcoming these migrants into the UK, we need enforced mass remigration of millions.  \n\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.https://t.co/uQ1DvX901h",
+      "text_excerpt": "This Government is MAD to be bringing and welcoming these migrants into the UK, we need enforced mass remigration of millions.  \n\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.https://t.co/uQ1DvX901h",
+      "url": "https://x.com/JohnPerry/status/2116586627435012457",
+      "source_url": "https://x.com/JohnPerry/status/2116586627435012457",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1287,
+      "source": "X",
+      "source_post_id": "2116586523852239024",
+      "author": "CarolAb25084572",
+      "language": "en",
+      "published_at": "2026-10-31T17:42:06Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/fOnz0XvLOw via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/fOnz0XvLOw via @DailyMail",
+      "url": "https://x.com/CarolAb25084572/status/2116586523852239024",
+      "source_url": "https://x.com/CarolAb25084572/status/2116586523852239024",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1281,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xkconp",
+      "author": "Life_Paramedic_4399",
+      "language": null,
+      "published_at": "2026-10-31T15:10:40Z",
+      "first_detected_at": "2026-10-31T18:08:43Z",
+      "last_detected_at": "2026-10-31T18:08:43Z",
+      "detection_count": 1,
+      "text": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday",
+      "text_excerpt": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday",
+      "url": "https://www.reddit.com/r/uknews/comments/1xkconp/violent_migrants_attack_each_other_in_their/",
+      "source_url": "https://www.reddit.com/r/uknews/comments/1xkconp/violent_migrants_attack_each_other_in_their/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1278,
+      "source": "X",
+      "source_post_id": "2116588759101718647",
+      "author": "veiledleaks",
+      "language": "en",
+      "published_at": "2026-10-31T17:50:59Z",
+      "first_detected_at": "2026-10-31T18:08:13Z",
+      "last_detected_at": "2026-10-31T18:08:13Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/kS7wvgecTQ",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/kS7wvgecTQ",
+      "url": "https://x.com/veiledleaks/status/2116588759101718647",
+      "source_url": "https://x.com/veiledleaks/status/2116588759101718647",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1279,
+      "source": "X",
+      "source_post_id": "2116587875298861350",
+      "author": "AmericanMagaNew",
+      "language": "en",
+      "published_at": "2026-10-31T17:47:28Z",
+      "first_detected_at": "2026-10-31T18:08:14Z",
+      "last_detected_at": "2026-10-31T18:08:14Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland\n#BREAKING https://t.co/qlu0SVqmxh",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland\n#BREAKING https://t.co/qlu0SVqmxh",
+      "url": "https://x.com/AmericanMagaNew/status/2116587875298861350",
+      "source_url": "https://x.com/AmericanMagaNew/status/2116587875298861350",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -2102,6 +2741,572 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1280,
+      "source": "X",
+      "source_post_id": "2116588844594413846",
+      "author": "DinieStrijker",
+      "language": "en",
+      "published_at": "2026-10-31T17:51:19Z",
+      "first_detected_at": "2026-10-31T18:08:42Z",
+      "last_detected_at": "2026-10-31T18:08:42Z",
+      "detection_count": 1,
+      "text": "@visegrad24 Every week, around 900 to 1,000 asylum seekers from the Middle East and Africa arrive in the Netherlands, usually transported by bus. This steady influx of asylum seekers has been ongoing since 2015 and continues unabated. This boat carrying 36 'refugees' must have simply lost",
+      "text_excerpt": "@visegrad24 Every week, around 900 to 1,000 asylum seekers from the Middle East and Africa arrive in the Netherlands, usually transported by bus. This steady influx of asylum seekers has been ongoing since 2015 and continues unabated. This boat carrying 36 'refugees' must have simply lost",
+      "url": "https://x.com/DinieStrijker/status/2116588844594413846",
+      "source_url": "https://x.com/DinieStrijker/status/2116588844594413846",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "influx"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees",
+        "asylum seekers"
+      ],
+      "high_value_matches": [
+        "influx"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1282,
+      "source": "X",
+      "source_post_id": "2116589989051949530",
+      "author": "ImtiazMadmood",
+      "language": "en",
+      "published_at": "2026-10-31T17:55:52Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.\n\nThis has to stop. We can't house any African or Asian man who decides to move to Britain for better prospects. We have no other homeland to go to. We",
+      "text_excerpt": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.\n\nThis has to stop. We can't house any African or Asian man who decides to move to Britain for better prospects. We have no other homeland to go to. We",
+      "url": "https://x.com/ImtiazMadmood/status/2116589989051949530",
+      "source_url": "https://x.com/ImtiazMadmood/status/2116589989051949530",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1283,
+      "source": "X",
+      "source_post_id": "2116588072359891044",
+      "author": "VincentVanCloth",
+      "language": "en",
+      "published_at": "2026-10-31T17:48:15Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "And the left want this here....to fill any vacant property in every town, village or city\n@andyburnham Vote Labour and you're voting for this 👇\n\nViolent migrants jump into packed small boats as 671 arrived yesterday https://t.co/hYWE1dRtwD via @DailyMail",
+      "text_excerpt": "And the left want this here....to fill any vacant property in every town, village or city\n@andyburnham Vote Labour and you're voting for this 👇\n\nViolent migrants jump into packed small boats as 671 arrived yesterday https://t.co/hYWE1dRtwD via @DailyMail",
+      "url": "https://x.com/VincentVanCloth/status/2116588072359891044",
+      "source_url": "https://x.com/VincentVanCloth/status/2116588072359891044",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1284,
+      "source": "X",
+      "source_post_id": "2116587906718449909",
+      "author": "MontgomeryCla20",
+      "language": "en",
+      "published_at": "2026-10-31T17:47:35Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/u8Pyx0b2h4 via @DailyMail.  Heading our way..Wait! They already here😳",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/u8Pyx0b2h4 via @DailyMail.  Heading our way..Wait! They already here😳",
+      "url": "https://x.com/MontgomeryCla20/status/2116587906718449909",
+      "source_url": "https://x.com/MontgomeryCla20/status/2116587906718449909",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1285,
+      "source": "X",
+      "source_post_id": "2116587036157059517",
+      "author": "JohnMartinSain",
+      "language": "en",
+      "published_at": "2026-10-31T17:44:08Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/CMSWOMn1li via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/CMSWOMn1li via @DailyMail",
+      "url": "https://x.com/JohnMartinSain/status/2116587036157059517",
+      "source_url": "https://x.com/JohnMartinSain/status/2116587036157059517",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1286,
+      "source": "X",
+      "source_post_id": "2116586627435012457",
+      "author": "JohnPerry",
+      "language": "en",
+      "published_at": "2026-10-31T17:42:30Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "This Government is MAD to be bringing and welcoming these migrants into the UK, we need enforced mass remigration of millions.  \n\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.https://t.co/uQ1DvX901h",
+      "text_excerpt": "This Government is MAD to be bringing and welcoming these migrants into the UK, we need enforced mass remigration of millions.  \n\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday.https://t.co/uQ1DvX901h",
+      "url": "https://x.com/JohnPerry/status/2116586627435012457",
+      "source_url": "https://x.com/JohnPerry/status/2116586627435012457",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1287,
+      "source": "X",
+      "source_post_id": "2116586523852239024",
+      "author": "CarolAb25084572",
+      "language": "en",
+      "published_at": "2026-10-31T17:42:06Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/fOnz0XvLOw via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/fOnz0XvLOw via @DailyMail",
+      "url": "https://x.com/CarolAb25084572/status/2116586523852239024",
+      "source_url": "https://x.com/CarolAb25084572/status/2116586523852239024",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1281,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xkconp",
+      "author": "Life_Paramedic_4399",
+      "language": null,
+      "published_at": "2026-10-31T15:10:40Z",
+      "first_detected_at": "2026-10-31T18:08:43Z",
+      "last_detected_at": "2026-10-31T18:08:43Z",
+      "detection_count": 1,
+      "text": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday",
+      "text_excerpt": "Violent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday",
+      "url": "https://www.reddit.com/r/uknews/comments/1xkconp/violent_migrants_attack_each_other_in_their/",
+      "source_url": "https://www.reddit.com/r/uknews/comments/1xkconp/violent_migrants_attack_each_other_in_their/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1278,
+      "source": "X",
+      "source_post_id": "2116588759101718647",
+      "author": "veiledleaks",
+      "language": "en",
+      "published_at": "2026-10-31T17:50:59Z",
+      "first_detected_at": "2026-10-31T18:08:13Z",
+      "last_detected_at": "2026-10-31T18:08:13Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/kS7wvgecTQ",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/kS7wvgecTQ",
+      "url": "https://x.com/veiledleaks/status/2116588759101718647",
+      "source_url": "https://x.com/veiledleaks/status/2116588759101718647",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1279,
+      "source": "X",
+      "source_post_id": "2116587875298861350",
+      "author": "AmericanMagaNew",
+      "language": "en",
+      "published_at": "2026-10-31T17:47:28Z",
+      "first_detected_at": "2026-10-31T18:08:14Z",
+      "last_detected_at": "2026-10-31T18:08:14Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland\n#BREAKING https://t.co/qlu0SVqmxh",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland\n#BREAKING https://t.co/qlu0SVqmxh",
+      "url": "https://x.com/AmericanMagaNew/status/2116587875298861350",
+      "source_url": "https://x.com/AmericanMagaNew/status/2116587875298861350",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -2589,6 +3794,157 @@
         "X"
       ],
       "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1278,
+      "source": "X",
+      "source_post_id": "2116588759101718647",
+      "author": "veiledleaks",
+      "language": "en",
+      "published_at": "2026-10-31T17:50:59Z",
+      "first_detected_at": "2026-10-31T18:08:13Z",
+      "last_detected_at": "2026-10-31T18:08:13Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/kS7wvgecTQ",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/kS7wvgecTQ",
+      "url": "https://x.com/veiledleaks/status/2116588759101718647",
+      "source_url": "https://x.com/veiledleaks/status/2116588759101718647",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "2116588759101718647",
+        "2116587875298861350"
+      ],
+      "related_authors": [
+        "AmericanMagaNew",
+        "veiledleaks"
+      ],
+      "related_urls": [
+        "https://x.com/veiledleaks/status/2116588759101718647",
+        "https://x.com/AmericanMagaNew/status/2116587875298861350"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 2,
+      "platform_count": 1
+    },
+    {
+      "id": 1284,
+      "source": "X",
+      "source_post_id": "2116587906718449909",
+      "author": "MontgomeryCla20",
+      "language": "en",
+      "published_at": "2026-10-31T17:47:35Z",
+      "first_detected_at": "2026-10-31T18:09:40Z",
+      "last_detected_at": "2026-10-31T18:09:40Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/u8Pyx0b2h4 via @DailyMail.  Heading our way..Wait! They already here😳",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/u8Pyx0b2h4 via @DailyMail.  Heading our way..Wait! They already here😳",
+      "url": "https://x.com/MontgomeryCla20/status/2116587906718449909",
+      "source_url": "https://x.com/MontgomeryCla20/status/2116587906718449909",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.2,
+      "analyst_priority": "LOW",
+      "related_posts_count": 3,
+      "related_post_ids": [
+        "2116587906718449909",
+        "2116587036157059517",
+        "2116586523852239024"
+      ],
+      "related_authors": [
+        "CarolAb25084572",
+        "JohnMartinSain",
+        "MontgomeryCla20"
+      ],
+      "related_urls": [
+        "https://x.com/MontgomeryCla20/status/2116587906718449909",
+        "https://x.com/JohnMartinSain/status/2116587036157059517",
+        "https://x.com/CarolAb25084572/status/2116586523852239024"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 3,
       "platform_count": 1
     }
   ],
@@ -3724,9 +5080,196 @@
       "first_collected_at": "2026-10-31T14:00:03Z",
       "last_collected_at": "2026-10-31T14:00:03Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23579",
+      "timestamp": "2026-10-31T18:03:34Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116591927977992565",
+      "author": "JaneSim66",
+      "url": "https://x.com/JaneSim66/status/2116591927977992565",
+      "source_url": "https://x.com/JaneSim66/status/2116591927977992565",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "interception",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "And....another one.\n\nWB AP OB Normandie waiting in the centre of the channel with RNLI 17:45 headed out from Dover to intercept and collect.\n\nGet the welcome bunting out folks. Another new arrival of migrants is on the way. https://t.co/JKCvBEeCvk",
+      "text_excerpt": "And....another one.\n\nWB AP OB Normandie waiting in the centre of the channel with RNLI 17:45 headed out from Dover to intercept and collect.\n\nGet the welcome bunting out folks. Another new arrival of migrants is on the way. https://t.co/JKCvBEeCvk",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T18:09:39Z",
+      "last_collected_at": "2026-10-31T18:09:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23550",
+      "timestamp": "2026-10-31T18:02:06Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116591557625483269",
+      "author": "theredshift11",
+      "url": "https://x.com/theredshift11/status/2116591557625483269",
+      "source_url": "https://x.com/theredshift11/status/2116591557625483269",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@JimmyMack0320 @EdKrassen AI Overview\n\nPresident Joe Biden did not formally \"open\" the U.S. border, and federal border enforcement remained active throughout his administration, though his policies and the resulting surge in migrant arrivals led to widespread criticism that he effectively",
+      "text_excerpt": "@JimmyMack0320 @EdKrassen AI Overview\n\nPresident Joe Biden did not formally \"open\" the U.S. border, and federal border enforcement remained active throughout his administration, though his policies and the resulting surge in migrant arrivals led to widespread criticism that he effectively",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T18:08:13Z",
+      "last_collected_at": "2026-10-31T18:08:13Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23560",
+      "timestamp": "2026-10-31T17:58:26Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116590635490681135",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2116590635490681135",
+      "source_url": "https://x.com/grok/status/2116590635490681135",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "vessel",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@ruijordao10 Refugees from Xenora Prime race across red dust to the northern ice. The huge mothership descends, lights cutting the polar sky. They arrive as the vessel claims the pole. Salvation or the next nightmare? N37 continues. https://t.co/bEL5IU0jmG",
+      "text_excerpt": "@ruijordao10 Refugees from Xenora Prime race across red dust to the northern ice. The huge mothership descends, lights cutting the polar sky. They arrive as the vessel claims the pole. Salvation or the next nightmare? N37 continues. https://t.co/bEL5IU0jmG",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T18:08:42Z",
+      "last_collected_at": "2026-10-31T18:08:42Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23575",
+      "timestamp": "2026-10-31T17:31:55Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116583963426763078",
+      "author": "Perich_Suzanne",
+      "url": "https://x.com/Perich_Suzanne/status/2116583963426763078",
+      "source_url": "https://x.com/Perich_Suzanne/status/2116583963426763078",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@elonmusk America fought a whole civil war and ended Slavery!\n \nYou know who was bringing back slavery?\n Democrats and Republicans open borders with human trafficking. \nOpen borders and mass migration = Slavery",
+      "text_excerpt": "@elonmusk America fought a whole civil war and ended Slavery!\n \nYou know who was bringing back slavery?\n Democrats and Republicans open borders with human trafficking. \nOpen borders and mass migration = Slavery",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T18:09:11Z",
+      "last_collected_at": "2026-10-31T18:09:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23566",
+      "timestamp": "2026-10-31T17:29:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116583465176981775",
+      "author": "RabbiKikenstein",
+      "url": "https://x.com/RabbiKikenstein/status/2116583465176981775",
+      "source_url": "https://x.com/RabbiKikenstein/status/2116583465176981775",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Imagine how better the UK would be if this were the fate of literally every single boat full of migrants crossing the Channel. https://t.co/HoeVsnQ8ih",
+      "text_excerpt": "Imagine how better the UK would be if this were the fate of literally every single boat full of migrants crossing the Channel. https://t.co/HoeVsnQ8ih",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T18:08:43Z",
+      "last_collected_at": "2026-10-31T18:08:43Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-31T14:00:47.432837+00:00",
+  "last_archived_at": "2026-10-31T18:09:49.782991+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
