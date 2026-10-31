@@ -1024,6 +1024,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T23:00:08.978515+00:00"
+    },
+    "information:23622": {
+      "hu_text": "@LeeHarris Csónakot indítani? Börtön. Nagy késsel való cipelés és használat? Semmi gond, folytasd. A cél nem a te védelmed, hanem az, hogy a legális csempész hálózat ne szakadjon meg, mert túl jövedelmező. Minden migráns csak egy szám, és ez a szám pénzt jelent. 🤑",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és feltételezés a migrációs csempészetről, nincs bizonyíték a hálózat létezésére vagy működésére ebben a formában.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:17.360483+00:00"
+    },
+    "information:23642": {
+      "hu_text": "@barrracudaz @wageure @manofbird Izrael bombázta ugyanazokat a menekülttáborokat, miután az emberek megérkeztek, és megakadályozta, hogy élelmiszer jusson el hozzájuk.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos katonai cselekményekről szól, amelyek humanitárius következményekkel járnak, de nincs megerősített forrás vagy bizonyíték a bombázásra és az élelmiszerblokádra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:17.360506+00:00"
+    },
+    "information:23649": {
+      "hu_text": "A DarkViperAU nevű youtuber/streamer egy vitában mesterséges intelligenciát használt, majd törölte a vitát, amikor nem ment jól neki. A beszélgetésben történelmi tényeket és félrevezető állításokat kevert Izrael létrejöttéről és palesztinok földjének megszerzéséről. A kommentár szerint a zsidók jogszerűen vásároltak földet 1948 előtt, de ez nem magyarázza Izrael későbbi területszerzését, és a palesztinok egy része harc vagy félelem miatt menekült el, másokat pedig erőszakkal távolítottak el.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A történelmi tények részben igazak, de a narratíva összetett és vitatott, ezért részleges megerősítést kapott; a mesterséges intelligencia által generált összefoglaló segít a kontextus megértésében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:17.360514+00:00"
+    },
+    "information:23650": {
+      "hu_text": "Rajongói fikciós ötletek, ahol Arya lesz királynő Robb halála után. A történetvázlat szerint Arya visszatér, Robb módosítja végrendeletét, hogy ő legyen az örököse, és a Stark család titokban tartja visszatérését a politikai intrikák miatt. A vörös esküvő tragédiája következik, Robb meghal, és a Starkok súlyos csapást szenvednek.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy fikciós történet rajongói alkotásként, nincs köze a migrációhoz vagy valós eseményekhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:17.360519+00:00"
+    },
+    "record:2116645766903087231": {
+      "hu_text": "Friss hír: Erőszakos migránsok támadnak egymásra, miközben kétségbeesetten próbálnak zsúfolt kis csónakokba férkőzni, amelyek az Egyesült Királyság felé tartanak, miután tegnap 671-en érkeztek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migránsok közötti erőszakról szól a csónakos átkelések során, ami fontos a mozgás szándékának és kockázatainak megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:17.360523+00:00"
+    },
+    "record:2116658270274470296": {
+      "hu_text": "Erőszakos migránsok ugranak zsúfolt kis csónakokba, miután tegnap 671-en érkeztek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a migránsok mozgásáról és erőszakos viselkedéséről szól, de kevés részletet tartalmaz, és nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:17.360527+00:00"
     }
   },
   "legacy_reviews": {}
