@@ -386,6 +386,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T07:44:49.219076+00:00"
+    },
+    "record:2116431844455424146": {
+      "hu_text": "Taktikai változás – a számok drámaian csökkentek – ezért most a Daily Mail a gyerekeket célozza (azokat a gyerekeket, akiknek korábban megtagadták az utazást). Több mint 200 migráns gyerek érkezik hajóval Doverbe MINDEN HÓNAPBAN.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számadatokat tartalmaz, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen. Fontos a migrációs mozgások megértése szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:57.035405+00:00"
+    },
+    "record:reddit_1xjre81": {
+      "hu_text": "Harcoljunk a milliomosokkal, ne a migránsokkal. A szöveg a migráció politikai vitájáról, a populista jobboldal szerepéről és a közvélemény változásairól szól, különösen az EU-ba irányuló migráció kapcsán 2015-ben és azóta.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és társadalmi vitákat tartalmaz, amelyek önmagukban nem ellenőrizhetők tényként, de fontosak a migrációs diskurzus megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:57.035423+00:00"
+    },
+    "telegram:1173707041:9614": {
+      "hu_text": "Az iraki Erbílben a migrációs minisztérium és a palesztin konzulátus megvitatta a palesztinok helyzetét és szükségleteit, valamint az akadályok leküzdésének módjait. A látogatás célja a problémák feltárása és a szolgáltatások fejlesztése volt, hangsúlyozva az együttműködés fontosságát.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos látogatásról és együttműködésről számol be, de nincs külső megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:57.035428+00:00"
+    },
+    "telegram:1604168769:12422": {
+      "hu_text": "Az orosz Állami Duma elutasította a migránsokra vonatkozó új korlátozásokat, így a jelenlegi szabályozás változatlan marad, és nem lépnek életbe további tilalmak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A jogszabályi döntésről szól, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:57.035432+00:00"
+    },
+    "record:reddit_1xk3sft": {
+      "hu_text": "Calais-ban letartóztatták az Anthony Barnes nevű szélsőjobboldali „ellenőrt” egy migránsokkal való összetűzés után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés egy konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték a letartóztatásról és az esemény részleteiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:45:02.892411+00:00"
+    },
+    "telegram:1604168769:12423": {
+      "hu_text": "Egy indiai állampolgárt letartóztattak a szamarái Korumocs nemzetközi repülőtéren, miután 2 millió rubel értékű, 107 darab szintetikus gyémántot próbált csempészni az úgynevezett „zöld folyosón” keresztül. Az ügyben büntetőeljárás indult a 226.1-es orosz büntető törvénykönyvi cikkely alapján, és nyomozás folyik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés konkrét részleteket tartalmaz, de nincs független megerősítés vagy hivatalos forrás a csempészettel és letartóztatással kapcsolatban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:45:02.892430+00:00"
     }
   },
   "legacy_reviews": {}
