@@ -892,6 +892,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T18:10:27.128888+00:00"
+    },
+    "record:2116588072359891044": {
+      "hu_text": "És a baloldal ezt akarja itt... hogy minden üres ingatlant megtöltsenek minden városban, faluban vagy településen. @andyburnham Szavazz a Munkáspártra, és erre szavazol 👇 Erőszakos migránsok ugranak zsúfolt kis csónakokba, miközben tegnap 671 érkezett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás migránsok számáról, de nincs megerősített adat a konkrét eseményről vagy az állítások valóságtartalmáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:36.568539+00:00"
+    },
+    "record:2116588759101718647": {
+      "hu_text": "FRISS HÍR: Lengyelország bejelentette, hogy a lengyel hadsereget küldi az ország német és litván határára, hogy megakadályozza az illegális migránsok Lengyelországba való átlépését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági intézkedésről szóló állítás, amely jelentős hatással lehet a migrációs helyzetre, de nincs hivatalos megerősítés a bejelentésről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:36.568555+00:00"
+    },
+    "record:2116588844594413846": {
+      "hu_text": "@visegrad24 Hetente körülbelül 900-1000 menedékkérő érkezik a Közel-Keletről és Afrikából Hollandiába, általában busszal szállítva. Ez a folyamatos menedékkérő beáramlás 2015 óta tart és változatlanul folytatódik. Ez a 36 'menekültet' szállító hajó valószínűleg egyszerűen elveszett.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a menedékkérők számáról és érkezési módjáról, de nincs hivatalos adat vagy bizonyíték a pontos számokról vagy az adott hajó helyzetéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:36.568559+00:00"
+    },
+    "record:2116589989051949530": {
+      "hu_text": "Erőszakos migránsok támadják egymást kétségbeesetten, hogy bepréselődjenek az Egyesült Királyság felé tartó kis csónakokba, miután tegnap 671 érkezett. Ennek meg kell állnia. Nem tudunk befogadni egyetlen afrikai vagy ázsiai férfit sem, aki jobb lehetőségekért akar Nagy-Britanniába költözni. Nincs más hazánk, ahová mehetnénk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai és társadalmi vélemény, amely migránsok viselkedéséről és befogadásáról szól, de nincs megerősített adat az állítások valóságtartalmáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:36.568562+00:00"
+    },
+    "record:2116592765035520068": {
+      "hu_text": "🇫🇷 🇬🇧 HÍR: Franciaország csütörtökön öt brit állampolgárt tartóztatott le Dunkerque közelében, állítólag bevándorlásellenes cselekmények miatt, közölték a hatóságok.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos hatósági intézkedésről szóló állítás, de nincs további megerősítés vagy részletek az esetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:36.568565+00:00"
+    },
+    "record:reddit_1xkconp": {
+      "hu_text": "Erőszakos migránsok támadják egymást kétségbeesetten, hogy bepréselődjenek az Egyesült Királyság felé tartó kis csónakokba, miután tegnap 671 érkezett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Közösségi médiás állítás migránsok viselkedéséről, nincs megerősített bizonyíték az eseményről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:36.568567+00:00"
     }
   },
   "legacy_reviews": {}
