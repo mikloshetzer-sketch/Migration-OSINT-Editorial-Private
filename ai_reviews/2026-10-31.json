@@ -1090,6 +1090,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T23:00:17.360527+00:00"
+    },
+    "record:2116660367153860861": {
+      "hu_text": "🚨FRISS: Patriot Platform tüntetések országszerte azok előtt a cégek előtt, amelyek engedik, hogy edzőiket illegális migránsok szállítására használják az országba.\n\nAndy Burnham és a kormány utálja, hogy ez teljesen békés. 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🚨",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy társadalmi tiltakozásról számol be, amely migrációs segítéshez kapcsolódik, de nincs megerősített bizonyíték a tartalom hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:24.376919+00:00"
+    },
+    "record:reddit_1xk9e3p": {
+      "hu_text": "Krétán egy 23 éves dél-szudáni állampolgárt tartóztattak le 52 migráns csempészéséért Kala Limenes déli részén | Görögország",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs bűncselekményről számol be, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:24.376935+00:00"
+    },
+    "record:reddit_1xk9f52": {
+      "hu_text": "Dél-Krétán 84 migránst azonosítottak – Két dél-szudáni kiskorút tartóztattak le csempészként | Görögország",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs bűncselekményről szól, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:24.376939+00:00"
+    },
+    "telegram:1229318139:29792": {
+      "hu_text": "Iszlám ruházati irodai hirdetés: Halima márka, francia stílusú két részes ruha, különböző méretekben és árakon, elérhetőségek és közösségi média linkek megadva.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem kapcsolódik migrációs eseményhez vagy témához, hanem kereskedelmi jellegű hirdetés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:24.376944+00:00"
+    },
+    "record:reddit_1xkn06o": {
+      "hu_text": "Egy nagymamát Alabamából egy közép-afrikai országba deportáltak.\nForrás: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét migrációs eseményt ír le, de a forrás ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:39.918017+00:00"
+    },
+    "record:reddit_1xkn3sz": {
+      "hu_text": "Egy nagymamát Alabamából egy közép-afrikai országba deportáltak. Forrás: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét migrációs eseményt ír le, de a forrás nem ellenőrzött, és nincs további bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:41.699543+00:00"
     }
   },
   "legacy_reviews": {}
