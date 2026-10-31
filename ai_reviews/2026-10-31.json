@@ -518,6 +518,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T14:01:08.519634+00:00"
+    },
+    "information:23496": {
+      "hu_text": "Exkluzív felvétel a GB News számára mutatja azt a pillanatot, amikor egy késsel felfegyverzett migráns sikeresen felmászik egy kis csónakra, amely a Csatornán átkelve indul Nagy-Britannia felé. Észak-Franciaországban, Hardelot-Plage déli részén egy taxi csónak illegális migránsokat szállít az Egyesült Királyságba való átkeléshez.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét eseményt ír le, amely migrációs eseménynek minősül. Az információ nem ellenőrzött, mivel csak egy exkluzív felvételre hivatkozik, további bizonyíték nélkül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:18.425448+00:00"
+    },
+    "information:23497": {
+      "hu_text": "A lengyelországi bírósági összecsapás egy belpolitikai harc a Alkotmánybíróság irányításáért, rendőrök és tüntetők részvételével Varsóban. A migráció egy külön, folyamatban lévő európai kérdés: a rendőrségi adatok szerint bizonyos kategóriákban nő a külföldiekkel kapcsolatos bűncselekmények száma, és a határátkelő útvonalak is regisztráltak eseményeket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai és társadalmi diskurzust érint, de nem tartalmaz konkrét, ellenőrizhető adatokat vagy bizonyítékokat a migrációs helyzetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:18.425466+00:00"
+    },
+    "information:23499": {
+      "hu_text": "114 migránst akadályoztak meg abban, hogy átkeljenek az angol csatornán La Poterie-Cap-d'Antifer közelében, Franciaországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét migrációs eseményről szól, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:18.425469+00:00"
+    },
+    "information:23500": {
+      "hu_text": "Egy migráns csónakot a francia hatóságok majdnem 24 órán keresztül követtek a Csatornán, miközben az Egyesült Királyság felé közeledett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ határbiztonsági eseményre utal, de nem áll rendelkezésre megerősített bizonyíték vagy részletes forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:18.425472+00:00"
+    },
+    "information:23502": {
+      "hu_text": "Hollandia először tapasztalta meg, hogy egy csónaknyi „menekült” – akik várhatóan katonai korú férfiak – érkezett az országba, és így érezte azt, amit Európa többi része már közel két évtizede tapasztal. Egyértelmű, hogy Európa egyik része sem immunis a migrációs kihívásokra.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs eseményt ír le, de általános megfogalmazású és nem tartalmaz konkrét bizonyítékot vagy adatot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:18.425474+00:00"
+    },
+    "information:23504": {
+      "hu_text": "Exkluzív: Havonta több mint 200 kísérő nélküli migráns gyermek érkezik csónakkal Doverbe, és ez több millió fontba fog kerülni Nagy-Britanniának – írja Sue Reid.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményt és annak költségvonzatát tárgyalja, de nincs megerősített adat vagy hivatalos forrás a számokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:18.425477+00:00"
     }
   },
   "legacy_reviews": {}
