@@ -133,6 +133,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T01:14:34.204242+00:00"
+    },
+    "record:2116336824121716746": {
+      "hu_text": "@JazzyJ87283918 Az iszlám egy bevándorlási narratíván alapult, amikor Mohamed három évvel később, mint vallási menekült, Medinából Mekkába menekült, és nem távozott zsidó. Vallási menekültként bevándorolni, népesedni, növelni a követőket, kisebbségi negyedekbe költözni, másokat kiköltöztetni, politikába lépni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás történelmi és vallási narratívákat kever, de nincs konkrét bizonyíték a pontos eseményekre vagy szándékokra vonatkozóan, ezért nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:42.904817+00:00"
+    },
+    "record:2116337201143242824": {
+      "hu_text": "🚨| Több mint 150 migráns érkezett ma az Egyesült Királyságba kis hajókon az angol csatornán átkelve, miközben mások még úton vannak. Ez az első nap három hét után, hogy kis hajós migránsok érkeznek, miután hosszabb ideig rossz idő volt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás aktuális migrációs eseményről szól, de nincs független megerősítés vagy hivatalos adat, ezért előzetesen ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:42.904834+00:00"
+    },
+    "record:mastodon_117531881302009223": {
+      "hu_text": "# ICE Air gonoszságának nincs határa, de azt hittem, legalább stratégiai előrelátásuk lesz, hogy megvárják az ED utáni időszakot. A Trump-kormányzat tervezi, hogy az afgán migránsokat Los Angelesből Pakisztánba repítik, ahonnan várhatóan Afganisztánba toloncolják ki őket. Több mint 150 afgán migránst várhatóan deportálnak, akik elnyomással vagy megtorlással néznek szembe. # Trump, # Sadizmus, # Rasszizmus, # DHS, # Deportációk, # USPol",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy konkrét deportálási tervről szól, de a forrás nem hivatalos, és a link mögötti cikk nem ellenőrizhető, ezért előzetesen ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:42.904838+00:00"
+    },
+    "record:reddit_1xjsbz3": {
+      "hu_text": "2011 elején, amikor a szíriai biztonsági erők már lőttek a tüntetőkre Darában, és országos tüntetések zajlottak, Bassár el-Aszad a külföldi összeesküvés narratíváját használta, de engedményeket is tett a kurd Hasaka régióban: visszaadta az állampolgárságot a korábban megfosztott kurdoknak, csökkentette a dízel árát, és módosította a diszkriminatív rendeletet, amely megnehezítette a kurdok ingatlanvásárlását. Ez a lépés összefügg azzal, hogy a szíriai felkelés első nagyobb megmozdulása a keleti régióban indult 2010 végén és 2011 elején.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg történelmi eseményeket ismertet, amelyek részben dokumentáltak, de a forrás nem hivatalos, ezért előzetesen ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:42.904842+00:00"
+    },
+    "telegram:1261826972:54071": {
+      "hu_text": "🚩 Videóval ▶️ \"Pénzt ajánlottak fel nekem, és kurvának hívtak\", így élni az Loma Colmenar bevándorlói telep mellett. Nora, 19 éves, először nem érzi magát biztonságban Ceutában: \"Félek, hogy egyszer kidobnak egy árokba. Biztonságban akarok iskolába járni és hazamenni.\" \"Próbálok nem egyedül kimenni, és anyám aggódik.\" Fotógaléria: https://elfarodeceuta.es/dinero-puta-vivir-junto-asentamiento-inmigrantes-loma-colmenar/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes élménybeszámolót tartalmaz egy bevándorlói telep mellett élő fiatal nő részéről, amely nem ellenőrizhető tényállításokat tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:42.904845+00:00"
     }
   },
   "legacy_reviews": {}
