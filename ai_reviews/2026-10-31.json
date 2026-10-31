@@ -760,6 +760,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T14:01:43.818583+00:00"
+    },
+    "group:634": {
+      "hu_text": "🇫🇷 🇬🇧 HÍREK: Franciaország csütörtökön öt brit állampolgárt tartóztatott le Dunkerque közelében bevándorlásellenes cselekmények miatt, közölték a hatóságok.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:18.632463+00:00"
+    },
+    "information:23550": {
+      "hu_text": "Joe Biden elnök nem nyitotta meg hivatalosan az Egyesült Államok határát, és a szövetségi határőrizet aktív maradt az ő adminisztrációja alatt is, bár a politikája és a migránsok érkezésének növekedése széles körű kritikát váltott ki.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg politikai állítást tartalmaz a határpolitika kapcsán, amely fontos a migrációs kontextusban, de nincs hivatalos megerősítés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:18.632482+00:00"
+    },
+    "information:23560": {
+      "hu_text": "Menekültek a Xenora Prime fajból átszaladnak a vörös poron az északi jég felé. Egy hatalmas anyahajó ereszkedik le, fényei átszelik a sarki eget. Megérkeznek, miközben a hajó elfoglalja a sarkot. Megváltás vagy a következő rémálom? N37 folytatódik.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg sci-fi vagy fikciós jellegű, nem kapcsolódik valós migrációs eseményhez vagy témához.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:18.632486+00:00"
+    },
+    "information:23566": {
+      "hu_text": "Képzeld el, milyen jobb lenne az Egyesült Királyság, ha minden egyes migránsokkal teli hajó sorsa ilyen lenne, amely átkel a Csatornán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény vagy társadalmi diskurzus része, amely migrációs témát érint, de nem tényállítás vagy bizonyított esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:18.632489+00:00"
+    },
+    "information:23575": {
+      "hu_text": "Amerika egy egész polgárháborút vívott és megszüntette a rabszolgaságot! Tudod, ki hozta vissza a rabszolgaságot? A demokraták és a republikánusok nyitott határokkal és embercsempészettel. Nyitott határok és tömeges migráció = rabszolgaság.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus, amely migrációs témát érint, de nem bizonyított tény vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:18.632492+00:00"
+    },
+    "information:23579": {
+      "hu_text": "És... még egy érkezik. A WB AP OB Normandie a Csatorna közepén várakozik az RNLI-vel, 17:45-kor Doverből indult, hogy elfogjon és összegyűjtsön egy újabb migránscsoportot. Készítsétek elő a fogadó díszeket, újabb migráns érkezik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről szóló bejelentés, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:18.632513+00:00"
     }
   },
   "legacy_reviews": {}
