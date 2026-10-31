@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T01:14:25.487702+00:00"
+    },
+    "information:23387": {
+      "hu_text": "@RyanAckermann_ Ismét a nyitott határok, gyermekkereskedelem, tömeges illegális migráció, férfiak a női mosdókban, hatalmas csalások, hamis klímatudományra alapozott zöld energia programok, magasabb adók és magas bűnözés mellett szavaztál. Szép!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és állításokat tartalmaz, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:34.204213+00:00"
+    },
+    "information:23391": {
+      "hu_text": "'400' migráns pedofilok, erőszaktevők, drogdílerek/drogfüggők érkeztek kis csónakokon, és a munkáspárti kommunista diktátor Andy Burnham és őrült munkáspárti képviselői azt mondják: üdvözlünk, itt a szabad szállás és étel!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos bűncselekményekkel vádol migránsokat, de nincs megerősített bizonyíték, ezért fontos az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:34.204228+00:00"
+    },
+    "information:23392": {
+      "hu_text": "A HIAS és hasonló csoportok zsidó szövegekre alapozva kampányolnak az Egyesült Államokban és Európában a menekültek befogadásának bővítése mellett. Izraelben jogi segítséget és szolgáltatásokat nyújtanak a körülbelül 30 ezer afrikai menedékkérőnek, akik a határkerítés előtt érkeztek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Információ a menekültügyi civil szervezetek tevékenységéről, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:34.204232+00:00"
+    },
+    "record:2116321694163808606": {
+      "hu_text": "A kulturális kohézió hiányát úgy kezeljük, hogy először a problémát célozzuk meg, amely egy másik problémához vezetett: a nulla migráció elérését, az Emberi Jogok Európai Egyezményéből való kilépést és egy terv kidolgozását az illegális migránsok ügyének kezelésére. A szektarianizmus és rasszizmus esetén csak börtönbüntetés jár az elkövetőknek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai álláspont migrációs politikáról, nincs bizonyíték a hatékonyságára vagy megvalósítására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:34.204236+00:00"
+    },
+    "record:2116324153267548341": {
+      "hu_text": "Mennyiségi tanulmányok vegyes eredményeket mutatnak. Egyesek (pl. kerítésépítési elemzések, következményprogramok) szerint az elrettentés csökkenti az illegális átkelések kísérletét vagy sikerét. Mások szerint korlátozott a hatás az összbeáramlásra, vagy visszafelé sül el a visszatérő migráció csökkenése miatt, ami növeli a számot.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Tudományos eredmények összefoglalása a határbiztonsági intézkedések hatásairól, de nincs konkrét forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:34.204239+00:00"
+    },
+    "record:2116329990174458210": {
+      "hu_text": "🚨FRISS: A francia rendőrség átszúrta egy illegális migránsokat szállító hajó gumiját, amely az angol csatornán próbált átkelni. Többet tettek, mint Keir Starmer. Gratulálunk a rendőröknek. 👏",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jelentés egy határbiztonsági akcióról, de nincs független megerősítés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:34.204242+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
