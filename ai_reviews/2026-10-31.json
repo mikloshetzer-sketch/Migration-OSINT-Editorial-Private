@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T01:14:42.904845+00:00"
+    },
+    "group:628": {
+      "hu_text": "Anthony Barnes, egy szélsőjobboldali 'ellenőr' Calais-ban letartóztatásra került egy 'migráns vadászat' során történt összetűzés után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hír migrációs eseményhez kapcsolódik, de nincs megerősített forrás vagy további bizonyíték a letartóztatás részleteiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:32.889113+00:00"
+    },
+    "group:629": {
+      "hu_text": "Csütörtökön 263 migráns érkezett Doverbe, ez volt az első hajó három hét alatt. Hardelotnál egy késsel felfegyverzett férfi harcolt egy csónakon, miközben a francia mentőhajók tétlenül várakoztak. Nagy-Britannia fizet Franciaországnak, hogy ellenőrizze a partszakaszt, és Burnham belügyminisztériuma ezt előrelépésnek tartja.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét migrációs eseményt ír le, amely fontos a határátlépés és a migrációs helyzet szempontjából, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:32.889137+00:00"
+    },
+    "information:23413": {
+      "hu_text": "A Közel-Kelet megalitikus építészete és a bronzkor kezdeti városállamai jelentős változásokat hoztak a nomád és fél-nomád közösségek életében. Az új városállamok kialakulása, a királyok és határok megjelenése, valamint a mezőgazdasági területek állami ellenőrzése miatt a nomád pásztorok hagyományos vándorlási útvonalai és legelői megszűntek, ami gazdasági és földrajzi kiszorításhoz vezetett.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció, amely jól ismert régészeti és történeti kutatásokon alapul, nem tartalmaz migrációs eseményre vonatkozó állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:32.889144+00:00"
+    },
+    "information:23417": {
+      "hu_text": "A Közel-Kelet megalitikus építészete és a bronzkor kezdeti városállamai jelentős változásokat hoztak a nomád és fél-nomád közösségek életében. Az új városállamok kialakulása, a királyok és határok megjelenése, valamint a mezőgazdasági területek állami ellenőrzése miatt a nomád pásztorok hagyományos vándorlási útvonalai és legelői megszűntek, ami gazdasági és földrajzi kiszorításhoz vezetett.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ismétlődő történelmi háttérinformáció, amely megbízható forrásokon alapul, nem migrációs esemény vagy aktuális állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:32.889148+00:00"
+    },
+    "information:23424": {
+      "hu_text": "A Trump-kormányzat Louisiana államban több tucat afgán bevándorlót tart fogva, és tervezi, hogy visszaküldi őket Afganisztánba, köztük olyanokat is, akik diszkriminációval szembesülhetnek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai és jogi állítás a migrációs visszaküldésekről, de nincs megerősített hivatalos forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:32.889152+00:00"
+    },
+    "information:23428": {
+      "hu_text": "Az Európai Bizottság javaslatot tett a Frontex, az EU határügynökségének megerősítésére, amelynek keretében akár 30 000 fős erőt is létrehoznának a kitoloncolások koordinálására és a migrációs kihívások kezelésére.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jelentős uniós migrációs és határbiztonsági politika javaslat, amely fontos a migrációs helyzet szempontjából, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:32.889156+00:00"
     }
   },
   "legacy_reviews": {}
