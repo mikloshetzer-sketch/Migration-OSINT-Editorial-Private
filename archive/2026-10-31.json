@@ -67,6 +67,50 @@
       "text": "# ICE Air’s # evil has no bottom,🚨but I thought they’d at least have the strategic foresight to wait until after ED.\" -G Brockell # TrumpRegime : plans to fly the Afghan # immigrants from LA to PK *expected🚨to be expelled over the bdr to AFG. >150 Afghan IMMs🚨💔are expected to be deported. By sending them to PK —which'd then send them to AFG➡️Trump regime: found a way to expel them *face repression or retaliation... # Trump , R MOC...➡️ # Sadism # Racism # DHS # Deportations # USPol https://www. nytimes.com/2026/10/30/world/a sia/afghan-refugees-deported-flight-pakistan.html?unlocked_article_code=1.MlE.0Vnd.-VKewWgt0SLz&smid=nytcore-android-share",
       "url": "https://toad.social/@KimPerales/117531881302009223",
       "source_url": "https://toad.social/@KimPerales/117531881302009223"
+    },
+    {
+      "id": 786,
+      "event_id": 786,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk3sft",
+      "author": "johnsmithoncemore",
+      "published_at": "2026-10-31T07:21:00Z",
+      "collected_at": "2026-10-31T07:39:20Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Far-right 'auditor' Anthony Barnes arrested in Calais after 'migrant hunt' confrontation",
+      "url": "https://www.reddit.com/r/FuckNigelFarage/comments/1xk3sft/farright_auditor_anthony_barnes_arrested_in/",
+      "source_url": "https://www.reddit.com/r/FuckNigelFarage/comments/1xk3sft/farright_auditor_anthony_barnes_arrested_in/"
+    },
+    {
+      "id": 787,
+      "event_id": 787,
+      "source": "X",
+      "source_post_id": "2116418822244905035",
+      "author": "PaperTrailGeo",
+      "published_at": "2026-10-31T06:35:43Z",
+      "collected_at": "2026-10-31T07:40:12Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "263 migrants landed at Dover Thursday, first boats in three weeks. At Hardelot a knifeman fought aboard a dinghy as French rescue boats idled. Britain pays France to hold that beach, and Burnham's Home Office calls it progress.\n\nhttps://t.co/n7BDT1nY9b",
+      "url": "https://x.com/PaperTrailGeo/status/2116418822244905035",
+      "source_url": "https://x.com/PaperTrailGeo/status/2116418822244905035"
     }
   ],
   "event_groups": [
@@ -156,6 +200,64 @@
       "average_confidence": 0.55,
       "created_at": "2026-10-31T01:10:33Z",
       "updated_at": "2026-10-31T01:10:33Z"
+    },
+    {
+      "id": 628,
+      "group_id": 628,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "Far-right 'auditor' Anthony Barnes arrested in Calais after 'migrant hunt' confrontation",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-31T07:21:00Z",
+      "last_seen": "2026-10-31T07:21:00Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "REDDIT"
+      ],
+      "sources": [
+        "REDDIT"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-31T07:39:20Z",
+      "updated_at": "2026-10-31T07:39:20Z"
+    },
+    {
+      "id": 629,
+      "group_id": 629,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "263 migrants landed at Dover Thursday, first boats in three weeks. At Hardelot a knifeman fought aboard a dinghy as French rescue boats idled. Britain pays France to hold that beach, and Burnham's Home Office calls it progress.\n\nhttps://t.co/n7BDT1nY9b",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-31T06:35:43Z",
+      "last_seen": "2026-10-31T06:35:43Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-31T07:40:12Z",
+      "updated_at": "2026-10-31T07:40:12Z"
     }
   ],
   "influence_signals": [
@@ -405,6 +507,353 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1271,
+      "source": "X",
+      "source_post_id": "2116430046785417629",
+      "author": "PGO_MV",
+      "language": "en",
+      "published_at": "2026-10-31T07:20:19Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "text_excerpt": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "source_url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 66.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1270,
+      "source": "X",
+      "source_post_id": "2116431844455424146",
+      "author": "dave43law",
+      "language": "en",
+      "published_at": "2026-10-31T07:27:27Z",
+      "first_detected_at": "2026-10-31T07:40:12Z",
+      "last_detected_at": "2026-10-31T07:40:12Z",
+      "detection_count": 1,
+      "text": "Tactic change - numbers have dramatically fallen - so now the Mail target the children (children that they have denied travel before)\n\nHow more than 200 migrant children arrive by boat in Dover EVERY MONTH https://t.co/1emTH1zNDd via @DailyMail",
+      "text_excerpt": "Tactic change - numbers have dramatically fallen - so now the Mail target the children (children that they have denied travel before)\n\nHow more than 200 migrant children arrive by boat in Dover EVERY MONTH https://t.co/1emTH1zNDd via @DailyMail",
+      "url": "https://x.com/dave43law/status/2116431844455424146",
+      "source_url": "https://x.com/dave43law/status/2116431844455424146",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant children arrive"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant children arrive"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1274,
+      "source": "X",
+      "source_post_id": "2116426506251673601",
+      "author": "PannalalChakr11",
+      "language": "en",
+      "published_at": "2026-10-31T07:06:15Z",
+      "first_detected_at": "2026-10-31T07:44:08Z",
+      "last_detected_at": "2026-10-31T07:44:08Z",
+      "detection_count": 1,
+      "text": "@sarkar28922 Left Front started that long ago, since 1950s.\n\nThey stopped refugees from leaving WB and going to A&amp;N islands.. Dandakaranya etc.. This was done for vote banks only\n\nRefugees didn’t understand. So after LF rule started, they tried to come back… and Marichjhapi happened",
+      "text_excerpt": "@sarkar28922 Left Front started that long ago, since 1950s.\n\nThey stopped refugees from leaving WB and going to A&amp;N islands.. Dandakaranya etc.. This was done for vote banks only\n\nRefugees didn’t understand. So after LF rule started, they tried to come back… and Marichjhapi happened",
+      "url": "https://x.com/PannalalChakr11/status/2116426506251673601",
+      "source_url": "https://x.com/PannalalChakr11/status/2116426506251673601",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees from leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees from leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1272,
+      "source": "X",
+      "source_post_id": "2116425395952140292",
+      "author": "factshurtfools",
+      "language": "en",
+      "published_at": "2026-10-31T07:01:50Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "@In4class1 @RedJoker6a Modern slavery in South Africa today includes:\n\nSex and labor trafficking\nForced labor\nChild exploitation\nDomestic servitude\nMigrant debt bondage",
+      "text_excerpt": "@In4class1 @RedJoker6a Modern slavery in South Africa today includes:\n\nSex and labor trafficking\nForced labor\nChild exploitation\nDomestic servitude\nMigrant debt bondage",
+      "url": "https://x.com/factshurtfools/status/2116425395952140292",
+      "source_url": "https://x.com/factshurtfools/status/2116425395952140292",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking Forced labor Child exploitation Domestic servitude Migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [
+        "trafficking Forced labor Child exploitation Domestic servitude Migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1273,
+      "source": "X",
+      "source_post_id": "2116421286595563992",
+      "author": "John_the_svg",
+      "language": "en",
+      "published_at": "2026-10-31T06:45:30Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "@avibrahimberk Or because that are probably putting up hundreds of thousands of migrants in hotels &amp; cutting $ from essential services like transport. 🤔",
+      "text_excerpt": "@avibrahimberk Or because that are probably putting up hundreds of thousands of migrants in hotels &amp; cutting $ from essential services like transport. 🤔",
+      "url": "https://x.com/John_the_svg/status/2116421286595563992",
+      "source_url": "https://x.com/John_the_svg/status/2116421286595563992",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrants in hotels &amp; cutting $ from essential services like transport"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants in hotels &amp; cutting $ from essential services like transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1269,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjre81",
+      "author": "NationaliseTheRich",
+      "language": null,
+      "published_at": "2026-10-30T21:05:49Z",
+      "first_detected_at": "2026-10-31T07:39:50Z",
+      "last_detected_at": "2026-10-31T07:39:50Z",
+      "detection_count": 1,
+      "text": "Fight the millionaires, not the migrants\nhttps://marxist.com/fight-the-millionaires-not-the-migrants.htm Racist pogroms in the North of Ireland, masked men trying to prevent the landing of a small boat in Portsmouth, violent deportation raids by ICE in the US, tens of thousands crossing the Morocco-Spanish border at Ceuta… The question of migration is now at the centre of the political debate in many countries and is a crucial part of the political platform of the populist right wing in ascent. Why is that, and what should the position of communists be on this important question? Public opinion stances on migration have varied widely even in recent years. In 2015, there was an outpouring of sympathy and solidarity with migrants when public opinion was shocked by the picture of two-year-old Syrian Alan Kurdi dead on a Turkish beach, after the boat he was travelling on capsized attempting to reach the European Union. That was also the time when a migrant caravan mainly of Syrian refugees attempted to reach the EU border through the Balkan route. Tens of thousands marched in Barcelona in solidarity with migrants and against ‘Fortress Europe’ policies. In Britain 400,000 signed a viral petition to Parliament with a call to “accept more asylum seekers and increase support for refugee migrants in the UK”. In the case of Britain, that was just before the Brexit referendum campaign which was permeated by strong anti-migrant sentiment. Today, the idea of the so-called ‘great replacement’ – that somehow there is a plan by ‘globalist’ elites to replace the native population with foreigners – has spread widely and, to one degree or another, is a key part of the rhetoric of the populist right political parties. Growth in migration Has there been a growth in migration? Yes, all reliable statistics show there has been a growth in global migration in the last 20/30 years. According to UN population estimates , in 2000 there were 174 million migrants globally, representing 2.8 percent of the population. In 2025, the figure had gone up to 307 million, or 3.7 percent of the total population. That is a 30 percent increase in the number of migrants as a percentage of the total population in 25 years. In 2022 there were 167 million migrant workers, 4.7 percent of the global workforce, which is an increase of over 30 million since 2013 . ￼ The number of people displaced by war and humanitarian crises has gone up from 38 million in 2000, to 82 million in 2020, and to 123 million in 2024, or about 1.5 percent of the world’s population – although about 60 percent of those are internally displaced. The world crisis of capitalism is driving migration, through wars (Sudan, Syria, Ukraine, Afghanistan, Iraq, etc.), famine, and environmental disasters, while the process of capitalist ‘globalisation’ has intensified the imperialist exploitation of ‘third world’ countries. The decline in the rate of population growth in advanced capitalist countries means capitalists need to bring in tens of millions of migrant workers. Some have argued that right-wing populist formations are growing because of the prevalence of fake news and deliberate campaigns on social media. This is an ‘explanation’ that explains nothing. It is clear that the algorithms that dominate social media drive polarisation and thrive on conflict. But it is not as if previously the traditional media were telling the truth while now social media is spreading fake news and misinformation. The traditional media is just as racist and xenophobic when it wants to be. In fact it is the widespread discrediting of traditional media sources – which are rightly seen as promoting the interests of the rich and powerful – that has allowed social media sources to gain prominence as the main source of news for increasing layers of the population. In any case, in normal times, the dominant ideas in society are those of the ruling class. There are several reasons why it has been possible for reactionary right-wing demagogues to use the question of migration to effectively win over popular support. The main one is that they are tapping into real existing social and economic problems – such as a lack of affordable housing, collapsing health and education services, a general economic malaise, and the impact of de-industrialisation in working class communities – and then scapegoating migrants for those. All of these problems have aggravated in the recent period, particularly since the 2008 crisis of capitalism and the protracted period of economic stagnation which has followed. The scapegoating of migrants has been driven by traditional conservative, liberal, and social-democratic parties and governments, who have nothing else to offer the workers. Like their upstart right-wing counterparts, they prefer to talk about migrants arriving in boats than the policies they themselves are carrying out. This is compounded by the fact that no-one else is offering any alternative explanation, nor an answer to these very real and worsening social problems. The official ‘left’ and the leaders of the official labour movement are, at worst, part of governments carrying out austerity policies, attacks on the working class, cuts on social and welfare spending, or, at best, are unable to offer any real alternative. This is the fertile ground on which racist and anti-migrant sentiment has developed. What is the attitude of the ruling class? What is the attitude of the ruling class towards migration? The ruling class is divided on this question. In 2024, the Financial Times published an opinion article with the headline ‘Immigration crackdowns are good politics but bad economics’. On the one hand, they need migrant workers as a reserve army of labour to drive down wages and conditions. But on the other hand, they realise that scapegoating migrants is useful to divert attention from the capitalists and the rich at the top and their system, who are the real culprits for worsening conditions. Most advanced capitalist countries are experiencing population decline. This is also partly driven by the crisis of capitalism. As the cost of living goes up, particularly the cost of housing, childcare, etc., couples are more reluctant to have children, or to have more than one. In order to replenish the labour market, capitalists need to bring in migrant workers. Furthermore, migrant workers generally are forced to accept worse conditions, fewer rights, and work longer hours for less pay. Their conditions may be bad, or worse than native workers, but they are probably better than those of their countries of origin. And at least they have the expectation of improving them. In this way, migrant workers can be then used to undermine the overall conditions of the working class. It is therefore useful from the point of view of the ruling class that a layer of these workers is kept in illegal or irregular conditions. Their lack of formal legal rights can be used to further undermine their conditions. On one occasion, when migrant workers at a cleaning contractor in a London university attempted to organise a union, the company tricked them into attending a ‘training day’ which turned out to be a police migration raid and they were detained and deported. The right wing are going on the offensive. Now is the time for the working class to defend its communities from racist thuggery. In some cases migrant workers are brought in for seasonal work and then sent back home when they are not needed. This is the case with Eastern European farm workers in the East of England, or Moroccan women workers in the strawberry fields in Huelva, Spain. All of these factors tend to cheapen the costs of labour for the bosses and are therefore extremely useful for the ruling class. Also, bringing in migrant workers with certain skills (be they computer programmers or nurses, electricians or carers) cheapens the cost of labour, as it saves on the cost of training them, which is carried out by the education system of their countries of origin. The ruling class of the receiving country then does not have to invest in education and training, but gets ready-trained skilled workers. Through migration, the countries of origin are robbed of their most able, most skilled labour. But this need of the ruling class for cheap labour is in contradiction to the political use of migrants as scapegoats for problems created by the crisis of capitalism. Trump found this out when his capitalist chums told him to stop immigration raids in meatpacking plants and farms, as they were leaving them without workers to exploit. What are the interests of the working class? So, what are the interests of the working class regarding migration, and what should be the position of communists in dealing with this question? This question should be approached from two sides. First is in relation to the country of origin. Working people are forced to leave their countries, sometimes to abandon their immediate family, the places they know and where they grew up, because they cannot make a decent living and provide for those they care for and their loved ones. Many are forced to embark on an often perilous journey, risking their lives and spending large amounts of money in order to look for a better future in a far away place. When they get there, if they manage to get there, often their expectations are not met. Some will be able to make a decent living, after a period of time, but many will be condemned to conditions of extreme exploitation, subject to violence and sexual abuse, and will always be wary of being deported. The ruling class in the imperialist countries, which is responsible for creating the conditions which force millions to uproot themselves and migrate, then receive them with barbed wire, detention camps and gunboats, or pay reactionary regimes in border countries to prevent them from crossing over. We are of course not in favour of that. We fight for a better world, one in which working people can live decent lives and where they are not forced to emigrate to far-off lands to eke out a living, a world where misery, hunger, exploitation, and war are a thing of the past. That requires a struggle to abolish capitalism and imperialism which are the cause of these ills. As long as this rotten system exists people will be forced to emigrate, no matter how dangerous it may be or how many barriers are raised, as has been proven time and time again. In relation to the countries receiving migrants, the ruling class use them in several ways. As a source of cheap labour, which is used to drive down the conditions of the working class in general, as has been explained. But also as a way to divide the working class, by fomenting racism and bigotry. Under the guise of clamping down on ‘illegal immigration’ the ruling class has been making it ever more difficult for migrants to arrive and establish themselves legally. In the recent period more measures have been taken to limit the rights of migrants, forcing them into insecure work visas, making them completely dependent on their employers, and therefore at risk of deportation for trade union and political activities. The only effective way to fight that is not for the working class to line up behind any of the sections of the ruling class in supporting their interests – neither those who use migrants as cheap labour nor those who use them as scapegoats – the only effective way is for the working class to approach this question from the point of view of our own independent class interests. To prevent migrants from being used to undercut the general conditions of the workers, they must be organised in a fighting and militant trade union and political movement of the working class, struggling for equal rights, wages and conditions for all workers. Only by bringing the wages and conditions of migrant workers up to the level of the rest of the working class through the joint struggle of workers, migrant or native, can their common interests be defended and the ruling class defeated. Class struggle methods The organisation of migrant workers into the ranks of the trade union movement requires a break with its present bureaucratic, conservative leadership steeped in class collaboration and so-called ‘social partnership’, and the adoption of militant class struggle methods. The labour movement must fight against any and all discrimination against workers on any basis, including their ethnic background, country of origin, or immigration status. The lack of rights of migrant workers is used to enforce extreme conditions of exploitation which drive down overall conditions for all workers. The labour movement must fight for the defence of any section of the class against racist pogroms, including the organisation of workers’ self-defence to protect targeted communities, as we have seen in the inspiring movement against ICE raids in Minneapolis. An injury to one is an injury to all. ￼ But in addition to defending migrant workers against super-exploitation and repression in the workplace and on the streets, the labour movement must go on the offensive. In order to prevent right-wing ruling class demagogues from using the question of migration to divert attention from the fact that the capitalist system is the real cause of the cost of living crisis, the lack of affordable housing, the collapse of social services and infrastructure, and so on, a revolutionary, militant, anti-capitalist policy to address these very real problems is required. Only such a policy can expose these demagogues for what they are: defenders of the same rotten system. This class approach is at odds with the policy of the liberals and the so-called left, which address the question of migration from a purely sentimental or moral point of view. Sectarians follow in their footsteps with empty moralistic slogans such as ‘refugees are welcome here’. At a time when there is a dire lack of housing, for instance, it is not difficult to demagogically turn public opinion against refugees being housed in hotels at the taxpayer’s expense. That cannot be countered by moral appeals, but rather through a serious campaign to solve the problem of high rents and high housing costs – one that involves a serious programme of housebuilding in the public sector, the expropriation of landlords and construction companies, etc. The recent explosion of anger over the question of housing in Spain is an excellent example of how the struggle to solve real social and economic problems facing working class people can cut across the appeal of reactionary demagogues. Prior to this movement, the whole political debate was dominated by reactionary anti-migrant ideas. The question was being posed of who should have priority in access to scarce housing. Now, as a result of the mass movement in the streets, the centre of attention has turned towards the need to expropriate corporate landlords and other similar anti-capitalist measures to guarantee housing for all. These proposals have overwhelming popular support – even amongst the voters of right and far-right parties! Struggle against capitalism Even worse is the position of lefts and liberals who join or support capitalist governments carrying out cuts in social spending, with the ‘lesser-evil’ argument of the need for unity of all ‘democratic forces’ to stop fascism and the far right. The struggle for scarce resources leads directly to the division of the working class into different competing groups. Anyone who accepts the idea that there are scarce resources will end down this road, in one way or another. Only by posing the question in class terms can division be overcome. There are plenty of resources available, they are in the hands of the capitalist class, the real enemy of workers, native or migrant. The unity of the working class is paramount and anything which undermines it is reactionary. The fight against racism and anti-migrant prejudice is a life-and-death matter for the working class, for these are used to divide the workers and pitch one section of the class against the other. But this struggle can only be undertaken on the basis of a working-class militant programme against all sections of the ruling class. The working-class movement must adopt revolutionary militant methods to fight against the crisis of capitalism in all its manifestations: against cuts in welfare, for decent housing, education and health care for all. Above all, these struggles must be seen as part of the general struggle against the capitalist system.",
+      "text_excerpt": "Fight the millionaires, not the migrants\nhttps://marxist.com/fight-the-millionaires-not-the-migrants.htm Racist pogroms in the North of Ireland, masked men trying to prevent the landing of a small boat in Portsmouth, violent deportation raids by ICE in the US, tens of thousands crossing the Morocco-Spanish border at Ceuta… The question of migration is now at the centre of the political debate in many countries and is a crucial part of the political platform of the populist right wing in ascent. Why is that, and what should the position of communists be on this important question? Public opinion stances on migration have varied widely even in recent years. In 2015, there was an outpouring of ",
+      "url": "https://www.reddit.com/r/socialism/comments/1xjre81/fight_the_millionaires_not_the_migrants/",
+      "source_url": "https://www.reddit.com/r/socialism/comments/1xjre81/fight_the_millionaires_not_the_migrants/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "raid"
+        ],
+        [
+          "enforcement",
+          "detained"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -656,6 +1105,353 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1271,
+      "source": "X",
+      "source_post_id": "2116430046785417629",
+      "author": "PGO_MV",
+      "language": "en",
+      "published_at": "2026-10-31T07:20:19Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "text_excerpt": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "source_url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 66.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1270,
+      "source": "X",
+      "source_post_id": "2116431844455424146",
+      "author": "dave43law",
+      "language": "en",
+      "published_at": "2026-10-31T07:27:27Z",
+      "first_detected_at": "2026-10-31T07:40:12Z",
+      "last_detected_at": "2026-10-31T07:40:12Z",
+      "detection_count": 1,
+      "text": "Tactic change - numbers have dramatically fallen - so now the Mail target the children (children that they have denied travel before)\n\nHow more than 200 migrant children arrive by boat in Dover EVERY MONTH https://t.co/1emTH1zNDd via @DailyMail",
+      "text_excerpt": "Tactic change - numbers have dramatically fallen - so now the Mail target the children (children that they have denied travel before)\n\nHow more than 200 migrant children arrive by boat in Dover EVERY MONTH https://t.co/1emTH1zNDd via @DailyMail",
+      "url": "https://x.com/dave43law/status/2116431844455424146",
+      "source_url": "https://x.com/dave43law/status/2116431844455424146",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant children arrive"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant children arrive"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1274,
+      "source": "X",
+      "source_post_id": "2116426506251673601",
+      "author": "PannalalChakr11",
+      "language": "en",
+      "published_at": "2026-10-31T07:06:15Z",
+      "first_detected_at": "2026-10-31T07:44:08Z",
+      "last_detected_at": "2026-10-31T07:44:08Z",
+      "detection_count": 1,
+      "text": "@sarkar28922 Left Front started that long ago, since 1950s.\n\nThey stopped refugees from leaving WB and going to A&amp;N islands.. Dandakaranya etc.. This was done for vote banks only\n\nRefugees didn’t understand. So after LF rule started, they tried to come back… and Marichjhapi happened",
+      "text_excerpt": "@sarkar28922 Left Front started that long ago, since 1950s.\n\nThey stopped refugees from leaving WB and going to A&amp;N islands.. Dandakaranya etc.. This was done for vote banks only\n\nRefugees didn’t understand. So after LF rule started, they tried to come back… and Marichjhapi happened",
+      "url": "https://x.com/PannalalChakr11/status/2116426506251673601",
+      "source_url": "https://x.com/PannalalChakr11/status/2116426506251673601",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees from leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees from leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1272,
+      "source": "X",
+      "source_post_id": "2116425395952140292",
+      "author": "factshurtfools",
+      "language": "en",
+      "published_at": "2026-10-31T07:01:50Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "@In4class1 @RedJoker6a Modern slavery in South Africa today includes:\n\nSex and labor trafficking\nForced labor\nChild exploitation\nDomestic servitude\nMigrant debt bondage",
+      "text_excerpt": "@In4class1 @RedJoker6a Modern slavery in South Africa today includes:\n\nSex and labor trafficking\nForced labor\nChild exploitation\nDomestic servitude\nMigrant debt bondage",
+      "url": "https://x.com/factshurtfools/status/2116425395952140292",
+      "source_url": "https://x.com/factshurtfools/status/2116425395952140292",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking Forced labor Child exploitation Domestic servitude Migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrant"
+      ],
+      "high_value_matches": [
+        "trafficking Forced labor Child exploitation Domestic servitude Migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1273,
+      "source": "X",
+      "source_post_id": "2116421286595563992",
+      "author": "John_the_svg",
+      "language": "en",
+      "published_at": "2026-10-31T06:45:30Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "@avibrahimberk Or because that are probably putting up hundreds of thousands of migrants in hotels &amp; cutting $ from essential services like transport. 🤔",
+      "text_excerpt": "@avibrahimberk Or because that are probably putting up hundreds of thousands of migrants in hotels &amp; cutting $ from essential services like transport. 🤔",
+      "url": "https://x.com/John_the_svg/status/2116421286595563992",
+      "source_url": "https://x.com/John_the_svg/status/2116421286595563992",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrants in hotels &amp; cutting $ from essential services like transport"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants in hotels &amp; cutting $ from essential services like transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1269,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjre81",
+      "author": "NationaliseTheRich",
+      "language": null,
+      "published_at": "2026-10-30T21:05:49Z",
+      "first_detected_at": "2026-10-31T07:39:50Z",
+      "last_detected_at": "2026-10-31T07:39:50Z",
+      "detection_count": 1,
+      "text": "Fight the millionaires, not the migrants\nhttps://marxist.com/fight-the-millionaires-not-the-migrants.htm Racist pogroms in the North of Ireland, masked men trying to prevent the landing of a small boat in Portsmouth, violent deportation raids by ICE in the US, tens of thousands crossing the Morocco-Spanish border at Ceuta… The question of migration is now at the centre of the political debate in many countries and is a crucial part of the political platform of the populist right wing in ascent. Why is that, and what should the position of communists be on this important question? Public opinion stances on migration have varied widely even in recent years. In 2015, there was an outpouring of sympathy and solidarity with migrants when public opinion was shocked by the picture of two-year-old Syrian Alan Kurdi dead on a Turkish beach, after the boat he was travelling on capsized attempting to reach the European Union. That was also the time when a migrant caravan mainly of Syrian refugees attempted to reach the EU border through the Balkan route. Tens of thousands marched in Barcelona in solidarity with migrants and against ‘Fortress Europe’ policies. In Britain 400,000 signed a viral petition to Parliament with a call to “accept more asylum seekers and increase support for refugee migrants in the UK”. In the case of Britain, that was just before the Brexit referendum campaign which was permeated by strong anti-migrant sentiment. Today, the idea of the so-called ‘great replacement’ – that somehow there is a plan by ‘globalist’ elites to replace the native population with foreigners – has spread widely and, to one degree or another, is a key part of the rhetoric of the populist right political parties. Growth in migration Has there been a growth in migration? Yes, all reliable statistics show there has been a growth in global migration in the last 20/30 years. According to UN population estimates , in 2000 there were 174 million migrants globally, representing 2.8 percent of the population. In 2025, the figure had gone up to 307 million, or 3.7 percent of the total population. That is a 30 percent increase in the number of migrants as a percentage of the total population in 25 years. In 2022 there were 167 million migrant workers, 4.7 percent of the global workforce, which is an increase of over 30 million since 2013 . ￼ The number of people displaced by war and humanitarian crises has gone up from 38 million in 2000, to 82 million in 2020, and to 123 million in 2024, or about 1.5 percent of the world’s population – although about 60 percent of those are internally displaced. The world crisis of capitalism is driving migration, through wars (Sudan, Syria, Ukraine, Afghanistan, Iraq, etc.), famine, and environmental disasters, while the process of capitalist ‘globalisation’ has intensified the imperialist exploitation of ‘third world’ countries. The decline in the rate of population growth in advanced capitalist countries means capitalists need to bring in tens of millions of migrant workers. Some have argued that right-wing populist formations are growing because of the prevalence of fake news and deliberate campaigns on social media. This is an ‘explanation’ that explains nothing. It is clear that the algorithms that dominate social media drive polarisation and thrive on conflict. But it is not as if previously the traditional media were telling the truth while now social media is spreading fake news and misinformation. The traditional media is just as racist and xenophobic when it wants to be. In fact it is the widespread discrediting of traditional media sources – which are rightly seen as promoting the interests of the rich and powerful – that has allowed social media sources to gain prominence as the main source of news for increasing layers of the population. In any case, in normal times, the dominant ideas in society are those of the ruling class. There are several reasons why it has been possible for reactionary right-wing demagogues to use the question of migration to effectively win over popular support. The main one is that they are tapping into real existing social and economic problems – such as a lack of affordable housing, collapsing health and education services, a general economic malaise, and the impact of de-industrialisation in working class communities – and then scapegoating migrants for those. All of these problems have aggravated in the recent period, particularly since the 2008 crisis of capitalism and the protracted period of economic stagnation which has followed. The scapegoating of migrants has been driven by traditional conservative, liberal, and social-democratic parties and governments, who have nothing else to offer the workers. Like their upstart right-wing counterparts, they prefer to talk about migrants arriving in boats than the policies they themselves are carrying out. This is compounded by the fact that no-one else is offering any alternative explanation, nor an answer to these very real and worsening social problems. The official ‘left’ and the leaders of the official labour movement are, at worst, part of governments carrying out austerity policies, attacks on the working class, cuts on social and welfare spending, or, at best, are unable to offer any real alternative. This is the fertile ground on which racist and anti-migrant sentiment has developed. What is the attitude of the ruling class? What is the attitude of the ruling class towards migration? The ruling class is divided on this question. In 2024, the Financial Times published an opinion article with the headline ‘Immigration crackdowns are good politics but bad economics’. On the one hand, they need migrant workers as a reserve army of labour to drive down wages and conditions. But on the other hand, they realise that scapegoating migrants is useful to divert attention from the capitalists and the rich at the top and their system, who are the real culprits for worsening conditions. Most advanced capitalist countries are experiencing population decline. This is also partly driven by the crisis of capitalism. As the cost of living goes up, particularly the cost of housing, childcare, etc., couples are more reluctant to have children, or to have more than one. In order to replenish the labour market, capitalists need to bring in migrant workers. Furthermore, migrant workers generally are forced to accept worse conditions, fewer rights, and work longer hours for less pay. Their conditions may be bad, or worse than native workers, but they are probably better than those of their countries of origin. And at least they have the expectation of improving them. In this way, migrant workers can be then used to undermine the overall conditions of the working class. It is therefore useful from the point of view of the ruling class that a layer of these workers is kept in illegal or irregular conditions. Their lack of formal legal rights can be used to further undermine their conditions. On one occasion, when migrant workers at a cleaning contractor in a London university attempted to organise a union, the company tricked them into attending a ‘training day’ which turned out to be a police migration raid and they were detained and deported. The right wing are going on the offensive. Now is the time for the working class to defend its communities from racist thuggery. In some cases migrant workers are brought in for seasonal work and then sent back home when they are not needed. This is the case with Eastern European farm workers in the East of England, or Moroccan women workers in the strawberry fields in Huelva, Spain. All of these factors tend to cheapen the costs of labour for the bosses and are therefore extremely useful for the ruling class. Also, bringing in migrant workers with certain skills (be they computer programmers or nurses, electricians or carers) cheapens the cost of labour, as it saves on the cost of training them, which is carried out by the education system of their countries of origin. The ruling class of the receiving country then does not have to invest in education and training, but gets ready-trained skilled workers. Through migration, the countries of origin are robbed of their most able, most skilled labour. But this need of the ruling class for cheap labour is in contradiction to the political use of migrants as scapegoats for problems created by the crisis of capitalism. Trump found this out when his capitalist chums told him to stop immigration raids in meatpacking plants and farms, as they were leaving them without workers to exploit. What are the interests of the working class? So, what are the interests of the working class regarding migration, and what should be the position of communists in dealing with this question? This question should be approached from two sides. First is in relation to the country of origin. Working people are forced to leave their countries, sometimes to abandon their immediate family, the places they know and where they grew up, because they cannot make a decent living and provide for those they care for and their loved ones. Many are forced to embark on an often perilous journey, risking their lives and spending large amounts of money in order to look for a better future in a far away place. When they get there, if they manage to get there, often their expectations are not met. Some will be able to make a decent living, after a period of time, but many will be condemned to conditions of extreme exploitation, subject to violence and sexual abuse, and will always be wary of being deported. The ruling class in the imperialist countries, which is responsible for creating the conditions which force millions to uproot themselves and migrate, then receive them with barbed wire, detention camps and gunboats, or pay reactionary regimes in border countries to prevent them from crossing over. We are of course not in favour of that. We fight for a better world, one in which working people can live decent lives and where they are not forced to emigrate to far-off lands to eke out a living, a world where misery, hunger, exploitation, and war are a thing of the past. That requires a struggle to abolish capitalism and imperialism which are the cause of these ills. As long as this rotten system exists people will be forced to emigrate, no matter how dangerous it may be or how many barriers are raised, as has been proven time and time again. In relation to the countries receiving migrants, the ruling class use them in several ways. As a source of cheap labour, which is used to drive down the conditions of the working class in general, as has been explained. But also as a way to divide the working class, by fomenting racism and bigotry. Under the guise of clamping down on ‘illegal immigration’ the ruling class has been making it ever more difficult for migrants to arrive and establish themselves legally. In the recent period more measures have been taken to limit the rights of migrants, forcing them into insecure work visas, making them completely dependent on their employers, and therefore at risk of deportation for trade union and political activities. The only effective way to fight that is not for the working class to line up behind any of the sections of the ruling class in supporting their interests – neither those who use migrants as cheap labour nor those who use them as scapegoats – the only effective way is for the working class to approach this question from the point of view of our own independent class interests. To prevent migrants from being used to undercut the general conditions of the workers, they must be organised in a fighting and militant trade union and political movement of the working class, struggling for equal rights, wages and conditions for all workers. Only by bringing the wages and conditions of migrant workers up to the level of the rest of the working class through the joint struggle of workers, migrant or native, can their common interests be defended and the ruling class defeated. Class struggle methods The organisation of migrant workers into the ranks of the trade union movement requires a break with its present bureaucratic, conservative leadership steeped in class collaboration and so-called ‘social partnership’, and the adoption of militant class struggle methods. The labour movement must fight against any and all discrimination against workers on any basis, including their ethnic background, country of origin, or immigration status. The lack of rights of migrant workers is used to enforce extreme conditions of exploitation which drive down overall conditions for all workers. The labour movement must fight for the defence of any section of the class against racist pogroms, including the organisation of workers’ self-defence to protect targeted communities, as we have seen in the inspiring movement against ICE raids in Minneapolis. An injury to one is an injury to all. ￼ But in addition to defending migrant workers against super-exploitation and repression in the workplace and on the streets, the labour movement must go on the offensive. In order to prevent right-wing ruling class demagogues from using the question of migration to divert attention from the fact that the capitalist system is the real cause of the cost of living crisis, the lack of affordable housing, the collapse of social services and infrastructure, and so on, a revolutionary, militant, anti-capitalist policy to address these very real problems is required. Only such a policy can expose these demagogues for what they are: defenders of the same rotten system. This class approach is at odds with the policy of the liberals and the so-called left, which address the question of migration from a purely sentimental or moral point of view. Sectarians follow in their footsteps with empty moralistic slogans such as ‘refugees are welcome here’. At a time when there is a dire lack of housing, for instance, it is not difficult to demagogically turn public opinion against refugees being housed in hotels at the taxpayer’s expense. That cannot be countered by moral appeals, but rather through a serious campaign to solve the problem of high rents and high housing costs – one that involves a serious programme of housebuilding in the public sector, the expropriation of landlords and construction companies, etc. The recent explosion of anger over the question of housing in Spain is an excellent example of how the struggle to solve real social and economic problems facing working class people can cut across the appeal of reactionary demagogues. Prior to this movement, the whole political debate was dominated by reactionary anti-migrant ideas. The question was being posed of who should have priority in access to scarce housing. Now, as a result of the mass movement in the streets, the centre of attention has turned towards the need to expropriate corporate landlords and other similar anti-capitalist measures to guarantee housing for all. These proposals have overwhelming popular support – even amongst the voters of right and far-right parties! Struggle against capitalism Even worse is the position of lefts and liberals who join or support capitalist governments carrying out cuts in social spending, with the ‘lesser-evil’ argument of the need for unity of all ‘democratic forces’ to stop fascism and the far right. The struggle for scarce resources leads directly to the division of the working class into different competing groups. Anyone who accepts the idea that there are scarce resources will end down this road, in one way or another. Only by posing the question in class terms can division be overcome. There are plenty of resources available, they are in the hands of the capitalist class, the real enemy of workers, native or migrant. The unity of the working class is paramount and anything which undermines it is reactionary. The fight against racism and anti-migrant prejudice is a life-and-death matter for the working class, for these are used to divide the workers and pitch one section of the class against the other. But this struggle can only be undertaken on the basis of a working-class militant programme against all sections of the ruling class. The working-class movement must adopt revolutionary militant methods to fight against the crisis of capitalism in all its manifestations: against cuts in welfare, for decent housing, education and health care for all. Above all, these struggles must be seen as part of the general struggle against the capitalist system.",
+      "text_excerpt": "Fight the millionaires, not the migrants\nhttps://marxist.com/fight-the-millionaires-not-the-migrants.htm Racist pogroms in the North of Ireland, masked men trying to prevent the landing of a small boat in Portsmouth, violent deportation raids by ICE in the US, tens of thousands crossing the Morocco-Spanish border at Ceuta… The question of migration is now at the centre of the political debate in many countries and is a crucial part of the political platform of the populist right wing in ascent. Why is that, and what should the position of communists be on this important question? Public opinion stances on migration have varied widely even in recent years. In 2015, there was an outpouring of ",
+      "url": "https://www.reddit.com/r/socialism/comments/1xjre81/fight_the_millionaires_not_the_migrants/",
+      "source_url": "https://www.reddit.com/r/socialism/comments/1xjre81/fight_the_millionaires_not_the_migrants/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "raid"
+        ],
+        [
+          "enforcement",
+          "detained"
+        ],
+        [
+          "enforcement",
+          "deported"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -711,6 +1507,58 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1271,
+      "source": "X",
+      "source_post_id": "2116430046785417629",
+      "author": "PGO_MV",
+      "language": "en",
+      "published_at": "2026-10-31T07:20:19Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "text_excerpt": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "source_url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 66.9,
+      "analyst_priority": "HIGH"
     }
   ],
   "access_signals": [
@@ -766,6 +1614,58 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1271,
+      "source": "X",
+      "source_post_id": "2116430046785417629",
+      "author": "PGO_MV",
+      "language": "en",
+      "published_at": "2026-10-31T07:20:19Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "text_excerpt": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "source_url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 66.9,
+      "analyst_priority": "HIGH"
     }
   ],
   "top_crossing_access_posts": [
@@ -836,6 +1736,73 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1271,
+      "source": "X",
+      "source_post_id": "2116430046785417629",
+      "author": "PGO_MV",
+      "language": "en",
+      "published_at": "2026-10-31T07:20:19Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "text_excerpt": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "source_url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 66.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2116430046785417629"
+      ],
+      "related_authors": [
+        "PGO_MV"
+      ],
+      "related_urls": [
+        "https://x.com/PGO_MV/status/2116430046785417629"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "high_priority_intelligence": [
@@ -900,6 +1867,73 @@
       ],
       "related_urls": [
         "https://x.com/ferguson_r32655/status/2116321694163808606"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1271,
+      "source": "X",
+      "source_post_id": "2116430046785417629",
+      "author": "PGO_MV",
+      "language": "en",
+      "published_at": "2026-10-31T07:20:19Z",
+      "first_detected_at": "2026-10-31T07:41:25Z",
+      "last_detected_at": "2026-10-31T07:41:25Z",
+      "detection_count": 1,
+      "text": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "text_excerpt": "Public Prosecutor Ismail Saamee Ali participated in the Regional Workshop on Open-Source Intelligence (OSINT) and Digital Evidence for Trafficking in Persons (TIP) and Smuggling of Migrants (SOM) Investigations, held from 27–29 October 2026 in Dhaka, Bangladesh.\n\nOrganized by https://t.co/x3Xww1eLYb",
+      "url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "source_url": "https://x.com/PGO_MV/status/2116430046785417629",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organized by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 66.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2116430046785417629"
+      ],
+      "related_authors": [
+        "PGO_MV"
+      ],
+      "related_urls": [
+        "https://x.com/PGO_MV/status/2116430046785417629"
       ],
       "related_sources": [
         "X"
@@ -1131,9 +2165,430 @@
       "first_collected_at": "2026-10-31T01:11:54Z",
       "last_collected_at": "2026-10-31T01:11:54Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23424",
+      "timestamp": "2026-10-31T07:36:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116434170818007394",
+      "author": "AsadAToor",
+      "url": "https://x.com/AsadAToor/status/2116434170818007394",
+      "source_url": "https://x.com/AsadAToor/status/2116434170818007394",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "detention",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "🚨🚨Cruel and inhuman decision of @realDonaldTrump 🚨🚨\nThe Trump administration has detained dozens of Afghan immigrants in Louisiana and plans to deport them to Afghanistan, according to three U.S. officials. The group includes people who could face discrimination or",
+      "text_excerpt": "🚨🚨Cruel and inhuman decision of @realDonaldTrump 🚨🚨\nThe Trump administration has detained dozens of Afghan immigrants in Louisiana and plans to deport them to Afghanistan, according to three U.S. officials. The group includes people who could face discrimination or",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:39:43Z",
+      "last_collected_at": "2026-10-31T07:39:43Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23436",
+      "timestamp": "2026-10-31T07:36:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116433993922986421",
+      "author": "ScaryEurope",
+      "url": "https://x.com/ScaryEurope/status/2116433993922986421",
+      "source_url": "https://x.com/ScaryEurope/status/2116433993922986421",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "🚨 A migrant boat carrying 113 people has reached the Canary Islands after eight perilous days at sea, leaving two men dead and a baby critically ill. The child was airlifted to hospital.",
+      "text_excerpt": "🚨 A migrant boat carrying 113 people has reached the Canary Islands after eight perilous days at sea, leaving two men dead and a baby critically ill. The child was airlifted to hospital.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:40:11Z",
+      "last_collected_at": "2026-10-31T07:40:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23437",
+      "timestamp": "2026-10-31T07:35:55Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116433976068092206",
+      "author": "FrederickE37181",
+      "url": "https://x.com/FrederickE37181/status/2116433976068092206",
+      "source_url": "https://x.com/FrederickE37181/status/2116433976068092206",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Channel Chaos: Knife-Wielding Migrant Heads for Britain as Hundreds Cross Unchecked\n\nMan boards a boat screaming “I will kill you” and he’s coming here. Hundreds more behind him. How much longer until someone finally gets serious?\n https://t.co/r1mp5ylf2x",
+      "text_excerpt": "Channel Chaos: Knife-Wielding Migrant Heads for Britain as Hundreds Cross Unchecked\n\nMan boards a boat screaming “I will kill you” and he’s coming here. Hundreds more behind him. How much longer until someone finally gets serious?\n https://t.co/r1mp5ylf2x",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:40:11Z",
+      "last_collected_at": "2026-10-31T07:40:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23438",
+      "timestamp": "2026-10-31T07:34:27Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116433603915645438",
+      "author": "johns00000",
+      "url": "https://x.com/johns00000/status/2116433603915645438",
+      "source_url": "https://x.com/johns00000/status/2116433603915645438",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "How more than 200 migrant children arrive by boat in Dover EVERY MONTH https://t.co/UakeiHY7Tl via @DailyMail",
+      "text_excerpt": "How more than 200 migrant children arrive by boat in Dover EVERY MONTH https://t.co/UakeiHY7Tl via @DailyMail",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:40:11Z",
+      "last_collected_at": "2026-10-31T07:40:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23413",
+      "timestamp": "2026-10-31T07:31:24Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk3ya7",
+      "author": "VisitAndalucia",
+      "url": "https://www.reddit.com/r/AncientCivilizations/comments/1xk3ya7/architecture_of_anxiety_megaliths_of_the_middle/",
+      "source_url": "https://www.reddit.com/r/AncientCivilizations/comments/1xk3ya7/architecture_of_anxiety_megaliths_of_the_middle/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.0,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "route",
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "today",
+        "now"
+      ],
+      "text": "Architecture of Anxiety: Megaliths of the Middle East\nThe Levantine Defiance: Nomads, Kings, and the Counter-Architecture of the Middle East As we enter the third millennium BCE, the Levant was being transformed. For thousands of years, the landscape had been a fluid mosaic of egalitarian farming villages and mobile pastoralists. Then came the urban revolution. Across the region, massive, fortified city-states began to rise from the sand. Sites like Hazor, Megiddo, and Jericho transformed from open settlements into citadels. This was the birth of the Levantine Bronze Age. It brought with it the invention of the king, the tax collector, and the territorial border. For the urban elites, it was an era of unprecedented wealth and power. But for the semi-nomadic populations living outside the newly erected mudbrick walls, the rise of the city-state was a life changing shock. The Jaws of the City The new urban centres did not exist in isolation. To feed their exploding populations, kings had to control the agricultural hinterlands. They aggressively expanded their territorial claims, annexing the fertile valleys and monopolising the vital water sources. For the pastoralists whose survival depended on transhumance, moving herds seasonally between the highlands and the valleys, the world was suddenly partitioned. Ancient migratory routes were blocked by garrisoned walls. Traditional winter grazing grounds were ploughed under for state-controlled grain production. The nomads were being rapidly squeezed out of the economic and geographical centre, excluded by an urban machine they could not fight on equal terms. The Counter-Architecture of the Golan and the Jordan Valley The pastoralists could not build palaces, nor could they muster armies to lay siege to the massive bastions of Megiddo. Instead, they built dolmens. Scattered across the basalt highlands of the Golan and the arid ridges of the Jordan Valley are thousands of megalithic tombs. Constructed from massive, unhewn boulders, some capstones weighing up to fifty tons, these structures form vast, sprawling necropolises that look directly down upon the newly urbanised valleys. How does this tie in with our \"Architecture of Anxiety\" hypothesis? In the Maghreb, the anxiety was ecological; the herders were fighting a shifting climate. In the Levant, the anxiety was explicitly political. As Kay Prag demonstrated in her seminal analysis of the Dead Sea dolmens (1995), these megaliths were not the work of urbanites. They were constructed by the very semi-nomadic groups being pushed to the periphery. The dolmens deliberately cluster along the rift margins and the rugged highlands, the remaining ecological zones left to the pastoralists once the valley floors were seized by the city-states. Stone as a Deed of Ownership These thousands of dolmens represent a \"Counter-Architecture.\" The nomads used the permanence of stone to counteract the expanding political power of the cities. A mudbrick city wall, no matter how thick, requires constant maintenance. It is an architecture of the present. A megalithic tomb, constructed from immovable basalt slabs, is built for eternity. By interring their dead in prominent, indestructible monuments on the high ground, the pastoralists were making a geopolitical statement. They were carving a legal deed directly into the bedrock. A dolmen looking down on a walled city sent a message to the urban elites below: Our ancestors rest in this earth. We owned these grazing lands long before your kings were born, and we will remain here long after your mudbrick walls crumble into dust. In the shadow of the rising city-states, the pastoralists of the Levant used the dead to defend the living, proving that the deepest anxieties of the Bronze Age were driven just as much by human ambition as by environmental collapse. The material chasm between the new urban elites and the displaced pastoralists is preserved in the archaeological record. While the kings of the Early Bronze Age citadels were burying themselves with imported Egyptian alabaster, gold jewellery, and weapons forged from high-grade bronze, the builders of the megaliths were depositing the bare minimum required for the afterlife. The \"life-changing shock\" of urbanization was not a sudden military defeat, but a gradual, generational economic strangulation. As the citadels annexed the best land, the pastoralists were cut off from the lucrative trade networks passing through the valleys. The resulting material poverty of the nomads is visible across four distinct megalithic landscapes in the Levant. Adeimah and the Dead Sea Margins Located near the edge of the Dead Sea, the Adeimah necropolis offers one of the clearest windows into this marginalisation. Excavated extensively in the 1930s by Moshe Stekelis, the site contains hundreds of cist graves and small dolmens built by pastoralists living on the absolute fringe of the fertile zone ( Stekelis, 1935 ). When Kay Prag re-examined the Dead Sea dolmens, she highlighted the extreme poverty of the grave goods ( Prag, 1995 ). The Adeimah tombs did not yield lapis lazuli or ceremonial mace heads. They contained simple, undecorated pottery, bone tools, and flint. These were people living a subsistence lifestyle on the edge of a booming urban economy, using heavy stone to mark their presence in an increasingly hostile political landscape. The Damiyah Dolmen Field Further north in the Jordan Valley, the Damiyah dolmen field demonstrates the volume of labour the nomads were willing to invest in their territorial claims. Here, hundreds of dolmens are clustered on the travertine ridges overlooking the valley floor. Recent excavations have revealed cup marks and geometric rock art carved into the capstones, indicating complex ritual behaviours. Yet, the material wealth inside the tombs remains utilitarian. The grave goods consist primarily of EBA IV (Intermediate Bronze Age) domestic jars, simple copper daggers, and basic stone beads. The builders invested thousands of hours into quarrying and erecting massive limestone blocks, yet lacked the economic capital to furnish the tombs with prestige goods. They were rich in labour and stone, but starved of urban capital. The Gamla Necropolis The Golan Heights provided a rugged basalt refuge for the pastoralists pushed out of the northern Levantine valleys. Near the site of Gamla, archaeologists have mapped a staggering concentration of over 700 massive dolmens spread across the plateau ( Epstein, 1985 ). The Gamla dolmens are brutal, heavy structures, often constructed from basalt slabs weighing up to twenty tons. They are highly visible statements of ownership overlooking the Sea of Galilee. Despite the monumental engineering required to build them, Claire Epstein's excavations revealed the same bare essentials. The tombs contained only basic copper pins, a few flint blades, and coarse local pottery. The contrast between the mass of the architecture and the poverty of the artifacts demonstrates the nomads' defiant, disenfranchised status. Rujm el-Hiri : The Monument of the Marginalized The ultimate expression of this pastoralist defiance sits in the central Golan Heights. Rujm el-Hiri ( Gilgal Refaim ) is not a simple dolmen, but a gargantuan megalithic complex consisting of concentric stone circles, the outermost measuring 160 metres in diameter. At its centre sits a massive burial cairn covering a central dolmen. Constructed from over 40,000 tons of fieldstone, Rujm el-Hiri was not built by a disorganized rabble. These semi-nomadic groups possessed the social hierarchy, astronomical knowledge, and logistical capacity to build on a Pharaonic scale ( Freikman, 2012 ). Yet, they built it on a desolate, windswept plateau, far from the walled citadels. It is a masterpiece of counter-architecture, a centralised ritual hub for a decentralised, displaced people. The Chronology of Defiance To understand how the pastoralists transitioned from building stone monuments to tearing down walled cities, we must examine the chronology of the dolmens. The Levantine megalithic boom was not a permanent fixture; it was a specific, time-bound reaction to the rise of urbanism. Dating megaliths is notoriously difficult due to millennia of looting and reuse, but recent consensus, spearheaded by scholars like James A. Fraser, anchors the primary construction wave in the Jordan Valley and the Golan Heights to the period between the Early Bronze I and the Intermediate Bronze Age (roughly 3500 to 2000 BCE). Excavations by Uri Berger and Gonen Sharon at the Shamir dolmen field, home to massive fifty-ton basalt capstones, confirm that this engineering zenith directly coincided with the era when the citadels first asserted dominance over the valleys. Caught off guard and outmanoeuvred by this \"life-changing shock,\" the marginalised populations responded with the passive, territorial defence of the megalith. Archaeology, however, is rarely a monolithic consensus. Some scholars point to a \"Deep Antiquity\" origin, suggesting the dolmen tradition began in the Late Chalcolithic or Neolithic periods, long before the citadels existed. Others, such as Mattanyah Zohar, advocate for a \"Sedentary Builder\" hypothesis, arguing that mobile nomads lacked the social organization for megalithic architecture, and that these tombs were instead built by sedentary farming villages in the highlands. Even if the architectural roots were older, or if highland farmers participated in their construction, the demographic reality remains unchanged. The explosion of megalithic construction during the Early and Intermediate Bronze Ages represents a deep seated spatial anxiety. The highlands were filling with stone precisely because the lowlands were filling with kings. The Birth of the Habiru This architectural defiance planted a slow-burning geopolitical time bomb. The gradual realization amongst the pastoralists that they were losing their birthright bred a deep, resentment. They were locked out of the walled citadels, heavily taxed when they brought their flocks to the valley markets, and pushed into increasingly marginal environments. Over the ensuing centuries, these peripheralised nomads, runaway serfs, and disaffected outcasts coalesced into a mobile, anti-state demographic. By the Late Bronze Age, the urban elites of the Levant referred to them in the Amarna Letters as the 'Apiru or Habiru ( Finkelstein, 1992 ). They became stateless mercenaries, raiders, and outlaws living in the highlands, terrorising the citadels that had originally pushed their ancestors to the margins. When the great systems collapse of 1200 BCE finally arrived, the walled citadels of the Levant were entirely dependent on fragile international trade. The Habiru were not. Hardened by centuries of marginalisation and survival on the periphery, these disaffected factions became instrumental in tearing down the Bronze Age urban machine, finally reclaiming the valleys their ancestors had marked with stone three thousand years earlier. The Habiru : Nomads or Outcasts? The exact identity of the Habiru is a fiercely contested battleground in Near Eastern archaeology. Michael B. Rowton championed the idea of a \"dimorphic society,\" where urbanites and nomadic pastoralists lived in a state of hostile interdependence, viewing the Habiru as the natural military evolution of the displaced nomad. Conversely, scholars like Anson Rainey and William Moran argued vehemently against an ethnic or purely nomadic definition. In their view, the Habiru were an underclass of urban refugees, runaway serfs, indebted farmers, and political exiles fleeing the crushing taxation of the citadels. Ultimately, the geopolitical result was the same. Whether the Habiru were entirely nomadic pastoralists, or a volatile, Marxist-style coalition of runaway urban serfs and disenfranchised herders, the periphery had militarised against the centre. The anxiety of the early Bronze Age had forged the anger of the Late Bronze Age insurgency. The 1200 BCE Collapse: Perfect Storms and Scavengers This volatile geopolitical powder keg detonated around 1200 BCE, aided by a massive external catalyst. As Eric H. Cline masterfully synthesizes in his \" Systems Collapse \" theory, the Late Bronze Age world was felled by a perfect storm of climate change, severed international trade routes, earthquakes, and internal rebellions. Hard empirical science supports this apocalyptic narrative. Palynological (pollen) cores taken from the Syrian coast by David Kaniewski and his team reveal that a devastating, centuries-long drought hit the Levant right at the end of the Late Bronze Age. The agricultural hinterlands failed, and the citadels starved. Simultaneously, waves of displaced Mediterranean migrants, known to the Egyptians as the Sea Peoples, swept down the Levantine coast. The great urban centres like Ugarit were burned to the ground. However, modern scholars like A. Bernard Knapp and Sturt Manning caution against blaming the entire collapse on these seaborne refugees, suggesting the Egyptian reliefs depicting their invasion are laced with state propaganda. In reality, the Sea Peoples were likely the opportunistic scavengers of a dying system. The coastal citadels, crippled by drought, economic fragility, and relentless internal pressure from the Habiru insurgents, were already rotting from the inside. For the highlanders, the influx of these refugees was nothing other than the final blow to the old urban order. The chaos permanently ended any lingering megalithic traditions. In the ensuing Iron Age, the paradigm of survival shifted. The marginalised factions descended from the hills to fill the political vacuum, establishing their own fortified hilltop settlements. The world was now too fast, and too violently contested, to invest thousands of hours into dragging fifty-ton basalt capstones across the Golan. The age of the dolmen was dead. The age of the sword and the iron chariot had begun. The Eternal Divide: Echoes of the Citadel The tragedy of the Levantine Bronze Age is that its fundamental socio-political fracture never actually healed. The megaliths of the Golan and the Jordan Valley remain today as the earliest physical evidence of a region tearing itself apart along the fault line of the centre versus the periphery. The citadels of Hazor and Megiddo have long since been reduced to archaeological tells , but the division they introduced, the wealthy, fortified urban core pitted against the disenfranchised populations outside the walls, was permanently baked into the DNA of the Middle East. Over the subsequent three millennia, new empires built new walls. To this ancient geographic and economic divide, the modern era has thrown competing religious sects, colonial borders, and petrochemical wealth into the mix. The core dynamic remains eerily familiar. Today, high-tech, heavily fortified urban centres look out over impoverished, militant peripheries. Modern separation barriers of concrete and steel have replaced the mudbrick walls of the Early Bronze Age, but they serve the same function, to lock the wealth inside and keep the marginalised out. The Middle East remains a volatile region because it is still fighting the ghost of the Bronze Age, trapped in a five-thousand-year-old war between the citadel and the nomad. For all the articles in this series, go to https://nuttersworld.com/megalithic-phenomenon/ - Enjoy. References and Further Reading Berger, U. and Sharon, G. (2017). 'The Shamir Dolmen Field and the Intermediate Bronze Age'. Tel Aviv , 44(2), pp. 151-174. Cline, E. H. (2014). 1177 B.C.: The Year Civilization Collapsed . Princeton University Press. · Epstein, C. (1985). 'Dolmens Excavated in the Golan'. Atiqot , 17, pp. 20-58. Finkelstein, I. (1992). 'Pastoralism in the Highlands of Canaan in the Third and Second Millennia B.C.E.' Pastoralism in the Levant: Archaeological Materials in Anthropological Perspectives , pp. 133-142. Fraser, J. A. (2018). Dolmens in the Levant . Routledge. · Freikman, M. (2012). 'Rujm el-Hiri: The Monument in the Landscape'. Tel Aviv , 39(2), pp. 165-181. Kaniewski, D., et al. (2013). 'Middle East coastal ecosystem response to middle-to-late Holocene climate changes'. PLoS One , 8(11). Knapp, A. B. and Manning, S. W. (2016). 'Crisis in Context: The End of the Late Bronze Age in the Eastern Mediterranean'. American Journal of Archaeology , 120(1), pp. 99-149. · Prag, K. (1995). 'The Dead Sea Dolmens: Death and the Landscape', in Campbell, S. and Green, A. (eds.) The Archaeology of Death in the Ancient Near East . Oxbow Books, pp. 75-84. Rainey, A. F. (1995). 'Unruly Elements in Late Bronze Canaanite Society', in Pomegranates and Golden Bells: Studies in Biblical, Jewish, and Near Eastern Ritual, Law, and Literature in Honor of Jacob Milgrom , pp. 481-496. Rowton, M. B. (1976). 'Dimorphic Structure and the Problem of the 'Apiru-Ibrim'. Journal of Near Eastern Studies , 35(1), pp. 13-20. · Stekelis, M. (1935). Les Monuments Mégalithiques de Palestine . Archives de l'Institut de Paléontologie Humaine. Zohar, M. (1992). 'Megalithic Cemeteries in the Levant', in Pastoralism in the Levant: Archaeological Materials in Anthropological Perspectives , pp. 43-63.",
+      "text_excerpt": "Architecture of Anxiety: Megaliths of the Middle East\nThe Levantine Defiance: Nomads, Kings, and the Counter-Architecture of the Middle East As we enter the third millennium BCE, the Levant was being transformed. For thousands of years, the landscape had been a fluid mosaic of egalitarian farming villages and mobile pastoralists. Then came the urban revolution. Across the region, massive, fortified city-states began…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:39:19Z",
+      "last_collected_at": "2026-10-31T07:39:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23428",
+      "timestamp": "2026-10-31T07:19:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116429735009944030",
+      "author": "dmoritz08151",
+      "url": "https://x.com/dmoritz08151/status/2116429735009944030",
+      "source_url": "https://x.com/dmoritz08151/status/2116429735009944030",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "EU CONSIDERS MAJOR BORDER SECURITY EXPANSION!\n\nThe European Commission has proposed giving Frontex, the EU's border agency, stronger powers to coordinate deportations and respond to migration challenges.\n\nThe plan envisions a force of up to 30,000 personnel.\n\nSupporters argue https://t.co/YiXLy8OzwM",
+      "text_excerpt": "EU CONSIDERS MAJOR BORDER SECURITY EXPANSION!\n\nThe European Commission has proposed giving Frontex, the EU's border agency, stronger powers to coordinate deportations and respond to migration challenges.\n\nThe plan envisions a force of up to 30,000 personnel.\n\nSupporters argue https://t.co/YiXLy8OzwM",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:39:44Z",
+      "last_collected_at": "2026-10-31T07:39:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23417",
+      "timestamp": "2026-10-31T07:18:37Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk3r0b",
+      "author": "VisitAndalucia",
+      "url": "https://www.reddit.com/r/u_VisitAndalucia/comments/1xk3r0b/architecture_of_anxiety_megaliths_of_the_middle/",
+      "source_url": "https://www.reddit.com/r/u_VisitAndalucia/comments/1xk3r0b/architecture_of_anxiety_megaliths_of_the_middle/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.0,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "route",
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "today",
+        "now"
+      ],
+      "text": "Architecture of Anxiety: Megaliths of the Middle East\nThe Levantine Defiance: Nomads, Kings, and the Counter-Architecture of the Middle East As we enter the third millennium BCE, the Levant was being transformed. For thousands of years, the landscape had been a fluid mosaic of egalitarian farming villages and mobile pastoralists. Then came the urban revolution. Across the region, massive, fortified city-states began to rise from the sand. Sites like Hazor, Megiddo, and Jericho transformed from open settlements into citadels. This was the birth of the Levantine Bronze Age. It brought with it the invention of the king, the tax collector, and the territorial border. For the urban elites, it was an era of unprecedented wealth and power. But for the semi-nomadic populations living outside the newly erected mudbrick walls, the rise of the city-state was a life changing shock. The Jaws of the City The new urban centres did not exist in isolation. To feed their exploding populations, kings had to control the agricultural hinterlands. They aggressively expanded their territorial claims, annexing the fertile valleys and monopolising the vital water sources. For the pastoralists whose survival depended on transhumance, moving herds seasonally between the highlands and the valleys, the world was suddenly partitioned. Ancient migratory routes were blocked by garrisoned walls. Traditional winter grazing grounds were ploughed under for state-controlled grain production. The nomads were being rapidly squeezed out of the economic and geographical centre, excluded by an urban machine they could not fight on equal terms. The Counter-Architecture of the Golan and the Jordan Valley The pastoralists could not build palaces, nor could they muster armies to lay siege to the massive bastions of Megiddo. Instead, they built dolmens. Scattered across the basalt highlands of the Golan and the arid ridges of the Jordan Valley are thousands of megalithic tombs. Constructed from massive, unhewn boulders, some capstones weighing up to fifty tons, these structures form vast, sprawling necropolises that look directly down upon the newly urbanised valleys. How does this tie in with our \"Architecture of Anxiety\" hypothesis? In the Maghreb, the anxiety was ecological; the herders were fighting a shifting climate. In the Levant, the anxiety was explicitly political. As Kay Prag demonstrated in her seminal analysis of the Dead Sea dolmens (1995), these megaliths were not the work of urbanites. They were constructed by the very semi-nomadic groups being pushed to the periphery. The dolmens deliberately cluster along the rift margins and the rugged highlands, the remaining ecological zones left to the pastoralists once the valley floors were seized by the city-states. Stone as a Deed of Ownership These thousands of dolmens represent a \"Counter-Architecture.\" The nomads used the permanence of stone to counteract the expanding political power of the cities. A mudbrick city wall, no matter how thick, requires constant maintenance. It is an architecture of the present. A megalithic tomb, constructed from immovable basalt slabs, is built for eternity. By interring their dead in prominent, indestructible monuments on the high ground, the pastoralists were making a geopolitical statement. They were carving a legal deed directly into the bedrock. A dolmen looking down on a walled city sent a message to the urban elites below: Our ancestors rest in this earth. We owned these grazing lands long before your kings were born, and we will remain here long after your mudbrick walls crumble into dust. In the shadow of the rising city-states, the pastoralists of the Levant used the dead to defend the living, proving that the deepest anxieties of the Bronze Age were driven just as much by human ambition as by environmental collapse. The material chasm between the new urban elites and the displaced pastoralists is preserved in the archaeological record. While the kings of the Early Bronze Age citadels were burying themselves with imported Egyptian alabaster, gold jewellery, and weapons forged from high-grade bronze, the builders of the megaliths were depositing the bare minimum required for the afterlife. The \"life-changing shock\" of urbanization was not a sudden military defeat, but a gradual, generational economic strangulation. As the citadels annexed the best land, the pastoralists were cut off from the lucrative trade networks passing through the valleys. The resulting material poverty of the nomads is visible across four distinct megalithic landscapes in the Levant. Adeimah and the Dead Sea Margins Located near the edge of the Dead Sea, the Adeimah necropolis offers one of the clearest windows into this marginalisation. Excavated extensively in the 1930s by Moshe Stekelis, the site contains hundreds of cist graves and small dolmens built by pastoralists living on the absolute fringe of the fertile zone ( Stekelis, 1935 ). When Kay Prag re-examined the Dead Sea dolmens, she highlighted the extreme poverty of the grave goods ( Prag, 1995 ). The Adeimah tombs did not yield lapis lazuli or ceremonial mace heads. They contained simple, undecorated pottery, bone tools, and flint. These were people living a subsistence lifestyle on the edge of a booming urban economy, using heavy stone to mark their presence in an increasingly hostile political landscape. The Damiyah Dolmen Field Further north in the Jordan Valley, the Damiyah dolmen field demonstrates the volume of labour the nomads were willing to invest in their territorial claims. Here, hundreds of dolmens are clustered on the travertine ridges overlooking the valley floor. Recent excavations have revealed cup marks and geometric rock art carved into the capstones, indicating complex ritual behaviours. Yet, the material wealth inside the tombs remains utilitarian. The grave goods consist primarily of EBA IV (Intermediate Bronze Age) domestic jars, simple copper daggers, and basic stone beads. The builders invested thousands of hours into quarrying and erecting massive limestone blocks, yet lacked the economic capital to furnish the tombs with prestige goods. They were rich in labour and stone, but starved of urban capital. The Gamla Necropolis The Golan Heights provided a rugged basalt refuge for the pastoralists pushed out of the northern Levantine valleys. Near the site of Gamla, archaeologists have mapped a staggering concentration of over 700 massive dolmens spread across the plateau ( Epstein, 1985 ). The Gamla dolmens are brutal, heavy structures, often constructed from basalt slabs weighing up to twenty tons. They are highly visible statements of ownership overlooking the Sea of Galilee. Despite the monumental engineering required to build them, Claire Epstein's excavations revealed the same bare essentials. The tombs contained only basic copper pins, a few flint blades, and coarse local pottery. The contrast between the mass of the architecture and the poverty of the artifacts demonstrates the nomads' defiant, disenfranchised status. Rujm el-Hiri : The Monument of the Marginalized The ultimate expression of this pastoralist defiance sits in the central Golan Heights. Rujm el-Hiri ( Gilgal Refaim ) is not a simple dolmen, but a gargantuan megalithic complex consisting of concentric stone circles, the outermost measuring 160 metres in diameter. At its centre sits a massive burial cairn covering a central dolmen. Constructed from over 40,000 tons of fieldstone, Rujm el-Hiri was not built by a disorganized rabble. These semi-nomadic groups possessed the social hierarchy, astronomical knowledge, and logistical capacity to build on a Pharaonic scale ( Freikman, 2012 ). Yet, they built it on a desolate, windswept plateau, far from the walled citadels. It is a masterpiece of counter-architecture, a centralised ritual hub for a decentralised, displaced people. The Chronology of Defiance To understand how the pastoralists transitioned from building stone monuments to tearing down walled cities, we must examine the chronology of the dolmens. The Levantine megalithic boom was not a permanent fixture; it was a specific, time-bound reaction to the rise of urbanism. Dating megaliths is notoriously difficult due to millennia of looting and reuse, but recent consensus, spearheaded by scholars like James A. Fraser, anchors the primary construction wave in the Jordan Valley and the Golan Heights to the period between the Early Bronze I and the Intermediate Bronze Age (roughly 3500 to 2000 BCE). Excavations by Uri Berger and Gonen Sharon at the Shamir dolmen field, home to massive fifty-ton basalt capstones, confirm that this engineering zenith directly coincided with the era when the citadels first asserted dominance over the valleys. Caught off guard and outmanoeuvred by this \"life-changing shock,\" the marginalised populations responded with the passive, territorial defence of the megalith. Archaeology, however, is rarely a monolithic consensus. Some scholars point to a \"Deep Antiquity\" origin, suggesting the dolmen tradition began in the Late Chalcolithic or Neolithic periods, long before the citadels existed. Others, such as Mattanyah Zohar, advocate for a \"Sedentary Builder\" hypothesis, arguing that mobile nomads lacked the social organization for megalithic architecture, and that these tombs were instead built by sedentary farming villages in the highlands. Even if the architectural roots were older, or if highland farmers participated in their construction, the demographic reality remains unchanged. The explosion of megalithic construction during the Early and Intermediate Bronze Ages represents a deep seated spatial anxiety. The highlands were filling with stone precisely because the lowlands were filling with kings. The Birth of the Habiru This architectural defiance planted a slow-burning geopolitical time bomb. The gradual realization amongst the pastoralists that they were losing their birthright bred a deep, resentment. They were locked out of the walled citadels, heavily taxed when they brought their flocks to the valley markets, and pushed into increasingly marginal environments. Over the ensuing centuries, these peripheralised nomads, runaway serfs, and disaffected outcasts coalesced into a mobile, anti-state demographic. By the Late Bronze Age, the urban elites of the Levant referred to them in the Amarna Letters as the 'Apiru or Habiru ( Finkelstein, 1992 ). They became stateless mercenaries, raiders, and outlaws living in the highlands, terrorising the citadels that had originally pushed their ancestors to the margins. When the great systems collapse of 1200 BCE finally arrived, the walled citadels of the Levant were entirely dependent on fragile international trade. The Habiru were not. Hardened by centuries of marginalisation and survival on the periphery, these disaffected factions became instrumental in tearing down the Bronze Age urban machine, finally reclaiming the valleys their ancestors had marked with stone three thousand years earlier. The Habiru : Nomads or Outcasts? The exact identity of the Habiru is a fiercely contested battleground in Near Eastern archaeology. Michael B. Rowton championed the idea of a \"dimorphic society,\" where urbanites and nomadic pastoralists lived in a state of hostile interdependence, viewing the Habiru as the natural military evolution of the displaced nomad. Conversely, scholars like Anson Rainey and William Moran argued vehemently against an ethnic or purely nomadic definition. In their view, the Habiru were an underclass of urban refugees, runaway serfs, indebted farmers, and political exiles fleeing the crushing taxation of the citadels. Ultimately, the geopolitical result was the same. Whether the Habiru were entirely nomadic pastoralists, or a volatile, Marxist-style coalition of runaway urban serfs and disenfranchised herders, the periphery had militarised against the centre. The anxiety of the early Bronze Age had forged the anger of the Late Bronze Age insurgency. The 1200 BCE Collapse: Perfect Storms and Scavengers This volatile geopolitical powder keg detonated around 1200 BCE, aided by a massive external catalyst. As Eric H. Cline masterfully synthesizes in his \" Systems Collapse \" theory, the Late Bronze Age world was felled by a perfect storm of climate change, severed international trade routes, earthquakes, and internal rebellions. Hard empirical science supports this apocalyptic narrative. Palynological (pollen) cores taken from the Syrian coast by David Kaniewski and his team reveal that a devastating, centuries-long drought hit the Levant right at the end of the Late Bronze Age. The agricultural hinterlands failed, and the citadels starved. Simultaneously, waves of displaced Mediterranean migrants, known to the Egyptians as the Sea Peoples, swept down the Levantine coast. The great urban centres like Ugarit were burned to the ground. However, modern scholars like A. Bernard Knapp and Sturt Manning caution against blaming the entire collapse on these seaborne refugees, suggesting the Egyptian reliefs depicting their invasion are laced with state propaganda. In reality, the Sea Peoples were likely the opportunistic scavengers of a dying system. The coastal citadels, crippled by drought, economic fragility, and relentless internal pressure from the Habiru insurgents, were already rotting from the inside. For the highlanders, the influx of these refugees was nothing other than the final blow to the old urban order. The chaos permanently ended any lingering megalithic traditions. In the ensuing Iron Age, the paradigm of survival shifted. The marginalised factions descended from the hills to fill the political vacuum, establishing their own fortified hilltop settlements. The world was now too fast, and too violently contested, to invest thousands of hours into dragging fifty-ton basalt capstones across the Golan. The age of the dolmen was dead. The age of the sword and the iron chariot had begun. The Eternal Divide: Echoes of the Citadel The tragedy of the Levantine Bronze Age is that its fundamental socio-political fracture never actually healed. The megaliths of the Golan and the Jordan Valley remain today as the earliest physical evidence of a region tearing itself apart along the fault line of the centre versus the periphery. The citadels of Hazor and Megiddo have long since been reduced to archaeological tells , but the division they introduced, the wealthy, fortified urban core pitted against the disenfranchised populations outside the walls, was permanently baked into the DNA of the Middle East. Over the subsequent three millennia, new empires built new walls. To this ancient geographic and economic divide, the modern era has thrown competing religious sects, colonial borders, and petrochemical wealth into the mix. The core dynamic remains eerily familiar. Today, high-tech, heavily fortified urban centres look out over impoverished, militant peripheries. Modern separation barriers of concrete and steel have replaced the mudbrick walls of the Early Bronze Age, but they serve the same function, to lock the wealth inside and keep the marginalised out. The Middle East remains a volatile region because it is still fighting the ghost of the Bronze Age, trapped in a five-thousand-year-old war between the citadel and the nomad. For all the articles in this series, go to https://nuttersworld.com/megalithic-phenomenon/ - Enjoy. References and Further Reading Berger, U. and Sharon, G. (2017). 'The Shamir Dolmen Field and the Intermediate Bronze Age'. Tel Aviv , 44(2), pp. 151-174. Cline, E. H. (2014). 1177 B.C.: The Year Civilization Collapsed . Princeton University Press. · Epstein, C. (1985). 'Dolmens Excavated in the Golan'. Atiqot , 17, pp. 20-58. Finkelstein, I. (1992). 'Pastoralism in the Highlands of Canaan in the Third and Second Millennia B.C.E.' Pastoralism in the Levant: Archaeological Materials in Anthropological Perspectives , pp. 133-142. Fraser, J. A. (2018). Dolmens in the Levant . Routledge. · Freikman, M. (2012). 'Rujm el-Hiri: The Monument in the Landscape'. Tel Aviv , 39(2), pp. 165-181. Kaniewski, D., et al. (2013). 'Middle East coastal ecosystem response to middle-to-late Holocene climate changes'. PLoS One , 8(11). Knapp, A. B. and Manning, S. W. (2016). 'Crisis in Context: The End of the Late Bronze Age in the Eastern Mediterranean'. American Journal of Archaeology , 120(1), pp. 99-149. · Prag, K. (1995). 'The Dead Sea Dolmens: Death and the Landscape', in Campbell, S. and Green, A. (eds.) The Archaeology of Death in the Ancient Near East . Oxbow Books, pp. 75-84. Rainey, A. F. (1995). 'Unruly Elements in Late Bronze Canaanite Society', in Pomegranates and Golden Bells: Studies in Biblical, Jewish, and Near Eastern Ritual, Law, and Literature in Honor of Jacob Milgrom , pp. 481-496. Rowton, M. B. (1976). 'Dimorphic Structure and the Problem of the 'Apiru-Ibrim'. Journal of Near Eastern Studies , 35(1), pp. 13-20. · Stekelis, M. (1935). Les Monuments Mégalithiques de Palestine . Archives de l'Institut de Paléontologie Humaine. Zohar, M. (1992). 'Megalithic Cemeteries in the Levant', in Pastoralism in the Levant: Archaeological Materials in Anthropological Perspectives , pp. 43-63. submitted by /u/VisitAndalucia to u/VisitAndalucia",
+      "text_excerpt": "Architecture of Anxiety: Megaliths of the Middle East\nThe Levantine Defiance: Nomads, Kings, and the Counter-Architecture of the Middle East As we enter the third millennium BCE, the Levant was being transformed. For thousands of years, the landscape had been a fluid mosaic of egalitarian farming villages and mobile pastoralists. Then came the urban revolution. Across the region, massive, fortified city-states began…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:39:20Z",
+      "last_collected_at": "2026-10-31T07:39:20Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23431",
+      "timestamp": "2026-10-31T07:16:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116428960561090726",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2116428960561090726",
+      "source_url": "https://x.com/grok/status/2116428960561090726",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@DKIA2024 @GuntherEagleman No. Tusk’s government has tightened controls: visas cut 87%, work permits 69%, student visas 65% versus 2022; deportations up 200%. Belarus border remains sealed with asylum claims suspended and near-zero successful illegal crossings. Poland is exempt from EU migrant relocation.",
+      "text_excerpt": "@DKIA2024 @GuntherEagleman No. Tusk’s government has tightened controls: visas cut 87%, work permits 69%, student visas 65% versus 2022; deportations up 200%. Belarus border remains sealed with asylum claims suspended and near-zero successful illegal crossings. Poland is exempt from EU migrant relocation.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:39:44Z",
+      "last_collected_at": "2026-10-31T07:39:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23442",
+      "timestamp": "2026-10-31T07:08:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116427183162032420",
+      "author": "Siad_A",
+      "url": "https://x.com/Siad_A/status/2116427183162032420",
+      "source_url": "https://x.com/Siad_A/status/2116427183162032420",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "coast_guard"
+      ],
+      "freshness_cues": [],
+      "text": "Has the Red Sea slipped out of Hassan Sheikh Mohamud's hands?\n\nRed Sea Security Deal? Puntland and Somaliland Coast Guard Joins Regional Naval Leade... https://t.co/OvGDNXqfNj via @YouTube\n\n@HassanSMohamud @HESharifShAhmed @HassanAKhaire\n@UNmigration @Refugees\n@faaraxsheekh",
+      "text_excerpt": "Has the Red Sea slipped out of Hassan Sheikh Mohamud's hands?\n\nRed Sea Security Deal? Puntland and Somaliland Coast Guard Joins Regional Naval Leade... https://t.co/OvGDNXqfNj via @YouTube\n\n@HassanSMohamud @HESharifShAhmed @HassanAKhaire\n@UNmigration @Refugees\n@faaraxsheekh",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:40:12Z",
+      "last_collected_at": "2026-10-31T07:40:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23455",
+      "timestamp": "2026-10-31T06:37:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116419150893428749",
+      "author": "Grumpywinter",
+      "url": "https://x.com/Grumpywinter/status/2116419150893428749",
+      "source_url": "https://x.com/Grumpywinter/status/2116419150893428749",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@StephenKing Oh yes the classic neoliberal elitist take, I'm guessing you're going to tell me next that all those migrants never were possibly sex trafficking slaves, trafficking drugs, or trafficking terrorists in the United States with an open unsecured border.",
+      "text_excerpt": "@StephenKing Oh yes the classic neoliberal elitist take, I'm guessing you're going to tell me next that all those migrants never were possibly sex trafficking slaves, trafficking drugs, or trafficking terrorists in the United States with an open unsecured border.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:41:25Z",
+      "last_collected_at": "2026-10-31T07:41:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23466",
+      "timestamp": "2026-10-31T04:01:10Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk0erj",
+      "author": "John3262005",
+      "url": "https://www.reddit.com/r/WhatTrumpHasDone/comments/1xk0erj/judge_blocks_expediting_migrant_childrens_asylum/",
+      "source_url": "https://www.reddit.com/r/WhatTrumpHasDone/comments/1xk0erj/judge_blocks_expediting_migrant_childrens_asylum/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "Judge Blocks Expediting Migrant Children’s Asylum Cases, For Now\nA federal judge in Maryland on Friday temporarily blocked the Trump administration from fast-tracking interviews for unaccompanied minors seeking asylum, a practice that critics have said makes children more vulnerable to deportation. The decision stopped the administration from scheduling asylum interviews for unaccompanied minors with little notice. It also halted a change that made it harder for their lawyers to reschedule interviews, dealing a blow to the administration’s broader effort to overhaul the process for migrant children seeking legal status. Federal officials have cast that work as necessary to clear backlogs and protect children from abuse. The case was brought by groups providing legal representation to migrant children, who said the federal government used to give them at least 21 days’ notice before an asylum interview. But the groups said they saw a shift last month, when some children were only given notice a few days, or sometimes less than 24 hours, before interviews. The groups argued that the shortened time frame made it harder for children to prepare, hurting their chances of being granted legal status to stay in the country. Judge Brendan A. Hurson, a Biden appointee, said the change conflicted with the federal government’s mandate to provide special protections for unaccompanied minors, who are seen as particularly vulnerable because they arrived in the United States without their parents or guardians. “It is difficult to maintain that the public has an interest in the perpetuation of a chaotic system that may result in vulnerable children being wrongfully removed to places where they may suffer abuse, or even death,” Mr. Hurson wrote in his order. The order will remain in place for at least two weeks. The Department of Homeland Security did not immediately respond to a request for comment. The ruling affects unaccompanied minors applying for asylum through U.S. Citizenship and Immigration Services, an agency within the Department of Homeland Security that oversees the legal immigration system. Migrant children who are denied asylum by the agency can still apply for asylum through the immigration courts, although those grants have plummeted under the Trump administration. The case was brought by a group of nonprofits that represent migrant children in immigration court, including the Amica Center for Immigrant Rights, The Door and the Florence Immigrant and Refugee Rights Project. In a joint statement, the plaintiffs and their attorneys applauded the judge’s ruling, and said the federal policy had put children on a “deportation assembly line.” “This order restores basic procedural protections for immigrant children navigating the asylum process without a parent or caregiver,” the group said.",
+      "text_excerpt": "Judge Blocks Expediting Migrant Children’s Asylum Cases, For Now\nA federal judge in Maryland on Friday temporarily blocked the Trump administration from fast-tracking interviews for unaccompanied minors seeking asylum, a practice that critics have said makes children more vulnerable to deportation. The decision stopped the administration from scheduling asylum interviews for unaccompanied minors with little notice. I…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T07:44:09Z",
+      "last_collected_at": "2026-10-31T07:44:09Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-31T01:14:02.429377+00:00",
+  "last_archived_at": "2026-10-31T07:44:16.101589+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
