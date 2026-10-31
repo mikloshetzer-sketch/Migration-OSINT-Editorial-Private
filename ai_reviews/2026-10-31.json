@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T07:44:40.357235+00:00"
+    },
+    "information:23466": {
+      "hu_text": "Egy marylandi szövetségi bíró ideiglenesen megakadályozta, hogy a Trump-kormányzat gyorsított eljárásban bonyolítsa le a kísérő nélküli kiskorú menedékkérők meghallgatásait. A döntés megtiltotta, hogy az adminisztráció rövid határidővel szervezzen interjúkat, és megnehezítette az ügyvédek számára az időpontok átszervezését. A bíró szerint a változtatás ellentétes a kormányzat kötelezettségével, hogy különleges védelmet nyújtson a kísérő nélküli kiskorúaknak, akik különösen sebezhetőek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szövetségi bíró döntése fontos jogi fejlemény a kísérő nélküli kiskorú menedékkérők ügyében, de a forrás nem hivatalos, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:49.219038+00:00"
+    },
+    "record:2116418822244905035": {
+      "hu_text": "Csütörtökön 263 migráns érkezett Doverbe, ez volt az első hajó három hét alatt. Hardelotnál egy késsel felfegyverkezett férfi harcolt egy csónakon, miközben a francia mentőhajók várakoztak. Nagy-Britannia fizet Franciaországnak, hogy őrizze a partszakaszt, és a brit belügyminisztérium ezt előrelépésnek tartja.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés aktuális határbiztonsági eseményről számol be, de a forrás nem hivatalos, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:49.219058+00:00"
+    },
+    "record:2116421286595563992": {
+      "hu_text": "@avibrahimberk Vagy azért, mert valószínűleg több százezer migránst szállásolnak el hotelekben, és csökkentik az alapvető szolgáltatások, például a közlekedés finanszírozását.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy feltételezés a migránsok elhelyezéséről és szolgáltatások finanszírozásáról, nincs bizonyíték a tartalom igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:49.219063+00:00"
+    },
+    "record:2116425395952140292": {
+      "hu_text": "@In4class1 @RedJoker6a A mai dél-afrikai modern rabszolgaság magában foglalja a szexuális és munkaerő-kereskedelmet, kényszermunkát, gyermek kizsákmányolást, háztartási szolgáltatói rabszolgaságot és migráns adósrabszolgaságot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés társadalmi problémákat említ, de nem tartalmaz konkrét bizonyítékot, ezért ellenőrzés szükséges lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:49.219068+00:00"
+    },
+    "record:2116426506251673601": {
+      "hu_text": "@sarkar28922 A Baloldali Front már az 1950-es évek óta megakadályozta, hogy menekültek elhagyják Nyugat-Bengált és az Andamán- és Nikobár-szigetekre menjenek, például Dandakaranya területére. Ezt kizárólag szavazatmaximalizálás céljából tették. A menekültek ezt nem értették, ezért a Baloldali Front uralma alatt vissza akartak térni, ami a Marichjhapi eseményekhez vezetett.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi-politikai állításokat tartalmaz, amelyek ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:49.219072+00:00"
+    },
+    "record:2116430046785417629": {
+      "hu_text": "Ismail Saamee Ali főügyész részt vett a nyílt forrású hírszerzésről (OSINT) és digitális bizonyítékokról szóló regionális műhelymunkán, amelyet 2026. október 27–29. között rendeztek Dhakában, Bangladesben, és amely az emberkereskedelem és migránscsempészet elleni nyomozásokat célozta.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy szakmai eseményről számol be, de nincs további bizonyíték a részvétel igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:49.219076+00:00"
     }
   },
   "legacy_reviews": {}
