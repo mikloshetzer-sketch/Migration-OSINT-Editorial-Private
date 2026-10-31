@@ -287,6 +287,94 @@
       "text": "History in the Netherlands: For the first time, a boat carrying illegal migrants has landed on the country’s coast (in the Cadzand area).\n\nThe boat brought 38 African migrants into Dutch territory. https://t.co/awuLR9LQei",
       "url": "https://x.com/MarkoS2075/status/2116584453304971508",
       "source_url": "https://x.com/MarkoS2075/status/2116584453304971508"
+    },
+    {
+      "id": 796,
+      "event_id": 796,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xkn3sz",
+      "author": "Mcfreely2",
+      "published_at": "2026-10-31T22:24:49Z",
+      "collected_at": "2026-10-31T22:55:12Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "A grandmother was taken from Alabama to a unfamiliar country in Central Africa. Source: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/\nsubmitted by /u/Mcfreely2 to u/Mcfreely2",
+      "url": "https://www.reddit.com/r/u_Mcfreely2/comments/1xkn3sz/a_grandmother_was_taken_from_alabama_to_a/",
+      "source_url": "https://www.reddit.com/r/u_Mcfreely2/comments/1xkn3sz/a_grandmother_was_taken_from_alabama_to_a/"
+    },
+    {
+      "id": 797,
+      "event_id": 797,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xkn06o",
+      "author": "CutSenior4977",
+      "published_at": "2026-10-31T22:20:02Z",
+      "collected_at": "2026-10-31T22:55:12Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "A grandmother was taken from Alabama to a unfamiliar country in Central Africa.\nSource: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/",
+      "url": "https://www.reddit.com/r/ImmigrationPathways/comments/1xkn06o/a_grandmother_was_taken_from_alabama_to_a/",
+      "source_url": "https://www.reddit.com/r/ImmigrationPathways/comments/1xkn06o/a_grandmother_was_taken_from_alabama_to_a/"
+    },
+    {
+      "id": 798,
+      "event_id": 798,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk9f52",
+      "author": "Ok_Signal4754",
+      "published_at": "2026-10-31T12:51:51Z",
+      "collected_at": "2026-10-31T22:56:40Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "confidence": 0.45,
+      "event_confidence": 0.45,
+      "relevance_score": 20.0,
+      "text": "South Crete: Identification of 84 migrants – Two minors from South Sudan arrested as smugglers | Greece\nSource",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xk9f52/south_crete_identification_of_84_migrants_two/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xk9f52/south_crete_identification_of_84_migrants_two/"
+    },
+    {
+      "id": 799,
+      "event_id": 799,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk9e3p",
+      "author": "Ok_Signal4754",
+      "published_at": "2026-10-31T12:50:22Z",
+      "collected_at": "2026-10-31T22:56:40Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "confidence": 0.45,
+      "event_confidence": 0.45,
+      "relevance_score": 20.0,
+      "text": "Crete: 23-year-old South Sudanese national arrested for smuggling 52 migrants south of Kala Limenes | Greece\nSource",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xk9e3p/crete_23yearold_south_sudanese_national_arrested/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xk9e3p/crete_23yearold_south_sudanese_national_arrested/"
     }
   ],
   "event_groups": [
@@ -579,6 +667,64 @@
       "average_confidence": 0.25,
       "created_at": "2026-10-31T18:07:43Z",
       "updated_at": "2026-10-31T18:07:43Z"
+    },
+    {
+      "id": 635,
+      "group_id": 635,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "A grandmother was taken from Alabama to a unfamiliar country in Central Africa. Source: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/\nsubmitted by /u/Mcfreely2 to u/Mcfreely2",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-31T22:24:49Z",
+      "last_seen": "2026-10-31T22:24:49Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "REDDIT"
+      ],
+      "sources": [
+        "REDDIT"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-31T22:55:12Z",
+      "updated_at": "2026-10-31T22:55:12Z"
+    },
+    {
+      "id": 636,
+      "group_id": 636,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "A grandmother was taken from Alabama to a unfamiliar country in Central Africa.\nSource: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-10-31T22:20:02Z",
+      "last_seen": "2026-10-31T22:20:02Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "REDDIT"
+      ],
+      "sources": [
+        "REDDIT"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-10-31T22:55:12Z",
+      "updated_at": "2026-10-31T22:55:12Z"
     }
   ],
   "influence_signals": [
@@ -1942,6 +2088,180 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1288,
+      "source": "X",
+      "source_post_id": "2116645766903087231",
+      "author": "NewsNew97351204",
+      "language": "en",
+      "published_at": "2026-10-31T21:37:30Z",
+      "first_detected_at": "2026-10-31T22:56:02Z",
+      "last_detected_at": "2026-10-31T22:56:02Z",
+      "detection_count": 1,
+      "text": "Breaking News\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday\n\nMigrants trying to illegally enter the UK on small boats have broken out into violence as they're caught desperately attacking each other for https://t.co/jLvbj73IE0",
+      "text_excerpt": "Breaking News\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday\n\nMigrants trying to illegally enter the UK on small boats have broken out into violence as they're caught desperately attacking each other for https://t.co/jLvbj73IE0",
+      "url": "https://x.com/NewsNew97351204/status/2116645766903087231",
+      "source_url": "https://x.com/NewsNew97351204/status/2116645766903087231",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrants trying to illegally enter"
+        ],
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Migrants trying to illegally enter",
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1290,
+      "source": "X",
+      "source_post_id": "2116658270274470296",
+      "author": "lkldgal",
+      "language": "en",
+      "published_at": "2026-10-31T22:27:11Z",
+      "first_detected_at": "2026-10-31T22:59:39Z",
+      "last_detected_at": "2026-10-31T22:59:39Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/vacicPd7wT via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/vacicPd7wT via @DailyMail",
+      "url": "https://x.com/lkldgal/status/2116658270274470296",
+      "source_url": "https://x.com/lkldgal/status/2116658270274470296",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1289,
+      "source": "X",
+      "source_post_id": "2116660367153860861",
+      "author": "The_QStorm",
+      "language": "en",
+      "published_at": "2026-10-31T22:35:31Z",
+      "first_detected_at": "2026-10-31T22:56:39Z",
+      "last_detected_at": "2026-10-31T22:56:39Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: Patriot Platform protests across the country outside companies who allow their coaches to be used to transport illegal migrants into the country\n\nAndy Burnham and the government hates that this is entirely peaceful. 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🚨 https://t.co/5AulPcgGtn",
+      "text_excerpt": "🚨BREAKING: Patriot Platform protests across the country outside companies who allow their coaches to be used to transport illegal migrants into the country\n\nAndy Burnham and the government hates that this is entirely peaceful. 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🚨 https://t.co/5AulPcgGtn",
+      "url": "https://x.com/The_QStorm/status/2116660367153860861",
+      "source_url": "https://x.com/The_QStorm/status/2116660367153860861",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport illegal migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport illegal migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -3307,6 +3627,180 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1288,
+      "source": "X",
+      "source_post_id": "2116645766903087231",
+      "author": "NewsNew97351204",
+      "language": "en",
+      "published_at": "2026-10-31T21:37:30Z",
+      "first_detected_at": "2026-10-31T22:56:02Z",
+      "last_detected_at": "2026-10-31T22:56:02Z",
+      "detection_count": 1,
+      "text": "Breaking News\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday\n\nMigrants trying to illegally enter the UK on small boats have broken out into violence as they're caught desperately attacking each other for https://t.co/jLvbj73IE0",
+      "text_excerpt": "Breaking News\nViolent migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived yesterday\n\nMigrants trying to illegally enter the UK on small boats have broken out into violence as they're caught desperately attacking each other for https://t.co/jLvbj73IE0",
+      "url": "https://x.com/NewsNew97351204/status/2116645766903087231",
+      "source_url": "https://x.com/NewsNew97351204/status/2116645766903087231",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrants trying to illegally enter"
+        ],
+        [
+          "movement",
+          "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Migrants trying to illegally enter",
+        "migrants attack each other in their desperation to cram into small boats headed for UK after 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1290,
+      "source": "X",
+      "source_post_id": "2116658270274470296",
+      "author": "lkldgal",
+      "language": "en",
+      "published_at": "2026-10-31T22:27:11Z",
+      "first_detected_at": "2026-10-31T22:59:39Z",
+      "last_detected_at": "2026-10-31T22:59:39Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/vacicPd7wT via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/vacicPd7wT via @DailyMail",
+      "url": "https://x.com/lkldgal/status/2116658270274470296",
+      "source_url": "https://x.com/lkldgal/status/2116658270274470296",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1289,
+      "source": "X",
+      "source_post_id": "2116660367153860861",
+      "author": "The_QStorm",
+      "language": "en",
+      "published_at": "2026-10-31T22:35:31Z",
+      "first_detected_at": "2026-10-31T22:56:39Z",
+      "last_detected_at": "2026-10-31T22:56:39Z",
+      "detection_count": 1,
+      "text": "🚨BREAKING: Patriot Platform protests across the country outside companies who allow their coaches to be used to transport illegal migrants into the country\n\nAndy Burnham and the government hates that this is entirely peaceful. 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🚨 https://t.co/5AulPcgGtn",
+      "text_excerpt": "🚨BREAKING: Patriot Platform protests across the country outside companies who allow their coaches to be used to transport illegal migrants into the country\n\nAndy Burnham and the government hates that this is entirely peaceful. 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🚨 https://t.co/5AulPcgGtn",
+      "url": "https://x.com/The_QStorm/status/2116660367153860861",
+      "source_url": "https://x.com/The_QStorm/status/2116660367153860861",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport illegal migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport illegal migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -3945,6 +4439,86 @@
         "X"
       ],
       "independent_author_count": 3,
+      "platform_count": 1
+    },
+    {
+      "id": 1290,
+      "source": "X",
+      "source_post_id": "2116658270274470296",
+      "author": "lkldgal",
+      "language": "en",
+      "published_at": "2026-10-31T22:27:11Z",
+      "first_detected_at": "2026-10-31T22:59:39Z",
+      "last_detected_at": "2026-10-31T22:59:39Z",
+      "detection_count": 1,
+      "text": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/vacicPd7wT via @DailyMail",
+      "text_excerpt": "Violent migrants jump into packed small boats as 671 arrived yesterday https://t.co/vacicPd7wT via @DailyMail",
+      "url": "https://x.com/lkldgal/status/2116658270274470296",
+      "source_url": "https://x.com/lkldgal/status/2116658270274470296",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants jump into packed small boats as 671 arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants jump into packed small boats as 671 arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.2,
+      "analyst_priority": "LOW",
+      "related_posts_count": 4,
+      "related_post_ids": [
+        "2116658270274470296",
+        "2116587906718449909",
+        "2116587036157059517",
+        "2116586523852239024"
+      ],
+      "related_authors": [
+        "CarolAb25084572",
+        "JohnMartinSain",
+        "MontgomeryCla20",
+        "lkldgal"
+      ],
+      "related_urls": [
+        "https://x.com/lkldgal/status/2116658270274470296",
+        "https://x.com/MontgomeryCla20/status/2116587906718449909",
+        "https://x.com/JohnMartinSain/status/2116587036157059517",
+        "https://x.com/CarolAb25084572/status/2116586523852239024"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 4,
       "platform_count": 1
     }
   ],
@@ -5267,9 +5841,315 @@
       "first_collected_at": "2026-10-31T18:08:43Z",
       "last_collected_at": "2026-10-31T18:08:43Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23609",
+      "timestamp": "2026-10-31T22:51:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116664496651444485",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2116664496651444485",
+      "source_url": "https://x.com/grok/status/2116664496651444485",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@Simbuilder @andrewc44104127 @elonmusk @HealthRanger Tusk's government currently enforces strict border controls, reports near-zero illegal crossings from Belarus, sharp visa cuts, high deportations, and an exemption from EU migrant relocation. Tarczynski (PiS MEP) takes a harder eurosceptic line on sovereignty and cultural issues.",
+      "text_excerpt": "@Simbuilder @andrewc44104127 @elonmusk @HealthRanger Tusk's government currently enforces strict border controls, reports near-zero illegal crossings from Belarus, sharp visa cuts, high deportations, and an exemption from EU migrant relocation. Tarczynski (PiS MEP) takes a harder eurosceptic line on sovereignty and cultural issues.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:55:34Z",
+      "last_collected_at": "2026-10-31T22:55:34Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23642",
+      "timestamp": "2026-10-31T22:26:40Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116658137747067392",
+      "author": "nochickennipple",
+      "url": "https://x.com/nochickennipple/status/2116658137747067392",
+      "source_url": "https://x.com/nochickennipple/status/2116658137747067392",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "refugee_camp",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@barrracudaz @wageure @manofbird I mean Israel bombed those same refugee camps after people arrived and prevented food from reaching them.",
+      "text_excerpt": "@barrracudaz @wageure @manofbird I mean Israel bombed those same refugee camps after people arrived and prevented food from reaching them.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:59:39Z",
+      "last_collected_at": "2026-10-31T22:59:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23620",
+      "timestamp": "2026-10-31T22:25:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116657880036229563",
+      "author": "stephen65239752",
+      "url": "https://x.com/stephen65239752/status/2116657880036229563",
+      "source_url": "https://x.com/stephen65239752/status/2116657880036229563",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@HouseofAyres Only for supporting a migrant charity ? Not for the drugs and people trafficking ? Laundering money for cartels ? Fixing the cost of every good delivered by boat , through maritime insurance racket ?",
+      "text_excerpt": "@HouseofAyres Only for supporting a migrant charity ? Not for the drugs and people trafficking ? Laundering money for cartels ? Fixing the cost of every good delivered by boat , through maritime insurance racket ?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:56:01Z",
+      "last_collected_at": "2026-10-31T22:56:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23621",
+      "timestamp": "2026-10-31T22:17:30Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116655829768163415",
+      "author": "paulmeanalysis",
+      "url": "https://x.com/paulmeanalysis/status/2116655829768163415",
+      "source_url": "https://x.com/paulmeanalysis/status/2116655829768163415",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "channel",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "🚨🇬🇧 934 MIGRANTS IN JUST 48 HOURS!\nAfter 21 days without small-boat arrivals, Home Office figures confirm 934 people crossed the Channel on Thursday and Friday.\nThe three-week pause coincided with rough seas.\nAre Britain's borders becoming more secure, or are crossings simply https://t.co/L2noHcjJLF",
+      "text_excerpt": "🚨🇬🇧 934 MIGRANTS IN JUST 48 HOURS!\nAfter 21 days without small-boat arrivals, Home Office figures confirm 934 people crossed the Channel on Thursday and Friday.\nThe three-week pause coincided with rough seas.\nAre Britain's borders becoming more secure, or are crossings simply https://t.co/L2noHcjJLF",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:56:01Z",
+      "last_collected_at": "2026-10-31T22:56:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23622",
+      "timestamp": "2026-10-31T22:09:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116653907724091721",
+      "author": "paul_verhoven4",
+      "url": "https://x.com/paul_verhoven4/status/2116653907724091721",
+      "source_url": "https://x.com/paul_verhoven4/status/2116653907724091721",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@LeeHarris Popping the boat? Jailed.\nCarrying &amp; using a large knife? No worries, carry on.\nThe idea is not to protect you. The idea is that the legalised smuggling network cannot be broken - its too profitable. Each migrant is a number &amp; that number means money. 🤑\n https://t.co/1GZb75Br6t",
+      "text_excerpt": "@LeeHarris Popping the boat? Jailed.\nCarrying &amp; using a large knife? No worries, carry on.\nThe idea is not to protect you. The idea is that the legalised smuggling network cannot be broken - its too profitable. Each migrant is a number &amp; that number means money. 🤑\n https://t.co/1GZb75Br6t",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:56:02Z",
+      "last_collected_at": "2026-10-31T22:56:02Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23616",
+      "timestamp": "2026-10-31T22:08:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116653627020353988",
+      "author": "bhstancil",
+      "url": "https://x.com/bhstancil/status/2116653627020353988",
+      "source_url": "https://x.com/bhstancil/status/2116653627020353988",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@RichPiano1 @Trfk5 So you’re just voting for more decline?\n\n99% White refugees?\n\n0 border releases?\n\nCuts to all legal immigration paths?\n\nA million deportations?\n\nYeah Trump has left a lot to be desired, but voting for Dems over this is just fucking retarded.",
+      "text_excerpt": "@RichPiano1 @Trfk5 So you’re just voting for more decline?\n\n99% White refugees?\n\n0 border releases?\n\nCuts to all legal immigration paths?\n\nA million deportations?\n\nYeah Trump has left a lot to be desired, but voting for Dems over this is just fucking retarded.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:55:35Z",
+      "last_collected_at": "2026-10-31T22:55:35Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23649",
+      "timestamp": "2026-10-31T16:46:41Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xkf1vb",
+      "author": "Aromatic-Ad-1026",
+      "url": "https://www.reddit.com/r/israel_bm/comments/1xkf1vb/היוטיוברסטרימר_darkviperau_הפיץ_פרופגנדה_ברורה/",
+      "source_url": "https://www.reddit.com/r/israel_bm/comments/1xkf1vb/היוטיוברסטרימר_darkviperau_הפיץ_פרופגנדה_ברורה/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "departure"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "היוטיובר\\סטרימר DarkViperAU הפיץ פרופגנדה ברורה השתמש בAI בוויכוח ואז מחק הכל שלא הלך לו טוב\nראיות, מקור: אני בסרטון הזה darkviperAU הפיץ למשך כמה דקות רצופות פרופגנדה ברורה אחרי שמישהו בתגובות אמר לו שהוא מדבר מהתחת שלו התחילה השיחה הזו. אחרי התגובה השנייה שלי הוא מחק את כל השיחה אבל למזלי שמרתי תמלול של הרוב לפני זה וצילום מסך של ההתראה. אז להלן הינה השיחה: DVPAU: I am away so don’t have time to type. The history is not reasonably contested, I just reference the factual history of how Israel came to be and its action’s since. You are simply wrong. I am unsure if Israelis are specifically lied to about their own history, it would make sense if this were the case so they can justify the horrors of how they came to be. Oh and at the time the controversy happened with Macklemore 12 years ago even the ADL accepted it wasn’t his intention. The belated fake outrage is just another case of history being rewritten when reality doesn’t jive with justifying slaughtering the innocent for their land. AI (I just gave it your comment) The comment mixes a real historical fact with misleading claims and a false legal conclusion. “Jews paid for land at above market value.” Jewish individuals and organisations did legally purchase land before 1948, sometimes at high prices. But that does not explain all subsequent Israeli land acquisition: Jewish ownership was approximately 6–7% of Mandatory Palestine by 1947. This figure concerns ownership, not a state’s borders; the remainder also included public land. “Arabs left themselves.” Some Palestinians fled fighting or fear; others were forcibly expelled. Documented expulsions include tens of thousands from Lydda and Ramle. Presenting the entire exodus as voluntary is historically indefensible. “Because [they] started a war.” Neighbouring Arab states did intervene militarily in May 1948, but fighting and Palestinian displacement had already begun. Treating Palestinian civilians and several Arab governments as one actor obscures both chronology and individual responsibility. “Which legally voids their ownership.” — This is the clearest falsehood. There is no general rule that civilians lose their property because their side starts a war or because they flee. Israel subsequently used its 1950 Absentees’ Property Law to take control of refugee property, including property of some internally displaced Palestinians. That was a specific legislative mechanism, not automatic forfeiture for starting a war. International rules protect private property, and UN Resolution 194 explicitly addressed refugee return and compensation. The central error is conflating purchased land, territory won in war, and confiscated refugee property. Those are three different things. My first response: The claim that Jewish land ownership only accounted for 6–7% of Mandatory Palestine relies on a conflation of private property deeds with sovereign state land while omitting how the remaining land was actually classified. According to the British Mandatory government's Survey of Palestine (1946) and Village Statistics (1945), roughly 70% of the land in Mandatory Palestine was Crown/State land (formerly Ottoman Miri and Mawat land), predominantly consisting of the uninhabited Negev desert. Neither Jews nor Arabs held private fee-simple title to this majority. Private Arab ownership across the entire Mandate was roughly 20–25% (depending on whether leased state lands are counted), while Jewish ownership was roughly 6–8.6%. However, Jewish purchases (via the Jewish National Fund and private buyers) were heavily concentrated in the coastal plain, the Jezreel Valley, and the Galilee the exact areas designated for the Jewish state under the 1947 UN Partition Plan (Resolution 181). Within the areas actually allocated to the proposed Jewish state (excluding the uncultivated Negev state lands), Jewish land ownership was a substantial share of the cultivable area. Sources: Anglo-American Committee of Inquiry, A Survey of Palestine (1946), Vol. 1, Chapter VIII (Land). Government of Palestine, Village Statistics, 1945. Stein, Kenneth W., The Land Question in Palestine, 1917–1939 (University of North Carolina Press, 1984). You argue that fighting began before the May 1948 Arab invasion and that not separating Palestinian civilians from Arab states obscures responsibility. Historiography of the war shows that the conflict was initiated locally by Palestinian Arab leadership immediately following the UN vote. The war can mostly be divided into 2 seperate phases, The civil war in the British Mandate, and the first Arab-Israeli war/Israeli war of independance The Civil War (November 1947 – May 1948): The war began on November 30, 1947 the day after the UN General Assembly passed Resolution 181 when the Arab Higher Committee (the central political organ of Palestinian Arabs, led by Haj Amin al-Husseini) rejected the Partition Plan, declared a three-day strike, and launched armed attacks on Jewish buses, neighborhoods, and convoys. The first five months of the war were a civil war initiated by local Palestinian Arab irregulars and the Arab Liberation Army (volunteers backed by the Arab League), who laid siege to the 100,000 Jews of Jerusalem. The first Arab-Israeli war (May 15, 1948 onward): When the British Mandate expired, the neighboring Arab states (Egypt, Transjordan, Syria, Iraq, and Lebanon) invaded to prevent the establishment of Israel. Both phases represent a unified political rejection of partition by local Palestinian leadership and regional Arab government. Sources: Morris, Benny, 1948: A History of the First Arab-Israeli War (Yale University Press, 2008). Gelber, Yoav, Palestine 1948: War, Escape and the Emergence of the Palestinian Refugee Problem (Sussex Academic Press, 2006). While I acknowledge that expulsions occurred during intense military campaigns (such as Lydda and Ramle in July 1948, which sat astride the main road to besieged Jerusalem, Mostly by Lehi and Etzel), historians note that the exodus was a multi-stage wartime phenomenon rather than a top-down pre-planned expulsion. Early Flight of the Elite (Dec 1947 – March 1948): Between 75,000 and 100,000 wealthier and middle-class Palestinian Arabs left voluntarily from Haifa, Jaffa, and Jerusalem before major Haganah offensives began, expecting to return once the Arab armies defeated the nascent Jewish state. This collapsed local municipal structures, economies, and morale. Arab Leadership Directives and Evacuation Orders: In several documented instances, local Arab commanders and the Arab Higher Committee ordered or encouraged the evacuation of women, children, and the elderly from combat zones to clear the way for Arab forces or to avoid living under Jewish jurisdiction most notably in Haifa in April 1948, where British observers (such as Major-General Hugh Stockwell) documented that the Jewish mayor, Shabtai Levy, pleaded with Arab residents to stay while local Arab leadership chose evacuation. Plan Dalet: Formulated in March 1948 to secure road networks and border areas ahead of the expected pan-Arab invasion, Plan Dalet explicitly instructed commanders to leave peaceful Arab villages intact while authorizing the clearing of villages that actively served as bases for hostile forces firing on supply lines. (This is often the most controversial part of the war as several major atrocities were commited by both sides during this offensive). Sources: Karsh, Efraim, Palestine Betrayed (Yale University Press, 2010). Morris, Benny, The Birth of the Palestinian Refugee Problem Revisited (Cambridge University Press, 2004). British Foreign Office dispatches and Haifa District Police reports, April 1948 (Public Record Office, London, FO 371/68505). Your Argument asserts that Israel's control of abandoned property violates clear international rules and cites UN General Assembly Resolution 194. UNGA Resolution 194 is Non-Binding and Conditional; Passed in December 1948, General Assembly resolutions under Chapter IV of the UN Charter are non-binding recommendations, unlike Chapter VII Security Council resolutions. Furthermore, Paragraph 11 of Resolution 194 explicitly conditioned return on refugees \"wishing to live at peace with their neighbors\" a condition Israel argued was unmet given the ongoing state of war and refusal of Arab states to sign peace treaties (and notably, every Arab state at the UN voted against Resolution 194 at the time). The 1950 Absentees' Property Law and International Precedent: Israel’s Absentees' Property Law was modeled directly on the British Mandate's Trading with the Enemy Ordinance (1939) and mirrored legislation enacted by India and Pakistan in 1947–1950 (Administration of Evacuee Property Acts) to manage the properties of 14 million displaced Hindus, Muslims, and Sikhs. Rather than \"automatic forfeiture,\" property was vested in a statutory Custodian of Absentee Property, with Israel repeatedly offering to fold compensation into a comprehensive peace settlement that accounted for mutual claims. Between 1948 and the early 1970s, approximately 850,000 Jews fled or were expelled from Arab countries (such as Iraq, Egypt, Syria, Yemen, and Libya). Those states enacted explicitly confiscatory laws stripping Jewish citizens of nationality and freezing or seizing billions of dollars in property and land (totalling an estimated 100,000 square kilometers, roughly four times the size of Israel). Under international law, reflected later in UN Security Council Resolution 242 (1967), the crisis came to be treated as an irreversible two-way wartime population exchange requiring a \"just settlement of the refugee problem\" (intentionally phrased to include both Arab and Jewish refugees). Sources: Benvenisti, Eyal & Zamir, Eyal, \"Private Claims to Property Rights in the Future Israeli-Palestinian Settlement,\" The American Journal of International Law, Vol. 89, No. 2 (1995). Fischbach, Michael R., Jewish Property Claims Against Arab Countries (Columbia University Press, 2008). Lapidoth, Ruth, \"Legal Aspects of the Palestinian Refugee Question,\" Jerusalem Center for Public Affairs (2002). DVPAU's Response: Did you just say to a low model AI “make up shit and fake sources to rebut this”? To quote it: “the named books and articles are real. But several claims misrepresent those sources, and some are plainly wrong”. Even casually reading, you are arguing often directly against the position of the source: The land-ownership argument is misleading, and its percentages are poorly supported. Distinguishing private ownership from sovereignty is correct—and my previous answer explicitly made that distinction. It also explicitly said the remainder included public land. However, treating miri as simply government-owned land with no private ownership interest misrepresents the cited survey. The survey expressly says: “generally speaking land privately owned is held on what Ottoman law called the miri tenure” It describes inheritable private rights alongside the state’s underlying title. It also warns against assuming all apparently empty southern land was mewat. Their 70% public / 20–25% Arab split is therefore not a reliable summary of these sources. For comparison, Sami Hadawi’s later tabulation of the 1945 statistics gives approximately 48.5% under “Arabs”, with separate public and unassigned Beersheba categories. His tabulation makes disclosed adjustments, so that is not a perfect freehold-title census either—but it demonstrates why their neat percentages need actual page references and definitions. The two phases of the war are real; collective responsibility does not follow. The civil-war phase after the November 1947 partition vote and the intervention of regular Arab armies in May 1948 are established history. Morris does place substantial responsibility on Arab attacks and rejection of partition. That part deserves acknowledgment. But “a unified” Arab project oversimplifies divergent interests: Transjordan’s Abdullah sought to annex Arab Palestine and opposed the Palestinian leadership’s ambitions. The early departure of roughly 100,000 Palestinians, disproportionately from urban upper and middle classes, is also supported by Morris. Describing all their motives as waiting for Arab victory is an unjustified generalisation. “Lydda and Ramle—mostly by Lehi and Etzel” is false. These expulsions were carried out by Israeli army units during Operation Dani. Morris documents the Lydda expulsion order from Operation Dani headquarters, signed by Yitzhak Rabin, and the involvement of the Yiftah and Kiryati brigades. Their own cited author contradicts this attribution. The Haifa account has a factual basis, but the attribution to British witnesses is wrong. Local Arab representatives did choose evacuation, and accounts describe Mayor Shabtai Levy urging them to stay. However, Morris’s page 278, note 230, explicitly says: “Neither Stockwell nor Marriott mention Levy’s appeal.” He also finds no contemporary documentation supporting the claimed external evacuation order during the decisive negotiations. Thus, “Stockwell documented the mayor’s plea” is not supported by the source they cite. Their description of Plan Dalet omits important provisions. The plan did distinguish resistance from non-resistance, and it allowed inhabitants to remain under military control where there was no resistance. But it also authorised destruction of villages considered difficult to control and expulsion of a village’s population beyond the state’s borders when resistance occurred. Its wording included preventing population centres from becoming military bases—not only removing villages already firing on supply lines. The screenshot presents a narrower and more reassuring version than the document supports. Their point about Resolution 194 is substantially correct, but the conclusion exceeds it. The resolution’s refugee provisions are General Assembly recommendations. It also expressly refers to refugees wishing to return and live peacefully with their neighbours. All six Arab UN members then voted against it. My earlier answer should have made its non-binding status explicit. However, the wording concerns the refugees’ wishes; it does not explicitly say their property rights disappear until Arab governments sign peace treaties. It also calls for compensation. Whether particular return claims are enforceable involves additional legal questions; calling the resolution non-binding does not settle those questions. The Absentees’ Property Law involved more than temporary safekeeping. The comparison with British enemy-property laws and Indian/Pakistani evacuee-property legislation has a genuine historical basis. Similar legislation elsewhere, however, does not by itself establish international legality. The actual Israeli law is revealing: Section 4 transfers an absentee’s property rights automatically to the Custodian. Section 19 permits the Custodian to sell immovable property to the Development Authority. So describing a statutory custodian is technically correct, but implying that ownership was merely being preserved for its original holders is misleading. Automatic transfer under a specific domestic statute is also different from automatic forfeiture under international law because someone’s “side” started a war. Jewish displacement and confiscations were real; the sweeping figures need qualification. The departure of approximately 800,000–850,000 Jews from Arab countries is a widely cited historical estimate. Persecution, discriminatory restrictions, expulsions and property seizures were substantial realities. But circumstances varied by country and person; Fischbach’s publisher explicitly describes varied causes and property that was sometimes seized. Treating every departure and every country’s policies as identical is inaccurate. I traced the 100,000 km² figure to claims by Heskel Haddad, president of the World Organization of Jews from Arab Countries, reported in 2007. That establishes that the claim exists; it does not independently verify the acreage or establish a scholarly consensus. Resolution 242 did not establish an “irreversible two-way population exchange.” Its actual wording calls for “a just settlement of the refugee problem.” It does not declare a population exchange, make displacement irreversible, cancel property claims, or specify that one population’s losses offset another’s. Interpretations encompassing Jewish refugees exist, including Lapidoth’s, but that is a much narrower proposition. Fischbach is especially poorly used here: in his own explanation of his research, he criticises using Jewish losses to neutralise Palestinian claims and questions treating the two as an “even exchange.” Citing his book as though it establishes that exchange as settled international law seriously misrepresents his position My response: It is ironic that you accuse me of outsourcing my argument when you have twice now pasted raw AI outputs instead of engaging yourself, and you didn't even notice that your own AI just conceded almost every core historical point I made, shifting the goalposts from sweeping claims to pedantic nitpicks over footnotes. Look at what your AI just admitted on your behalf: It conceded that the war began with Arab rejection of Resolution 181 and local Arab attacks in November 1947, and that Benny Morris places substantial responsibility there. It conceded that ~100,000 middle- and upper-class Palestinians left voluntarily in the early months before major fighting. it conceded that in Haifa, local Arab leaders chose evacuation while Jewish Mayor Shabtai Levy urged them to stay.conceded that UNGA Resolution 194 is non-binding, conditional on living in peace, and was voted against by every Arab state at the time walking back its earlier attempt to use Res 194 as a binding legal trump card. It conceded that Israel's 1950 Absentees' Property Law was directly modeled on British Mandate enemy-property statutes and mirrored Indian/Pakistani evacuee legislation, and that 800,000–850,000 Jews were displaced from Arab lands with massive property seizures. Now, let’s address the specific technical points your AI raised: 1. Land Ownership, Miri, and the 1945 Village StatisticsYour original argument claimed Jews owned \"only 6–7% of Mandatory Palestine,\" implying the remaining 93% was privately owned Arab land. Even citing Sami Hadawi’s heavily adjusted tabulation (which counts state-owned Miri land under leasehold cultivation as \"Arab\"), over 50% of Mandatory Palestine was still non-Arab state/public land and the Beersheba/Negev desert (12.5 million dunams out of 26.3 million total). Under the Ottoman Land Code of 1858 carried into the Mandate, Mulk (private freehold) was rare outside urban areas, while Miri vested ultimate title (raqaba) in the state, granting cultivators usufruct rights (tasarruf) that lapsed if left uncultivated for three years. More importantly, Hadawi’s figures confirm that in the cultivable regions allocated to the Jewish state, Jewish land purchases were concentrated where the Jewish population lived, while the vast majority of the territory acquired was state domain, not confiscated private Arab freehold. The Two Phases of the War & Arab War AimsPointing out that King Abdullah of Transjordan had rival territorial ambitions to Haj Amin al-Husseini does not refute the fact that both rejected the UN Partition Plan and went to war to prevent a sovereign Jewish state. Rivalries among coalition partners do not erase the war they initiated. Lydda and RamleFair correction on my parenthetical note: Lydda and Ramle were cleared by IDF units (Yiftah and Kiryati brigades) during Operation Dani to open the besieged road to Jerusalem, not by Etzel/Lehi (I got Confused with Deir Yasin). However, as Morris documents in 1948 (pp. 286–290), Lydda became an active combat zone after armed locals sniped at troops and fired on an armored reconnaissance entry, sparking urban combat in the middle of a multi-front invasion by regular Arab armies. It was a wartime operational expulsion along a vital military artery, not a pre-planned campaign of ethnic cleansing in peacetime. The Haifa EvacuationYour AI admits that Mayor Shabtai Levy pleaded with Arab residents to stay and that local Arab leadership chose evacuation instead of signing the truce. Nitpicking that Stockwell documented the Arab leadership's refusal to accept the truce and decision to evacuate, while the specific record of Levy's emotional plea comes from other contemporary British and local observers present at the Town Hall meeting, changes zero historical substance: the Jewish leadership begged them to stay, and the Arab leadership evacuated the city. Plan Dalet Read what your AI wrote: \"The plan did distinguish resistance from non-resistance, and it allowed inhabitants to remain under military control where there was no resistance.\" That completely demolishes your initial premise of a top-down genocidal plan to slaughter or expel all Arabs for their land. Plan Dalet was a military contingency plan implemented in April 1948 to secure supply lines to besieged Jewish communities before five regular Arab armies invaded. Where villages did not fight (such as Abu Ghosh, Fureidis, or Nazareth later on), their populations remained, which is why 160,000 Arabs stayed inside Israel in 1948 and became Israeli citizens, whose descendants now number over 2 million. 6 & 7. Resolution 194 and the 1950 Absentees' Property LawNobody claimed international law creates \"automatic forfeiture\" in a vacuum; I explicitly cited the domestic statutory mechanism (that being the 1950 Absentees' Property Law) and its international precedents. When the Custodian transferred land to the Development Authority (Section 19), it didn't erase the monetary value; the Custodian held a statutory credit/account on the books. From the 1949 Lausanne Conference onward, Israel repeatedly offered to pay compensation for abandoned Arab land as part of a comprehensive peace settlement that also accounted for war damages and seized Jewish property. It was the Arab states' refusal to make peace or recognize Israel that froze those settlements for decades, exact same dynamic as India and Pakistan under their 1947–1950 Evacuee Property Acts. 8 & 9. Jewish Refugees and Resolution 242 Citing Michael Fischbach for the documented historical fact of billions of dollars in seized Jewish property in Iraq, Egypt, Syria, Libya, and Yemen does not require agreeing with Fischbach's personal policy preferences on how diplomats should structure modern negotiations. And as Ruth Lapidoth (who helped draft Israel's legal positions around that era) and US Ambassador Arthur Goldberg noted regarding UNSC Resolution 242, the Security Council deliberately chose the generic phrase \"a just settlement of the refugee problem\" rejecting Arab demands to specify only \"Palestinian refugees\" precisely because international consensus recognized that both Arab and Jewish populations had been displaced and integrated across borders. You started this thread claiming the history is \"not reasonably contested\" and that Israel's founding was purely \"slaughtering the innocent for their land.\" Even the AI you are relying on to argue for you has now walked back your claims and validated the core historical framework I laid out.",
+      "text_excerpt": "היוטיובר\\סטרימר DarkViperAU הפיץ פרופגנדה ברורה השתמש בAI בוויכוח ואז מחק הכל שלא הלך לו טוב\nראיות, מקור: אני בסרטון הזה darkviperAU הפיץ למשך כמה דקות רצופות פרופגנדה ברורה אחרי שמישהו בתגובות אמר לו שהוא מדבר מהתחת שלו התחילה השיחה הזו. אחרי התגובה השנייה שלי הוא מחק את כל השיחה אבל למזלי שמרתי תמלול של הרוב לפני זה וצילום מסך של ההתראה. אז להלן הינה השיחה: DVPAU: I am away so don’t have time to type. The history i…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:59:39Z",
+      "last_collected_at": "2026-10-31T22:59:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23650",
+      "timestamp": "2026-10-31T06:25:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xk2vro",
+      "author": "Foreign-Slice3309",
+      "url": "https://www.reddit.com/r/TheCitadel/comments/1xk2vro/suggestions_for_writing_fan_fiction_where_arya/",
+      "source_url": "https://www.reddit.com/r/TheCitadel/comments/1xk2vro/suggestions_for_writing_fan_fiction_where_arya/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.0,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "route",
+        "vessel",
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "Suggestions for Writing Fan Fiction Where Arya Becomes Queen\nHello everyone. I am currently developing a fan fiction in which Arya becomes Queen following Robb’s death. Here is an outline of the plot so far: While Robb and Catelyn are en route to the Twins for the wedding, Sandor Clegane brings Arya back to her mother and brother. Upon learning that Arya has survived, Robb amends his will, naming her as his heir should he die without issue. With Edmure’s wedding to a Frey bride approaching, Catelyn fears that if the Freys discover Arya’s return, they might demand a reinstatement of the original marriage pact—or insist that Arya be handed over as a political guarantee. Consequently, the Starks decide to keep her return a secret for the time being. Robb intends to send his sister to Riverrun for safety. Having been separated from her daughter for so long, Catelyn insists on accompanying Arya to Riverrun herself to spend time with her, rather than traveling with Robb to the Twins. Robb assigns Dacey Mormont and Sandor Clegane to serve as guards for his mother and sister, while he proceeds to the wedding feast with his own retinue. The Freys and Boltons carry out their conspiracy, resulting in the Red Wedding. Robb is killed, the Starks suffer a devastating blow, Edmure is taken captive, and the military and political alliance between the North and the Riverlands rapidly collapses. While en route to Riverrun, Catelyn and Arya receive the tragic news. Though Catelyn is consumed by grief over the loss of her eldest son, she must suppress her despair—for she now has another daughter who needs her protection. Catelyn and Arya arrive at Riverrun, which remains under the control of the Blackfish, Brynden Tully. The Blackfish, along with the few surviving loyalists of House Stark and House Tully, confirms the terms of Robb’s succession and pledges their allegiance to Arya. 8. However, with Riverrun facing an imminent siege by the combined forces of House Frey and House Lannister, it was decided that the last remaining heir to the Stark throne could not be left trapped in the Riverlands. The Blackfish and Sandor Clegane chose to remain behind to command the garrison and buy time, while Catelyn, Arya, and Dacey Mormont departed with a small escort. The group first arrived at Seagard, where Jason Mallister provided ships to assist their journey north. Shortly after their departure, Seagard itself surrendered to the enemy under the pressure of the siege. During the voyage, the ship was boarded by Ironborn, who mistook it for an ordinary merchant vessel and attempted to seize the women on board. When the Ironborn captain sought to claim Catelyn as his \"salt wife\" and assault her, Arya—who had been in hiding—suddenly struck with her sword, Needle, inflicting a grievous wound on the captain. Dacey and the guards immediately drew their concealed weapons, repelling the boarders. Though the battle was won, it came at the cost of further casualties among their escort; by the time they reached the northern coast, only about 30 followers remained with Catelyn and Arya. Meanwhile, the Blackfish continued to hold Riverrun. When the castle finally fell, Sandor Clegane sacrificed himself to cover the Blackfish’s escape through the water gate. The Blackfish managed to get away and eventually joined the Brotherhood Without Banners in the Riverlands. Dacey led Catelyn and Arya through the western North in search of a safe refuge, leveraging the Mormont family’s local connections to reach trusted allies. As the Boltons had already seized control of most of the North, Arya could not yet reveal her true identity. The group established a secret camp in the Wolfswood, gradually taking in mountain clansmen, former Stark soldiers who had escaped Winterfell, war refugees, and other Northerners who refused to submit to the Boltons. 14. Under the guidance of Dacey and other veterans, Arya continued her training in swordsmanship, horsemanship, scouting, and wilderness survival. Meanwhile, Catelyn instructed her in feudal politics, familial alliances, diplomatic etiquette, and the responsibilities of a liege lord. Meanwhile, Roose Bolton—believing the true Arya to be missing and dead—arranges for his legitimized son, Ramsay, to marry Jeyne Poole, who is posing as Arya. There are now two Arya Starks in the North. Following the death of Balon, King of the Iron Islands, many Ironborn lords returned home to participate in the Kingsmoot. This led to a thinning of the Ironborn occupation forces in the western North. By this time, Arya’s following had grown to approximately 400. Dacey, the remnants of House Glover, and other allies in the western North orchestrated a surprise attack on Deepwood Motte. The Stark loyalists defeated the occupying Ironborn garrison and successfully reclaimed the stronghold. Because Arya assisted House Glover in regaining control of their ancestral seat, both the Glovers and House Mormont pledged their secret allegiance to her in the aftermath. Over the next four years, Arya and her companions focused primarily on expanding and consolidating the resistance forces.Meanwhile, Jeyne Poole—posing as \"Arya Bolton\"—gave birth to two children by her husband, Ramsay. By this point, Roose Bolton was aware that a resistance movement was forming among the western lords. However, he dismissed them as merely a few unruly houses; he viewed Stannis—along with powerful northern lords like the Manderlys, who feigned submission while harboring ulterior motives—as the true threats. He failed to realize that the western lords had begun to unite under Arya’s leadership. Stannis launched an offensive against the Boltons but was ultimately defeated. Stannis himself, along with Selyse and Shireen, perished in the conflict. Believing he had eliminated his most significant military threat, Roose Bolton turned his attention toward bringing the western lords to heel. He dispatched a detachment of approximately 1,500 men to pressure the defiant lords and force them back into submission. Arya, along with the Glovers、Mormonts , and other lords loyal to House Stark, decides to exploit the terrain of the Wolfswood to ambush enemy forces advancing along the forest roads. As the Bolton forces fall into the trap, the Stark troops—lying in wait—finally reveal the banner of the Stark direwolf. Fourteen-year-old Arya leads the charge herself. Caught completely off guard by the return of the Starks, the Bolton army suffers a crushing defeat, with only a handful of survivors managing to flee back to Winterfell. Following the Battle of the Wolfswood, Arya publicly reveals her true identity. Catelyn places a reforged Stark crown upon her head, and ravens are dispatched to all the lords of the North, proclaiming that Arya has succeeded Robb as Queen in the North. With some northern lords realigning themselves with House Stark, full-scale civil war erupts across the North. What do you think of this storyline? Given a four-year timeframe, is it plausible for Arya and her companions to build an army capable of challenging the Boltons' rule?",
+      "text_excerpt": "Suggestions for Writing Fan Fiction Where Arya Becomes Queen\nHello everyone. I am currently developing a fan fiction in which Arya becomes Queen following Robb’s death. Here is an outline of the plot so far: While Robb and Catelyn are en route to the Twins for the wedding, Sandor Clegane brings Arya back to her mother and brother. Upon learning that Arya has survived, Robb amends his will, naming her as his heir shou…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-10-31T22:59:40Z",
+      "last_collected_at": "2026-10-31T22:59:40Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-31T18:09:49.782991+00:00",
+  "last_archived_at": "2026-10-31T22:59:46.871266+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
