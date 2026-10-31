@@ -716,6 +716,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T14:01:37.398672+00:00"
+    },
+    "record:reddit_1xk9udx": {
+      "hu_text": "Száz migránst fogtak el az Algériából Szardínia és Spanyolország felé tartó átkelésnél.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés konkrét eseményt ír le, de nincs megerősített forrás vagy további bizonyíték az állítás hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:43.818559+00:00"
+    },
+    "record:reddit_1xkacuu": {
+      "hu_text": "Ma érkezett meg az első migráns csónak Hollandiába, amelyen 38 férfi illegális migráns szállt partra.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét eseményről szóló állítás, de nincs megerősített forrás vagy további bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:43.818576+00:00"
+    },
+    "telegram:1261826972:54083": {
+      "hu_text": "Három hónappal a tömeges belépés után: nulla visszaküldés és 3626 befogadott kiskorú. A helyi kormányzat sajnálja, hogy \"a helyzet egyáltalán nem változott\", és bízik abban, hogy \"november végére jelentős változás lesz\".",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg hivatalos helyzetértékelést tartalmaz, de nincs közvetlen bizonyíték vagy hivatalos forrás a megosztott adatok hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:43.818580+00:00"
+    },
+    "telegram:1604168769:12424": {
+      "hu_text": "Legyen óvatos a regisztrációnál! Leningrád megyében 2014 óta legalább 15 migránst hamisan regisztráltak otthonukban, és mindenkitől havi 5000 rubelt szedtek be. A bűnszervezet három gyanúsítottját elfogták, köztük két helyi lakost (49 és 47 éves) és egy 79 éves személyt is.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Bűncselekményről szóló állítás, de nincs megerősített forrás vagy hivatalos igazolás a részletek hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:43.818583+00:00"
     }
   },
   "legacy_reviews": {}
