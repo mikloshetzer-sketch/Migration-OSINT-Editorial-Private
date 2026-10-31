@@ -650,6 +650,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T14:01:27.779269+00:00"
+    },
+    "record:2116524239885053997": {
+      "hu_text": "BREAKING: Tegnap 671 illegális migráns érkezett az Egyesült Királyságba 9 migránscsónakon. Tegnapelőtt 263 illegális migráns érkezett 3 csónakon, így a két nap alatt érkezettek száma megközelíti az 1000-et.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat közöl illegális migránsok érkezéséről, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:37.398641+00:00"
+    },
+    "record:2116527754640269456": {
+      "hu_text": "Havonta több mint 200 kísérő nélküli migráns gyermek érkezik hajóval Doverbe, ami több millió fontba kerül Nagy-Britanniának – írja Sue Reid.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migráns gyermekek érkezéséről és költségekről szól, de nincs hivatalos adat vagy forrás, így ellenőrizetlen. Fontos a migrációs mozgások megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:37.398659+00:00"
+    },
+    "record:2116528220811960684": {
+      "hu_text": "Megerősítve: Több holland forrás (NOS, Omroep Zeeland, NL Times) szerint egy gumicsónakot 38 személlyel körülbelül reggel 6-kor elfogtak Breskens közelében, Zeelandnál. A csónakot a Cadzand kikötőbe vontatták. 36 migránst és 2 gyanús embercsempészt tartóztattak le. Ez az első ismert ilyen érkezés a holland partoknál.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több megbízható holland forrásra hivatkozik, így részben ellenőrzöttnek tekinthető. Fontos a határbiztonság szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:37.398663+00:00"
+    },
+    "record:2116529350266831091": {
+      "hu_text": "Hollandia történetében először érkezett illegális migránsokat szállító hajó a partokhoz (Cadzand környékén). A hajón 38 afrikai migráns érkezett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás újszerű eseményt közöl, de nincs hivatalos megerősítés, ezért ellenőrizetlen. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:37.398666+00:00"
+    },
+    "record:reddit_1xk9pfc": {
+      "hu_text": "Két további hajó érkezése után 48 órán belül 144 migráns érkezett Formenterába, Spanyolországban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A Reddit bejegyzés nem hivatalos forrás, ezért az állítás ellenőrizetlen. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:37.398668+00:00"
+    },
+    "record:reddit_1xk9tol": {
+      "hu_text": "Új mentési művelet Krétán: 36 migránst találtak Ierapetra közelében, Görögországban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A Reddit bejegyzés nem hivatalos forrás, ezért az információ ellenőrizetlen. Fontos a humanitárius helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:37.398672+00:00"
     }
   },
   "legacy_reviews": {}
