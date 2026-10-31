@@ -584,6 +584,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T14:01:18.425477+00:00"
+    },
+    "information:23506": {
+      "hu_text": "Hogyan érkezik több mint 200 migráns gyermek hajóval Doverbe MINDEN HÓNAPBAN.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számadatot közöl migráns gyermekek érkezéséről, ami fontos migrációs esemény, de nincs megerősített forrás vagy bizonyíték a számok hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:27.779207+00:00"
+    },
+    "information:23511": {
+      "hu_text": "Pillanatkép: '30 migráns' érkezik kis hajóval, mielőtt egy brit város felé indulnának.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsok érkezéséről számol be, de nem tartalmaz megerősített adatokat vagy forrásokat, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:27.779257+00:00"
+    },
+    "information:23519": {
+      "hu_text": "Ez gyakorlatilag egy legális embercsempész útvonal. Évek óta beszélnek \"új útvonalakról\", és ez az, amit kitaláltak. Minden jól finanszírozott illegális migráns csempész NGO mostantól közvetlenül fogja importálni őket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és vélekedés az embercsempészetről, nincs konkrét bizonyíték vagy adat, ezért nem ellenőrzött állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:27.779261+00:00"
+    },
+    "information:23521": {
+      "hu_text": "Az IOM otthonról végezhető tanácsadót keres az afrikai Kelet- és Szarv-régió emberkereskedelemmel és csempészettel kapcsolatos kormányzati adatainak megerősítésére. Mesterfokozat és 7 év migrációs vagy adatkezelési tapasztalat szükséges. Jelentkezési határidő: 2023. november 12.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat hivatalos szervezettől, amely migrációs adatkezeléssel kapcsolatos, így hiteles információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:27.779264+00:00"
+    },
+    "information:23524": {
+      "hu_text": "Migránsok \"csónakokon érkeztek\". Csak úgy \"megérkeznek\" Angliába egy mentőmellényben? Honnan? Ki kíséri őket? Van valamilyen haditengerészetetek, ugye, Anglia? A Csatorna csak egy pocsolya. És mégis itt vagyunk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és szkeptikus megjegyzés a migránsok érkezésével kapcsolatban, nincs konkrét bizonyíték vagy adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:27.779267+00:00"
+    },
+    "record:2116512377738764646": {
+      "hu_text": "Ó! Egy újabb szörnyeteg. Pont, mint a Munkáspárt pedofilok, perverzek, pornográfok, BBC, MSM, monarchia, muszlim migráns szexuális kizsákmányolás és erőszakoló bandák (250 000 fehér, brit tinilány), politikusok és rendőrség listáján szereplő 52 név.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Erősen véleményes, összeesküvés-elmélet jellegű állítás, nincs bizonyíték, ezért nem ellenőrzött és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:27.779269+00:00"
     }
   },
   "legacy_reviews": {}
