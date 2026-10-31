@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T07:45:02.892430+00:00"
+    },
+    "group:630": {
+      "hu_text": "Ma érkezett meg Hollandiába az első ismert migráns gumicsónak. 38 férfi illegális migráns szállt partra.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határátlépési eseményről számol be, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:08.519599+00:00"
+    },
+    "group:631": {
+      "hu_text": "@renderpr0ject @visegrad24 Megerősítve. Több holland forrás (NOS, Omroep Zeeland, NL Times) jelentette, hogy egy gumicsónakot 38 személlyel körülbelül reggel 6-kor elfogtak Breskens közelében, Zeeland tartományban. A csónakot a Cadzand kikötőbe vontatták. 36 migránst és 2 feltételezett csempészt tartóztattak le. Ez az első ismert ilyen érkezés a holland partoknál (korábbi eset csaknem volt).",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több holland médiaforrásra hivatkozik, részben megerősített információ, de további bizonyítékok szükségesek a teljes hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:08.519620+00:00"
+    },
+    "group:632": {
+      "hu_text": "Új mentőakció Krétán: 36 migránst találtak Ierapetra közelében, Görögországban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Mentőműveletről szóló információ, de nincs részletes forrás vagy további bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:08.519625+00:00"
+    },
+    "group:633": {
+      "hu_text": "@Sweettalkin53 FRISS HÍR: Tegnap 671 illegális migráns érkezett az Egyesült Királyságba 9 gumicsónakon. Tegnapelőtt 263 illegális migráns érkezett 3 csónakon, így a két nap alatt közel 1000 migráns érkezett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határátlépési adatokat közöl, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:08.519628+00:00"
+    },
+    "information:23490": {
+      "hu_text": "@JohnGil69921313 @christopherhope @GBNEWS Igen. A Belügyminisztérium adatai megerősítik, hogy 2026. október 30-án 671 migráns érkezett 9 csónakon. A GB News jelentése, amely nyolc csónakról és több mint 500 úton lévő személyről szólt aznap, pontos volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hivatalos kormányzati adatokra és megbízható médiajelentésre hivatkozik, így ellenőrzött információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:08.519631+00:00"
+    },
+    "information:23492": {
+      "hu_text": "Musknak igaza van. Az üzemanyagárak csökkennek, amint véget ér a bombázási kampány. 3,4-es GDP, 3,3-as infláció, imádom! Hogyan jutottunk ide? Demokrata csalások és 25 millió migráns átlépése a határon. NE BÁNJ A 3,4-ES GDP-VEL. SZAVAZZ PIROSRA ÉS VÁLASZD VIVEKET OHIOBAN.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és állítások migrációval kapcsolatban, de nincs tényalapú bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T14:01:08.519634+00:00"
     }
   },
   "legacy_reviews": {}
