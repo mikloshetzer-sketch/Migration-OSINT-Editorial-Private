@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-31",
+  "reviews": {
+    "group:625": {
+      "hu_text": "Az ICE Air gonoszságának nincs határa, de azt hittem, legalább stratégiai előrelátással várnak az ED után. A Trump-kormányzat tervezi, hogy az afgán bevándorlókat Los Angelesből Pakisztánba repíti, ahonnan várhatóan Afganisztánba toloncolják ki őket. Több mint 150 afgán bevándorló várhatóan deportálásra kerül. A Trump-kormányzat így talál módot arra, hogy őket elűzze, szembesülve elnyomással vagy megtorlással. Szomorú és rasszista intézkedések.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét deportálási tervről szól, de nincs megerősített bizonyíték a valóságtartalmára, ezért ellenőrizetlen. Fontos a migrációs politika és jogi intézkedések szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:25.487672+00:00"
+    },
+    "group:626": {
+      "hu_text": "A kvantitatív kutatások vegyes eredményeket mutatnak a határvédelmi intézkedések hatékonyságáról. Egyes elemzések szerint a kerítésépítés és következményprogramok csökkentik az illegális határátlépési kísérleteket vagy sikeres átlépéseket, míg mások szerint ezeknek korlátozott hatása van a bevándorlási áramlásokra, vagy akár visszaütnek a visszatérő migráció csökkenése miatt, ami növeli a beáramlást.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános tudományos megállapításokat tartalmaz, nincs konkrét forrás vagy bizonyíték, ezért ellenőrizetlen. Fontos a határbiztonsági intézkedések értékelése szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:25.487688+00:00"
+    },
+    "group:627": {
+      "hu_text": "2011 elején, miközben Szíria déli városában, Darában már lövöldöztek a tüntetőkre, és országos tüntetések zajlottak, Bassár el-Aszad szíriai elnök a külföldi összeesküvés narratíváját használva bejelentett engedményeket a kelet-északkeleti mezőgazdasági régió számára. Többek között visszaadta az állampolgárságot a 1962-ben állampolgárságuktól megfosztott haszakahi kurdoknak, csökkentette a dízel árát 25%-kal, és ígéretet tett a diszkriminatív 2008-as 49-es rendelet módosítására, amely korlátozta a határ menti ingatlanügyeket. Ez a rendelet gyakorlatilag megfosztotta a kurd lakosságot a megfelelő lakhatástól, ami alapvetően érintette a megélhetést és kultúrát. Az első nagyobb szíriai felkelési hullám a kelet-északkeleti régióból indult, például 2011 januárjában egy helyi férfi öngyújtással tiltakozott, inspirálva a tunéziai eseményeket.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi háttérinformációkat tartalmaz, de nincs közvetlen forrás vagy bizonyíték a szövegben, ezért ellenőrizetlen. Fontos a migrációs és politikai események megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:25.487692+00:00"
+    },
+    "information:23369": {
+      "hu_text": "Havonta több mint 200 kísérő nélküli migráns gyermek érkezik hajóval Doverbe, és ez több millió fontba kerül Nagy-Britanniának.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás statisztikai adatokról, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlen. Fontos a migráns gyermekek helyzetének megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:25.487696+00:00"
+    },
+    "information:23373": {
+      "hu_text": "Támogatom Nigel Farage-t az illegális hajóátlépések megakadályozásában. Minden országnak joga van megvédeni vagy lezárni a határait. Nagy-Britannia nem jótékonysági szervezet, amely az egész világot kiszolgálja. Az 1951-es menekültügyi törvényt és az azt követő jogszabályokat visszaélésszerűen használják ki.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, amely nem tartalmaz konkrét tényállítást, ezért ellenőrizetlen. Fontos a társadalmi diskurzus megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:25.487699+00:00"
+    },
+    "information:23384": {
+      "hu_text": "Az illető cselekedetei aláássák az általa létrehozott kevés értéket. Összességében negatív hatású. Nem hiszem, hogy az űrhajók segítenének egy megalomán személynek, aki migránshajókat robbant fel kábítószer-gyanú miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, nem tényállítás, nincs bizonyíték, ezért ellenőrizetlen. Fontos a társadalmi vélemények megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T01:14:25.487702+00:00"
+    }
+  }
+}
