@@ -1156,6 +1156,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T23:00:41.699543+00:00"
+    },
+    "telegram:1688600455:1174": {
+      "hu_text": "❗️A RefugeeHelp elindította Facebook-oldalát\n\nA RefugeeHelp egy független online szolgáltatás ukrán menekültek számára Hollandiában. Az oldalon található információkat a VluchtelingenWerk Nederland jogvédő szervezet biztosítja.\n\nMostantól a RefugeeHelp-nek Facebook-oldala is van. Ajánljuk, hogy iratkozzon fel, hogy ott is hasznos és ellenőrzött információkat kapjon:\n\n🔗 facebook.com/RefugeeHelp.nl\n\n📲 Iratkozzon fel, és ossza meg hollandiai ukrán ismerőseivel.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy civil segélyszervezet online jelenlétéről tájékoztat, nem tartalmaz vitatható vagy ellenőrizendő állítást. Az információ hasznos lehet a menekültek számára, de nincs benne konkrét tényállítás, ami ellenőrizhető lenne.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:45.245910+00:00"
     }
   },
   "legacy_reviews": {}
