@@ -826,6 +826,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T18:10:18.632513+00:00"
+    },
+    "record:2116584453304971508": {
+      "hu_text": "Hollandia történetében először egy illegális migránsokat szállító hajó ért partot az ország partjainál (a Cadzand környékén). A hajó 38 afrikai migránst hozott holland területre.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, de nincs megerősített forrás vagy hivatalos jelentés a hajó érkezéséről és a migránsok számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:27.128860+00:00"
+    },
+    "record:2116586523852239024": {
+      "hu_text": "Erőszakos migránsok ugranak zsúfolt kis hajókba, miközben tegnap 671-en érkeztek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás erőszakos migránsokról és érkezési számról, de nincs megerősített bizonyíték vagy hivatalos adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:27.128877+00:00"
+    },
+    "record:2116586627435012457": {
+      "hu_text": "Ez a kormány őrült, hogy ezeket a migránsokat hozza és fogadja az Egyesült Királyságban, szükség van milliók kényszerű visszaküldésére. Erőszakos migránsok támadják egymást kétségbeesetten, hogy zsúfolódjanak a kis hajókba, amelyek az Egyesült Királyság felé tartanak, miután tegnap 671-en érkeztek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások migránsokról, de nincs bizonyíték az erőszakos cselekményekre vagy a visszaküldés szükségességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:27.128881+00:00"
+    },
+    "record:2116587036157059517": {
+      "hu_text": "Erőszakos migránsok ugranak zsúfolt kis hajókba, miközben tegnap 671-en érkeztek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő állítás erőszakos migránsokról és érkezési számról, nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:27.128883+00:00"
+    },
+    "record:2116587875298861350": {
+      "hu_text": "FRISS HÍR: Lengyelország bejelentette, hogy a lengyel hadsereget küldi az ország német és litván határaihoz, hogy megállítsa az illegális migránsok Lengyelországba való átlépését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági intézkedésről szóló állítás, de nincs hivatalos megerősítés vagy részletes információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:27.128886+00:00"
+    },
+    "record:2116587906718449909": {
+      "hu_text": "Erőszakos migránsok ugranak zsúfolt kis hajókba, miközben tegnap 671-en érkeztek. Az irányunkba tartanak... Várj! Már itt vannak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás migránsok mozgásáról és jelenlétéről, de nincs megerősített bizonyíték vagy hivatalos adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T18:10:27.128888+00:00"
     }
   },
   "legacy_reviews": {}
