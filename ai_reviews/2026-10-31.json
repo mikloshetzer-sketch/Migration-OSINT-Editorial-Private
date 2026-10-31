@@ -958,6 +958,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T18:10:36.568567+00:00"
+    },
+    "information:23609": {
+      "hu_text": "Tusk kormánya szigorú határőrizetet tart fenn, szinte nulla illegális átlépést jelent Fehéroroszországból, jelentős vízumcsökkentést, magas kiutasításokat, és mentességet az EU migránselosztási rendszeréből. Tarczynski (PiS EP-képviselő) keményebb euroszkeptikus álláspontot képvisel a szuverenitás és kulturális kérdésekben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai és biztonsági helyzetre vonatkozik, de nincs hivatalos adat vagy megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:03.345760+00:00"
+    },
+    "information:23616": {
+      "hu_text": "99%-ban fehér menekültek, 0 határátlépés engedélyezve, minden legális bevándorlási útvonal megszüntetve, egymillió kiutasítás. Az állítás Trump politikáját kritizálja, és a demokratákra való szavazást ostorozza.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és kritika, amely nem tartalmaz konkrét bizonyított adatokat, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:03.345780+00:00"
+    },
+    "information:23620": {
+      "hu_text": "Csak egy migráns jótékonysági szervezet támogatásáért? Nem pedig kábítószer- és embercsempészetért, kartellek pénzmosásáért, vagy a tengeri biztosítási csalások miatt, amelyek befolyásolják a hajóval szállított áruk árát?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás több súlyos bűncselekményre utal, de nincs bizonyíték vagy hivatalos forrás, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:03.345785+00:00"
+    },
+    "information:23621": {
+      "hu_text": "48 óra alatt 934 migráns érkezett Nagy-Britanniába kis hajókon, miután 21 napig nem volt ilyen érkezés a rossz időjárás miatt. A kérdés, hogy a brit határok biztonságosabbak lettek-e, vagy csak a rossz idő miatt szünetelt a beáramlás.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hivatalos kormányzati adatokra hivatkozik, de a teljes kép és a hosszabb távú trendek hiányoznak, ezért ellenőrizetlennek minősül, de magas prioritású a határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:03.345789+00:00"
+    },
+    "group:635": {
+      "hu_text": "Egy nagymamát Alabamából egy ismeretlen közép-afrikai országba deportáltak. Forrás: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A forrás megjelölve, de az állítás nem ellenőrzött, mivel a link nem közvetlenül bizonyítja a deportálás tényét, és a részletek hiányoznak. A téma migrációs esemény, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:08.978499+00:00"
+    },
+    "group:636": {
+      "hu_text": "Egy nagymamát Alabamából egy ismeretlen közép-afrikai országba deportáltak. Forrás: https://www.alabamas42.com/news/international/ap-iranian-woman-among-migrants-deported-from-the-us-to-the-central-african-republic/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás megegyezik az előzővel, ugyanaz a forrás, ezért ugyanaz az értékelés érvényes. Az információ nem ellenőrzött, további bizonyíték szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T23:00:08.978515+00:00"
     }
   },
   "legacy_reviews": {}
