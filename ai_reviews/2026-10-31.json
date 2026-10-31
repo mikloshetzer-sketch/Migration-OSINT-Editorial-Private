@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T07:44:32.889156+00:00"
+    },
+    "information:23431": {
+      "hu_text": "A Tusk-kormány szigorította az ellenőrzéseket: a vízumok száma 87%-kal, a munkavállalási engedélyek 69%-kal, a diákvízumok 65%-kal csökkentek 2022-höz képest; a kitoloncolások 200%-kal nőttek. A fehérorosz határ továbbra is zárt, a menedékkérelmek felfüggesztettek, és szinte nulla az illegális átlépések száma. Lengyelország mentes az EU migránsok áthelyezési programja alól.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét statisztikai adatokat tartalmaznak, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:40.357198+00:00"
+    },
+    "information:23436": {
+      "hu_text": "Egy migránsokat szállító hajó 113 emberrel a fedélzetén elérte a Kanári-szigeteket nyolc veszélyes tengeri nap után; két férfi meghalt, egy csecsemő pedig kritikus állapotban van, akit helikopterrel kórházba szállítottak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről van szó, de a forrás nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:40.357218+00:00"
+    },
+    "information:23437": {
+      "hu_text": "Csatorna-krízis: Késsel felfegyverzett migráns tart Nagy-Britanniába, miközben több százan ellenőrizetlenül kelnek át. Egy férfi egy hajóra szállva azt kiabálta, hogy „megöllek”, és ő ide tart. Több százan követik őt. Meddig tart még, amíg valaki komolyan veszi a helyzetet?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás fenyegető hangvételű és konkrét eseményeket említ, de nincs megerősített bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:40.357223+00:00"
+    },
+    "information:23438": {
+      "hu_text": "Havonta több mint 200 migráns gyermek érkezik hajóval Doverbe.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét számadatot közöl, de a forrás nem ellenőrzött, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:40.357227+00:00"
+    },
+    "information:23442": {
+      "hu_text": "Elveszítette-e Hassan Sheikh Mohamud a Vörös-tenger feletti ellenőrzést? Vörös-tengeri biztonsági megállapodás: Puntland és Somaliland parti őrsége csatlakozik a regionális haditengerészeti vezetőkhöz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai és biztonsági témájú információ, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:40.357231+00:00"
+    },
+    "information:23455": {
+      "hu_text": "Ó, igen, a klasszikus neoliberális elitista nézőpont; azt hiszem, azt fogod mondani, hogy ezek a migránsok soha nem lehettek emberkereskedelem áldozatai, drogkereskedők vagy terroristák az Egyesült Államok nyitott, nem biztonságos határán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz konkrét tényállítást, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-10-31T07:44:40.357235+00:00"
     }
   },
   "legacy_reviews": {}
