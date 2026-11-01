@@ -595,6 +595,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T17:23:57.087992+00:00"
+    },
+    "group:645": {
+      "hu_text": "„@stanfill_j29475 Van ideje és helye a migránsoknak. A baloldaliak rabszolgákat importálnak, nem migránsokat. Sok ukrán menekült érkezett Kanadába, aztán rájöttek, hogy „a fenébe, ők lesznek az USSC”, és tömegesen elmentek. Az indiaiak maradnak, heti 80 órát dolgoznak (két 40 órás gyorséttermi állásban), és pénzt küldenek haza.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és általánosításokat tartalmaz migránsokról, nem bizonyított tényeket. Nem áll rendelkezésre hiteles forrás az állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:29:57.194073+00:00"
+    },
+    "information:23862": {
+      "hu_text": "https://t.co/TDyXAr545t Közel 1000 migráns lépte át a Csatornát két nap alatt egy háromhetes szünet után.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Számadatokat közöl migránsok átkeléséről, de nincs megerősített forrás vagy hivatalos adat. Fontos információ a migrációs események nyomon követéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:29:57.194094+00:00"
+    },
+    "information:23897": {
+      "hu_text": "Közel 1200 kis hajós migráns érkezett három nap alatt a Csatornán való átkelések háromhetes szünetét követően | Daily Mail Online https://t.co/dwrErkPKyV",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Migrációs eseményről szóló adat, de a forrás nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:29:57.194099+00:00"
+    },
+    "information:23898": {
+      "hu_text": "@SimonHarrisMBD „Dobálják őket gumicsónakba a tengerbe, és hadd mutassák meg, milyen könnyű a migránsok élete.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely migránsokkal kapcsolatos, de nem tényállítás. Nem igényel tényellenőrzést, de a kontextus miatt közösségi diskurzus kategóriába sorolható.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:29:57.194102+00:00"
+    },
+    "information:23902": {
+      "hu_text": "@DailyMail 1944. június 6-án több ezer közepes és nagy hajós migráns érkezett Normandiába. Hitler bejelentette, hogy a Birodalom erőfeszítéseket tesz számukra lakhatás és jóléti ellátás biztosítására.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi állítás, amely nem illeszkedik a migráció jelenkori eseményeihez, és nincs megerősített forrása. Valószínűleg téves vagy szatirikus megjegyzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:29:57.194105+00:00"
+    },
+    "information:23928": {
+      "hu_text": "\"Ez egy gazdag ember hobbija?\" – kérdezte Ogoniff, hangja YouTube feldolgozási hibához hasonlított. Egy neonfényben úszó, mesterséges intelligencia által hajtott világban a valóság egy kubista mesterművé vált. Ez egy kaotikus kedd története, ahol gazdagok hobbiznak, rendőrök üldöznek, és abszurd jelenetek zajlanak egy városi stadionban, például nagymama birkózik egy forró kásás tálkával, és egy T-Rex áll a sarokban.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy szürreális, fikciós vagy humoros szöveg, amely nem kapcsolódik a migrációhoz vagy annak elemzéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:29:57.194108+00:00"
     }
   },
   "legacy_reviews": {}
