@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T10:54:57.057348+00:00"
+    },
+    "information:23743": {
+      "hu_text": "Ez a bejegyzés egy szingapúri társasházi lakhatási vállalkozásról, a The Assembly Place-ről szól, amely gyors növekedést és terjeszkedést mutat, beleértve a migráns munkások szálláshelyeit is. A cég IPO-ja óta árfolyamesést tapasztalt, de jelentős bővülési tervei vannak 2030-ig.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem kapcsolódik közvetlenül migrációs eseményhez vagy biztonsági, jogi, humanitárius témákhoz, hanem egy üzleti témájú befektetési elemzés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:05.510568+00:00"
+    },
+    "information:23763": {
+      "hu_text": "A Covid-járvány miatt csökkent a csatornán átkelő közlekedés, ezért az embercsempészek kisebb csónakokat kezdtek használni a migránsok átszállítására, és rájöttek, hogy ez könnyebb módja az átkelésnek, így ez a módszer folytatódott.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy közösségi médiás vélemény vagy magyarázat az embercsempészet módjainak változásáról, de nincs megerősített bizonyíték a pontos állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:05.510586+00:00"
+    },
+    "record:2116814547218800757": {
+      "hu_text": "A Clear Voice nevű társadalmi vállalkozás 100%-ban a Migrant Help nevű jótékonysági szervezetnek adja profitját, amely menekültek, menedékkérők, modernkori rabszolgaság túlélői és emberkereskedelem áldozatainak támogatását végzi, évente 5,4 millió fonttal.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy humanitárius szervezet tevékenységét mutatja be, de nincs külső bizonyíték a pontos pénzügyi adatokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:05.510591+00:00"
+    },
+    "record:2116815004347383824": {
+      "hu_text": "19 ember letartóztatása történt egy több mint 50 millió eurós értékű embercsempész hálózat felszámolásában, amely több mint 1000 embert szállított Vietnamból az Egyesült Királyságba, sokan adósságban maradtak az embercsempészeknek. Az Europol támogatásával európai hatóságok működnek együtt.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás komoly bűnügyi eseményről szól, de a forrás nem közvetlen hivatalos jelentés, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:05.510595+00:00"
+    },
+    "record:2116836406655869208": {
+      "hu_text": "Erőszakos migránsok zsúfolt kis csónakokba ugranak, miközben tegnap 671 ember érkezett. A bejegyzés kérdőre vonja, hogy miért engedik be ezeket az embereket az Egyesült Királyságba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy érzelmi töltetű közösségi média poszt, amely migránsok érkezéséről szól, de nem tartalmaz konkrét tényeket vagy bizonyítékokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:05.510601+00:00"
+    },
+    "record:2116828781562536442": {
+      "hu_text": "Első ismert migráns gumicsónak a holland partoknál: 38 embert mentettek ki egy motor nélküli, mentőmellény nélküli, Breskens közelében sodródó Zodiac gumicsónakból. Két szudáni férfit őrizetbe vettek embercsempészet gyanújával. Az útvonalak terjednek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs eseményről szól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül. Fontos lehet a migrációs útvonalak változásának nyomon követése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:10.786092+00:00"
     }
   },
   "legacy_reviews": {}
