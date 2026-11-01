@@ -320,6 +320,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T10:55:26.860117+00:00"
+    },
+    "record:reddit_1xkzqrs": {
+      "hu_text": "Miért tart a belga családegyesítés akár 9 hónapig, miközben a menekültügyi eljárások mások? Ez egyenlőségi jogsértés? A posztoló a belga bevándorlási idővonalak logikáját és igazságosságát próbálja megérteni, és jogi ismeretekkel vagy hasonló tapasztalatokkal rendelkezőktől vár választ. A belga Bevándorlási Hivatal honlapja szerint a családegyesítés sokkal hosszabb ideig tart, mint a menekültügyi eljárások, ami kérdéseket vet fel az egyenlőség és a diszkrimináció tilalma szempontjából. Kíváncsi arra, hogy ez a különbség jogilag hogyan igazolható, és hogy nem sérti-e a családi élethez való jogot és az egyenlőséget.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy jogi kérdést vet fel a belga családegyesítési és menekültügyi eljárások közötti eltérés kapcsán, de nem tartalmaz konkrét bizonyítható tényállítást, ezért ellenőrizetlennek minősül. A téma releváns a migrációs politika szempontjából, közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:35.786510+00:00"
+    },
+    "telegram:1173707041:9617": {
+      "hu_text": "A Migrációs Minisztérium fokozza a közvetlen kommunikációt az állampolgárokkal és kezeli az ügyintézési akadályokat. A minisztérium célja a teljesítmény fejlesztése, a hatékonyabb válaszadás és a közvetlen kapcsolattartás erősítése az állampolgárokkal. A minisztérium vezetője utasította az illetékes szerveket az ügyintézések gyorsítására, az akadályok elhárítására és az eljárások egyszerűsítésére a jogi keretek között. Ezek a találkozók a minisztérium azon törekvéseit szolgálják, hogy javítsák az intézményi teljesítményt és a szolgáltatások színvonalát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos minisztériumi kommunikáció, amely a migrációs ügyintézés fejlesztéséről szól, de nincs külső bizonyíték a megvalósításról, ezért ellenőrizetlen. Fontos a migrációs adminisztráció szempontjából, közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:35.786530+00:00"
+    },
+    "telegram:1173707041:9620": {
+      "hu_text": "A Migrációs Minisztérium helyettes vezetője magas szintű EU-s küldöttséget fogadott Bagdadban, hogy megvitassák az EU támogatását Irak migrációs ügyek kezelésében. A találkozón szó volt a migrációs irányítás és kormányzás támogatásáról, a kihívásokról és a jövőbeni projektek terveiről. Az EU-s delegáció megtekintette a minisztérium migrációs programjait, köztük a Nemzeti Átirányítási Programot, a Migrációs Erőforrás Központot és a Német Migrációs és Újraintegrációs Központot, valamint hallgattak visszatérő állampolgárok sikertörténeteiről.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos tájékoztatás egy EU–Irak migrációs együttműködésről, de nincs külső megerősítés, ezért ellenőrizetlen. Jelentős a migrációs politika és nemzetközi együttműködés szempontjából, közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:35.786536+00:00"
+    },
+    "telegram:1261826972:54113": {
+      "hu_text": "Egy bevándorlót meglőttek a Príncipe Alfonso piacán, és mások is érintettek voltak verekedésekben. A Nemzeti Rendőrség vizsgálja az esetet, miközben a helyi rendőrség több bevándorlók közötti verekedésnél is beavatkozott a Gran Vía környékén, a régi Vöröskereszt kórháznál és a kikötőben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi rendőrségi eseményről számol be, amely bevándorlókat érint, de nincs független megerősítés vagy részletes bizonyíték, ezért ellenőrizetlen. Fontos a társadalmi diskurzus és közbiztonság szempontjából, közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:35.786540+00:00"
     }
   },
   "legacy_reviews": {}
