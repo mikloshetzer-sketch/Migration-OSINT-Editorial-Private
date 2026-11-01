@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-01",
+  "reviews": {
+    "group:637": {
+      "hu_text": "@ScottPresler A legrosszabb az volt, amikor Mayorkas az arcunkba mondta, hogy a határ biztonságos, miközben naponta ezrek léptek át ellenőrizetlenül a határon teljesen nyíltan.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás a határbiztonság állapotára vonatkozik, de nincs megerősített bizonyíték arra, hogy valóban ez történt, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:51.615987+00:00"
+    },
+    "group:638": {
+      "hu_text": "@AdamJPhilpott Az ő anyja egy német náci lánya volt, aki Németországból érkezett migránsként. Ezért nem találni róla információt, mert ha kiderülne, véget érne Rupert náci karrierje.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai állítás, amely személyes hátteret érint, de nincs bizonyíték a valóságtartalmára, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:51.616010+00:00"
+    },
+    "information:23664": {
+      "hu_text": "📰 PalakkadNews - 2026. november 1-jei vasárnapi hírek: Több szakorvos érkezik Attappadiba, új újszülött ellátó részleg tervezve. Az elmúlt időszakban nőtt az újszülött halálozások száma, ezért több gyermekgyógyász, nőgyógyász és altatóorvos kerül kihelyezésre. Új újszülött ellátó és sürgősségi műtő épül. Új gyermekmentő és mobil orvosi egység is érkezik. Nenmara-Olipara úton a közmunkák késedelme miatt szerződést bontottak a vállalkozóval, aki nem fejezte be a munkát. Ottapalam-Cherpulassery út október 31-i határideje is elmaradt, a vízvezeték szerelési késések miatt. Egy volt SC fejlesztési tisztviselőt 38 év börtönre és pénzbírságra ítéltek csalás miatt. Egy 65 éves férfit megkéselt a tinédzser unokája, miközben megpróbálta megakadályozni, hogy a fiú megsebesítse a 10 éves kishúgát.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy helyi híradás, amely nem kapcsolódik migrációs témához, ezért irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:51.616015+00:00"
+    },
+    "information:23674": {
+      "hu_text": "Két migráns kisebb összetűzésbe keveredett az észak-francia partoknál, miközben az egyikük megpróbált felszállni egy zsúfolt csónakra, amely az Egyesült Királyság felé tartott pénteken. Csónakos érkezések Nagy-Britanniába csütörtökön folytatódtak, a Belügyminisztérium 263 érkezőt regisztrált három csónakon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ migrációs eseményről szól, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:51.616018+00:00"
+    },
+    "information:23692": {
+      "hu_text": "@Bubblebathgirl Tudom, tudom, az élet nem igazságos. De állj meg egy pillanatra, olvass és gondolkodj el. Cserélnél helyet valamelyikükkel? A Biden-Harris kormányzat engedte, hogy milliók illegálisan átlépjék a határt. Becslések szerint 320 ezer migráns gyerek eltűnt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs politikára és eltűnt gyermekek számára vonatkozik, de nincs megerősített adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:51.616019+00:00"
+    },
+    "information:23694": {
+      "hu_text": "@GQParody @grok @mmpadellan Propaganda, semmilyen fizikai bizonyíték nincs, és figyelmen kívül hagyja azokat a politikákat, amelyeket önök támogattak, és amelyek elősegítik az embercsempészetet. A demokraták ellene szavaztak a H.R. 2 Secure the Border, a Laken Riley Act, a SAVE Act, az illegális migránsok deportálásának, akik szexuális bűncselekményeket követtek el (erőszaktevők és pedofilok), valamint a férfiak kizárásának.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások keveréke, nincs bizonyíték a valóságtartalomra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:51.616021+00:00"
+    }
+  }
+}
