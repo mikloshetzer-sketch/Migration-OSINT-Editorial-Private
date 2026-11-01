@@ -67,6 +67,62 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T02:55:51.616021+00:00"
+    },
+    "information:23695": {
+      "hu_text": "@GQParody @grok @mmpadellan Elítélt erőszaktevő és jogi hadviselés, miközben olyan politikákat támogat, amelyek lehetővé tették az emberkereskedelmet, és megtagadja a nemi bűncselekmények, köztük erőszak és pedofília miatt elítélt illegális migránsok kitoloncolását – ez a te csalásod. Mindenki látja.\n\nA saját állításod figyelmen kívül hagyja az egyenlő esélyekről az egyenlőségre való áttérést.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások keverednek, de nincs bizonyíték az állítások igazolására vagy cáfolatára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:59.112450+00:00"
+    },
+    "record:2116705848386875765": {
+      "hu_text": "@AdamJPhilpott Az ő anyja egy német náci lánya volt. Ő Németországból érkezett migránsként.\n\nEzért nem találni róla információt, miért? Mert lelepleződik, és így Rupert náci karrierje véget ér.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi és családi állításokat tartalmaz, de nincs megerősített forrás vagy bizonyíték az állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:59.112471+00:00"
+    },
+    "record:2116706405604565199": {
+      "hu_text": "@honeybee_O_ @xovia__ Ma mersz emberkereskedelem áldozatát „migránsnak” nevezni? Etnikai tisztogatás áldozatait is migránsnak hívod? Mint az őslakos amerikaiakat, az aboriginokat és a palesztinokat? Vagy ez csak ránk vonatkozik?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Közösségi médiás vélemény és kérdésfelvetés, nem tényállítás, így nincs ellenőrizhető tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:59.112474+00:00"
+    },
+    "record:2116720468833313071": {
+      "hu_text": "@ScottPresler A legrosszabb az volt, amikor Mayorkas az arcunkba mondta, hogy a határ biztonságos, miközben naponta ezrek léptek át ellenőrizetlenül a határon nyíltan.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Határbiztonsági állítás, amely fontos a migrációs helyzet megértéséhez, de nincs megerősített bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:59.112476+00:00"
+    },
+    "record:2116724824290799861": {
+      "hu_text": "FRISS HÍR:\n\nLengyelország bejelentette, hogy a lengyel hadsereget küldi a Németországgal és Litvániával közös határaira, hogy megállítsa az illegális migránsok Lengyelországba való belépését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági eseményről szóló információ, amely migrációs helyzetet érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T02:55:59.112478+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
