@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T17:23:22.453077+00:00"
+    },
+    "information:23814": {
+      "hu_text": "Vidarbha a marathi nyelvű terület, amelynek nincs kulturális hasonlósága Madhya Pradesh állammal vagy a hindi nyelvterülettel. A vita során sok félrevezető információ terjed, főként a hindi nyelvű területekről származó személyek részéről, akik hamisan állítják, hogy Vidarbha erős kapcsolatban áll Madhya Pradeshel vagy erős hindi hatás alatt áll. Valójában Vidarbha lakói büszkén marathi nyelvűek, és a terület történelmileg is marathi kultúrájú volt, az adminisztráció is marathira épült. A különálló Vidarbha állam létrehozásának mozgalma is a marathi identitás megőrzésére irányult, elutasítva a hindi nyelvű területekkel való egyesülést.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés történelmi és kulturális állításokat tartalmaz, amelyek nem migrációs eseményekhez kapcsolódnak, és nem ellenőrzött forrásból származnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:31.778671+00:00"
+    },
+    "information:23822": {
+      "hu_text": "Ez kínos a felelőtlen kormány számára, amely dicsekedett az illegális bevándorlók beáramlásának csökkentésével az Egyesült Királyságba. Három hét szünet után közel 1200 kis hajós migráns érkezett három nap alatt a Csatornán keresztül.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, amely fontos a határbiztonság és migrációs nyomon követés szempontjából, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:31.778714+00:00"
+    },
+    "information:23826": {
+      "hu_text": "A Kanári-szigetek újabb migráns érkezésekkel néznek szembe. Spanyol mentőcsapatok 363 migránst hoztak partra három hajóról a Kanári-szigetek közelében, ami a tengeri mentési műveletek folyamatos nyomását jelzi.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, amely a tengeri mentési műveletek kapacitását érinti, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:31.778718+00:00"
+    },
+    "information:23827": {
+      "hu_text": "Az Őszi Panasz (The Lament of Autumn) című sorozat 35-40. epizódjainak vitafóruma. A bejegyzés részletes összefoglalót ad a történet eseményeiről, beleértve a karakterek közötti konfliktusokat és eseményeket.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy szórakoztató tartalomról szól, amely nem kapcsolódik migrációhoz vagy határbiztonsághoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:31.778723+00:00"
+    },
+    "information:23828": {
+      "hu_text": "Az Őszi Panasz (The Lament of Autumn) című sorozat 35-40. epizódjainak vitafóruma és megjelenési ütemezése. A bejegyzés tájékoztatást ad a sorozat epizódjainak megjelenési időpontjairól és a vitafórum szabályairól.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés szórakoztató tartalommal foglalkozik, nem migrációval vagy határbiztonsággal.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:31.778726+00:00"
+    },
+    "information:23829": {
+      "hu_text": "Jogendra Nath Mandal, egy dalit vezető, aki Pakisztánt választotta. Mandal a Namasudra közösségből származott, jogi végzettséggel rendelkezett, de inkább az elnyomottak felemelésének szentelte életét. Szoros kapcsolatban állt Dr. B.R. Ambedkarral, és támogatta a muszlim Liga politikáját, mert úgy vélte, az jobban képviseli a dalitok érdekeit, mint a hindu többség. Pakisztánban azonban hamar marginalizálták, és a muszlim többségű kormányzat üldözte a kisebbségeket. Végül 1950-ben elhagyta Pakisztánt, amelyben korábban reménykedett.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi személyről és politikai eseményekről szól, amelyek nem közvetlenül migrációs események, és nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:31.778731+00:00"
     }
   },
   "legacy_reviews": {}
