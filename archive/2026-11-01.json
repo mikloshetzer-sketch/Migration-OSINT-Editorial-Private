@@ -1,0 +1,621 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "live_events": [
+    {
+      "id": 800,
+      "event_id": 800,
+      "source": "X",
+      "source_post_id": "2116720468833313071",
+      "author": "ScottM981",
+      "published_at": "2026-11-01T02:34:21Z",
+      "collected_at": "2026-11-01T02:54:15Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@ScottPresler The worst part was Mayorkas telling us to our faces that the border was secure while we watched thousands of unvetted migrants crossing the border every day in plain sight.",
+      "url": "https://x.com/ScottM981/status/2116720468833313071",
+      "source_url": "https://x.com/ScottM981/status/2116720468833313071"
+    },
+    {
+      "id": 801,
+      "event_id": 801,
+      "source": "X",
+      "source_post_id": "2116705848386875765",
+      "author": "liveupdates2day",
+      "published_at": "2026-11-01T01:36:15Z",
+      "collected_at": "2026-11-01T02:55:23Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@AdamJPhilpott His mother was the daughter of a German Nazi.  She arrived as a migrant from Germany.\n\nWhich is why, you cannot find any info on her, why?  Because she will be exposed and hence the Nazi Rupert career will be ending.",
+      "url": "https://x.com/liveupdates2day/status/2116705848386875765",
+      "source_url": "https://x.com/liveupdates2day/status/2116705848386875765"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 637,
+      "group_id": 637,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@ScottPresler The worst part was Mayorkas telling us to our faces that the border was secure while we watched thousands of unvetted migrants crossing the border every day in plain sight.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-01T02:34:21Z",
+      "last_seen": "2026-11-01T02:34:21Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-01T02:54:15Z",
+      "updated_at": "2026-11-01T02:54:15Z"
+    },
+    {
+      "id": 638,
+      "group_id": 638,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@AdamJPhilpott His mother was the daughter of a German Nazi.  She arrived as a migrant from Germany.\n\nWhich is why, you cannot find any info on her, why?  Because she will be exposed and hence the Nazi Rupert career will be ending.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-01T01:36:15Z",
+      "last_seen": "2026-11-01T01:36:15Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-01T02:55:23Z",
+      "updated_at": "2026-11-01T02:55:23Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1291,
+      "source": "X",
+      "source_post_id": "2116724824290799861",
+      "author": "DarkLeaksQ",
+      "language": "en",
+      "published_at": "2026-11-01T02:51:39Z",
+      "first_detected_at": "2026-11-01T02:54:15Z",
+      "last_detected_at": "2026-11-01T02:54:15Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/1yZHGYo3ed",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/1yZHGYo3ed",
+      "url": "https://x.com/DarkLeaksQ/status/2116724824290799861",
+      "source_url": "https://x.com/DarkLeaksQ/status/2116724824290799861",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1292,
+      "source": "X",
+      "source_post_id": "2116706405604565199",
+      "author": "MahlayeenBlack",
+      "language": "en",
+      "published_at": "2026-11-01T01:38:28Z",
+      "first_detected_at": "2026-11-01T02:55:00Z",
+      "last_detected_at": "2026-11-01T02:55:00Z",
+      "detection_count": 1,
+      "text": "@honeybee_O_ @xovia__ I dare you to call a victim of human trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants too? Like Native Americans, Aboriginees and Palestinians? Or is it just reserved for us?",
+      "text_excerpt": "@honeybee_O_ @xovia__ I dare you to call a victim of human trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants too? Like Native Americans, Aboriginees and Palestinians? Or is it just reserved for us?",
+      "url": "https://x.com/MahlayeenBlack/status/2116706405604565199",
+      "source_url": "https://x.com/MahlayeenBlack/status/2116706405604565199",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1291,
+      "source": "X",
+      "source_post_id": "2116724824290799861",
+      "author": "DarkLeaksQ",
+      "language": "en",
+      "published_at": "2026-11-01T02:51:39Z",
+      "first_detected_at": "2026-11-01T02:54:15Z",
+      "last_detected_at": "2026-11-01T02:54:15Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/1yZHGYo3ed",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/1yZHGYo3ed",
+      "url": "https://x.com/DarkLeaksQ/status/2116724824290799861",
+      "source_url": "https://x.com/DarkLeaksQ/status/2116724824290799861",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1292,
+      "source": "X",
+      "source_post_id": "2116706405604565199",
+      "author": "MahlayeenBlack",
+      "language": "en",
+      "published_at": "2026-11-01T01:38:28Z",
+      "first_detected_at": "2026-11-01T02:55:00Z",
+      "last_detected_at": "2026-11-01T02:55:00Z",
+      "detection_count": 1,
+      "text": "@honeybee_O_ @xovia__ I dare you to call a victim of human trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants too? Like Native Americans, Aboriginees and Palestinians? Or is it just reserved for us?",
+      "text_excerpt": "@honeybee_O_ @xovia__ I dare you to call a victim of human trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants too? Like Native Americans, Aboriginees and Palestinians? Or is it just reserved for us?",
+      "url": "https://x.com/MahlayeenBlack/status/2116706405604565199",
+      "source_url": "https://x.com/MahlayeenBlack/status/2116706405604565199",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking today a \"migrant.\" Do you call victims of ethnic cleansing migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1291,
+      "source": "X",
+      "source_post_id": "2116724824290799861",
+      "author": "DarkLeaksQ",
+      "language": "en",
+      "published_at": "2026-11-01T02:51:39Z",
+      "first_detected_at": "2026-11-01T02:54:15Z",
+      "last_detected_at": "2026-11-01T02:54:15Z",
+      "detection_count": 1,
+      "text": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/1yZHGYo3ed",
+      "text_excerpt": "BREAKING:\n\nPoland announces it’s sending the Polish Army to the country’s borders with Germany and Lithuania in order to stop illegals migrants from crossing into Poland https://t.co/1yZHGYo3ed",
+      "url": "https://x.com/DarkLeaksQ/status/2116724824290799861",
+      "source_url": "https://x.com/DarkLeaksQ/status/2116724824290799861",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 3,
+      "related_post_ids": [
+        "2116724824290799861",
+        "2116588759101718647",
+        "2116587875298861350"
+      ],
+      "related_authors": [
+        "AmericanMagaNew",
+        "DarkLeaksQ",
+        "veiledleaks"
+      ],
+      "related_urls": [
+        "https://x.com/DarkLeaksQ/status/2116724824290799861",
+        "https://x.com/veiledleaks/status/2116588759101718647",
+        "https://x.com/AmericanMagaNew/status/2116587875298861350"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 3,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:23674",
+      "timestamp": "2026-11-01T02:40:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116721890983367095",
+      "author": "Anewz_tv",
+      "url": "https://x.com/Anewz_tv/status/2116721890983367095",
+      "source_url": "https://x.com/Anewz_tv/status/2116721890983367095",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "dinghy",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Two migrants engaged in a brief scuffle off the northern French coast as one of them struggled to board a crowded dinghy headed for the United Kingdom of Friday. \n\nSmall boat arrivals in Britain resumed on Thursday with the Home Office recording 263 arrivals aboard three boats, https://t.co/QlXRXidHbO",
+      "text_excerpt": "Two migrants engaged in a brief scuffle off the northern French coast as one of them struggled to board a crowded dinghy headed for the United Kingdom of Friday. \n\nSmall boat arrivals in Britain resumed on Thursday with the Home Office recording 263 arrivals aboard three boats, https://t.co/QlXRXidHbO",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-01T02:54:15Z",
+      "last_collected_at": "2026-11-01T02:54:15Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23692",
+      "timestamp": "2026-11-01T02:03:03Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116712591930097970",
+      "author": "Agus1Sunnely",
+      "url": "https://x.com/Agus1Sunnely/status/2116712591930097970",
+      "source_url": "https://x.com/Agus1Sunnely/status/2116712591930097970",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@Bubblebathgirl I know, I know, life ain't fair. But pause for a moment, read and ponder. Would you be willing to trade place with one of them?\n\nThe Biden-Harris admonistration allowed millions of illegal migrants to cross the border.  Untold numbers (est. 320K) of the migrant children were lost",
+      "text_excerpt": "@Bubblebathgirl I know, I know, life ain't fair. But pause for a moment, read and ponder. Would you be willing to trade place with one of them?\n\nThe Biden-Harris admonistration allowed millions of illegal migrants to cross the border.  Untold numbers (est. 320K) of the migrant children were lost",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-01T02:55:00Z",
+      "last_collected_at": "2026-11-01T02:55:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23694",
+      "timestamp": "2026-11-01T01:56:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116710912677786015",
+      "author": "l_bohlman",
+      "url": "https://x.com/l_bohlman/status/2116710912677786015",
+      "source_url": "https://x.com/l_bohlman/status/2116710912677786015",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@GQParody @grok @mmpadellan Propaganda, zero physical evidence, and ignoring policies you cheered enabling trafficking. \nDemocrats voted against H.R. 2 Secure theBorder,, the Laken Riley Act, the SAVE Act, deporting illegal migrants convicted of sex offenses (rapists and pedophiles), keeping men out of",
+      "text_excerpt": "@GQParody @grok @mmpadellan Propaganda, zero physical evidence, and ignoring policies you cheered enabling trafficking. \nDemocrats voted against H.R. 2 Secure theBorder,, the Laken Riley Act, the SAVE Act, deporting illegal migrants convicted of sex offenses (rapists and pedophiles), keeping men out of",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-01T02:55:00Z",
+      "last_collected_at": "2026-11-01T02:55:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23695",
+      "timestamp": "2026-11-01T01:47:06Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2116708578874790022",
+      "author": "l_bohlman",
+      "url": "https://x.com/l_bohlman/status/2116708578874790022",
+      "source_url": "https://x.com/l_bohlman/status/2116708578874790022",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@GQParody @grok @mmpadellan Adjucated rapist and lawfare while supporting policies that enabled trafficking and refuses to deport illegal migrants convicted of sex offenses including rape and pedophilia is your grift. Everyone can see it.\n\nYour own claim ignores the shift from equal opportunity to equity https://t.co/qtn8041c9c",
+      "text_excerpt": "@GQParody @grok @mmpadellan Adjucated rapist and lawfare while supporting policies that enabled trafficking and refuses to deport illegal migrants convicted of sex offenses including rape and pedophilia is your grift. Everyone can see it.\n\nYour own claim ignores the shift from equal opportunity to equity https://t.co/qtn8041c9c",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-01T02:55:00Z",
+      "last_collected_at": "2026-11-01T02:55:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23664",
+      "timestamp": "2026-11-01T01:38:30Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xkqzuc",
+      "author": "PalakkadNews",
+      "url": "https://www.reddit.com/r/u_PalakkadNews/comments/1xkqzuc/palakkadnews_todays_headlines_sunday_1_november/",
+      "source_url": "https://www.reddit.com/r/u_PalakkadNews/comments/1xkqzuc/palakkadnews_todays_headlines_sunday_1_november/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "rescue"
+      ],
+      "freshness_cues": [
+        "today",
+        "now"
+      ],
+      "text": "📰 PalakkadNews - Today's Headlines Sunday, 1 November 2026\nPalakkad More specialist doctors for Attappadi, new newborn care block planned After a rise in infant deaths, Health Minister K Muraleedharan said extra paediatricians, gynaecologists and anaesthetists will be posted at Kottathara Tribal Speciality Hospital. A new block with newborn care and an emergency operation theatre will be built. A paediatric ambulance and a mobile medical unit are also coming. Nenmara-Olipara road: PWD removes contractor for delay The Public Works Department has terminated the contractor who failed to finish the ₹16.50 crore road work despite several extensions. The order also says about ₹1.28 crore, 10% of the contract value, will be recovered from him as damages. Ottapalam-Cherpulassery road misses October 31 deadline too The promised October 31 completion date for the Ottapalam-Kizhoor stretch has passed with work still incomplete, two and a half years after it began. The Road Fund Board blames delays in Water Authority pipe laying. Commuters face dust on dry days and mud when it rains. Former SC development officer jailed, fined ₹10.25 lakh for fund fraud A Thrissur Vigilance Court has sentenced her for siphoning ₹8.96 lakh from housing, land and scholarship schemes by falsifying records in Palakkad block in 2002-03. Terms add up to 38 years' rigorous imprisonment, but will run concurrently. 65-year-old dies after being stabbed by teenage grandson near Alathur On October 19 he tried to stop his 16-year-old grandson from attacking the boy's 10-year-old sister with a knife and was stabbed. He died on Friday night at Thrissur Medical College Hospital. The girl has recovered. Police caught the boy and sent him to a juvenile home. Worker rescues 3-year-old from 20-ft-high shed roof At Alanallur, construction worker Shihabudheen (38) from Mannarkkad climbed up and brought down a migrant workers' daughter who had got onto the roof of a plastic sorting shed. It happened on Friday evening. The child is safe with her parents. Kerala Rain: yellow alert for Palakkad and 3 other districts on Monday A low-pressure system in the Bay of Bengal may bring isolated heavy rain across Kerala from November 1 to 4. On Monday (November 2), Idukki, Palakkad, Malappuram and Wayanad are under yellow alert. Thunderstorms and gusty winds are possible. Citizen Help Desks replace PRO system at police stations One desk will now take complaints and issue receipts, handle cyber fraud complaints, FIR copy requests and RTI applications. Women, senior citizens and persons with disabilities will get dedicated help. Sports State school sports meet: Palakkad second in athletics At the meet that ended in Kozhikode on Saturday, Palakkad finished second in athletics with 161.5 points, behind Malappuram. Thiruvananthapuram won the overall gold cup with over 2,000 points. ISL: Kerala Blasters hold Chennaiyin to goalless draw Saturday's match in Chennai ended 0-0. Chennaiyin missed a penalty when the shot hit the woodwork. Blasters keeper Amrinder Singh made key saves. One player from each side was sent off in stoppage time. More local news: palakkadnews.com Follow PalakkadNews on your favourite platform: WhatsApp Channel: https://whatsapp.com/channel/0029Vb5xbKFAjPXRtcjIik3P Instagram: https://www.instagram.com/palakkad\\_news\\_com/ Facebook: https://www.facebook.com/PalakkadNewspaper X (Twitter): https://x.com/PalakkadNews Reddit: https://www.reddit.com/user/PalakkadNews/ YouTube: https://www.youtube.com/@Palakkad-Palghat?sub\\_confirmation=1 submitted by /u/PalakkadNews to u/PalakkadNews",
+      "text_excerpt": "📰 PalakkadNews - Today's Headlines Sunday, 1 November 2026\nPalakkad More specialist doctors for Attappadi, new newborn care block planned After a rise in infant deaths, Health Minister K Muraleedharan said extra paediatricians, gynaecologists and anaesthetists will be posted at Kottathara Tribal Speciality Hospital. A new block with newborn care and an emergency operation theatre will be built. A paediatric ambulance…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-01T02:53:52Z",
+      "last_collected_at": "2026-11-01T02:53:52Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-01T02:55:29.390145+00:00"
+}
