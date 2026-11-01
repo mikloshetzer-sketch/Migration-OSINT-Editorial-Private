@@ -122,6 +122,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T02:55:59.112478+00:00"
+    },
+    "group:639": {
+      "hu_text": "🚨 Több mint 1200 migráns lépett át a határon 4 nap alatt. Ma további 3 hajó indult útnak. Július óta, amikor Burnham belépett a No10-be, majdnem 9250-en érkeztek. A határok továbbra is szélesre vannak nyitva.\n#StopTheBoats",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számokat közöl a határon átkelő migránsokról és a határhelyzetről, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:54:57.057308+00:00"
+    },
+    "group:640": {
+      "hu_text": "@ChronosShrugged @SaladinAlDronni Mint általában, az ellenzék kritizálja a kormány intézkedéseit. Néhány baloldali koalíciós tag humanitárius aggályokat vetett fel, miközben Tusk a fal hatékonyságát kritizálta. Amikor hatalmon volt, lezárta a határt Fehéroroszországgal, ezzel kényszerítve Lukashenkát, hogy megállítsa a migránsok áradatát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és történelmi utalás, nincs konkrét bizonyíték vagy adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:54:57.057330+00:00"
+    },
+    "group:641": {
+      "hu_text": "⚠️ 19 letartóztatás. Egy több mint 50 millió eurós hálózat. Több mint 1000 embert szállítottak Vietnamból az Egyesült Királyságba, sokan adósságban maradtak a csempészeiknek.\n\nAz Europol támogatásával az európai nemzeti hatóságok lebontják a migránscsempész hálózatokat.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét letartóztatási számokat és összegeket közöl, valamint hivatalos szervezet (Europol) részvételét említi, de nincs közvetlen bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:54:57.057336+00:00"
+    },
+    "group:642": {
+      "hu_text": "@Acyn Amit a muszlimok mindig is mondtak, amikor kisebbségben voltak. Amikor Mohamed menekültként érkezett Medinába, az zsidó város volt, és 5 éven belül minden zsidót kiűztek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi állítás, amely vitatható és nincs megerősítve, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:54:57.057340+00:00"
+    },
+    "group:643": {
+      "hu_text": "Az elmúlt 3 napban 1200 illegális migráns érkezett, ma reggel további 6 hajó tart felénk, mindet Burnham szervezte, és mindet ez a kormány fizette, része a Munkáspárt tervének a bevándorló szavazók importálására.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állítás, amely migrációs adatokat és összeesküvés-elméletet tartalmaz, nincs bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:54:57.057344+00:00"
+    },
+    "information:23724": {
+      "hu_text": "Az Assembly Place (SGX: TAP) egy szingapúri társasházi lakhatási szolgáltató, amely jelentős növekedést ért el az elmúlt évben, és több mint 3500 lakóegységet üzemeltet különböző szektorokban, köztük a migráns munkások szálláshelyeit is. A cég tervezi a bővítést 10 000 egységre 2030-ig, és jelenleg a részvényei árfolyama az IPO ár alatt van.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem kapcsolódik a migrációs eseményekhez vagy politikához, hanem egy vállalati pénzügyi információkat tartalmazó elemzés, ezért irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:54:57.057348+00:00"
     }
   },
   "legacy_reviews": {}
