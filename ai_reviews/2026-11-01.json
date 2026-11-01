@@ -496,6 +496,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T17:23:31.778731+00:00"
+    },
+    "information:23834": {
+      "hu_text": "RRS Sir David Attenborough webkamera elérhető a https://www.bas.ac.uk/data/our-data/images/webcams/rrs-sir-david-attenborough-webcam/ címen. Jelenlegi helyzet: https://www.vesselfinder.com/vessels/details/9798222 #RRSSirDavidAttenborough #hajó #nézet #webkamera #BoatyMcBoatface",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy hajó webkamerájának elérhetőségét és helyzetét mutatja, nincs migrációs tartalma.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:40.911602+00:00"
+    },
+    "information:23844": {
+      "hu_text": "Spanyolország: Egy rendőr állítólag már 2014-ben figyelmeztette feletteseit a Ceuta alatti kábítószer-csempész alagutakra, de a figyelmeztetést hihetetlennek tartották. Több mint egy évtizeddel később a nyomozók két kifinomult alagutat fedeztek fel, amelyek Észak-Afrika spanyol területeit kötik össze.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs és határbiztonsági vonatkozású információkat tartalmaz, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:40.911619+00:00"
+    },
+    "information:23855": {
+      "hu_text": "A \"The Sevenfold Ascent\" című történet 5. fejezete arról szól, hogy Anthony és társai egy menekültek számára épülő várost hoznak létre, ahol az alapvető szükségletek, mint az élelem és lakhatás biztosítása az elsődleges cél. A csapat globálisan dolgozik, hogy megoldja a kihívásokat, és a város folyamatosan fejlődik.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy fikciós történet részlete, amely menekültek segítéséről szól, de nem valós esemény vagy adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:40.911622+00:00"
+    },
+    "telegram:2240007404:755": {
+      "hu_text": "Tűzvédelmi dobozok szerelői (mérnöki kommunikációk) munkalehetőség Moszkvában, különböző kerületekben. Fizetés nettó 200 000 rubeltől, heti előleg 25 000 rubel, hivatalos alkalmazás, eszközök biztosítottak, tapasztalat szükséges, orosz nyelvtudás és munkavállalási engedély Oroszországban kötelező. Öt hely maradt.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a migrációs folyamatot segítheti, de nincs bizonyíték a valóságtartalmára.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:40.911626+00:00"
+    },
+    "telegram:2240007404:756": {
+      "hu_text": "Takarítói állás fitness klubban Moszkvában, nappali vagy éjszakai műszakban, havi 105 000 rubel fizetéssel. Két szabadnap havonta, munkavállalóknak a FÁK országaiból patenta támogatás jár, de étkezés és szállás nincs biztosítva.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a migrációs folyamatot segítheti, de nincs bizonyíték a valóságtartalmára.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:40.911628+00:00"
+    },
+    "record:2116928037841227930": {
+      "hu_text": "Összesen 38 embert, köztük 36 afgánt és két szudáni állampolgárt mentettek ki egy gumicsónakból, amely állítólag süllyedni kezdett a hollandiai Zeeland partjainál. A holland hatóságok a két szudáni állampolgárt embercsempészet gyanújával őrizetbe vették, míg a 36 afgán személy sorsa nem ismert.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy további részlet, így az információ ellenőrizetlen. Az embercsempészet gyanúja miatt fontos lehet a közlés, de további hitelesítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:46.055186+00:00"
     }
   },
   "legacy_reviews": {}
