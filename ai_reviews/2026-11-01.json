@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T10:55:10.786092+00:00"
+    },
+    "record:2116837159164617042": {
+      "hu_text": "@Acyn Mit mondtak a muszlimok a történelem során, amikor kisebbségben voltak. Amikor Mohamed menekültként megérkezett Medinába, az zsidó város volt, és öt éven belül minden zsidót kiűztek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi állítás, amely részben vitatott és leegyszerűsített, nincs megerősített forrás a pontos eseményekről, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:19.799309+00:00"
+    },
+    "record:2116837302466916410": {
+      "hu_text": "Több mint 1200 migráns kelt át a Csatornán négy nap alatt, ma legalább három további hajó indult Nagy-Britannia felé. Azóta, hogy Andy Burnham júliusban belépett a Downing Street 10-be, majdnem 9250 kis hajós migráns tette meg a 21 mérföldes utat.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számokat és időpontokat tartalmazó állítás, de nincs hivatalos forrás vagy bizonyíték a számok hitelességére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:19.799325+00:00"
+    },
+    "record:2116841947146936539": {
+      "hu_text": "@ChronosShrugged @SaladinAlDronni Mint mindig, az ellenzék kritizálja a kormány intézkedéseit. Néhány baloldali koalíciós tag humanitárius aggályokat vetett fel, miközben Tusk bírálta a falat, hogy nem elég hatékony. Amikor hatalmon volt, lezárta a határt Fehéroroszországgal, kényszerítve Lukashenkát, hogy leállítsa a migránsok áradatát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai és jogi állításokat tartalmaz, amelyek részben ellenőrizhetők, de a pontos részletek és hatékonyság nem bizonyítottak, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:19.799330+00:00"
+    },
+    "record:2116836745190723749": {
+      "hu_text": "Az elmúlt 3 napban 1200 illegális migráns érkezett, ma reggel további 6 hajó tart felénk, mindet Burnham szervezte, az egész kormány fizette, ez a Munkáspárt terve, hogy importáljon szavazókat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számokat és politikai vádakat tartalmaznak, de nincs megerősített forrás vagy bizonyíték a szervezésről és a kormányzati finanszírozásról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:26.860093+00:00"
+    },
+    "record:2116838377416966503": {
+      "hu_text": "@EssexPR Az elmúlt 3 napban további 1200 illegális migráns, mind férfiak érkeztek, ma reggel újabb 6 hajó tart felénk, minden napra szükségünk lenne viharokra, hogy megállítsuk, amit ez a korrupt, hazug kormány nem tesz meg.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számokat és politikai véleményt tartalmaznak, de nincs megerősített bizonyíték a migránsok pontos számára vagy a kormány tevékenységére vonatkozóan, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:26.860111+00:00"
+    },
+    "record:2116845497558110600": {
+      "hu_text": "🚨 Több mint 1200 migráns lépte át a határt 4 nap alatt. Ma további 3 hajó indult útnak. Július óta, mióta Burnham a 10. szám alatt van, majdnem 9250-en érkeztek. A határok továbbra is nyitva állnak. #StopTheBoats",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A megadott számadatok és politikai utalások ellenőrizetlenek, nincs megerősített forrás vagy hivatalos adat a migránsok pontos számáról vagy a politikai felelős személyéről, ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T10:55:26.860117+00:00"
     }
   },
   "legacy_reviews": {}
