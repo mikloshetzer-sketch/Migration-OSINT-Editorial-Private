@@ -364,6 +364,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T10:55:35.786540+00:00"
+    },
+    "information:23788": {
+      "hu_text": "A bejegyzés kritikusan értékeli Obama elnök migrációs és háborús politikáját, különösen a tömeges kitoloncolásokat, családok fogva tartását és katonai beavatkozásokat, miközben bírálja a liberális baloldal támogatását Obamával szemben Trump kritikájaként.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és értékelés, nem tényállítás, ezért nem ellenőrizhető. Fontos a társadalmi diskurzus megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:17.621159+00:00"
+    },
+    "information:23804": {
+      "hu_text": "🚨 Torkham határátkelő: Az afgán tálib erők tüzet nyitottak, miközben afgán menekültek megpróbáltak hazatérni a megnyitott határátkelőn keresztül.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági eseményről számol be, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:17.621177+00:00"
+    },
+    "information:23806": {
+      "hu_text": "🚨 Torkham határ: Az afgán tálibok tüzet nyitottak a hazatérő menekültekre. Pakisztán megnyitotta a Torkham határkapukat az afgán menekültek hazatérésének elősegítésére, de az afgán tálib erők állítólag tüzet nyitottak, megakadályozva a menekültek átkelését Afganisztánba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági és humanitárius eseményről számol be, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:17.621180+00:00"
+    },
+    "information:23811": {
+      "hu_text": "@JeMappellePercy Milyen menekültek? A háborús övezetekben lévők vagy azok, akik csak menekültnek tettetik magukat és az angol csatornán próbálnak átkelni?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés és vélemény a menekültek kilétéről, nem tényállítás, ezért nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:17.621182+00:00"
+    },
+    "information:23813": {
+      "hu_text": "Közel 1200 kis hajós migráns érkezett három nap alatt az angol csatornán történő átkelések háromhetes szünetét követően.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:17.621185+00:00"
+    },
+    "group:644": {
+      "hu_text": "Összesen 38 embert, köztük 36 afgánt és két szudáni állampolgárt mentettek ki egy gumicsónakból, amely állítólag süllyedni kezdett a hollandiai Zeeland partjainál. A holland hatóságok a két szudáni állampolgárt embercsempészet gyanújával letartóztatták, míg a 36 afgán személyt megmentették.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás embercsempészettel kapcsolatos, ami fontos migrációs esemény, de a forrás nem ellenőrzött, ezért az állítás igazságtartalma nem megerősített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T17:23:22.453077+00:00"
     }
   },
   "legacy_reviews": {}
