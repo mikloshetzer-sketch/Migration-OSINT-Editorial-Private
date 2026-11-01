@@ -661,6 +661,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-01T21:29:57.194108+00:00"
+    },
+    "record:2117000060923945085": {
+      "hu_text": "Van ideje és helye a migránsoknak. A baloldaliak rabszolgákat importálnak, nem migránsokat. Sok ukrán menekült érkezett Kanadába, majd tömegesen elmentek, amikor rájöttek, hogy az Egyesült Államok Legfelsőbb Bírósága lesznek. Az indiaiak maradnak, heti 80 órát dolgoznak (két 40 órás gyorséttermi munkát), és pénzt küldenek haza.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és általánosításokat tartalmaz migránsokról, de nincs konkrét bizonyíték vagy adat, ezért ellenőrizetlen. A tartalom migrációval kapcsolatos társadalmi diskurzust tükröz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:30:08.449298+00:00"
+    },
+    "record:2117000944114098638": {
+      "hu_text": "Amikor a határ nyitva volt, és migránsok érkeztek New Jersey-be, az attitűdjük az volt, hogy \"takarodjatok az útból, mi átveszünk mindent\", és most, hogy Trump hivatalban van, New Jersey állam megpróbálja megvédeni ezeket a csalókat és segíteni, hogy itt maradjanak. Meg fogják ölni azt, aki segíti őket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés erősen véleményes, politikai jellegű, és nem tartalmaz ellenőrzött tényeket. A migrációval kapcsolatos társadalmi diskurzus része, de nincs bizonyíték a leírtakra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:30:08.449316+00:00"
+    },
+    "record:reddit_1xleelx": {
+      "hu_text": "Hét kutya halálra marcangolt egy kisgyermeket Egyiptomban, ami közfelháborodást váltott ki Kairó külvárosában. A komment szerint a közvélemény nagy része nem igazán felháborodott, és a kutyák iránti szeretet miatt a média torz képet adhat. Egyiptommal kapcsolatban gyakran félrevezető narratívák jelennek meg az emberkereskedelemről, különösen a nyugat-afrikai migránsokkal kapcsolatban, miközben valójában helyi egyiptomiak és közép-ázsiaiak is érintettek. A komment szerint a nyugat-afrikai migránsok gyakran irreális elvárásokkal érkeznek, és kulturális különbségek miatt jogi panaszokat tesznek, amelyek nem mindig megalapozottak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményeket és általánosításokat tartalmaz, valamint egyedi esetet ismertet, de nem támasztja alá ellenőrzött adatokkal. A migrációval kapcsolatos társadalmi diskurzus része.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:30:08.449320+00:00"
+    },
+    "telegram:2240007404:760": {
+      "hu_text": "Halfeldolgozók munkalehetősége szállással és patentdíj fizetésével, valamint repülőjegy támogatással Oroszországba (Himki város, Moszkva régió). A munkaidő heti 5 vagy 6 nap, 9-től 18 óráig, a fizetés 75 000 rubeltől, prémiumokkal és túlóradíjjal. A munkáltató fedezi a patentdíjat, az egészségügyi könyvet, a szállást és a repülőjegyet. Éves fizetett szabadság 28 nap.",
+      "content_category": "FACILITATION",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Álláshirdetés, amely konkrét munkalehetőséget és feltételeket ismertet, valószínűsíthetően hiteles forrásból. A tartalom a migránsok munkavállalását segíti elő.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:30:08.449325+00:00"
+    },
+    "telegram:2240007404:761": {
+      "hu_text": "Segédmunkások keresése élelmiszeripari munkára szállással a Moszkva régióban. A fizetés havi 80 000-95 000 rubel, nyelvtudás szükséges, de tapasztalat nem. Feladatok közé tartozik a rakodás, szállítás, takarítás, zöldség- és gombamosás, előkészítés. A munkáltató ingyen biztosít szállást, patent előfinanszírozást, étkezést és munkaruhát. Munkarend 6 nap munka, 1 nap szabad, napi 12 órás műszakokkal.",
+      "content_category": "FACILITATION",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Álláshirdetés, amely részletes munkakörülményeket és juttatásokat ismertet, valószínűsíthetően hiteles. A tartalom a migránsok munkavállalását segíti elő.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:30:08.449328+00:00"
+    },
+    "telegram:2240007404:762": {
+      "hu_text": "Irodai takarító munkalehetőség Moszkvában, a Delovoj Centrban, havi 90 000 rubel fizetéssel. Fizetés kétszer havonta, stabil munkarend, hivatalos foglalkoztatás, lehetőség esti műszakra plusz jövedelemért. A hirdetés elérhetőséget is megad.",
+      "content_category": "FACILITATION",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Álláshirdetés, amely konkrét munkalehetőséget és feltételeket ismertet, valószínűsíthetően hiteles. A tartalom a migránsok munkavállalását segíti elő.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-01T21:30:08.449331+00:00"
     }
   },
   "legacy_reviews": {}
