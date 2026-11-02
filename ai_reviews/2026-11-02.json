@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T08:36:31.423055+00:00"
+    },
+    "information:24047": {
+      "hu_text": "⚠️ Az emberkereskedelem súlyos bűncselekmény, amely kihasználja az áldozatok sebezhetőségét és biztonság iránti szükségletét, és a kockázatok nőnek azokra, akiket kényszerítenek szabálytalan migrációs útvonalak választására.\n\nSürgős intézkedésekre van szükség az illetékes hatóságoktól.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az emberkereskedelem súlyos probléma, különösen a szabálytalan migrációs útvonalakon, de az állítás nem tartalmaz konkrét adatokat vagy bizonyítékokat, ezért ellenőrizetlennek minősül. Fontos téma, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:43.610059+00:00"
+    },
+    "information:24055": {
+      "hu_text": "Egy új fixert (közvetítőt) vezettek be Night City-ben, Hodan Warsame személyében, aki különféle megbízásokat ad V-nek. A mod teljes hangalámondással, új karakterekkel és szinkronnal rendelkezik, ingyenesen elérhető a NexusMods oldalon. A fejlesztő megoldotta az új szinkron és ajakszinkron problémákat, és nyílt forráskódú eszközt is kiadott.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy videojáték-módosítás bemutatása, amely nem kapcsolódik a migrációhoz vagy annak aspektusaihoz, így irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:43.610077+00:00"
+    },
+    "information:24057": {
+      "hu_text": "🏡 Az otthon felé vezető út folytatódik! 🇨🇩\n🚍 A 9. önkéntes hazatelepítési konvoj, amely 113 kongói menekültből áll, október 27-én indult el a Mantapala településről, és október 28-án biztonságosan megérkezett Pweto-ba, Kongói Demokratikus Köztársaságba. 📊 Ezzel az önkéntes visszatérők száma összesen 2 154 főre nőtt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az önkéntes hazatelepítési konvojról szóló információ releváns migrációs esemény, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül. Fontos téma, így magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:43.610083+00:00"
+    },
+    "record:1604168769:12436": {
+      "hu_text": "Jekatyerinburgban razziát tartottak migránsok ellen.\n\nJekatyerinburgban a rendvédelmi szervek és önkéntesek ellenőrzése során négy, okmányok nélküli külföldi állampolgárt fogtak el. Jelenleg vizsgálják, hogy jogszerűen léptek-e be az országba, illetve hogy folytattak-e illegális tevékenységet.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A migránsokkal kapcsolatos rendőri razzia releváns a határbiztonság szempontjából, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül. Közepes prioritású, mert fontos a migrációs kontroll szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:43.610088+00:00"
+    },
+    "telegram:1173707041:9626": {
+      "hu_text": "A Migrációs Minisztérium és az Integritási Hatóság megvitatta a korrupció megelőzésének módszereit, és megállapodtak egy közös cselekvési terv kidolgozásában. A megbeszélésen hangsúlyozták az átláthatóság erősítését és a közös együttműködést a korrupció elleni küzdelemben, valamint képzések szervezését a minisztérium alkalmazottai számára.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A korrupció elleni együttműködés és átláthatóság növelése fontos politikai és jogi téma, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül. Közepes prioritású a migrációs adminisztráció szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:43.610091+00:00"
+    },
+    "telegram:1173707041:9631": {
+      "hu_text": "Az egészségtudatosság erősítése érdekében a Diwaniya Nőügyi Egység orvosi szemináriumot szervezett a veszélyes betegségek megelőzéséről és korai felismeréséről. A rendezvényen hangsúlyozták a rendszeres szűrések fontosságát, a megelőzési módszereket, és bátorították a nőket, hogy forduljanak egészségügyi intézményekhez tünetek esetén.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az egészségügyi tudatosság növelése fontos társadalmi téma, de nem kapcsolódik közvetlenül a migrációhoz, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:43.610096+00:00"
     }
   },
   "legacy_reviews": {}
