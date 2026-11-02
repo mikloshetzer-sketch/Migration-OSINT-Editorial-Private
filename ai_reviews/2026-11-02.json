@@ -133,6 +133,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T01:08:59.307063+00:00"
+    },
+    "record:2117059898743595362": {
+      "hu_text": "Nincs hivatalos adat az Ohio államban élő illegális szomáliaiakról. A népszámlálási adatok szerint a szomáliai közösség létszáma körülbelül 26 000–28 500 fő (főként Franklin megyében), míg a helyi becslések szerint ez a szám 50 000–70 000 között van, beleértve az USA-ban születetteket is. A többség legálisan menekültként érkezett, és több mint 80%-uk állampolgár.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások népszámlálási és helyi becsléseken alapulnak, de nincs hivatalos, ellenőrzött adat az illegális státuszú szomáliaiakról, ezért az információ nem teljesen ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:09:07.287064+00:00"
+    },
+    "record:reddit_1xlgpk2": {
+      "hu_text": "Lehetséges lenne visszavonni a több százezer ILR-t (állandó tartózkodási engedélyt), amit a Munkáspárt kész kiosztani? Jelenleg az alacsony képzettségű munkavállalók (főként gondozók) már 5 év után ILR-t kaphatnak, ami lehetővé teszi számukra más munkakörbe való átlépést vagy akár segélyek igénylését, ha nem dolgoznak. Shabana eredetileg visszavonást ígért, de most úgy tűnik, hogy kivételt tesz a gondozók számára. Felmerül a kérdés, hogy a Konzervatívok miért nem ígérik meg az ILR-ek visszavonását, és hogy van-e alkotmányos akadálya ennek, például az ECHR miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai véleményeket és feltételezéseket tartalmaz a brit migrációs politikáról, de nincs konkrét bizonyíték vagy hivatalos forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:09:07.287082+00:00"
+    },
+    "telegram:2240007404:764": {
+      "hu_text": "Álláshirdetés: Pastilla készítő munkatársat keresnek Moszkvában, a Samokatnaja utcában. A fizetés műszakonként 5000–6500 rubel, hivatalos alkalmazás, fizetett betanulás, orvosi vizsgálat a munkáltató költségén, és étkezési lehetőség biztosított. Az érdeklődők WhatsApp-on keresztül jelentkezhetnek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migránsok munkavállalását segíti elő, de nincs benne migrációs eseményre vagy politikára vonatkozó konkrét adat, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:09:07.287085+00:00"
+    },
+    "telegram:2240007404:765": {
+      "hu_text": "Egy nagy kereskedelmi és gyártó cég bővülés miatt több munkakört hirdet meg Moszkva környékén, hivatalos alkalmazással, stabil fizetéssel, ingyenes étkezéssel és szállással, valamint a munkavállaláshoz szükséges munkavállalási engedély támogatásával. Érdeklődni telefonon vagy e-mailben lehet.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migránsok munkavállalását segíti elő, de nem tartalmaz migrációs eseményt vagy politikai állítást, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:09:07.287087+00:00"
     }
   },
   "legacy_reviews": {}
