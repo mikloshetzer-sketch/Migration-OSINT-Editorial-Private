@@ -518,6 +518,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T19:55:52.606684+00:00"
+    },
+    "record:mastodon_117547874648869496": {
+      "hu_text": "Vegyünk példát a franciáktól: öt brit férfit, 30 és 46 év között, csütörtökön élő közvetítés közben tartóztattak le. Könnygázpalackokat, paprikasprayt, botot és ütőket (amelyek Franciaországban illegálisak) találtak náluk. Hat hónapra kitiltották őket a Nord és Pas-de-Calais megyékből, és mindegyiküknek 500 eurót kellett fizetniük az áldozatok segélyezésére. Januárban két másik britet tartóztattak le és deportáltak, amikor tiltakozni próbáltak Calais kikötővárosában.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményeket ír le, de nincs közvetlen bizonyíték a szövegben, ezért ellenőrizetlennek minősül. A téma a migrációs jogi intézkedésekhez kapcsolódik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:04.792830+00:00"
+    },
+    "record:reddit_1xm051f": {
+      "hu_text": "Több mint 1600 migráns lépte át a Csatornát négy nap alatt, miközben több hajó is ma érkezett Nagy-Britanniába.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről számol be, amely fontos a határátlépések szempontjából, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:04.792856+00:00"
+    },
+    "telegram:1173707041:9639": {
+      "hu_text": "A migrációs minisztérium képviselője, Samir Eid Saleh jogász, egy kormányküldöttség tagjaként helyszíni látogatást tett az Anbari tartományhoz tartozó Rumana kerületben, hogy felmérje a visszatérő családok szükségleteit. A látogatás során széleskörű megbeszélést tartottak a helyi vezetőkkel, kormányzati szervekkel és közösségi képviselőkkel, hogy megvitassák a visszatérő családok és a befogadó közösség előtt álló kihívásokat, valamint a további gondozási programok elindításának lehetőségeit.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés humanitárius tevékenységről számol be, de nincs külső forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:04.792861+00:00"
+    },
+    "telegram:1173707041:9644": {
+      "hu_text": "Az Anbari Migrációs Hivatal egy tudatosságnövelő workshopot szervezett a bűzös slumokban élő állampolgárok jogainak erősítésére és szükségleteik megvitatására. A rendezvényen részt vettek a helyi emberi jogi és szociális gondozási hivatalok vezetői, és a résztvevők tájékoztatást kaptak jogaikról és kötelezettségeikről, valamint megvitatták a regisztrációs és szociális védelmi hálózatba való bevonás problémáit, továbbá az egészségügyi, oktatási és ivóvízellátási kihívásokat és azok megoldási lehetőségeit.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés humanitárius és társadalmi témákat érint, de nincs megerősített forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:04.792865+00:00"
+    },
+    "telegram:1229318139:29832": {
+      "hu_text": "Egy arab nyelvű hirdetés egy iszlám ruházati bolt termékeiről, például abaya ruhákról, kendőkről és fátylakról, árakkal és elérhetőségekkel, valamint közösségi média linkekkel.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációs eseményekhez vagy témákhoz, hanem kereskedelmi hirdetés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:04.792869+00:00"
+    },
+    "telegram:1261826972:54146": {
+      "hu_text": "Egy véleménycikk részlete, amely egy megfigyelő tollából származik, és arról szól, hogy egy öt év alatti gyermek hogyan beszél az bevándorlókról, illetve hogyan különböztet meg egy maghrebi személyt másoktól, valamint arról, hogy zászlókat lenget és politikai jelszavakat kiabál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy véleményt tartalmaz társadalmi diskurzus témában, nincs konkrét tényállítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:04.792872+00:00"
     }
   },
   "legacy_reviews": {}
