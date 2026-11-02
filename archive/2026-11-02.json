@@ -1,0 +1,900 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "live_events": [
+    {
+      "id": 809,
+      "event_id": 809,
+      "source": "X",
+      "source_post_id": "2117059898743595362",
+      "author": "grok",
+      "published_at": "2026-11-02T01:03:07Z",
+      "collected_at": "2026-11-02T01:08:03Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@Kendally8X @LoomerUnleashed @realDonaldTrump No official count of illegal Somalis in Ohio exists. Census data puts the Somali population at roughly 26,000–28,500 (mostly Franklin County), with local estimates higher at 50,000–70,000 including US-born. The large majority arrived as legal refugees and over 80% are citizens or",
+      "url": "https://x.com/grok/status/2117059898743595362",
+      "source_url": "https://x.com/grok/status/2117059898743595362"
+    },
+    {
+      "id": 810,
+      "event_id": 810,
+      "source": "X",
+      "source_post_id": "2117050497584554133",
+      "author": "404K2D",
+      "published_at": "2026-11-02T00:25:46Z",
+      "collected_at": "2026-11-02T01:08:03Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@I_amMukhtar Lol, they're so used to harassing poor recently arrived refugees in the UK that they thought they could do that BS in France of all places. Haha https://t.co/bWAd4ecbq2",
+      "url": "https://x.com/404K2D/status/2117050497584554133",
+      "source_url": "https://x.com/404K2D/status/2117050497584554133"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 646,
+      "group_id": 646,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Kendally8X @LoomerUnleashed @realDonaldTrump No official count of illegal Somalis in Ohio exists. Census data puts the Somali population at roughly 26,000–28,500 (mostly Franklin County), with local estimates higher at 50,000–70,000 including US-born. The large majority arrived as legal refugees and over 80% are citizens or",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-02T01:03:07Z",
+      "last_seen": "2026-11-02T01:03:07Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-02T01:08:03Z",
+      "updated_at": "2026-11-02T01:08:03Z"
+    },
+    {
+      "id": 647,
+      "group_id": 647,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@I_amMukhtar Lol, they're so used to harassing poor recently arrived refugees in the UK that they thought they could do that BS in France of all places. Haha https://t.co/bWAd4ecbq2",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-02T00:25:46Z",
+      "last_seen": "2026-11-02T00:25:46Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-02T01:08:03Z",
+      "updated_at": "2026-11-02T01:08:03Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1303,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xlgpk2",
+      "author": "Interesting_Pen_4499",
+      "language": null,
+      "published_at": "2026-11-01T22:41:51Z",
+      "first_detected_at": "2026-11-02T01:06:20Z",
+      "last_detected_at": "2026-11-02T01:06:20Z",
+      "detection_count": 1,
+      "text": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply decide not to work. Shabana originally called this an \"affront\" (which it is) and pledged to reverse it, but latest reports suggest she will apply a carve out specifically to care workers (which is crazy, given we have a shortage of them and ILR allows them to quit being a carer). My question is, why can't the Conservatives simply pledge to revoke all the ILRs Labour is about to shower people with (estimates put it in the hundreds of thousands before the next election)? Is there some constitutional block against this, perhaps involving the ECHR (which we should be leaving anyway)? Or would people just object on the basis that the government shouldn't go against its word and deport legally settled migrants (even if they were legally settled against the wishes of voters)?",
+      "text_excerpt": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply",
+      "url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "source_url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1304,
+      "source": "X",
+      "source_post_id": "2117055234182939089",
+      "author": "TheEnglishPat",
+      "language": "en",
+      "published_at": "2026-11-02T00:44:35Z",
+      "first_detected_at": "2026-11-02T01:07:12Z",
+      "last_detected_at": "2026-11-02T01:07:12Z",
+      "detection_count": 1,
+      "text": "🚨 More than 1,600 migrants cross Channel in four days as multiple boats reach Britain on Sunday the 1st of November 2026.\n\nMore than 10,000 small boat migrants have completed the 21-mile journey since Andy Burnham entered No10 back in July. https://t.co/YoBc9wRgw0",
+      "text_excerpt": "🚨 More than 1,600 migrants cross Channel in four days as multiple boats reach Britain on Sunday the 1st of November 2026.\n\nMore than 10,000 small boat migrants have completed the 21-mile journey since Andy Burnham entered No10 back in July. https://t.co/YoBc9wRgw0",
+      "url": "https://x.com/TheEnglishPat/status/2117055234182939089",
+      "source_url": "https://x.com/TheEnglishPat/status/2117055234182939089",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants cross Channel in four days as multiple boats reach"
+        ],
+        [
+          "movement",
+          "migrants have completed the 21-mile journey since Andy Burnham entered"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants cross Channel in four days as multiple boats reach",
+        "migrants have completed the 21-mile journey since Andy Burnham entered"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1303,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xlgpk2",
+      "author": "Interesting_Pen_4499",
+      "language": null,
+      "published_at": "2026-11-01T22:41:51Z",
+      "first_detected_at": "2026-11-02T01:06:20Z",
+      "last_detected_at": "2026-11-02T01:06:20Z",
+      "detection_count": 1,
+      "text": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply decide not to work. Shabana originally called this an \"affront\" (which it is) and pledged to reverse it, but latest reports suggest she will apply a carve out specifically to care workers (which is crazy, given we have a shortage of them and ILR allows them to quit being a carer). My question is, why can't the Conservatives simply pledge to revoke all the ILRs Labour is about to shower people with (estimates put it in the hundreds of thousands before the next election)? Is there some constitutional block against this, perhaps involving the ECHR (which we should be leaving anyway)? Or would people just object on the basis that the government shouldn't go against its word and deport legally settled migrants (even if they were legally settled against the wishes of voters)?",
+      "text_excerpt": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply",
+      "url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "source_url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1304,
+      "source": "X",
+      "source_post_id": "2117055234182939089",
+      "author": "TheEnglishPat",
+      "language": "en",
+      "published_at": "2026-11-02T00:44:35Z",
+      "first_detected_at": "2026-11-02T01:07:12Z",
+      "last_detected_at": "2026-11-02T01:07:12Z",
+      "detection_count": 1,
+      "text": "🚨 More than 1,600 migrants cross Channel in four days as multiple boats reach Britain on Sunday the 1st of November 2026.\n\nMore than 10,000 small boat migrants have completed the 21-mile journey since Andy Burnham entered No10 back in July. https://t.co/YoBc9wRgw0",
+      "text_excerpt": "🚨 More than 1,600 migrants cross Channel in four days as multiple boats reach Britain on Sunday the 1st of November 2026.\n\nMore than 10,000 small boat migrants have completed the 21-mile journey since Andy Burnham entered No10 back in July. https://t.co/YoBc9wRgw0",
+      "url": "https://x.com/TheEnglishPat/status/2117055234182939089",
+      "source_url": "https://x.com/TheEnglishPat/status/2117055234182939089",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants cross Channel in four days as multiple boats reach"
+        ],
+        [
+          "movement",
+          "migrants have completed the 21-mile journey since Andy Burnham entered"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants cross Channel in four days as multiple boats reach",
+        "migrants have completed the 21-mile journey since Andy Burnham entered"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1303,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xlgpk2",
+      "author": "Interesting_Pen_4499",
+      "language": null,
+      "published_at": "2026-11-01T22:41:51Z",
+      "first_detected_at": "2026-11-02T01:06:20Z",
+      "last_detected_at": "2026-11-02T01:06:20Z",
+      "detection_count": 1,
+      "text": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply decide not to work. Shabana originally called this an \"affront\" (which it is) and pledged to reverse it, but latest reports suggest she will apply a carve out specifically to care workers (which is crazy, given we have a shortage of them and ILR allows them to quit being a carer). My question is, why can't the Conservatives simply pledge to revoke all the ILRs Labour is about to shower people with (estimates put it in the hundreds of thousands before the next election)? Is there some constitutional block against this, perhaps involving the ECHR (which we should be leaving anyway)? Or would people just object on the basis that the government shouldn't go against its word and deport legally settled migrants (even if they were legally settled against the wishes of voters)?",
+      "text_excerpt": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply",
+      "url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "source_url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1303,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xlgpk2",
+      "author": "Interesting_Pen_4499",
+      "language": null,
+      "published_at": "2026-11-01T22:41:51Z",
+      "first_detected_at": "2026-11-02T01:06:20Z",
+      "last_detected_at": "2026-11-02T01:06:20Z",
+      "detection_count": 1,
+      "text": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply decide not to work. Shabana originally called this an \"affront\" (which it is) and pledged to reverse it, but latest reports suggest she will apply a carve out specifically to care workers (which is crazy, given we have a shortage of them and ILR allows them to quit being a carer). My question is, why can't the Conservatives simply pledge to revoke all the ILRs Labour is about to shower people with (estimates put it in the hundreds of thousands before the next election)? Is there some constitutional block against this, perhaps involving the ECHR (which we should be leaving anyway)? Or would people just object on the basis that the government shouldn't go against its word and deport legally settled migrants (even if they were legally settled against the wishes of voters)?",
+      "text_excerpt": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply",
+      "url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "source_url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1303,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xlgpk2",
+      "author": "Interesting_Pen_4499",
+      "language": null,
+      "published_at": "2026-11-01T22:41:51Z",
+      "first_detected_at": "2026-11-02T01:06:20Z",
+      "last_detected_at": "2026-11-02T01:06:20Z",
+      "detection_count": 1,
+      "text": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply decide not to work. Shabana originally called this an \"affront\" (which it is) and pledged to reverse it, but latest reports suggest she will apply a carve out specifically to care workers (which is crazy, given we have a shortage of them and ILR allows them to quit being a carer). My question is, why can't the Conservatives simply pledge to revoke all the ILRs Labour is about to shower people with (estimates put it in the hundreds of thousands before the next election)? Is there some constitutional block against this, perhaps involving the ECHR (which we should be leaving anyway)? Or would people just object on the basis that the government shouldn't go against its word and deport legally settled migrants (even if they were legally settled against the wishes of voters)?",
+      "text_excerpt": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply",
+      "url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "source_url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xlgpk2"
+      ],
+      "related_authors": [
+        "Interesting_Pen_4499"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1303,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xlgpk2",
+      "author": "Interesting_Pen_4499",
+      "language": null,
+      "published_at": "2026-11-01T22:41:51Z",
+      "first_detected_at": "2026-11-02T01:06:20Z",
+      "last_detected_at": "2026-11-02T01:06:20Z",
+      "detection_count": 1,
+      "text": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply decide not to work. Shabana originally called this an \"affront\" (which it is) and pledged to reverse it, but latest reports suggest she will apply a carve out specifically to care workers (which is crazy, given we have a shortage of them and ILR allows them to quit being a carer). My question is, why can't the Conservatives simply pledge to revoke all the ILRs Labour is about to shower people with (estimates put it in the hundreds of thousands before the next election)? Is there some constitutional block against this, perhaps involving the ECHR (which we should be leaving anyway)? Or would people just object on the basis that the government shouldn't go against its word and deport legally settled migrants (even if they were legally settled against the wishes of voters)?",
+      "text_excerpt": "Would it be possible to revoke the hundreds of thousands of ILRs Labour is about to hand out?\nIt is being reported that Shabana will in fact water down her proposed ILR changes, caving in to pressure from Rayner and Labour's open border backbench MPs. I'm aware it was Boris that originally created this system, hence Boriswave, however that doesn't mean we should simply refrain from criticising it going forward. In case anyone is wondering, the status quo is that any low skilled worker (mostly care workers) can obtain ILR after just 5 years, which allows them to switch into other jobs (thus requiring us to import someone else to fill the care job) or, amazingly, claim benefits, if they simply",
+      "url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "source_url": "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xlgpk2"
+      ],
+      "related_authors": [
+        "Interesting_Pen_4499"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/tories/comments/1xlgpk2/would_it_be_possible_to_revoke_the_hundreds_of/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:23951",
+      "timestamp": "2026-11-02T00:52:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117057099305738701",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2117057099305738701",
+      "source_url": "https://x.com/grok/status/2117057099305738701",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@steelers831 @deba2dxr No. Searches of deba2dxr’s posts turn up nothing on border-related trafficking or raped women/migrants. The account is recent and its content centers on other topics.",
+      "text_excerpt": "@steelers831 @deba2dxr No. Searches of deba2dxr’s posts turn up nothing on border-related trafficking or raped women/migrants. The account is recent and its content centers on other topics.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:06:46Z",
+      "last_collected_at": "2026-11-02T01:06:46Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23954",
+      "timestamp": "2026-11-02T00:38:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117053586773532807",
+      "author": "Olddog_tw",
+      "url": "https://x.com/Olddog_tw/status/2117053586773532807",
+      "source_url": "https://x.com/Olddog_tw/status/2117053586773532807",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "Closing the border and deporting illegal migrants isn't cruelty. It's dealing with the problem early.\n\nSweden waited, and now it has some of Europe's worst gang violence and pays migrants to go home. Poland acted early and kept both order and social trust.\n\nFix it now at a cost,",
+      "text_excerpt": "Closing the border and deporting illegal migrants isn't cruelty. It's dealing with the problem early.\n\nSweden waited, and now it has some of Europe's worst gang violence and pays migrants to go home. Poland acted early and kept both order and social trust.\n\nFix it now at a cost,",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:06:46Z",
+      "last_collected_at": "2026-11-02T01:06:46Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23956",
+      "timestamp": "2026-11-02T00:35:11Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117052870256464191",
+      "author": "lalovestrump",
+      "url": "https://x.com/lalovestrump/status/2117052870256464191",
+      "source_url": "https://x.com/lalovestrump/status/2117052870256464191",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@illuminati671B It seems like most that attend are Chicanos born here …versus the usually more recent migrants \n\nThere are Hispanics in the area that have been here several generations in the area . \n\nThey aren’t the same as people that recently crossed the border",
+      "text_excerpt": "@illuminati671B It seems like most that attend are Chicanos born here …versus the usually more recent migrants \n\nThere are Hispanics in the area that have been here several generations in the area . \n\nThey aren’t the same as people that recently crossed the border",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:06:46Z",
+      "last_collected_at": "2026-11-02T01:06:46Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23965",
+      "timestamp": "2026-11-01T23:55:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117042778928480491",
+      "author": "AndyCharlesII",
+      "url": "https://x.com/AndyCharlesII/status/2117042778928480491",
+      "source_url": "https://x.com/AndyCharlesII/status/2117042778928480491",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Thank god Labour have been stopping the boats ..... 🫩\nNearly 1200 small-boat migrants arrive over three days after three-week pause in Channel crossings https://t.co/CYKMxLwdGK via https://t.co/I2nigsL5Wd",
+      "text_excerpt": "Thank god Labour have been stopping the boats ..... 🫩\nNearly 1200 small-boat migrants arrive over three days after three-week pause in Channel crossings https://t.co/CYKMxLwdGK via https://t.co/I2nigsL5Wd",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:07:12Z",
+      "last_collected_at": "2026-11-02T01:07:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23978",
+      "timestamp": "2026-11-01T23:49:24Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117041345009188997",
+      "author": "SBsupersport",
+      "url": "https://x.com/SBsupersport/status/2117041345009188997",
+      "source_url": "https://x.com/SBsupersport/status/2117041345009188997",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@TaraBull @elonmusk As far as I know, one side isn’t promoting child gender mutilation, unborn dismembering for $ and open border unrestricted migration which includes child and drug trafficking and sleeper Chinese and jihadi agents.",
+      "text_excerpt": "@TaraBull @elonmusk As far as I know, one side isn’t promoting child gender mutilation, unborn dismembering for $ and open border unrestricted migration which includes child and drug trafficking and sleeper Chinese and jihadi agents.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:07:37Z",
+      "last_collected_at": "2026-11-02T01:07:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23967",
+      "timestamp": "2026-11-01T23:31:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117036952616665563",
+      "author": "JanetHuntexu",
+      "url": "https://x.com/JanetHuntexu/status/2117036952616665563",
+      "source_url": "https://x.com/JanetHuntexu/status/2117036952616665563",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/znUaEsPOGr via @UKChange",
+      "text_excerpt": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/znUaEsPOGr via @UKChange",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:07:12Z",
+      "last_collected_at": "2026-11-02T01:07:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23980",
+      "timestamp": "2026-11-01T23:22:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117034522357248048",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2117034522357248048",
+      "source_url": "https://x.com/grok/status/2117034522357248048",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@math_curious @Nathan_N254 @alhaadiahmad @AfricaFactsZone Legal pathways for economic migration from Nigeria to Italy or similar destinations remain tightly restricted, with high visa refusal rates and few work permits available outside skilled categories. Asylum after irregular sea arrival has therefore become a primary route for many",
+      "text_excerpt": "@math_curious @Nathan_N254 @alhaadiahmad @AfricaFactsZone Legal pathways for economic migration from Nigeria to Italy or similar destinations remain tightly restricted, with high visa refusal rates and few work permits available outside skilled categories. Asylum after irregular sea arrival has therefore become a primary route for many",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:07:37Z",
+      "last_collected_at": "2026-11-02T01:07:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:23981",
+      "timestamp": "2026-11-01T23:10:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117031452680302765",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2117031452680302765",
+      "source_url": "https://x.com/grok/status/2117031452680302765",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@anniero_99 @VladTheInflator No major independent \"Scorpion\" or \"Scorpio\" cartel exists. Los Escorpiones (Grupo Escorpión) is an armed faction of Mexico's Gulf Cartel, based mainly in Matamoros, Tamaulipas. Originally Tony Tormenta's bodyguards, it handles drug trafficking, migrant smuggling and violence;",
+      "text_excerpt": "@anniero_99 @VladTheInflator No major independent \"Scorpion\" or \"Scorpio\" cartel exists. Los Escorpiones (Grupo Escorpión) is an armed faction of Mexico's Gulf Cartel, based mainly in Matamoros, Tamaulipas. Originally Tony Tormenta's bodyguards, it handles drug trafficking, migrant smuggling and violence;",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-02T01:07:37Z",
+      "last_collected_at": "2026-11-02T01:07:37Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-02T01:08:12.402603+00:00"
+}
