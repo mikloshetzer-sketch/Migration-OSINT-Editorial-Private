@@ -386,6 +386,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T08:36:58.187260+00:00"
+    },
+    "group:649": {
+      "hu_text": "@Grok @ShabanaMahmood @CPhilpOfficial @ZiaYusufUK \n@PatrickChristys @Alexarmstrong\n@MartinDaubney\n@RafHM\n\nHány illegális migráns érkezett az Egyesült Királyságba a Munkáspárt kormányzása alatt az érkezés módja szerint?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás kérdés formájában tesz fel kérdést illegális migránsok számáról, de nem tartalmaz konkrét adatot vagy bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:40.680513+00:00"
+    },
+    "group:650": {
+      "hu_text": "Az @ukhomeoffice-nek: Londonban élők tudják, hogy az újonnan érkezett migránsok kevesebb mint 20%-a beszél A-szintű angolt! Valójában sokan, akik évek óta itt élnek, gyenge angoltudással rendelkeznek! Semmi sem lesz érvényesítve, így ez mind eléggé értelmetlen!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migránsok angol nyelvtudására vonatkozik, de nincs alátámasztó bizonyíték, és szubjektív vélemény is megjelenik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:40.680532+00:00"
+    },
+    "information:24080": {
+      "hu_text": "Rövid történeti áttekintés a keresztény hírességek jegyzékéről a késő Ming-kortól napjainkig (1853-1929). Bemutatja a koreai árvavonatokat és a 19. századi népirtás tragédiáit, valamint a dél-koreai születésszabályozás és a nemzetközi keresztény NGO-k által működtetett transznacionális gyermekörökbefogadási hálózatok hátterét. A koreai háború után több mint 200 000 gyermeket fogadtak örökbe nyugati országokban, ami a világ legnagyobb és leghosszabb ideig tartó transznacionális örökbefogadási projektje volt. Az utóbbi években a dél-koreai Igazság és Megbékélés Bizottság (TRC) átfogó vizsgálatot folytatott az emberi jogi visszaélésekről és az állami intézményi rendszer visszaéléseiről, feltárva az örökbefogadási rendszer mögötti kényszerítő és kizsákmányoló mechanizmusokat, amelyek összefonódnak keresztény evangélikus szervezetekkel és szekuláris NGO-kkal. A rendszer nem csupán árvák megsegítésére szolgált, hanem egy autoriter állam által irányított, kényszeres születésszabályozási és társadalmi gondozási rendszer része volt, amely a szegény családok szülői jogait rendszeresen megfosztotta, és egy intézményesített csecsemőkereskedelmi láncot hozott létre. A hálózat eredete az 1950-es évek közepén az amerikai keresztény fundamentalizmus és a dél-koreai nacionalista politika találkozására vezethető vissza, amely a vegyes származású gyerekeket kirekesztette és külföldre adta örökbe. Az amerikai törvényhozás speciális jogszabályokat hozott az örökbefogadás megkönnyítésére, lehetővé téve az úgynevezett „proxy adoption”-t, amely során az örökbefogadók személyes jelenlét nélkül is örökbe fogadhattak gyerekeket, akiket repülőgépeken szállítottak az Egyesült Államokba. Ez a rendszer számos visszaéléshez vezetett, amelyeket az érintett szervezetek és bíróságok dokumentáltak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg részletes történelmi áttekintést ad egy ismert, dokumentált jelenségről, amelyet hivatalos bizottsági vizsgálatok és bírósági ítéletek is alátámasztanak, de a teljes bizonyítás még folyamatban van.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:40.680537+00:00"
+    },
+    "information:24083": {
+      "hu_text": "Egy személy élménybeszámolója a Buffalo Lodge kaszinóban végzett munkájáról, ahol nehéz körülmények között dolgozik, és különleges érzékelési képességei vannak, amelyek segítik a környezetében lévő emberek szándékainak felismerésében. A munkahelyi zaj és stressz ellenére igyekszik túlélni a helyzetet, és vágyik a csendesebb, nyugodtabb környezetre.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg személyes élménybeszámoló, amely nem kapcsolódik közvetlenül a migrációhoz vagy annak biztonsági, jogi vagy humanitárius aspektusaihoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:40.680553+00:00"
+    },
+    "information:24107": {
+      "hu_text": "@J3F32005 @USADocumented @CoVet_81 A videóban vagy az eredeti bejegyzésben nincs pontos helyszín megadva. A terep (száraz bozót, kövek, földút zsákutcához) hasonlít az Egyesült Államok délnyugati száraz területeire. Hasonló eldobált gyerek hátizsákok, cipők és ruhák nyomai gyakoriak a déli határ közelében lévő migráns útvonalakon. Nincs megerősített információ.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés megfigyeléseket tartalmaz migráns útvonalakhoz kapcsolódó tárgyakról, de nincs megerősített bizonyíték a helyszín vagy a körülmények pontos azonosítására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:40.680556+00:00"
+    },
+    "information:24110": {
+      "hu_text": "Kedden 21 órakor kezdődik a \"The Strait Never Sleeps\" második évada. Egy regatta Ceutába váratlan fordulatot vesz, amikor az Enigma és Dreamweaver hajók legénysége 20 migránst ment meg a tengeren. Egy erőteljes, két részes történet a bátorságról, migrációról és az élet nehézségeiről a Szoroson.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy műsor promóciója, amely migrációs mentési eseményt mutat be, de nem tartalmaz ellenőrizhető tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:40.680560+00:00"
     }
   },
   "legacy_reviews": {}
