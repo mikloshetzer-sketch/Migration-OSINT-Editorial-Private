@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-02",
+  "reviews": {
+    "group:646": {
+      "hu_text": "Nincs hivatalos adat az Ohio államban élő illegális szomáliaiakról. A népszámlálási adatok szerint a szomáliai lakosság körülbelül 26 000–28 500 fő (főként Franklin megyében), míg a helyi becslések szerint 50 000–70 000 fő, beleértve az USA-ban születetteket is. A nagy többség legálisan érkezett menekültként, és több mint 80%-uk állampolgár.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások népszámlálási és helyi becsléseken alapulnak, de nincs hivatalos, ellenőrzött adat az illegális szomáliaiakról. Ezért az állítás ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:49.799687+00:00"
+    },
+    "group:647": {
+      "hu_text": "Nevetséges, hogy a brit hatóságok annyira hozzászoktak a frissen érkezett menekültek zaklatásához, hogy azt hitték, Franciaországban is megtehetik ugyanezt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és szubjektív megjegyzés, nincs konkrét tényállítás, ezért nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:49.799707+00:00"
+    },
+    "information:23951": {
+      "hu_text": "Nem. A deba2dxr bejegyzéseinek átvizsgálása nem talált semmit a határral kapcsolatos embercsempészetről vagy megerőszakolt nőkről/migránsokról. A fiók új, és tartalma más témákra fókuszál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzések átvizsgálása alapján az állítás igaznak tűnik, nincs bizonyíték a határral kapcsolatos bűncselekményekre ezen a fiókon.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:49.799710+00:00"
+    },
+    "information:23954": {
+      "hu_text": "A határ lezárása és az illegális migránsok kitoloncolása nem kegyetlenség, hanem a probléma korai kezelése. Svédország késlekedett, ezért súlyos bandaháborúk alakultak ki, és most fizetnek a migránsoknak, hogy hazamenjenek. Lengyelország időben lépett, így megőrizte a rendet és a társadalmi bizalmat. Most kell megoldani a problémát, még ha költséges is.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai véleményeket és általános megállapításokat tartalmaz, amelyek részben vitathatók és nem teljesen bizonyítottak, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:49.799712+00:00"
+    },
+    "information:23956": {
+      "hu_text": "Úgy tűnik, hogy a legtöbben, akik részt vesznek, itt született chicano-k, szemben a jellemzően friss migránsokkal. A térségben több generáció óta élnek hispánok, akik nem ugyanazok, mint azok, akik nemrég lépték át a határt.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás demográfiai megfigyeléseken alapul, de nincs hivatalos adat vagy bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:49.799715+00:00"
+    },
+    "information:23965": {
+      "hu_text": "Hála a Munkáspártnak, hogy megállították a hajókat... Három nap alatt majdnem 1200 kis hajós migráns érkezett a háromhetes szünet után a Csatornán keresztül.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét számokat és eseményeket említ, de nincs hivatalos forrás vagy bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:49.799716+00:00"
+    }
+  }
+}
