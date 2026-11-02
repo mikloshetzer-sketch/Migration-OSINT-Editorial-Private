@@ -309,6 +309,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T08:36:43.610096+00:00"
+    },
+    "telegram:1604168769:12436": {
+      "hu_text": "Jekatyerinburgban razziát tartottak a migránsok ellen. A jogvédelmi szervek és önkéntesek ellenőrzése során négy, okmányok nélküli külföldi állampolgárt fogtak el. Jelenleg vizsgálják, hogy jogszerűen léptek-e be az országba, illetve hogy folytattak-e illegális tevékenységet.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:53.212520+00:00"
+    },
+    "telegram:1604168769:12437": {
+      "hu_text": "Kaluga régióban elfogtak egy 13 fős bűnszervezetet, amely hamis dokumentumokkal, köztük tartózkodási engedélyekkel (ВНЖ) látta el illegálisan a külföldieket. A csoportban voltak volt rendőrök is, tevékenységük 2019 és 2024 között zajlott. Bűnügyi eljárás indult, és több mint 48 millió rubel értékű vagyont foglaltak le.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos bűncselekményről számol be, de nincs független megerősítés, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:53.212540+00:00"
+    },
+    "telegram:2240007404:766": {
+      "hu_text": "Teherhordókat és segédmunkásokat keresnek műanyag termékek gyártásához Csehov városában, Moszkva régióban. Fizetés 90 000-110 000 rubel, 12 órás műszakok, ingyenes szállás egy közeli faluban, önellátó étkezés, hivatalos munkaszerződés, és a FÁK állampolgárai számára a patentdíjak fizetését is vállalják.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely nem tartalmaz ellenőrizhető tényeket, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:53.212547+00:00"
+    },
+    "telegram:2240007404:767": {
+      "hu_text": "Raktári összeállító munkatársat keresnek Moszkvában havi 190 000 rubel fizetéssel, ingyenes szállással és étkezéssel. Heti kifizetések, 6/1-es munkarend, tapasztalat nem szükséges, hivatalos munkaszerződés.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, nincs független bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:53.212551+00:00"
+    },
+    "telegram:2240007404:768": {
+      "hu_text": "Új raktár nyílt a Yandex Market számára Moszkva régióban, Dzserzsinszk városában, gombák csomagolására. Fizetés 195 000-220 000 rubel havonta, heti előleg 5000 rubel, ingyenes szállás és étkezés, hivatalos szerződés, férfiakat és nőket egyaránt várnak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, nincs független bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:53.212555+00:00"
+    },
+    "telegram:2240007404:769": {
+      "hu_text": "Moszkvában, a Szlávszkij bulvár metróállomás közelében élelmiszeripari segédmunkásokat keresnek, csak olyanokat, akik már Moszkvában vannak és rendelkeznek érvényes patenttel. Fizetés 6500 rubel műszakonként, hivatalos szerződés, heti három kifizetés, támogatott étkezés és szállás, 2/2 vagy 6/1 műszakok.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, nincs független bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:53.212559+00:00"
     }
   },
   "legacy_reviews": {}
