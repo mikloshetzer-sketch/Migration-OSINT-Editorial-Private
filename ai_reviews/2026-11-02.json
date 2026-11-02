@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T19:55:40.680560+00:00"
+    },
+    "information:24116": {
+      "hu_text": "Farage azt állította, hogy az EU-ból való kilépés megkönnyítené a migránsok visszaküldését, miközben tudta, hogy ez hazugság, és valójában nehezebb visszaküldeni a migránsokat, ráadásul a kis hajókkal történő átkelések száma több száz százalékkal nőtt!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és közösségi médiás megjegyzés, amely nem bizonyított, de releváns a migrációs diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:52.606654+00:00"
+    },
+    "information:24124": {
+      "hu_text": "Gosport nemet mond az illegális migráns hajók partra szállására! - Írd alá a petíciót!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Petícióra való felhívás, amely közösségi médiás állítás, nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:52.606671+00:00"
+    },
+    "information:24143": {
+      "hu_text": "Mindenkinek jár gyors letelepedési engedély (ILR), aki gondozó, de nem gondolom, hogy illegálisan érkezőknek bármikor ILR-t kellene adni, bár menekültek esetében szívem lágy, és úgy vélem, nem vállaljuk a fair részt, pedig kellene. Nem szavaztam a határok megnyitására.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy személyes vélemény a migrációs politikáról, nem bizonyított tény, de releváns a társadalmi diskurzusban.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:52.606674+00:00"
+    },
+    "record:2117339595637420087": {
+      "hu_text": "Fulladásból kétségbeesett próbál beszállni a hajóra\n\nHardelot-Plage, Franciaország | 2026. november 1.\n\nLáttam egy férfit, aki küzdött, hogy a víz felszínén maradjon egy illegális migráns hajóátkelés során.\nSegélyhívást intéztem egy mentőhöz, hogy megmentse.\nDe miután megmentették, a férfi nem a partra akart visszatérni, hanem megpróbálta meggyőzni a mentőt, hogy... (a szöveg megszakad)",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Szemtanúi beszámoló egy illegális migráns hajóátkelésről, amely fontos migrációs esemény lehet, de nincs további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:52.606678+00:00"
+    },
+    "record:2117339711014318153": {
+      "hu_text": "Londonban élők tudják, hogy az újonnan érkezett migránsok kevesebb mint 20%-a beszél középszintű angolt! Sokan, akik évek óta itt élnek, rosszul beszélnek angolul! Semmi sem lesz érvényesítve, így ez elég értelmetlen!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a migránsok nyelvtudásáról és a szabályok érvényesítéséről, amely nem bizonyított, de releváns a társadalmi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:52.606681+00:00"
+    },
+    "record:2117341080844742974": {
+      "hu_text": "Hány illegális migráns érkezett az Egyesült Királyságba a Munkáspárt kormányzása alatt az érkezés módja szerint?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Kérdés egy politikai vitában, nem tényállítás, így nem ellenőrizhető, de releváns a társadalmi diskurzusban.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:55:52.606684+00:00"
     }
   },
   "legacy_reviews": {}
