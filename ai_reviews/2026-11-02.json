@@ -584,6 +584,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T19:56:04.792872+00:00"
+    },
+    "telegram:1261826972:54151": {
+      "hu_text": "Feijóo ígéretet tesz a \"szilárdságra\" Marokkóval szemben, és követeli a Ceutában maradt bevándorlók visszatérését. A PP vezetője szerint még mindig \"15 000 betolakodó\" tartózkodik a városban, és bírálja Sánchezt, amiért nem tárgyalta az ügyet a marokkói hatóságokkal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai nyilatkozat, amely egy állítást tartalmaz a Ceutában tartózkodó bevándorlók számáról, de nincs megerősített adat a pontos létszámról. Ezért az állítás ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:19.675666+00:00"
+    },
+    "telegram:1261826972:54152": {
+      "hu_text": "A Guardia Civil tengeri szolgálata négy bevándorló életét mentette meg hajótörés veszélye miatt. Az ügynökök időben érkeztek, hogy segítsenek egy kis hajó utasain, akik Ceutából indultak, hogy elérjék a félszigeti partokat.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Beszámoló egy mentési eseményről, amely humanitárius jelentőségű, de nincs független megerősítés a történtekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:19.675683+00:00"
+    },
+    "telegram:1261826972:54162": {
+      "hu_text": "A kormány \"amint lehetséges\" bezárja a bevándorlók táborait Ceutában. Elma Saiz miniszter elmondta, hogy dolgoznak a normális állapotok visszaállításán, ami a táborok fokozatos bezárását jelenti.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Kormányzati szándéknyilatkozat a bevándorlók táborainak bezárásáról, amely fontos politikai és jogi kérdés, de nincs hivatalos megerősítés a végrehajtásról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:19.675688+00:00"
+    },
+    "telegram:1261826972:54163": {
+      "hu_text": "A 'Salvemos Ceuta' szervezet azt követeli a spanyol kormánytól, hogy vegye elő a rendeletet a kitoloncolások felgyorsítására. A szervezet kérelmet nyújtott be a Minisztertanácshoz, hogy a jogalkotás révén gyorsítsák fel a Ceutában tartózkodó több ezer bevándorló kitoloncolását.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Civil szervezet politikai követelése, amely fontos a migrációs politika szempontjából, de nincs bizonyíték a rendelet alkalmazására vagy hatékonyságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:19.675692+00:00"
+    },
+    "telegram:1688600455:1175": {
+      "hu_text": "Hol kérjünk segítséget Hollandiában: veszély esetén hívja a 112-t. Nem sürgős esetekben, orvosi segítségért és válsághelyzetekben külön szolgáltatások állnak rendelkezésre. Ha nem beszél hollandul vagy angolul, a 112NL alkalmazásban elérhető egy automatikus fordítással működő chat. Fontos telefonszámok és tanácsok a biztonság érdekében.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hiteles, hivatalos információ a segélyhívó számokról és elérhetőségekről Hollandiában, amely közvetlen segítséget nyújt migránsoknak és másoknak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:19.675696+00:00"
+    },
+    "telegram:2240007404:780": {
+      "hu_text": "Munkalehetőség a Sberlogisztika \"Új Riga\" raktárában (Moszkva régió, Isztra város, Petrovszkoje falu). Férfiakat keresnek 50 év alatt, hivatalos munkavállalással, napi 8:00-20:00 műszakban, heti fizetéssel, szállással és étkezéssel. Követelmények: zárt cipő, logó nélküli ruházat, mellény viselése kötelező.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikához, így migrációs OSINT szempontból irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T19:56:19.675699+00:00"
     }
   },
   "legacy_reviews": {}
