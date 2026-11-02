@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T01:09:07.287087+00:00"
+    },
+    "group:648": {
+      "hu_text": "Jekatyerinburgban razziát tartottak a migránsok ellen. A jogvédelmi szervek és önkéntesek vizsgálatai során négy, okmányok nélküli külföldi állampolgárt fogtak el. Jelenleg vizsgálják, hogy jogszerűen léptek-e be az országba, illetve folytattak-e illegális tevékenységet.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét eseményről szól, amely migrációs biztonsági intézkedést érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:31.423006+00:00"
+    },
+    "information:24028": {
+      "hu_text": "Az Egyesült Királyságban az irániak jelentős arányt képviselnek az illegális csónakos migránsok között, akik a Csatornán kelnek át. A szerző arra hívja fel a figyelmet, hogy a dél-ázsiaiakkal szembeni előítéletekhez hasonló megvetés tapasztalható az európaiak részéről is.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy személyes vélemény és megfigyelés, amely nem tartalmaz ellenőrzött adatokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:31.423026+00:00"
+    },
+    "information:24035": {
+      "hu_text": "Egy javaslat az illegális migránsok Franciaországba való visszaküldésére az Egyesült Királyságban: a Csatorna alatti nagysebességű vonat segítségével biztonságosan, olcsón és legálisan lehetne visszajuttatni őket Párizsba.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy ötlet vagy vélemény, nem tényállítás vagy hivatalos politika.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:31.423033+00:00"
+    },
+    "information:24038": {
+      "hu_text": "Egy javaslat az illegális migránsok Franciaországba való visszaküldésére az Egyesült Királyságban: a Csatorna alatti nagysebességű vonat segítségével biztonságosan, olcsón és legálisan lehetne visszajuttatni őket Párizsba.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy ismétlődő vélemény vagy ötlet, nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:31.423037+00:00"
+    },
+    "information:24039": {
+      "hu_text": "Egy javaslat az illegális migránsok Franciaországba való visszaküldésére az Egyesült Királyságban: a Csatorna alatti nagysebességű vonat segítségével biztonságosan, olcsón és legálisan lehetne visszajuttatni őket Párizsba.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy ismétlődő vélemény vagy ötlet, nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:31.423041+00:00"
+    },
+    "information:24042": {
+      "hu_text": "Gosport nemet mond az illegális migránsok csónakos partraszállására! Írd alá a petíciót!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy közösségi kezdeményezés, amely migrációs társadalmi vitát tükröz, de nincs bizonyíték a hatására vagy eredményére.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T08:36:31.423055+00:00"
     }
   },
   "legacy_reviews": {}
