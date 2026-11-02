@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-02T01:08:49.799716+00:00"
+    },
+    "information:23967": {
+      "hu_text": "Gosport nemet mond az illegális migráns hajók partraszállására! - Írd alá a petíciót! https://t.co/znUaEsPOGr via @UKChange",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy petícióra hív fel, amely az illegális migráció elleni helyi tiltakozást fejezi ki. Nem tartalmaz konkrét tényeket vagy bizonyított adatokat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:59.307035+00:00"
+    },
+    "information:23978": {
+      "hu_text": "@TaraBull @elonmusk Tudomásom szerint az egyik oldal nem támogatja a gyermek nemi csonkítást, az abortuszt pénzért, a nyitott határokat korlátozás nélkül, amely magában foglalja a gyermek- és drogkereskedelmet, valamint kínai és dzsihádista ügynökök bejutását.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és állítások keveréke, amelyek nem bizonyítottak és nem tartalmaznak konkrét adatokat. Nem alkalmas tényként való kezelésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:59.307053+00:00"
+    },
+    "information:23980": {
+      "hu_text": "Nigériából Olaszországba vagy hasonló célországokba irányuló gazdasági migráció jogi útjai szigorúan korlátozottak, magas a vízumelutasítási arány, és kevés a munkavállalási engedély a szakképzett kategóriákon kívül. Ezért sokan az irreguláris tengeri érkezés utáni menedékjogot választják elsődleges útvonalnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs útvonalakról és korlátozásokról szól, amelyek fontosak a migrációs folyamatok megértéséhez, de nincs megerősített forrás vagy adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:59.307056+00:00"
+    },
+    "information:23981": {
+      "hu_text": "Nincs jelentős független \"Scorpion\" vagy \"Scorpio\" kartell. A Los Escorpiones (Grupo Escorpión) a mexikói Gulf Kartel fegyveres frakciója, főként Matamoros, Tamaulipas területén. Eredetileg Tony Tormenta testőrei voltak, és drogkereskedelemmel, migránscsempészettel és erőszakkal foglalkoznak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy bűnszervezettel kapcsolatos információkat tartalmaz, amelyek migrációs kontextusban relevánsak lehetnek, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:59.307058+00:00"
+    },
+    "record:2117050497584554133": {
+      "hu_text": "@I_amMukhtar Lol, annyira hozzászoktak a szegény, frissen érkezett menekültek zaklatásához az Egyesült Királyságban, hogy azt hitték, Franciaországban is megtehetik ezt a hülyeséget. Haha https://t.co/bWAd4ecbq2",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy véleményes megjegyzés, amely nem tartalmaz konkrét tényeket vagy bizonyított adatokat a migrációról vagy határátlépésről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:59.307061+00:00"
+    },
+    "record:2117055234182939089": {
+      "hu_text": "🚨 Több mint 1600 migráns lépte át a Csatornát négy nap alatt, több hajó érkezett Nagy-Britanniába 2026. november 1-jén, vasárnap.\n\nAzóta, hogy Andy Burnham júliusban a 10. Downing Streetre került, több mint 10 000 kis hajós migráns tette meg a 21 mérföldes utat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számokat és időpontokat közöl a migránsok Csatorna-átkeléséről, ami fontos migrációs esemény. Az adatok ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-02T01:08:59.307063+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
