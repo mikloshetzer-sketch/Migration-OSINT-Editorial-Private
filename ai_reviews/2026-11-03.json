@@ -551,6 +551,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:29:31.525606+00:00"
+    },
+    "telegram:1261826972:54199": {
+      "hu_text": "◼️ Videóval ▶ 2021 májusától az invázióig: Marokkó két megsértése és Spanyolország reakciója\n\n➡ Vivas világossá teszi, hogy nincs összehasonlítás a két esemény között, sem pedig a Nemzetkormány reakciójában\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/mayo-2021-invasion-dos-afrentas-marruecos-reaccion-espana/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy migrációs eseményről szóló cikket mutat be, de nincs benne konkrét bizonyíték vagy részletes adat, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:42.872345+00:00"
+    },
+    "telegram:1261826972:54203": {
+      "hu_text": "🚩 Videóval ▶️ A Nemzeti Rendőrség és a katonák átfésülik San Antonio környékét bevándorlók után kutatva\n\n➡ Egy hónappal korábban letartóztatott marokkóit találtak meg, aki nem jelent meg menedékkérelmi meghallgatásán\n\n➡ A környék lakói több panaszt tettek az éjszakai prostitúcióról\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/policia-nacional-militares-peinan-san-antonio-busca-inmigrantes/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés rendőrségi és katonai akcióról számol be migránsok keresése céljából, de nincs független megerősítés vagy hivatalos forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:42.872366+00:00"
+    },
+    "telegram:1261826972:54205": {
+      "hu_text": "◼️ Videóval ▶️ Ceuta minden sarkában valóság: a Nicaragua tér elfoglalt, miközben Los Rosales kezd fellendülni\n\n➡ A Nicaragua tér lakói elvesztették közterületeiket, míg Los Rosales kereskedői ügyfeleket kezdenek visszaszerezni\n\n➡ Hadúban folyamatosak a migránsok menekülései a rendőrség elől\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/ceuta-dos-caras-inmigracion-realidad-distinta-cada-rincon/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs társadalmi helyzetről szól, helyi lakossági és kereskedői tapasztalatokat ismertet, de nincs független bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:42.872369+00:00"
+    },
+    "telegram:1261826972:54210": {
+      "hu_text": "◼️ Videóval ▶ A Zurrón negyed kétségbeesett a verekedések és bűnözői viselkedés miatt az utcákon\n\n➡ Késes verekedések, alkohol, kábítószer és éjszakai zajok 3 óráig példái a helyzetnek\n\n➡ Egy lakó elmondta, hogy éppen tegnap este egy csoport migráns nevetve játszott taszerrel\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/vive-ceuta/barriada-zurron-desesperada-peleas-conductas-delictivas-calles/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés helyi közösségi problémákat ír le migránsokkal kapcsolatban, ami fontos társadalmi kérdés, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:42.872371+00:00"
+    },
+    "telegram:1261826972:54214": {
+      "hu_text": "◼️ 14 818 bevándorló tért vissza Ceutából Marokkóba, közel 1000 az elmúlt héten\n\n➡ A miniszterelnök Saiz emlékeztetett, hogy a kormány dolgozik a Ceutában lévő ideiglenes befogadóközpontok felszámolásán\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/inmigrantes-retornado-ceuta-marruecos/",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számokat és kormányzati intézkedéseket említ a migránsok visszatérésével kapcsolatban, de nincs független forrás vagy hivatalos adat, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:42.872374+00:00"
+    },
+    "telegram:1604168769:12483": {
+      "hu_text": "Ajánlott a moszkvai Szaharovó migrációs központba ebéd után menni, mert ilyenkor jelentősen csökkennek a sorok, és gyorsabb az ügyintézés. A 16:50 körül érkezők szerint alig van ember, és gördülékenyen zajlik a folyamat.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy migrációs központ működésével kapcsolatos tapasztalatot oszt meg, de nincs hivatalos megerősítés vagy adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:42.872376+00:00"
     }
   },
   "legacy_reviews": {}
