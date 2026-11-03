@@ -771,6 +771,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T22:43:07.820051+00:00"
+    },
+    "record:2117739593474679090": {
+      "hu_text": "Gyanús csempészt tartóztattak le, miután 5 migránst vízben hagyott, közölte a Port Mansfield-i rendőrség.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le, de nincs megerősített forrás vagy további bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:18.863659+00:00"
+    },
+    "record:2117741309670699193": {
+      "hu_text": "Őszintén szólva ma láttam egy migránsbusszal (fehér színű) elindulni a választási irodától.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes megfigyelés, amely nem bizonyítja a migránsok tényleges mozgását vagy szándékát, és nincs további megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:18.863677+00:00"
+    },
+    "record:2117741330218791239": {
+      "hu_text": "Nemcsak hogy illegális migránsok rendőri kíséretet kapnak, hanem most már Franciaországból közvetlen hajójárat is van az Egyesült Királyságba, ami teljesen elfogadhatatlan. Milyen megállapodást kötött Tiny Andy az RNLI-vel?",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás egy állítólagos illegális migrációs szolgáltatásról, amely súlyos vádakat tartalmaz, de nincs bizonyíték vagy hivatalos megerősítés, ezért fontos az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:18.863681+00:00"
+    },
+    "record:2117745219571478647": {
+      "hu_text": "Ha Talarico nyer, annak három oka lesz: 1. Paxton rossz jelölt volt – ellene szavaztak, 2. Kék államok migráns szavazói, 3. A texasiak valójában nyitott határt akarnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és spekuláció, amely nem tartalmaz konkrét tényeket vagy bizonyítható állításokat migrációs eseményekről.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:18.863684+00:00"
+    },
+    "record:reddit_1xmvmsm": {
+      "hu_text": "Új mentési művelet 42 migráns számára Kréta déli részén – Frontex drón által észlelve | Görögország\nForrás",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét mentési műveletet említ, de nincs további bizonyíték vagy hivatalos megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:18.863688+00:00"
+    },
+    "record:2117746450830381351": {
+      "hu_text": "@andrewc44104127 @daveatherton A mentőcsónak valójában a francia partokhoz ment, mert a migráns hajó nem érte el a középponti pontot, és ők fogták el! Már nem bírom ezt a rohadt nemzetet.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs esemény korai figyelmeztetésére utal, de nem tartalmaz ellenőrzött tényeket, csak személyes véleményt és állítást. Ezért az állítás ellenőrzése szükséges lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:24.819472+00:00"
     }
   },
   "legacy_reviews": {}
