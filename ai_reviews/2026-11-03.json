@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:29:10.119978+00:00"
+    },
+    "record:2117662372408016997": {
+      "hu_text": "Több mint 1200 migráns érkezett kis hajókon az Egyesült Királyságba csütörtök és szombat között, ezzel véget ért a háromhetes szünet, amelyet rossz időjárás okozott. Az Egyesült Királyság Belügyminisztériumának hivatalos adatai szerint 1193 ember érkezett 16 hajón, amelyek Franciaországból és Belgiumból indultak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hivatalos forrásra hivatkozik, de nincs közvetlen bizonyíték a bemenetben, ezért előzetesen ellenőrizetlennek minősül. Fontos migrációs eseményről van szó, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:21.069631+00:00"
+    },
+    "record:2117664975389171974": {
+      "hu_text": "Egy gyanús afrikai migránst letartóztattak, miután beleütközött a Ramsgate kikötőbe egy hajólopási kísérlet során. A legénység szerint a férfi azt mondta, hogy Franciaországba kell jutnia, hogy családját elérje.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen. Közepes prioritású, mert a migrációs segítés vagy akadályozás témájába tartozik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:21.069651+00:00"
+    },
+    "record:2117667946923221381": {
+      "hu_text": "„Igen, sok a tét. Tolvaj csavargók, romboló árulók és gyilkos „menekültek” több mint 100 000 gyermeket csempésznek át a határon, akiket Biden adminisztrációja elveszít. Ezek a gyerekek veszélybe kerülnek, megsebesülnek, megcsonkítják őket, vagy még rosszabb, elválasztják őket szüleiktől és szeretteiktől.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és állítások keveréke, amelyek erősen elfogultak és nem bizonyítottak. Az állítások súlyosak, de nincs bizonyíték, ezért ellenőrizetlen. Magas prioritású a társadalmi diskurzus és a migrációs narratívák miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:21.069654+00:00"
+    },
+    "record:2117668034919956846": {
+      "hu_text": "„Lezárták a határt és több százezer migránst kitoloncoltak. Ez az ország létkérdése. Ha ezt nem oldják meg, a demokraták amnesztiát és állampolgárságot adnak nekik, és semmi más nem fog megvalósulni.”",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás a migrációs politikáról, amely nem bizonyított tényként, hanem véleményként jelenik meg. Közepes prioritású a politikai diskurzus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:21.069657+00:00"
+    },
+    "record:2117668635678220358": {
+      "hu_text": "„Egy menekültet akkor kell kitoloncolni, amikor az eredeti országa ismét biztonságossá válik. A menekültstátusz ideiglenes, és soha nem szabadna letelepedési útnak lennie. Csak toloncolni kell őket, mert amúgy sem akarjuk őket itt, legtöbbjük teljesen hamis.”",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és állítás a menekültügyi politikáról, amely nem bizonyított tény. Közepes prioritású a migrációs jogi diskurzus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:21.069659+00:00"
+    },
+    "record:mastodon_117552104763854403": {
+      "hu_text": "A Bristol Bike Project azért jött létre, hogy segítse a menedékkérőket és menekülteket megfizethető közlekedési eszközökhöz jutni. 18 évvel később is ezt teszik. Eközben az Egyesült Királyság kormánya meg akarja nehezíteni a menekültek életének újjáépítését. Kérjük, segítsen a Refugee Councilnak kiállni a menekültekért azzal, hogy aláírja petíciójukat.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy civil kezdeményezést mutat be, amely menekültek segítésével foglalkozik, és petícióra buzdít. Nincs szükség további bizonyításra, de ellenőrizetlen, mert közösségi média poszt. Közepes prioritású a migrációs segítés témája miatt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:21.069661+00:00"
     }
   },
   "legacy_reviews": {}
