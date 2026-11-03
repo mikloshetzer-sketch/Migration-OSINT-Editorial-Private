@@ -793,6 +793,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-10-31T01:14:15.483447+00:00"
+    },
+    "information:24196": {
+      "hu_text": "Svájc éves nettó migrációja 1971 és 2025 között: 1975-ben volt a legalacsonyabb nettó migráció (-57 847), az olajválság utáni recesszió idején. Ezt követően a nettó migráció nőtt, 2008-ban elérte a +98 167-et, amit a munkaerő iránti erős kereslet és az EU/EFTA állampolgárok kvótáinak 2007-es eltörlése segített. A történelmi csúcs 2023-ban volt (+139 118), részben az ukrán menekültek miatt, akik 2022-ben érkeztek, de csak 2023-ban kerültek be az állandó lakosok statisztikájába. 2025-re a nettó migráció visszaesett +70 432-re, ami a 2023-as csúcs közel fele. Az adatok az állandó lakosokat, köztük svájci és külföldi állampolgárokat tartalmazzák, és magukban foglalják az állandó lakos státusz változásait is, így nem kizárólag a tényleges érkezéseket és távozásokat mérik.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás statisztikai adatokat tartalmaz, de nincs közvetlen bizonyíték vagy hivatalos forrás bemutatva, ezért ellenőrizetlennek minősül. Az információ releváns a migrációs háttér megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:58:57.225222+00:00"
     }
   },
   "legacy_reviews": {}
