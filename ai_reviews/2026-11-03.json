@@ -485,6 +485,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:29:21.069661+00:00"
+    },
+    "telegram:1261826972:54186": {
+      "hu_text": "A Guardia Civil elfogott egy embercsempészt: a migránsok menekülnek, hogy elkerüljék a kitoloncolást. Két hajót, amelyen összesen 16 marokkói migránst szállítottak, a tengeri szolgálat állított meg az utóbbi órákban, mivel nőtt az illegális határátlépési kísérletek száma a menedékjogi kérelmek elutasítása után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs független megerősítés vagy hivatalos forrás a bemenetben, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:31.525578+00:00"
+    },
+    "telegram:1261826972:54188": {
+      "hu_text": "A Mujeres Caballas szervezet újabb tüntetést szervez Ceutában november 21-ére, hogy megismételjék a szeptember 2-i megmozdulást. Arra buzdítják a szárazföldi spanyol állampolgárokat, hogy utazzanak Ceutába, vegyenek részt a tiltakozáson és töltsenek el egy hétvégét a városban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy szervezett társadalmi eseményről szól, de nincs hivatalos megerősítés vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:31.525596+00:00"
+    },
+    "telegram:1261826972:54190": {
+      "hu_text": "Három hónappal a tömeges bevándorlás után a ceutaiak továbbra is úgy érzik, hogy a város nincs visszatérve a normális állapotába. Sokan úgy vélik, hogy minden \"ugyanolyan\", de bíznak abban, hogy a helyzet javulni fog és visszatér a korábbi állapot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy közvélemény-jellegű megfigyelés, amely nem igényel különösebb ellenőrzést, de nincs hivatalos adat vagy kutatás alátámasztására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:31.525599+00:00"
+    },
+    "telegram:1261826972:54192": {
+      "hu_text": "Vivas, Ceuta városának elnöke azt állítja, hogy Sánchez nem akadályozta meg a Marokkó által szervezett Ceutai inváziót. Ez volt az elnök legnyíltabb és legvilágosabb nyilatkozata három hónappal a tömeges bevándorlás után.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állítás, amely komoly vádakat tartalmaz, de nincs független bizonyíték vagy hivatalos vizsgálati eredmény a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:31.525601+00:00"
+    },
+    "telegram:1261826972:54194": {
+      "hu_text": "Ceuta kormánya bízik abban, hogy Tardón bíró megtalálja az igazságot az invázió ügyében. Juan Vivas, a város elnöke azt mondta, hogy teljes mértékben bíznak a bírósági eljárásban, amely az ügy vizsgálatát szolgálja.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés a jogi eljárásról szól, de nincs további bizonyíték vagy hivatalos eredmény, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:31.525604+00:00"
+    },
+    "telegram:1261826972:54197": {
+      "hu_text": "Ceuta elnöke, Juan Vivas azt állítja, hogy a Sánchez-kormány nyíltan behódolt Marokkónak, amely így több ezer kiskorút blokkol Ceutában. A kormány korábban vállalta, hogy visszaküldi Marokkóba a közel 4000 kiskorút, de most ezt megtagadja, ami azt mutatja, hogy a két ország kapcsolatai nem olyan jók, mint korábban.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állításokat tartalmaz a migrációs politika és két ország közötti kapcsolatok kapcsán, de nincs független megerősítés vagy hivatalos dokumentum a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:31.525606+00:00"
     }
   },
   "legacy_reviews": {}
