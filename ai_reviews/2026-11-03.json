@@ -67,6 +67,18 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T01:59:08.563771+00:00"
+    },
+    "telegram:1229318139:29822": {
+      "hu_text": "Ez egy arab nyelvű hirdetés egy ruházati termékről, konkrétan egy női ingről (شميز كنزى), amely különböző méretekben és színekben kapható, valamint árakat és elérhetőségeket tartalmaz. A poszt nem tartalmaz migrációval kapcsolatos információkat.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem tartalmaz migrációs témájú információt, hanem egy ruházati termék reklámja, ezért nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:12.585432+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
