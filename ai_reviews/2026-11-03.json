@@ -705,6 +705,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T22:42:56.856469+00:00"
+    },
+    "information:24386": {
+      "hu_text": "@Sargon_of_Akkad Angliából posztolni ezt ördögi dolog.\nMikor állítottál meg utoljára egy migránshajót a partra szállástól?\nÓ, igen, soha.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és kritika, nem tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:07.820018+00:00"
+    },
+    "information:24392": {
+      "hu_text": "A Baleári-szigetekre érkező hajók száma folyamatos: kevesebb mint három nap alatt több mint 173 migráns érkezett Formenterára, Spanyolországban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét migrációs eseményről szól, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:07.820040+00:00"
+    },
+    "information:24396": {
+      "hu_text": "@sylvafran6 @ICEgov Igen. Az NIS továbbra is működik. Legutóbbi intézkedések közé tartozik szabálytalan migránsok kitoloncolása (csak 2026 közepén több tucat, korábbi években több száz), egy lagosi embercsempész-hálózat felszámolása és 12 külföldi letartóztatása, valamint feltételezett ISWAP-parancsnokok elfogása repülőtereken NIMC-hez kapcsolódó adatbázisok segítségével.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részletes állításokat tartalmaz a határbiztonsági műveletekről, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:07.820043+00:00"
+    },
+    "information:24413": {
+      "hu_text": "Az ICE több tucat afgán kitoloncolását tervezi, akik haláltól félnek. Ali, egy 32 éves férfi, aki az Egyesült Államokban fogva tartott, attól tart, hogy a visszatérés után a tálibok megölik, mivel korábban az amerikai hadseregnek dolgozott rendőrként Kabulban. A tálibok dokumentáltan üldözik azokat, akik az USA-t segítették. Több demokrata politikus is tiltakozik a deportálás ellen, és az USA erkölcsi kötelességének tartja az afgánok védelmét.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius kérdés, részletes beszámolóval, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:07.820046+00:00"
+    },
+    "information:24414": {
+      "hu_text": "Gondolatok egy történet háttértörténetéről: A szerző egy kozmikus hátterű történetet szeretne írni, amelyben egy másik dimenzióból származó isten, a Sambarlof, és annak egyik levált karja, Angnoehep, aki egy hatalmas kígyó formájában párhuzamos világokat hordoz, szerepelnek. A történetben az emberiség a Fekete Karokból származik, amelyeknek saját tudatuk van, és konfliktusba kerülnek egymással.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy fikciós történet háttérleírása, nem migrációs információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:07.820049+00:00"
+    },
+    "record:2117738673546338655": {
+      "hu_text": "🚨 Shabana Mahmood megkérdőjelezi Andy Burnham állításait, miszerint a Brexit okolható a kis hajós migrációs válságért.\nA belügyminiszter visszautasítja azt a feltételezést, hogy az EU-ból való kilépés felelős az Egyesült Királyság Csatornán át történő migrációjáért.\nMahmood asszony érvei szerint...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vita a migráció okairól, de nincs konkrét tényállítás vagy bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:07.820051+00:00"
     }
   },
   "legacy_reviews": {}
