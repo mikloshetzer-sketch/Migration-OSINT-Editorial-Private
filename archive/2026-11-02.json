@@ -1094,6 +1094,153 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1307,
+      "source": "X",
+      "source_post_id": "2117339595637420087",
+      "author": "thenowherephoto",
+      "language": "en",
+      "published_at": "2026-11-02T19:34:32Z",
+      "first_detected_at": "2026-11-02T19:53:56Z",
+      "last_detected_at": "2026-11-02T19:53:56Z",
+      "detection_count": 1,
+      "text": "FROM DROWNING TO DESPERATE TO BOARD\n\nHardelot-Plage, France | 1 November 2026\n\nI watched a man struggling to stay afloat during an illegal migrant boat crossing.\n\nI called a lifeguard over to save him.\n\nBut once rescued, instead of returning to shore, he tried to persuade the https://t.co/gzS9KLPI2m",
+      "text_excerpt": "FROM DROWNING TO DESPERATE TO BOARD\n\nHardelot-Plage, France | 1 November 2026\n\nI watched a man struggling to stay afloat during an illegal migrant boat crossing.\n\nI called a lifeguard over to save him.\n\nBut once rescued, instead of returning to shore, he tried to persuade the https://t.co/gzS9KLPI2m",
+      "url": "https://x.com/thenowherephoto/status/2117339595637420087",
+      "source_url": "https://x.com/thenowherephoto/status/2117339595637420087",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant boat crossing"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant boat crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2117339595637420087"
+      ],
+      "related_authors": [
+        "thenowherephoto"
+      ],
+      "related_urls": [
+        "https://x.com/thenowherephoto/status/2117339595637420087"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1306,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xm051f",
+      "author": "J123805052021",
+      "language": null,
+      "published_at": "2026-11-02T15:25:22Z",
+      "first_detected_at": "2026-11-02T19:53:27Z",
+      "last_detected_at": "2026-11-03T01:55:52Z",
+      "detection_count": 2,
+      "text": "More than 1,600 migrants cross Channel in four days as multiple boats reach Britain today",
+      "text_excerpt": "More than 1,600 migrants cross Channel in four days as multiple boats reach Britain today",
+      "url": "https://www.reddit.com/r/TheUnitedKingdomNews/comments/1xm051f/more_than_1600_migrants_cross_channel_in_four/",
+      "source_url": "https://www.reddit.com/r/TheUnitedKingdomNews/comments/1xm051f/more_than_1600_migrants_cross_channel_in_four/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants cross Channel in four days as multiple boats reach"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants cross Channel in four days as multiple boats reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xm051f"
+      ],
+      "related_authors": [
+        "J123805052021"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/TheUnitedKingdomNews/comments/1xm051f/more_than_1600_migrants_cross_channel_in_four/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -1966,7 +2113,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-02T19:55:13.250163+00:00",
+  "last_archived_at": "2026-11-03T01:58:34.656475+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
