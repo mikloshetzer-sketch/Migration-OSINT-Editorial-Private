@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "reviews": {
+    "group:651": {
+      "hu_text": "Figyelmeztetés, nagyon hosszú bejegyzés. Építő jellegű visszajelzést keresek. Nem tudom megosztani a fájlt, ezért csak bemásoltam. Van benne néhány elírás, de csak visszajelzést szeretnék, és nem tudom, hol/kinek kérdezzek. Egy rajongói általános rekonstrukció az E-nap eseményéről. A szöveg egy színdarab első felvonásának első jelenetét írja le, ahol katonai tisztek és hivatalnokok egy megemlékezésen vesznek részt, és párbeszédek zajlanak a háború utáni békéről és a harcok emlékeiről.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy rajongói fikció vagy színdarab részlet, nem tartalmaz migrációval kapcsolatos valós információt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:08.563740+00:00"
+    },
+    "information:24166": {
+      "hu_text": "Etiópiában található ellátó központok menedéket, védelmet és kiindulópontot biztosítanak harci drónok számára, amelyek menekülttáborokat bombáznak a szudáni határ mentén.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos biztonsági és humanitárius következményekkel járhat, de nincs megerősített forrás vagy bizonyíték a drónok használatára vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:08.563758+00:00"
+    },
+    "information:24173": {
+      "hu_text": "Egy hosszú, negatív véleményösszegzés Asmongold nevű személyről, amelyben szélsőséges, erőszakos és gyűlöletkeltő kijelentéseket tulajdonítanak neki, többek között gyilkosságok dicsőítése, politikai ellenfelek erőszakos elnyomása, migránsokkal és nőkkel szembeni ellenséges megnyilvánulások.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményeket és állításokat tartalmaz, amelyek nem ellenőrzöttek, és részben politikai vagy kulturális viták részei lehetnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:08.563762+00:00"
+    },
+    "information:24193": {
+      "hu_text": "Shabana Mahmood eltörölte a javasolt 15 éves tartózkodási időt (ILR) a 25 000 font feletti keresetű, 2025 májusa előtt érkezett migráns ápolók számára, így számukra megmarad az 5 éves út. Más alacsony jövedelmű munkavállalóknak 10 év várakozási idővel kell számolniuk.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés politikai és jogi változásról szól a migráns munkavállalók tartózkodási idejével kapcsolatban, de nincs hivatalos forrás vagy megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:08.563766+00:00"
+    },
+    "record:2117434563714543937": {
+      "hu_text": "A migránsok nem tették naggyá Spanyolországot. Spanyolország már nagyszerű volt, amikor a migránsok megérkeztek. A migránsok csak Spanyolország hanyatlásának irányába állították az országot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely migrációval kapcsolatos társadalmi vitát tükröz, de nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:08.563768+00:00"
+    },
+    "record:reddit_1xl59fe": {
+      "hu_text": "Figyelmeztetés, nagyon hosszú bejegyzés. Építő jellegű visszajelzést keresek. Nem tudom megosztani a fájlt, ezért csak bemásoltam. Van benne néhány elírás, de csak visszajelzést szeretnék, és nem tudom, hol/kinek kérdezzek. Egy rajongói általános rekonstrukció az E-nap eseményéről. A szöveg egy színdarab első felvonásának első jelenetét írja le, ahol katonai tisztek és hivatalnokok egy megemlékezésen vesznek részt, és párbeszédek zajlanak a háború utáni békéről és a harcok emlékeiről.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy rajongói fikció vagy színdarab részlet, nem tartalmaz migrációval kapcsolatos valós információt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T01:59:08.563771+00:00"
+    }
+  }
+}
