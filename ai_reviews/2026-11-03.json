@@ -353,6 +353,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:29:00.547630+00:00"
+    },
+    "information:24330": {
+      "hu_text": "Az embercsempészek folyamatosan találnak új útvonalakat. Az útvonal Kelet-Líbiából Krétára egyre fontosabbá válik: \"Csempészet, hatalom, profit: szabálytalan migráció Kelet-Líbiából\".",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy migrációs útvonal fontosságáról szól, de nincs közvetlen bizonyíték a megerősítésére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:10.119947+00:00"
+    },
+    "information:24339": {
+      "hu_text": "Több mint 10 ezer illegális hajós migráns érkezett, mióta Burnham hatalomra került: jelentés.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Számadatot közöl illegális migránsokról egy adott időszakban, ami fontos migrációs információ, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:10.119968+00:00"
+    },
+    "information:24341": {
+      "hu_text": "Baloldali globalisták tönkreteszik saját országaikat. Már nem biztonságos nőknek és gyerekeknek. Több mint 10 ezer illegális hajós migráns érkezett Burnham hatalomra kerülése óta: jelentés. Menj el szavazni a konzervatívokra. Ez a baloldal terve Amerikára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és migrációs állítás keveréke, az adat nincs megerősítve, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:10.119971+00:00"
+    },
+    "information:24342": {
+      "hu_text": "Hogyan segítené az embercsempészeket, ha élelmet, ruhát, sátrakat és jogi segítséget nyújtanának a migránsoknak a calais-i táborokban és az Egyesült Királyságba érkezés után?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Közösségi médiás véleménykifejtés, amely kérdést vet fel, de nem tartalmaz tényállítást vagy bizonyított információt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:10.119973+00:00"
+    },
+    "record:1980940690:16582": {
+      "hu_text": "Egy üzbég migráns csalással majdnem 7 millió rubelt lopott el a Rosztov megyei költségvetésből. Iszlóm Mamadaliev Üzbegisztánból érkezett Oroszországba, ahol a diaszpóra támogatásával jelentős vagyont halmozott fel, többek között állatállományt vásárolt helyi kormányzati támogatásokból hamis adatok megadásával. A nyomozás szerint 2024. június 18. és 2025. január 9. között csalással 6 853 666 rubelt tulajdonított el. Az ügyészség a cselekményt különösen nagy értékű csalásként minősítette, ami akár tíz év börtönt is vonhat maga után.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részletes bűnügyi esetleírás, de nincs független forrás vagy hivatalos megerősítés a bemenetben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:10.119976+00:00"
+    },
+    "record:2117658588592398541": {
+      "hu_text": "Az illető szerint az illegális migráció a modernkori rabszolga-kereskedelem megfelelője, amely embercsempészethez és ezrek rabszolgasorba taszításához vezet. Emellett vitatja, hogy bárki tudná, hogyan fognak szavazni a fiatalabb generációk, és nevetségesnek tartja az ellenkező állítást.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és véleménycikk, nem tényállítás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:10.119978+00:00"
     }
   },
   "legacy_reviews": {}
