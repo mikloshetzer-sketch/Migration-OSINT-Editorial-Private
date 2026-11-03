@@ -639,6 +639,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:29:49.093110+00:00"
+    },
+    "group:656": {
+      "hu_text": "Gyanús embercsempészt tartóztattak le, miután öt migránst vízbe hagyott a Port Mansfield-i rendőrség szerint.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy konkrét eseményről számol be embercsempészettel kapcsolatban, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:42:56.856431+00:00"
+    },
+    "information:24350": {
+      "hu_text": "A palesztinok hazamenni szeretnének. Izrael azonban azt akarta, hogy az ENSZ menekülttáborokban tartsa őket az UNRWA alatt, és Izrael még Folke Bernadottét is megölte ennek érdekében. Az alacsony intelligenciájúak még Izrael határait sem tudják meghatározni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és történelmi állítások keverednek, de nincs megerősített bizonyíték a konkrét állításokra, különösen a Bernadotte-gyilkosságra vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:42:56.856454+00:00"
+    },
+    "information:24356": {
+      "hu_text": "Egy személyes tapasztalatokat megosztó hosszabb bejegyzés az Egyesült Királyságban tervezett bevándorlási szabályváltozásokról, amelyben a szerző kifejezi bizonytalanságát és frusztrációját a jövőjével kapcsolatban, valamint bemutatja tanulmányi és életútját.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményeket és tapasztalatokat tartalmaz a bevándorlási szabályokról, de nem tartalmaz ellenőrizhető tényállításokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:42:56.856459+00:00"
+    },
+    "information:24374": {
+      "hu_text": "India évtizedek óta illegális bevándorlással néz szembe főként Bangladesből a 4096 km-es határán. A kormány becslése szerint akár 20 millió illegális bangladesi migráns is lehet, bár a pontos számok ismeretlenek, mivel az átlépések titkosak, és a népszámlálási adatok jóval alacsonyabb számokat mutatnak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános információkat tartalmaz a migrációs helyzetről, de nincs pontos forrás vagy hivatalos adat a számokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:42:56.856463+00:00"
+    },
+    "information:24383": {
+      "hu_text": "Valaki azt állítja, hogy nem fogadjuk el a legálisan érkező és társadalomhoz hozzájáruló migránsokat? Természetesen ők üdvözöltek, de a hajón érkező, illegális, dokumentum nélküli migránsokat nem akarjuk. Mit értesz az alatt, hogy 'ezek az emberek'?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy társadalmi vita része, véleményeket tartalmaz, nincs konkrét tényállítás vagy bizonyítható adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:42:56.856466+00:00"
+    },
+    "information:24385": {
+      "hu_text": "Felhívás arra, hogy ne maradjunk menekülttáborokban és ne szavazzunk ugyanarra a politikára, inkább a konzervatív (vörös) irányt válasszuk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, személyes álláspont, nincs ellenőrizhető tény vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:42:56.856469+00:00"
     }
   },
   "legacy_reviews": {}
