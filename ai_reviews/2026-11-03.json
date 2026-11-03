@@ -78,6 +78,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T01:59:12.585432+00:00"
+    },
+    "group:652": {
+      "hu_text": "🚨🇬🇧 Csak négy nap alatt közel 1700 illegális migráns érkezett az Egyesült Királyságba. A Csatorna-átkelések ismét jelentős növekedést mutattak, tegnap 7 gumicsónakon 477 illegális migráns érkezett. Az érkezések száma október 29-én 263 volt, október 30-án pedig egy hatalmas, 671-es csúcsot ért el, majd újabb 259 érkezett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat közöl illegális migránsok érkezéséről, de nincs megbízható forrás vagy hivatalos adat, ezért ellenőrizetlen. A téma jelentős hatással van a határbiztonságra, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T08:48:26.821940+00:00"
+    },
+    "information:24229": {
+      "hu_text": "Egy kis hajó, amelyen 20, eredetileg Jemenből származó személy utazott, akik hazájukban zajló konfliktusok és biztonsági helyzet miatt menekültek el, megérkezett Berbera városába a Szomáliföld Újrakezdési és Humanitárius Ügyek Minisztériuma szerint.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ egy konkrét migrációs eseményt ír le hivatalos minisztériumi forrásra hivatkozva, de a forrás nem ellenőrzött, ezért ellenőrizetlen státuszú. Közepes prioritású, mert regionális migrációs eseményről van szó.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T08:48:26.821959+00:00"
+    },
+    "information:24233": {
+      "hu_text": "@Nigel_Farage Élvezte-e valaha Nagy-Britannia az ön, Mr. Farage javát? Melyik dédapja volt az a német migráns, aki hajón érkezett?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és személyeskedő kérdés, amely nem tartalmaz ellenőrizhető tényállítást, így ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T08:48:26.821965+00:00"
+    },
+    "information:24239": {
+      "hu_text": "Azoknak a menekülteknek, akik hajón érkeznek, a várakozási idő meghosszabbítása sértheti az 1999-es Bevándorlási és Menekültügyi Törvény 31(1) szakaszát, mivel aránytalanul bünteti őket az ország engedély nélküli belépéséért, még akkor is, ha nemzetközi védelemért folyamodnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás jogi értelmezést tartalmaz a bevándorlási törvényről, de nem hivatalos jogi forrás vagy bírósági döntés, ezért ellenőrizetlen. Közepes prioritású, mert jogi és politikai kérdést érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T08:48:26.821969+00:00"
+    },
+    "record:2117528182236512684": {
+      "hu_text": "🚨🇬🇧 Csak négy nap alatt közel 1700 illegális migráns érkezett az Egyesült Királyságba. A Csatorna-átkelések ismét jelentős növekedést mutattak, tegnap 7 gumicsónakon 477 illegális migráns érkezett. Az érkezések száma október 29-én 263 volt, október 30-án pedig egy hatalmas, 671-es csúcsot ért el, majd újabb 259 érkezett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat közöl illegális migránsok érkezéséről, de nincs megbízható forrás vagy hivatalos adat, ezért ellenőrizetlen. A téma jelentős hatással van a határbiztonságra, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T08:48:26.821974+00:00"
+    },
+    "record:reddit_1xm2dzs": {
+      "hu_text": "Migráns letelepedési idővonalak – röviden: Mahmood bejelentette, hogy a kormány eltörli azt a tervet, amely szerint a már az Egyesült Királyságban lévő migráns ápolóknak 15 évet kellene várniuk a letelepedésre. Az új javaslat szerint: 3 év a magas jövedelmű és kiemelkedő képességű migránsoknak; 5 év a magasabb adót fizetőknek és szakembereknek, valamint a menekülteknek biztonságos és legális úton; 10 év az általános migránsoknak és azoknak a menekülteknek, akik munkába vagy tanulásba állnak; 20 év azoknak, akik bizonyos juttatásokat igényelnek vagy vízumot sértenek, illetve a kis hajón érkezett menekülteknek, akik munkába vagy tanulásba állnak; 30 év azoknak a menekülteknek, akik kis hajón érkeztek és nem állnak munkába vagy tanulásba.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy migrációs letelepedési politikai javaslatot ismertet, de nincs hivatalos kormányzati forrás vagy jogszabályi hivatkozás, ezért ellenőrizetlen. Közepes prioritású, mert a migrációs politika fontos aspektusát érinti.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T08:48:26.821977+00:00"
     }
   },
   "legacy_reviews": {}
