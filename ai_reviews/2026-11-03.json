@@ -617,6 +617,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:29:42.872376+00:00"
+    },
+    "telegram:1980940690:16582": {
+      "hu_text": "Egy üzbég migráns csalással majdnem 7 millió rubelt lopott el a Rosztovi régió költségvetéséből. Iszlóm Mamadalijev Oroszországba érkezett Üzbegisztánból, átszállította egész faluját és szociális támogatásra állította őket. Diaszpóra támogatásával jelentős állatállományt szerzett, amelyet helyi kormányzati támogatásokból vásárolt, hamis adatok megadásával. A nyomozás szerint 2024. június 18. és 2025. január 9. között csalással 6 853 666 rubelt tulajdonított el. Csalás miatt akár tíz év börtönbüntetés is kiszabható.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét bűncselekményről szól migráns személy által, de nincs megerősített forrás vagy hivatalos bizonyíték a csalásra vonatkozóan, ezért ellenőrizetlennek minősül. Fontos a társadalmi diskurzus szempontjából, de nem bizonyított tény.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:49.093086+00:00"
+    },
+    "telegram:2240007404:799": {
+      "hu_text": "Konténerterminál diszpécser munkakörbe toboroznak a Moszkva környéki Csehov és Gzsel településeken. A fizetés 80 000 rubeltől kezdődik, plusz bónuszok, munkaszerződéssel, dokumentációs segítséggel, évente egyszer hazautazás támogatásával. Orosz vagy FÁK állampolgárok jelentkezését várják.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés migránsok számára, amely nem tartalmaz ellenőrizhetetlen vagy vitatható állítást, de nincs hivatalos forrás vagy megerősítés. Alacsony prioritású, mivel nem közvetlenül migrációs esemény vagy jogi kérdés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:49.093110+00:00"
     }
   },
   "legacy_reviews": {}
