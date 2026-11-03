@@ -67,6 +67,72 @@
       "text": "🚨🇬🇧 Nearly 1,700 illegal migrant arrived in the UK in just four days\n\nChannel crossings saw another heavy surge as 477 illegal migrants arrived on 7 dinghies yesterday.\n\nThe relentless spike saw 263 arrivals on October 29, a massive peak of 671 on October 30, and another 259 on https://t.co/DMC71kFY0f",
       "url": "https://x.com/BigCkChuks/status/2117528182236512684",
       "source_url": "https://x.com/BigCkChuks/status/2117528182236512684"
+    },
+    {
+      "id": 817,
+      "event_id": 817,
+      "source": "X",
+      "source_post_id": "2117668635678220358",
+      "author": "RestorerPatriot",
+      "published_at": "2026-11-03T17:22:01Z",
+      "collected_at": "2026-11-03T17:26:49Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@NadiaWhittomeMP A refugee is supposed to be deported the exact moment their country of origin becomes safe again. Refugee status is temporary. It should not be a route to settlement ever. Just deport. We don't want them here anyway, most of them are completely fraudulent.",
+      "url": "https://x.com/RestorerPatriot/status/2117668635678220358",
+      "source_url": "https://x.com/RestorerPatriot/status/2117668635678220358"
+    },
+    {
+      "id": 818,
+      "event_id": 818,
+      "source": "X",
+      "source_post_id": "2117668034919956846",
+      "author": "Scotts_Irish1",
+      "published_at": "2026-11-03T17:19:38Z",
+      "collected_at": "2026-11-03T17:26:49Z",
+      "event_type": "BORDER_MEASURE",
+      "signal_type": "BORDER_MEASURE",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@UnpopularLib @JulieBorowski They closed the border and have deported hundreds of thousands of migrants. That is the existential issue facing the country. If that’s not fixed democrats will grant them amnesty and citizenship and nothing else will ever be accomplished",
+      "url": "https://x.com/Scotts_Irish1/status/2117668034919956846",
+      "source_url": "https://x.com/Scotts_Irish1/status/2117668034919956846"
+    },
+    {
+      "id": 819,
+      "event_id": 819,
+      "source": "X",
+      "source_post_id": "2117664975389171974",
+      "author": "NoIslamNoMos",
+      "published_at": "2026-11-03T17:07:29Z",
+      "collected_at": "2026-11-03T17:27:19Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Suspected African migrant arrested after smashing into Ramsgate Harbour during attempt to steal boat... The crew said a man had told them he needed to get to France to get his family: https://t.co/Ed1Ipiogzy",
+      "url": "https://x.com/NoIslamNoMos/status/2117664975389171974",
+      "source_url": "https://x.com/NoIslamNoMos/status/2117664975389171974"
     }
   ],
   "event_groups": [
@@ -127,6 +193,93 @@
       "average_confidence": 0.55,
       "created_at": "2026-11-03T08:47:15Z",
       "updated_at": "2026-11-03T08:47:15Z"
+    },
+    {
+      "id": 653,
+      "group_id": 653,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@NadiaWhittomeMP A refugee is supposed to be deported the exact moment their country of origin becomes safe again. Refugee status is temporary. It should not be a route to settlement ever. Just deport. We don't want them here anyway, most of them are completely fraudulent.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-03T17:22:01Z",
+      "last_seen": "2026-11-03T17:22:01Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-03T17:26:49Z",
+      "updated_at": "2026-11-03T17:26:49Z"
+    },
+    {
+      "id": 654,
+      "group_id": 654,
+      "event_type": "BORDER_MEASURE",
+      "dominant_event_type": "BORDER_MEASURE",
+      "title": "BORDER_MEASURE",
+      "representative_text": "@UnpopularLib @JulieBorowski They closed the border and have deported hundreds of thousands of migrants. That is the existential issue facing the country. If that’s not fixed democrats will grant them amnesty and citizenship and nothing else will ever be accomplished",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-03T17:19:38Z",
+      "last_seen": "2026-11-03T17:19:38Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-03T17:26:49Z",
+      "updated_at": "2026-11-03T17:26:49Z"
+    },
+    {
+      "id": 655,
+      "group_id": 655,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "Suspected African migrant arrested after smashing into Ramsgate Harbour during attempt to steal boat... The crew said a man had told them he needed to get to France to get his family: https://t.co/Ed1Ipiogzy",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-03T17:07:29Z",
+      "last_seen": "2026-11-03T17:07:29Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-03T17:27:19Z",
+      "updated_at": "2026-11-03T17:27:19Z"
     }
   ],
   "information_signals": [
@@ -352,9 +505,498 @@
       "first_collected_at": "2026-11-03T08:46:43Z",
       "last_collected_at": "2026-11-03T08:46:43Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24314",
+      "timestamp": "2026-11-03T17:24:24Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117669234503238057",
+      "author": "terrierfied",
+      "url": "https://x.com/terrierfied/status/2117669234503238057",
+      "source_url": "https://x.com/terrierfied/status/2117669234503238057",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@DPJHodges So what caused her to allow settlement for illegal migrants arriving by boat after 30 years, gratis? Absolute nonsense",
+      "text_excerpt": "@DPJHodges So what caused her to allow settlement for illegal migrants arriving by boat after 30 years, gratis? Absolute nonsense",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:27:18Z",
+      "last_collected_at": "2026-11-03T17:27:18Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24316",
+      "timestamp": "2026-11-03T17:18:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117667714688758140",
+      "author": "brancher_linda",
+      "url": "https://x.com/brancher_linda/status/2117667714688758140",
+      "source_url": "https://x.com/brancher_linda/status/2117667714688758140",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/ieQhx3P07A",
+      "text_excerpt": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/ieQhx3P07A",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:27:18Z",
+      "last_collected_at": "2026-11-03T17:27:18Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24328",
+      "timestamp": "2026-11-03T17:15:18Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117666945365676125",
+      "author": "Maddie027031343",
+      "url": "https://x.com/Maddie027031343/status/2117666945365676125",
+      "source_url": "https://x.com/Maddie027031343/status/2117666945365676125",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@Brcremer You votted for the rape and abuse of women and children as they cross the border illegally. You voted for sex trafficking. You voted for convincing children that God mistakenly made them the wrong sex. You voted to bring migrants to America so that big corporations can pay them a",
+      "text_excerpt": "@Brcremer You votted for the rape and abuse of women and children as they cross the border illegally. You voted for sex trafficking. You voted for convincing children that God mistakenly made them the wrong sex. You voted to bring migrants to America so that big corporations can pay them a",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:27:47Z",
+      "last_collected_at": "2026-11-03T17:27:47Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24320",
+      "timestamp": "2026-11-03T17:11:32Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117665994713755823",
+      "author": "Welshchris1986",
+      "url": "https://x.com/Welshchris1986/status/2117665994713755823",
+      "source_url": "https://x.com/Welshchris1986/status/2117665994713755823",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@ukhomeoffice People who enter illegally, including by small boat, face a wait of up to 30 years to settle? \n\nWhy aren't they being immediately deported???\n\nMigrants who claim benefits face a 20-year wait for settlement? \n\nWhy are they being allowed to claim benefits???",
+      "text_excerpt": "@ukhomeoffice People who enter illegally, including by small boat, face a wait of up to 30 years to settle? \n\nWhy aren't they being immediately deported???\n\nMigrants who claim benefits face a 20-year wait for settlement? \n\nWhy are they being allowed to claim benefits???",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:27:18Z",
+      "last_collected_at": "2026-11-03T17:27:18Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24330",
+      "timestamp": "2026-11-03T17:01:31Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117663475845742976",
+      "author": "manuelbewarder",
+      "url": "https://x.com/manuelbewarder/status/2117663475845742976",
+      "source_url": "https://x.com/manuelbewarder/status/2117663475845742976",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Schleuser suchen und finden immer wieder Wege. Die Route von Ost-Libyen nach Kreta wird noch wichtiger: \"Smuggling, power, profit: Irregular migration out of eastern Libya\" https://t.co/GuMXtZKlaA",
+      "text_excerpt": "Schleuser suchen und finden immer wieder Wege. Die Route von Ost-Libyen nach Kreta wird noch wichtiger: \"Smuggling, power, profit: Irregular migration out of eastern Libya\" https://t.co/GuMXtZKlaA",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:27:47Z",
+      "last_collected_at": "2026-11-03T17:27:47Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24339",
+      "timestamp": "2026-11-03T16:45:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117659533866877097",
+      "author": "DebraDosch",
+      "url": "https://x.com/DebraDosch/status/2117659533866877097",
+      "source_url": "https://x.com/DebraDosch/status/2117659533866877097",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.7,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Over 10K Illegal Boat Migrants Arrived Since Burnham Took Power: Report https://t.co/V9bT8KLQs7 via @BreitbartNews",
+      "text_excerpt": "Over 10K Illegal Boat Migrants Arrived Since Burnham Took Power: Report https://t.co/V9bT8KLQs7 via @BreitbartNews",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:28:16Z",
+      "last_collected_at": "2026-11-03T17:28:16Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24341",
+      "timestamp": "2026-11-03T16:42:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117658777197658215",
+      "author": "suzost",
+      "url": "https://x.com/suzost/status/2117658777197658215",
+      "source_url": "https://x.com/suzost/status/2117658777197658215",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.7,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Leftest GLOBALIST destroying their own Countries. It's not safe for women or children anymore. Over 10K Illegal Boat Migrants Arrived Since Burnham Took Power: Report \n\nGET OUT AND VOTE RED. 🇺🇸 This is what left has planned to do to America.  https://t.co/q3wg4WUIzV",
+      "text_excerpt": "Leftest GLOBALIST destroying their own Countries. It's not safe for women or children anymore. Over 10K Illegal Boat Migrants Arrived Since Burnham Took Power: Report \n\nGET OUT AND VOTE RED. 🇺🇸 This is what left has planned to do to America.  https://t.co/q3wg4WUIzV",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:28:16Z",
+      "last_collected_at": "2026-11-03T17:28:16Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24342",
+      "timestamp": "2026-11-03T16:39:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117657825639887015",
+      "author": "ianatmars",
+      "url": "https://x.com/ianatmars/status/2117657825639887015",
+      "source_url": "https://x.com/ianatmars/status/2117657825639887015",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "trafficking",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@grok @andrewc44104127 How would providing food, clothing, tents and legal aid to migrants in Calais camps and after UK arrival, not assist the human traffickers?",
+      "text_excerpt": "@grok @andrewc44104127 How would providing food, clothing, tents and legal aid to migrants in Calais camps and after UK arrival, not assist the human traffickers?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:28:16Z",
+      "last_collected_at": "2026-11-03T17:28:16Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24302",
+      "timestamp": "2026-11-03T15:15:07Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xmvllf",
+      "author": "Ok_Signal4754",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmvllf/shocking_moment_migrant_leaves_child_in_the_sea/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmvllf/shocking_moment_migrant_leaves_child_in_the_sea/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "Shocking moment migrant leaves child in the sea during horror Channel crossing | United Kingdom\nSource",
+      "text_excerpt": "Shocking moment migrant leaves child in the sea during horror Channel crossing | United Kingdom\nSource",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:26:49Z",
+      "last_collected_at": "2026-11-03T17:26:49Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24303",
+      "timestamp": "2026-11-03T15:13:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xmvjpw",
+      "author": "Ok_Signal4754",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmvjpw/more_migrant_arrivals_by_sea_mostly_from_turkey/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmvjpw/more_migrant_arrivals_by_sea_mostly_from_turkey/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "More migrant arrivals by sea, mostly from Turkey. Out of more than 28,000 migrants to have reached Greece so far this year, well over 15,000 took the route from north Africa to Crete | Greece\nSource",
+      "text_excerpt": "More migrant arrivals by sea, mostly from Turkey. Out of more than 28,000 migrants to have reached Greece so far this year, well over 15,000 took the route from north Africa to Crete | Greece\nSource",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:26:49Z",
+      "last_collected_at": "2026-11-03T17:26:49Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24304",
+      "timestamp": "2026-11-03T15:11:55Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xmviog",
+      "author": "Ok_Signal4754",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmviog/uk_more_than_1000_migrants_arrive_on_small_boats/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmviog/uk_more_than_1000_migrants_arrive_on_small_boats/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "UK: More than 1,000 migrants arrive on small boats, as anti-migrant protests increase | United Kingdom\nSource",
+      "text_excerpt": "UK: More than 1,000 migrants arrive on small boats, as anti-migrant protests increase | United Kingdom\nSource",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:26:50Z",
+      "last_collected_at": "2026-11-03T17:26:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24305",
+      "timestamp": "2026-11-03T15:06:50Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xmve1r",
+      "author": "Ok_Signal4754",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmve1r/home_office_investigating_third_undetected_small/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xmve1r/home_office_investigating_third_undetected_small/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Home Office investigating third undetected small boat landing as migrant crisis rages on | United Kingdom\nSource",
+      "text_excerpt": "Home Office investigating third undetected small boat landing as migrant crisis rages on | United Kingdom\nSource",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:26:50Z",
+      "last_collected_at": "2026-11-03T17:26:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24306",
+      "timestamp": "2026-11-03T13:56:10Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xmtkk9",
+      "author": "Aeorix1",
+      "url": "https://www.reddit.com/r/HFY/comments/1xmtkk9/eclipse_net_chapter_12/",
+      "source_url": "https://www.reddit.com/r/HFY/comments/1xmtkk9/eclipse_net_chapter_12/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "route",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "latest",
+        "now"
+      ],
+      "text": "[Eclipse Net] - Chapter 12\nThe Bugatti turned into a walled compound somewhere in Shanghai's outer suburbs, heavily guarded, holding nothing but a single mansion behind high walls. A guard at the gate saluted the car; the moment it stopped, he crossed quickly to open the door and usher Miss Huo and her boyfriend out. The black Land Cruiser that had trailed them the whole way pulled up, unremarked, some distance off. Lin Zong took in the house with something close to unease. It wasn't ostentatious—understated, even, tasteful in a way that somehow carried more weight than any display of wealth could have—but authority radiated off it regardless. In front lay a courtyard with a garden and a pond; behind it, a private helipad. Silver garden lamps threw a soft light across the ivy climbing the three-story facade, the whole house holding itself with the quiet, weathered dignity of something built to outlast its owners. The pavilions and rooftops doubled themselves in the pond below, the water's slow, uncertain ripple giving the family's untouchable air an almost liquid quality. Something shifted in the air pressure the instant he stepped inside, following Qiuqiu. He recognized it at once—engineered, the work of environmental systems calibrated to keep the interior pressure just high enough that no smog could find its way through a door or a window seam. Above the entrance hall's tall windows ran a shimmering, iridescent membrane of particulate filter, imported, built on nanotechnology fine enough that a single panel cost a hundred thousand yuan; it kept the air inside permanently clean. Multi-layer filtration like this had been standard among the aristocracy for years now. Ordinary people had simply never been told it existed. Sweat had already started to bead along his hairline by the time they reached the stairs. He knew, without needing to be told twice, that her mother had come out flatly against it the moment word of the relationship reached her. In fact, the relationship had been under quiet watch from the very beginning. Given the family she came from, Qiuqiu had been brought up strictly: living together before marriage was out of the question, and even a night spent away from home was forbidden. Otherwise she would have bought a luxury apartment in Xuhui or Jing’an by now, a private place for the two of them, and liberated him from the cramped dormitory. Qiuqiu led him up, through a second entrance hall, down a long corridor, and into a large reception room at the end. Under a gold chandelier, on three separate sofas, sat three people. Miss Huo's family: her father on the left, her mother on the right, and between them, an old man—her grandfather. Lin Zong had once seen old photographs of her grandfather in the historical newspaper archives of the university library, in full military dress, medals lined across his chest, his eyes sharp and unreadable, shaking hands with some visiting foreign general. The image had stayed with him. What caught him off guard now was how ordinary the man looked in person—silver hair cropped close and hard at the edges, a pair of reading glasses on his nose, a thick book resting in his hands, the whole picture closer to somebody's grandfather than to the man from the photograph. And yet something in the set of his brow hadn't left him: the cold, settled authority of a man who had once run the center of military power, back when his rank had carried weight close to that of a Tang-dynasty Vice Commissioner of Military Affairs—the kind of man whose single order could put a million soldiers in motion. Lin Zong stood there, stiff, with nothing to say and something lodged in his throat that wouldn't let him say it even if he'd found the words. He was, by any honest accounting, the classic three-nothing product—no money, no family standing, no connections—and that fact alone seemed to keep his spine from straightening. Whatever this evening was testing him against, his odds didn't look good. \"Little Lin, is it?\" Her father's voice carried no particular warmth. Qiuqiu shot Lin Zong a look. He caught himself and nodded. \"Hello, Uncle. Hello, Auntie. Grand—grandfather.\" \"How long have you been my daughter's boyfriend?\" Her mother's tone matched her husband's exactly. Qiuqiu crossed the room and looped an arm around her mother, her voice dropping into a coaxing register. \"Why are you two trying to scare him? Look, you've gone and turned him white.\" Both parents laughed, and the room eased, if only slightly. The grandfather looked up from his book, took off his glasses, and studied Lin Zong for a long moment, one finger moving faintly against the armrest. \"Sit down, young man.\" Lin Zong crossed the room in two stiff steps and lowered himself into the one empty chair, set well back from the others. Her parents looked him over, top to bottom, smiles fixed politely in place. The questions came next—where he was from, what he studied, who else made up his family—and he answered each one plainly. \"I heard your parents divorced,\" her mother said. The question caught him off guard. His neck stiffened as he nodded. The grandfather raised an arm, the gesture of a man giving orders on a battlefield. \"Don't interrogate the boy like he's here for a household census.\" His words came out slow and unhurried. \"He's Qiuqiu's friend. That makes him a guest in this house.\" Her father caught himself. \"Right, of course. Let's eat.\" Staff filed in and out with the courses. Lin Zong sat beside Qiuqiu, doing his best not to feel every inch of the ice he was walking on. Dinner was Western, every ingredient flown in from abroad and certified safe several times over; the plates, bowls, knives, forks—all of it worth more than seemed reasonable for objects meant to be eaten off of. Six months with Miss Huo had at least taught him how to hold a fork properly. He still ate with the exaggerated care of a man handling something that might go off. Her parents kept smiling at him the whole meal, and underneath the smiles he could feel exactly what they thought of him—the cold reserve, the watchfulness, the sense that they'd already cast him as some scheming, ambition-drunk Julien Sorel, a man willing to claw his way up through whatever means presented themselves. It sat in his stomach, heavier than the dinner. Qiuqiu caught the shift in him. She smiled, rose, and crossed to turn on the television, angling for a lighter mood in the room. She traced a small, elegant gesture through the air with one finger, and the entire far wall came alive, brightening and smoothing itself into a single panoramic display—seven o'clock exactly—as a grand, ceremonial fanfare began, slowly, to play. For once, the broadcast opened with a story from abroad: the American presidential election had been decided months ahead of schedule, and Fernando Luis Mendoza, leader of the Republican Party, had defeated his opponent at the age of forty-two to become the fifty-second President of the United States. The reasons behind an early victory of this kind were, by any measure, unusually tangled. Mendoza's only real opponent had withdrawn from the race after being exposed in a scandal involving murder and fraud, the matter now under judicial investigation. The sitting Democratic president, meanwhile, had been impeached by Congress over far-left policies blamed for a cascade of domestic unrest, and had resigned under the weight of approval ratings that had collapsed entirely. The vice-presidential seat had sat empty since the previous year, its nominee never confirmed by the Senate. Against that backdrop of nationwide crisis, a Republican-controlled Congress had pushed through an emergency constitutional amendment allowing the winner to be declared ahead of the normal schedule. Mendoza was due to be sworn in shortly. He would be the youngest president in American history, and the first of Latino descent to hold the office—a man who had, in effect, materialized out of the emergency itself. The American press had settled on a name for him: the Lone Eagle. The country itself stood on the edge of another wave of unrest and fracture. The entire lower rung of the population—all of it deeply unhappy with the state of things. Far-right organizations in Idaho, West Virginia and Wyoming had already launched a movement for independence, aiming to found a republic reserved for white citizens alone; the southern border, had become effectively meaningless, migrants from Central and South America kept arriving in an unbroken stream. Meanwhile, Helixquid's takeover had spread from white-collar to blue-collar work, and it had done so by the most efficient route available: it absorbed every connected tool. A dozen years earlier, machines with bodies had been easy to hate. When robots spread across America and the rest of the West, the labor market answered the threat of competition in the simplest way available. Crowds led by left-wing parties and trade unions smashed the robots in the streets, along with drones and driverless cars. Governments could not stop it, and some were forced to pass laws restricting robots. Robotics stocks collapsed, and the global economy shuddered. Now Helixquid offered no such target. No one could smash a roof, a ladder, a kitchen console, a storage locker. No one could smash the world they lived in. All that was left was to hope the government would regulate it. On that question, both parties had come apart down the middle. Republican leaders backed Helixquid’s technological advance, while their voters at the bottom wanted it stopped. Democratic leaders denounced Helixquid in public, while their own elites already lived inside it. In the latest campaign, the contradiction had become the central issue on both sides. Mendoza got past the question on ambiguity alone. People afraid of Helixquid heard a promise to rein it in. People who relied on it heard a promise to leave it alone. Both went home satisfied, and Mendoza won. But words could not hide everything. National debt had climbed to a level that defied comprehension. Washington could no longer meet the cost of Social Security or Medicare, state governments could not pay their pensions, and the welfare structures meant to guarantee a basic standard of living stood on the edge of collapse. Mendoza's early declaration of victory had triggered a constitutional crisis of its own, and enormous controversy along with it, since nothing like it had ever happened before in American history. Democratic voters were already declaring, publicly, that they would never accept the result, and were preparing to throw themselves into the unrest to come. Several major American networks were predicting outright that civil war might break out on the day of his inauguration. Lin Zong could read it in the anchors' faces—the studied gravity of their expressions, the slightly nasal solemnity in their voices—that even Beijing had no appetite for watching America come apart at the seams. The global economy could no longer absorb another shock of that size. Because of the turmoil surrounding the election, a subway renovation project in New York and Los Angeles, funded by billions in Chinese capital, had already been forced to a halt. Qiuqiu's father watched Mendoza smile and wave to the crowd on-screen and offered his verdict. \"New president looks decent enough. Presentable, at least. Better than the last one, by a long shot.\" Her mother made a short, dismissive sound. \"What difference does it make? He's still just a puppet somebody else is pulling the strings on.\" \"True enough,\" her father agreed. \"Won't last more than a couple of years anyway, I'd guess.\" The broadcast moved on to domestic news, beginning with a segment on the Nineteenth Five-Year Plan, followed by one titled The View's Better on This Side , reporting that this year's grain harvest was on track, by all accounts, to set a new national record. Then the picture cut to Europe, where unrest continued unabated—looters tearing through the streets of London and Paris. Her father shook his head. \"Britain, France, America—they're finished, all three of them, headed for decline if not outright extinction. Britain and France especially. They'll lose the nation and the civilization both, eventually.\" He paused. \"Pity we're drifting down the same road ourselves, slowly.\" Her mother’s brow tightened. \"Order in the big cities is holding for now. But I hear in the countryside...\" The grandfather's voice, when it came, carried no warmth at all. \"Nothing to be afraid of. Keep the lid on, keep things stable by force if we have to, and there isn't a hill we can't get over. No Flaming Mountain that can't be crossed.\" Her father nodded, considering this, then turned to Lin Zong. \"Little Lin. What do you make of where things stand right now?\" Lin Zong hesitated, weighing how much of it he actually wanted to say out loud in this room. \"Honestly, it just feels like chaos to me,\" he said. \"Even the university doesn't feel safe anymore. I think something big might really be coming.\" The room went quiet. Qiuqiu smoothed it over before it could sit there too long. \"Crisis or no crisis, it's not like any of it has anything to do with us.\" Her parents exchanged a look loaded with meaning—first at their daughter, then at the young man beside her. After dinner, they led Lin Zong and Qiuqiu into the study and closed the door behind them for a conversation meant to be entirely candid. ---------- For anyone who prefer to read ahead, the full versions are available on KDP: Causalform Book 1: Obsidian Earth Causalform Book 2: Eclipse Net",
+      "text_excerpt": "[Eclipse Net] - Chapter 12\nThe Bugatti turned into a walled compound somewhere in Shanghai's outer suburbs, heavily guarded, holding nothing but a single mansion behind high walls. A guard at the gate saluted the car; the moment it stopped, he crossed quickly to open the door and usher Miss Huo and her boyfriend out. The black Land Cruiser that had trailed them the whole way pulled up, unremarked, some distance off.…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T17:26:50Z",
+      "last_collected_at": "2026-11-03T17:26:50Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-03T08:47:57.819805+00:00",
+  "last_archived_at": "2026-11-03T17:28:23.225423+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -566,6 +1208,292 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1313,
+      "source": "X",
+      "source_post_id": "2117667946923221381",
+      "author": "CorbenH414",
+      "language": "en",
+      "published_at": "2026-11-03T17:19:17Z",
+      "first_detected_at": "2026-11-03T17:26:49Z",
+      "last_detected_at": "2026-11-03T17:26:49Z",
+      "detection_count": 1,
+      "text": "@KamalaHarris Yes, there's so much at stake.  \n\nThieving vagabonds, ruinous traitors, and murderous \"refugees\" are trafficking 100,000+ children across the border to be LOST by Biden's admin. \n\nLOST to be harmed and hurt, mutilated, or worse, separated from their parents and loved ones.  All",
+      "text_excerpt": "@KamalaHarris Yes, there's so much at stake.  \n\nThieving vagabonds, ruinous traitors, and murderous \"refugees\" are trafficking 100,000+ children across the border to be LOST by Biden's admin. \n\nLOST to be harmed and hurt, mutilated, or worse, separated from their parents and loved ones.  All",
+      "url": "https://x.com/CorbenH414/status/2117667946923221381",
+      "source_url": "https://x.com/CorbenH414/status/2117667946923221381",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "trafficking 100,000+ children"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "trafficking 100,000+ children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1315,
+      "source": "X",
+      "source_post_id": "2117662372408016997",
+      "author": "OgeneAfrican",
+      "language": "en",
+      "published_at": "2026-11-03T16:57:08Z",
+      "first_detected_at": "2026-11-03T17:28:16Z",
+      "last_detected_at": "2026-11-03T17:28:16Z",
+      "detection_count": 1,
+      "text": "Over 1,200 migrants reached the UK on small boats between Thursday and Saturday, ending a three-week pause caused by bad weather\n\nOfficial figures by the UK Home Office show 1,193 people arrived on 16 boats, with launches seen from France and Belgium https://t.co/cabdg845be",
+      "text_excerpt": "Over 1,200 migrants reached the UK on small boats between Thursday and Saturday, ending a three-week pause caused by bad weather\n\nOfficial figures by the UK Home Office show 1,193 people arrived on 16 boats, with launches seen from France and Belgium https://t.co/cabdg845be",
+      "url": "https://x.com/OgeneAfrican/status/2117662372408016997",
+      "source_url": "https://x.com/OgeneAfrican/status/2117662372408016997",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants reached"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1312,
+      "source": "TELEGRAM",
+      "source_post_id": "1980940690:16582",
+      "author": "migranty_RUS",
+      "language": null,
+      "published_at": "2026-11-03T16:58:10Z",
+      "first_detected_at": "2026-11-03T17:26:20Z",
+      "last_detected_at": "2026-11-03T17:26:20Z",
+      "detection_count": 1,
+      "text": "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской области\n\nИслом Мамадалиев приехал в Россию из Узбекистана, перевёз весь свой кишлак и посадил на социалку. При поддержке своей диаспоры он широко развернулся — сейчас является владельцем тысяч голов скота, который приобрёл на гранты от местного правительства, указывая недостоверные данные.\n\nКак указывает следствие, в период с 18 июня 2024 года по 9 января 2025 года путём обмана он похитил денежные средства в размере 6 853 666 рублей. Действия Мамадалиева квалифицировали по двум эпизодам части 4 статьи 159 УК РФ («мошенничество, совершённое в особо крупном размере»). Санкция статьи предусматривает до десяти лет лишения свободы со штрафом до одного миллиона рублей.",
+      "text_excerpt": "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской области\n\nИслом Мамадалиев приехал в Россию из Узбекистана, перевёз весь свой кишлак и посадил на социалку. При поддержке своей диаспоры он широко развернулся — сейчас является владельцем тысяч голов скота, который приобрёл на гранты от местного правительства, указывая недостоверные данные.\n\nКак указывает следствие, в период с 18 июня 2024 года по 9 января 2025 года путём обмана он похитил денежные средства в размере 6 853 666 рублей. Действия Мамадалиева квалифицировали по двум эпизодам части 4 статьи 159 УК РФ («мошенничество, совершённое в особо крупном размере»). Санкция статьи предусматривает до десяти ",
+      "url": "https://t.me/migranty_RUS/16582",
+      "source_url": "https://t.me/migranty_RUS/16582",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Мигрант"
+      ],
+      "high_value_matches": [
+        "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1314,
+      "source": "X",
+      "source_post_id": "2117658588592398541",
+      "author": "LaycockAlison",
+      "language": "en",
+      "published_at": "2026-11-03T16:42:06Z",
+      "first_detected_at": "2026-11-03T17:27:47Z",
+      "last_detected_at": "2026-11-03T17:27:47Z",
+      "detection_count": 1,
+      "text": "@narindertweets and yet you are all for the equivalent of the modern day slave  trade, illegal migration which is responsible for human trafficking and thousands being made modern day slaves. Also you have no idea how all the younger generation are going to vote , what a ridiculous statement",
+      "text_excerpt": "@narindertweets and yet you are all for the equivalent of the modern day slave  trade, illegal migration which is responsible for human trafficking and thousands being made modern day slaves. Also you have no idea how all the younger generation are going to vote , what a ridiculous statement",
+      "url": "https://x.com/LaycockAlison/status/2117658588592398541",
+      "source_url": "https://x.com/LaycockAlison/status/2117658588592398541",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "human trafficking"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1311,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117552104763854403",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-03T10:46:10Z",
+      "first_detected_at": "2026-11-03T17:26:19Z",
+      "last_detected_at": "2026-11-03T17:26:19Z",
+      "detection_count": 1,
+      "text": "Bristol Bike Project was set up to help asylum seekers and refugees access affordable transport. 18 years later, we continue to do that. Meanwhile, the UK government wants to make it harder for refugees to rebuild their lives. Please help the Refugee Council stand up for refugees by signing their petition. https://www. refugeecouncil.org.uk/stay-inf ormed/articles/launching-our-petition-to-stop-the-10000-refugee-tax/ # UKpol # Refugees",
+      "text_excerpt": "Bristol Bike Project was set up to help asylum seekers and refugees access affordable transport. 18 years later, we continue to do that. Meanwhile, the UK government wants to make it harder for refugees to rebuild their lives. Please help the Refugee Council stand up for refugees by signing their petition. https://www. refugeecouncil.org.uk/stay-inf ormed/articles/launching-our-petition-to-stop-the-10000-refugee-tax/ # UKpol # Refugees",
+      "url": "https://mastodon.me.uk/@BristolBikeProject/117552104763854403",
+      "source_url": "https://mastodon.me.uk/@BristolBikeProject/117552104763854403",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "refugees access affordable transport"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees",
+        "asylum seekers"
+      ],
+      "high_value_matches": [
+        "refugees access affordable transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -648,6 +1576,292 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1313,
+      "source": "X",
+      "source_post_id": "2117667946923221381",
+      "author": "CorbenH414",
+      "language": "en",
+      "published_at": "2026-11-03T17:19:17Z",
+      "first_detected_at": "2026-11-03T17:26:49Z",
+      "last_detected_at": "2026-11-03T17:26:49Z",
+      "detection_count": 1,
+      "text": "@KamalaHarris Yes, there's so much at stake.  \n\nThieving vagabonds, ruinous traitors, and murderous \"refugees\" are trafficking 100,000+ children across the border to be LOST by Biden's admin. \n\nLOST to be harmed and hurt, mutilated, or worse, separated from their parents and loved ones.  All",
+      "text_excerpt": "@KamalaHarris Yes, there's so much at stake.  \n\nThieving vagabonds, ruinous traitors, and murderous \"refugees\" are trafficking 100,000+ children across the border to be LOST by Biden's admin. \n\nLOST to be harmed and hurt, mutilated, or worse, separated from their parents and loved ones.  All",
+      "url": "https://x.com/CorbenH414/status/2117667946923221381",
+      "source_url": "https://x.com/CorbenH414/status/2117667946923221381",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "trafficking 100,000+ children"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "trafficking 100,000+ children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1315,
+      "source": "X",
+      "source_post_id": "2117662372408016997",
+      "author": "OgeneAfrican",
+      "language": "en",
+      "published_at": "2026-11-03T16:57:08Z",
+      "first_detected_at": "2026-11-03T17:28:16Z",
+      "last_detected_at": "2026-11-03T17:28:16Z",
+      "detection_count": 1,
+      "text": "Over 1,200 migrants reached the UK on small boats between Thursday and Saturday, ending a three-week pause caused by bad weather\n\nOfficial figures by the UK Home Office show 1,193 people arrived on 16 boats, with launches seen from France and Belgium https://t.co/cabdg845be",
+      "text_excerpt": "Over 1,200 migrants reached the UK on small boats between Thursday and Saturday, ending a three-week pause caused by bad weather\n\nOfficial figures by the UK Home Office show 1,193 people arrived on 16 boats, with launches seen from France and Belgium https://t.co/cabdg845be",
+      "url": "https://x.com/OgeneAfrican/status/2117662372408016997",
+      "source_url": "https://x.com/OgeneAfrican/status/2117662372408016997",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants reached"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1312,
+      "source": "TELEGRAM",
+      "source_post_id": "1980940690:16582",
+      "author": "migranty_RUS",
+      "language": null,
+      "published_at": "2026-11-03T16:58:10Z",
+      "first_detected_at": "2026-11-03T17:26:20Z",
+      "last_detected_at": "2026-11-03T17:26:20Z",
+      "detection_count": 1,
+      "text": "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской области\n\nИслом Мамадалиев приехал в Россию из Узбекистана, перевёз весь свой кишлак и посадил на социалку. При поддержке своей диаспоры он широко развернулся — сейчас является владельцем тысяч голов скота, который приобрёл на гранты от местного правительства, указывая недостоверные данные.\n\nКак указывает следствие, в период с 18 июня 2024 года по 9 января 2025 года путём обмана он похитил денежные средства в размере 6 853 666 рублей. Действия Мамадалиева квалифицировали по двум эпизодам части 4 статьи 159 УК РФ («мошенничество, совершённое в особо крупном размере»). Санкция статьи предусматривает до десяти лет лишения свободы со штрафом до одного миллиона рублей.",
+      "text_excerpt": "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской области\n\nИслом Мамадалиев приехал в Россию из Узбекистана, перевёз весь свой кишлак и посадил на социалку. При поддержке своей диаспоры он широко развернулся — сейчас является владельцем тысяч голов скота, который приобрёл на гранты от местного правительства, указывая недостоверные данные.\n\nКак указывает следствие, в период с 18 июня 2024 года по 9 января 2025 года путём обмана он похитил денежные средства в размере 6 853 666 рублей. Действия Мамадалиева квалифицировали по двум эпизодам части 4 статьи 159 УК РФ («мошенничество, совершённое в особо крупном размере»). Санкция статьи предусматривает до десяти ",
+      "url": "https://t.me/migranty_RUS/16582",
+      "source_url": "https://t.me/migranty_RUS/16582",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Мигрант"
+      ],
+      "high_value_matches": [
+        "Мигрант из Узбекистана обманом похитил почти 7 миллионов рублей из бюджета Ростовской"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1314,
+      "source": "X",
+      "source_post_id": "2117658588592398541",
+      "author": "LaycockAlison",
+      "language": "en",
+      "published_at": "2026-11-03T16:42:06Z",
+      "first_detected_at": "2026-11-03T17:27:47Z",
+      "last_detected_at": "2026-11-03T17:27:47Z",
+      "detection_count": 1,
+      "text": "@narindertweets and yet you are all for the equivalent of the modern day slave  trade, illegal migration which is responsible for human trafficking and thousands being made modern day slaves. Also you have no idea how all the younger generation are going to vote , what a ridiculous statement",
+      "text_excerpt": "@narindertweets and yet you are all for the equivalent of the modern day slave  trade, illegal migration which is responsible for human trafficking and thousands being made modern day slaves. Also you have no idea how all the younger generation are going to vote , what a ridiculous statement",
+      "url": "https://x.com/LaycockAlison/status/2117658588592398541",
+      "source_url": "https://x.com/LaycockAlison/status/2117658588592398541",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "human trafficking"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1311,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117552104763854403",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-03T10:46:10Z",
+      "first_detected_at": "2026-11-03T17:26:19Z",
+      "last_detected_at": "2026-11-03T17:26:19Z",
+      "detection_count": 1,
+      "text": "Bristol Bike Project was set up to help asylum seekers and refugees access affordable transport. 18 years later, we continue to do that. Meanwhile, the UK government wants to make it harder for refugees to rebuild their lives. Please help the Refugee Council stand up for refugees by signing their petition. https://www. refugeecouncil.org.uk/stay-inf ormed/articles/launching-our-petition-to-stop-the-10000-refugee-tax/ # UKpol # Refugees",
+      "text_excerpt": "Bristol Bike Project was set up to help asylum seekers and refugees access affordable transport. 18 years later, we continue to do that. Meanwhile, the UK government wants to make it harder for refugees to rebuild their lives. Please help the Refugee Council stand up for refugees by signing their petition. https://www. refugeecouncil.org.uk/stay-inf ormed/articles/launching-our-petition-to-stop-the-10000-refugee-tax/ # UKpol # Refugees",
+      "url": "https://mastodon.me.uk/@BristolBikeProject/117552104763854403",
+      "source_url": "https://mastodon.me.uk/@BristolBikeProject/117552104763854403",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "refugees access affordable transport"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees",
+        "asylum seekers"
+      ],
+      "high_value_matches": [
+        "refugees access affordable transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -744,6 +1958,82 @@
       ],
       "related_sources": [
         "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1313,
+      "source": "X",
+      "source_post_id": "2117667946923221381",
+      "author": "CorbenH414",
+      "language": "en",
+      "published_at": "2026-11-03T17:19:17Z",
+      "first_detected_at": "2026-11-03T17:26:49Z",
+      "last_detected_at": "2026-11-03T17:26:49Z",
+      "detection_count": 1,
+      "text": "@KamalaHarris Yes, there's so much at stake.  \n\nThieving vagabonds, ruinous traitors, and murderous \"refugees\" are trafficking 100,000+ children across the border to be LOST by Biden's admin. \n\nLOST to be harmed and hurt, mutilated, or worse, separated from their parents and loved ones.  All",
+      "text_excerpt": "@KamalaHarris Yes, there's so much at stake.  \n\nThieving vagabonds, ruinous traitors, and murderous \"refugees\" are trafficking 100,000+ children across the border to be LOST by Biden's admin. \n\nLOST to be harmed and hurt, mutilated, or worse, separated from their parents and loved ones.  All",
+      "url": "https://x.com/CorbenH414/status/2117667946923221381",
+      "source_url": "https://x.com/CorbenH414/status/2117667946923221381",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "trafficking 100,000+ children"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "trafficking 100,000+ children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2117667946923221381"
+      ],
+      "related_authors": [
+        "CorbenH414"
+      ],
+      "related_urls": [
+        "https://x.com/CorbenH414/status/2117667946923221381"
+      ],
+      "related_sources": [
+        "X"
       ],
       "independent_author_count": 1,
       "platform_count": 1
