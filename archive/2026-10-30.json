@@ -3094,9 +3094,46 @@
       "first_collected_at": "2026-10-31T01:13:45Z",
       "last_collected_at": "2026-10-31T01:13:45Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24196",
+      "timestamp": "2026-10-30T17:38:09Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xjlyxs",
+      "author": "Low-Car6464",
+      "url": "https://www.reddit.com/r/dataisbeautiful/comments/1xjlyxs/oc_switzerlands_annual_net_migration_19712025/",
+      "source_url": "https://www.reddit.com/r/dataisbeautiful/comments/1xjlyxs/oc_switzerlands_annual_net_migration_19712025/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "[OC] Switzerland's annual net migration, 1971–2025\nSwitzerland recorded its lowest annual net migration balance in 1975 (−57,847), during the recession following the oil crisis. Net migration subsequently increased, reaching +98,167 in 2008 amid strong labour demand and the removal of quotas for many EU/EFTA nationals in 2007. The historical peak came in 2023 (+139,118), partly reflecting Ukrainian refugees who had arrived in 2022 but entered the permanent-resident population statistics a year later. By 2025, net migration had fallen to +70,432, almost half the 2023 peak. The chart covers the permanent resident population, including Swiss and foreign nationals. Figures also incorporate changes into permanent-resident status, so they do not exclusively measure physical arrivals and departures. Methodology: Annual net migration is immigration minus emigration, including changes into permanent-resident status. The series covers the permanent resident population of Switzerland, including Swiss and foreign nationals. The FSO changed from ESPOP to STATPOP in 2011, introducing a change in population definitions. The exceptional 2023 figure partly reflects Ukrainian refugees who arrived in 2022 and subsequently entered the permanent-resident population statistics. Full data sources, methodology and visualization: The Data Decoded",
+      "text_excerpt": "[OC] Switzerland's annual net migration, 1971–2025\nSwitzerland recorded its lowest annual net migration balance in 1975 (−57,847), during the recession following the oil crisis. Net migration subsequently increased, reaching +98,167 in 2008 amid strong labour demand and the removal of quotas for many EU/EFTA nationals in 2007. The historical peak came in 2023 (+139,118), partly reflecting Ukrainian refugees who had a…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-03T01:58:26Z",
+      "last_collected_at": "2026-11-03T01:58:26Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-10-31T01:13:57.325365+00:00",
+  "last_archived_at": "2026-11-03T01:58:32.065161+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
