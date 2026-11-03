@@ -221,6 +221,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T08:48:44.215922+00:00"
+    },
+    "group:653": {
+      "hu_text": "@NadiaWhittomeMP Egy menekültet azonnal ki kell toloncolni, amint az eredeti országa ismét biztonságossá válik. A menekültstátusz ideiglenes. Soha nem szabadna letelepedési útként szolgálnia. Egyszerűen toloncolni kell őket. Egyébként sem akarjuk őket itt, a legtöbbjük teljesen csaló.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás a menekültstátusz ideiglenességéről és a toloncolásról, de nincs bizonyíték az állítások igazolására vagy cáfolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:28:49.616218+00:00"
+    },
+    "group:654": {
+      "hu_text": "@UnpopularLib @JulieBorowski Lezárták a határt és több százezer migránst toloncoltak ki. Ez az ország létkérdése. Ha ezt nem oldják meg, a demokraták amnesztiát és állampolgárságot adnak nekik, és semmi más nem fog megvalósulni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a határzárról és tömeges kitoloncolásról, valamint politikai vélemény a migrációs politikáról, de nincs megbízható bizonyíték a kitoloncolások mértékére vagy a jövőbeni politikai lépésekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:28:49.616241+00:00"
+    },
+    "group:655": {
+      "hu_text": "Gyanús afrikai migránst tartóztattak le, miután betört a Ramsgate kikötőbe egy hajó ellopásának kísérlete közben... A legénység elmondása szerint egy férfi azt mondta nekik, hogy Franciaországba kell jutnia, hogy a családját elérje.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Eseményjelentés egy migráns letartóztatásáról, de nincs független megerősítés vagy további részletek a történtekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:28:49.616245+00:00"
+    },
+    "information:24302": {
+      "hu_text": "Megdöbbentő pillanat, amikor egy migráns a gyermeket a tengerben hagyja a horrorisztikus Csatorna-átkelés során az Egyesült Királyságban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állítás egy gyermek veszélyeztetéséről migrációs esemény közben, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:28:49.616247+00:00"
+    },
+    "information:24303": {
+      "hu_text": "Több tengeri migráns érkezik, főként Törökországból. Az idei évben Görögországba érkezett több mint 28 000 migráns közül több mint 15 000 az észak-afrikai útvonalat választotta Krétére.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Statisztikai adatokat közöl a migrációs útvonalakról, de nincs független forrás vagy hivatalos adat az állítások megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:28:49.616249+00:00"
+    },
+    "information:24304": {
+      "hu_text": "Egyesült Királyság: Több mint 1000 migráns érkezett kis hajókon, miközben az ellenük irányuló tüntetések növekednek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jelentés a migránsok érkezéséről és a társadalmi reakciókról, de nincs megerősített adat vagy részletes forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:28:49.616252+00:00"
     }
   },
   "legacy_reviews": {}
