@@ -287,6 +287,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T17:28:49.616252+00:00"
+    },
+    "information:24305": {
+      "hu_text": "A brit Belügyminisztérium vizsgál egy harmadik, észrevétlen kis hajós partraszállást, miközben a migrációs válság tovább súlyosbodik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális migrációs eseményről szól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:00.547600+00:00"
+    },
+    "information:24306": {
+      "hu_text": "Egy irodalmi szöveg részlete, amely egy Sanghaj külvárosában lévő, erősen őrzött birtokról szól, ahol egy család él, és amely légszűrő rendszerekkel van felszerelve.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem kapcsolódik a migrációhoz vagy annak aspektusaihoz, hanem egy fikciós történet részlete.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:00.547620+00:00"
+    },
+    "information:24314": {
+      "hu_text": "@DPJHodges Szóval miért engedte meg, hogy illegális migránsok hajóval érkezve letelepedjenek 30 év után ingyen? Teljes képtelenség.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény vagy kritika, amely nem tartalmaz bizonyított tényeket, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:00.547623+00:00"
+    },
+    "information:24316": {
+      "hu_text": "Gosport nemet mond az illegális migránsok hajós partraszállására! - Írd alá a petíciót! https://t.co/ieQhx3P07A",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Közösségi felhívás vagy petíció, amely migrációs témához kapcsolódik, de nem tartalmaz konkrét tényeket vagy bizonyítékokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:00.547626+00:00"
+    },
+    "information:24320": {
+      "hu_text": "@ukhomeoffice Azok, akik illegálisan lépnek be, beleértve a kis hajóval érkezőket is, akár 30 évet is várhatnak a letelepedésre? Miért nem toloncolják ki őket azonnal? A migránsok, akik segélyeket igényelnek, 20 évet várnak a letelepedésre? Miért engedik meg nekik a segélyigénylést?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Közösségi média állítások, amelyek migrációs politikával kapcsolatos kérdéseket vetnek fel, de nem bizonyítottak, ezért ellenőrizetlenek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:00.547628+00:00"
+    },
+    "information:24328": {
+      "hu_text": "@Brcremer Ön megszavazta a nők és gyermekek illegális határátlépés közbeni megerőszakolását és bántalmazását. Ön megszavazta az emberkereskedelmet. Ön megszavazta, hogy a gyerekeket meggyőzzék arról, hogy Isten tévedésből rossz neműnek teremtette őket. Ön megszavazta, hogy migránsokat hozzanak Amerikába, hogy a nagyvállalatok olcsón fizethessék őket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és vádaskodás, amely nem bizonyított tényeken alapul, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T17:29:00.547630+00:00"
     }
   },
   "legacy_reviews": {}
