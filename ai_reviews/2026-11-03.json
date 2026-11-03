@@ -837,6 +837,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-03T22:43:24.819472+00:00"
+    },
+    "record:reddit_1xn4bze": {
+      "hu_text": "Igen, a november 2-i \"Earned Settlement\" változtatások bíróságon megtámadhatók. A jogi elemzés szerint a visszamenőleges 10 éves szabály sebezhető. A poszt írója felháborodott a belügyminiszter bejelentésén, mert egy 42 000 fontos fizetésű tudóst vagy mérnököt visszavetnek egy 10 éves várakozási időre az új 50 271 fontos küszöb miatt, ami igazságtalan azokkal szemben, akik korábban 5 éves útvonalra számítottak. A kormány széles jogkörrel rendelkezik, de nem mentes a bírósági felülvizsgálat alól. A poszt részletezi, hogyan lehet a szabályokat a Legfelsőbb Bíróságon megtámadni: jogos elvárás megsértése, irracionalitás és következetlenség, arányosság és az Emberi Jogok Európai Egyezménye 8. cikkének megsértése miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés jogi elemzést tartalmaz egy aktuális brit bevándorlási szabályváltozásról, amely fontos lehet a migrációs jogi helyzet megértéséhez. Az állítások nem ellenőrzöttek, de relevánsak a migrációs politika területén.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:36.376848+00:00"
+    },
+    "telegram:1261826972:54227": {
+      "hu_text": "Sohora Driss 16 éve gondoz egy kolóniát a Recinto Sur területén, amely most leromlott állapotban van: az utak és az épületszerkezetek tönkrementek, anyagok és takarók eltűntek, és kilenc macskát elütöttek, miután megijedtek és elszöktek. A gondozó panaszkodik, hogy még a vizet is elveszik, és a macskaetetőket hamutartóként használják. A poszt fotógalériát is tartalmaz.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy állatvédelmi problémát mutat be egy migránsok által érintett területen, ami humanitárius és társadalmi diskurzus szempontjából releváns. Az állítások nem ellenőrzöttek, de a helyi helyzet bemutatására alkalmasak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:36.376868+00:00"
+    },
+    "telegram:2769077622:225": {
+      "hu_text": "November 3-i hírek: Az Instagramon gyakran oszt meg a szerző ingatlan- és migrációs témájú aktuális híreket, most ezeket a Telegramra is átmásolja. Október 31-én a Blocus nevű anonim hálózat zavargásokat és fosztogatásokat hirdetett, de csak a rendőrség jelent meg. Több spanyol városban megerősítették a rendőri jelenlétet, üzletek kirakatait védőpajzsokkal látták el. Barcelonában 1700 rendőr vonult ki, Madridban és Barcelonában törölték a gyűléseket, Valenciában békés volt az este, Bilbaóban senki sem jelent meg. Október 24-én 128 embert tartóztattak le Barcelonában. Ceutában törölték a Mochila ünnepet, mert a városban kb. 15 000 migráns tartózkodik, és nem garantálható a hegyi biztonság. A spanyol kormány szerint azonban nincs veszély vagy migránstábor a hegyekben. November 11-én és 12-én általános sztrájk lesz Spanyolországban, amely a lakhatási árak csökkentését és a bérleti díjak emelésének megállítását követeli.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több aktuális társadalmi és migrációs témát érint Spanyolországban, beleértve a migránsokkal kapcsolatos helyi intézkedéseket és társadalmi feszültségeket. Az információk nem ellenőrzöttek, de relevánsak a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-03T22:43:36.376872+00:00"
     }
   },
   "legacy_reviews": {}
