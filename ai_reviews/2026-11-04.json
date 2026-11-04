@@ -309,6 +309,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T11:44:12.763036+00:00"
+    },
+    "telegram:1261826972:54230": {
+      "hu_text": "📰 Három hír az elfarodeceuta.es oldalról a szerda kezdéséhez:\n\n1⃣ Egy terrorizmusért elítélt nő hamis orvosi igazolást készített, hogy megpróbáljon elhagyni Ceutát.\n\n➡ A 31 éves nő hamis igazolást nyújtott be a Virgen de las Nieves Kórháztól, hogy bírósági engedélyt kérjen, miközben érvényben volt nála egy felügyelet alatt álló szabadlábra helyezési intézkedés.\n\n2⃣ Ceuta ösvényeitől az egyetemi Forma-1-ig: Iván Jiménez sikere az FSVitoria elektromos autójával.\n\n➡ A fiatal kerékpáros szenvedélyét a sport iránt összeegyezteti a nehéz gépjárműmérnöki tanulmányokkal az országban, aktív tagja annak a csapatnak, amely az elektromos 'Bizkor RS26' versenyautót vezeti Európa legjelentősebb pályáin.\n\n3⃣ Egy bevándorló nádszálak között alszik a Monte Hacho frankista emlékműve mellett.\n\n➡ A helyiek szerint senki sem gondolhatja, hogy egyedül jár a város valamelyik sarkában, mert \"mindenhol ott vannak\".",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több témát érint, köztük egy bűnügyi esetet, egy sporthírt és egy bevándorló helyzetét Ceutában. Az állítások nem ellenőrzöttek, forrásként egy helyi hírportál szolgál. A bevándorlóval kapcsolatos rész migrációs társadalmi diskurzusba illeszkedik, de nincs bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:23.073966+00:00"
+    },
+    "telegram:1980940690:16590": {
+      "hu_text": "„Közép-ázsiai migránsok titkos világot építenek az oroszországi Szverdlovszk régióban.”\n\nA cikk az integrációról és asszimilációról szól, különösen arról, hogy a helyi bűnszervezetek hogyan gyűjtenek pénzt a migránsoktól, amit aztán jótékony célokra fordítanak, például az oroszországi beilleszkedés segítésére. A szerző szkeptikus, és rámutat, hogy a migránsok jelentős része vallási szélsőséges, akik a saría törvényei szerint szeretnének élni, így a cikk kritikusan szemléli az integrációról szóló pozitív narratívát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsokkal kapcsolatos társadalmi diskurzust tartalmaz, amelyben állítások szerepelnek a migráns közösségek szerveződéséről és vallási radikalizmusáról. Ezek az állítások nem ellenőrzöttek, és politikai vagy társadalmi véleményt tükröznek, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:23.073986+00:00"
+    },
+    "telegram:2240007404:811": {
+      "hu_text": "Férfi összeszerelőket hívnak havi fix 120 000 rubeles jövedelemre egy moszkvai régióbeli logisztikai központba, ahol készételeket tárolnak és osztanak szét. A munkakörbe tartozik az áruk kiválasztása, elhelyezése, csomagolása, mozgatása, átvétele és válogatása. A munkaidő 6 vagy 7 napos beosztásban, nappali és éjszakai műszakokban. Biztosítanak szállást és ingyenes céges transzfert.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy munkalehetőséget hirdet migránsok számára, amely nem tartalmaz ellenőrizhetetlen vagy vitatható állításokat, így alacsony prioritású, de az igazság ellenőrzése hasznos lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:23.073990+00:00"
     }
   },
   "legacy_reviews": {}
