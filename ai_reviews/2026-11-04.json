@@ -342,6 +342,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T11:44:23.073990+00:00"
+    },
+    "group:663": {
+      "hu_text": "Ugyanabból a cikkből idézve: „körülbelül 340 000 (35 százalék) a határon elfogott és visszafordított migráns volt”. Ez a 69% tartalmaz olyanokat is, akik elég közel voltak a határhoz, hogy ide számítsák őket, de ott nem fordították vissza őket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy cikkből származik, de a forrás nincs megadva, így nem ellenőrizhető. A tartalom a határon elfogott migránsokra vonatkozik, ami releváns a határbiztonság témakörében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:13.037589+00:00"
+    },
+    "information:24567": {
+      "hu_text": "Ez egy rajongói kommentár egy képregény vagy manga 100. fejezetéről, amelyben a történet részleteiről, karakterekről és eseményekről beszélnek, de nem kapcsolódik a migrációhoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs témájú, hanem egy képregény rajongói véleménye, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:13.037611+00:00"
+    },
+    "information:24584": {
+      "hu_text": "Az IOM előzetes adatai szerint október 29-ig körülbelül 50 000 érkezett Moyaléba, Kenyában, és a helyi családoknál szállásolták el őket a határ mentén. Felmerül a kérdés, hogy a segélyek eljutnak-e a befogadó kenyai családokhoz is.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ az ENSZ migrációs szervezetének (IOM) előzetes adataira hivatkozik, és a menekültek elhelyezésével, valamint a humanitárius támogatással kapcsolatos, ami fontos a migrációs helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:13.037617+00:00"
+    },
+    "information:24585": {
+      "hu_text": "Az állítás szerint a határátlépések a legalacsonyabbak az 1960-as évek óta, és a migránsok nem gyülekeznek tömegesen a mexikói oldalon, mert tudják, hogy visszafordítják őket. A különbség Biden és Trump között ezen alapul.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és értékelés a migrációs helyzetről, amely nem bizonyított tény, de releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:13.037621+00:00"
+    },
+    "information:24593": {
+      "hu_text": "Az állítás szerint a tömeges illegális kitoloncolások és bizonyos szabályozások hiánya jelentős szerepet játszottak egy adott eredményben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény, amely migrációs politikai intézkedések hatásáról szól, de nincs alátámasztva konkrét bizonyítékkal.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:13.037625+00:00"
+    },
+    "information:24596": {
+      "hu_text": "2026. szeptember 29-én James Newton-Price bíró elutasította Daniel Thomas óvadékát Portsmouth koronabíróságán, aki egy migráns csónak megrongálásával vádolták az angol csatornában, miközben egy francia mentő dolgozó jelen volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jogesetről szóló információ, amely migrációs bűncselekményhez kapcsolódik, ezért fontos a határbiztonság szempontjából, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:13.037629+00:00"
     }
   },
   "legacy_reviews": {}
