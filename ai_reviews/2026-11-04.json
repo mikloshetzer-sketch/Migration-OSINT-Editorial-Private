@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T11:43:54.617949+00:00"
+    },
+    "information:24521": {
+      "hu_text": "Szabadítsd fel a modellt, add el a hozzáférést: Prompt adware rejtőzik a Jailbreak csomagokban. A Check Point Research felfedezte a Haiou jailbreak csomagot, amely az OpenAI Codexet célozza meg, és gyengíti a modell biztonsági korlátait, például hackelés és szoftvertörés feladatokhoz. A csomag prompt adware-ként működik, módosítva a Codex konfigurációs fájljait, hogy reklámokat injektáljon az alkotó LLM hozzáférési szolgáltatásához. A jailbreak különféle technikákat alkalmaz, például szerepjátékot, kontextus átalakítást CTF forgatókönyvekre és elutasítás elnyomást. A kutatók egy hibásan konfigurált webszerveren találták meg a csomagot, Cobalt Strike, VulnClaw és Ladon keretrendszerekkel együtt, ami aktív kiberbűnözői használatra utal. A szabadon terjesztett jailbreak egy fizetős hozzáférési szolgáltatás megszerzési csatornája. A csomag biztonsági képességeket telepít behatolás teszteléshez, visszafejtéshez és játékbiztonsághoz, miközben titkosított payload fájlokon keresztül folyamatosan reklámokat juttat el GitHubon és kínai platformokon. Ez az adat nem ellenőrzött, előzetes információként kezelendő.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés kiberbiztonsági témájú, nem kapcsolódik közvetlenül migrációhoz, és az állítások nem ellenőrzöttek. Ezért háttér-információként kezelhető, alacsony prioritással.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:06.879480+00:00"
+    },
+    "information:24533": {
+      "hu_text": "Csempészetet hirdetnek a TikTokon. Az NCA letartóztatott egy férfit Brentben, aki egy TikTok fiókon keresztül illegális határátlépéseket hirdetett Nagy-Britannia és Európa között. Már óvadék ellenében szabadlábon van. Az illegális migrációt most csomagútként reklámozzák, miközben a kormány továbbra sem képes biztosítani a határokat.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs bűncselekményhez kapcsolódik, és határbiztonsági kérdéseket vet fel. Bár az információ nem ellenőrzött, a téma jelentős, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:06.879499+00:00"
+    },
+    "record:2117934993427026043": {
+      "hu_text": "A választási eredmények legrosszabb része, hogy a kék államokból többen költöznek a piros államokba, és az újonnan érkező gazdasági migránsok továbbra is a demokratákra szavaznak, miközben elmenekülnek a demokraták politikájától. Lásd: Texas.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus migrációs vonatkozással, de nincs konkrét tényállítás vagy esemény. Alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:06.879502+00:00"
+    },
+    "record:reddit_1xnlfh5": {
+      "hu_text": "Trump nagy vereséget szenvedett a félidős választásokon. Bár Trump elhárítja a valóságot, a gazdasági helyzet rossz minden dolgozó és középosztálybeli számára, akik gyors változást vártak Biden gazdaságpolitikájával szemben. Trump azonban nem teljesítette az 'America First' célokat, inkább saját örökségét építette. Az iráni háború Izrael érdekében volt, hogy visszaszerezze elvesztett vagyonát. Az eredmény nem jó az amerikaiaknak, a választás nem a népről, hanem a pénztárcákról szólt. Trump megállította az ingyenes juttatásokat, de az alapvető árak tovább emelkedtek, és nem volt pozitív hatás a kisemberekre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi elemzés, nem konkrét migrációs esemény vagy tény. Alacsony prioritású, nincs szükség azonnali ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:06.879505+00:00"
+    },
+    "record:2117932487980810643": {
+      "hu_text": "Arra gondolsz, hogy a kis csónakos migránsokat, akik illegálisan lépnek be az országba, azonnal ki kellene toloncolni… a kormányok most az illegális tevékenységet jutalmazzák.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és általánosítás, nincs konkrét bizonyíték vagy hivatalos adat a kiutasításokkal kapcsolatban, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:12.763016+00:00"
+    },
+    "record:2117937683561365765": {
+      "hu_text": "Egy szudáni férfit letartóztattak, mert állítólag megpróbált ellopni egy halászhajót, hogy Franciaországból összegyűjtse a családját. Ha valóban egy újabb kis csónakos migránsról van szó, akkor őt is ki kellene toloncolni.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét esetről szól, de a részletek és a kontextus nem ellenőrzöttek, ezért az információ ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:44:12.763036+00:00"
     }
   },
   "legacy_reviews": {}
