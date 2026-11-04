@@ -540,6 +540,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T19:01:38.353156+00:00"
+    },
+    "telegram:1261826972:54256": {
+      "hu_text": "◼️ Videóval ▶️ Paterajáró autók a Recinto Sur területén: akár két ember is alszik ugyanabban a járműben.\n\n➡️ A helyi lakosok szerint ez a látvány fogadja őket nap mint nap.\n\n➡️ A Sevilla utca, a lábuk előtt lévő üres terület és más rejtettebb helyek is olyan autókat rejtenek, amelyeket hálóhelyként használnak.\n\n📷 Képgaléria 📷",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migrációs helyzetet mutat be, ahol emberek autókban alszanak, ami humanitárius problémára utal. Az állításokat helyi lakosokra hivatkozva teszik, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:47.164050+00:00"
+    },
+    "telegram:1261826972:54259": {
+      "hu_text": "🚩 A Legfelsőbb Bíróság lezárta Pedro Sánchez és kormánya elleni hat eljárást a ceutai válság kapcsán.\n\n➡️ A Büntetőtanács elutasított egy Vox párt által benyújtott vádat, három Manos Limpias panaszt és két egyéni beadványt, mivel nem voltak egyértelműek a felelősségek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogi eljárások lezárásáról szól, ami releváns a migrációs politika és jogi helyzet szempontjából. Az állítások hivatalos forrásokra utalnak, de a bejegyzés önmagában nem bizonyított, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:47.164072+00:00"
+    },
+    "telegram:1261826972:54261": {
+      "hu_text": "◼️ Videóval ▶️ Torres megvédi a ceutai helyzet kezelését: „Aki azt mondja, hogy nem haladunk a normalitás felé, az hazudik.”\n\n➡️ A miniszter több mint 15 000 visszatérést jelez Marokkóba, és azt állítja, hogy a kormány tervezi az ideiglenes táborok bezárását a határnyomás fokozatos csökkenése miatt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés a migrációs helyzet kezeléséről és a kormányzati intézkedésekről szól, ami fontos információ a migrációs politika szempontjából. Az állításokat egy miniszter teszi, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:47.164077+00:00"
+    },
+    "telegram:1261826972:54267": {
+      "hu_text": "◼️ Ceuta továbbra sem tudja, hány migráns maradt a városban több mint három hónappal július 30. után.\n\n➡️ Gaitán tanácsos sajnálja, hogy nincs ütemterv a normalitás visszaállítására.\n\n➡️ 109 új kiskorú visszatérítési ügyet regisztráltak, de Marokkó nem válaszol.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés a migránsok számának bizonytalanságáról és a visszatérítési folyamat nehézségeiről szól, ami fontos a migrációs politika és jogi helyzet megértéséhez. Az állítások hivatalos személyre hivatkoznak, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:47.164080+00:00"
     }
   },
   "legacy_reviews": {}
