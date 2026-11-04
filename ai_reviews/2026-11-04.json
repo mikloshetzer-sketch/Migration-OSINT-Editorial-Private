@@ -474,6 +474,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T19:01:25.684897+00:00"
+    },
+    "record:2118049909719089243": {
+      "hu_text": "@moninaf @Brandon41764911 @busybirdie10 @XavierBecerra Hát? Javier Becerra állítólag több százezer kísérő nélküli migráns gyereket csempész, majd létrehoz egy segélyvonalat számukra, amelyre 65 000 hívás nem érkezik válaszra. Egyes gyerekek arról számoltak be, hogy több mint 700 alkalommal megerőszakolták őket. Mi a helyzet?",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos, de nincs megerősített bizonyíték a csempészésre vagy a segélyvonal működésére vonatkozóan, ezért ellenőrizetlen marad. Fontos a további vizsgálat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:38.353121+00:00"
+    },
+    "record:2118053499959193652": {
+      "hu_text": "@michael_stonks @DearOldState_16 @frontierism @MAGAmutiny Ugyanabból a cikkből idézve: „körülbelül 340 000 (35 százalék) migránst a határon elfogtak és visszafordítottak”. Ez a 69% tartalmaz olyanokat is, akik elég közel voltak a határhoz, hogy ide számítsák őket, de ott nem fordították vissza őket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az idézett adat részben pontosnak tűnik, de a kontextus és a pontos definíciók hiánya miatt nem teljesen ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:38.353140+00:00"
+    },
+    "telegram:1173707041:9665": {
+      "hu_text": "Az Irak Migrációs Minisztériuma és a Nemzetközi Migrációs Szervezet (IOM) közös együttműködésről tárgyal, Irak megfigyelő státuszú csatlakozásáról az IOM-hoz. A minisztérium vezetője, Dr. Safaa Hussein Ahmed fogadta Pascal Reintjens-t, az IOM misszióvezetőjét, és megvitatták az iraki migrációs ügyeket, a közös együttműködés fejlesztését, valamint az intézményi munkamódszerek fejlesztését. Kiemelték az Irak IOM-hoz való csatlakozásának fontosságát, amely elősegíti az együttműködés bővítését és a migrációs ügyek jogi és intézményi keretek közötti kezelését.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos minisztériumi és IOM közlemény, amely megbízható forrásból származik, így ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:38.353145+00:00"
+    },
+    "telegram:1173707041:9667": {
+      "hu_text": "A Migrációs Minisztérium részt vett egy ünnepségen, ahol 14 elemző tanulmányt mutattak be a népszámlálás eredményeire alapozva. A tanulmányok az országon belüli migrációs irányokat, demográfiai változásokat és a lakosság földrajzi eloszlását elemzik. A minisztérium hangsúlyozta ezen eredmények felhasználásának fontosságát a migrációs és elvándorlási politikák fejlesztésében, valamint a fenntartható megoldások biztosításában a belső menekültek számára. Kiemelték az adatáramlás és intézményi együttműködés erősítésének szükségességét a hatékony beavatkozások érdekében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos minisztériumi közlemény, amely megbízható forrásból származik, így ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:38.353149+00:00"
+    },
+    "telegram:1261826972:54248": {
+      "hu_text": "◼ Videó mellékelve ▶ A belügyminisztérium kineveti Ceutát a Tarajal móló ígért munkálataival kapcsolatban\n\n➡ A Salvemos Ceuta egyesület választ kapott az információkérésére, amelyben „kiegészítő intézkedésekről” beszélnek, és megindokolják, miért nem teszik közzé a munkálatokat\n\n➡ Ma a határ menti terület kilátása siralmas\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/interior-se-rie-ceuta-obra-prometida-espigon-tarajal/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi hírportál beszámolója, amely konkrét eseményről és hivatalos válaszról számol be, így ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:38.353153+00:00"
+    },
+    "telegram:1261826972:54250": {
+      "hu_text": "🚩 A rendőrség fellép a Príncipe negyedben a migránsok elfogására, néhányan visszatérnek Marokkóba\n\n➡ Az UPR egységei a területen vannak, míg az UIP egységei más ceutai helyszíneken, például Sidi Embarekben végeznek ellenőrzéseket\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/policia-actua-principe-interceptar-inmigrantes-algunos-regresan-marruecos/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi hírportál beszámolója konkrét rendőri intézkedésekről, így ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T19:01:38.353156+00:00"
     }
   },
   "legacy_reviews": {}
