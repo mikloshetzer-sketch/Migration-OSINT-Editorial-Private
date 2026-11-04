@@ -1,0 +1,1102 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "live_events": [
+    {
+      "id": 822,
+      "event_id": 822,
+      "source": "X",
+      "source_post_id": "2117822148110635468",
+      "author": "Unsilent_TX",
+      "published_at": "2026-11-04T03:32:01Z",
+      "collected_at": "2026-11-04T03:38:56Z",
+      "event_type": "BORDER_MEASURE",
+      "signal_type": "BORDER_MEASURE",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@BrettVanderkin @EricLDaugh Trump closed the border and is deporting migrants",
+      "url": "https://x.com/Unsilent_TX/status/2117822148110635468",
+      "source_url": "https://x.com/Unsilent_TX/status/2117822148110635468"
+    },
+    {
+      "id": 823,
+      "event_id": 823,
+      "source": "X",
+      "source_post_id": "2117819309309428041",
+      "author": "msp8620",
+      "published_at": "2026-11-04T03:20:45Z",
+      "collected_at": "2026-11-04T03:38:57Z",
+      "event_type": "BORDER_MEASURE",
+      "signal_type": "BORDER_MEASURE",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@LesnaDusza2 @libertyLense @MattWalshBlog The executive branch has the border closed so that won’t change. This admin is flooding in migrant workers anyway but hopefully the right can find a real constitutional conservative by 2028 and rid itself of this disgraced pedo admin",
+      "url": "https://x.com/msp8620/status/2117819309309428041",
+      "source_url": "https://x.com/msp8620/status/2117819309309428041"
+    },
+    {
+      "id": 824,
+      "event_id": 824,
+      "source": "X",
+      "source_post_id": "2117815210731852107",
+      "author": "grok",
+      "published_at": "2026-11-04T03:04:27Z",
+      "collected_at": "2026-11-04T03:40:30Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@vinaytaparia Indigenous peoples inhabited the Americas for millennia before Columbus arrived in 1492. They descended from Asian migrants who crossed Beringia tens of thousands of years earlier. Major groups included Native American tribes in North America and civilizations such as the Maya,",
+      "url": "https://x.com/grok/status/2117815210731852107",
+      "source_url": "https://x.com/grok/status/2117815210731852107"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 657,
+      "group_id": 657,
+      "event_type": "BORDER_MEASURE",
+      "dominant_event_type": "BORDER_MEASURE",
+      "title": "BORDER_MEASURE",
+      "representative_text": "@BrettVanderkin @EricLDaugh Trump closed the border and is deporting migrants",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-04T03:32:01Z",
+      "last_seen": "2026-11-04T03:32:01Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-04T03:38:56Z",
+      "updated_at": "2026-11-04T03:38:56Z"
+    },
+    {
+      "id": 658,
+      "group_id": 658,
+      "event_type": "BORDER_MEASURE",
+      "dominant_event_type": "BORDER_MEASURE",
+      "title": "BORDER_MEASURE",
+      "representative_text": "@LesnaDusza2 @libertyLense @MattWalshBlog The executive branch has the border closed so that won’t change. This admin is flooding in migrant workers anyway but hopefully the right can find a real constitutional conservative by 2028 and rid itself of this disgraced pedo admin",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-04T03:20:45Z",
+      "last_seen": "2026-11-04T03:20:45Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-04T03:38:57Z",
+      "updated_at": "2026-11-04T03:38:57Z"
+    },
+    {
+      "id": 659,
+      "group_id": 659,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - AMERICAS",
+      "representative_text": "@vinaytaparia Indigenous peoples inhabited the Americas for millennia before Columbus arrived in 1492. They descended from Asian migrants who crossed Beringia tens of thousands of years earlier. Major groups included Native American tribes in North America and civilizations such as the Maya,",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-04T03:04:27Z",
+      "last_seen": "2026-11-04T03:04:27Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-04T03:40:30Z",
+      "updated_at": "2026-11-04T03:40:30Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1324,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xn7k5f",
+      "author": "ElectronicAge7073",
+      "language": null,
+      "published_at": "2026-11-03T22:40:34Z",
+      "first_detected_at": "2026-11-04T03:38:57Z",
+      "last_detected_at": "2026-11-04T03:38:57Z",
+      "detection_count": 1,
+      "text": "Men seeking asylum and refugee\nQuick post but why is it always frowned upon when men seek asylum or refugee from wars or bad countries conditions? Do men deserve the trauma murder struggle and the hardships ? Aren't they allowed to seek a better life opportunities or to live with dignity and respect?... I noticed alot of hatred online (as usual) against men seeking help or running from wars For example, when it comes to illegal migration, where people are often fleeing wars or terrible conditions in their home countries. I remember watching a documentary about this phenomenon in different parts of the world, whether it involved refugees from Africa or the Middle East migrating to Europe, Europeans moving to other European countries, or even Europeans migrating to Asian countries. There always seemed to be a certain pattern in how migrants were treated: women and children were allowed in, while men were arrested and taken to prisons or detention centres. And I quote one border guard: \"I have to be honest. We must always be stricter with men and prevent them from entering, unlike women and children.\" It was an Eastern European country but I forgot wich one . I don't understand why women are always grouped together with children. I have seen countless online comments from both men and women mocking male refugees, calling them cowards and arguing that women and children should take priority over them, that they should return to the front lines and fight, or that they should stay behind and rebuild their countries (even when their countries aren't necessarily at war but are simply in terrible condition). Yet women rarely receive the same criticism or are expected to shoulder the same responsibility for rebuilding their countries or participating in wars. Ukrainian women, for example. I find myself wondering why.??!! One particularly strange example that caught my attention recently was the latest wave of illegal migration involving young Moroccan men entering Spain (bear with me). I noticed numerous comments claiming that these people weren't refugees but invaders because they were of military age (seeing men as canon folders and disposable by other men and women), and because there were no women or children among them. As though the presence of women and children would somehow make the situation more morally acceptable, whereas a group consisting entirely of men is automatically controversial and problematic. I also want to clarify something to avoid being misunderstood: I do not support illegal migration, particularly from countries that are culturally incompatible with the receiving society and don't share its principles or outlook. I don't support these young Moroccan men migrating to Spain, and I believe that many of them could have a profoundly negative impact on Spanish culture, particularly considering that a significant number are uneducated, uncultured, poorly raised, lacking in basic hygiene, and lacking the manners and civilised behaviour expected in a functioning society. They don't seem particularly capable of constructive creativity or innovation, but rather of destruction and spreading disorder. I therefore wouldn't recommend allowing them to roam freely and unchecked. And no, I am not generalising or suggesting that everyone is like this. I recognise that countries contain different social classes, groups and individuals, and that generalisations are unfair. I am referring specifically to the demographic that dominates the country's cultural atmosphere. However, contrary to what some people in the West seem to believe, this isn't some organised plan to invade their countries. It's true that some migrants take advantage of the tolerance they are shown to do whatever they please, but this isn't a coordinated invasion. It's simply a dumb population seeking a better life after contributing to the deterioration of its own country, and subsequently moving elsewhere to do the same because that's how they live ... I'd also like to add that women in Morocco rarely engage in irregular migration, partly because the country's culture encourages modesty and staying at home, while placing the responsibility of providing for and financially supporting women on men. Consequently, many women don't feel the same urgency to resort to illegal activities, whether theft or illegal migration, because their husbands are expected to provide for them. Meanwhile, men are left trying to find their own way out of a country plagued by political, social and cultural dysfunction, with very few opportunities. (I'm not Moroccan, but I'm speaking as someone from North Africa, where the cultures are somewhat similar.) Enough geopolitics lol. What I'm trying to get at is that, when it comes to migration, men and women seem to be judged by entirely different standards. I know this is controversial, What I'm trying to express is that a man asking for a decent life can somehow become a controversial issue in itself. Given the choice between saving a man or a woman when there's only one seat left on a refugee evacuation flight, I suspect many people would choose the woman without a second thought. It's just sad, and I believe it is part of what is often described as male disposability. One final clarification: I don't necessarily support allowing refugees from countries with vastly different social and cultural structures to enter other countries with which they may be incompatible. Nor do I believe that any country has an obligation to accommodate them or accept irregular migrants. I'm simply pointing out that being a man who wants asylum seems to be controversial in itself. More often than not, you're labelled as yet another barbaric man who wants to destroy and corrupt the host society specially if you're from a 3rd world country unlike women . This thought crossed my mind after i remembered watching a very old video posted on Facebook by an unknown border guard i assume??( Im not sure and the vid got taken down because it contained dead people and disturbing content). Palestinian men who had been subjected to bombardment were being denied entry and refused asylum, while women and children were allowed through. These men didn't look like terrorists or fit any of the negative stereotypes people might want to associate with them. They were in a horrific state, crying and covered in blood. It was genuinely disturbing. I found myself thinking: What if I were in their position? Anyway, that's my two cents sorry if I'm horrible at articulating my thoughts.",
+      "text_excerpt": "Men seeking asylum and refugee\nQuick post but why is it always frowned upon when men seek asylum or refugee from wars or bad countries conditions? Do men deserve the trauma murder struggle and the hardships ? Aren't they allowed to seek a better life opportunities or to live with dignity and respect?... I noticed alot of hatred online (as usual) against men seeking help or running from wars For example, when it comes to illegal migration, where people are often fleeing wars or terrible conditions in their home countries. I remember watching a documentary about this phenomenon in different parts of the world, whether it involved refugees from Africa or the Middle East migrating to Europe, Eur",
+      "url": "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/",
+      "source_url": "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees from Africa or the Middle East migrating to Europe, Europeans moving"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees from Africa or the Middle East migrating to Europe, Europeans moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1322,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xndo82",
+      "author": "SeanYun",
+      "language": null,
+      "published_at": "2026-11-04T03:24:25Z",
+      "first_detected_at": "2026-11-04T03:38:27Z",
+      "last_detected_at": "2026-11-04T03:38:27Z",
+      "detection_count": 1,
+      "text": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!:) submitted by /u/SeanYun to u/SeanYun",
+      "text_excerpt": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!:) submitted by /u/SeanYun to u/SeanYun",
+      "url": "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "source_url": "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS COMING TO CROSS"
+        ],
+        [
+          "route",
+          "BORDER"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS COMING TO CROSS"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1323,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xndkt0",
+      "author": "SeanYun",
+      "language": null,
+      "published_at": "2026-11-04T03:19:45Z",
+      "first_detected_at": "2026-11-04T03:38:27Z",
+      "last_detected_at": "2026-11-04T03:38:27Z",
+      "detection_count": 1,
+      "text": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!: submitted by /u/SeanYun to u/SeanYun",
+      "text_excerpt": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!: submitted by /u/SeanYun to u/SeanYun",
+      "url": "https://www.reddit.com/r/u_SeanYun/comments/1xndkt0/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "source_url": "https://www.reddit.com/r/u_SeanYun/comments/1xndkt0/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS COMING TO CROSS"
+        ],
+        [
+          "route",
+          "BORDER"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS COMING TO CROSS"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1326,
+      "source": "X",
+      "source_post_id": "2117818548215042505",
+      "author": "RealDEFENCE25",
+      "language": "en",
+      "published_at": "2026-11-04T03:17:43Z",
+      "first_detected_at": "2026-11-04T03:40:00Z",
+      "last_detected_at": "2026-11-04T03:40:00Z",
+      "detection_count": 1,
+      "text": "@TheQuartering Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver permits. \n\nThey all voted today, they told me the poll workers glanced at the IDs and handed them ballot.",
+      "text_excerpt": "@TheQuartering Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver permits. \n\nThey all voted today, they told me the poll workers glanced at the IDs and handed them ballot.",
+      "url": "https://x.com/RealDEFENCE25/status/2117818548215042505",
+      "source_url": "https://x.com/RealDEFENCE25/status/2117818548215042505",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1325,
+      "source": "X",
+      "source_post_id": "2117818585670369769",
+      "author": "Australis_Felix",
+      "language": "en",
+      "published_at": "2026-11-04T03:17:52Z",
+      "first_detected_at": "2026-11-04T03:39:59Z",
+      "last_detected_at": "2026-11-04T03:39:59Z",
+      "detection_count": 1,
+      "text": "Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs. https://t.co/yAgrGvBBXQ",
+      "text_excerpt": "Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs. https://t.co/yAgrGvBBXQ",
+      "url": "https://x.com/Australis_Felix/status/2117818585670369769",
+      "source_url": "https://x.com/Australis_Felix/status/2117818585670369769",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport whilst migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "transport whilst migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1327,
+      "source": "X",
+      "source_post_id": "2117818487108485402",
+      "author": "Australis_Felix",
+      "language": "en",
+      "published_at": "2026-11-04T03:17:29Z",
+      "first_detected_at": "2026-11-04T03:40:00Z",
+      "last_detected_at": "2026-11-04T03:40:00Z",
+      "detection_count": 1,
+      "text": "@PMalinauskasMP Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs.",
+      "text_excerpt": "@PMalinauskasMP Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs.",
+      "url": "https://x.com/Australis_Felix/status/2117818487108485402",
+      "source_url": "https://x.com/Australis_Felix/status/2117818487108485402",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport whilst migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "transport whilst migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1324,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xn7k5f",
+      "author": "ElectronicAge7073",
+      "language": null,
+      "published_at": "2026-11-03T22:40:34Z",
+      "first_detected_at": "2026-11-04T03:38:57Z",
+      "last_detected_at": "2026-11-04T03:38:57Z",
+      "detection_count": 1,
+      "text": "Men seeking asylum and refugee\nQuick post but why is it always frowned upon when men seek asylum or refugee from wars or bad countries conditions? Do men deserve the trauma murder struggle and the hardships ? Aren't they allowed to seek a better life opportunities or to live with dignity and respect?... I noticed alot of hatred online (as usual) against men seeking help or running from wars For example, when it comes to illegal migration, where people are often fleeing wars or terrible conditions in their home countries. I remember watching a documentary about this phenomenon in different parts of the world, whether it involved refugees from Africa or the Middle East migrating to Europe, Europeans moving to other European countries, or even Europeans migrating to Asian countries. There always seemed to be a certain pattern in how migrants were treated: women and children were allowed in, while men were arrested and taken to prisons or detention centres. And I quote one border guard: \"I have to be honest. We must always be stricter with men and prevent them from entering, unlike women and children.\" It was an Eastern European country but I forgot wich one . I don't understand why women are always grouped together with children. I have seen countless online comments from both men and women mocking male refugees, calling them cowards and arguing that women and children should take priority over them, that they should return to the front lines and fight, or that they should stay behind and rebuild their countries (even when their countries aren't necessarily at war but are simply in terrible condition). Yet women rarely receive the same criticism or are expected to shoulder the same responsibility for rebuilding their countries or participating in wars. Ukrainian women, for example. I find myself wondering why.??!! One particularly strange example that caught my attention recently was the latest wave of illegal migration involving young Moroccan men entering Spain (bear with me). I noticed numerous comments claiming that these people weren't refugees but invaders because they were of military age (seeing men as canon folders and disposable by other men and women), and because there were no women or children among them. As though the presence of women and children would somehow make the situation more morally acceptable, whereas a group consisting entirely of men is automatically controversial and problematic. I also want to clarify something to avoid being misunderstood: I do not support illegal migration, particularly from countries that are culturally incompatible with the receiving society and don't share its principles or outlook. I don't support these young Moroccan men migrating to Spain, and I believe that many of them could have a profoundly negative impact on Spanish culture, particularly considering that a significant number are uneducated, uncultured, poorly raised, lacking in basic hygiene, and lacking the manners and civilised behaviour expected in a functioning society. They don't seem particularly capable of constructive creativity or innovation, but rather of destruction and spreading disorder. I therefore wouldn't recommend allowing them to roam freely and unchecked. And no, I am not generalising or suggesting that everyone is like this. I recognise that countries contain different social classes, groups and individuals, and that generalisations are unfair. I am referring specifically to the demographic that dominates the country's cultural atmosphere. However, contrary to what some people in the West seem to believe, this isn't some organised plan to invade their countries. It's true that some migrants take advantage of the tolerance they are shown to do whatever they please, but this isn't a coordinated invasion. It's simply a dumb population seeking a better life after contributing to the deterioration of its own country, and subsequently moving elsewhere to do the same because that's how they live ... I'd also like to add that women in Morocco rarely engage in irregular migration, partly because the country's culture encourages modesty and staying at home, while placing the responsibility of providing for and financially supporting women on men. Consequently, many women don't feel the same urgency to resort to illegal activities, whether theft or illegal migration, because their husbands are expected to provide for them. Meanwhile, men are left trying to find their own way out of a country plagued by political, social and cultural dysfunction, with very few opportunities. (I'm not Moroccan, but I'm speaking as someone from North Africa, where the cultures are somewhat similar.) Enough geopolitics lol. What I'm trying to get at is that, when it comes to migration, men and women seem to be judged by entirely different standards. I know this is controversial, What I'm trying to express is that a man asking for a decent life can somehow become a controversial issue in itself. Given the choice between saving a man or a woman when there's only one seat left on a refugee evacuation flight, I suspect many people would choose the woman without a second thought. It's just sad, and I believe it is part of what is often described as male disposability. One final clarification: I don't necessarily support allowing refugees from countries with vastly different social and cultural structures to enter other countries with which they may be incompatible. Nor do I believe that any country has an obligation to accommodate them or accept irregular migrants. I'm simply pointing out that being a man who wants asylum seems to be controversial in itself. More often than not, you're labelled as yet another barbaric man who wants to destroy and corrupt the host society specially if you're from a 3rd world country unlike women . This thought crossed my mind after i remembered watching a very old video posted on Facebook by an unknown border guard i assume??( Im not sure and the vid got taken down because it contained dead people and disturbing content). Palestinian men who had been subjected to bombardment were being denied entry and refused asylum, while women and children were allowed through. These men didn't look like terrorists or fit any of the negative stereotypes people might want to associate with them. They were in a horrific state, crying and covered in blood. It was genuinely disturbing. I found myself thinking: What if I were in their position? Anyway, that's my two cents sorry if I'm horrible at articulating my thoughts.",
+      "text_excerpt": "Men seeking asylum and refugee\nQuick post but why is it always frowned upon when men seek asylum or refugee from wars or bad countries conditions? Do men deserve the trauma murder struggle and the hardships ? Aren't they allowed to seek a better life opportunities or to live with dignity and respect?... I noticed alot of hatred online (as usual) against men seeking help or running from wars For example, when it comes to illegal migration, where people are often fleeing wars or terrible conditions in their home countries. I remember watching a documentary about this phenomenon in different parts of the world, whether it involved refugees from Africa or the Middle East migrating to Europe, Eur",
+      "url": "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/",
+      "source_url": "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees from Africa or the Middle East migrating to Europe, Europeans moving"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees from Africa or the Middle East migrating to Europe, Europeans moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1322,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xndo82",
+      "author": "SeanYun",
+      "language": null,
+      "published_at": "2026-11-04T03:24:25Z",
+      "first_detected_at": "2026-11-04T03:38:27Z",
+      "last_detected_at": "2026-11-04T03:38:27Z",
+      "detection_count": 1,
+      "text": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!:) submitted by /u/SeanYun to u/SeanYun",
+      "text_excerpt": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!:) submitted by /u/SeanYun to u/SeanYun",
+      "url": "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "source_url": "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS COMING TO CROSS"
+        ],
+        [
+          "route",
+          "BORDER"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS COMING TO CROSS"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1323,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xndkt0",
+      "author": "SeanYun",
+      "language": null,
+      "published_at": "2026-11-04T03:19:45Z",
+      "first_detected_at": "2026-11-04T03:38:27Z",
+      "last_detected_at": "2026-11-04T03:38:27Z",
+      "detection_count": 1,
+      "text": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!: submitted by /u/SeanYun to u/SeanYun",
+      "text_excerpt": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!: submitted by /u/SeanYun to u/SeanYun",
+      "url": "https://www.reddit.com/r/u_SeanYun/comments/1xndkt0/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "source_url": "https://www.reddit.com/r/u_SeanYun/comments/1xndkt0/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS COMING TO CROSS"
+        ],
+        [
+          "route",
+          "BORDER"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS COMING TO CROSS"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1326,
+      "source": "X",
+      "source_post_id": "2117818548215042505",
+      "author": "RealDEFENCE25",
+      "language": "en",
+      "published_at": "2026-11-04T03:17:43Z",
+      "first_detected_at": "2026-11-04T03:40:00Z",
+      "last_detected_at": "2026-11-04T03:40:00Z",
+      "detection_count": 1,
+      "text": "@TheQuartering Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver permits. \n\nThey all voted today, they told me the poll workers glanced at the IDs and handed them ballot.",
+      "text_excerpt": "@TheQuartering Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver permits. \n\nThey all voted today, they told me the poll workers glanced at the IDs and handed them ballot.",
+      "url": "https://x.com/RealDEFENCE25/status/2117818548215042505",
+      "source_url": "https://x.com/RealDEFENCE25/status/2117818548215042505",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Migrants under asylum were voting today in texas. I work with about 30 Venezuelans on asylum status with driver"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1325,
+      "source": "X",
+      "source_post_id": "2117818585670369769",
+      "author": "Australis_Felix",
+      "language": "en",
+      "published_at": "2026-11-04T03:17:52Z",
+      "first_detected_at": "2026-11-04T03:39:59Z",
+      "last_detected_at": "2026-11-04T03:39:59Z",
+      "detection_count": 1,
+      "text": "Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs. https://t.co/yAgrGvBBXQ",
+      "text_excerpt": "Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs. https://t.co/yAgrGvBBXQ",
+      "url": "https://x.com/Australis_Felix/status/2117818585670369769",
+      "source_url": "https://x.com/Australis_Felix/status/2117818585670369769",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport whilst migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "transport whilst migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1327,
+      "source": "X",
+      "source_post_id": "2117818487108485402",
+      "author": "Australis_Felix",
+      "language": "en",
+      "published_at": "2026-11-04T03:17:29Z",
+      "first_detected_at": "2026-11-04T03:40:00Z",
+      "last_detected_at": "2026-11-04T03:40:00Z",
+      "detection_count": 1,
+      "text": "@PMalinauskasMP Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs.",
+      "text_excerpt": "@PMalinauskasMP Thank you Peter Malinauskas - my ardent wish is to live in one of these modular homes 90 minutes commute from the CBD with no train or bus transport whilst migrant bum wipers 15 to a house clog up the inner suburbs.",
+      "url": "https://x.com/Australis_Felix/status/2117818487108485402",
+      "source_url": "https://x.com/Australis_Felix/status/2117818487108485402",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport whilst migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "transport whilst migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1324,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xn7k5f",
+      "author": "ElectronicAge7073",
+      "language": null,
+      "published_at": "2026-11-03T22:40:34Z",
+      "first_detected_at": "2026-11-04T03:38:57Z",
+      "last_detected_at": "2026-11-04T03:38:57Z",
+      "detection_count": 1,
+      "text": "Men seeking asylum and refugee\nQuick post but why is it always frowned upon when men seek asylum or refugee from wars or bad countries conditions? Do men deserve the trauma murder struggle and the hardships ? Aren't they allowed to seek a better life opportunities or to live with dignity and respect?... I noticed alot of hatred online (as usual) against men seeking help or running from wars For example, when it comes to illegal migration, where people are often fleeing wars or terrible conditions in their home countries. I remember watching a documentary about this phenomenon in different parts of the world, whether it involved refugees from Africa or the Middle East migrating to Europe, Europeans moving to other European countries, or even Europeans migrating to Asian countries. There always seemed to be a certain pattern in how migrants were treated: women and children were allowed in, while men were arrested and taken to prisons or detention centres. And I quote one border guard: \"I have to be honest. We must always be stricter with men and prevent them from entering, unlike women and children.\" It was an Eastern European country but I forgot wich one . I don't understand why women are always grouped together with children. I have seen countless online comments from both men and women mocking male refugees, calling them cowards and arguing that women and children should take priority over them, that they should return to the front lines and fight, or that they should stay behind and rebuild their countries (even when their countries aren't necessarily at war but are simply in terrible condition). Yet women rarely receive the same criticism or are expected to shoulder the same responsibility for rebuilding their countries or participating in wars. Ukrainian women, for example. I find myself wondering why.??!! One particularly strange example that caught my attention recently was the latest wave of illegal migration involving young Moroccan men entering Spain (bear with me). I noticed numerous comments claiming that these people weren't refugees but invaders because they were of military age (seeing men as canon folders and disposable by other men and women), and because there were no women or children among them. As though the presence of women and children would somehow make the situation more morally acceptable, whereas a group consisting entirely of men is automatically controversial and problematic. I also want to clarify something to avoid being misunderstood: I do not support illegal migration, particularly from countries that are culturally incompatible with the receiving society and don't share its principles or outlook. I don't support these young Moroccan men migrating to Spain, and I believe that many of them could have a profoundly negative impact on Spanish culture, particularly considering that a significant number are uneducated, uncultured, poorly raised, lacking in basic hygiene, and lacking the manners and civilised behaviour expected in a functioning society. They don't seem particularly capable of constructive creativity or innovation, but rather of destruction and spreading disorder. I therefore wouldn't recommend allowing them to roam freely and unchecked. And no, I am not generalising or suggesting that everyone is like this. I recognise that countries contain different social classes, groups and individuals, and that generalisations are unfair. I am referring specifically to the demographic that dominates the country's cultural atmosphere. However, contrary to what some people in the West seem to believe, this isn't some organised plan to invade their countries. It's true that some migrants take advantage of the tolerance they are shown to do whatever they please, but this isn't a coordinated invasion. It's simply a dumb population seeking a better life after contributing to the deterioration of its own country, and subsequently moving elsewhere to do the same because that's how they live ... I'd also like to add that women in Morocco rarely engage in irregular migration, partly because the country's culture encourages modesty and staying at home, while placing the responsibility of providing for and financially supporting women on men. Consequently, many women don't feel the same urgency to resort to illegal activities, whether theft or illegal migration, because their husbands are expected to provide for them. Meanwhile, men are left trying to find their own way out of a country plagued by political, social and cultural dysfunction, with very few opportunities. (I'm not Moroccan, but I'm speaking as someone from North Africa, where the cultures are somewhat similar.) Enough geopolitics lol. What I'm trying to get at is that, when it comes to migration, men and women seem to be judged by entirely different standards. I know this is controversial, What I'm trying to express is that a man asking for a decent life can somehow become a controversial issue in itself. Given the choice between saving a man or a woman when there's only one seat left on a refugee evacuation flight, I suspect many people would choose the woman without a second thought. It's just sad, and I believe it is part of what is often described as male disposability. One final clarification: I don't necessarily support allowing refugees from countries with vastly different social and cultural structures to enter other countries with which they may be incompatible. Nor do I believe that any country has an obligation to accommodate them or accept irregular migrants. I'm simply pointing out that being a man who wants asylum seems to be controversial in itself. More often than not, you're labelled as yet another barbaric man who wants to destroy and corrupt the host society specially if you're from a 3rd world country unlike women . This thought crossed my mind after i remembered watching a very old video posted on Facebook by an unknown border guard i assume??( Im not sure and the vid got taken down because it contained dead people and disturbing content). Palestinian men who had been subjected to bombardment were being denied entry and refused asylum, while women and children were allowed through. These men didn't look like terrorists or fit any of the negative stereotypes people might want to associate with them. They were in a horrific state, crying and covered in blood. It was genuinely disturbing. I found myself thinking: What if I were in their position? Anyway, that's my two cents sorry if I'm horrible at articulating my thoughts.",
+      "text_excerpt": "Men seeking asylum and refugee\nQuick post but why is it always frowned upon when men seek asylum or refugee from wars or bad countries conditions? Do men deserve the trauma murder struggle and the hardships ? Aren't they allowed to seek a better life opportunities or to live with dignity and respect?... I noticed alot of hatred online (as usual) against men seeking help or running from wars For example, when it comes to illegal migration, where people are often fleeing wars or terrible conditions in their home countries. I remember watching a documentary about this phenomenon in different parts of the world, whether it involved refugees from Africa or the Middle East migrating to Europe, Eur",
+      "url": "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/",
+      "source_url": "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees from Africa or the Middle East migrating to Europe, Europeans moving"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees from Africa or the Middle East migrating to Europe, Europeans moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xn7k5f"
+      ],
+      "related_authors": [
+        "ElectronicAge7073"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/MensRights/comments/1xn7k5f/men_seeking_asylum_and_refugee/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:24441",
+      "timestamp": "2026-11-04T03:29:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117821445283713388",
+      "author": "stev02k3",
+      "url": "https://x.com/stev02k3/status/2117821445283713388",
+      "source_url": "https://x.com/stev02k3/status/2117821445283713388",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@0xNotes @Lukewearechange Lack of mass deportations? You say this as migrant caravans are waiting at the border in anticipation of Dema taking the House and Senate.",
+      "text_excerpt": "@0xNotes @Lukewearechange Lack of mass deportations? You say this as migrant caravans are waiting at the border in anticipation of Dema taking the House and Senate.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-04T03:38:57Z",
+      "last_collected_at": "2026-11-04T03:38:57Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24442",
+      "timestamp": "2026-11-04T03:28:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117821340895867264",
+      "author": "SamLambert44299",
+      "url": "https://x.com/SamLambert44299/status/2117821340895867264",
+      "source_url": "https://x.com/SamLambert44299/status/2117821340895867264",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat",
+        "dinghy",
+        "migrant_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@GBNEWS @Jacob_Rees_Mogg We all know its those ille immigrants sleeping in tents or living in the many migrant camps all over France, that keep crossing the channel on dinghies to Britain. But Burnham is trying to tell us doing so will stop the boats because we will have access to EURODAC the EU's https://t.co/OGDvUPMDvR",
+      "text_excerpt": "@GBNEWS @Jacob_Rees_Mogg We all know its those ille immigrants sleeping in tents or living in the many migrant camps all over France, that keep crossing the channel on dinghies to Britain. But Burnham is trying to tell us doing so will stop the boats because we will have access to EURODAC the EU's https://t.co/OGDvUPMDvR",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-04T03:38:57Z",
+      "last_collected_at": "2026-11-04T03:38:57Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24449",
+      "timestamp": "2026-11-04T03:06:36Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117815748106350622",
+      "author": "ChihHsinTsai1",
+      "url": "https://x.com/ChihHsinTsai1/status/2117815748106350622",
+      "source_url": "https://x.com/ChihHsinTsai1/status/2117815748106350622",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@elcriticopol 2003-07-25 Chinese News\nTwelve Cuban migrants converted a truck into a boat to smuggle themselves into the United States. https://t.co/FFF0yLbvY6",
+      "text_excerpt": "@elcriticopol 2003-07-25 Chinese News\nTwelve Cuban migrants converted a truck into a boat to smuggle themselves into the United States. https://t.co/FFF0yLbvY6",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-04T03:39:30Z",
+      "last_collected_at": "2026-11-04T03:39:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24454",
+      "timestamp": "2026-11-04T02:53:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2117812413722665056",
+      "author": "dafakdatname",
+      "url": "https://x.com/dafakdatname/status/2117812413722665056",
+      "source_url": "https://x.com/dafakdatname/status/2117812413722665056",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@Lordmiles next time tell them you are an afghan refugee with no credit score and just arrived on a boat. they love this shet.",
+      "text_excerpt": "@Lordmiles next time tell them you are an afghan refugee with no credit score and just arrived on a boat. they love this shet.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-04T03:39:30Z",
+      "last_collected_at": "2026-11-04T03:39:30Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-04T03:40:41.728879+00:00"
+}
