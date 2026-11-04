@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T03:41:34.416374+00:00"
+    },
+    "group:661": {
+      "hu_text": "Azt érted, hogy a kis csónakos migránsok, akik illegálisan lépnek be az országba, és azonnal ki kellene toloncolni őket… a kormányok most az illegális tevékenységet jutalmazzák.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz konkrét tényállítást vagy bizonyítható adatot, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:43:49.517286+00:00"
+    },
+    "group:662": {
+      "hu_text": "A választási eredmények legrosszabb része az, hogy a kék államokból többen költöznek a vörös államokba, és az újonnan érkező gazdasági migránsok továbbra is a demokratákra szavaznak, miközben elmenekülnek a demokraták politikája elől. Lásd: Texas.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és előrejelzés, nem bizonyított tény, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:43:49.517306+00:00"
+    },
+    "information:24495": {
+      "hu_text": "Ez egy szürreális, abszurd történet egy kaotikus keddi napról, amelyben gazdagok hobbijairól, rendőri intézkedésekről és különös eseményekről van szó, de nem kapcsolódik a migrációhoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval kapcsolatos releváns információt, inkább abszurd, szórakoztató tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:43:49.517310+00:00"
+    },
+    "information:24509": {
+      "hu_text": "A hatóságok hétfőn több mint 850-re emelték a Görögországba érkezett migránsok számát, akik főként Észak-Afrikából keltek át a Földközi-tengeren a déli Kréta szigetére.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A számadat és az esemény hivatalos hatósági forrásból származik, de további megerősítés szükséges a pontos hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:43:49.517313+00:00"
+    },
+    "information:24510": {
+      "hu_text": "Egy új migránskaraván – több száz, akár ezer fő, főként Hondurasból, Guatemalából, El Salvadorból, Ecuadorból és Haitiból – 2026. szeptember 20-án indult el San Pedro Sulából, Hondurasból, és Észak-Mexikón keresztül az USA határa felé tart.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A karaván mozgásáról szóló információ fontos migrációs esemény, de nincs hivatalos megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:43:49.517315+00:00"
+    },
+    "group:660": {
+      "hu_text": "Ha ez megint egy gumicsónakos migráns, akkor bizonyára ki kellene toloncolni, mert állítólag megpróbált ellopni egy halászhajót, hogy Franciaországból összeszedje a családját. Egy szudáni férfit letartóztattak, mert állítólag megpróbált ellopni egy hajót, hogy összegyűjtse a családját Franciaországból.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egyedi, ellenőrizetlen, közösségi médiás forrásból származik, nincs megerősített bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T11:43:54.617949+00:00"
     }
   },
   "legacy_reviews": {}
