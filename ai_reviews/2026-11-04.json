@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-04",
+  "reviews": {
+    "group:657": {
+      "hu_text": "@BrettVanderkin @EricLDaugh Trump lezárta a határt és kitoloncolja a migránsokat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és határzárra vonatkozó állítást tartalmaz, de nincs konkrét bizonyíték a lezárás és kitoloncolások mértékére vagy időpontjára vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:17.538275+00:00"
+    },
+    "group:658": {
+      "hu_text": "@LesnaDusza2 @libertyLense @MattWalshBlog A végrehajtó hatalom lezárta a határt, ez nem fog változni. Ez a kormányzat amúgy is sok migráns munkást enged be, de remélhetőleg a jobboldal 2028-ra talál egy valódi alkotmányos konzervatív vezetőt, és megszabadul ettől a megbélyegzett pedofil kormányzattól.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások keverik a politikai véleményt és a határzárra vonatkozó állítást, de nincs konkrét bizonyíték a határzár fennállására vagy a migráns munkások számának növekedésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:17.538292+00:00"
+    },
+    "group:659": {
+      "hu_text": "Az őslakos népek évezredek óta lakták Amerikát, még Kolumbusz 1492-es érkezése előtt. Ők ázsiai migránsok leszármazottai, akik tízezrekkel korábban átkeltek Beringián. Fő csoportok közé tartoztak az észak-amerikai indián törzsek és olyan civilizációk, mint a maja.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi tényeket tartalmaz, amelyek széles körben elfogadottak és dokumentáltak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:17.538296+00:00"
+    },
+    "information:24441": {
+      "hu_text": "@0xNotes @Lukewearechange Nincs tömeges kitoloncolás? Ezt mondod, miközben migráns karavánok várakoznak a határon, remélve, hogy a demokraták megszerzik a képviselőházat és a szenátust.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és várakozásokat tartalmaz a migrációs helyzetről, de nincs konkrét bizonyíték a kitoloncolások hiányára vagy a karavánok pontos helyzetére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:17.538298+00:00"
+    },
+    "information:24442": {
+      "hu_text": "@GBNEWS @Jacob_Rees_Mogg Mindannyian tudjuk, hogy azok az illegális bevándorlók, akik sátrakban vagy Franciaország számos migránstáborában élnek, folyamatosan átkelnek a Csatornán gumicsónakokon Nagy-Britanniába. De Burnham azt próbálja mondani, hogy ez meg fog állni, mert hozzáférésünk lesz az EURODAC-hoz, az EU adatbázisához.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs helyzetet és határbiztonsági intézkedést tárgyal, de nincs megerősített adat az EURODAC hatásáról vagy a migránsok átkelésének pontos mértékéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:17.538301+00:00"
+    },
+    "information:24449": {
+      "hu_text": "2003-07-25 Kínai hírek: Tizenkét kubai migráns egy teherautót hajóvá alakított át, hogy az Egyesült Államokba csempésszék magukat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Egy konkrét migrációs eseményről szóló hír, de nincs további bizonyíték vagy részletek az esemény hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:17.538303+00:00"
+    }
+  }
+}
