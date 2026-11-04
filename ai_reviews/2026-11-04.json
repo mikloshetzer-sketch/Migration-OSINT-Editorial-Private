@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T03:41:17.538303+00:00"
+    },
+    "information:24454": {
+      "hu_text": "@Lordmiles, legközelebb mondd nekik, hogy afgán menekült vagy, nincs hitelminősítésed, és épp most érkeztél hajón. Ezt nagyon szeretik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény vagy tanács, nincs tényállítás, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:27.105640+00:00"
+    },
+    "record:2117815210731852107": {
+      "hu_text": "Az őslakos népek évezredeken át lakták Amerikát, még Kolumbusz 1492-es érkezése előtt. Ők ázsiai migránsok leszármazottai, akik több tízezer évvel korábban átkeltek a Bering-földhídon. Fő csoportok közé tartoztak az észak-amerikai indián törzsek és olyan civilizációk, mint a maja.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások történelmi tényeken alapulnak, de a pontos részletek és időpontok tudományos viták tárgyát képezhetik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:27.105660+00:00"
+    },
+    "record:2117818487108485402": {
+      "hu_text": "Köszönöm Peter Malinauskasnak – nagyon szeretnék egy ilyen moduláris otthonban élni, 90 perces ingázással a belvárostól, vonat vagy busz nélkül, miközben migráns segédek 15-en egy házban eltorlaszolják a belső kerületeket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy személyes vélemény vagy panasz, amely nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:27.105663+00:00"
+    },
+    "record:2117818548215042505": {
+      "hu_text": "Texasban ma menekült státuszú migránsok szavaztak. Körülbelül 30 venezuelai menekülttel dolgozom, akik vezetői engedéllyel rendelkeznek. Mindannyian szavaztak, a szavazatszámlálók csak rápillantottak az igazolványokra, majd átadták a szavazólapot.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szavazási folyamatra vonatkozó állítások fontosak lehetnek a választási integritás szempontjából, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:27.105666+00:00"
+    },
+    "record:2117818585670369769": {
+      "hu_text": "Köszönöm Peter Malinauskasnak – nagyon szeretnék egy ilyen moduláris otthonban élni, 90 perces ingázással a belvárostól, vonat vagy busz nélkül, miközben migráns segédek 15-en egy házban eltorlaszolják a belső kerületeket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez ismét egy személyes vélemény vagy panasz, nincs ellenőrizhető tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:27.105669+00:00"
+    },
+    "record:2117819309309428041": {
+      "hu_text": "A végrehajtó hatalom lezárta a határt, így ez nem fog változni. Ez a kormányzat amúgy is beárasztja a munkaerőpiacot migráns munkásokkal, de remélhetőleg a jobboldal 2028-ra talál egy valódi alkotmányos konzervatív vezetőt, hogy megszabaduljon ettől a megbélyegzett, pedofil kormányzattól.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és jövőbeli várakozásokat tartalmaznak, nincs bizonyíték a határzár vagy a kormányzat jellemzésére.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:27.105672+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
