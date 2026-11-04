@@ -133,6 +133,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T03:41:27.105672+00:00"
+    },
+    "record:2117822148110635468": {
+      "hu_text": "Trump lezárta a határt és kitoloncolja a migránsokat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai jellegű, de nincs megerősített bizonyíték a határlezárásról vagy kitoloncolásról, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:34.416351+00:00"
+    },
+    "record:reddit_1xn7k5f": {
+      "hu_text": "A bejegyzés arról szól, hogy a férfi menekültek és menedékkérők gyakran negatív megítélés alá esnek, míg a nők és gyermekek előnyt élveznek a befogadásban. Egy kelet-európai határőr idézete szerint szigorúbbak a férfiakkal szemben, és gyakran börtönbe vagy fogdába zárják őket. A poszt a férfiak elleni online gyűlöletet és előítéleteket is említi.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményeket és tapasztalatokat tartalmaz, nem állít konkrét tényeket, ezért ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:34.416368+00:00"
+    },
+    "record:reddit_1xndkt0": {
+      "hu_text": "Ó, Istenem! Azt írja, hogy az USA határának újranyitása valós esemény, ami miatt hatalmas migránshullám várható, és minden összeomlik. A bejegyzés erősen túlzó, érzelmileg túlfűtött.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás túlzó és nem támasztott alá bizonyítékokkal, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:34.416371+00:00"
+    },
+    "record:reddit_1xndo82": {
+      "hu_text": "Ugyanaz a bejegyzés, mint az előző: az USA határának újranyitását említi, ami nagy migránshullámot idézhet elő, és mindent összeomlónak ír le.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás túlzó, nem bizonyított, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-04T03:41:34.416374+00:00"
     }
   },
   "legacy_reviews": {}
