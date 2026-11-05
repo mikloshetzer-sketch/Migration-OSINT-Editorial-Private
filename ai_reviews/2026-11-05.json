@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T08:44:33.605470+00:00"
+    },
+    "information:24746": {
+      "hu_text": "Ha visszaszerezzük az ellopott földjeinket Indiától és kitoloncoljuk az indiai migránsokat, mint a Madhise Bihari terroristákat, akkor tegyük meg. Kína, Nepál, Pakisztán és Banglades együtt fogják meghódítani Indiát és felosztani azt, ahogy az eredetileg volt a britek érkezése előtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és összeesküvés-elmélet jellegű állítás, nincs bizonyíték a tartalom igazolására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:43.201357+00:00"
+    },
+    "record:2118251290979676314": {
+      "hu_text": "Pontosan. Sok kínai migráns szegény munkásként érkezett, nem hódítóként. Az eredeti poszt mögötti feltételezés egy rasszista sztereotípia, miszerint „a kínaiak lopnak”, legyen az föld, vagyon vagy lehetőségek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez a bejegyzés egy véleményt és társadalmi vitát tükröz, nem tartalmaz konkrét tényállítást migrációs eseményről vagy politikáról, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:43.201375+00:00"
+    },
+    "record:2118252421931528279": {
+      "hu_text": "Fehérorosz határnyomás visszatért. Négy csendes nap után a litván határőrök szerdán 28 szabálytalan migránst fordítottak vissza Fehéroroszországból. Ez idén már több mint 1850, ami meghaladja a 2025 egész évére vonatkozó kb. 1650-es számot. Lettország kedden 38, szerdán 26 próbálkozást állított meg.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét adatokat közöl a határátlépési nyomásról és visszafordításokról, ami fontos migrációs esemény, de nincs független megerősítés, ezért ellenőrizetlen, de magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:43.201381+00:00"
+    },
+    "record:2118253180396134566": {
+      "hu_text": "Hatóságok drámai éjszakai mentőakciót hajtottak végre Andhra Pradesh Eluru körzetében, biztonságban kimentve 22 migráns munkást, akik a Pedda Vagu áradó vizei között rekedtek a Routhugudem híd közelében. A mentés a Murasu ciklon által kiváltott heves esőzések közepette történt.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy konkrét mentőakcióról számol be, ami humanitárius esemény, de nincs független forrásból megerősítve, ezért ellenőrizetlen, de fontos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:43.201385+00:00"
+    },
+    "record:2118253882174267549": {
+      "hu_text": "Egy hajó, amelyről eltávolították az összes migránst, nem lehet „készen arra, hogy behozza őket”. Feleslegesen átvágott egy hajót, amin egy mentő dolgozó volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy határbiztonsági helyzetre utal, de nem tartalmaz konkrét tényeket vagy bizonyítékokat, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:43.201389+00:00"
+    },
+    "record:2118257607496638751": {
+      "hu_text": "Az érkezések csökkenése egyszerűen azt jelenti, hogy az illegális hajós migránsok teljes száma nem nő olyan gyorsan. Ez olyan, mint ha az éves hiányunk csökken, de az államadósságunk mégis nő. Ez nem igazi győzelem, ugye?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a migrációs trendekről, nem tartalmaz konkrét tényállítást vagy bizonyítékot, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:43.201393+00:00"
     }
   },
   "legacy_reviews": {}
