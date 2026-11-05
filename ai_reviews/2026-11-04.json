@@ -584,6 +584,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-04T19:01:47.164080+00:00"
+    },
+    "information:24721": {
+      "hu_text": "Érdekes lenne megtudni, hogy valaki fontolóra vette-e vagy vizsgálta-e a WISE PLC részvényt befektetésként. Röviden: ahogy máshol is elmagyaráztam, egy koncentrált, 17 részvényből álló növekedési portfólióm van, és a Wise az egyetlen cégek egyike, amely megfelel a szűrőfeltételeimnek, és egy olyan rést tölt be, amit más portfólióbeli részvények nem. Talán még fontosabb, hogy árfolyama kevésbé mozog együtt a portfólió többi részvényével, mint szinte bármely más tulajdonom. Ez azt jelenti, hogy történelmileg az árfolyammozgása nem korrelál az AI beruházásokkal vagy szoftvercégekkel, amelyek a portfólióm nagy részét teszik ki. A belga pénzmosás elleni vizsgálat jelentős probléma, ezt nem tagadom. Azonban a várakozás a megoldásra valószínűleg magasabb árat eredményezne, ha ez lenne az oka a vásárlás késleltetésének. Ezzel a tudással tegnap 800 pennynél kezdtem pozíciót a Wise-ban, ami most kb. 3,5%-át teszi ki a portfóliómnak. Az alábbiakban ismertetem a cég megértésemet és miért vonzó számomra, az én befektetési keretrendszerem alapján. A Wise pénzt mozgat határok között 12,5 millió aktív ember és vállalkozás számára. Elsőre egy alkalmazásnak tűnik, de alaposabb elemzés után három szempontból több annál: saját fizetési hálózattal rendelkezik, közvetlen kapcsolatban áll kilenc fizetési rendszerrel (köztük az Egyesült Királyság, SEPA, Magyarország), és több mint 80 engedéllyel bír. A legtöbb pénz valójában soha nem hagyja el a határt, mert a Wise ellentétes irányú pénzmozgásokat párosít és helyben fizet ki.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg befektetési véleményt és cégismertetőt tartalmaz, amely nem kapcsolódik migrációs témákhoz, így irreleváns a migrációs OSINT szempontjából. Az állítások nem migrációs eseményekre vagy politikákra vonatkoznak, ezért alacsony prioritású és ellenőrizetlen státuszú.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:24.500449+00:00"
+    },
+    "information:24754": {
+      "hu_text": "A Restore Britain „Az új illegális érkezők fogvatartási rendszere” című szakpolitikai tanulmányával kapcsolatban kérdéseim vannak. A tanulmányban a szervezet bemutatja elképzelését az illegálisan az Egyesült Királyságba érkező migránsok fogvatartási központjairól, de nem válaszol bizonyos kérdésekre. Lesznek-e külön létesítmények nemek szerint? Az Egyesült Királyság börtöneiben a férfi és női fogvatartottakat csak saját nemükhöz tartozókkal tartják együtt. Ez a gyakorlat megmarad-e ezekben a központokban, és biztosítják-e, hogy a biológiai nem alapján történjen a besorolás, tehát a férfiak ne „azonosíthassák” magukat nőként, hogy áthelyezzék őket a női részlegre? Mi lesz a gyermekekkel? A tanulmány szándékosan „szigorú” létesítményeket ír le. Mi a terv az illegálisan érkező gyermekekkel, akik valószínűleg nem önként jöttek, hanem mások vitték őket? Őket is „szigorú” börtönszerű létesítményekben tartják majd? Maradhatnak-e a szüleikkel, ha azok is velük jöttek, vagy külön választják őket? Biztosítják-e, hogy a gyermekeket a szüleikkel együtt toloncolják ki, és ne külön-külön? A gyermekek ilyen körülmények közötti fogvatartása, akik valószínűleg kényszerből tették meg az utat, számomra elfogadhatatlan. Várom a tagok és támogatók véleményét. A tanulmány elérhető a Restore Britain honlapján.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális migrációs politikai javaslatot tárgyal, amely az illegális bevándorlók fogvatartási rendszerére vonatkozik az Egyesült Királyságban. Fontos kérdéseket vet fel a nemek szerinti elkülönítésről és a gyermekek helyzetéről, ami jelentős hatással lehet a migrációs gyakorlatokra és emberi jogi szempontokra. Az állítások nem ellenőrzöttek, de a téma releváns és magas prioritású a migrációs OSINT szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:24.500470+00:00"
     }
   },
   "legacy_reviews": {}
