@@ -1497,6 +1497,84 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1322,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xndo82",
+      "author": "SeanYun",
+      "language": null,
+      "published_at": "2026-11-04T03:24:25Z",
+      "first_detected_at": "2026-11-04T03:38:27Z",
+      "last_detected_at": "2026-11-04T03:38:27Z",
+      "detection_count": 1,
+      "text": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!:) submitted by /u/SeanYun to u/SeanYun",
+      "text_excerpt": "OMG!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!:) NOW REOPENING OF THE US BORDER IS A REAL EVENT TO SEE AND COME!!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!!:) THERE WILL BE ANOTHER HUGE MIGRANTS COMING TO CROSS THE BORDER OF USA!!!!!!!!!!!!!!!:) WOW!!!!!!!!!!!!!!:) THIS IS FUCKING INSANITY!!!!!!!!!!!!!!!::) WOW!!!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING!!!!!!!!!!!!!!!:) EVERYTHING IS COLLAPSING NOW!!!!!!!!!!!!!!!!!!!!:) submitted by /u/SeanYun to u/SeanYun",
+      "url": "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "source_url": "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANTS COMING TO CROSS"
+        ],
+        [
+          "route",
+          "BORDER"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "MIGRANTS"
+      ],
+      "high_value_matches": [
+        "MIGRANTS COMING TO CROSS"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 2,
+      "related_post_ids": [
+        "reddit_1xndo82",
+        "reddit_1xndkt0"
+      ],
+      "related_authors": [
+        "SeanYun"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/u_SeanYun/comments/1xndo82/omg_wow_now_reopening_of_the_us_border_is_a_real/",
+        "https://www.reddit.com/r/u_SeanYun/comments/1xndkt0/omg_wow_now_reopening_of_the_us_border_is_a_real/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -2218,7 +2296,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-04T19:00:55.319182+00:00",
+  "last_archived_at": "2026-11-05T00:38:04.623193+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
