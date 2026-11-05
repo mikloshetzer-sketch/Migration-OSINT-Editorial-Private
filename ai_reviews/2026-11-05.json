@@ -540,6 +540,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T23:11:45.807819+00:00"
+    },
+    "information:24858": {
+      "hu_text": "Nem harci küldetés: olyan küldetés, ahol az ellenségek legyőzése nem a cél, vagy ahol a harc megkezdése a küldetés kudarcát okozná. Példák: élelem szerzése, növények beporzása vagy átültetése, átok megtörése, tetemek elégetése, népszámlálás, terület megtisztítása, kapuk bezárása stb.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs témájú, hanem játékbeli küldetések leírása, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:53.546035+00:00"
+    },
+    "information:24863": {
+      "hu_text": "@bbcquestiontime Mikor hagyjátok már abba, politikusok és tévés műsorvezetők, hogy a legális migrációt is bevonjátok a bevándorlási vitába? A valódi probléma az illegális migráció, vagyis az a több ezer illegális migráns, akik csónakokon kelnek át a csatornán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely az illegális migráció problémáját emeli ki, de nincs hozzá konkrét bizonyíték vagy adat, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:53.546052+00:00"
+    },
+    "information:24865": {
+      "hu_text": "…videóra van véve. De a csempészek, migránsok és mentőcsapatok csak egy sokkal nagyobb kudarc tünetei. A végső felelősség az Egyesült Királyság és az európai kormányoké. Vonzó tényezők, inkompetencia, ideológiai érdekek előtérbe helyezése a saját népük akarata helyett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és értékelés a migrációs helyzetről, amely nem tartalmaz konkrét bizonyítékot, ezért ellenőrizetlen. Fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:53.546057+00:00"
+    },
+    "information:24866": {
+      "hu_text": "Lonerbox (@BoxLoner) elmagyarázza Lauren Southern (@Lauren_Southern) 2017-es kísérletét, hogy megakadályozzon egy migránsmentő hajót, és hogy miért számítanak a percek a tengeren.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Információ egy konkrét eseményről, amely migránsmentéssel kapcsolatos, de nincs megerősített bizonyíték, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:53.546061+00:00"
     }
   },
   "legacy_reviews": {}
