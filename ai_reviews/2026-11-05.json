@@ -441,6 +441,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T17:47:45.519925+00:00"
+    },
+    "telegram:1261826972:54289": {
+      "hu_text": "◼️ Videóval ▶️ A ceutaiak kritizálják a katonák visszavonulását a szupermarketek bejáratánál\n\n➡️ A legtöbb helyi lakos egyetért abban, hogy még korai ez az intézkedés, mert \"még nincs normalitás\"\n\n➡️ Emellett kiemelik a biztonságérzetet, amit főleg az idősebbeknek nyújtottak\n\n📷 Képgaléria 📷",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés helyi lakosok véleményét tartalmazza a katonai jelenlét visszavonásáról, ami társadalmi diskurzus, de nincs független bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:53.103912+00:00"
+    },
+    "telegram:1261826972:54295": {
+      "hu_text": "🚩 A rendőrség azonosított két marokkói rendőri vezetőt a határon a betörés napján\n\n➡️ Ezt a CNP egy jelentésben közölte María Tardón bíróval, aki most vizsgálja mindkettő szerepét",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy hivatalos rendőrségi jelentésre hivatkozik, amely fontos információkat tartalmaz a határbiztonságról, de a jelentés tartalmát nem ellenőriztük független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:53.103930+00:00"
+    },
+    "telegram:1261826972:54299": {
+      "hu_text": "◼️ Videóval ▶ Elma Saiz bejelentette, hogy a Benítez strandot visszafoglalták, és várhatóan hamarosan bezárják az ideiglenes központokat\n\n➡️ Egy találkozó után a kormány képviselőjével és a rendvédelmi szervekkel értékelte több mint 15 000 marokkói visszatérését és a ceutai normalitás helyreállását",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy hivatalos személy nyilatkozatát tartalmazza a migrációs eseményekről és a helyzet normalizálódásáról, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:53.103936+00:00"
     }
   },
   "legacy_reviews": {}
