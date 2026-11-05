@@ -309,6 +309,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T08:44:53.249508+00:00"
+    },
+    "group:667": {
+      "hu_text": "Tíz évvel ezelőtt több mint egymillió menekült és más migráns érkezett váratlanul Európába. Ez az esemény átalakította az EU-t. Camille Le Coz, Natalia Banulescu-Bogdan, Meghan Benton és Ekztarf elmagyarázzák, hogyan történt ez.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás általános, de nem tartalmaz konkrét bizonyítékot, ezért ellenőrizetlennek minősül. Fontos téma a migrációs események megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:28.437985+00:00"
+    },
+    "information:24773": {
+      "hu_text": "\"Most a gyermekek, akik az irodák felügyelete alatt állnak, mellékáldozattá váltak, miközben a kormányzat nagyobb bevándorláspolitikai céljait próbálja előmozdítani\" – mondta White, egy engedéllyel rendelkező klinikai szociális munkás. Szerinte a kormányzat szándékosan átalakítja az egyedülálló kiskorúak menedékhely-rendszerét gyermekvédelmi programból fogvatartási programmá, amely arra ösztönzi a bevándorlókat, hogy hagyják el az országot.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy szakértő véleményén alapul, de nem tartalmaz konkrét bizonyítékot, ezért ellenőrizetlen. Fontos a bevándorlási politika és gyermekvédelem szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:28.438008+00:00"
+    },
+    "information:24792": {
+      "hu_text": "Az Egyesült Királyságban a kis hajóval érkezők akár 30 évig is várhatnak a letelepedésre. Mahmood szerint a letelepedést \"meg kell érdemelni\". A menekültek, akik nem hivatalos útvonalakon érkeznek, 20 évet várnak, a kis hajóval érkezők pedig további 10 évet – összesen akár 30 évet. Tiszta előélet és magas angol nyelvtudás szükséges. Több mint 500 000 ember vár hosszabb ideig.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás részletes, de nem tartalmaz konkrét hivatalos forrást vagy bizonyítékot, ezért ellenőrizetlen. Fontos a brit bevándorlási politika megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:28.438015+00:00"
+    },
+    "information:24800": {
+      "hu_text": "A Met Office definíciója szerint \"piros nap\" akkor van, amikor a környezeti feltételek (tengeri állapot) elég nyugodtak ahhoz, hogy a kis hajóval történő átkelés valószínűsége 55% fölé emelkedjen. Holnap várhatóan több illegális migráns átkelés lesz.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás meteorológiai definíciókon alapul, de az illegális átkelések előrejelzése nem bizonyított, ezért ellenőrizetlen. Fontos a határbiztonsági helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:28.438019+00:00"
+    },
+    "information:24808": {
+      "hu_text": "Egy határátkelő csempész megosztja, hogyan működik családi vállalkozásuk generációk óta, illegális migránsokat juttatva be az Egyesült Államokba.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy személyes beszámolón alapul, nincs független bizonyíték, ezért ellenőrizetlen. Fontos a migrációs csempészet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:28.438074+00:00"
+    },
+    "information:24819": {
+      "hu_text": "A DailyMail képe több száz vagy talán végtelen számú migránst mutat, akik sorban állnak és az USA déli határa felé tartanak a Demokrata Párt kongresszusi győzelme után. Ugyanakkor a belső információk szerint több tucat migráns elhagyja Honduras-t. Ez túlzó bemutatás lehet?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy médiaértelmezést és kérdést tartalmaz, nincs konkrét bizonyíték, ezért ellenőrizetlen. Fontos a társadalmi diskurzus megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:28.438079+00:00"
     }
   },
   "legacy_reviews": {}
