@@ -480,6 +480,174 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1339,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xookcp",
+      "author": "neonpurplestar",
+      "language": null,
+      "published_at": "2026-11-05T17:24:34Z",
+      "first_detected_at": "2026-11-05T17:44:21Z",
+      "last_detected_at": "2026-11-05T17:44:21Z",
+      "detection_count": 1,
+      "text": "Businesses have warned that delivery costs will rise due to requirements that couriers obtain driver's licenses and refrain from driving on sidewalks\nDelivery costs in Russia may rise due to new requirements for couriers developed by the Ministry of Transport, *Vedomosti* reports, citing business representatives. According to Ksenia Erdman, chair of the Micromobility Association, if delivery workers on electric bicycles and scooters are required to obtain a Class “M” driver’s license, most of them will leave the market, since couriers are predominantly migrants who do not have such documents. Only 15–20% of delivery workers have driver’s licenses, clarified Alexander Mityukov, president of the Association of Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant workers will lead to higher delivery prices and longer delivery times, Erdman noted. In addition, the Ministry of Transport has proposed banning couriers using personal mobility devices (PMDs) weighing more than 35 kg from riding on sidewalks. According to Mityukov, this affects a significant portion of delivery drivers, who will be required to ride on the roadway. This could create additional risks for both them and motorists, since even when traveling in the same direction, traffic speeds vary greatly, noted a representative of the “Cooper” delivery service. At the same time, migrants working in delivery may face difficulties obtaining driver’s licenses. Driving schools consider foreigners a “very difficult clientele” with whom it is unprofitable to work, says Dmitry Bolotnikov, director of the Moscow driving school “Koleso.” According to him, they often have poor command of the Russian language and face problems with documentation and payment for services. Therefore, driving schools are designing their marketing strategies to attract as few foreign nationals as possible, Bolotnikov noted. On November 3, the Ministry of Transport posted a draft bill on the legal information portal concerning the regulation of SIMs. One of the proposals is to classify powerful electric bicycles, which couriers use for transportation, as mopeds. According to the Traffic Rules, this category includes two- or three-wheeled motorized vehicles with a maximum speed of no more than 50 km/h, equipped with an engine displacement of up to 50 cubic centimeters, and with a power output of more than 0.25 kW but less than 1 kW. A moped falls under category “M”; in Russia, a driver’s license for this category is automatically granted if a citizen has obtained a category “B” license (for driving a car). source: The Moscow Times https://archive.is/okDwM",
+      "text_excerpt": "Businesses have warned that delivery costs will rise due to requirements that couriers obtain driver's licenses and refrain from driving on sidewalks\nDelivery costs in Russia may rise due to new requirements for couriers developed by the Ministry of Transport, *Vedomosti* reports, citing business representatives. According to Ksenia Erdman, chair of the Micromobility Association, if delivery workers on electric bicycles and scooters are required to obtain a Class “M” driver’s license, most of them will leave the market, since couriers are predominantly migrants who do not have such documents. Only 15–20% of delivery workers have driver’s licenses, clarified Alexander Mityukov, president of t",
+      "url": "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/",
+      "source_url": "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Moscow",
+      "primary_location": "Moscow",
+      "country": "Russia",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1340,
+      "source": "X",
+      "source_post_id": "2118391744060682429",
+      "author": "DavidBa49461151",
+      "language": "en",
+      "published_at": "2026-11-05T17:15:24Z",
+      "first_detected_at": "2026-11-05T17:45:44Z",
+      "last_detected_at": "2026-11-05T17:45:44Z",
+      "detection_count": 1,
+      "text": "@laura_tieffel1 @MAGAVoice that's a lazy narrative and false. research shows that the political makeup of CA-to-TX migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver of TX's recent blue shifts. in the Austin metro (largest share) 44% R 29% D.",
+      "text_excerpt": "@laura_tieffel1 @MAGAVoice that's a lazy narrative and false. research shows that the political makeup of CA-to-TX migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver of TX's recent blue shifts. in the Austin metro (largest share) 44% R 29% D.",
+      "url": "https://x.com/DavidBa49461151/status/2118391744060682429",
+      "source_url": "https://x.com/DavidBa49461151/status/2118391744060682429",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1341,
+      "source": "X",
+      "source_post_id": "2118389718001807634",
+      "author": "mafia_mastiff",
+      "language": "en",
+      "published_at": "2026-11-05T17:07:21Z",
+      "first_detected_at": "2026-11-05T17:45:44Z",
+      "last_detected_at": "2026-11-05T17:45:44Z",
+      "detection_count": 1,
+      "text": "🚨 300,000+ MIGRANT CHILDREN. BILLIONS IN TAXPAYER DOLLARS. WHERE DID THE MONEY GO?\n\nOne federally funded NGO received a staggering $895 MILLION to transport and care for migrant children, while others collected hundreds of millions more. I followed the money, confronted the https://t.co/kNWRojjVoa",
+      "text_excerpt": "🚨 300,000+ MIGRANT CHILDREN. BILLIONS IN TAXPAYER DOLLARS. WHERE DID THE MONEY GO?\n\nOne federally funded NGO received a staggering $895 MILLION to transport and care for migrant children, while others collected hundreds of millions more. I followed the money, confronted the https://t.co/kNWRojjVoa",
+      "url": "https://x.com/mafia_mastiff/status/2118389718001807634",
+      "source_url": "https://x.com/mafia_mastiff/status/2118389718001807634",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport and care for migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "transport and care for migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -961,6 +1129,174 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1339,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xookcp",
+      "author": "neonpurplestar",
+      "language": null,
+      "published_at": "2026-11-05T17:24:34Z",
+      "first_detected_at": "2026-11-05T17:44:21Z",
+      "last_detected_at": "2026-11-05T17:44:21Z",
+      "detection_count": 1,
+      "text": "Businesses have warned that delivery costs will rise due to requirements that couriers obtain driver's licenses and refrain from driving on sidewalks\nDelivery costs in Russia may rise due to new requirements for couriers developed by the Ministry of Transport, *Vedomosti* reports, citing business representatives. According to Ksenia Erdman, chair of the Micromobility Association, if delivery workers on electric bicycles and scooters are required to obtain a Class “M” driver’s license, most of them will leave the market, since couriers are predominantly migrants who do not have such documents. Only 15–20% of delivery workers have driver’s licenses, clarified Alexander Mityukov, president of the Association of Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant workers will lead to higher delivery prices and longer delivery times, Erdman noted. In addition, the Ministry of Transport has proposed banning couriers using personal mobility devices (PMDs) weighing more than 35 kg from riding on sidewalks. According to Mityukov, this affects a significant portion of delivery drivers, who will be required to ride on the roadway. This could create additional risks for both them and motorists, since even when traveling in the same direction, traffic speeds vary greatly, noted a representative of the “Cooper” delivery service. At the same time, migrants working in delivery may face difficulties obtaining driver’s licenses. Driving schools consider foreigners a “very difficult clientele” with whom it is unprofitable to work, says Dmitry Bolotnikov, director of the Moscow driving school “Koleso.” According to him, they often have poor command of the Russian language and face problems with documentation and payment for services. Therefore, driving schools are designing their marketing strategies to attract as few foreign nationals as possible, Bolotnikov noted. On November 3, the Ministry of Transport posted a draft bill on the legal information portal concerning the regulation of SIMs. One of the proposals is to classify powerful electric bicycles, which couriers use for transportation, as mopeds. According to the Traffic Rules, this category includes two- or three-wheeled motorized vehicles with a maximum speed of no more than 50 km/h, equipped with an engine displacement of up to 50 cubic centimeters, and with a power output of more than 0.25 kW but less than 1 kW. A moped falls under category “M”; in Russia, a driver’s license for this category is automatically granted if a citizen has obtained a category “B” license (for driving a car). source: The Moscow Times https://archive.is/okDwM",
+      "text_excerpt": "Businesses have warned that delivery costs will rise due to requirements that couriers obtain driver's licenses and refrain from driving on sidewalks\nDelivery costs in Russia may rise due to new requirements for couriers developed by the Ministry of Transport, *Vedomosti* reports, citing business representatives. According to Ksenia Erdman, chair of the Micromobility Association, if delivery workers on electric bicycles and scooters are required to obtain a Class “M” driver’s license, most of them will leave the market, since couriers are predominantly migrants who do not have such documents. Only 15–20% of delivery workers have driver’s licenses, clarified Alexander Mityukov, president of t",
+      "url": "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/",
+      "source_url": "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Moscow",
+      "primary_location": "Moscow",
+      "country": "Russia",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1340,
+      "source": "X",
+      "source_post_id": "2118391744060682429",
+      "author": "DavidBa49461151",
+      "language": "en",
+      "published_at": "2026-11-05T17:15:24Z",
+      "first_detected_at": "2026-11-05T17:45:44Z",
+      "last_detected_at": "2026-11-05T17:45:44Z",
+      "detection_count": 1,
+      "text": "@laura_tieffel1 @MAGAVoice that's a lazy narrative and false. research shows that the political makeup of CA-to-TX migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver of TX's recent blue shifts. in the Austin metro (largest share) 44% R 29% D.",
+      "text_excerpt": "@laura_tieffel1 @MAGAVoice that's a lazy narrative and false. research shows that the political makeup of CA-to-TX migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver of TX's recent blue shifts. in the Austin metro (largest share) 44% R 29% D.",
+      "url": "https://x.com/DavidBa49461151/status/2118391744060682429",
+      "source_url": "https://x.com/DavidBa49461151/status/2118391744060682429",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants is not strong Democratic (37% R, 36% D, 27% NPP), and their numbers are too small to be a primary driver"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1341,
+      "source": "X",
+      "source_post_id": "2118389718001807634",
+      "author": "mafia_mastiff",
+      "language": "en",
+      "published_at": "2026-11-05T17:07:21Z",
+      "first_detected_at": "2026-11-05T17:45:44Z",
+      "last_detected_at": "2026-11-05T17:45:44Z",
+      "detection_count": 1,
+      "text": "🚨 300,000+ MIGRANT CHILDREN. BILLIONS IN TAXPAYER DOLLARS. WHERE DID THE MONEY GO?\n\nOne federally funded NGO received a staggering $895 MILLION to transport and care for migrant children, while others collected hundreds of millions more. I followed the money, confronted the https://t.co/kNWRojjVoa",
+      "text_excerpt": "🚨 300,000+ MIGRANT CHILDREN. BILLIONS IN TAXPAYER DOLLARS. WHERE DID THE MONEY GO?\n\nOne federally funded NGO received a staggering $895 MILLION to transport and care for migrant children, while others collected hundreds of millions more. I followed the money, confronted the https://t.co/kNWRojjVoa",
+      "url": "https://x.com/mafia_mastiff/status/2118389718001807634",
+      "source_url": "https://x.com/mafia_mastiff/status/2118389718001807634",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport and care for migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "transport and care for migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1198,6 +1534,77 @@
         "REDDIT"
       ],
       "independent_author_count": 3,
+      "platform_count": 1
+    },
+    {
+      "id": 1339,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xookcp",
+      "author": "neonpurplestar",
+      "language": null,
+      "published_at": "2026-11-05T17:24:34Z",
+      "first_detected_at": "2026-11-05T17:44:21Z",
+      "last_detected_at": "2026-11-05T17:44:21Z",
+      "detection_count": 1,
+      "text": "Businesses have warned that delivery costs will rise due to requirements that couriers obtain driver's licenses and refrain from driving on sidewalks\nDelivery costs in Russia may rise due to new requirements for couriers developed by the Ministry of Transport, *Vedomosti* reports, citing business representatives. According to Ksenia Erdman, chair of the Micromobility Association, if delivery workers on electric bicycles and scooters are required to obtain a Class “M” driver’s license, most of them will leave the market, since couriers are predominantly migrants who do not have such documents. Only 15–20% of delivery workers have driver’s licenses, clarified Alexander Mityukov, president of the Association of Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant workers will lead to higher delivery prices and longer delivery times, Erdman noted. In addition, the Ministry of Transport has proposed banning couriers using personal mobility devices (PMDs) weighing more than 35 kg from riding on sidewalks. According to Mityukov, this affects a significant portion of delivery drivers, who will be required to ride on the roadway. This could create additional risks for both them and motorists, since even when traveling in the same direction, traffic speeds vary greatly, noted a representative of the “Cooper” delivery service. At the same time, migrants working in delivery may face difficulties obtaining driver’s licenses. Driving schools consider foreigners a “very difficult clientele” with whom it is unprofitable to work, says Dmitry Bolotnikov, director of the Moscow driving school “Koleso.” According to him, they often have poor command of the Russian language and face problems with documentation and payment for services. Therefore, driving schools are designing their marketing strategies to attract as few foreign nationals as possible, Bolotnikov noted. On November 3, the Ministry of Transport posted a draft bill on the legal information portal concerning the regulation of SIMs. One of the proposals is to classify powerful electric bicycles, which couriers use for transportation, as mopeds. According to the Traffic Rules, this category includes two- or three-wheeled motorized vehicles with a maximum speed of no more than 50 km/h, equipped with an engine displacement of up to 50 cubic centimeters, and with a power output of more than 0.25 kW but less than 1 kW. A moped falls under category “M”; in Russia, a driver’s license for this category is automatically granted if a citizen has obtained a category “B” license (for driving a car). source: The Moscow Times https://archive.is/okDwM",
+      "text_excerpt": "Businesses have warned that delivery costs will rise due to requirements that couriers obtain driver's licenses and refrain from driving on sidewalks\nDelivery costs in Russia may rise due to new requirements for couriers developed by the Ministry of Transport, *Vedomosti* reports, citing business representatives. According to Ksenia Erdman, chair of the Micromobility Association, if delivery workers on electric bicycles and scooters are required to obtain a Class “M” driver’s license, most of them will leave the market, since couriers are predominantly migrants who do not have such documents. Only 15–20% of delivery workers have driver’s licenses, clarified Alexander Mityukov, president of t",
+      "url": "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/",
+      "source_url": "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "Transport, Logistics, Postal, and Courier Companies of Russia. The departure of migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Moscow",
+      "primary_location": "Moscow",
+      "country": "Russia",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": 55.7558,
+      "longitude": 37.6173,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xookcp"
+      ],
+      "related_authors": [
+        "neonpurplestar"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/CollapseOfRussia/comments/1xookcp/businesses_have_warned_that_delivery_costs_will/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
       "platform_count": 1
     }
   ],
@@ -1576,9 +1983,198 @@
       "first_collected_at": "2026-11-05T08:41:06Z",
       "last_collected_at": "2026-11-05T08:41:06Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24792",
+      "timestamp": "2026-11-05T17:41:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118398186528153698",
+      "author": "Deeploomatic",
+      "url": "https://x.com/Deeploomatic/status/2118398186528153698",
+      "source_url": "https://x.com/Deeploomatic/status/2118398186528153698",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "🚨🇬🇧 UK | SMALL-BOAT ARRIVALS FACE UP TO 30 YEARS TO SETTLE\n\nMahmood: settlement \"must be earned.\" Refugees off approved routes wait 20 years; small-boat arrivals add 10 more — up to 30. Spotless record and high English required. 500,000+ face longer waits.\n\nSource: https://t.co/kZ9sFMbVeC",
+      "text_excerpt": "🚨🇬🇧 UK | SMALL-BOAT ARRIVALS FACE UP TO 30 YEARS TO SETTLE\n\nMahmood: settlement \"must be earned.\" Refugees off approved routes wait 20 years; small-boat arrivals add 10 more — up to 30. Spotless record and high English required. 500,000+ face longer waits.\n\nSource: https://t.co/kZ9sFMbVeC",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T17:45:18Z",
+      "last_collected_at": "2026-11-05T17:45:18Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24819",
+      "timestamp": "2026-11-05T17:35:09Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118396713857875987",
+      "author": "kinmack",
+      "url": "https://x.com/kinmack/status/2118396713857875987",
+      "source_url": "https://x.com/kinmack/status/2118396713857875987",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "#DailyMail picture shows 100's or maybe an endless group of migrants queued and heading toward US southern #Border after the #Democrats winning control of #congress ... yet the inside story says dozens are departing the #Honduras ... is that sensationalizing?",
+      "text_excerpt": "#DailyMail picture shows 100's or maybe an endless group of migrants queued and heading toward US southern #Border after the #Democrats winning control of #congress ... yet the inside story says dozens are departing the #Honduras ... is that sensationalizing?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T17:47:01Z",
+      "last_collected_at": "2026-11-05T17:47:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24800",
+      "timestamp": "2026-11-05T17:28:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118394998609547345",
+      "author": "TeagueRoger",
+      "url": "https://x.com/TeagueRoger/status/2118394998609547345",
+      "source_url": "https://x.com/TeagueRoger/status/2118394998609547345",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "The Met Office definitions state that a \"red day\" is designated when environmental conditions (sea state) are calm enough that the probability of small boat crossing activity rises above 55%.\n\nExpect to see more illegal migrant crossings tomorrow! https://t.co/LdenhmBEv5",
+      "text_excerpt": "The Met Office definitions state that a \"red day\" is designated when environmental conditions (sea state) are calm enough that the probability of small boat crossing activity rises above 55%.\n\nExpect to see more illegal migrant crossings tomorrow! https://t.co/LdenhmBEv5",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T17:45:19Z",
+      "last_collected_at": "2026-11-05T17:45:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24808",
+      "timestamp": "2026-11-05T17:15:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118391848620212231",
+      "author": "cgtnamerica",
+      "url": "https://x.com/cgtnamerica/status/2118391848620212231",
+      "source_url": "https://x.com/cgtnamerica/status/2118391848620212231",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "A border smuggler shares how his family business has spanned generations, moving undocumented migrants into the United States. #HumanSmuggling #UndocumentedMigration #Features #FullFrame https://t.co/e0XpOoSvkQ",
+      "text_excerpt": "A border smuggler shares how his family business has spanned generations, moving undocumented migrants into the United States. #HumanSmuggling #UndocumentedMigration #Features #FullFrame https://t.co/e0XpOoSvkQ",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T17:45:44Z",
+      "last_collected_at": "2026-11-05T17:45:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24773",
+      "timestamp": "2026-11-05T16:06:24Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117564688619552946",
+      "author": null,
+      "url": "https://apobangpo.space/@bich/117564688619552946",
+      "source_url": "https://apobangpo.space/@bich/117564688619552946",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "detention",
+        "deportation"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "\"Now children in the office’s custody have become collateral damage as the administration seeks to advance its larger immigration policy goals, said White, a licensed clinical social worker. He said the administration is deliberately reshaping the nation’s shelter system for unaccompanied minors from a child welfare program into a detention program that encourages immigrants to leave the country.\" https:// kffhealthnews.org/public-healt h/trump-deportation-immigration-unaccompanied-children-stuck-in-shelters-ice-texas/ # PublicHealth # ChildrensHealth # immigration # detention # HHS # USpol",
+      "text_excerpt": "\"Now children in the office’s custody have become collateral damage as the administration seeks to advance its larger immigration policy goals, said White, a licensed clinical social worker. He said the administration is deliberately reshaping the nation’s shelter system for unaccompanied minors from a child welfare program into a detention program that encourages immigrants to leave the country.\" https:// kffhealthn…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T17:44:23Z",
+      "last_collected_at": "2026-11-05T17:44:23Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-05T08:44:08.678631+00:00",
+  "last_archived_at": "2026-11-05T17:47:08.071463+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -1711,6 +2307,28 @@
       "text": "@TeriApocalypse Exactly. Many Chinese migrants arrived as impoverished labourers, not conquerors.\n\nThe underlying implication in OP’s argument is the racist stereotype that “the Chinese steal”, whether land, wealth or opportunities.",
       "url": "https://x.com/daneelchia/status/2118251290979676314",
       "source_url": "https://x.com/daneelchia/status/2118251290979676314"
+    },
+    {
+      "id": 832,
+      "event_id": 832,
+      "source": "X",
+      "source_post_id": "2118395478211510409",
+      "author": "MigrationPolicy",
+      "published_at": "2026-11-05T17:30:14Z",
+      "collected_at": "2026-11-05T17:47:02Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "A decade ago, more than 1 million refugees &amp; other migrants arrived without warning in Europe\n\nThe episode transformed the EU\n\nOur Camille Le Coz, Natalia Banulescu-Bogdan, @meghan_benton &amp; @ekztarf explain how ➡️ https://t.co/bA7QAQnrot https://t.co/psERYUjt6Q",
+      "url": "https://x.com/MigrationPolicy/status/2118395478211510409",
+      "source_url": "https://x.com/MigrationPolicy/status/2118395478211510409"
     }
   ],
   "event_groups": [
@@ -1800,6 +2418,35 @@
       "average_confidence": 0.55,
       "created_at": "2026-11-05T08:43:56Z",
       "updated_at": "2026-11-05T08:43:56Z"
+    },
+    {
+      "id": 667,
+      "group_id": 667,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "A decade ago, more than 1 million refugees &amp; other migrants arrived without warning in Europe\n\nThe episode transformed the EU\n\nOur Camille Le Coz, Natalia Banulescu-Bogdan, @meghan_benton &amp; @ekztarf explain how ➡️ https://t.co/bA7QAQnrot https://t.co/psERYUjt6Q",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-05T17:30:14Z",
+      "last_seen": "2026-11-05T17:30:14Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-05T17:47:02Z",
+      "updated_at": "2026-11-05T17:47:02Z"
     }
   ]
 }
