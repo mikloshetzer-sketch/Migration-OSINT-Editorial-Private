@@ -265,6 +265,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T08:44:43.201393+00:00"
+    },
+    "record:mastodon_482a630454fbba7b3686": {
+      "hu_text": "A kormány \"megérdemelt letelepedés\" reformjai, amelyeket ezen a héten jelentettek be a parlamentben, intézményes kegyetlenségként álcázzák az igazságosságot. A jog az Egyesült Királyságban való élethez már nem az itt eltöltött időn vagy a szükséges védelem mértékén múlik, hanem a kereseten: a magas keresetűek három év alatt letelepedhetnek, míg egy biztonsági őr vagy ápoló évtizedeket vár. A legszégyenletesebb a menekültek kezelése: a háború elől menekülők, akik papírok nélkül érkeznek, 20 évet várnak, és 30-at azok, akik kis csónakon érkeztek, büntetve ezzel azt a kétségbeesést, ami miatt kockáztatták az életüket. Az embereket fizetési kategóriák szerint értékelik, miközben a Menekült Egyezmény ígérete elsorvad. A üldözés elől menekülők biztonságot és méltóságot érdemelnek, nem évtizedes bizonytalanságot, ami gazdasági hasznossághoz kötött. Ez a menedék és a szerződéses kötelezettségeink meggyalázása.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai véleményt és állításokat tartalmaz a brit bevándorlási reformokról, amelyek jelentős hatással lehetnek a menekültek helyzetére. Az állítások nem ellenőrzöttek, de fontosak a migrációs politika megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:53.249481+00:00"
+    },
+    "record:reddit_1xocs5g": {
+      "hu_text": "2026.11.04-én Trump megerősítette, hogy nem állítják le az ICE razziákat vagy a tömeges legalizációt. New Jersey-ben, Union City-ben az ügynökök egy migránst elhurcoltak, miután az enyhe ellenállást tanúsított. A tegnapi kék hullám nem elég a folyamatok megállításához. Ne legyél önelégült, maradj éber.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy közösségi médiás állítást tartalmaz az amerikai bevándorlási razziákról és politikai fejleményekről, amelyeket nem lehet egyetlen forrás alapján megerősíteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:53.249498+00:00"
+    },
+    "telegram:1261826972:54276": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról csütörtök reggelre: 1. A ceutaiak elutasítják Pedro Sánchez kormányának és Marokkónak a Ceutai invázióra adott válaszát, egy GAD3 által a PP számára készített felmérés szerint, amely nagyon negatívan értékeli az intézményi választ. Csak 5% tartja jónak vagy nagyon jónak a spanyol kormány válaszát, és 1% Marokkóét. Ezzel szemben a város, a biztonsági erők és a hadsereg a legjobban értékelt. 2. A bevándorlás és a munkanélküliség a ceutaiak fő problémái, akik jóváhagyják a város vezetését, de elutasítják a központi kormányét. 3. A város a lerakóból beépített területté kívánja átalakítani az Arcos Quebrados környékét, több mint 30 000 négyzetméter megvásárlásával új utak, szociális szolgáltatások és közösségi lakások létesítésére.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírportálról származó információk, amelyek közvélemény-kutatás eredményeit és városi fejlesztési terveket ismertetnek, megbízható forrásból származnak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:53.249503+00:00"
+    },
+    "telegram:1261826972:54277": {
+      "hu_text": "Rendőrségi akció San Amaro-ban, ahol több bevándorlót fogtak el. A helyi rendőrség egy elhagyatott házban és a helyi strandon több bevándorlót talált, köztük egy zenészt a gitárjával. A cikkhez fotógaléria is tartozik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi híradás rendőrségi akcióról, amely konkrét eseményeket és helyszíneket ismertet, megbízható forrásból.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:53.249508+00:00"
     }
   },
   "legacy_reviews": {}
