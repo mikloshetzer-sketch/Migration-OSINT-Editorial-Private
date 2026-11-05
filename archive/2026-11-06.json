@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "live_events": [
+    {
+      "id": 833,
+      "event_id": 833,
+      "source": "X",
+      "source_post_id": "2118469112682942602",
+      "author": "_mandarins",
+      "published_at": "2026-11-05T22:22:50Z",
+      "collected_at": "2026-11-05T23:10:57Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@frankie171717 @danwootton In America during the Potatoe Famine and the mass arrival of Irish during the Civil War, the men were conscripted as soon as they touched shore. They were told to fight for their country. \n\nThe mass arrival of migrant fighting age men suggests its a precedent to uphold.",
+      "url": "https://x.com/_mandarins/status/2118469112682942602",
+      "source_url": "https://x.com/_mandarins/status/2118469112682942602"
+    },
+    {
+      "id": 834,
+      "event_id": 834,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xop5o8",
+      "author": "RockyLovesEmily05",
+      "published_at": "2026-11-05T17:47:00Z",
+      "collected_at": "2026-11-05T23:10:58Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Rapist Donald Trump’s administration held secret talks with Iran on deporting Iranians even as the war there dragged on, court documents show.\nThe court documents unsealed Thursday show the Republican administration as recently as mid-October said it had plans to deport the Iranians through an unnamed third country, although it was unclear when it intended to do so. The judge in the case ordered the government to give the court 24-hour notice of any finalized plans to deport Iranians to Iran or to any other country and five days’ written notice before any such deportation is carried out. The documents show that the administration maintained contacts with Iranian officials during the war over the removals, specifically for submitting travel documents and figuring out “possible avenues for removal.” “We are at war with a country where the President of the United States has said, as recently as two or three days ago, if not yesterday, that it is essentially lawless ... A country that is an enemy of the United States, according to the current president. A country that, according to our president, murdered tens of thousands of protestors,” Judge Ana Reyes said according to the Oct. 15 transcript. “And what you’re telling me is that the United States of America is going to send individuals back to that region, facing what you and I and everyone who would ever look at this would know would be, at a minimum, a serious threat of certain death.” “Yes, your honor,” Justice Department attorney Dimitar Georgiev-Remmel said. “The government is executing lawful orders of removal.” The Department of Homeland Security did not immediately respond to a request for comment. The development emerged from an ongoing lawsuit that alleges the Trump administration’s immigration agencies have been sharing confidential information about Iranian asylum seekers with the Iranian government, violating national immigration regulations and endangering countless Iranians, court filings argue. The new court documents show the coordination continued during the war. The lawsuit depicts a coordinated campaign between the U.S. and Iranian governments to identify Iranians in Immigration and Customs Enforcement custody and pressure them to return to Iran — a marked departure from decades of diplomatic hostility between the two governments and an ongoing war. DHS has denied that it is sharing asylum application records with the Iranian government. Hundreds of emails exchanged between U.S. immigration officials exposed how the two countries worked together to arrange for more than 100 Iranians to be flown back to Iran on three immigration flights in September and December 2025 and January 2026. Deportations of Iranians back to their home country are historically rare, owing to the lack of diplomatic relations between the U.S. and Iran and the possible persecution they could face if they were sent to Iran. But under the Trump administration, ICE has aggressively pushed to deport people even from countries that have typically been reluctant to take people back or with whom the U.S. has had icy or no diplomatic relations. Sometimes that has meant sending people back to their home country but it has also meant deporting people to other countries that they have no connection with. The Trump administration has deported people, including Iranians, to countries other than their own in an attempt to circumvent diplomatic hurdles with governments that won’t take their people back. During Trump’s second term, countries including El Salvador, Costa Rica and Panama have accepted noncitizens from the U.S. In June, an Iranian woman was among the two dozen migrants the U.S. deported to the Central African Republic. Activists abroad have expressed concern about deportees returning to Iran, whose theocracy has been cracking down on intellectuals and where the government vociferously cracks down on any dissent. REBECCA SANTANA Santana reports on the Department of Homeland Security, immigration policy and the federal agencies that touch on immigration. She’s reported on refugee resettlement, ICE operations and employment-based immigration and is reachable on Signal at RebeccaSantana",
+      "url": "https://www.reddit.com/r/whowatchesthewatchmen/comments/1xop5o8/rapist_donald_trumps_administration_held_secret/",
+      "source_url": "https://www.reddit.com/r/whowatchesthewatchmen/comments/1xop5o8/rapist_donald_trumps_administration_held_secret/"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 668,
+      "group_id": 668,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@frankie171717 @danwootton In America during the Potatoe Famine and the mass arrival of Irish during the Civil War, the men were conscripted as soon as they touched shore. They were told to fight for their country. \n\nThe mass arrival of migrant fighting age men suggests its a precedent to uphold.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-05T22:22:50Z",
+      "last_seen": "2026-11-05T22:22:50Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-05T23:10:57Z",
+      "updated_at": "2026-11-05T23:10:57Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1345,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xonlon",
+      "author": "SerialdeslgnationN",
+      "language": null,
+      "published_at": "2026-11-05T16:48:14Z",
+      "first_detected_at": "2026-11-05T23:05:05Z",
+      "last_detected_at": "2026-11-05T23:05:05Z",
+      "detection_count": 1,
+      "text": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place near a hotel housing asylum seekers in Newcastle, with 1 person arrested. A protest took place in Nuneaton after George Finch, the leader of Warwickshire County Council, said that two men that raped a 12 year old girl where asylum seekers. A protest took outside a hotel near Gatwick Airport. On the 17 of August a protest in Ashington that attracted hundreds took place over concerns over illegal immigrants that lived in the area and that men taking photographs of children were “outright ignored”. 150 people gathered outside a hotel with west merdia police saying that 2 police officers had been assaulted. Three days later three people were arrested who were in connection to the protest. On the 25th of August the UK saw another wave of protests across the whole country. On the 23rd of August around 200 hundred protested outside a hotel Around 500 anti asylum protesters gathered in west Drayton marched to a crown plaza Hotel whilst others went to a nearby holiday in. A stop the boats protest took place in Newtown where 400 people gathered to take a moment of silence for Charlie kirk. The UKIP and hundreds marched from quaside to the city centre in Newcastle, A counter protest formed by “stand up to racism also happened in which thousands of people took place in. On the 26th of October 2 Marches took place in southampton led by Tommy Robinson with several hundred counter protesters to oppose them. On the 23rd of September between 110,000 and 150,000 people gathered in central London for a march organised by Tommy Robinson called the Unite the Kingdom rally, counter-protests by Stand Up To Racism and local anti-fascist groups attracted around 5,000 demonstrators around 1,000 officers were deployed in the city, (took from Wikipedia). Flags started being put up on lamposts because a girl couldn't make a speech because she wore a union jack themed skirt.",
+      "text_excerpt": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place ",
+      "url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "source_url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Refugees",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1346,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xohg43",
+      "author": "Designer_Custard9008",
+      "language": null,
+      "published_at": "2026-11-05T12:30:28Z",
+      "first_detected_at": "2026-11-05T23:10:59Z",
+      "last_detected_at": "2026-11-05T23:10:59Z",
+      "detection_count": 1,
+      "text": "On Safeguarding the Human Person in the Time of Artificial Intelligence\n'This approach reveals that dialogue with the world is not a tactical choice for the Church, but a concrete expression of her mission because the Gospel, like leaven, is capable of transforming the structures of society from within and forging paths toward a greater humanity.' [ Matthew 13:33 YLT(i) 33 Another simile spake he to them: 'The reign of the heavens is like to leaven, which a woman having taken, hid in three measures of meal, till the whole was leavened .' ] Exerpts from ENCYCLICAL LETTER MAGNIFICA HUMANITAS 'Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.' The entirety here: [ https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\\\\\\](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) ] 'In the Book of Revelation, John sees the New Jerusalem “coming down out of heaven from God” (Rev 21:2) as a gift for all humanity.' 'The document places the dignity of work and of workers at the forefront of its reflection; affirms the right to a fair wage for oneself and one’s family; recognizes that persons have a fundamental value that takes precedence over capital and profit; defends private property along with its indispensable societal role; esteems workers’ associations; and proposes forms of cooperation between the different components of society as an alternative to the mentality of class struggle.' 'Those who believe in him are engaged in the great work of renewal that began with the mystery of his passion, death and resurrection, and they cooperate in building up the Kingdom of God, learning to embrace all men and women as brothers and sisters, children of one Father.' 'No sin, failure, humiliation or exclusion can diminish the profound value of a human life that God has willed and called into being. The fundamental dignity of each person, therefore, is neither acquired nor earned, nor does it need to be justified.' 'first, because the love of God, who calls us to friendship with him, is infinite; and second, his love is absolutely unconditional, in the sense that, even if we search endlessly, we will never find anything that can erase or deny it.' 'It is, therefore, not enough to state simply that men and women have equal dignity and rights; it is necessary that this be reflected in concrete decisions, such as in laws, access to employment, education, social and political responsibilities, and the way society listens to and values women’s contributions.' 'First of all, this principle reminds us that the earth’s goods — soil, water, air and natural resources — are given by God to the entire human family to sustain the lives of all, and that every person has an inherent right to the use of such goods, both now and in the future.' 'Today, among the goods that are universally intended for everyone, we must also include new forms of property, such as patents, algorithms, digital platforms, technological infrastructure and data. In a context where the wealth of nations depends increasingly on knowledge and technology, when these goods remain concentrated in the hands of a few, without adequate forms of sharing and access, a new imbalance is created that contradicts the universal destination of goods.' 'Justice demands that we prevent the emergence of new forms of exclusion and deprivation of freedoms: individuals and peoples hindered or denied access to basic technologies, communities exposed to invasive surveillance and social groups penalized by opaque algorithms that perpetuate prejudice and discrimination. In the digital age, a just social order guarantees everyone equal access to opportunities, protects the youngest and weakest members of society, combats hate and misinformation and subjects the use of data and technology to public oversight, so that the guiding principle is not solely profit but the dignity of every person and the common good of all people. A litmus test for social justice today is the treatment of migrants, refugees and those forced to move due to poverty, violence, climate change and environmental disasters. The way a society treats them reveals whether its sense of justice is driven by fear or by the spirit of fraternity.' 'Indeed, current AI systems are more “cultivated” than “built,” for developers do not directly design every detail, but instead create a framework within which the intelligence “grows.” As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain, at present, unknown. There thus emerges an urgent need for a twofold commitment: on the one hand, a deepening of scientific research; on the other, the exercise of moral and spiritual discernment. It is not possible to provide a single, comprehensive definition of AI. What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings. These systems merely imitate certain functions of human intelligence.' 'The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. The apparent objectivity of the responses and suggestions these systems provide can lead us to overlook the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations. The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be misleading, creating the illusion of a relationship with a real personal subject.' 'From this follows a simple but compelling consequence: we cannot consider AI to be morally neutral. In reality, every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations. If a system is designed or used in a way that treats some lives as less worthy, or excludes them without the possibility of appeal, then it is not merely a tool “to be used well,” since it has already introduced criteria that contradict the inalienable dignity of the human person. For this reason, ethical discernment cannot be limited to asking whether we are using a system for good or bad purposes; it must also examine how that system is designed and what vision of the human person and society is embedded in the data and models that guide it.' 'Calling for prudence, rigorous evaluation and even, at times, a slower pace in adopting AI does not mean opposing progress; instead, it is an exercise of responsible care for the human family. This need is all the more urgent given the frequent imbalance between the speed of technological growth and the slower development of awareness, norms, safeguards and institutions capable of governing its effects. It is not enough to invoke ethics in the abstract; robust legal frameworks, independent oversight, informed users and a political system that does not abdicate its responsibility are required. Otherwise, change will be governed only by technocratic thinking and presented as necessary and inevitable, ultimately imposing rules shaped by those who control data, infrastructure and computing power. We cannot be satisfied with merely calling for the moralization of machines — the so-called “alignment” of AI with human values — without also having the courage to insist on a further condition: the possibility of openly discussing the ethical frameworks involved and subjecting them to shared standards of social justice. Otherwise, those who control AI will impose their own moral vision, which will become the invisible infrastructure of these systems.' 'Herein lies the radical departure from Promethean dreams: what saves humanity is not enhanced self-sufficiency, but a relationship that liberates, a communion that transforms. In this light, a technology that merely classifies and optimizes what already exists can, however unintentionally, become an obstacle to change and growth. For an algorithm, an error is a flaw to be corrected; for a person, however, an error can be a catalyst for profound change. A person’s future is not calculable, but depends on one’s freedom — elevated by the inexhaustible grace of God — and on the relationships cultivated.' 'After all, democracy does not consist of rules and procedures alone, but above all of a solid concordance with the facts and a genuine commitment to the good of individuals and society as a whole. Indifference to the truth leads, slowly but surely, to a descent into totalitarianism. As the philosopher Hannah Arendt wrote, the ideal subjects of such regimes are not so much those who are ideologically convinced, but rather “people for whom the distinction between fact and fiction (i.e., the reality of experience) and the distinction between true and false (i.e., the standards of thought) no longer exist.”' 'Labor unions, which the Church has consistently supported, are called upon to be open to new types of employment and the corresponding needs of workers, in order to represent and defend them. In this context, without bold decisions, the prospect of greater poverty and inequality looms large, which would leave many individuals marginalized, stranded and surrounded by the machines and automated systems that have replaced them. At this time of transition, it is not enough to react only when jobs disappear; we must oversee the transformation in advance. One viable path is, first of all, to establish social criteria for innovation. Here, every introduction of automation and AI should be accompanied by verifiable measures to protect the employment, retraining and participation of workers. In this way, technology will be oriented toward freeing up human time and capabilities, rather than producing exclusion. Second, we need proactive policies that make continuous training and professional transitions accessible to all, ensuring that the cost of adaptation does not fall solely on individuals.' 'Just laws and methods of redistribution are certainly necessary for correcting imbalances, including tax systems that lighten the burden on the weakest and ask for more from those with greater resources. However, the pursuit of social justice should not be considered a separate issue that follows only after the production of wealth, as if the economy existed solely to create wealth, with politicians only intervening afterwards in order to distribute it. Indeed, justice concerns every phase of economic activity, from resource acquisition to financing, and from production to consumption; every choice has moral consequences. More than ever, in the age of AI and robotics, it is no longer possible to rely solely on the “invisible hand” of the market. [164] Politics has the task of orientating economies and technologies to the common good, promoting dignified work, social inclusion and an equitable distribution of the benefits of innovation. Since many economic decisions transcend national borders, there is also a need for international cooperation capable of defining common strategies, especially in favor of the most vulnerable countries and people, in order to promote development and overcome welfare dependency. The thinking behind these choices is the immeasurable dignity of every person, the common good and a world truly governed for everyone.' 'This distorted view of the human person is reflected today in various forms of servitude directly linked to the digital economy. Nothing in the world of AI is immaterial or magical. Every seemingly immediate and flawless response is the result of a long chain of mediation, involving vast networks of natural resources, energy infrastructure and, above all, people. A significant part of the digital economy’s functioning relies on the silent work of millions of people engaged in essential yet largely unseen activities, such as data labeling, model training and content moderation, often involving disturbing material. In many cases, these workers are young people, predominantly women, working under demanding conditions for minimal wages. Added to this invisible labor is the even harsher work of extracting the resources required for the production of the devices and microprocessors on which AI depends. In some regions of the world, children and adolescents work in dangerous conditions, crushing the materials from which rare earth elements are extracted. The bodies of these people are scarred, injured and worn down so that computational flow may continue uninterruptedly. Furthermore, criminal networks use online platforms, messaging systems, anonymous payment methods and profiling techniques in order to recruit, control and transport victims of trafficking — very often minors — reducing men and women to “data” to be tracked and “packages” to be moved around within the same digital circuits that support much of the global economy. This reality deeply challenges the moral conscience of our time. It is not enough to invoke efficiency, nor to celebrate the benefits of innovation, if they are built on a chain of exploitation that remains deliberately hidden. If technology promises emancipation, yet produces new forms of global subordination, it stands in contradiction to the fundamental principle of human dignity. The fight against new forms of slavery is a decisive test for the ethical discernment of AI and digital transformation.'",
+      "text_excerpt": "On Safeguarding the Human Person in the Time of Artificial Intelligence\n'This approach reveals that dialogue with the world is not a tactical choice for the Church, but a concrete expression of her mission because the Gospel, like leaven, is capable of transforming the structures of society from within and forging paths toward a greater humanity.' [ Matthew 13:33 YLT(i) 33 Another simile spake he to them: 'The reign of the heavens is like to leaven, which a woman having taken, hid in three measures of meal, till the whole was leavened .' ] Exerpts from ENCYCLICAL LETTER MAGNIFICA HUMANITAS 'Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.' The entir",
+      "url": "https://www.reddit.com/r/Christianity/comments/1xohg43/on_safeguarding_the_human_person_in_the_time_of/",
+      "source_url": "https://www.reddit.com/r/Christianity/comments/1xohg43/on_safeguarding_the_human_person_in_the_time_of/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants, refugees and those forced to move"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "migrants, refugees and those forced to move"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1345,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xonlon",
+      "author": "SerialdeslgnationN",
+      "language": null,
+      "published_at": "2026-11-05T16:48:14Z",
+      "first_detected_at": "2026-11-05T23:05:05Z",
+      "last_detected_at": "2026-11-05T23:05:05Z",
+      "detection_count": 1,
+      "text": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place near a hotel housing asylum seekers in Newcastle, with 1 person arrested. A protest took place in Nuneaton after George Finch, the leader of Warwickshire County Council, said that two men that raped a 12 year old girl where asylum seekers. A protest took outside a hotel near Gatwick Airport. On the 17 of August a protest in Ashington that attracted hundreds took place over concerns over illegal immigrants that lived in the area and that men taking photographs of children were “outright ignored”. 150 people gathered outside a hotel with west merdia police saying that 2 police officers had been assaulted. Three days later three people were arrested who were in connection to the protest. On the 25th of August the UK saw another wave of protests across the whole country. On the 23rd of August around 200 hundred protested outside a hotel Around 500 anti asylum protesters gathered in west Drayton marched to a crown plaza Hotel whilst others went to a nearby holiday in. A stop the boats protest took place in Newtown where 400 people gathered to take a moment of silence for Charlie kirk. The UKIP and hundreds marched from quaside to the city centre in Newcastle, A counter protest formed by “stand up to racism also happened in which thousands of people took place in. On the 26th of October 2 Marches took place in southampton led by Tommy Robinson with several hundred counter protesters to oppose them. On the 23rd of September between 110,000 and 150,000 people gathered in central London for a march organised by Tommy Robinson called the Unite the Kingdom rally, counter-protests by Stand Up To Racism and local anti-fascist groups attracted around 5,000 demonstrators around 1,000 officers were deployed in the city, (took from Wikipedia). Flags started being put up on lamposts because a girl couldn't make a speech because she wore a union jack themed skirt.",
+      "text_excerpt": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place ",
+      "url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "source_url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Refugees",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1346,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xohg43",
+      "author": "Designer_Custard9008",
+      "language": null,
+      "published_at": "2026-11-05T12:30:28Z",
+      "first_detected_at": "2026-11-05T23:10:59Z",
+      "last_detected_at": "2026-11-05T23:10:59Z",
+      "detection_count": 1,
+      "text": "On Safeguarding the Human Person in the Time of Artificial Intelligence\n'This approach reveals that dialogue with the world is not a tactical choice for the Church, but a concrete expression of her mission because the Gospel, like leaven, is capable of transforming the structures of society from within and forging paths toward a greater humanity.' [ Matthew 13:33 YLT(i) 33 Another simile spake he to them: 'The reign of the heavens is like to leaven, which a woman having taken, hid in three measures of meal, till the whole was leavened .' ] Exerpts from ENCYCLICAL LETTER MAGNIFICA HUMANITAS 'Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.' The entirety here: [ https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\\\\\\](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) ] 'In the Book of Revelation, John sees the New Jerusalem “coming down out of heaven from God” (Rev 21:2) as a gift for all humanity.' 'The document places the dignity of work and of workers at the forefront of its reflection; affirms the right to a fair wage for oneself and one’s family; recognizes that persons have a fundamental value that takes precedence over capital and profit; defends private property along with its indispensable societal role; esteems workers’ associations; and proposes forms of cooperation between the different components of society as an alternative to the mentality of class struggle.' 'Those who believe in him are engaged in the great work of renewal that began with the mystery of his passion, death and resurrection, and they cooperate in building up the Kingdom of God, learning to embrace all men and women as brothers and sisters, children of one Father.' 'No sin, failure, humiliation or exclusion can diminish the profound value of a human life that God has willed and called into being. The fundamental dignity of each person, therefore, is neither acquired nor earned, nor does it need to be justified.' 'first, because the love of God, who calls us to friendship with him, is infinite; and second, his love is absolutely unconditional, in the sense that, even if we search endlessly, we will never find anything that can erase or deny it.' 'It is, therefore, not enough to state simply that men and women have equal dignity and rights; it is necessary that this be reflected in concrete decisions, such as in laws, access to employment, education, social and political responsibilities, and the way society listens to and values women’s contributions.' 'First of all, this principle reminds us that the earth’s goods — soil, water, air and natural resources — are given by God to the entire human family to sustain the lives of all, and that every person has an inherent right to the use of such goods, both now and in the future.' 'Today, among the goods that are universally intended for everyone, we must also include new forms of property, such as patents, algorithms, digital platforms, technological infrastructure and data. In a context where the wealth of nations depends increasingly on knowledge and technology, when these goods remain concentrated in the hands of a few, without adequate forms of sharing and access, a new imbalance is created that contradicts the universal destination of goods.' 'Justice demands that we prevent the emergence of new forms of exclusion and deprivation of freedoms: individuals and peoples hindered or denied access to basic technologies, communities exposed to invasive surveillance and social groups penalized by opaque algorithms that perpetuate prejudice and discrimination. In the digital age, a just social order guarantees everyone equal access to opportunities, protects the youngest and weakest members of society, combats hate and misinformation and subjects the use of data and technology to public oversight, so that the guiding principle is not solely profit but the dignity of every person and the common good of all people. A litmus test for social justice today is the treatment of migrants, refugees and those forced to move due to poverty, violence, climate change and environmental disasters. The way a society treats them reveals whether its sense of justice is driven by fear or by the spirit of fraternity.' 'Indeed, current AI systems are more “cultivated” than “built,” for developers do not directly design every detail, but instead create a framework within which the intelligence “grows.” As a result, fundamental scientific aspects — such as the internal representations and computational processes of these systems — remain, at present, unknown. There thus emerges an urgent need for a twofold commitment: on the one hand, a deepening of scientific research; on the other, the exercise of moral and spiritual discernment. It is not possible to provide a single, comprehensive definition of AI. What can be stated, however, is that we must avoid the misconception of equating this type of “intelligence” with that of human beings. These systems merely imitate certain functions of human intelligence.' 'The speed and simplicity with which information, complex analyses, media content and practical assistance can be accessed undoubtedly makes life easier. Yet they can also encourage excessive reliance and the search for ready-made answers, and weaken personal creativity and judgment. The apparent objectivity of the responses and suggestions these systems provide can lead us to overlook the fact that they reflect the cultural assumptions of those who designed and trained them, with all their strengths and limitations. The artificial imitation of positive human communication — words of advice, empathy, friendship and even love — can be engaging and at times genuinely helpful. However, for less discerning users, it can also be misleading, creating the illusion of a relationship with a real personal subject.' 'From this follows a simple but compelling consequence: we cannot consider AI to be morally neutral. In reality, every technical tool embodies choices and priorities through what it measures, ignores and optimizes, and how it classifies people and situations. If a system is designed or used in a way that treats some lives as less worthy, or excludes them without the possibility of appeal, then it is not merely a tool “to be used well,” since it has already introduced criteria that contradict the inalienable dignity of the human person. For this reason, ethical discernment cannot be limited to asking whether we are using a system for good or bad purposes; it must also examine how that system is designed and what vision of the human person and society is embedded in the data and models that guide it.' 'Calling for prudence, rigorous evaluation and even, at times, a slower pace in adopting AI does not mean opposing progress; instead, it is an exercise of responsible care for the human family. This need is all the more urgent given the frequent imbalance between the speed of technological growth and the slower development of awareness, norms, safeguards and institutions capable of governing its effects. It is not enough to invoke ethics in the abstract; robust legal frameworks, independent oversight, informed users and a political system that does not abdicate its responsibility are required. Otherwise, change will be governed only by technocratic thinking and presented as necessary and inevitable, ultimately imposing rules shaped by those who control data, infrastructure and computing power. We cannot be satisfied with merely calling for the moralization of machines — the so-called “alignment” of AI with human values — without also having the courage to insist on a further condition: the possibility of openly discussing the ethical frameworks involved and subjecting them to shared standards of social justice. Otherwise, those who control AI will impose their own moral vision, which will become the invisible infrastructure of these systems.' 'Herein lies the radical departure from Promethean dreams: what saves humanity is not enhanced self-sufficiency, but a relationship that liberates, a communion that transforms. In this light, a technology that merely classifies and optimizes what already exists can, however unintentionally, become an obstacle to change and growth. For an algorithm, an error is a flaw to be corrected; for a person, however, an error can be a catalyst for profound change. A person’s future is not calculable, but depends on one’s freedom — elevated by the inexhaustible grace of God — and on the relationships cultivated.' 'After all, democracy does not consist of rules and procedures alone, but above all of a solid concordance with the facts and a genuine commitment to the good of individuals and society as a whole. Indifference to the truth leads, slowly but surely, to a descent into totalitarianism. As the philosopher Hannah Arendt wrote, the ideal subjects of such regimes are not so much those who are ideologically convinced, but rather “people for whom the distinction between fact and fiction (i.e., the reality of experience) and the distinction between true and false (i.e., the standards of thought) no longer exist.”' 'Labor unions, which the Church has consistently supported, are called upon to be open to new types of employment and the corresponding needs of workers, in order to represent and defend them. In this context, without bold decisions, the prospect of greater poverty and inequality looms large, which would leave many individuals marginalized, stranded and surrounded by the machines and automated systems that have replaced them. At this time of transition, it is not enough to react only when jobs disappear; we must oversee the transformation in advance. One viable path is, first of all, to establish social criteria for innovation. Here, every introduction of automation and AI should be accompanied by verifiable measures to protect the employment, retraining and participation of workers. In this way, technology will be oriented toward freeing up human time and capabilities, rather than producing exclusion. Second, we need proactive policies that make continuous training and professional transitions accessible to all, ensuring that the cost of adaptation does not fall solely on individuals.' 'Just laws and methods of redistribution are certainly necessary for correcting imbalances, including tax systems that lighten the burden on the weakest and ask for more from those with greater resources. However, the pursuit of social justice should not be considered a separate issue that follows only after the production of wealth, as if the economy existed solely to create wealth, with politicians only intervening afterwards in order to distribute it. Indeed, justice concerns every phase of economic activity, from resource acquisition to financing, and from production to consumption; every choice has moral consequences. More than ever, in the age of AI and robotics, it is no longer possible to rely solely on the “invisible hand” of the market. [164] Politics has the task of orientating economies and technologies to the common good, promoting dignified work, social inclusion and an equitable distribution of the benefits of innovation. Since many economic decisions transcend national borders, there is also a need for international cooperation capable of defining common strategies, especially in favor of the most vulnerable countries and people, in order to promote development and overcome welfare dependency. The thinking behind these choices is the immeasurable dignity of every person, the common good and a world truly governed for everyone.' 'This distorted view of the human person is reflected today in various forms of servitude directly linked to the digital economy. Nothing in the world of AI is immaterial or magical. Every seemingly immediate and flawless response is the result of a long chain of mediation, involving vast networks of natural resources, energy infrastructure and, above all, people. A significant part of the digital economy’s functioning relies on the silent work of millions of people engaged in essential yet largely unseen activities, such as data labeling, model training and content moderation, often involving disturbing material. In many cases, these workers are young people, predominantly women, working under demanding conditions for minimal wages. Added to this invisible labor is the even harsher work of extracting the resources required for the production of the devices and microprocessors on which AI depends. In some regions of the world, children and adolescents work in dangerous conditions, crushing the materials from which rare earth elements are extracted. The bodies of these people are scarred, injured and worn down so that computational flow may continue uninterruptedly. Furthermore, criminal networks use online platforms, messaging systems, anonymous payment methods and profiling techniques in order to recruit, control and transport victims of trafficking — very often minors — reducing men and women to “data” to be tracked and “packages” to be moved around within the same digital circuits that support much of the global economy. This reality deeply challenges the moral conscience of our time. It is not enough to invoke efficiency, nor to celebrate the benefits of innovation, if they are built on a chain of exploitation that remains deliberately hidden. If technology promises emancipation, yet produces new forms of global subordination, it stands in contradiction to the fundamental principle of human dignity. The fight against new forms of slavery is a decisive test for the ethical discernment of AI and digital transformation.'",
+      "text_excerpt": "On Safeguarding the Human Person in the Time of Artificial Intelligence\n'This approach reveals that dialogue with the world is not a tactical choice for the Church, but a concrete expression of her mission because the Gospel, like leaven, is capable of transforming the structures of society from within and forging paths toward a greater humanity.' [ Matthew 13:33 YLT(i) 33 Another simile spake he to them: 'The reign of the heavens is like to leaven, which a woman having taken, hid in three measures of meal, till the whole was leavened .' ] Exerpts from ENCYCLICAL LETTER MAGNIFICA HUMANITAS 'Given in Rome, at Saint Peter’s, on 15 May, in the year 2026, the second of my Pontificate.' The entir",
+      "url": "https://www.reddit.com/r/Christianity/comments/1xohg43/on_safeguarding_the_human_person_in_the_time_of/",
+      "source_url": "https://www.reddit.com/r/Christianity/comments/1xohg43/on_safeguarding_the_human_person_in_the_time_of/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants, refugees and those forced to move"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "migrants, refugees and those forced to move"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1345,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xonlon",
+      "author": "SerialdeslgnationN",
+      "language": null,
+      "published_at": "2026-11-05T16:48:14Z",
+      "first_detected_at": "2026-11-05T23:05:05Z",
+      "last_detected_at": "2026-11-05T23:05:05Z",
+      "detection_count": 1,
+      "text": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place near a hotel housing asylum seekers in Newcastle, with 1 person arrested. A protest took place in Nuneaton after George Finch, the leader of Warwickshire County Council, said that two men that raped a 12 year old girl where asylum seekers. A protest took outside a hotel near Gatwick Airport. On the 17 of August a protest in Ashington that attracted hundreds took place over concerns over illegal immigrants that lived in the area and that men taking photographs of children were “outright ignored”. 150 people gathered outside a hotel with west merdia police saying that 2 police officers had been assaulted. Three days later three people were arrested who were in connection to the protest. On the 25th of August the UK saw another wave of protests across the whole country. On the 23rd of August around 200 hundred protested outside a hotel Around 500 anti asylum protesters gathered in west Drayton marched to a crown plaza Hotel whilst others went to a nearby holiday in. A stop the boats protest took place in Newtown where 400 people gathered to take a moment of silence for Charlie kirk. The UKIP and hundreds marched from quaside to the city centre in Newcastle, A counter protest formed by “stand up to racism also happened in which thousands of people took place in. On the 26th of October 2 Marches took place in southampton led by Tommy Robinson with several hundred counter protesters to oppose them. On the 23rd of September between 110,000 and 150,000 people gathered in central London for a march organised by Tommy Robinson called the Unite the Kingdom rally, counter-protests by Stand Up To Racism and local anti-fascist groups attracted around 5,000 demonstrators around 1,000 officers were deployed in the city, (took from Wikipedia). Flags started being put up on lamposts because a girl couldn't make a speech because she wore a union jack themed skirt.",
+      "text_excerpt": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place ",
+      "url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "source_url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Refugees",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1345,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xonlon",
+      "author": "SerialdeslgnationN",
+      "language": null,
+      "published_at": "2026-11-05T16:48:14Z",
+      "first_detected_at": "2026-11-05T23:05:05Z",
+      "last_detected_at": "2026-11-05T23:05:05Z",
+      "detection_count": 1,
+      "text": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place near a hotel housing asylum seekers in Newcastle, with 1 person arrested. A protest took place in Nuneaton after George Finch, the leader of Warwickshire County Council, said that two men that raped a 12 year old girl where asylum seekers. A protest took outside a hotel near Gatwick Airport. On the 17 of August a protest in Ashington that attracted hundreds took place over concerns over illegal immigrants that lived in the area and that men taking photographs of children were “outright ignored”. 150 people gathered outside a hotel with west merdia police saying that 2 police officers had been assaulted. Three days later three people were arrested who were in connection to the protest. On the 25th of August the UK saw another wave of protests across the whole country. On the 23rd of August around 200 hundred protested outside a hotel Around 500 anti asylum protesters gathered in west Drayton marched to a crown plaza Hotel whilst others went to a nearby holiday in. A stop the boats protest took place in Newtown where 400 people gathered to take a moment of silence for Charlie kirk. The UKIP and hundreds marched from quaside to the city centre in Newcastle, A counter protest formed by “stand up to racism also happened in which thousands of people took place in. On the 26th of October 2 Marches took place in southampton led by Tommy Robinson with several hundred counter protesters to oppose them. On the 23rd of September between 110,000 and 150,000 people gathered in central London for a march organised by Tommy Robinson called the Unite the Kingdom rally, counter-protests by Stand Up To Racism and local anti-fascist groups attracted around 5,000 demonstrators around 1,000 officers were deployed in the city, (took from Wikipedia). Flags started being put up on lamposts because a girl couldn't make a speech because she wore a union jack themed skirt.",
+      "text_excerpt": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place ",
+      "url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "source_url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Refugees",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1345,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xonlon",
+      "author": "SerialdeslgnationN",
+      "language": null,
+      "published_at": "2026-11-05T16:48:14Z",
+      "first_detected_at": "2026-11-05T23:05:05Z",
+      "last_detected_at": "2026-11-05T23:05:05Z",
+      "detection_count": 1,
+      "text": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place near a hotel housing asylum seekers in Newcastle, with 1 person arrested. A protest took place in Nuneaton after George Finch, the leader of Warwickshire County Council, said that two men that raped a 12 year old girl where asylum seekers. A protest took outside a hotel near Gatwick Airport. On the 17 of August a protest in Ashington that attracted hundreds took place over concerns over illegal immigrants that lived in the area and that men taking photographs of children were “outright ignored”. 150 people gathered outside a hotel with west merdia police saying that 2 police officers had been assaulted. Three days later three people were arrested who were in connection to the protest. On the 25th of August the UK saw another wave of protests across the whole country. On the 23rd of August around 200 hundred protested outside a hotel Around 500 anti asylum protesters gathered in west Drayton marched to a crown plaza Hotel whilst others went to a nearby holiday in. A stop the boats protest took place in Newtown where 400 people gathered to take a moment of silence for Charlie kirk. The UKIP and hundreds marched from quaside to the city centre in Newcastle, A counter protest formed by “stand up to racism also happened in which thousands of people took place in. On the 26th of October 2 Marches took place in southampton led by Tommy Robinson with several hundred counter protesters to oppose them. On the 23rd of September between 110,000 and 150,000 people gathered in central London for a march organised by Tommy Robinson called the Unite the Kingdom rally, counter-protests by Stand Up To Racism and local anti-fascist groups attracted around 5,000 demonstrators around 1,000 officers were deployed in the city, (took from Wikipedia). Flags started being put up on lamposts because a girl couldn't make a speech because she wore a union jack themed skirt.",
+      "text_excerpt": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place ",
+      "url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "source_url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Refugees",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xonlon"
+      ],
+      "related_authors": [
+        "SerialdeslgnationN"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1345,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xonlon",
+      "author": "SerialdeslgnationN",
+      "language": null,
+      "published_at": "2026-11-05T16:48:14Z",
+      "first_detected_at": "2026-11-05T23:05:05Z",
+      "last_detected_at": "2026-11-05T23:05:05Z",
+      "detection_count": 1,
+      "text": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place near a hotel housing asylum seekers in Newcastle, with 1 person arrested. A protest took place in Nuneaton after George Finch, the leader of Warwickshire County Council, said that two men that raped a 12 year old girl where asylum seekers. A protest took outside a hotel near Gatwick Airport. On the 17 of August a protest in Ashington that attracted hundreds took place over concerns over illegal immigrants that lived in the area and that men taking photographs of children were “outright ignored”. 150 people gathered outside a hotel with west merdia police saying that 2 police officers had been assaulted. Three days later three people were arrested who were in connection to the protest. On the 25th of August the UK saw another wave of protests across the whole country. On the 23rd of August around 200 hundred protested outside a hotel Around 500 anti asylum protesters gathered in west Drayton marched to a crown plaza Hotel whilst others went to a nearby holiday in. A stop the boats protest took place in Newtown where 400 people gathered to take a moment of silence for Charlie kirk. The UKIP and hundreds marched from quaside to the city centre in Newcastle, A counter protest formed by “stand up to racism also happened in which thousands of people took place in. On the 26th of October 2 Marches took place in southampton led by Tommy Robinson with several hundred counter protesters to oppose them. On the 23rd of September between 110,000 and 150,000 people gathered in central London for a march organised by Tommy Robinson called the Unite the Kingdom rally, counter-protests by Stand Up To Racism and local anti-fascist groups attracted around 5,000 demonstrators around 1,000 officers were deployed in the city, (took from Wikipedia). Flags started being put up on lamposts because a girl couldn't make a speech because she wore a union jack themed skirt.",
+      "text_excerpt": "To note the recent years living the UK.\nThis took me 3 hours to put together. 3.the 2011 riots. The killing of three young girls which caused the worst riots England has seen in a decade. The referendum to leave the European Union. The online safety act. The Epping protests. 8.The UKIP rally in Portsmouth. The protest in Athe meadows in Edinburgh where 64 year old man was hospitalised. On the 3rd of August another protest took place at the britannia international hotel where flares where set off. 250 people marched towards a police station with claims of asylum seekers were being housed there. A SUTR protest under the banner \"Defend Refugees, Stop the Far Right\" A another protest took place ",
+      "url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "source_url": "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "organised by"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Refugees",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xonlon"
+      ],
+      "related_authors": [
+        "SerialdeslgnationN"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/Britain/comments/1xonlon/to_note_the_recent_years_living_the_uk/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-05T23:11:10.145934+00:00"
+}
