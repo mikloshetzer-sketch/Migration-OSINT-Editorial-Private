@@ -230,6 +230,256 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1336,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_482a630454fbba7b3686",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-05T08:34:18Z",
+      "first_detected_at": "2026-11-05T08:40:15Z",
+      "last_detected_at": "2026-11-05T08:40:15Z",
+      "detection_count": 1,
+      "text": "The Government’s “earned settlement” reforms, announced to Parliament this week, are institutional cruelty dressed up as fairness. The right to live in the UK will now depend not on time spent here or protection needed, but on what you earn: high earners settle in three years, while a security guard or auxiliary nurse waits decades. Most shameful is the treatment of refugees: those fleeing war who arrive without papers face a 20-year wait, rising to 30 for those who crossed by small boat, punishing the very desperation that drove them to risk drowning. Human beings are being sorted into tiers of worth by salary bracket, while the Refugee Convention’s promise withers on the vine. People fleeing persecution deserve safety and dignity, not decades of limbo conditioned on economic usefulness. This is a corruption of sanctuary and our treaty obligations. https://www.ein.org.uk/news/home-secretary-confirms-major-changes-indefinite-leave-remain-rules-under-earned-settlement #ukpol #immigration",
+      "text_excerpt": "The Government’s “earned settlement” reforms, announced to Parliament this week, are institutional cruelty dressed up as fairness. The right to live in the UK will now depend not on time spent here or protection needed, but on what you earn: high earners settle in three years, while a security guard or auxiliary nurse waits decades. Most shameful is the treatment of refugees: those fleeing war who arrive without papers face a 20-year wait, rising to 30 for those who crossed by small boat, punishing the very desperation that drove them to risk drowning. Human beings are being sorted into tiers of worth by salary bracket, while the Refugee Convention’s promise withers on the vine. People fleei",
+      "url": "https://stroud.social/objects/8400f198-0aa9-4cab-877e-f022a0f1c9c5",
+      "source_url": "https://stroud.social/objects/8400f198-0aa9-4cab-877e-f022a0f1c9c5",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees: those fleeing war who arrive"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "refugees: those fleeing war who arrive without papers face a 20-year wait, rising"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees: those fleeing war who arrive",
+        "refugees: those fleeing war who arrive without papers face a 20-year wait, rising"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1337,
+      "source": "X",
+      "source_post_id": "2118252421931528279",
+      "author": "Abom1nabl3",
+      "language": "en",
+      "published_at": "2026-11-05T08:01:47Z",
+      "first_detected_at": "2026-11-05T08:40:40Z",
+      "last_detected_at": "2026-11-05T08:40:40Z",
+      "detection_count": 1,
+      "text": "Belarus border pressure is back\n\nAfter four quiet days, Lithuanian border guards turned back 28 irregular migrants from Belarus on Wednesday. That makes over 1,850 this year, already more than the roughly 1,650 in all of 2025.\n\nLatvia stopped 38 attempts on Tuesday and 26 on",
+      "text_excerpt": "Belarus border pressure is back\n\nAfter four quiet days, Lithuanian border guards turned back 28 irregular migrants from Belarus on Wednesday. That makes over 1,850 this year, already more than the roughly 1,650 in all of 2025.\n\nLatvia stopped 38 attempts on Tuesday and 26 on",
+      "url": "https://x.com/Abom1nabl3/status/2118252421931528279",
+      "source_url": "https://x.com/Abom1nabl3/status/2118252421931528279",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guards"
+        ],
+        [
+          "pressure",
+          "border pressure"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "border pressure"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1338,
+      "source": "X",
+      "source_post_id": "2118257607496638751",
+      "author": "ParkinAlex",
+      "language": "en",
+      "published_at": "2026-11-05T08:22:23Z",
+      "first_detected_at": "2026-11-05T08:41:05Z",
+      "last_detected_at": "2026-11-05T08:41:05Z",
+      "detection_count": 1,
+      "text": "@FraserNelson Arrivals going down simply means that the total number of illegal boat migrants isn't increasing as fast.\n\nJust like reducing our annual deficit still increases our national debt.\n\nNot really a win is it?",
+      "text_excerpt": "@FraserNelson Arrivals going down simply means that the total number of illegal boat migrants isn't increasing as fast.\n\nJust like reducing our annual deficit still increases our national debt.\n\nNot really a win is it?",
+      "url": "https://x.com/ParkinAlex/status/2118257607496638751",
+      "source_url": "https://x.com/ParkinAlex/status/2118257607496638751",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.5,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "migrants isn't increasing"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants isn't increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1335,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xocs5g",
+      "author": "meokjujatribes",
+      "language": null,
+      "published_at": "2026-11-05T07:41:49Z",
+      "first_detected_at": "2026-11-05T08:40:14Z",
+      "last_detected_at": "2026-11-05T08:40:14Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -461,6 +711,256 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1336,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_482a630454fbba7b3686",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-05T08:34:18Z",
+      "first_detected_at": "2026-11-05T08:40:15Z",
+      "last_detected_at": "2026-11-05T08:40:15Z",
+      "detection_count": 1,
+      "text": "The Government’s “earned settlement” reforms, announced to Parliament this week, are institutional cruelty dressed up as fairness. The right to live in the UK will now depend not on time spent here or protection needed, but on what you earn: high earners settle in three years, while a security guard or auxiliary nurse waits decades. Most shameful is the treatment of refugees: those fleeing war who arrive without papers face a 20-year wait, rising to 30 for those who crossed by small boat, punishing the very desperation that drove them to risk drowning. Human beings are being sorted into tiers of worth by salary bracket, while the Refugee Convention’s promise withers on the vine. People fleeing persecution deserve safety and dignity, not decades of limbo conditioned on economic usefulness. This is a corruption of sanctuary and our treaty obligations. https://www.ein.org.uk/news/home-secretary-confirms-major-changes-indefinite-leave-remain-rules-under-earned-settlement #ukpol #immigration",
+      "text_excerpt": "The Government’s “earned settlement” reforms, announced to Parliament this week, are institutional cruelty dressed up as fairness. The right to live in the UK will now depend not on time spent here or protection needed, but on what you earn: high earners settle in three years, while a security guard or auxiliary nurse waits decades. Most shameful is the treatment of refugees: those fleeing war who arrive without papers face a 20-year wait, rising to 30 for those who crossed by small boat, punishing the very desperation that drove them to risk drowning. Human beings are being sorted into tiers of worth by salary bracket, while the Refugee Convention’s promise withers on the vine. People fleei",
+      "url": "https://stroud.social/objects/8400f198-0aa9-4cab-877e-f022a0f1c9c5",
+      "source_url": "https://stroud.social/objects/8400f198-0aa9-4cab-877e-f022a0f1c9c5",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees: those fleeing war who arrive"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "refugees: those fleeing war who arrive without papers face a 20-year wait, rising"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees: those fleeing war who arrive",
+        "refugees: those fleeing war who arrive without papers face a 20-year wait, rising"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1337,
+      "source": "X",
+      "source_post_id": "2118252421931528279",
+      "author": "Abom1nabl3",
+      "language": "en",
+      "published_at": "2026-11-05T08:01:47Z",
+      "first_detected_at": "2026-11-05T08:40:40Z",
+      "last_detected_at": "2026-11-05T08:40:40Z",
+      "detection_count": 1,
+      "text": "Belarus border pressure is back\n\nAfter four quiet days, Lithuanian border guards turned back 28 irregular migrants from Belarus on Wednesday. That makes over 1,850 this year, already more than the roughly 1,650 in all of 2025.\n\nLatvia stopped 38 attempts on Tuesday and 26 on",
+      "text_excerpt": "Belarus border pressure is back\n\nAfter four quiet days, Lithuanian border guards turned back 28 irregular migrants from Belarus on Wednesday. That makes over 1,850 this year, already more than the roughly 1,650 in all of 2025.\n\nLatvia stopped 38 attempts on Tuesday and 26 on",
+      "url": "https://x.com/Abom1nabl3/status/2118252421931528279",
+      "source_url": "https://x.com/Abom1nabl3/status/2118252421931528279",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guards"
+        ],
+        [
+          "pressure",
+          "border pressure"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "border pressure"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1338,
+      "source": "X",
+      "source_post_id": "2118257607496638751",
+      "author": "ParkinAlex",
+      "language": "en",
+      "published_at": "2026-11-05T08:22:23Z",
+      "first_detected_at": "2026-11-05T08:41:05Z",
+      "last_detected_at": "2026-11-05T08:41:05Z",
+      "detection_count": 1,
+      "text": "@FraserNelson Arrivals going down simply means that the total number of illegal boat migrants isn't increasing as fast.\n\nJust like reducing our annual deficit still increases our national debt.\n\nNot really a win is it?",
+      "text_excerpt": "@FraserNelson Arrivals going down simply means that the total number of illegal boat migrants isn't increasing as fast.\n\nJust like reducing our annual deficit still increases our national debt.\n\nNot really a win is it?",
+      "url": "https://x.com/ParkinAlex/status/2118257607496638751",
+      "source_url": "https://x.com/ParkinAlex/status/2118257607496638751",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.5,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "migrants isn't increasing"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants isn't increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1335,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xocs5g",
+      "author": "meokjujatribes",
+      "language": null,
+      "published_at": "2026-11-05T07:41:49Z",
+      "first_detected_at": "2026-11-05T08:40:14Z",
+      "last_detected_at": "2026-11-05T08:40:14Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -538,6 +1038,166 @@
         "X"
       ],
       "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1337,
+      "source": "X",
+      "source_post_id": "2118252421931528279",
+      "author": "Abom1nabl3",
+      "language": "en",
+      "published_at": "2026-11-05T08:01:47Z",
+      "first_detected_at": "2026-11-05T08:40:40Z",
+      "last_detected_at": "2026-11-05T08:40:40Z",
+      "detection_count": 1,
+      "text": "Belarus border pressure is back\n\nAfter four quiet days, Lithuanian border guards turned back 28 irregular migrants from Belarus on Wednesday. That makes over 1,850 this year, already more than the roughly 1,650 in all of 2025.\n\nLatvia stopped 38 attempts on Tuesday and 26 on",
+      "text_excerpt": "Belarus border pressure is back\n\nAfter four quiet days, Lithuanian border guards turned back 28 irregular migrants from Belarus on Wednesday. That makes over 1,850 this year, already more than the roughly 1,650 in all of 2025.\n\nLatvia stopped 38 attempts on Tuesday and 26 on",
+      "url": "https://x.com/Abom1nabl3/status/2118252421931528279",
+      "source_url": "https://x.com/Abom1nabl3/status/2118252421931528279",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "border guards"
+        ],
+        [
+          "pressure",
+          "border pressure"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "border pressure"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2118252421931528279"
+      ],
+      "related_authors": [
+        "Abom1nabl3"
+      ],
+      "related_urls": [
+        "https://x.com/Abom1nabl3/status/2118252421931528279"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1335,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xocs5g",
+      "author": "meokjujatribes",
+      "language": null,
+      "published_at": "2026-11-05T07:41:49Z",
+      "first_detected_at": "2026-11-05T08:40:14Z",
+      "last_detected_at": "2026-11-05T08:40:14Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 4,
+      "related_post_ids": [
+        "reddit_1xocs5g",
+        "reddit_1xo4mzs",
+        "reddit_1xo4mss",
+        "reddit_1xo3zyk"
+      ],
+      "related_authors": [
+        "CantStopPoppin",
+        "InTheseTryingTime5",
+        "meokjujatribes"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/antimisdisinfoproject/comments/1xocs5g/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+        "https://www.reddit.com/r/50501Movement/comments/1xo4mzs/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+        "https://www.reddit.com/r/ThePeoplesPress/comments/1xo4mss/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+        "https://www.reddit.com/r/EyesOnIce/comments/1xo3zyk/11042026_trump_confirmed_no_halt_to_ice_raids_or/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 3,
       "platform_count": 1
     }
   ],
@@ -766,9 +1426,159 @@
       "first_collected_at": "2026-11-05T00:35:55Z",
       "last_collected_at": "2026-11-05T00:35:55Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24746",
+      "timestamp": "2026-11-05T08:41:27Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118262406338220201",
+      "author": "halhalky",
+      "url": "https://x.com/halhalky/status/2118262406338220201",
+      "source_url": "https://x.com/halhalky/status/2118262406338220201",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@DataGuyRedux @MJGlobalIndia If getting our stolen lands back from INdia and deporting Indian migrants rats like Madhise Bihari terrorists. \n\nThen lets do it. China, Nepal, Pakistan and Bangladesh together will conquer India and divide it as it originally was before the British arrived.",
+      "text_excerpt": "@DataGuyRedux @MJGlobalIndia If getting our stolen lands back from INdia and deporting Indian migrants rats like Madhise Bihari terrorists. \n\nThen lets do it. China, Nepal, Pakistan and Bangladesh together will conquer India and divide it as it originally was before the British arrived.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T08:43:56Z",
+      "last_collected_at": "2026-11-05T08:43:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24715",
+      "timestamp": "2026-11-05T08:17:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118256492344172732",
+      "author": "DrRon52u9",
+      "url": "https://x.com/DrRon52u9/status/2118256492344172732",
+      "source_url": "https://x.com/DrRon52u9/status/2118256492344172732",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "What are these Arab bastards planning? Last night, in the Shuafat refugee camp, Border Police officers operating in the Jerusalem envelope seized explosives as well as Border Police and IDF uniforms. https://t.co/MjL36j52Hm",
+      "text_excerpt": "What are these Arab bastards planning? Last night, in the Shuafat refugee camp, Border Police officers operating in the Jerusalem envelope seized explosives as well as Border Police and IDF uniforms. https://t.co/MjL36j52Hm",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T08:40:40Z",
+      "last_collected_at": "2026-11-05T08:40:40Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24727",
+      "timestamp": "2026-11-05T08:03:40Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118252896839967052",
+      "author": "Wayner2512",
+      "url": "https://x.com/Wayner2512/status/2118252896839967052",
+      "source_url": "https://x.com/Wayner2512/status/2118252896839967052",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@hewitson10 They're so desperate to denigrate Labour on any point possible. \nBoat crossings are down.\nDeportations are up.\n50% of the Tory migrant hotels are closed.\nWe even managed to negotiate a return treaty with the French government.\nBut blame Andy Burnham.\nRidiculous.",
+      "text_excerpt": "@hewitson10 They're so desperate to denigrate Labour on any point possible. \nBoat crossings are down.\nDeportations are up.\n50% of the Tory migrant hotels are closed.\nWe even managed to negotiate a return treaty with the French government.\nBut blame Andy Burnham.\nRidiculous.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T08:41:06Z",
+      "last_collected_at": "2026-11-05T08:41:06Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24729",
+      "timestamp": "2026-11-05T07:43:59Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118247943421747661",
+      "author": "CrisisLow",
+      "url": "https://x.com/CrisisLow/status/2118247943421747661",
+      "source_url": "https://x.com/CrisisLow/status/2118247943421747661",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "sea",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@denaltb @benjamuniverse1 @dancantstream @hasanthehun Dan Saltman is denying Lauren Southern’s blocking of refugee boats in an attempt to deny them rescue and have them die at sea. Not only that, but Dan’s friend (Lonerbox) said the exact same thing around the same time. So is Lonerbox defaming Lauren or is Dan just lying?",
+      "text_excerpt": "@denaltb @benjamuniverse1 @dancantstream @hasanthehun Dan Saltman is denying Lauren Southern’s blocking of refugee boats in an attempt to deny them rescue and have them die at sea. Not only that, but Dan’s friend (Lonerbox) said the exact same thing around the same time. So is Lonerbox defaming Lauren or is Dan just lying?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T08:41:06Z",
+      "last_collected_at": "2026-11-05T08:41:06Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-05T00:38:11.582987+00:00",
+  "last_archived_at": "2026-11-05T08:44:04.895131+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -801,6 +1611,163 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "live_events": [
+    {
+      "id": 829,
+      "event_id": 829,
+      "source": "X",
+      "source_post_id": "2118253882174267549",
+      "author": "ianberriman",
+      "published_at": "2026-11-05T08:07:35Z",
+      "collected_at": "2026-11-05T08:41:05Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@MarkHeath45 A boat that has had all the migrants removed from it cannot be “ready to bring them in”. He pointlessly slashed a boat with one rescue worker on it.",
+      "url": "https://x.com/ianberriman/status/2118253882174267549",
+      "source_url": "https://x.com/ianberriman/status/2118253882174267549"
+    },
+    {
+      "id": 830,
+      "event_id": 830,
+      "source": "X",
+      "source_post_id": "2118253180396134566",
+      "author": "Spotnews_media",
+      "published_at": "2026-11-05T08:04:48Z",
+      "collected_at": "2026-11-05T08:41:06Z",
+      "event_type": "RESCUE_OPERATION",
+      "signal_type": "RESCUE_OPERATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Authorities carried out a dramatic overnight rescue operation in Andhra Pradesh’s Eluru district, safely rescuing 22 migrant workers stranded amid surging Pedda Vagu floodwaters near Routhugudem bridge. The rescue comes amid heavy rainfall triggered by Cyclone Murasu, raising https://t.co/IwAT75RZCN",
+      "url": "https://x.com/Spotnews_media/status/2118253180396134566",
+      "source_url": "https://x.com/Spotnews_media/status/2118253180396134566"
+    },
+    {
+      "id": 831,
+      "event_id": 831,
+      "source": "X",
+      "source_post_id": "2118251290979676314",
+      "author": "daneelchia",
+      "published_at": "2026-11-05T07:57:17Z",
+      "collected_at": "2026-11-05T08:43:56Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@TeriApocalypse Exactly. Many Chinese migrants arrived as impoverished labourers, not conquerors.\n\nThe underlying implication in OP’s argument is the racist stereotype that “the Chinese steal”, whether land, wealth or opportunities.",
+      "url": "https://x.com/daneelchia/status/2118251290979676314",
+      "source_url": "https://x.com/daneelchia/status/2118251290979676314"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 664,
+      "group_id": 664,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@MarkHeath45 A boat that has had all the migrants removed from it cannot be “ready to bring them in”. He pointlessly slashed a boat with one rescue worker on it.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-05T08:07:35Z",
+      "last_seen": "2026-11-05T08:07:35Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-05T08:41:05Z",
+      "updated_at": "2026-11-05T08:41:05Z"
+    },
+    {
+      "id": 665,
+      "group_id": 665,
+      "event_type": "RESCUE_OPERATION",
+      "dominant_event_type": "RESCUE_OPERATION",
+      "title": "RESCUE_OPERATION",
+      "representative_text": "Authorities carried out a dramatic overnight rescue operation in Andhra Pradesh’s Eluru district, safely rescuing 22 migrant workers stranded amid surging Pedda Vagu floodwaters near Routhugudem bridge. The rescue comes amid heavy rainfall triggered by Cyclone Murasu, raising https://t.co/IwAT75RZCN",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-05T08:04:48Z",
+      "last_seen": "2026-11-05T08:04:48Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-05T08:41:06Z",
+      "updated_at": "2026-11-05T08:41:06Z"
+    },
+    {
+      "id": 666,
+      "group_id": 666,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@TeriApocalypse Exactly. Many Chinese migrants arrived as impoverished labourers, not conquerors.\n\nThe underlying implication in OP’s argument is the racist stereotype that “the Chinese steal”, whether land, wealth or opportunities.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-05T07:57:17Z",
+      "last_seen": "2026-11-05T07:57:17Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-05T08:43:56Z",
+      "updated_at": "2026-11-05T08:43:56Z"
     }
   ]
 }
