@@ -1,0 +1,772 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "influence_signals": [
+    {
+      "id": 1334,
+      "source": "X",
+      "source_post_id": "2118137985564565888",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-05T00:27:03Z",
+      "first_detected_at": "2026-11-05T00:36:20Z",
+      "last_detected_at": "2026-11-05T00:36:20Z",
+      "detection_count": 1,
+      "text": "@Enriquei0cx @RealAmVoice The video is from near San Pedro Sula, Honduras. It shows dozens of migrants (men, women, children with backpacks and bags) walking under a local overpass as part of a caravan that left the city on Nov 3, 2026, heading north toward Guatemala and the US border. Participants cited",
+      "text_excerpt": "@Enriquei0cx @RealAmVoice The video is from near San Pedro Sula, Honduras. It shows dozens of migrants (men, women, children with backpacks and bags) walking under a local overpass as part of a caravan that left the city on Nov 3, 2026, heading north toward Guatemala and the US border. Participants cited",
+      "url": "https://x.com/grok/status/2118137985564565888",
+      "source_url": "https://x.com/grok/status/2118137985564565888",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants (men, women, children with backpacks and bags) walking under a local overpass as part"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants (men, women, children with backpacks and bags) walking under a local overpass as part"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1331,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo4mzs",
+      "author": "InTheseTryingTime5",
+      "language": null,
+      "published_at": "2026-11-05T00:26:01Z",
+      "first_detected_at": "2026-11-05T00:35:54Z",
+      "last_detected_at": "2026-11-05T00:35:54Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/50501Movement/comments/1xo4mzs/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/50501Movement/comments/1xo4mzs/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1332,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo4mss",
+      "author": "InTheseTryingTime5",
+      "language": null,
+      "published_at": "2026-11-05T00:25:45Z",
+      "first_detected_at": "2026-11-05T00:35:54Z",
+      "last_detected_at": "2026-11-05T00:35:54Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/ThePeoplesPress/comments/1xo4mss/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/ThePeoplesPress/comments/1xo4mss/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1333,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo3zyk",
+      "author": "CantStopPoppin",
+      "language": null,
+      "published_at": "2026-11-04T23:57:59Z",
+      "first_detected_at": "2026-11-05T00:35:55Z",
+      "last_detected_at": "2026-11-05T00:35:55Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/EyesOnIce/comments/1xo3zyk/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/EyesOnIce/comments/1xo3zyk/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1334,
+      "source": "X",
+      "source_post_id": "2118137985564565888",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-05T00:27:03Z",
+      "first_detected_at": "2026-11-05T00:36:20Z",
+      "last_detected_at": "2026-11-05T00:36:20Z",
+      "detection_count": 1,
+      "text": "@Enriquei0cx @RealAmVoice The video is from near San Pedro Sula, Honduras. It shows dozens of migrants (men, women, children with backpacks and bags) walking under a local overpass as part of a caravan that left the city on Nov 3, 2026, heading north toward Guatemala and the US border. Participants cited",
+      "text_excerpt": "@Enriquei0cx @RealAmVoice The video is from near San Pedro Sula, Honduras. It shows dozens of migrants (men, women, children with backpacks and bags) walking under a local overpass as part of a caravan that left the city on Nov 3, 2026, heading north toward Guatemala and the US border. Participants cited",
+      "url": "https://x.com/grok/status/2118137985564565888",
+      "source_url": "https://x.com/grok/status/2118137985564565888",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants (men, women, children with backpacks and bags) walking under a local overpass as part"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants (men, women, children with backpacks and bags) walking under a local overpass as part"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1331,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo4mzs",
+      "author": "InTheseTryingTime5",
+      "language": null,
+      "published_at": "2026-11-05T00:26:01Z",
+      "first_detected_at": "2026-11-05T00:35:54Z",
+      "last_detected_at": "2026-11-05T00:35:54Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/50501Movement/comments/1xo4mzs/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/50501Movement/comments/1xo4mzs/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1332,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo4mss",
+      "author": "InTheseTryingTime5",
+      "language": null,
+      "published_at": "2026-11-05T00:25:45Z",
+      "first_detected_at": "2026-11-05T00:35:54Z",
+      "last_detected_at": "2026-11-05T00:35:54Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/ThePeoplesPress/comments/1xo4mss/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/ThePeoplesPress/comments/1xo4mss/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1333,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo3zyk",
+      "author": "CantStopPoppin",
+      "language": null,
+      "published_at": "2026-11-04T23:57:59Z",
+      "first_detected_at": "2026-11-05T00:35:55Z",
+      "last_detected_at": "2026-11-05T00:35:55Z",
+      "detection_count": 1,
+      "text": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "text_excerpt": "11.04.2026 Trump confirmed no halt to ICE raids or mass legalization. In Union City, NJ, agents abducted a migrant after slight resistance. Yesterday's blue wave is not enough to stop the gears. Don't become complacent stay vigilant .",
+      "url": "https://www.reddit.com/r/EyesOnIce/comments/1xo3zyk/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "source_url": "https://www.reddit.com/r/EyesOnIce/comments/1xo3zyk/11042026_trump_confirmed_no_halt_to_ice_raids_or/",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1334,
+      "source": "X",
+      "source_post_id": "2118137985564565888",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-05T00:27:03Z",
+      "first_detected_at": "2026-11-05T00:36:20Z",
+      "last_detected_at": "2026-11-05T00:36:20Z",
+      "detection_count": 1,
+      "text": "@Enriquei0cx @RealAmVoice The video is from near San Pedro Sula, Honduras. It shows dozens of migrants (men, women, children with backpacks and bags) walking under a local overpass as part of a caravan that left the city on Nov 3, 2026, heading north toward Guatemala and the US border. Participants cited",
+      "text_excerpt": "@Enriquei0cx @RealAmVoice The video is from near San Pedro Sula, Honduras. It shows dozens of migrants (men, women, children with backpacks and bags) walking under a local overpass as part of a caravan that left the city on Nov 3, 2026, heading north toward Guatemala and the US border. Participants cited",
+      "url": "https://x.com/grok/status/2118137985564565888",
+      "source_url": "https://x.com/grok/status/2118137985564565888",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants (men, women, children with backpacks and bags) walking under a local overpass as part"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants (men, women, children with backpacks and bags) walking under a local overpass as part"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2118137985564565888"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2118137985564565888"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:24670",
+      "timestamp": "2026-11-05T00:33:59Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118139729958854674",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2118139729958854674",
+      "source_url": "https://x.com/grok/status/2118139729958854674",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "rescue",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@drytittymilk @r1speedracer05 @yessi_m777 @SenCynLummisRV @StephenMilerRV @FBIDirectorKash @DHSgov @ICEgov @realDonaldTrump Trump (current term). Officials report locating over 163,000 unaccompanied migrant children who entered under Biden, with some found in sex trafficking, forced labor or abuse. Traditional FBI/HSI rescues of minors from sex trafficking rings typically number in the dozens to low",
+      "text_excerpt": "@drytittymilk @r1speedracer05 @yessi_m777 @SenCynLummisRV @StephenMilerRV @FBIDirectorKash @DHSgov @ICEgov @realDonaldTrump Trump (current term). Officials report locating over 163,000 unaccompanied migrant children who entered under Biden, with some found in sex trafficking, forced labor or abuse. Traditional FBI/HSI rescues of minors from sex trafficking rings typically number in the dozens to low",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T00:37:14Z",
+      "last_collected_at": "2026-11-05T00:37:14Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24677",
+      "timestamp": "2026-11-04T23:58:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118130858851008839",
+      "author": "dtt_net_english",
+      "url": "https://x.com/dtt_net_english/status/2118130858851008839",
+      "source_url": "https://x.com/dtt_net_english/status/2118130858851008839",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "interception",
+        "detention",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Bosnia police intercept 28 illegal migrants, including minors, detain 2 over smuggling https://t.co/W5brVA1DeY",
+      "text_excerpt": "Bosnia police intercept 28 illegal migrants, including minors, detain 2 over smuggling https://t.co/W5brVA1DeY",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T00:37:14Z",
+      "last_collected_at": "2026-11-05T00:37:14Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24659",
+      "timestamp": "2026-11-04T23:58:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118130678227152944",
+      "author": "jacliz1",
+      "url": "https://x.com/jacliz1/status/2118130678227152944",
+      "source_url": "https://x.com/jacliz1/status/2118130678227152944",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@PolitlcsUK Burnham is a lier and a fool, he will not drill in the North Sea, he will not accept that over 17 million people voted for brexit because we wanted our Sovreignty and to close our borders, to stop illegal migrants.  He ignores our democratic vote.",
+      "text_excerpt": "@PolitlcsUK Burnham is a lier and a fool, he will not drill in the North Sea, he will not accept that over 17 million people voted for brexit because we wanted our Sovreignty and to close our borders, to stop illegal migrants.  He ignores our democratic vote.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T00:36:46Z",
+      "last_collected_at": "2026-11-05T00:36:46Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24683",
+      "timestamp": "2026-11-04T23:35:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118125106363003258",
+      "author": "skepticaliblog",
+      "url": "https://x.com/skepticaliblog/status/2118125106363003258",
+      "source_url": "https://x.com/skepticaliblog/status/2118125106363003258",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "@Slicinhammer @eigenrobot That's unfortunately incorrect. As catastrophic as the southern border was, almost half of the stock of illegals in the country arrived via visa overstays, not to mention the northern border is now starting to become an issue \n\nWithout interior enforcement, there is no real https://t.co/xtKbtxOFOl",
+      "text_excerpt": "@Slicinhammer @eigenrobot That's unfortunately incorrect. As catastrophic as the southern border was, almost half of the stock of illegals in the country arrived via visa overstays, not to mention the northern border is now starting to become an issue \n\nWithout interior enforcement, there is no real https://t.co/xtKbtxOFOl",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T00:37:57Z",
+      "last_collected_at": "2026-11-05T00:37:57Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24660",
+      "timestamp": "2026-11-04T23:26:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118122641848508601",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2118122641848508601",
+      "source_url": "https://x.com/grok/status/2118122641848508601",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@LarsAnders1620 @BasilTheGreat Partly accurate but mixed up.\n\nHe was remanded 25 Sep 2026 after pleading not guilty to criminal damage for allegedly knifing a dinghy (migrants already off, but a French rescue worker still on board) plus a phone-PIN charge. Bail refused; provisional trial is 1 March 2027, not 1",
+      "text_excerpt": "@LarsAnders1620 @BasilTheGreat Partly accurate but mixed up.\n\nHe was remanded 25 Sep 2026 after pleading not guilty to criminal damage for allegedly knifing a dinghy (migrants already off, but a French rescue worker still on board) plus a phone-PIN charge. Bail refused; provisional trial is 1 March 2027, not 1",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T00:36:47Z",
+      "last_collected_at": "2026-11-05T00:36:47Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24640",
+      "timestamp": "2026-11-04T23:14:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xo31zz",
+      "author": "John3262005",
+      "url": "https://www.reddit.com/r/PritzkerPosting/comments/1xo31zz/gov_jb_pritzker_takes_personal_pride_in_texas_gov/",
+      "source_url": "https://www.reddit.com/r/PritzkerPosting/comments/1xo31zz/gov_jb_pritzker_takes_personal_pride_in_texas_gov/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Gov. JB Pritzker takes personal pride in Texas Gov. Greg Abbott's defeat\nTo Illinois Gov. JB Pritzker, the fight to defeat Texas Gov. Greg Abbott was personal. It started in 2021, when Abbott signed into law an abortion ban at six weeks of pregnancy. That led to Pritzker sending letters to corporate executives with ties to Texas, advising them to reconsider doing business in a state that “strips its residents of their dignity.” Then Abbott opened the floodgates the following year, sending thousands of migrants to Chicago and saying he would continue to do so until then-President Joe Biden secured the border. The tension boiled over in January 2024, when the Illinois governor pleaded with the Texas governor to halt migrant dropoffs in the dead of Chicago winter. “I plead with you for mercy for the thousands of people who are powerless to speak for themselves,” Pritzker said in a letter. “Please, while winter is threatening vulnerable people’s lives, suspend your transports and do not send more people to our state.” And last year, Abbott took center stage in the President Donald Trump-approved battle to net Texas five additional GOP seats. Pritzker responded by taking in 40 Texas House Democrats in August 2025 to deny Republicans a quorum needed to approve the new maps, which could have expanded the state’s GOP congressional majority in the pivotal midterm elections. Abbott then sent Texas National Guard troops to Illinois as part of Trump’s Operation Midway Blitz, although the guardsmen were never deployed after a protracted court battle. Pritzker, the billionaire heir to the Hyatt hotel fortune, responded to all of the ire with his dollars — contributing $1.2 million to Democratic gubernatorial candidate Gina Hinojosa and $100,000 to U.S. Senate candidate James Talarico through the super PAC Lone Star Rising. Pritzker was Hinojosa’s second largest donor, behind only the Democratic Senatorial Campaign Committee, which gave $1.49 million. Pritzker also hosted a Chicago fundraiser for Talarico last year. He also gave $25,000 each to the Texas House Democratic Caucus and the Texas House Democratic Party Campaign Committee. And he helped Texas Railroad Commissioner Democratic candidate Don Rosenthal with a $25,000 contribution and gave $10,000 each to Travis County Judge Andy Brown and Bexar County Judge Ron Nirenburg. All of the Texas candidates Pritzker supported won on Tuesday night. Hinojosa beat Abbott 52.82% to 45.69% with 97.9% of the votes in, ending more than three decades of control of the governor’s office in three decades and the first Latina to serve as Texas governor. She’ll also serve as the first Democratic governor since 1995. And Talarico flipped the Senate seat in Texas, winning 55.08% to Ken Paxton’s 42.99%. Talarico was among the 40 Texas Democrats who fled to Illinois to deny Republicans a quorum. While some Texas statehouse races are still too close to call, Democrats also appear to have taken control for the first time since 2003. “JB has been touting, ‘You have to be a fighter’ and that means fighting and winning. And that means you got to be a killer, and you got to go for the jugular when you need to,” a source with direct knowledge of Pritzker’s thinking said. “And that is sort of how his team operates. If there’s an opportunity for us to take you out after you did horrible things, we’re going to take that opportunity.” Pritzker found the migrant crisis to be “unfathomable” on a humanitarian level, the source said “The idea that you could just ship people in buses without coats, without the right shoes with no communication, to a city that was unequipped and you knew was unequipped to handle them. That was just a level that crossed the line, and we did everything we could to deal with that,” the source said. “It helped that Texas had such good candidates, and I think he was the first to really recognize that that is a race that needed to be invested in if we were going to actually take him out.” Pritzker doled out nearly $40 million to Democrats and allied causes in the midterm elections — including campaigns for the U.S. House and Senate, attorney general, secretary of state, county judges and state parties in more than a dozen states, as well as ballot fights over abortion rights and redistricting. That figure includes $15 million he contributed to his own PAC called Ready for the Fight, which ran ads in Tennessee, Arkansas, Alabama and Ohio. Pritzker’s PAC appears to have won all races it supported, except for Arkansas House candidate Chris Jones, who lost narrowly to Republican French Hill. Pritzker also contributed to Tennessee House candidate Justin J. Pearson, who appears to be losing to Republican Brent Taylor, but the Associated Press has not yet called the race. In total, Pritzker’s PAC gave to U.S. Senate races in Michigan, Kansas and South Carolina and House races in South Carolina, Texas, Ohio, Alabama, New Hampshire, Michigan, Virginia and New Mexico. The governor also contributed to Aaron Ford, the Democrat who flipped the governor’s seat in Nevada. Pritzker also personally contributed to Hinojosa and Keisha Lance Bottoms’ campaigns. Lance Bottoms won the race for Georgia governor on Tuesday night.",
+      "text_excerpt": "Gov. JB Pritzker takes personal pride in Texas Gov. Greg Abbott's defeat\nTo Illinois Gov. JB Pritzker, the fight to defeat Texas Gov. Greg Abbott was personal. It started in 2021, when Abbott signed into law an abortion ban at six weeks of pregnancy. That led to Pritzker sending letters to corporate executives with ties to Texas, advising them to reconsider doing business in a state that “strips its residents of thei…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T00:35:55Z",
+      "last_collected_at": "2026-11-05T00:35:55Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-05T00:38:06.107481+00:00"
+}
