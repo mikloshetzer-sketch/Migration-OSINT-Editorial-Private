@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T00:38:43.658485+00:00"
+    },
+    "group:664": {
+      "hu_text": "Egy hajót, amelyről eltávolították az összes migránst, nem lehet „késznek nevezni arra, hogy befogadja őket”. Értelmetlenül átvágott egy hajót, amin csak egy mentő dolgozó volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített bizonyíték a hajó állapotáról vagy a cselekmény indokoltságáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:33.605441+00:00"
+    },
+    "group:665": {
+      "hu_text": "Andhra Pradesh Eluru körzetében a hatóságok egy éjszakai mentőakciót hajtottak végre, amely során 22 migráns munkást mentettek ki biztonságban a Routhugudem híd közelében a Pedda Vagu áradó vizei közül. A mentést a Murasu ciklon okozta heves esőzések tették szükségessé.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A mentőakció részletei konkrétak és fontosak, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:33.605457+00:00"
+    },
+    "group:666": {
+      "hu_text": "Pontosan. Sok kínai migráns szegény munkásként érkezett, nem hódítóként. Az eredeti poszt mögötti feltételezés a rasszista sztereotípia, hogy „a kínaiak lopnak”, legyen az föld, vagyon vagy lehetőségek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és társadalmi vita része, nem tényállítás, így nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:33.605461+00:00"
+    },
+    "information:24715": {
+      "hu_text": "Mit terveznek ezek az arab gazemberek? Tegnap este a jeruzsálemi Shuafat menekülttáborban a Határőrség és az Izraeli Védelmi Erők egyenruháit, valamint robbanószereket foglaltak le.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos biztonsági fenyegetést jelez, de nincs független megerősítés vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:33.605465+00:00"
+    },
+    "information:24727": {
+      "hu_text": "Annyira kétségbeesetten próbálják lejáratni a Munkáspártot bármilyen ponton. A hajóátkelések csökkentek, a kitoloncolások nőttek, az Konzervatívok migránsszállásainak 50%-a bezárt, és még visszatérési egyezményt is sikerült kötni a francia kormánnyal. Mégis Andy Burnham a hibás. Nevetséges.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások keveréke, amelyek részben ellenőrizhetők, de jelenleg nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:33.605467+00:00"
+    },
+    "information:24729": {
+      "hu_text": "Dan Saltman tagadja, hogy Lauren Southern megakadályozta volna a menekült hajók mentését, hogy azok a tengeren meghaljanak. Ráadásul Dan barátja (Lonerbox) ugyanazt állította ugyanabban az időben. Kérdés, hogy Lonerbox rágalmazza-e Laurent, vagy Dan hazudik-e?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások személyes vélemények és vádak, amelyek nem bizonyítottak, így további ellenőrzést igényelnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T08:44:33.605470+00:00"
     }
   },
   "legacy_reviews": {}
