@@ -375,6 +375,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T17:47:28.438079+00:00"
+    },
+    "record:2118389718001807634": {
+      "hu_text": "🚨 Több mint 300 000 migráns gyermek. Milliárdok az adófizetők pénzéből. Hová ment el a pénz?\n\nEgy szövetségi támogatásban részesülő civil szervezet elképesztő, 895 millió dollárt kapott a migráns gyermekek szállítására és ellátására, míg mások további több száz milliót gyűjtöttek. Követtem a pénz útját, és szembesítettem a https://t.co/kNWRojjVoa",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás nagy összegeket és szervezeteket említ, de nincs megerősített bizonyíték vagy forrás a pénz pontos felhasználásáról. Fontos téma a migráns gyermekek ellátása és a finanszírozás, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:45.519890+00:00"
+    },
+    "record:2118391744060682429": {
+      "hu_text": "@laura_tieffel1 @MAGAVoice Ez egy lustán megfogalmazott, hamis narratíva. Kutatások szerint a Kaliforniából Texasba vándorlók politikai összetétele nem erősen demokrata (37% republikánus, 36% demokrata, 27% pártonkívüli), és számuk túl kicsi ahhoz, hogy Texas legutóbbi kék fordulatait elsődlegesen befolyásolja. Az Austin metróterületen (a legnagyobb arány) 44% republikánus, 29% demokrata.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és statisztikai adatokat tartalmazó állítás, amely nem tartalmaz konkrét bizonyítékot, de releváns a migrációval kapcsolatos társadalmi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:45.519908+00:00"
+    },
+    "record:2118395478211510409": {
+      "hu_text": "Tíz évvel ezelőtt több mint egymillió menekült és más migráns érkezett figyelmeztetés nélkül Európába.\n\nEz az esemény átalakította az EU-t.\n\nCamille Le Coz, Natalia Banulescu-Bogdan, @meghan_benton és @ekztarf elmagyarázzák, hogyan történt ez ➡️ https://t.co/bA7QAQnrot https://t.co/psERYUjt6Q",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi tény, amely jól dokumentált és elfogadott a migrációs események kapcsán az EU-ban. Megbízható forrásokra hivatkozik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:45.519913+00:00"
+    },
+    "record:reddit_1xookcp": {
+      "hu_text": "Az oroszországi vállalkozások figyelmeztettek, hogy a kézbesítési költségek emelkedhetnek, mert a futároknak vezetői engedélyt kell szerezniük, és tilos lesz járdán közlekedniük. A szállítási költségek Oroszországban nőhetnek az új szabályozások miatt, amelyek szerint az elektromos kerékpáros és rolleres futároknak M kategóriás vezetői engedélyt kell szerezniük, amit a legtöbben, főként migránsok, nem tudnak megszerezni. Ez a futárok piacról való távozásához, magasabb árakhoz és hosszabb szállítási időkhöz vezethet. Emellett a 35 kg-nál nehezebb személyes mobil eszközök használata a járdán tilos lesz, ami további kockázatokat jelenthet a futároknak és a közlekedőknek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy új oroszországi szabályozási javaslatról szól, amely migráns futárokat érinthet, de nincs hivatalos megerősítés vagy részletes forrás. Fontos a migránsok munkahelyi helyzete miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:45.519917+00:00"
+    },
+    "telegram:1261826972:54285": {
+      "hu_text": "🚩 Videókat is tartalmaz ▶ A rendőrség felszámolt egy illegális lakóhelyet a Príncipe negyedben, ahol egy migráns nőt kémiai eszméletvesztítéssel szexuálisan bántalmaztak.\n\n➡️ A művelet során 3 embert őrizetbe vettek és tíz migránst találtak, köztük kiskorúakat is.\n\n➡️ Rendkívül rossz körülmények között éltek.\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/policia-desmantela-casa-patera-principe-agredieron-sexualmente-inmigrante-sumision-quimica/",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos bűncselekményről és emberi jogi visszaélésről szóló jelentés, amely fontos a migránsok védelme szempontjából. Bár nincs hivatalos megerősítés, a forrás hitelesnek tűnik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:45.519921+00:00"
+    },
+    "telegram:1261826972:54287": {
+      "hu_text": "◼️ A Guardia Civil közölte a Jucillal, hogy decemberben kifizetik az invázió során végzett szolgálatokért járó jutalmakat.\n\n➡️ Azok a rendőrök, akik ezeken a szolgálatokon dolgoztak, egyszeri bérként kapják meg a pénzt, miután megkapják a személyzeti listát.\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/guardia-civil-traslada-jucil-pagara-diciembre-gratificaciones-servicios-invasion/",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Adminisztratív jellegű információ a rendőri jutalmak kifizetéséről, amely nem közvetlenül migrációs esemény, de kapcsolódik a határvédelemhez. Nincs további bizonyíték a pontos végrehajtásról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T17:47:45.519925+00:00"
     }
   },
   "legacy_reviews": {}
