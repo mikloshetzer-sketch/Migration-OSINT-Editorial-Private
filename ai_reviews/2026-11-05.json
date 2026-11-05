@@ -474,6 +474,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T17:47:53.103936+00:00"
+    },
+    "telegram:1261826972:54304": {
+      "hu_text": "Öt civil szervezet a gyermekek elhanyagolása miatt feljelentést tett a Ceutában élő bevándorló gyerekek ügyében, mivel több mint 400 kiskorú továbbra is elhagyatott állapotban van több mint 100 nap elteltével.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy civil szervezet által tett feljelentésről szól, amely fontos humanitárius kérdést érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:45.807789+00:00"
+    },
+    "information:24840": {
+      "hu_text": "Törés: Trumpot azzal vádolják, hogy megpróbál egy újabb választást ellopni, miközben a demokraták nagy vizsgálatokat készítenek elő. A bejegyzés részletezi az eseményeket és politikai fejleményeket az Egyesült Államokban.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai állításokat tartalmaz, amelyek nem migrációs eseményekhez kapcsolódnak, és nincs független bizonyíték a választási csalásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:45.807805+00:00"
+    },
+    "information:24850": {
+      "hu_text": "Egy vélemény szerint a menekülteknek, akik átlépik a határainkat, formális háttérellenőrzéseken kellene átesniük az eredeti országukból és minden olyan országból, ahol éltek vagy jártak, mert egy egyszerű FBI háttérellenőrzés nem elegendő.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a migrációs háttérellenőrzésekről, nem tényállítás vagy esemény, így nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:45.807810+00:00"
+    },
+    "information:24851": {
+      "hu_text": "Egy állítás szerint ha Trump elmozdítását a határ lezárása és illegális bevándorlók kitoloncolása miatt vizsgálják, akkor Kamala Harris miért nem vonható felelősségre 13 millió illegális migráns beengedése miatt az USA-ba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és állítás, amely nem migrációs esemény vagy jogi tény, nincs bizonyíték a felelősségre vonásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:45.807813+00:00"
+    },
+    "information:24854": {
+      "hu_text": "Figyelmeztetés: AMBER szintű riasztás illegális migráns hajók várható átkelése miatt a következő napokban. Több francia hajó is járőröz a kis hajók átkeléseinek megfigyelésére a francia partoknál.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági információ, de nincs független megerősítés a hajók mozgásáról vagy az átkelések számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:45.807816+00:00"
+    },
+    "information:24855": {
+      "hu_text": "Egy vélemény szerint egy igazi konzervatív, aki Trump politikáját támogatta, nem szavazna demokrata jelöltre, különösen a migrációs és határbiztonsági intézkedések miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, nem tényállítás vagy migrációs esemény, így nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:11:45.807819+00:00"
     }
   },
   "legacy_reviews": {}
