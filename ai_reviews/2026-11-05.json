@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-05",
+  "reviews": {
+    "information:24640": {
+      "hu_text": "JB Pritzker illinois-i kormányzó személyes ügyként élte meg Greg Abbott texasi kormányzó legyőzését. A konfliktus 2021-ben kezdődött, amikor Abbott hathetes terhességi abortusztilalmat írt alá. Pritzker ezt követően leveleket küldött texasi üzleti vezetőknek, hogy fontolják meg üzleti tevékenységüket egy olyan államban, amely megfosztja lakóit méltóságuktól. Abbott 2022-ben több ezer migránst küldött Chicagóba, és ezt folytatni akarta, amíg Biden elnök nem biztosítja a határvédelmet. 2024 januárjában Pritzker könyörgött Abbottnak, hogy télen állítsa le a migránsok szállítását. 2025-ben Pritzker 40 texasi demokrata képviselőt fogadott be, hogy megakadályozza a republikánusok kongresszusi többségének bővítését. Abbott nemzeti gárdistákat küldött Illinoisba, de azok nem kerültek bevetésre. Ez a történet politikai és migrációs eseményeket is érint.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg politikai és migrációs eseményeket ír le, de nem tartalmaz konkrét, ellenőrzött bizonyítékokat, ezért csak részben ellenőrzöttnek tekinthető. Fontos a politikai és migrációs kontextus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:33.039806+00:00"
+    },
+    "information:24659": {
+      "hu_text": "@PolitlcsUK Burnham hazug és bolond, nem fog fúrni az Északi-tengeren, nem fogadja el, hogy több mint 17 millió ember a brexitre szavazott, mert szuverenitást akartunk és határaink lezárását az illegális migránsok megállítására. Figyelmen kívül hagyja a demokratikus szavazásunkat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és állítás, amely nem tartalmaz konkrét bizonyítékokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:33.039827+00:00"
+    },
+    "information:24660": {
+      "hu_text": "@LarsAnders1620 @BasilTheGreat Részben pontos, de összekeverve. 2026. szeptember 25-én előzetes letartóztatásba helyezték, miután nemleges bűnösséget vallott egy bűncselekmény miatt, amely szerint késsel megsértett egy gumicsónakot (a migránsok már leszálltak, de egy francia mentő dolgozó még a fedélzeten volt), valamint egy telefon PIN-kód ügy miatt. Óvadékot nem engedélyeztek; az előzetes tárgyalás 2027. március 1-jén lesz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy részleges információ, amely jogi eseményekről szól, de nem tartalmaz megerősített forrásokat, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:33.039832+00:00"
+    },
+    "information:24670": {
+      "hu_text": "@drytittymilk @r1speedracer05 @yessi_m777 @SenCynLummisRV @StephenMilerRV @FBIDirectorKash @DHSgov @ICEgov @realDonaldTrump Trump (aktuális ciklus). Hivatalos jelentések szerint több mint 163 000 kísérő nélküli migráns gyermeket azonosítottak, akik Biden alatt léptek be, közülük néhányan szexuális kizsákmányolás, kényszermunka vagy bántalmazás áldozatai lettek. Az FBI/HSI hagyományos mentései a kiskorúak szexuális kizsákmányolásától általában néhány tucatot tesznek ki.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg fontos humanitárius témát érint, de nem tartalmaz konkrét, ellenőrzött adatokat, ezért ellenőrizetlennek minősül. Fontos a migrációs kontextus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:33.039835+00:00"
+    },
+    "information:24677": {
+      "hu_text": "Boszniai rendőrség 28 illegális migránst, köztük kiskorúakat fogott el, 2 személyt embercsempészet miatt őrizetbe vettek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A rövid hír migrációs és határbiztonsági eseményt ír le, de nem tartalmaz megerősített forrásokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:33.039838+00:00"
+    },
+    "information:24683": {
+      "hu_text": "@Slicinhammer @eigenrobot Ez sajnos téves. Bár a déli határ katasztrofális volt, az illegális bevándorlók közel fele vízum túllépés miatt érkezett, nem beszélve arról, hogy az északi határ is problémává kezd válni. Belső végrehajtás nélkül nincs valódi megoldás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és elemzés a migrációs helyzetről, nem tartalmaz konkrét bizonyítékokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:33.039840+00:00"
+    }
+  }
+}
