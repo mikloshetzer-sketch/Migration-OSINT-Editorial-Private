@@ -1496,9 +1496,46 @@
       "first_collected_at": "2026-11-04T03:39:30Z",
       "last_collected_at": "2026-11-04T03:39:30Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24887",
+      "timestamp": "2026-11-03T07:04:22Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xmm8pb",
+      "author": "aviii_shekk",
+      "url": "https://www.reddit.com/r/u_aviii_shekk/comments/1xmm8pb/career_transition_from_media_operations_creative/",
+      "source_url": "https://www.reddit.com/r/u_aviii_shekk/comments/1xmm8pb/career_transition_from_media_operations_creative/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "trafficking",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Career transition from Media Operations / Creative QA to CM360 Ad Operations or Programmatic – Need advice\nHi everyone, I’m looking for some honest advice on transitioning my career into Ad Operations or Programmatic. I have around 3.5 years of experience across digital marketing, performance marketing and media operations. My experience: Started with performance marketing, managing Google and Meta campaigns focused on app acquisition, CPI, conversions and optimization. Worked in international campaign operations, supporting Google and LinkedIn campaign setup, launches, migrations and reporting. Currently working in media operations, primarily handling creative QA for HTML5, GIF, static and video creatives. My responsibilities include checking creative specifications, landing page URLs, click functionality and rendering. I have view-only access to CM360 to review campaign and placement details, but I don’t have hands-on experience with end-to-end trafficking or tag generation. I haven’t worked on DV360 yet. My current CTC is ₹7 LPA, and I’m targeting a job switch within the next 3 months, with an expectation of ₹10–12 LPA. I’m planning to learn CM360 practically first, followed by DV360 and programmatic operations. I’d appreciate advice on: Is this transition realistic with my current experience? Should I target CM360 Ad Operations roles first or directly aim for DV360 / Programmatic Operations? How important is hands-on platform experience compared with certifications and training? Which skills should I prioritise to become job-ready within 3 months? What job titles should I search for, and is my salary expectation realistic? I’d particularly appreciate advice from people working in Ad Operations, CM360, DV360 or Programmatic. Thanks! submitted by /u/aviii_shekk to u/aviii_shekk",
+      "text_excerpt": "Career transition from Media Operations / Creative QA to CM360 Ad Operations or Programmatic – Need advice\nHi everyone, I’m looking for some honest advice on transitioning my career into Ad Operations or Programmatic. I have around 3.5 years of experience across digital marketing, performance marketing and media operations. My experience: Started with performance marketing, managing Google and Meta campaigns focused…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-05T23:07:15Z",
+      "last_collected_at": "2026-11-05T23:07:15Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-04T03:40:39.850540+00:00",
+  "last_archived_at": "2026-11-05T23:11:06.925694+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
