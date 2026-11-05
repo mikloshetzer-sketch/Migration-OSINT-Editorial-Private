@@ -1,0 +1,61 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-06",
+  "reviews": {
+    "group:668": {
+      "hu_text": "Az amerikai burgonyavész idején és az amerikai polgárháború alatt tömegesen érkező ír férfiakat azonnal besorozták, amint partra léptek, és arra kérték őket, hogy harcoljanak hazájukért. A harcképes korú migráns férfiak tömeges érkezése precedenst jelenthet ennek fenntartására.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás történelmi eseményekre hivatkozik, de nincs megadva forrás vagy bizonyíték a pontos tényállás igazolására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:12:02.593633+00:00"
+    },
+    "record:2118469112682942602": {
+      "hu_text": "Az amerikai burgonyavész idején és az amerikai polgárháború alatt tömegesen érkező ír férfiakat azonnal besorozták, amint partra léptek, és arra kérték őket, hogy harcoljanak hazájukért. A harcképes korú migráns férfiak tömeges érkezése precedenst jelenthet ennek fenntartására.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás történelmi eseményekre hivatkozik, de nincs megadva forrás vagy bizonyíték a pontos tényállás igazolására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:12:02.593648+00:00"
+    },
+    "record:reddit_1xohg43": {
+      "hu_text": "Az ENSZ által 2026-ban kiadott pápai körlevél az emberi méltóságot, a munka tiszteletét és a társadalmi együttműködés fontosságát hangsúlyozza, valamint a világ és az egyház párbeszédét az emberiség jobbá tétele érdekében. A dokumentum a munkavállalók jogait és a társadalmi igazságosságot helyezi előtérbe, és a keresztény megújulás eszméjét támogatja.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy hivatalos pápai körlevél részleteit tartalmazza, amely elérhető a Vatikán honlapján, így hiteles forrásból származik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:12:02.593652+00:00"
+    },
+    "record:reddit_1xonlon": {
+      "hu_text": "Az Egyesült Királyságban az elmúlt években számos tüntetés és zavargás zajlott, amelyek között szerepeltek menekültek elleni tiltakozások, rasszista megmozdulások és rendőri intézkedések. Ezek az események több városban is jelentős társadalmi feszültségeket okoztak, és több letartóztatás is történt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés részletesen ismerteti a tüntetések eseményeit, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:12:02.593656+00:00"
+    },
+    "record:reddit_1xop5o8": {
+      "hu_text": "Donald Trump kormányzata titkos tárgyalásokat folytatott Iránnal iráni állampolgárok kitoloncolásáról a háború ellenére is. A bírósági dokumentumok szerint a kormány terveket készített az irániak harmadik országon keresztüli kitoloncolására, és kapcsolatban állt iráni tisztviselőkkel az ügyben. A bíróság előírta, hogy a kormány előzetesen értesítse a bíróságot a kitoloncolási tervekről.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés bírósági dokumentumokra hivatkozik, amelyek részben megerősítik az állítást, de a teljes körű bizonyítékok hiányoznak, ezért részben ellenőrzöttnek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T23:12:02.593659+00:00"
+    }
+  }
+}
