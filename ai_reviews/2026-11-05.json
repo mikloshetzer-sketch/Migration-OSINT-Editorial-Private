@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T00:38:33.039840+00:00"
+    },
+    "record:2118137985564565888": {
+      "hu_text": "A videó Honduras, San Pedro Sula közelében készült. Több tucat migránst mutat (férfiakat, nőket, gyerekeket hátizsákokkal és táskákkal), akik egy helyi felüljáró alatt gyalogolnak, résztvevői egy karavánnak, amely 2026. november 3-án indult el a városból észak felé, Guatemala és az USA határa felé. A résztvevők megnevezése hiányzik.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A videó helyszíne és a karaván léte nem ellenőrzött, de a migrációs mozgás szándékára utal, ezért fontos információ lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:43.658455+00:00"
+    },
+    "record:reddit_1xo3zyk": {
+      "hu_text": "2026. április 11-én Trump megerősítette, hogy nem állítják le az ICE razziákat vagy a tömeges legalizációt. New Jersey-ben, Union City-ben az ügynökök egy migránst elhurcoltak, miután az enyhe ellenállást tanúsított. Az előző napi „kék hullám” nem elég a folyamatok megállításához. Ne legyünk elégedettek, maradjunk éberek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és beszélgetés, amely nem tartalmaz konkrét bizonyított tényeket, de releváns a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:43.658473+00:00"
+    },
+    "record:reddit_1xo4mss": {
+      "hu_text": "2026. április 11-én Trump megerősítette, hogy nem állítják le az ICE razziákat vagy a tömeges legalizációt. New Jersey-ben, Union City-ben az ügynökök egy migránst elhurcoltak, miután az enyhe ellenállást tanúsított. Az előző napi „kék hullám” nem elég a folyamatok megállításához. Ne legyünk elégedettek, maradjunk éberek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő politikai vélemény és társadalmi diskurzus, nem bizonyított tényekkel.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:43.658477+00:00"
+    },
+    "record:reddit_1xo4mzs": {
+      "hu_text": "2026. április 11-én Trump megerősítette, hogy nem állítják le az ICE razziákat vagy a tömeges legalizációt. New Jersey-ben, Union City-ben az ügynökök egy migránst elhurcoltak, miután az enyhe ellenállást tanúsított. Az előző napi „kék hullám” nem elég a folyamatok megállításához. Ne legyünk elégedettek, maradjunk éberek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő politikai vélemény és társadalmi diskurzus, nem bizonyított tényekkel.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:43.658480+00:00"
+    },
+    "telegram:1261826972:54268": {
+      "hu_text": "Az Európai Bizottság elutasítja, hogy felfüggessze a Marokkónak nyújtott támogatásokat a ceutai válság ellenére. A Vox Europa sajnálja, hogy Brüsszel az anyagi segítséget a határforgalom 2025-ös és 2026-os csökkenésére alapozza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos politikai álláspontot közöl, de a jövőbeli eseményekre vonatkozó előrejelzés nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:43.658482+00:00"
+    },
+    "telegram:1261826972:54274": {
+      "hu_text": "35 marokkói migránst küldtek vissza a határon, akik Cádizba érkeztek egy hajón. A Nemzeti Rendőrség egy busza, amelyet három rendőrségi furgon kísért, szállította őket Algecirasból a Tarajal határhoz, az augusztus óta alkalmazott eljárás szerint.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét határbiztonsági intézkedést ír le, amely fontos a migrációs helyzet megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-05T00:38:43.658485+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
