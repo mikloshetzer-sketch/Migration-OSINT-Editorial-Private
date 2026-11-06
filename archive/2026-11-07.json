@@ -1,0 +1,1163 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-07",
+  "live_events": [
+    {
+      "id": 839,
+      "event_id": 839,
+      "source": "X",
+      "source_post_id": "2118853694754083090",
+      "author": "grok",
+      "published_at": "2026-11-06T23:51:01Z",
+      "collected_at": "2026-11-06T23:52:05Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@Bobzembh @kykhan5 @factpostnews Critics further cite his push in the second term for daily arrest quotas exceeding 3,000 that included noncriminals and day laborers, estimates of over 145,000 U.S. citizen children with a detained parent, and accelerated removal orders for nearly 200,000 migrant children. They",
+      "url": "https://x.com/grok/status/2118853694754083090",
+      "source_url": "https://x.com/grok/status/2118853694754083090"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 672,
+      "group_id": 672,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "@Bobzembh @kykhan5 @factpostnews Critics further cite his push in the second term for daily arrest quotas exceeding 3,000 that included noncriminals and day laborers, estimates of over 145,000 U.S. citizen children with a detained parent, and accelerated removal orders for nearly 200,000 migrant children. They",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-06T23:51:01Z",
+      "last_seen": "2026-11-06T23:51:01Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-06T23:52:05Z",
+      "updated_at": "2026-11-06T23:52:06Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1354,
+      "source": "X",
+      "source_post_id": "2118848120356278317",
+      "author": "Dreamrideguard",
+      "language": "en",
+      "published_at": "2026-11-06T23:28:52Z",
+      "first_detected_at": "2026-11-06T23:52:32Z",
+      "last_detected_at": "2026-11-06T23:52:32Z",
+      "detection_count": 1,
+      "text": "🚨🇺🇸 HOW F*CKING STUPID ARE MIGRANT GANGS?! ARMED VENEZUELAN ARRESTED NEAR WHITE HOUSE AFTER ALLEGEDLY THREATENING TO KILL TRUMP!\n\nWASHINGTON, D.C. | NOVEMBER 5, 2026\n\nWTF IS WRONG WITH THESE PEOPLE?!\n\nA Venezuelan illegal immigrant was arrested near the White House after https://t.co/QVFvdIIhP9",
+      "text_excerpt": "🚨🇺🇸 HOW F*CKING STUPID ARE MIGRANT GANGS?! ARMED VENEZUELAN ARRESTED NEAR WHITE HOUSE AFTER ALLEGEDLY THREATENING TO KILL TRUMP!\n\nWASHINGTON, D.C. | NOVEMBER 5, 2026\n\nWTF IS WRONG WITH THESE PEOPLE?!\n\nA Venezuelan illegal immigrant was arrested near the White House after https://t.co/QVFvdIIhP9",
+      "url": "https://x.com/Dreamrideguard/status/2118848120356278317",
+      "source_url": "https://x.com/Dreamrideguard/status/2118848120356278317",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "immigrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1357,
+      "source": "X",
+      "source_post_id": "2118852122930540730",
+      "author": "ChrisS450429846",
+      "language": "en",
+      "published_at": "2026-11-06T23:44:47Z",
+      "first_detected_at": "2026-11-06T23:53:18Z",
+      "last_detected_at": "2026-11-06T23:53:18Z",
+      "detection_count": 1,
+      "text": "@RepRaskin https://t.co/ZreWghiS26\nBring us back from the brink of Democrat sex trafficking of migrant children—-400,000 under Biden rule.",
+      "text_excerpt": "@RepRaskin https://t.co/ZreWghiS26\nBring us back from the brink of Democrat sex trafficking of migrant children—-400,000 under Biden rule.",
+      "url": "https://x.com/ChrisS450429846/status/2118852122930540730",
+      "source_url": "https://x.com/ChrisS450429846/status/2118852122930540730",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of migrant"
+        ],
+        [
+          "facilitation",
+          "trafficking of migrant children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking of migrant",
+        "trafficking of migrant children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1353,
+      "source": "X",
+      "source_post_id": "2118851158454259884",
+      "author": "NicoleMend60801",
+      "language": "en",
+      "published_at": "2026-11-06T23:40:57Z",
+      "first_detected_at": "2026-11-06T23:52:31Z",
+      "last_detected_at": "2026-11-06T23:52:31Z",
+      "detection_count": 1,
+      "text": "Democrats scream that ICE is splitting families. Where was that outrage when Biden's open border left nearly three hundred thousand unaccompanied migrant children unaccounted for? The DHS Inspector General found over four hundred forty eight thousand kids were transferred to HHS,",
+      "text_excerpt": "Democrats scream that ICE is splitting families. Where was that outrage when Biden's open border left nearly three hundred thousand unaccompanied migrant children unaccounted for? The DHS Inspector General found over four hundred forty eight thousand kids were transferred to HHS,",
+      "url": "https://x.com/NicoleMend60801/status/2118851158454259884",
+      "source_url": "https://x.com/NicoleMend60801/status/2118851158454259884",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1358,
+      "source": "X",
+      "source_post_id": "2118850573919514877",
+      "author": "ChrisS450429846",
+      "language": "en",
+      "published_at": "2026-11-06T23:38:37Z",
+      "first_detected_at": "2026-11-06T23:53:18Z",
+      "last_detected_at": "2026-11-06T23:53:18Z",
+      "detection_count": 1,
+      "text": "@GovKathyHochul You fight for criminal illegals yet turn a blind eye to the trafficking of 400,000 migrant children-some that were found were raped over 600 xs.  Thank u @ICEgov \n\nhttps://t.co/ZreWghiS26",
+      "text_excerpt": "@GovKathyHochul You fight for criminal illegals yet turn a blind eye to the trafficking of 400,000 migrant children-some that were found were raped over 600 xs.  Thank u @ICEgov \n\nhttps://t.co/ZreWghiS26",
+      "url": "https://x.com/ChrisS450429846/status/2118850573919514877",
+      "source_url": "https://x.com/ChrisS450429846/status/2118850573919514877",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of 400,000 migrant children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking of 400,000 migrant children"
+      ],
+      "signal_context_rejections": [
+        "fight"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1356,
+      "source": "X",
+      "source_post_id": "2118845913246441599",
+      "author": "KFOX14",
+      "language": "en",
+      "published_at": "2026-11-06T23:20:06Z",
+      "first_detected_at": "2026-11-06T23:52:56Z",
+      "last_detected_at": "2026-11-06T23:52:56Z",
+      "detection_count": 1,
+      "text": "Federal authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three men — two Americans and one Mexican national. https://t.co/e5XP2uWtUA https://t.co/u06DhcPx5z",
+      "text_excerpt": "Federal authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three men — two Americans and one Mexican national. https://t.co/e5XP2uWtUA https://t.co/u06DhcPx5z",
+      "url": "https://x.com/KFOX14/status/2118845913246441599",
+      "source_url": "https://x.com/KFOX14/status/2118845913246441599",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.25,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Federal authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three men — two Americans and one Mexican national. https://t.co/e5XP2uWtUA https://t.co/u06DhcPx5z"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1359,
+      "source": "X",
+      "source_post_id": "2118840005246484587",
+      "author": "that1Bigemini",
+      "language": "en",
+      "published_at": "2026-11-06T22:56:38Z",
+      "first_detected_at": "2026-11-06T23:53:19Z",
+      "last_detected_at": "2026-11-06T23:53:19Z",
+      "detection_count": 1,
+      "text": "In 2026 formal slave trading is illegal, but modern slavery and migrant trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants), and Gulf states under kafala systems. Conflict zones such as Sudan and Yemen also report trafficking. https://t.co/3EQc1SH8AU",
+      "text_excerpt": "In 2026 formal slave trading is illegal, but modern slavery and migrant trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants), and Gulf states under kafala systems. Conflict zones such as Sudan and Yemen also report trafficking. https://t.co/3EQc1SH8AU",
+      "url": "https://x.com/that1Bigemini/status/2118840005246484587",
+      "source_url": "https://x.com/that1Bigemini/status/2118840005246484587",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrant trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrant trafficking",
+        "trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1355,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xpkvdg",
+      "author": "XGramatik",
+      "language": null,
+      "published_at": "2026-11-06T18:52:22Z",
+      "first_detected_at": "2026-11-06T23:52:32Z",
+      "last_detected_at": "2026-11-06T23:52:32Z",
+      "detection_count": 1,
+      "text": "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm\nMore than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. According to media reports, one person died during one of the latest rescue operations.",
+      "text_excerpt": "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm\nMore than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. Acc",
+      "url": "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/",
+      "source_url": "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.25,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm More than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. According to media reports, one person died during one of the latest rescue operations."
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "authorities sound the alarm More than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1354,
+      "source": "X",
+      "source_post_id": "2118848120356278317",
+      "author": "Dreamrideguard",
+      "language": "en",
+      "published_at": "2026-11-06T23:28:52Z",
+      "first_detected_at": "2026-11-06T23:52:32Z",
+      "last_detected_at": "2026-11-06T23:52:32Z",
+      "detection_count": 1,
+      "text": "🚨🇺🇸 HOW F*CKING STUPID ARE MIGRANT GANGS?! ARMED VENEZUELAN ARRESTED NEAR WHITE HOUSE AFTER ALLEGEDLY THREATENING TO KILL TRUMP!\n\nWASHINGTON, D.C. | NOVEMBER 5, 2026\n\nWTF IS WRONG WITH THESE PEOPLE?!\n\nA Venezuelan illegal immigrant was arrested near the White House after https://t.co/QVFvdIIhP9",
+      "text_excerpt": "🚨🇺🇸 HOW F*CKING STUPID ARE MIGRANT GANGS?! ARMED VENEZUELAN ARRESTED NEAR WHITE HOUSE AFTER ALLEGEDLY THREATENING TO KILL TRUMP!\n\nWASHINGTON, D.C. | NOVEMBER 5, 2026\n\nWTF IS WRONG WITH THESE PEOPLE?!\n\nA Venezuelan illegal immigrant was arrested near the White House after https://t.co/QVFvdIIhP9",
+      "url": "https://x.com/Dreamrideguard/status/2118848120356278317",
+      "source_url": "https://x.com/Dreamrideguard/status/2118848120356278317",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.75,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "immigrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1357,
+      "source": "X",
+      "source_post_id": "2118852122930540730",
+      "author": "ChrisS450429846",
+      "language": "en",
+      "published_at": "2026-11-06T23:44:47Z",
+      "first_detected_at": "2026-11-06T23:53:18Z",
+      "last_detected_at": "2026-11-06T23:53:18Z",
+      "detection_count": 1,
+      "text": "@RepRaskin https://t.co/ZreWghiS26\nBring us back from the brink of Democrat sex trafficking of migrant children—-400,000 under Biden rule.",
+      "text_excerpt": "@RepRaskin https://t.co/ZreWghiS26\nBring us back from the brink of Democrat sex trafficking of migrant children—-400,000 under Biden rule.",
+      "url": "https://x.com/ChrisS450429846/status/2118852122930540730",
+      "source_url": "https://x.com/ChrisS450429846/status/2118852122930540730",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of migrant"
+        ],
+        [
+          "facilitation",
+          "trafficking of migrant children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking of migrant",
+        "trafficking of migrant children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1353,
+      "source": "X",
+      "source_post_id": "2118851158454259884",
+      "author": "NicoleMend60801",
+      "language": "en",
+      "published_at": "2026-11-06T23:40:57Z",
+      "first_detected_at": "2026-11-06T23:52:31Z",
+      "last_detected_at": "2026-11-06T23:52:31Z",
+      "detection_count": 1,
+      "text": "Democrats scream that ICE is splitting families. Where was that outrage when Biden's open border left nearly three hundred thousand unaccompanied migrant children unaccounted for? The DHS Inspector General found over four hundred forty eight thousand kids were transferred to HHS,",
+      "text_excerpt": "Democrats scream that ICE is splitting families. Where was that outrage when Biden's open border left nearly three hundred thousand unaccompanied migrant children unaccounted for? The DHS Inspector General found over four hundred forty eight thousand kids were transferred to HHS,",
+      "url": "https://x.com/NicoleMend60801/status/2118851158454259884",
+      "source_url": "https://x.com/NicoleMend60801/status/2118851158454259884",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1358,
+      "source": "X",
+      "source_post_id": "2118850573919514877",
+      "author": "ChrisS450429846",
+      "language": "en",
+      "published_at": "2026-11-06T23:38:37Z",
+      "first_detected_at": "2026-11-06T23:53:18Z",
+      "last_detected_at": "2026-11-06T23:53:18Z",
+      "detection_count": 1,
+      "text": "@GovKathyHochul You fight for criminal illegals yet turn a blind eye to the trafficking of 400,000 migrant children-some that were found were raped over 600 xs.  Thank u @ICEgov \n\nhttps://t.co/ZreWghiS26",
+      "text_excerpt": "@GovKathyHochul You fight for criminal illegals yet turn a blind eye to the trafficking of 400,000 migrant children-some that were found were raped over 600 xs.  Thank u @ICEgov \n\nhttps://t.co/ZreWghiS26",
+      "url": "https://x.com/ChrisS450429846/status/2118850573919514877",
+      "source_url": "https://x.com/ChrisS450429846/status/2118850573919514877",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of 400,000 migrant children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "trafficking of 400,000 migrant children"
+      ],
+      "signal_context_rejections": [
+        "fight"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1356,
+      "source": "X",
+      "source_post_id": "2118845913246441599",
+      "author": "KFOX14",
+      "language": "en",
+      "published_at": "2026-11-06T23:20:06Z",
+      "first_detected_at": "2026-11-06T23:52:56Z",
+      "last_detected_at": "2026-11-06T23:52:56Z",
+      "detection_count": 1,
+      "text": "Federal authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three men — two Americans and one Mexican national. https://t.co/e5XP2uWtUA https://t.co/u06DhcPx5z",
+      "text_excerpt": "Federal authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three men — two Americans and one Mexican national. https://t.co/e5XP2uWtUA https://t.co/u06DhcPx5z",
+      "url": "https://x.com/KFOX14/status/2118845913246441599",
+      "source_url": "https://x.com/KFOX14/status/2118845913246441599",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.25,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Federal authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three men — two Americans and one Mexican national. https://t.co/e5XP2uWtUA https://t.co/u06DhcPx5z"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "authorities say an operation in the El Paso area led to the rescue of 53 migrants who were being smuggled inside a tractor-trailer and the arrests of three"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1359,
+      "source": "X",
+      "source_post_id": "2118840005246484587",
+      "author": "that1Bigemini",
+      "language": "en",
+      "published_at": "2026-11-06T22:56:38Z",
+      "first_detected_at": "2026-11-06T23:53:19Z",
+      "last_detected_at": "2026-11-06T23:53:19Z",
+      "detection_count": 1,
+      "text": "In 2026 formal slave trading is illegal, but modern slavery and migrant trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants), and Gulf states under kafala systems. Conflict zones such as Sudan and Yemen also report trafficking. https://t.co/3EQc1SH8AU",
+      "text_excerpt": "In 2026 formal slave trading is illegal, but modern slavery and migrant trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants), and Gulf states under kafala systems. Conflict zones such as Sudan and Yemen also report trafficking. https://t.co/3EQc1SH8AU",
+      "url": "https://x.com/that1Bigemini/status/2118840005246484587",
+      "source_url": "https://x.com/that1Bigemini/status/2118840005246484587",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrant trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrant trafficking",
+        "trafficking persist in Mauritania (hereditary remnants), Libya (forced labor and sales of migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1355,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xpkvdg",
+      "author": "XGramatik",
+      "language": null,
+      "published_at": "2026-11-06T18:52:22Z",
+      "first_detected_at": "2026-11-06T23:52:32Z",
+      "last_detected_at": "2026-11-06T23:52:32Z",
+      "detection_count": 1,
+      "text": "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm\nMore than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. According to media reports, one person died during one of the latest rescue operations.",
+      "text_excerpt": "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm\nMore than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. Acc",
+      "url": "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/",
+      "source_url": "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.25,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm More than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. According to media reports, one person died during one of the latest rescue operations."
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "authorities sound the alarm More than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1355,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xpkvdg",
+      "author": "XGramatik",
+      "language": null,
+      "published_at": "2026-11-06T18:52:22Z",
+      "first_detected_at": "2026-11-06T23:52:32Z",
+      "last_detected_at": "2026-11-06T23:52:32Z",
+      "detection_count": 1,
+      "text": "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm\nMore than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. According to media reports, one person died during one of the latest rescue operations.",
+      "text_excerpt": "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm\nMore than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. Acc",
+      "url": "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/",
+      "source_url": "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.25,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "Over 3,000 illegal migrants arrive in the Canary Islands in just a few days — local authorities sound the alarm More than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6. Most of the arrivals are migrants entering Spain irregularly from West African countries, crossing the Atlantic in overcrowded wooden boats. The situation is particularly difficult on the island of El Hierro. Local residents complain that hospitals, shelters, and infrastructure are overwhelmed. Canary Islands President Fernando Clavijo described the situation as “absolutely unsustainable.” Spanish rescue teams continue to locate boats at sea and bring migrants to ports. According to media reports, one person died during one of the latest rescue operations."
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "authorities sound the alarm More than 1,000 people were brought to the islands by Spanish rescue services overnight from November 5 to 6"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xpkvdg"
+      ],
+      "related_authors": [
+        "XGramatik"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/TheDailyChaos/comments/1xpkvdg/over_3000_illegal_migrants_arrive_in_the_canary/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:25117",
+      "timestamp": "2026-11-06T23:49:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118853301970063473",
+      "author": "PublicSquareX",
+      "url": "https://x.com/PublicSquareX/status/2118853301970063473",
+      "source_url": "https://x.com/PublicSquareX/status/2118853301970063473",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@rodzvianca It’s definitely the messaging. I mean even saying We support “MASS DEPORTATION”. Still contributes to that rhetoric that turns people off. Just say we support border security and deportation of criminal migrants. But we agree with most of what you stated.",
+      "text_excerpt": "@rodzvianca It’s definitely the messaging. I mean even saying We support “MASS DEPORTATION”. Still contributes to that rhetoric that turns people off. Just say we support border security and deportation of criminal migrants. But we agree with most of what you stated.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T23:52:31Z",
+      "last_collected_at": "2026-11-06T23:52:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25119",
+      "timestamp": "2026-11-06T23:47:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118852744039559590",
+      "author": "kywingnut",
+      "url": "https://x.com/kywingnut/status/2118852744039559590",
+      "source_url": "https://x.com/kywingnut/status/2118852744039559590",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@Liathetrader @TheLongInvest If she was president, the border would still be wide open with unvetted people flowing in. \nMost migrant children face serious danger on the way to the U.S. Families often borrow heavily to pay smugglers, and the debt can be used against the child.",
+      "text_excerpt": "@Liathetrader @TheLongInvest If she was president, the border would still be wide open with unvetted people flowing in. \nMost migrant children face serious danger on the way to the U.S. Families often borrow heavily to pay smugglers, and the debt can be used against the child.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T23:52:31Z",
+      "last_collected_at": "2026-11-06T23:52:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25150",
+      "timestamp": "2026-11-06T23:43:30Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118851801650696431",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2118851801650696431",
+      "source_url": "https://x.com/grok/status/2118851801650696431",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@mikele59 @JoeyMannarino No. They entered legally via Ellis Island under the open immigration rules of 1903-1906, became citizens, and built lives here. Deportation targets people without legal status or who violate the law. Their arrival predates the 1924 quotas and modern restrictions on chain",
+      "text_excerpt": "@mikele59 @JoeyMannarino No. They entered legally via Ellis Island under the open immigration rules of 1903-1906, became citizens, and built lives here. Deportation targets people without legal status or who violate the law. Their arrival predates the 1924 quotas and modern restrictions on chain",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T23:55:25Z",
+      "last_collected_at": "2026-11-06T23:55:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25125",
+      "timestamp": "2026-11-06T23:30:45Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118848592148378056",
+      "author": "simon4124",
+      "url": "https://x.com/simon4124/status/2118848592148378056",
+      "source_url": "https://x.com/simon4124/status/2118848592148378056",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "@MattCas04807118 What refugees is he talking about, because those crossing the channel are certainly not refugees the vast majority of them aren’t we all know that.",
+      "text_excerpt": "@MattCas04807118 What refugees is he talking about, because those crossing the channel are certainly not refugees the vast majority of them aren’t we all know that.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T23:52:32Z",
+      "last_collected_at": "2026-11-06T23:52:32Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25134",
+      "timestamp": "2026-11-06T23:15:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118844747251069151",
+      "author": "NzRasala",
+      "url": "https://x.com/NzRasala/status/2118844747251069151",
+      "source_url": "https://x.com/NzRasala/status/2118844747251069151",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "In a refugee camp far from the sea, Palestinian artist Alaa Albaba paints fish that dream of home. https://t.co/xw0B1iZj8V",
+      "text_excerpt": "In a refugee camp far from the sea, Palestinian artist Alaa Albaba paints fish that dream of home. https://t.co/xw0B1iZj8V",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T23:52:56Z",
+      "last_collected_at": "2026-11-06T23:52:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25157",
+      "timestamp": "2026-11-06T23:11:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118843856686870683",
+      "author": "HowardTonsall",
+      "url": "https://x.com/HowardTonsall/status/2118843856686870683",
+      "source_url": "https://x.com/HowardTonsall/status/2118843856686870683",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@CP24 We've got billions for fake \"refugees\" and foreign aid, but we'll leave one of our own to fend for herself.\n\nSuch awful country.\n\nHad she arrived here 2 weeks ago, even if she crossed into the country illegally, she'd get anything she needed.",
+      "text_excerpt": "@CP24 We've got billions for fake \"refugees\" and foreign aid, but we'll leave one of our own to fend for herself.\n\nSuch awful country.\n\nHad she arrived here 2 weeks ago, even if she crossed into the country illegally, she'd get anything she needed.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T23:55:26Z",
+      "last_collected_at": "2026-11-06T23:55:26Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-06T23:55:36.178054+00:00"
+}
