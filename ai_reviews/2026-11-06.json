@@ -287,6 +287,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T11:43:59.461645+00:00"
+    },
+    "group:669": {
+      "hu_text": "A „bigottság” kifejezést lazán használják, és átalakították arra, hogy bárkit, aki nem ért egyet vagy nem kedvel, azzal illetnek. A szerző nem állítja, hogy minden külföldi rossz, hanem a bigottság szót a szótári jelentése alapján értelmezi: makacs, ésszerűtlen és teljes intolerancia másokkal szemben. Példaként hozza, hogy az illegális bevándorlókkal szembeni aggodalmakat gyakran figyelmen kívül hagyják, és a liberálisok nem fogadják el az érveket, helyette elterelő taktikát alkalmaznak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg politikai véleményt és társadalmi vitát tartalmaz, de nem állít konkrét tényeket vagy eseményeket, így ellenőrizhetetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:39.814912+00:00"
+    },
+    "group:670": {
+      "hu_text": "Banglades biztonsági erői legalább 57 embert, köztük rohingya menekülteket mentettek ki egy fegyveres összecsapás során a Mianmar határánál, ahol embercsempészekkel kerültek szembe.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény humanitárius mentőakcióról szól, amely fontos migrációs kontextusban, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:39.814933+00:00"
+    },
+    "group:671": {
+      "hu_text": "Az olasz haditengerészet sok illegális bevándorlót elfogott, de nem szűrték őket megfelelően, mielőtt visszaküldték Líbiába, így nem különböztették meg az embercsempészeket az áldozatoktól.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás az olasz hatóságok eljárásáról, de nincs megerősített bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:39.814938+00:00"
+    },
+    "information:25056": {
+      "hu_text": "Friss hír: Egy illegális bevándorló újra belépett az Egyesült Államokba a kitoloncolása után. A DHS jelentése szerint Guillermo Carmona Lopez 2013-ban történt kitoloncolása után tért vissza. Határvédelmet sürgetnek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét személyes esetet említ, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:39.814941+00:00"
+    },
+    "information:25059": {
+      "hu_text": "Az állítás, hogy Líbia nem tett semmit az illegális bevándorlás ellen, hamis. Az illegális bevándorlók száma évente nőtt, és sokan Líbiát választották célországként, mivel az a legközelebb van Európához tengeri úton. Mind a líbiai, mind az olasz haditengerészet elfogott illegális bevándorlókat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a líbiai és olasz hatóságok tevékenységéről, de nincs független bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:39.814944+00:00"
+    },
+    "information:25062": {
+      "hu_text": "Migráns karaván tart az Egyesült Államok felé a demokraták győzelme után. Egy elemzés szerint Biden elnöksége alatt több illegális bevándorló lépte át a határt négy év alatt, mint amennyi 50 év alatt áthaladt Ellis Island-en.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állításokat és választási eredményekhez kötött migrációs adatokat tartalmaz, de nincs megerősített forrás vagy pontos statisztika, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:39.814947+00:00"
     }
   },
   "legacy_reviews": {}
