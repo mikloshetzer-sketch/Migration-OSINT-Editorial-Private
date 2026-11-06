@@ -189,6 +189,126 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1348,
+      "source": "X",
+      "source_post_id": "2118539884172365860",
+      "author": "MAGANation_47",
+      "language": "en",
+      "published_at": "2026-11-06T03:04:03Z",
+      "first_detected_at": "2026-11-06T03:58:00Z",
+      "last_detected_at": "2026-11-06T03:58:00Z",
+      "detection_count": 1,
+      "text": "Family of Rhiannon Whyte on the streets angry. A Sudanese illegal who broke into England just 11 weeks prior stabbed the migrant hotel worker 23 times with a screw driver after stalking her for hours. \n\nThe far left decided to tell the grieving family “refugees are welcome”. https://t.co/ppu3aq0I7G",
+      "text_excerpt": "Family of Rhiannon Whyte on the streets angry. A Sudanese illegal who broke into England just 11 weeks prior stabbed the migrant hotel worker 23 times with a screw driver after stalking her for hours. \n\nThe far left decided to tell the grieving family “refugees are welcome”. https://t.co/ppu3aq0I7G",
+      "url": "https://x.com/MAGANation_47/status/2118539884172365860",
+      "source_url": "https://x.com/MAGANation_47/status/2118539884172365860",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "driver after stalking her for hours. The far left decided to tell the grieving family “refugees"
+        ],
+        [
+          "facilitation",
+          "migrant hotel worker 23 times with a screw driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "driver after stalking her for hours. The far left decided to tell the grieving family “refugees",
+        "migrant hotel worker 23 times with a screw driver"
+      ],
+      "signal_context_rejections": [
+        "stabbed"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1347,
+      "source": "X",
+      "source_post_id": "2118545990160707641",
+      "author": "KumarBGowda7",
+      "language": "en",
+      "published_at": "2026-11-06T03:28:19Z",
+      "first_detected_at": "2026-11-06T03:57:59Z",
+      "last_detected_at": "2026-11-06T03:57:59Z",
+      "detection_count": 1,
+      "text": "Deepavali Without Going Home?\n\nKarnataka's bus fare hike is hitting migrant workers hard, with travel costs reportedly increasing household expenses by nearly 30%. For many low-income workers, returning home to celebrate Deepavali with their families is becoming unaffordable. https://t.co/SPJkxMLYGO",
+      "text_excerpt": "Deepavali Without Going Home?\n\nKarnataka's bus fare hike is hitting migrant workers hard, with travel costs reportedly increasing household expenses by nearly 30%. For many low-income workers, returning home to celebrate Deepavali with their families is becoming unaffordable. https://t.co/SPJkxMLYGO",
+      "url": "https://x.com/KumarBGowda7/status/2118545990160707641",
+      "source_url": "https://x.com/KumarBGowda7/status/2118545990160707641",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "migrant workers hard, with travel costs reportedly increasing"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant workers hard, with travel costs reportedly increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -285,6 +405,126 @@
       ],
       "high_value_matches": [
         "migrants, refugees and those forced to move"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1348,
+      "source": "X",
+      "source_post_id": "2118539884172365860",
+      "author": "MAGANation_47",
+      "language": "en",
+      "published_at": "2026-11-06T03:04:03Z",
+      "first_detected_at": "2026-11-06T03:58:00Z",
+      "last_detected_at": "2026-11-06T03:58:00Z",
+      "detection_count": 1,
+      "text": "Family of Rhiannon Whyte on the streets angry. A Sudanese illegal who broke into England just 11 weeks prior stabbed the migrant hotel worker 23 times with a screw driver after stalking her for hours. \n\nThe far left decided to tell the grieving family “refugees are welcome”. https://t.co/ppu3aq0I7G",
+      "text_excerpt": "Family of Rhiannon Whyte on the streets angry. A Sudanese illegal who broke into England just 11 weeks prior stabbed the migrant hotel worker 23 times with a screw driver after stalking her for hours. \n\nThe far left decided to tell the grieving family “refugees are welcome”. https://t.co/ppu3aq0I7G",
+      "url": "https://x.com/MAGANation_47/status/2118539884172365860",
+      "source_url": "https://x.com/MAGANation_47/status/2118539884172365860",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "driver after stalking her for hours. The far left decided to tell the grieving family “refugees"
+        ],
+        [
+          "facilitation",
+          "migrant hotel worker 23 times with a screw driver"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant",
+        "refugees"
+      ],
+      "high_value_matches": [
+        "driver after stalking her for hours. The far left decided to tell the grieving family “refugees",
+        "migrant hotel worker 23 times with a screw driver"
+      ],
+      "signal_context_rejections": [
+        "stabbed"
+      ],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1347,
+      "source": "X",
+      "source_post_id": "2118545990160707641",
+      "author": "KumarBGowda7",
+      "language": "en",
+      "published_at": "2026-11-06T03:28:19Z",
+      "first_detected_at": "2026-11-06T03:57:59Z",
+      "last_detected_at": "2026-11-06T03:57:59Z",
+      "detection_count": 1,
+      "text": "Deepavali Without Going Home?\n\nKarnataka's bus fare hike is hitting migrant workers hard, with travel costs reportedly increasing household expenses by nearly 30%. For many low-income workers, returning home to celebrate Deepavali with their families is becoming unaffordable. https://t.co/SPJkxMLYGO",
+      "text_excerpt": "Deepavali Without Going Home?\n\nKarnataka's bus fare hike is hitting migrant workers hard, with travel costs reportedly increasing household expenses by nearly 30%. For many low-income workers, returning home to celebrate Deepavali with their families is becoming unaffordable. https://t.co/SPJkxMLYGO",
+      "url": "https://x.com/KumarBGowda7/status/2118545990160707641",
+      "source_url": "https://x.com/KumarBGowda7/status/2118545990160707641",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "migrant workers hard, with travel costs reportedly increasing"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant workers hard, with travel costs reportedly increasing"
       ],
       "signal_context_rejections": [],
       "migration_context": true,
@@ -558,5 +798,118 @@
       "platform_count": 1
     }
   ],
-  "last_archived_at": "2026-11-05T23:11:10.145934+00:00"
+  "last_archived_at": "2026-11-06T03:58:36.856347+00:00",
+  "information_signals": [
+    {
+      "timeline_id": "information:24932",
+      "timestamp": "2026-11-06T03:03:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118539681495203926",
+      "author": "Info_Defense_En",
+      "url": "https://x.com/Info_Defense_En/status/2118539681495203926",
+      "source_url": "https://x.com/Info_Defense_En/status/2118539681495203926",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "rescue",
+        "detention"
+      ],
+      "freshness_cues": [],
+      "text": "The Valentina Molodaya Case: Humanitarian Rescue or Political Show Trial?\n\nThe high-profile prosecution of surgeon Valentina Molodaya—whom a Kiev court recently ordered held in pretrial detention for 60 days without bail—has shone a harsh spotlight on the alleged existence of https://t.co/yTyDzLWUOD",
+      "text_excerpt": "The Valentina Molodaya Case: Humanitarian Rescue or Political Show Trial?\n\nThe high-profile prosecution of surgeon Valentina Molodaya—whom a Kiev court recently ordered held in pretrial detention for 60 days without bail—has shone a harsh spotlight on the alleged existence of https://t.co/yTyDzLWUOD",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T03:56:56Z",
+      "last_collected_at": "2026-11-06T03:56:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24936",
+      "timestamp": "2026-11-06T02:51:11Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118536647335944635",
+      "author": "SAshC_Opinions",
+      "url": "https://x.com/SAshC_Opinions/status/2118536647335944635",
+      "source_url": "https://x.com/SAshC_Opinions/status/2118536647335944635",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "You would find a way to blame migrants for the weather. One criminal is not a verdict on everyone who arrived by boat. https://t.co/kQBtb7xqYh",
+      "text_excerpt": "You would find a way to blame migrants for the weather. One criminal is not a verdict on everyone who arrived by boat. https://t.co/kQBtb7xqYh",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T03:56:56Z",
+      "last_collected_at": "2026-11-06T03:56:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:24940",
+      "timestamp": "2026-11-06T02:40:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2118534049127882981",
+      "author": "Richard4m",
+      "url": "https://x.com/Richard4m/status/2118534049127882981",
+      "source_url": "https://x.com/Richard4m/status/2118534049127882981",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "My jaw is to the floor… So the reason you see all the boats full of migrants coming to the UK is because the UK is an Island, they have to come by boat\n\n“In 2018, 399 boats landed on the shores of the United Kingdom — You know how many landed last year? OVER 49,000”\n\n🚨 #WOW is",
+      "text_excerpt": "My jaw is to the floor… So the reason you see all the boats full of migrants coming to the UK is because the UK is an Island, they have to come by boat\n\n“In 2018, 399 boats landed on the shores of the United Kingdom — You know how many landed last year? OVER 49,000”\n\n🚨 #WOW is",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-06T03:56:57Z",
+      "last_collected_at": "2026-11-06T03:56:57Z",
+      "collection_count": 1
+    }
+  ]
 }
