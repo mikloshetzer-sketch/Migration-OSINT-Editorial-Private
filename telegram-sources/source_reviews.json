@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:23:16.360Z",
+  "updated_at": "2026-11-06T15:28:26.322Z",
   "channels": [
     {
       "username": "migrantlar24",
@@ -37,8 +37,18 @@
       "username": "migranty_RUS",
       "observed_posts": 80,
       "source_kind": "UNKNOWN",
-      "review_status": "PENDING",
-      "evidence": []
+      "review_status": "IN_PROGRESS",
+      "evidence": [],
+      "region": "orosz",
+      "language": "orosz",
+      "operator": "",
+      "reliability": "LOW",
+      "identity_reason": "",
+      "notes": "Azt írja orosz eseményekkel foglalkozik leginkább, de érdekes bejegyzés van a francia eseményekről. ",
+      "purpose": "",
+      "relevance": "",
+      "conclusion": "",
+      "updated_at": "2026-11-06T15:28:25.812Z"
     },
     {
       "username": "iqmomd",
