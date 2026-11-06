@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-07",
+  "reviews": {
+    "group:672": {
+      "hu_text": "Kritikusok továbbá említik, hogy a második ciklusban napi 3000-nél több letartóztatási kvóta bevezetését szorgalmazta, amelybe nem bűnözők és napi munkások is beletartoztak, becslések szerint több mint 145 000 amerikai állampolgár gyermekének van fogva tartott szülője, valamint közel 200 000 migráns gyermek gyorsított kitoloncolási parancsát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számokat és intézkedéseket tartalmaznak, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősülnek. Fontos a migrációs politika és gyakorlat megértése szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:00.797859+00:00"
+    },
+    "information:25117": {
+      "hu_text": "Határozottan a kommunikáció a probléma. Még az is, hogy támogatjuk a „TÖMEGES KITOLONCOLÁST”, hozzájárul ahhoz a retorikához, ami elriasztja az embereket. Egyszerűen csak azt kellene mondani, hogy támogatjuk a határbiztonságot és a bűnöző migránsok kitoloncolását. De egyetértünk a legtöbb állításoddal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és kommunikációs stratégia elemzése, nem tényállítás, így nincs szükség ellenőrzésre, de releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:00.797877+00:00"
+    },
+    "information:25119": {
+      "hu_text": "Ha ő lenne az elnök, a határ továbbra is nyitva lenne, és ellenőrizetlen emberek áramlanának be. A legtöbb migráns gyermek súlyos veszélynek van kitéve az USA felé vezető úton. A családok gyakran nagy adósságot vesznek fel csempészek fizetésére, és ezt az adósságot a gyermek ellen használhatják fel.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állításokat tartalmaz a migrációs helyzetről és veszélyekről, de nincs megerősített forrás, ezért ellenőrizetlen. Fontos a migrációs kockázatok megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:00.797881+00:00"
+    },
+    "information:25125": {
+      "hu_text": "Milyen menekültekre gondol, mert azok, akik a Csatornán kelnek át, biztosan nem menekültek, a többségük nem az, ezt mindannyian tudjuk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény a migránsok státuszáról, nincs bizonyíték vagy forrás, így ellenőrizetlen. Fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:00.797885+00:00"
+    },
+    "information:25134": {
+      "hu_text": "Egy menekülttáborban, távol a tengertől, a palesztin művész, Alaa Albaba halakat fest, amelyek az otthonról álmodnak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy művészeti és humanitárius jellegű információ, nincs konkrét migrációs esemény vagy politikai állítás, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:00.797889+00:00"
+    },
+    "information:25150": {
+      "hu_text": "Nem. Ők legálisan léptek be az Ellis-szigeten keresztül a 1903-1906 közötti nyitott bevándorlási szabályok alapján, állampolgárokká váltak és itt építettek életet. A kitoloncolás olyan embereket céloz meg, akiknek nincs jogi státuszuk vagy törvényt sértenek. Az ő érkezésük megelőzi az 1924-es kvótákat és a láncbevonási korlátozásokat.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi állításokat tartalmaz, de nincs megerősített forrás, ezért ellenőrizetlen. Fontos a bevándorlási háttér megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:00.797892+00:00"
+    }
+  }
+}
