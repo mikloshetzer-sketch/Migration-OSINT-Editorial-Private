@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T18:40:49.937041+00:00"
+    },
+    "record:reddit_1xpiixb": {
+      "hu_text": "A \"bigottság\" kifejezést lazán használják, és átalakult arra, hogy bárkit, aki nem ért egyet vagy nem kedvel, bigottnak nevezzenek. A szerző nem állítja, hogy minden külföldi gonosz, hanem a bigottság definícióját idézi: makacs, ésszerűtlen és teljes intolerancia másokkal szemben. Példaként hozza, hogy az illegális bevándorlókkal szembeni aggodalmakat gyakran figyelmen kívül hagyják, és a liberálisok nem hajlandók elfogadni azokat, inkább elterelő taktikákat alkalmaznak. Véleménye szerint az illegális bevándorlókat vissza kell küldeni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményt és általánosításokat tartalmaz, nem bizonyított tényeket. A bigottság fogalmának értelmezése és az illegális bevándorlókkal kapcsolatos állítások nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:41:03.955102+00:00"
+    },
+    "telegram:1261826972:54324": {
+      "hu_text": "🚩 Marokkói parancsnokok jelenléte a határon az invázió napján, egy újabb \"bizonyíték\" Marokkó érintettségére.\n\n➡️ A város elnöke, Juan Vivas közvetlenül Marokkóra mutat, meglepődik Pedro Sánchez engedékeny hozzáállásán a szomszédos országgal szemben, és azt állítja, hogy a cél Ceuta meggyengítése.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai állítást tartalmaz Marokkó érintettségéről a Ceutánál történt eseményekben, de nincs megerősített bizonyíték. Fontos a további ellenőrzés a határbiztonsági helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:41:03.955121+00:00"
+    },
+    "telegram:1261826972:54326": {
+      "hu_text": "◼️ Jerez támogatását fejezi ki Vivasnak: \"A jereziak mindig Ceutával vannak\"\n\n➡️ A város elnöke látogatást tesz Jerezben, Cádizban és Algecirasban\n\n➡️ Jerez polgármestere, María José García-Pelayo támogatását fejezte ki a városnak a júliusi tömeges bevándorlás után\n\n➡️ A Junta alelnöke, Antonio Sanz erősen kritizálja a nemzeti kormányt Ceuta elhanyagolásáért\n\n📷 Képgaléria 📷",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai és társadalmi támogatást mutat be Ceutával kapcsolatban, de nem tartalmaz ellenőrzött tényeket vagy adatokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:41:03.955125+00:00"
+    },
+    "telegram:1261826972:54327": {
+      "hu_text": "◼️ Vivas megkérdőjelezi Albares külügyminisztert: azt állította, hogy mindent ellenőriz, \"és Marokkó megszállt minket\"\n\n➡️ A város elnöke hivatalos látogatáson Cádizban bírálja a spanyol kormány Ceutával kapcsolatos álláspontját, különösen Albares kezelését, aki állítólag jó kapcsolatokat ápolt Marokkóval\n\n📷 Képgaléria 📷",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai kritikát tartalmaz a spanyol kormány és külügyminiszterének Ceutával kapcsolatos intézkedéseiről, de nincs megerősített bizonyíték a konkrét állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:41:03.955128+00:00"
+    },
+    "telegram:1261826972:54329": {
+      "hu_text": "🚩 A Polgárőrség Tengerészeti Szolgálata kritikus helyzetekkel néz szembe a kitoloncolás elől menekülő bevándorlók miatt.\n\n➡️ Csak az elmúlt éjszaka majdnem 40 bevándorlót fogtak el gumicsónakokban és kajakokban, megakadályozva egy hajótörést Calamocarro és Benzú között.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés határbiztonsági eseményről számol be, de nincs független megerősítés az esetről. Fontos a további ellenőrzés a helyzet pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:41:03.955131+00:00"
+    },
+    "telegram:1261826972:54333": {
+      "hu_text": "🚩 A Tarajal és Benzú móló építése november 17-én kezdődik.\n\n➡️ A delegáció megerősítette, hogy egy hajó érkezik a munkálatok megkezdéséhez, melynek során a mólók 150 méteres hosszúságot érnek el, és egy úszó gát is épül majd.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés határvédelmi infrastruktúra fejlesztéséről szól, de nincs független megerősítés. Fontos a további ellenőrzés a projekt előrehaladásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:41:03.955133+00:00"
     }
   },
   "legacy_reviews": {}
