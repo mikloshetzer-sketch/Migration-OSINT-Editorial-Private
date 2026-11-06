@@ -485,6 +485,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T18:41:03.955133+00:00"
+    },
+    "information:25137": {
+      "hu_text": "Ez a film témája az anti-fehér és a helyettesítés támogatása. Senkinek nincs gyereke, kivéve egy afrikai nőnek, és a rosszfiúk visszatartják a menekülteket. A záró képen egy afrikai nő látható egy kis csónakon az angol csatornán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy véleményen alapuló értelmezés egy filmről, amely migrációs témákat érint, de nincs megerősített tény vagy bizonyíték a tartalom hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:55:52.416922+00:00"
+    },
+    "information:25158": {
+      "hu_text": "Két magas rangú igazságügyi minisztériumi tisztviselő lemondott, köztük a nemzetbiztonsági helyettes főügyész. John Eisenberg, a minisztérium nemzetbiztonsági részlegének vezetője, aki terrorizmus elleni ügyeket és kémkedési vizsgálatokat felügyelt, pénteken távozott. Ő volt az egyik kulcsszereplő a Trump-kormányzatban az ukrán elnökkel folytatott telefonbeszélgetés jogi kezelésében. Egy másik fontos ügyész, Jason Reding Quiñones, aki több nagy horderejű ügyet vezetett, szintén távozik.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához, hanem igazságügyi minisztériumi személyi változásokról szól, ezért migrációs szempontból irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:55:52.416943+00:00"
+    },
+    "information:25159": {
+      "hu_text": "Ez egy vitafórum egy sorozat epizódjairól, ahol a karakterekről és a történetről beszélgetnek, különösen a 27-28. epizódokról. A bejegyzés nem tartalmaz migrációval kapcsolatos információkat, hanem szórakoztató tartalomról szól.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációhoz vagy azzal összefüggő témákhoz, hanem egy szórakoztató sorozat vitájáról szól.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:55:52.416948+00:00"
+    },
+    "information:25160": {
+      "hu_text": "Ez a dráma kritikája, amelyben a szerző csalódottságát fejezi ki a történetvezetés és karakterfejlődés miatt, különösen egy szereplő távozása kapcsán. A bejegyzés a kettős mércék és a karakterek közötti konfliktusok témáját érinti, de nem tartalmaz migrációs információkat.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy szórakoztató mű kritikája, amely nem kapcsolódik migrációhoz vagy azzal összefüggő témákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:55:52.416952+00:00"
     }
   },
   "legacy_reviews": {}
