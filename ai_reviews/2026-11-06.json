@@ -243,6 +243,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T11:43:51.575533+00:00"
+    },
+    "record:mastodon_117569196068272911": {
+      "hu_text": "Több mint ezer érkezés egy éjszaka alatt és egy haláleset a Kanári-szigeteken. Mi változik az atlanti útvonalon?",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről számol be, konkrét számadatokkal és halálesettel, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:59.461621+00:00"
+    },
+    "telegram:1261826972:54309": {
+      "hu_text": "Három hír a elfarodeceuta.es oldalról: 1. A marokkói határ főnökei a ceutai invázió kapcsán – egy részletes jelentés elemzése. 2. Egy felmérés szerint a ceutaiak 46%-a úgy véli, hogy az invázió veszélyeztette a társadalmi együttélést. 3. Börtönbe került egy embercsempész ház tulajdonosa, ahol egy migránst szexuálisan bántalmaztak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés több, migrációval és határbiztonsággal kapcsolatos hírt tartalmaz, de a forrás ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:59.461638+00:00"
+    },
+    "telegram:1261826972:54315": {
+      "hu_text": "A Guardia Civil megtalálta egy férfi holttestét a benítezi strandon. A halott fekete rövidnadrágot és leggingszerű ruhát viselt, és valószínűleg már hosszabb ideje halott volt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményhez kapcsolódó halálesetről számol be, de nincs hivatalos megerősítés vagy részletes információ, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:59.461641+00:00"
+    },
+    "telegram:1261826972:54318": {
+      "hu_text": "Ceuta megmutatja a hamis normalitást a Sánchez-kormánynak: borzalmas éjszakák bizonytalansággal és nulla visszaküldéssel. A város azt állítja, hogy nincs ütemterv a táborok felszámolására, és sajnálja, hogy a kormány képtelen megoldani a demokrácia egyik legsúlyosabb biztonsági eseményét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai és társadalmi véleményt tartalmaz a migrációs helyzetről és a kormány intézkedéseiről, de nincs konkrét bizonyíték vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:59.461645+00:00"
     }
   },
   "legacy_reviews": {}
