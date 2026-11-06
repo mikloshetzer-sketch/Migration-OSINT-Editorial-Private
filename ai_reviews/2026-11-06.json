@@ -111,6 +111,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T03:58:56.971360+00:00"
+    },
+    "information:24974": {
+      "hu_text": "Ez egy szürreális, kaotikus nap története egy olyan világban, ahol a valóság egyfajta kubista műalkotássá vált a #DreamScreenAI hatására. A bejegyzés egy gazdagok hobbijairól, rendőri intézkedésekről és abszurd eseményekről szól, például egy élő rajzfilm előadás megszakításáról és egy fizikát meghazudtoló birkózásról.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval kapcsolatos releváns információt, inkább egy szürreális, fikciós leírás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:41.976032+00:00"
+    },
+    "information:24986": {
+      "hu_text": "Az IOM figyelmeztet, hogy mintegy 100 000 ember veszítheti el az egészségügyi ellátáshoz való hozzáférést a Szudán–Dél-Szudán határon, ha a Wunthou átkelőnél lévő egyetlen klinika decemberben bezár. Az átkelőt használta a 2023 áprilisa óta Szudánból Dél-Szudánba átkelő 1,3 millió ember szinte mindegyike.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius információ a határ menti egészségügyi ellátás megszűnéséről, amely jelentős hatással lehet a migránsokra és helyi lakosokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:41.976052+00:00"
+    },
+    "information:24987": {
+      "hu_text": "A bejegyzés azt követeli, hogy Dél-Afrika élvezze elsőbbségét, és szigorúan érvényesítsék a bevándorlási, helyi és munkaügyi törvényeket, valamint a határellenőrzést. Kifejezi, hogy Dél-Afrika nem menekülttábor a korrupt, sikertelen afrikai kormányok számára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai és társadalmi vélemény a bevándorlásról és határvédelemről, amely releváns a migrációs diskurzus szempontjából, de nem tartalmaz konkrét tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:41.976056+00:00"
+    },
+    "information:24989": {
+      "hu_text": "A bejegyzés szerint az Obama-korszak deportálásairól szóló állítások tévesek, mert a határra visszatoloncolás nem számít deportálásnak, hanem csak kellemetlenségnek. Kiemeli, hogy Trump keményebben lép fel az illegális bevándorlókkal szemben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény a bevándorlási politikáról és deportálásról, amely nem bizonyított tény, hanem vélemény és vita tárgya.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:41.976059+00:00"
+    },
+    "information:25000": {
+      "hu_text": "Felvétel egy spanyol mentőhajóról, amely egy fából készült migránscsónakot kísér a La Restinga kikötő felé az El Hierro szigeten, hogy humanitárius segítséget nyújtson.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről számol be, amely migránsok megsegítését célozza a tengeren.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:41.976062+00:00"
+    },
+    "information:25003": {
+      "hu_text": "A bejegyzés bemutatja az Egyesült Államok 10 nemzeti menekültügyi újratelepítő szervezetét (VOLAG-ok), azok vallási vagy világi hátterét és hálózataikat, például a katolikus USCCB/Migration & Refugee Services-t és a szekuláris International Rescue Committee-t.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hasznos háttérinformáció az amerikai menekültügyi szervezetekről, amelyek fontos szerepet játszanak a menekültek újratelepítésében.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:41.976064+00:00"
     }
   },
   "legacy_reviews": {}
