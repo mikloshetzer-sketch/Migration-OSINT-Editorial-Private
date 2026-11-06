@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T23:56:00.797892+00:00"
+    },
+    "information:25157": {
+      "hu_text": "@CP24 Több milliárd dollárt költünk hamis \"menekültekre\" és külföldi segélyekre, de egyetlen honfitársunkat magára hagyjuk.\n\nMilyen szörnyű ország.\n\nHa két héttel ezelőtt érkezett volna ide, még ha illegálisan is lépett volna be az országba, megkapott volna mindent, amire szüksége van.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és állításokat tartalmaz, amelyek nem ellenőrzöttek, nincs bizonyíték a hamis menekültekre vagy a segélyek összegére vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:10.043659+00:00"
+    },
+    "record:2118840005246484587": {
+      "hu_text": "2026-ban a formális rabszolga-kereskedelem illegális, de a modern rabszolgaság és a migránsok emberkereskedelme továbbra is fennáll Mauritániában (örökletes maradványok), Líbiában (kényszermunka és migránsok eladása), valamint a Perzsa-öböl államaiban a kafala rendszer alatt. Konfliktuszónák, mint Szudán és Jemen is jelentik az emberkereskedelmet.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások részletesek és relevánsak a migrációs emberkereskedelem témájában, de nincs közvetlen bizonyíték a forrás hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:10.043677+00:00"
+    },
+    "record:2118845913246441599": {
+      "hu_text": "Szövetségi hatóságok szerint egy El Paso környéki művelet során 53 migránst mentettek meg, akiket egy traktor utánfutóban csempésztek, és három férfit – két amerikai és egy mexikói állampolgárt – tartóztattak le.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét műveletről szóló információ, de nincs megerősített forrás vagy hivatalos jelentés a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:10.043681+00:00"
+    },
+    "record:2118848120356278317": {
+      "hu_text": "🚨🇺🇸 Milyen ostobák a migráns bandák?! Egy fegyveres venezuelai illegális bevándorlót tartóztattak le a Fehér Ház közelében, miután állítólag megfenyegette Trump megölésével!",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Szenzációhajhász állítás, amely erőszakos fenyegetést említ, de nincs megerősített bizonyíték vagy hivatalos forrás a történtekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:10.043685+00:00"
+    },
+    "record:2118850573919514877": {
+      "hu_text": "@GovKathyHochul Ön a bűnöző illegális bevándorlókért harcol, miközben szemet huny 400 000 migráns gyermek emberkereskedelme felett – néhányukat több mint 600 alkalommal megerőszakolták. Köszönjük @ICEgov",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állításokat tartalmaz emberkereskedelemről és gyermekek elleni erőszakról, de nincs megerősített bizonyíték vagy hivatalos jelentés a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:10.043688+00:00"
+    },
+    "record:2118851158454259884": {
+      "hu_text": "A demokraták azt kiabálják, hogy az ICE családokat választ szét. Hol volt ez a felháborodás, amikor Biden nyitott határa majdnem háromszázezer kísérő nélküli migráns gyermeket hagyott nyomon követhetetlenül? A DHS főellenőre megállapította, hogy több mint 448 000 gyermeket helyeztek át az Egészségügyi és Humán Szolgáltatásokhoz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai állításokat tartalmaz migrációs politikáról és gyermekek kezeléséről, de nincs közvetlen bizonyíték vagy hivatalos dokumentum a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:10.043692+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
