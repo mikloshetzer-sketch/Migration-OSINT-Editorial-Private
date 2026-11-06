@@ -353,6 +353,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T18:40:39.814947+00:00"
+    },
+    "information:25065": {
+      "hu_text": "Líbia szárazföldön és tengeren is harcolt az illegális bevándorlás ellen. Ez embercsempész hálózatok elleni fellépéshez, valamint illegális migránsok őrizetbe vételéhez és kitoloncolásához vezetett. Adrianus Koetsenruijter, az Európai Unió akkori tunéziai nagykövete dicsérte Gaddafit az erőfeszítéseiért.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét szereplőkre és eseményekre hivatkoznak, de nincs közvetlen bizonyíték vagy hivatalos forrás a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:49.937012+00:00"
+    },
+    "information:25075": {
+      "hu_text": "Hiteles jelentések szerint, amelyeket a Reuters, az NBC, az Orvosok Határok Nélkül és a HSI készítettek, a mexikói kartellek 2021 és 2024 között migráns nőket és lányokat erőszakoltak meg csempészés és emberrablás közben olyan helyeken, mint Reynosa és Matamoros. Az MSF 70%-os növekedést regisztrált a szexuális erőszak eseteiben a térségben.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A jelentések több ismert szervezetre hivatkoznak, de a bemenet nem tartalmaz közvetlen bizonyítékot vagy linket a forrásokhoz, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:49.937029+00:00"
+    },
+    "record:1261826972:54329": {
+      "hu_text": "A spanyol parti őrség tengeri szolgálata kritikus helyzetekkel néz szembe, amikor migránsok próbálnak elmenekülni a kitoloncolás elől. Csak az elmúlt éjszaka majdnem 40 migránst fogtak el gumicsónakokban és kajakokban a Calamocarro és Benzú közötti térségben, megakadályozva egy hajótörést.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés egy konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:49.937032+00:00"
+    },
+    "record:2118769847597498663": {
+      "hu_text": "Bangladesi biztonsági erők legalább 57 embert, köztük rohingya menekülteket mentettek ki egy fegyveres összecsapás során a feltételezett embercsempészekkel a mianmari határ közelében, közölte a hadsereg 2026. november 6-án.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény konkrét részleteket tartalmaz, de nincs közvetlen bizonyíték vagy hivatalos forrás a bemenetben, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:49.937035+00:00"
+    },
+    "record:2118771043271946492": {
+      "hu_text": "Az olasz haditengerészet sok illegális migránst elfogott, de nem szűrték őket, mielőtt visszaküldték volna Líbiába, így nem különböztették meg az embercsempészeket az áldozataiktól.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy problémára hívja fel a figyelmet, de nincs megerősített bizonyíték vagy hivatalos jelentés a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:49.937038+00:00"
+    },
+    "record:2118771213128405110": {
+      "hu_text": "Brit és francia hatóságok készülnek egy újabb illegális migrációs hullámra a Csatornán, miután az időjárás javult a hétvége előtt. Egy vélemény szerint azonban nem megállítani, hanem csak felkészülni próbálnak rá, és ezt hazug propagandának nevezik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés véleményt és előrejelzést tartalmaz, de nincs konkrét bizonyíték vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T18:40:49.937041+00:00"
     }
   },
   "legacy_reviews": {}
