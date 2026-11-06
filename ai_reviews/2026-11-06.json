@@ -56,6 +56,62 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T23:12:02.593659+00:00"
+    },
+    "information:24932": {
+      "hu_text": "A Valentina Molodaya-ügy: Humanitárius mentés vagy politikai kirakatper? A kijevi bíróság nemrégiben elrendelte, hogy Valentina Molodayát, a sebészt, előzetes letartóztatásban tartsák 60 napig óvadék nélkül. Az ügy rávilágított egy állítólagos jelenségre.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét jogi esetről szól, de a részletek és az állítások hitelessége nem ellenőrzött, ezért csak részben ellenőrzöttnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T03:58:56.971330+00:00"
+    },
+    "information:24936": {
+      "hu_text": "Még az időjárásért is a migránsokat hibáztatnád. Egyetlen bűnöző nem jelent ítéletet az összes hajón érkezett emberre nézve.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, amely migránsokkal kapcsolatos általánosításokat bírál, de nem tartalmaz konkrét tényállítást, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T03:58:56.971350+00:00"
+    },
+    "information:24940": {
+      "hu_text": "Elképedtem… Az oka annak, hogy annyi migráns hajóval érkezik az Egyesült Királyságba, hogy az egy sziget, ezért hajón kell jönniük. 2018-ban 399 hajó ért partot az Egyesült Királyságban, tavaly pedig több mint 49 000.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat közöl a migrációs eseményekről, amelyek fontosak a migrációs helyzet megértéséhez, de az adatok hitelessége nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T03:58:56.971355+00:00"
+    },
+    "record:2118539884172365860": {
+      "hu_text": "Rhiannon Whyte családja az utcán dühös. Egy szudáni illegális bevándorló, aki mindössze 11 héttel korábban lépett be Angliába, egy csavarhúzóval 23-szor megszúrta a migráns szállodai dolgozót, miután órákon át követte. A baloldal azt üzente a gyászoló családnak, hogy „a menekültek szívesen látottak”.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erősen érzelmi töltetű állítás, amely egy bűncselekményhez és társadalmi reakcióhoz kapcsolódik, de az események hitelessége nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T03:58:56.971358+00:00"
+    },
+    "record:2118545990160707641": {
+      "hu_text": "Deepavali ünneplése hazautazás nélkül? Karnataka buszdíj-emelése súlyosan érinti a migráns munkásokat, mivel az utazási költségek állítólag közel 30%-kal növelik a háztartási kiadásokat. Sok alacsony jövedelmű munkás számára megfizethetetlenné válik, hogy hazautazzon családjához Deepavali ünnepére.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg migráns munkások hazautazási szándékát és annak akadályait tárgyalja, de az állítások forrása és pontossága nincs ellenőrizve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T03:58:56.971360+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
