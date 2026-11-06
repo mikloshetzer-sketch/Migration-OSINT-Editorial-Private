@@ -133,6 +133,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T23:56:10.043692+00:00"
+    },
+    "record:2118852122930540730": {
+      "hu_text": "@RepRaskin https://t.co/ZreWghiS26\nHozz minket vissza a Demokraták emberkereskedelmének széléről – Biden kormányzása alatt 400 000 migráns gyerekről van szó.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos, de nincs megerősített bizonyíték az emberkereskedelemről vagy a pontos számokról, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:19.749124+00:00"
+    },
+    "record:2118853694754083090": {
+      "hu_text": "@Bobzembh @kykhan5 @factpostnews Kritikusok említik, hogy a második ciklusban napi 3000 feletti letartóztatási kvótát akartak, amelybe nem bűnözők és napi munkások is beletartoztak, becslések szerint több mint 145 000 amerikai állampolgár gyereknek van fogva tartott szülője, és majdnem 200 000 migráns gyerek gyorsított kitoloncolási parancsot kapott.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások részben számszerűek és súlyosak, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:19.749140+00:00"
+    },
+    "record:reddit_1xpkvdg": {
+      "hu_text": "Több mint 3000 illegális migráns érkezett a Kanári-szigetekre néhány nap alatt – a helyi hatóságok riasztást adtak ki. November 5-6 között több mint 1000 embert hoztak a szigetekre a spanyol mentőszolgálatok. A legtöbben Nyugat-Afrikából érkeznek szabálytalanul, túlzsúfolt fa hajókon átkelve az Atlanti-óceánt. Különösen nehéz a helyzet El Hierro szigetén, ahol a helyiek szerint kórházak, menedékhelyek és infrastruktúra túlterhelt. Fernando Clavijo, a Kanári-szigetek elnöke „teljesen fenntarthatatlannak” nevezte a helyzetet. A spanyol mentőcsapatok továbbra is hajókat keresnek a tengeren és migránsokat szállítanak a kikötőkbe. Egy ember meghalt az egyik legutóbbi mentési művelet során.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A helyzet leírása részletes, de nincs független megerősítés vagy hivatalos jelentés, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:19.749144+00:00"
+    },
+    "telegram:1261826972:54339": {
+      "hu_text": "◼️ Montero Roblest vádolja \"kínzásokkal\" a Ceutában tartózkodó bevándorlókkal szemben\n\n➡️ A Podemos kormányfőjelöltje azzal vádolja a védelmi minisztert, hogy Ceutában \"súlyos emberi jogi jogsértést hajtott végre\".\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/irene-montero-margarita-robles-torturas-inmigrantes/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vádaskodás, amelyet nem támasztanak alá független bizonyítékok, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:19.749148+00:00"
+    },
+    "telegram:1261826972:54344": {
+      "hu_text": "◼️ A belügyminisztérium elárulta a bírónak, hogy Marokkó letartóztatott két személyt, akik Ceutába való belépést szerveztek\n\n➡️ A Fnideq-i (Castillejos) Királyi Csendőrség augusztus 6-án letartóztatta a két gyanúsítottat, akik egy WhatsApp csoport adminisztrátorai voltak, és üzeneteket terjesztettek fiataloknak, hogy úszva lépjenek be az autonóm városba.\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/interior-revela-jueza-marruecos-detuvo-instigadores-entrada-ceuta/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ hivatalos forrásra hivatkozik, de nincs független megerősítés, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T23:56:19.749152+00:00"
     }
   },
   "legacy_reviews": {}
