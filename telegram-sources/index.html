@@ -7,7 +7,8 @@
 <header><small>MIGRATION OSINT · SZERKESZTŐI KÖZPONT</small><h1>Telegram Forrásintelligencia</h1><p>Csatornák nyilvántartása · Manuális minősítés · Kutatási bizonyítékok</p></header>
 <main><div class="top"><a href="../index.html">← Vissza a szerkesztői központba</a><span class="badge">Kutatási munkafelület · 2026.10.08-i adatpillanatkép</span></div>
 <div class="metrics"><div class="metric"><small>Csatornák</small><b id="total">–</b></div><div class="metric"><small>Gyűjtött posztok</small><b id="posts">–</b></div><div class="metric"><small>Manuálisan ellenőrzött</small><b id="reviewed">–</b></div></div>
-<div class="notice warning"><b>Adatvédelmi figyelmeztetés:</b> a GitHub jelenleg nyilvánosnak jelzi a repót. Személyes vagy bizalmas kutatói megjegyzéseket ne tölts fel nyilvános adattárba. A felület helyben ment a böngésződbe, és JSON-exportot kínál; automatikus GitHub-írás nincs.</div>
+<div class="notice warning"><b>Adatvédelmi figyelmeztetés:</b> a GitHub jelenleg nyilvánosnak jelzi a repót. Személyes vagy bizalmas kutatói megjegyzéseket ne tölts fel nyilvános adattárba. A felület helyben is ment; a GitHub-mentés csak a tokenes kapcsolódás után működik. A repó láthatóságát a GitHub Settings alatt ellenőrizd.</div>
+<div class="panel" style="margin-bottom:16px"><h2>GitHub-mentés és visszatöltés</h2><p class="hint">A token csak a megnyitott oldal memóriájában marad. A mentés célja: <code>telegram-sources/source_reviews.json</code>. A mentéshez a repóhoz hozzáférő, Contents: Read and write jogosultságú finomhangolt GitHub-token szükséges.</p><div class="grid"><div><label for="githubToken">GitHub hozzáférési token</label><input id="githubToken" type="password" autocomplete="off" placeholder="github_pat_…"></div><div><label>Kapcsolat</label><div class="actions" style="margin-top:0"><button id="githubConnect">Kapcsolódás és visszatöltés</button><button id="githubDisconnect" class="secondary">Bontás</button></div></div></div><div class="actions"><button id="githubSave">Összes csatorna mentése GitHubra</button><button id="githubReload" class="secondary">GitHub-adatok újratöltése</button></div><p id="githubStatus" class="hint" role="status" aria-live="polite">GitHub: nincs kapcsolat. A helyi mentés működik.</p></div>
 <div class="layout"><section class="panel"><h2>Csatornák</h2><input id="search" placeholder="Keresés csatornanév szerint"><label>Szűrés</label><select id="filter"><option value="ALL">Összes</option><option value="PENDING">Ellenőrzésre vár</option><option value="IN_PROGRESS">Folyamatban</option><option value="DONE">Ellenőrzött</option></select><div class="scroll" id="channels"></div><div class="actions"><button id="add" class="secondary">+ Új csatorna</button></div></section>
 <section class="panel"><div id="empty">Válassz csatornát a bal oldalon.</div><div id="detail" class="hidden">
 <div class="top"><div><h2 id="title"></h2><span id="handle" class="hint"></span></div><a id="telegram" class="btn secondary" target="_blank" rel="noopener noreferrer">Telegram megnyitása ↗</a></div>
@@ -45,6 +46,39 @@ function select(id){selected=id;const c=get();$('empty').classList.toggle('hidde
 function save(){const c=get();if(!c)return;fields.forEach((f,i)=>c[keys[i]]=$(f).value);c.updated_at=new Date().toISOString();if(persist()){text($('saveStatus'),'Helyben mentve: '+new Date().toLocaleString('hu-HU'));renderList()}}
 function renderEvidence(){const box=$('evidence_list');box.replaceChildren();for(const [i,e] of (get()?.evidence||[]).entries()){const div=document.createElement('div');div.className='evidence';const a=document.createElement('a');a.href=e.url;a.target='_blank';a.rel='noopener noreferrer';text(a,e.url);const p=document.createElement('p');text(p,e.note||'');const b=document.createElement('button');b.className='secondary';text(b,'Törlés');b.onclick=()=>{get().evidence.splice(i,1);persist();renderEvidence()};div.append(a,p,b);box.append(div)}}
 function download(name,data){const blob=new Blob([JSON.stringify(data,null,2)+'\n'],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
+// GitHub Contents API – a token kizárólag memóriában marad.
+const GH_REPO='mikloshetzer-sketch/Migration-OSINT-Editorial-Private';
+const GH_PATH='telegram-sources/source_reviews.json';
+let ghToken='',ghQueue=Promise.resolve();
+function ghMessage(s){text($('githubStatus'),s)}
+function toB64(value){const bytes=new TextEncoder().encode(value);let binary='';for(let i=0;i<bytes.length;i+=8192)binary+=String.fromCharCode(...bytes.subarray(i,i+8192));return btoa(binary)}
+function fromB64(value){const binary=atob(value.replace(/\s/g,''));return new TextDecoder().decode(Uint8Array.from(binary,c=>c.charCodeAt(0)))}
+async function ghRequest(method,payload){
+  if(!ghToken)throw Error('Előbb kapcsolódj a GitHubhoz.');
+  const response=await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_PATH}`,{method,headers:{Authorization:`Bearer ${ghToken}`,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28',...(payload?{'Content-Type':'application/json'}:{})},body:payload?JSON.stringify(payload):undefined,cache:'no-store'});
+  if(method==='GET'&&response.status===404)return null;
+  if(!response.ok)throw Error(`GitHub HTTP ${response.status}: ${(await response.text()).slice(0,200)}`);
+  return response.json();
+}
+async function ghRead(){const file=await ghRequest('GET');if(!file)return {sha:null,channels:[]};const d=JSON.parse(fromB64(file.content));if(d.schema_version!==1||!Array.isArray(d.channels))throw Error('Ismeretlen GitHub-adatformátum');return {sha:file.sha,channels:d.channels}}
+function mergeByTimestamp(remote,local){const m=new Map();for(const c of [...remote,...local]){if(!c||typeof c.username!=='string')continue;const key=c.username.toLowerCase(),old=m.get(key);if(!old||String(c.updated_at||'')>=String(old.updated_at||''))m.set(key,c)}return merge([...m.values()])}
+async function ghLoad(){const remote=await ghRead();if(!remote.sha){ghMessage('Kapcsolódva. Még nincs GitHub-mentés; a helyi adatok megmaradtak.');return}channels=mergeByTimestamp(remote.channels,channels);if(!persist())return;renderList();select(channels.find(c=>c.username===selected)?.username||channels[0]?.username);ghMessage(`GitHub kapcsolódva: ${remote.channels.length} csatorna beolvasva, ${channels.length} csatorna elérhető. Az újabb helyi változtatások megmaradtak.`)}
+async function ghSave(){
+  if(selected)save();
+  ghMessage('GitHub: mentés folyamatban…');
+  for(let attempt=0;attempt<4;attempt++){
+    const remote=await ghRead();
+    const merged=mergeByTimestamp(remote.channels,channels);
+    const payload={message:'Save Telegram channel source reviews',content:toB64(JSON.stringify({schema_version:1,updated_at:new Date().toISOString(),channels:merged},null,2)+'\n'),...(remote.sha?{sha:remote.sha}:{})};
+    try{await ghRequest('PUT',payload);channels=merged;persist();renderList();ghMessage(`GitHub: ${channels.length} csatorna sikeresen elmentve (${new Date().toLocaleString('hu-HU')}).`);return}
+    catch(e){if(!/HTTP (409|422)/.test(e.message)||attempt===3)throw e}
+  }
+}
+$('githubConnect').onclick=async()=>{if(selected)save();const token=$('githubToken').value.trim();if(!token){ghMessage('Adj meg egy finomhangolt GitHub-tokent.');return}ghToken=token;$('githubToken').value='';ghMessage('Kapcsolódás…');try{await ghLoad()}catch(e){ghToken='';ghMessage('Kapcsolódási hiba: '+e.message)}};
+$('githubDisconnect').onclick=()=>{ghToken='';$('githubToken').value='';ghMessage('GitHub-kapcsolat bontva. A helyi adatok megmaradtak.')};
+$('githubReload').onclick=async()=>{if(selected)save();try{await ghLoad()}catch(e){ghMessage('GitHub-betöltési hiba: '+e.message)}};
+$('githubSave').onclick=()=>{ghQueue=ghQueue.catch(()=>{}).then(()=>ghSave()).catch(e=>ghMessage('GitHub-mentési hiba: '+e.message+' — a helyi adatok megmaradtak.'))};
+
 $('search').oninput=renderList;$('filter').onchange=renderList;
 document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{tab=b.dataset.tab;document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('active',x===b));['profile','evidence','method'].forEach(id=>$(id).classList.toggle('hidden',id!==tab))});
 $('save').onclick=save;
