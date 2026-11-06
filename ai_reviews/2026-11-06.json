@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T11:43:41.976064+00:00"
+    },
+    "information:25004": {
+      "hu_text": "Mike Tapp, Dover képviselője szerint az embercsempészek új indulási helyeket használnak, miután egy 38 migránst szállító hajót Hollandiából indítottak el.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy politikai képviselő véleményén alapul, nincs további bizonyíték a hajó indulási helyének megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:51.575504+00:00"
+    },
+    "information:25006": {
+      "hu_text": "Nyolc hónapos börtönbüntetést kapott egy szudáni migráns, aki megpróbált ellopni egy halászhajót, hogy Franciaországba hajózzon és több illegális migránst csempésszen be. Az állítás szerint a hatóságok ezt kisebb vétségként kezelik, nem nemzetbiztonsági kérdésként.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az ítélet és a jogi megítélés részletei nem ellenőrzöttek, politikai vélemény is megjelenik az állításban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:51.575520+00:00"
+    },
+    "information:25007": {
+      "hu_text": "Miért süllyedt el nemrég egy kis halászhajó Északnyugat-Skóciában, túlélők nélkül? Az állítás szerint azért, mert a Királyi Mentőszolgálat (RNLI) túl elfoglalt volt, hogy a Franciaországból érkező migránsokat segítse át a Csatornán, ami nem az ő feladatuk.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás ok-okozati összefüggése nem bizonyított, inkább vélemény és spekuláció, nincs bizonyíték a mentőszolgálat tevékenységére vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:51.575524+00:00"
+    },
+    "information:25012": {
+      "hu_text": "Nyugat-Bengál állam komoly vizsgálatot igényel emberkereskedelem, illegális bányászat, állatcsempészet, határon átnyúló hálózatok, illegális migráció, iszlám radikalizmus és kényszerített vallási áttérések ügyében. A határvédelem és a szervezett bűnözés nem hagyható figyelmen kívül.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános figyelmeztetés és vélemény több problémáról, nincs konkrét bizonyíték vagy adat a felsorolt jelenségekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:51.575527+00:00"
+    },
+    "record:2118663182545776962": {
+      "hu_text": "Több mint 800 migráns érkezett egyetlen 24 órás időszak alatt a spanyol El Hierro, Lanzarote, Gran Canaria és La Gomera szigetekre ezen a héten. A hajókat „veszélyesnek” írták le, de mindegyik 11 és 127 fő között szállított embereket.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és helyszíneket tartalmazó migrációs esemény, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:51.575530+00:00"
+    },
+    "record:2118666324272681060": {
+      "hu_text": "Lettországban 2025-ben és 2026-ban rekord számú fegyveres migráns próbált határt átlépni. Október 2-ig 11 699 határátlépési kísérlet történt, ami tízszerese annak, amit Lukasenko küldött Litvániába és Lengyelországba. Az ISANS elemzése szerint Belarusz Lettországra fókuszál.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és elemzést tartalmazó figyelmeztetés migrációs mozgásról, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-06T11:43:51.575533+00:00"
     }
   },
   "legacy_reviews": {}
