@@ -694,6 +694,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T17:08:41.117469+00:00"
+    },
+    "record:2119105283179831351": {
+      "hu_text": "Legalább 7 migráns halt meg egy 139 főt szállító gumicsónakon a Kanári-szigetek felé. Spanyolország tengeri mentőszolgálata 132 embert mentett ki mintegy 150 km-re Lanzarotétól; a túlélők szerint 5 holttest a vízbe esett. Szombat óta 510 ember érkezett a szigetekre 8 hajón.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló jelentés, amely haláleseteket is tartalmaz, de nincs megerősített forrás vagy hivatalos jelentés a pontos számokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:50.714439+00:00"
+    },
+    "record:2119105914687164506": {
+      "hu_text": "Az új világ (Amerika) népe az ősi izraeliták voltak, akik elmenekültek a háborúk elől Kolumbusz érkezése előtt. Észak-afrikai afro-ázsiai bláziai menekültek. A szibériai őslakosok az ellenkező irányból érkeztek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi eredetű állítás, amely nem migrációs esemény vagy aktuális helyzet, és nincs bizonyíték a pontos igazságára.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:50.714456+00:00"
+    },
+    "record:2119107006372172238": {
+      "hu_text": "A szomáliai menekültek az 1990-es évek elején érkeztek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Egyszerű történelmi megjegyzés, amely nem igényel azonnali ellenőrzést, és nem aktuális migrációs esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:50.714460+00:00"
+    },
+    "record:2119108743543537956": {
+      "hu_text": "Több mint 24 óra alatt közel 2000 illegális bevándorló érkezett El Hierro szigetére. Csak ma már körülbelül 900-an vannak, és a Polgári Őrség forrásai szerint legalább két további migránshajót észleltek, amelyek a Kanári-szigetek felé tartanak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális migrációs eseményről szóló jelentés, amely nagy számú migráns érkezését jelzi, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:50.714463+00:00"
+    },
+    "record:2119109268347728300": {
+      "hu_text": "Egy durva, sértő hangvételű hozzászólás, amely migránsok érkezésének időpontját vitatja, és tragédiát említ.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vagy személyes vélemény, sértő nyelvezetű, nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:50.714466+00:00"
+    },
+    "record:2119111977218023519": {
+      "hu_text": "Egy új, mintegy 800 fős migránskaraván, főként Hondurasból és Guatemalából, ezen a héten lépett be Dél-Mexikóba a Suchiate határátkelőn keresztül Chiapas államban, miután a demokraták középtávú választási győzelmet arattak, ami reményt adott nekik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Aktuális migrációs eseményről szóló jelentés, amely politikai kontextust is tartalmaz, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:50.714469+00:00"
     }
   },
   "legacy_reviews": {}
