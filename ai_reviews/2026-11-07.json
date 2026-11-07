@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T03:32:48.446377+00:00"
+    },
+    "information:25201": {
+      "hu_text": "Spanyolország 854 migránsnak nyújtott segítséget hét nyílt halászhajón El Hierro közelében; körülbelül 700-at Tenerifére szállítanak át. Az Euronews jelentése szerint Spanyolország Tengeri Mentőszolgálata 2026. november 6-án, pénteken korán reggel segített 854 migránsnak hét nyílt halászhajón El Hierro partjainál. Többen megmenekültek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről szól, amely migránsok mentését és átszállítását érinti. Az állítás forrása megbízhatónak tűnik, de nincs további bizonyíték a teljes hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:59.051832+00:00"
+    },
+    "information:25202": {
+      "hu_text": "Spanyolország „mentőflottája”: egy nap alatt 1400 illegális migráns érkezett a Kanári-szigetekre. A „mentés” új szó a ingyenes kompjáratra. Egyetlen nap alatt 1400 ember. Ez nem együttérzés, hanem nemzeti öngyilkosság bürokráciával.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika a migrációs politikáról, amely nem bizonyított tény, hanem vélemény. Az állítás migrációs adatokat említ, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:59.051848+00:00"
+    },
+    "information:25226": {
+      "hu_text": "Minden egyszerre megy rosszul és jól: Második rész egy adósságokkal terhelt autokrata hullámvasút beszámolójából. Az első részben Tarquin Soll megnyerte a Sordish polgárháborút. Anton Rayne 1976-os visszaemlékezése szerint Soll csapatai felszabadították Lachavent a Luderinista és Rikardista erőktől, akik kegyetlen megtorlásokat hajtottak végre. Soll megmentette a várost, és a lakosok örömmel fogadták őt. Tarquin Soll lázadása véglegesen megsemmisítette Luderin tábornok hadseregét és a nacionalista frakciót. A 6. hadsereg, amely korábban semlegességet hirdetett, döntő támadást indított. Luderint végül magas rangú tisztjei árulták el, és letartóztatták.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció egy fiktív vagy kevéssé ismert konfliktusról, amely nem kapcsolódik közvetlenül a migrációhoz. Az állítás részletes, de nincs bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:59.051851+00:00"
+    },
+    "record:2118890666914648220": {
+      "hu_text": "🇫🇷🚨FRISS: Egy 93 éves Marie-Louise-t holtan, véresen találtak fürdőszobájában Toulouse-ban, Franciaországban. Egy 33 éves szudáni illegális migránst találtak meztelenül és alvó állapotban a holttesténél a rendőrség érkezésekor. A szudáni hajléktalan migránst szexuális bűncselekményekkel vádolják.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos bűncselekményről szóló állítás, amely migránsokhoz kötődik, de nincs megerősítve hivatalos forrásból. Fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:59.051854+00:00"
+    },
+    "record:2118890892144615601": {
+      "hu_text": "@pancho120790 @JulianAdrat A videót 2026. november 6-án tették közzé. A Kanári-szigetekre érkező migránsok feldolgozásának jeleneteit mutatja Los Cristianos kikötőjében a jelenlegi érkezési hullám idején. Spanyol média és mentési jelentések megerősítik, hogy több hajó érkezett a kikötőbe november elején, köztük egy körülbelül 100 főt szállító hajó.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás részben megerősített, mivel több forrás is igazolja a migránsok érkezését és feldolgozását a Kanári-szigeteken. A videó és a jelentések összhangban vannak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:59.051857+00:00"
+    },
+    "record:2118893224609956002": {
+      "hu_text": "@dpkBopanna Bengaluru városiasodása túl gyorsan történt... túlzott befektetések miatt (FOMO és klaszterhatás)... a migránsok arányban érkeztek a tőkével... nem voltak helyi kannada HR-ek... valószínűtlen... csak telugu és tamil pártosak... kisvárosi tömegmentalítás működik itt... szomorú.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Vélemény és társadalmi megfigyelés egy városi migrációs folyamatról, amely nem migrációs esemény vagy jogi kérdés. Nem bizonyított tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:59.051860+00:00"
     }
   },
   "legacy_reviews": {}
