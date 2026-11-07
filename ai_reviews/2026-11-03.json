@@ -892,6 +892,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T23:11:33.994189+00:00"
+    },
+    "information:24362": {
+      "hu_text": "Képviselők, akik vitatták a visszamenőleges ILR (állandó tartózkodási engedély) változásokat. Az alábbi civil szervezetek, lordok és képviselők listája, akiknek írni kellene. Pontosan el kell magyarázni, hogyan járultunk hozzá a gazdasághoz és a társadalomhoz, hogyan érint minket az ILR frissítés. Hogyan teljesítettünk kiemelkedően a munkában, betartottuk a törvényeket. Évente 1000 fontot fizetünk az NHS-nek, tandíjunk három-négyszerese a helyi tandíjnak, adónkkal társadalmi infrastruktúrát finanszírozunk. Ellentétben az állításokkal, vízumaink nem teszik lehetővé a közpénzek igénybevételét sem. A felsorolt civil szervezetek között vannak például a Civil Society Advice UK, African Rainbow, Family After Exploitation, Anti Trafficking and Labour Exploitation Unit, Black Activists Against Rising Cuts UK, és még sokan mások.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások egyéni véleményeket és szervezeti felsorolást tartalmaznak, de nincs konkrét bizonyíték az ILR változások hatásának igazolására vagy cáfolatára. Ezért az információ ellenőrizetlennek minősül, de fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:45.763061+00:00"
     }
   },
   "legacy_reviews": {}
