@@ -760,6 +760,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T17:08:50.714469+00:00"
+    },
+    "record:2119112820340256826": {
+      "hu_text": "🚨 MOST: Egy új migránskaraván átlépett Guatemala területéről Dél-Mexikóba, így ez a második nagy csoport, amely a keddi amerikai félidős választások óta alakult. Becslések szerint 300-500 migráns lépte át a nemzetközi hidat Chiapas államban pénteken, és most észak felé tartanak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés egy aktuális migrációs eseményről szól, amely jelentős hatással lehet a régióra. Az állítás nem ellenőrzött, mivel nincs megerősített forrás vagy hivatalos adat a migránsok számáról és mozgásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:57.572234+00:00"
+    },
+    "record:mastodon_2c8206c78a7a0260c86e": {
+      "hu_text": "Ötven embert tartóztattak le Barcelonában, közülük 43 vállalkozó, akik illegális migránsok beléptetéséből szereztek hasznot.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy bűnügyi eseményről szól, de nincs hivatalos megerősítés vagy részletes bizonyíték a letartóztatásokról és az érintettek szerepéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:57.572252+00:00"
+    },
+    "telegram:1261826972:54357": {
+      "hu_text": "◼️ Az ügy Ceuta inváziójáról: védett tanúk fognak vallomást tenni a Nemzeti Bíróságon. ➡️ Santiago Pedraz bíró november 10-re tűzte ki a vallomásokat a Nemzeti Rendőrség kérésére.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ hivatalos jogi eljárásról szól, de a forrás nem közvetlenül hivatalos, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:57.572256+00:00"
+    },
+    "telegram:1261826972:54361": {
+      "hu_text": "◼ A Vox figyelmeztet, hogy Ceuta helyzete megismétlődhet \"Spanyolország bármely más pontján\". ➡️ Jorge Buxadé, a Vox európai parlamenti képviselője azt állítja, hogy a júliusi események után 100 nappal még nem történtek kitoloncolások, és az állami kiadások az illegális bevándorlók ellátására 567 millió eurót tettek ki.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások egy politikai párt részéről, amelyek nem bizonyítottak, de relevánsak a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:57.572259+00:00"
     }
   },
   "legacy_reviews": {}
