@@ -936,6 +936,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T21:15:45.425043+00:00"
+    },
+    "record:2119174622008557728": {
+      "hu_text": "🇬🇧 **NYILVÁNOS ELLENŐRZÉS | MIGRANT HELP UK — 14. RÉSZ** 🚨\n\n# SKÓCIA: 4,3 MILLIÓ FONT, HAT TÁMOGATOTT SZOLGÁLTATÁS ÉS AZ EZEKET TÁMOGATÓ CIVIL SZERVEZETI HÁLÓZAT\n\nFolytattam a Migrant Help éves pénzügyi beszámolóinak követését.\n\nEzúttal a pénz útja a skót kormányhoz, a Skót Rendőrséghez és jogi szervezetekhez vezet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés pénzügyi és szervezeti információkat tartalmaz egy migrációs segélyszervezetről, de nincs konkrét bizonyíték a pénzmozgás vagy tevékenységek valódiságára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:52.507839+00:00"
+    },
+    "record:reddit_1xqd94j": {
+      "hu_text": "Breskens közelében egy gumicsónakban 36 afgán migráns és két állítólagos szudáni embercsempész (letartóztatva) volt. A motor meghibásodott, nem volt mentőmellény. Forrás: NOS, 2026. október 31. Gumicsónakot vontak ki a tengerből, amelyen több tucat migráns utazott Breskens közelében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményt ír le, de egyetlen forrásra hivatkozik, és nincs megerősített bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:52.507857+00:00"
+    },
+    "telegram:1261826972:54370": {
+      "hu_text": "◼️ Robles hétfőn Ceutába látogat, hogy részt vegyen egy eseményen a González-Tablas laktanyában.\n\n➡️ Ez a védelmi miniszter második látogatása a városban a tömeges bevándorlás júliusi eseményei után.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy hivatalos látogatásról számol be, amely releváns a migrációs helyzet szempontjából, de nincs további bizonyíték vagy részletek, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:52.507861+00:00"
+    },
+    "telegram:1261826972:54381": {
+      "hu_text": "🚩 Letartóztattak egy migránst, akinél hasis tömböt találtak a tengeri kikötő közelében.\n\n➡️ Az illető Ceutába érkezett a tömeges bevándorlás idején, és szombat hajnalban fogták el a droggal.\n\n➡️ Állítása szerint a drogot egy másik személy adta neki, hogy várja meg, akiért át kell adnia.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét bűncselekményről számol be migráns érintettséggel, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:52.507864+00:00"
     }
   },
   "legacy_reviews": {}
