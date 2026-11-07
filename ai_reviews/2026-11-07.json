@@ -804,6 +804,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T17:08:57.572259+00:00"
+    },
+    "group:684": {
+      "hu_text": "Három nemrég érkezett migráns bement a Browns Plains-i Swanborough Temetkezési Vállalathoz, megkérték az igazgatót, hogy „kulturális okokból” hagyja el a szobát, majd állítólag megpróbáltak kivágni egy szervet egy halott férfi testéből a megtekintés alatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos és érzékeny, migrációval kapcsolatos konfliktusokat érint, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen. Fontos a további vizsgálat a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:35.828132+00:00"
+    },
+    "information:25370": {
+      "hu_text": "Egy nemzetközi diák központi londoni tanulmányairól mesél, aki pozitívan csalódott Londonban, és nem érti, miért kritizálják a britek a várost. Elmondja, hogy korábban bűnözés sújtotta helynek gondolta, de most élvezi a város sokszínűségét és pezsgő életét, és nem érti a migránsok beilleszkedésével kapcsolatos panaszokat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és tapasztalat, amely nem tartalmaz konkrét tényállítást vagy ellenőrizhető adatot, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:35.828151+00:00"
+    },
+    "information:25371": {
+      "hu_text": "Egy nemzetközi diák Londonról szóló pozitív véleményét osztja meg, aki élvezi a város sokszínűségét és pezsgő életét, és nem érti a migránsok beilleszkedésével kapcsolatos kritikákat. Részletesen leírja, hogyan változott meg a sokszínűségről alkotott képe a londoni tapasztalatok hatására.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez is személyes vélemény és élménybeszámoló, nem tényállítás, ezért ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:35.828158+00:00"
+    },
+    "information:25389": {
+      "hu_text": "A Bevándorlási Hivatal támogatja a Közlekedési Minisztérium tervét, hogy a NAIA repülőtér e-kapuit minden induló és érkező utas számára megnyissák, nem csak külföldiek és külföldön dolgozó filippínók számára. Kevesebb sor, több arcfelismerő gép a határon.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos tervről szóló információ, de nincs megerősített forrás vagy hivatalos közlemény, ezért ellenőrizetlen. Fontos a további hitelesítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:35.828162+00:00"
+    },
+    "information:25391": {
+      "hu_text": "Ha Belgium és Franciaország megállapodna az Egyesült Királysággal, hogy visszafogadják az összes csónakos migránst, az megsemmisítené az embercsempészek üzleti modelljét.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény vagy javaslat, amely nem bizonyított tény, ezért ellenőrizetlen. Fontos a kontextus és a tényleges megállapodások vizsgálata.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:35.828173+00:00"
+    },
+    "information:25395": {
+      "hu_text": "Egy felhasználó azt állítja, hogy világszerte bárhol be lehet szállni egy csónakba vagy átsétálni a határokon, és menekültnek mondani magad, hogy lakhatást, pénzt, telefonokat, sőt autókat kapj, miközben azok, akik egész életükben adóztak és gyerekeket neveltek, tiszteletet érdemelnének.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és állítás, amely migrációs rendszerek visszaéléseire utal, de nincs bizonyíték vagy hivatalos adat, ezért ellenőrizetlen. Fontos a további vizsgálat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:35.828177+00:00"
     }
   },
   "legacy_reviews": {}
