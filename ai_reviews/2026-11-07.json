@@ -375,6 +375,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T03:33:13.701886+00:00"
+    },
+    "group:676": {
+      "hu_text": "Egy venezuelai migránst letartóztattak a Fehér Ház közelében, miután azt állította, hogy hangok azt mondták neki, hogy ölje meg Trumpot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás egy egyéni esetről szól, amely nem migrációs esemény vagy politika, és nincs megerősített bizonyíték a hangok létezésére vagy a cselekmény hátterére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:54.450367+00:00"
+    },
+    "group:677": {
+      "hu_text": "Az állítás szerint az elmúlt hét napban több mint 1400 migráns érkezett az Egyesült Királyságba, ami aggodalmat kelt a kis hajós átkelések és a határkezelés folytatódása miatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás számszerű adatot közöl migrációs eseményről, de nincs megerősített forrás vagy hivatalos adat, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:54.450385+00:00"
+    },
+    "group:678": {
+      "hu_text": "Texas, mint határállam, folyamatos migránshullámmal nézett szembe, mielőtt Trump elnök 2024-ben lezárta a határt. A bűnözés állandó volt, beleértve gyilkosságot, nemi erőszakot, állatok megölését, lopást, zaklatást és kábítószer-kereskedelmet. Az állítás arra kéri az olvasót, hogy tekintse meg Texas megyéit.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs és határbiztonsági helyzetet ír le, de nem tartalmaz konkrét bizonyítékot vagy hivatalos adatot, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:54.450389+00:00"
+    },
+    "information:25252": {
+      "hu_text": "Kétsebességes Nagy-Britannia: a Belügyminisztérium megtiltotta egy holland nő belépését az országba, mert ellenzi a migránsokat szállító hajókat, miközben az illegális hajók továbbra is érkeznek. A GB News szerint Nagy-Britannia újabb migránshullámra készül.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai és társadalmi véleményt tartalmaz, valamint migrációs helyzetre utal, de nincs megerősített hivatalos adat vagy dokumentum a holland nő kitiltásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:54.450392+00:00"
+    },
+    "information:25255": {
+      "hu_text": "Feltárandó: A FRONTEX mára a kis hajós migrációs válság kulcsfontosságú elősegítőjévé vált, és több milliárd eurót kap ezért. A FRONTEX az Európai Határ- és Partvédelmi Ügynökség, amely 2004-ben alakult, és részben az volt a célja, hogy segítse a határvédelmet.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás fontos információkat tartalmaz az EU határügynökségének szerepéről és finanszírozásáról, ami migrációs politika és határbiztonság szempontjából releváns, de nincs hivatalos megerősítés a pénzügyi részletekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:54.450396+00:00"
+    },
+    "information:25264": {
+      "hu_text": "Az illegális bevándorlás politikája: Ausztrália állítólag tavaly egyetlen migráns fulladásos halálesetet sem regisztrált, mivel szigorúan megakadályozza az engedély nélküli hajós érkezéseket. Ennek eredményeként kevesebb kísérlet és állítólag nincs tengeri haláleset.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás Ausztrália migrációs politikájáról és eredményeiről szól, ami fontos lehet a migrációs politika elemzésében, de nincs hivatalos adat vagy forrás a halálesetek hiányáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:52:54.450398+00:00"
     }
   },
   "legacy_reviews": {}
