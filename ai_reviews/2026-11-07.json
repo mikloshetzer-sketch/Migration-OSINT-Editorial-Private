@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-06T23:56:19.749152+00:00"
+    },
+    "group:673": {
+      "hu_text": "A spanyol hatóságok megmentettek egy migránscsoportot, miután hajójuk elérte az El Hierro szigetet a Kanári-szigeteken. Az érkezés a migrációs átkelések növekedése közepette történt a spanyol szigetcsoporthoz, amely továbbra is fokozott forgalommal néz szembe az Atlanti-óceáni útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le migránsok mentéséről és érkezéséről, ami fontos migrációs esemény. Az állítás nincs megerősítve, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:48.446348+00:00"
+    },
+    "group:674": {
+      "hu_text": "Aisha Wahab váltotta Eric Swalwellt az Egyesült Államok Kongresszusában. Wahab iszlamista, családja menekültként érkezett Afganisztánból az USA-ba. Wahabot szélsőbaloldali szélsőségesként jellemzik, aki politikai karrierjét Eric Swalwell-lel és egy csoporttal építette fel.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés politikai véleményt és személyes jellemzést tartalmaz, de nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához. Az állítások nem ellenőrzöttek.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:48.446366+00:00"
+    },
+    "group:675": {
+      "hu_text": "Bengaluru városiasodása túl gyorsan történt a túlzott befektetések miatt (FOMO és klaszterhatás). A migránsok aránya megegyezett a tőkéével. Nem voltak helyi kannada munkaerők, inkább csak telugu és tamil pártosok voltak jelen. Kisvárosi csoportmentalitás érvényesül, ami szomorú.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés városi fejlődésről és migránsok arányáról szól, de nem migrációs esemény vagy politika szempontjából releváns, inkább vélemény és helyi társadalmi megfigyelés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:48.446369+00:00"
+    },
+    "information:25176": {
+      "hu_text": "FRISS HÍR: Trump Stephen Millert nevezte ki főnökének, miközben a republikánusok lázadnak az adminisztrációja ellen. Három nappal a kongresszusi vereség után Trump leváltotta főnökét, és Miller kapta meg a pozíciót. Miller korábban nyomást gyakorolt a nonprofit szervezetek terrorista kapcsolataival kapcsolatos intézkedések fokozására. Több igazságügyi tisztviselő is lemondott, köztük a Trump politikai ellenfeleit vizsgáló ügyész.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai és adminisztratív változásokat ismertet, amelyek közvetve érinthetik a migrációs politikát, de nincs közvetlen migrációs esemény vagy intézkedés leírása. Az állítás nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:48.446372+00:00"
+    },
+    "information:25192": {
+      "hu_text": "Kritika az amerikai kormány migrációs politikájával kapcsolatban: az első naptól lezárták a határt, jelentősen csökkentették a diákvízumokat, csökkentették a menekültkvótát, bővítették az ICE-t, és több mint 1,4 millió embert deportáltak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs politikai intézkedéseket sorol fel, amelyek fontosak a migrációs helyzet megértéséhez, de az állítások nincsenek megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:48.446374+00:00"
+    },
+    "information:25198": {
+      "hu_text": "Ha valaki Líbiából érkezik hajóval, és menekültként jelentkezik Togóból vagy Elefántcsontpartról, megtanul néhány olasz kifejezést, akkor könnyen kaphat olasz útlevelet. Szíriai és afganisztáni menekültek számára viszont német útlevél elérhetőbb.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs mozgásra és útlevelek megszerzésére vonatkozó véleményt tartalmaz, amely nem bizonyított tény, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:48.446377+00:00"
     }
   },
   "legacy_reviews": {}
