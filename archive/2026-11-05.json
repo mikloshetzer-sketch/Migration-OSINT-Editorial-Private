@@ -2515,9 +2515,48 @@
       "first_collected_at": "2026-11-05T23:01:25Z",
       "last_collected_at": "2026-11-05T23:01:25Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25204",
+      "timestamp": "2026-11-05T05:23:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xoaj5a",
+      "author": "sycamoretreeeeee",
+      "url": "https://www.reddit.com/r/Living_in_Korea/comments/1xoaj5a/opinion_to_abolish_the_office_of_immigration_in/",
+      "source_url": "https://www.reddit.com/r/Living_in_Korea/comments/1xoaj5a/opinion_to_abolish_the_office_of_immigration_in/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "Opinion to abolish the office of immigration in Gyeonggi-do\nHello. I am Korean and asked a friend to sign a petition opposing the decision to abolish the Gyeonggi Provincial Office of Immigration and Social Affairs due to the province's financial difficulties. In 2024, a devastating fire broke out at a lithium battery manufacturing plant called Aricell in Hwaseong, Gyeonggi-do. The only emergency exit was designed in such a way that it could only be unlocked with authentication from a permanent employee. As a result, many temporary Korean workers and migrant day laborers lost their lives. Following this tragedy, the Office of Immigration and Social Affairs was established. Gyeonggi-do is home to and employs one-third of all migrant workers in South Korea, and the office has played a leading role in protecting their rights and improving their working conditions. Now, however, the provincial government has announced plans to abolish the office and merge its functions into the Ministry of Gender Equality and Family, citing financial difficulties. I expected my friend to sign the petition without hesitation. Instead, my friend asked whether, in times of financial hardship, shouldn't a country prioritize its own citizens? She said that while the loss of life was tragic, these workers had come to a foreign country knowing that they would not receive the same treatment as they would in their home countries. They knew life would be difficult and working conditions would be harsh, but they came in search of better earnings. Rather than focusing on the deaths of foreign workers, my friend argued, we should focus on the companies that failed to prevent the accident for the future. My friend also mentioned that her niece or nephew had been unable to get into kindergarten because children from multicultural families were being given priority over others. My friend had previously worked in Mexico for over a year. She said that the Mexican government had never offered her any special treatment or protection as a foreign worker, and that she agreed with this approach. She had contributed nothing to Mexican society, she said, so it was only fair that neither side owed the other anything. I didn't want to argue with my friend, so I chose not to challenge her comments any further. But I was deeply shaken. It felt as though we were all aboard a small boat adrift in the vast open sea. The boat was sinking, and we were trying to decide whom to throw overboard first: the captain and his family, people with disabilities, the elderly, foreigners, or even the dog. I believe that as long as people are living in South Korea, regardless of whether they are citizens or foreigners, the Korean government has a responsibility to treat everyone equally, guided by the principles of the Universal Declaration of Human Rights, rather than allowing national interests to take precedence over basic human dignity. Isn't that what it truly means to be an advanced and developed country? A country that refuses to discriminate against anyone, regardless of the circumstances or justifications offered. I wonder if my friend finds it so easy to view migrant workers as outsiders simply because she doesn't personally know anyone who is struggling to make a living as a migrant worker in South Korea. I don't believe anyone would willingly put their life on the line just to earn a living. I would genuinely like to hear from those of you here: What has your experience been like living and working in South Korea as a foreigner?",
+      "text_excerpt": "Opinion to abolish the office of immigration in Gyeonggi-do\nHello. I am Korean and asked a friend to sign a petition opposing the decision to abolish the Gyeonggi Provincial Office of Immigration and Social Affairs due to the province's financial difficulties. In 2024, a devastating fire broke out at a lithium battery manufacturing plant called Aricell in Hwaseong, Gyeonggi-do. The only emergency exit was designed in…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-07T03:30:41Z",
+      "last_collected_at": "2026-11-07T03:30:41Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-05T23:11:14.606931+00:00",
+  "last_archived_at": "2026-11-07T03:32:18.539466+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
