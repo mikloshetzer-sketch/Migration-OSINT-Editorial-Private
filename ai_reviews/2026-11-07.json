@@ -507,6 +507,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T10:53:03.730038+00:00"
+    },
+    "record:2119015562181239160": {
+      "hu_text": "Több mint 3000 migráns érkezett a Kanári-szigetekre néhány nap alatt, ami miatt a helyi hatóságok riasztást adtak ki. A helyzet különösen nehéz El Hierro szigetén.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés migrációs eseményről szól, amely jelentős hatással lehet a helyi hatóságokra és a migrációs helyzetre. Az állítás nem ellenőrzött, mivel nincs megerősített forrás vagy hivatalos adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:11.531463+00:00"
+    },
+    "record:2119018281373671542": {
+      "hu_text": "Számos európai állam, köztük Hollandia is azt állítja, hogy az Emberi Jogok Európai Egyezményének 3. és 8. cikkének értelmezései korlátozzák a kitoloncolásokat és a menekültügyi ellenőrzést, ami magas költségeket és beáramlást eredményez. A kilépés jogilag lehetséges, de a Menekültügyi Egyezményt és az EU-s szabályokat érintetlenül hagyja, diplomáciai költségekkel jár.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás jogi és politikai véleményt tartalmaz az európai menekültügyi szabályozásról, de nincs konkrét bizonyíték vagy hivatalos dokumentum a megerősítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:11.531480+00:00"
+    },
+    "record:mastodon_4ac7a495071c099f5870": {
+      "hu_text": "Egy venezuelai migránst letartóztattak a Fehér Ház közelében, miután azt állította, hogy hangok arra utasították, hogy ölje meg Trumpot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy egyéni esetet ír le, amely nem közvetlenül migrációs esemény vagy politika, hanem inkább társadalmi diskurzus része. Az információ nem ellenőrzött, forrása nem teljesen megbízható.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:11.531485+00:00"
+    },
+    "record:reddit_1xpy3ty": {
+      "hu_text": "Egy nagy keresztrejtvény posztja Redditen, amely nem kapcsolódik a migrációhoz vagy jogi kérdésekhez.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik a migrációhoz vagy az ahhoz kapcsolódó témákhoz, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:11.531488+00:00"
+    },
+    "telegram:1261826972:54348": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról: 1. A marokkói határ rendőri vezetői szerepét vizsgálják a ceutai invázió idején, ahol a főnök inkább békítőként, mint tömegmozgatóként jelent meg. 2. Egy migráns, aki mimusként vált ismertté Ceutában, börtönbe került, miután más migránsokkal együtt engedély nélkül lépett be egy ingatlanba, és elmenekült, de ismertsége miatt könnyen azonosították. 3. A TSJA részben megsemmisítette egy apára kiszabott szexuális bűncselekmények miatti ítéletet, csak a rendszeres bántalmazás vádját hagyta meg, miközben eredetileg akár 40 év börtönt is kértek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hírek a Ceutai határhelyzethez és jogi ügyekhez kapcsolódnak, amelyek fontosak a migrációs és határbiztonsági helyzet megértéséhez. Az információk forrása ismert, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:11.531491+00:00"
     }
   },
   "legacy_reviews": {}
