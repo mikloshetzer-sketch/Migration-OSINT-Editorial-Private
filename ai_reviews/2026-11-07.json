@@ -320,6 +320,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T03:32:59.051860+00:00"
+    },
+    "record:2118899814972989472": {
+      "hu_text": "Aisha Wahab az Egyesült Államok Kongresszusában Eric Swalwell helyére lépett. Aisha Wahab egy iszlamista, akinek családja menekültként érkezett Afganisztánból az Egyesült Államokba. Wahab egy szélsőbaloldali politikus, aki politikai karrierjét Eric Swalwell-lel és egy csoporttal való együttműködésre építette.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás politikai véleményeket és személyes jelzőket tartalmaz, de nincs bizonyíték a valóságtartalmára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:33:07.225831+00:00"
+    },
+    "record:2118902991000592883": {
+      "hu_text": "Határ alá kerül: A radikális baloldal győzelme tömeges migránskaraván indulását váltja ki.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és előrejelzést tartalmaz migrációs eseményekről, de nincs megerősített adat a karavánról, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:33:07.225847+00:00"
+    },
+    "record:reddit_1xpvysr": {
+      "hu_text": "A spanyol hatóságok megmentettek egy migránscsoportot, miután hajójuk elérte a Kanári-szigetekhez tartozó El Hierro szigetet. Az érkezés a migrációs áramlás növekedése közepette történt, amely továbbra is fokozódik az Atlanti-óceáni útvonalon.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Mentési műveletről és migrációs helyzetről szól, de a forrás egy Reddit bejegyzés, nincs hivatalos megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:33:07.225853+00:00"
+    },
+    "record:2118906249257320624": {
+      "hu_text": "Pénteken több mint 1000 migráns érkezett Spanyolország Kanári-szigeteire, miközben a tengeri mentőalakulatok továbbra is reagáltak a hajókra az Atlanti-óceáni útvonalon. Egy késő délutáni összesítés szerint tíz hajón összesen 1066 érkezőt számoltak, ebből 1003-an El Hierro szigetére érkeztek. La Restingánál...",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számadatokat közöl a Kanári-szigetekre érkező migránsokról, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlennek minősül. Fontos migrációs eseményről szól, így magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:33:13.701870+00:00"
+    },
+    "record:reddit_1xplgh9": {
+      "hu_text": "🇪🇸 Nagy hullám illegális szubszaharai hajós migránsokból a Kanári-szigeteken. Tegnap több mint 1400 illegális migráns érkezett 12 hajón. Az elmúlt 5 napban több mint 3400-an érkeztek. Ma is több százan érkeztek. A helyiek tiltakoztak El Hierro kikötőjében a sok illegális migráns érkezése miatt. A legtöbb hajót az afrikai partok közelében fedezik fel, majd a spanyol hatóságok több száz kilométeren át vontatják őket a Kanári-szigetekre „megmentés” céljából.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számokat és helyi tiltakozásról szóló információkat tartalmaz, de egy Reddit poszt, amely nem hivatalos forrás, ezért ellenőrizetlen. Fontos migrációs eseményről és társadalmi reakcióról számol be, így magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:33:13.701886+00:00"
     }
   },
   "legacy_reviews": {}
