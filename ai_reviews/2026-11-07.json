@@ -562,6 +562,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T10:53:11.531491+00:00"
+    },
+    "group:679": {
+      "hu_text": "Ötven embert tartóztattak le Barcelonában, közülük 43 vállalkozó, akik szabálytalan migránsbelépésből szereztek hasznot.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét letartóztatásokról számol be, de nincs megerősített forrás vagy további bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:27.235084+00:00"
+    },
+    "group:680": {
+      "hu_text": "Legalább 7 migráns meghalt egy 139 fős csónakon a Kanári-szigetek felé. A spanyol tengeri mentők 132 embert mentettek meg Lanzarotétól mintegy 150 km-re; a túlélők szerint 5 holttest a vízbe esett. Szombat óta 510 ember érkezett a szigetekre 8 hajón.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos emberi veszteségekről és migrációs eseményről számol be, de nincs hivatalos megerősítés vagy részletes forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:27.235103+00:00"
+    },
+    "group:681": {
+      "hu_text": "Hogyan tudod, hogy hajókon érkeztek? Tudod, hogy a migránsok hány százaléka érkezik hajóval?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés és vélemény a migrációs útvonalakról, nem tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:27.235108+00:00"
+    },
+    "group:682": {
+      "hu_text": "Egy durva sértés egy migrációs tragédiával kapcsolatban, amelyben valakit arra kérnek, hogy ne használja ki a helyzetet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és érzelmi reakció, nem tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:27.235110+00:00"
+    },
+    "group:683": {
+      "hu_text": "A szomáliai menekültek az 1990-es évek elején érkeztek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi megjegyzés, de nincs forrás vagy bizonyíték a pontos időpontra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:27.235113+00:00"
+    },
+    "information:25322": {
+      "hu_text": "Bangladesi katona meghalt egy tűzpárbajban embercsempészekkel az Arakan határánál; 57 túszt szabadítottak ki.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos biztonsági és humanitárius eseményről számol be, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T17:08:27.235115+00:00"
     }
   },
   "legacy_reviews": {}
