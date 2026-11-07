@@ -584,6 +584,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-05T23:11:53.546061+00:00"
+    },
+    "information:25204": {
+      "hu_text": "Vélemény a Gyeonggi tartományi Bevándorlási Hivatal megszüntetéséről\nEgy koreai személy barátját kérte meg, hogy írja alá azt a petíciót, amely ellenzi a Gyeonggi tartományi Bevándorlási és Szociális Ügyek Hivatalának megszüntetését, amit a tartomány pénzügyi nehézségeire hivatkozva terveznek. 2024-ben egy lítium akkumulátorgyárban, az Aricellben, Hwaseongban, Gyeonggi tartományban pusztító tűz tört ki, ahol az egyetlen vészkijárat csak állandó alkalmazott hitelesítésével volt nyitható, ami miatt sok ideiglenes koreai munkás és migráns napi munkás életét vesztette. E tragédia után hozták létre a Bevándorlási és Szociális Ügyek Hivatalát, amely a dél-koreai migráns munkások egyharmadát foglalkoztató Gyeonggi tartományban a jogok védelmében és a munkakörülmények javításában vezető szerepet töltött be. Most azonban a tartományi kormány bejelentette a hivatal megszüntetését és funkcióinak a Nemek Közötti Egyenlőség és Családügyi Minisztériumba való integrálását pénzügyi nehézségekre hivatkozva. A beszélő barátja azonban azt kérdezte, hogy pénzügyi nehézségek idején nem kellene-e az országnak saját állampolgáraira helyezni a hangsúlyt, és hogy a munkások tudták, hogy idegen országban nem kapják meg ugyanazokat a feltételeket, mint hazájukban, és nehéz körülmények között vállalták a munkát jobb kereset reményében.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy személyes véleményt és társadalmi vitát tartalmaz egy közigazgatási döntésről, amely migránsok jogait érinti. Az állítások nem ellenőrzöttek, és nem tartalmaznak konkrét bizonyítékot, ezért UNVERIFIED státusz indokolt. A téma közepes prioritású, mert migrációs politikát és társadalmi megítélést érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T03:32:39.022119+00:00"
     }
   },
   "legacy_reviews": {}
