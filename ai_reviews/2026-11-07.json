@@ -441,6 +441,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T10:52:54.450398+00:00"
+    },
+    "information:25269": {
+      "hu_text": "Friss hír | A Gáza polgári védelme szerint egy lakóépület részben összeomlott a Nuseirat menekülttáborban, Gáza központjában, miközben a mentőalakulatok evakuálták a lakókat.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről számol be, de nincs megerősített forrás vagy bizonyíték az állítás hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:03.730008+00:00"
+    },
+    "information:25290": {
+      "hu_text": "A bejegyzés aggodalmát fejezi ki az Egyesült Királyságba érkező migránsok folyamatos érkezése miatt, állítva, hogy az elmúlt hét napban több mint 1400 ember érkezett. Kérdőjelezi meg a kormány határbiztonsági és bevándorlási ellenőrzési stratégiáját.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés véleményt és állítást tartalmaz migrációs adatokról, de nincs hitelesített adat vagy hivatalos forrás a számok megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:03.730025+00:00"
+    },
+    "record:1261826972:54348": {
+      "hu_text": "Három hír a elfarodeceuta.es oldalról szombat reggel: 1. Videóval együtt: Marokkói határőri vezetők a célkeresztben, mit csináltak a ceutai invázió alatt? A marokkói média és újságírók szerint a rendőrfőnök Mohamed El Oualidi inkább béketeremtő volt, mint a tömegek ösztönzője. A rendőrség tovább elemzi a videókat, és jelentésében őt teszi felelőssé a 2023. július 30-i biztonsági kudarcért. 2. A ceutai mimiként ismertté vált bevándorló börtönbe került, mert másokkal együtt engedély nélkül lépett be egy ingatlanra, bár nem lopott. Elfutott, de ismertsége miatt könnyen azonosították. Most börtönben várja a tárgyalást, menedékjogát elutasították. 3. A TSJA részben megsemmisítette egy apa ellen szexuális bűncselekmények miatt hozott ítéletet, csak a rendszeres bántalmazás vádját tartotta meg. Az eljárás kezdetén akár 40 év börtönt is kértek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Több, migrációval és határbiztonsággal kapcsolatos hírt tartalmaz, de a forrás nem hivatalos, és az állítások nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:03.730029+00:00"
+    },
+    "record:2118996016217071921": {
+      "hu_text": "Sok illegális migránsnak mostanában vezetői engedélyt adnak ki. Hijábot viselve, ki tudja, ki lehet a potenciális sofőr!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állításokat tartalmaz migránsok vezetői engedélyeiről, de nincs bizonyíték, és a megfogalmazás sztereotip vagy előítéletes lehet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:03.730032+00:00"
+    },
+    "record:2119000075896824292": {
+      "hu_text": "Texas határállam, amely folyamatos migránshullámmal nézett szembe, mielőtt Trump elnök 2024-ben lezárta a határt. A bűnözés állandó volt, beleértve gyilkosságot, nemi erőszakot, állatkínzást, lopást, zaklatást és kábítószer-kereskedelmet. Most nézze meg Texas minden megyéjét.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés határbiztonsági és bűnözési helyzetet ír le, de nem tartalmaz ellenőrzött adatokat vagy hivatalos forrásokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:03.730035+00:00"
+    },
+    "record:2119007026101768379": {
+      "hu_text": "A bejegyzés szerint az elmúlt hét napban több mint 1400 migráns érkezett az Egyesült Királyságba, ami aggodalmat kelt a kis hajókkal történő átkelések és a határkezelés miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migrációs adatokat közöl, de nincs hivatalos vagy megerősített forrás a számok alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T10:53:03.730038+00:00"
     }
   },
   "legacy_reviews": {}
