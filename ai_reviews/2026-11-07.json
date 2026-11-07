@@ -870,6 +870,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-07T21:15:35.828177+00:00"
+    },
+    "information:25401": {
+      "hu_text": "# Csónakázás # CsónakÉlet # Tengeri # Hajózási # Víziút # Navigáció # NavigációsJel # BelsőVízutak # FolyóÉlet # CsatornaÉlet # VíziForgalom # Tengerészeti # Hajózás # Vitorlázás # Csónak # Hajó # Jármű # Kikötő # KikötőÉlet # Marina # SzabadtériFotózás # Minimalizmus # Jelzések # KékÉg # Perspektíva # UtazásiFotózás # ANapKépe # fotó # fényképezés",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés kizárólag általános, migrációval nem kapcsolatos hashtag-eket tartalmaz, nincs releváns információ migrációs eseményről vagy témáról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:45.425013+00:00"
+    },
+    "information:25407": {
+      "hu_text": "@MarioBojic Ez furcsán történt nem sokkal azután, hogy rengeteg német jármű is belépett Lengyelországba. Remélem, nem csempésznek migránsokat a határon át.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy feltételezést tartalmaz migránsok csempészéséről, de nincs bizonyíték, ezért ellenőrizetlen marad. Fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:45.425029+00:00"
+    },
+    "information:25408": {
+      "hu_text": "@Ujjijjv @Gandalfluenza Nincs bizonyíték arra, hogy iráni alagutak érnének el Európába. Irán saját területén kiterjedt föld alatti rakéta- és parancsnoki létesítményekkel rendelkezik. Rövid migránscsempész alagutakat találtak a fehérorosz-uniós határon, amelyekben esetleg regionális szakértők is részt vehetnek, de semmi más.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés cáfolja az iráni alagutak Európába vezetésének állítását, és részben igazolt információkat tartalmaz a fehérorosz határon talált alagutakról. Fontos a téves információk korrigálása miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:45.425033+00:00"
+    },
+    "information:25411": {
+      "hu_text": "@LeesLemmas @HJB_News__ Helyi csempész hálózatok (\"mafias\" vagy passeurs) Szenegálban, Gambíában és Marokkóban főként a határátlépéseket szervezik. Migránsokat toboroznak, túlzsúfolt csónakokat vagy felfújhatókat, motorokat és üzemanyagot biztosítanak. A migránsok vagy családjaik díjat fizetnek (gyakran több száztól néhány ezerig).",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránscsempész hálózatok működéséről szól, ami fontos információ a migrációs folyamatok megértéséhez, de nincs megerősített bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:45.425036+00:00"
+    },
+    "record:2119172856047399297": {
+      "hu_text": "@0K1EEE @GaryTheAlien44 @Addax__ @countdown2march @AzPetrich Szerinted ez azt jelenti, hogy minden kitoloncolás illegális? Te tényleg hülye vagy? 🤣🤣 Persze, mindenki, aki illegálisan lépte át a határt, menekült, és ha elutasítják a menekültkérelmét... Uhhhh, akkor is illegális kitoloncolni őket? 🤣",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt tartalmaz a kitoloncolások jogszerűségéről, de nem tartalmaz bizonyítékot vagy hivatalos állítást, ezért ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:45.425040+00:00"
+    },
+    "record:2119174232596947080": {
+      "hu_text": "Három nemrég érkezett migráns bement a Swanborough Temetkezési Vállalathoz Browns Plains-ben, megkérték az igazgatót, hogy \"kulturális okokból\" hagyja el a szobát, majd állítólag megpróbáltak kivágni egy szervet egy halott férfi testéből a megemlékezés alatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állítást tartalmaz migránsokkal kapcsolatban, de nincs megerősített bizonyíték, ezért ellenőrizetlen. Fontos a társadalmi diskurzus és a potenciális félretájékoztatás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-07T21:15:45.425043+00:00"
     }
   },
   "legacy_reviews": {}
