@@ -3251,6 +3251,78 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1368,
+      "source": "X",
+      "source_post_id": "2119108743543537956",
+      "author": "EmmeSummerlin",
+      "language": "en",
+      "published_at": "2026-11-07T16:44:30Z",
+      "first_detected_at": "2026-11-07T17:07:53Z",
+      "last_detected_at": "2026-11-07T17:07:53Z",
+      "detection_count": 1,
+      "text": "@nadya9252 @acesof @visegrad24 In just over 24 hours, nearly 2,000 illegal immigrants have arrived on El Hierro. Just today, the figure is already around 900, and according to Civil Guard sources, at least two more migrant boats have been spotted heading for the Canary Islands.  https://t.co/MCFjPRjvL4",
+      "text_excerpt": "@nadya9252 @acesof @visegrad24 In just over 24 hours, nearly 2,000 illegal immigrants have arrived on El Hierro. Just today, the figure is already around 900, and according to Civil Guard sources, at least two more migrant boats have been spotted heading for the Canary Islands.  https://t.co/MCFjPRjvL4",
+      "url": "https://x.com/EmmeSummerlin/status/2119108743543537956",
+      "source_url": "https://x.com/EmmeSummerlin/status/2119108743543537956",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant boats have been spotted heading"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant",
+        "immigrants"
+      ],
+      "high_value_matches": [
+        "migrant boats have been spotted heading"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2119108743543537956"
+      ],
+      "related_authors": [
+        "EmmeSummerlin"
+      ],
+      "related_urls": [
+        "https://x.com/EmmeSummerlin/status/2119108743543537956"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -4530,7 +4602,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-08T08:17:22.060027+00:00",
+  "last_archived_at": "2026-11-08T16:28:58.899884+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
