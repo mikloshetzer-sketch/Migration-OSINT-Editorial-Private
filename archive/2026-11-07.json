@@ -4489,9 +4489,48 @@
       "first_collected_at": "2026-11-07T21:11:37Z",
       "last_collected_at": "2026-11-07T21:11:37Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25542",
+      "timestamp": "2026-11-07T20:43:06Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xqgeyp",
+      "author": "Significant-Ad5882",
+      "url": "https://www.reddit.com/r/u_Significant-Ad5882/comments/1xqgeyp/title_on_the_beach_holiday_booked_with_flights/",
+      "source_url": "https://www.reddit.com/r/u_Significant-Ad5882/comments/1xqgeyp/title_on_the_beach_holiday_booked_with_flights/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "Title: On the Beach holiday booked with flights connecting through Canada – wasn’t made aware of eTA requirement until check-in. Now being told I may have to buy completely new flights. What are my rights? (UK)\nHi everyone, I’m looking for some advice because I’m in a really stressful situation and I’m not sure where I stand legally or what my options are. I booked a package holiday through On the Beach for 3 adults to Punta Cana, Dominican Republic, departing on 13 November and returning on 20 November 2026. The holiday cost £4,012 in total, which has already been paid in full. It includes flights with Air Canada, seven nights at an all-inclusive hotel (Melia Caribe Beach Resort) and airport transfers. The flight itinerary is: Outbound: Heathrow → Toronto → Punta Cana. Return: Punta Cana → Montreal → Heathrow. When I booked the holiday, I wasn’t aware that I needed a Canadian eTA (electronic travel authorisation) even though I would only be transiting through Canada and not actually visiting the country. I don’t recall seeing any warning about this during the booking process. The first time I became aware of the requirement was when I attempted to enter my passport details through the On the Beach website’s check-in process. It redirected me to Air Canada, which then informed me that I needed an eTA. I subsequently applied for the Canadian eTA, but my application has been referred for further review. Immigration, Refugees and Citizenship Canada (IRCC) has requested an ACRO Police Certificate because of a previous situation involving Moroccan authorities. I’ve applied for the certificate, but I cannot guarantee it will arrive or that IRCC will make a decision before my departure date. I’ve contacted On the Beach, explained the situation and asked them to help me find alternative flights that don’t involve travelling through Canada. However, I’m being told that purchasing completely new flight tickets may be my only option. This is where I’m struggling. I’ve already paid £4,012 for the holiday, and I don’t have travel insurance. I don’t want to spend potentially hundreds or thousands more on flights without knowing whether: My existing hotel booking will remain confirmed. My airport transfers will still be valid. My original return flights will be cancelled if I don’t use the outbound flight. I can receive any refund or contribution towards the cost of replacement flights. I’ve also read through On the Beach’s Holiday Handbook. Under its Passenger Requirements section, it says customers are responsible for checking passport, visa and immigration requirements for their individual circumstances. However, I only received the Holiday Handbook after booking and paying. I also wasn’t specifically warned that Canadian eTA authorisation was required for transit through Toronto and Montreal. I understand that passengers have responsibilities when travelling, but I’m questioning whether it was reasonable for this requirement not to have been clearly highlighted before I purchased a package with flights connecting through Canada. My questions are: Does On the Beach have any legal responsibility to make customers aware of Canadian transit eTA requirements when selling flights that connect through Canada? Does the fact that I only discovered the requirement during the check-in process, after paying, give me reasonable grounds to complain? Can On the Beach rely on its general disclaimer saying passengers are responsible for checking immigration requirements, particularly if the handbook was only supplied after booking? If I have to purchase replacement flights independently, can I insist that On the Beach confirms my hotel, transfers and return flights will remain intact? Is there any way to recover the additional cost of replacement flights if I can demonstrate that the transit requirement wasn’t clearly disclosed before booking? I’m not trying to avoid my own responsibilities, and I appreciate that immigration requirements are ultimately important for passengers to check. I’m just trying to understand whether the travel agent also had a responsibility to make this requirement clear before taking payment. I’m particularly worried because departure is only days away, and I really don’t want to lose the £4,012 I’ve already paid. Any advice from people familiar with UK package holiday regulations, travel agents or similar situations would be greatly appreciated. submitted by /u/Significant-Ad5882 to u/Significant-Ad5882",
+      "text_excerpt": "Title: On the Beach holiday booked with flights connecting through Canada – wasn’t made aware of eTA requirement until check-in. Now being told I may have to buy completely new flights. What are my rights? (UK)\nHi everyone, I’m looking for some advice because I’m in a really stressful situation and I’m not sure where I stand legally or what my options are. I booked a package holiday through On the Beach for 3 adults…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T08:17:13Z",
+      "last_collected_at": "2026-11-08T08:17:13Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-07T21:15:22.160221+00:00",
+  "last_archived_at": "2026-11-08T08:17:22.060027+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
