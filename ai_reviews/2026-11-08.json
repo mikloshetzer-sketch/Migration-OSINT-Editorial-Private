@@ -364,6 +364,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T08:18:07.885629+00:00"
+    },
+    "group:690": {
+      "hu_text": "Az Olugbo fiók szerint az Ugbo (Ilaje) voltak a pre-Oduduwa Ile-Ife (akkor Ugbomokun) őslakos telepesei. Oranfe és Osangangan Obamakin voltak az első uralkodók. Oduduwa később érkezett keleti migránsként, befogadták, majd konfliktus következett; az Ugbo később a partvidékre költözött.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi eredetű állítás, amely nem migrációs esemény vagy aktuális migrációs szándék, és nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:25.181690+00:00"
+    },
+    "information:25555": {
+      "hu_text": "Aggódom a nemzetbiztonság hiánya miatt. Egy két nappal ezelőtti dühös írásomat osztom meg, amelyben a jelenlegi kormány migránsregisztrációs keretrendszerét politikai álszentségnek tartom, és rámutatok, hogy a kormány nem alkalmaz kemény határbiztonsági intézkedéseket, miközben sok illegális bevándorlónak adminisztratív amnesztiát és munkavállalási engedélyt ad.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika a migrációs politikáról, nem tényállítás, nincs bizonyíték a valóságtartalomra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:25.181710+00:00"
+    },
+    "information:25561": {
+      "hu_text": "Legalább 21 halott egy migráns hajó felborulása miatt Szenegál partjainál, jelentik a hatóságok. Az ENSZ Nemzetközi Migrációs Szervezete (IOM) szerint az Atlanti-óceáni útvonal kulcsfontosságú útvonal a nyugat-afrikai migránsok számára Európa felé.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hír egy konkrét migrációs tragédiáról, amelyet hivatalos szervezetek is megerősítettek, de további részletek hiányoznak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:25.181714+00:00"
+    },
+    "information:25580": {
+      "hu_text": "Mi van, ha a választás valójában csapda volt? Az elmélet szerint a szövetségi szervek szuperintelligenciával azonosíthatják az illegális szavazókat, és így tömeges kitoloncolásokat hajthatnak végre a migránsok ellen, akik beavatkoztak a választásokba. Ez egy politikai összeesküvés-elmélet a választási csalás és a migráció összefüggéséről.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Összetett összeesküvés-elmélet, nincs bizonyíték a valóságtartalmára, politikai véleménynek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:25.181718+00:00"
+    },
+    "information:25581": {
+      "hu_text": "Akár 500 migráns lépett be Mexikóba, akik az Egyesült Államok határa felé tartanak a demokrata győzelmek után.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás egy migrációs mozgásról, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:25.181720+00:00"
+    },
+    "information:25582": {
+      "hu_text": "Akár 500 migráns lépett be Mexikóba, akik az Egyesült Államok határa felé tartanak a demokrata győzelmek után.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ismétlődő állítás migrációs mozgásról, megerősítés nélkül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:25.181723+00:00"
     }
   },
   "legacy_reviews": {}
