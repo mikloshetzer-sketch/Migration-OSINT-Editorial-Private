@@ -705,6 +705,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T21:31:22.645375+00:00"
+    },
+    "information:25683": {
+      "hu_text": "Az összefoglaló egy játékbeli forgatókönyvet ír le, amelyben a főszereplő politikai és gazdasági döntéseket hoz, például a tervezett gazdaság támogatását és a migráció kezdeti lazítását, későbbi szigorítását. A szöveg nem tartalmaz migrációs eseményekkel kapcsolatos valós információkat.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy játékbeli forgatókönyv, nem valós migrációs esemény vagy információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:30.468521+00:00"
+    },
+    "information:25684": {
+      "hu_text": "A szöveg egy háborús vagy fantázia környezetben zajló katonai helyzetet ír le, ahol fegyverek és ellátmány hiánya, valamint harci utasítások szerepelnek. Nem tartalmaz migrációval kapcsolatos információkat.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem migrációs témájú, hanem katonai/fantasztikus helyzetet ír le.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:30.468536+00:00"
+    },
+    "information:25685": {
+      "hu_text": "A szöveg Max Brooks 'World War Z' című könyvének összefoglalója és elemzése, amely egy kitalált zombiapokalipszis történetét meséli el. Nem tartalmaz valós migrációs eseményeket vagy adatokat.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy fikciós könyv ismertetője, nem valós migrációs információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:30.468539+00:00"
+    },
+    "record:2119525857446506908": {
+      "hu_text": "„Kivéve őket. Az invázió miatt meghaltak, és 300 000 migráns gyereket veszítettek el emberkereskedelem miatt.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberkereskedelmi vádakat tartalmaz, de nincs megerősített forrás vagy bizonyíték a számokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:30.468542+00:00"
+    },
+    "record:2119527241914691663": {
+      "hu_text": "„Nincs pontos napi adat az eladott rabszolgákról. A Walk Free Global Slavery Index 2021-ben Líbiában 47 000 modernkori rabszolga jelenlétét becsülte (6,8 fő 1000 lakosra). Az ENSZ és az USA külügyminisztériumának jelentései folyamatos emberkereskedelemről számolnak be: migránsokat vásárolnak és adnak el hálózatok kényszermunka céljából.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A becslések és jelentések léteznek, de a pontos napi adatok hiányoznak, így részben ellenőrzött az állítás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:30.468544+00:00"
+    },
+    "record:2119536519329272133": {
+      "hu_text": "Legalább 21 ember meghalt, miután egy migránsokat szállító hajó felborult Szenegál partjainál, egy túlélőt kimentettek, és a keresési művelet folyamatban van. A Szenegáli Belügyminisztérium közölte az adatokat, a hajó célállomásáról nem közöltek további részleteket.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálesetekről és mentési műveletről szóló jelentés fontos migrációs esemény, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:30.468547+00:00"
     }
   },
   "legacy_reviews": {}
