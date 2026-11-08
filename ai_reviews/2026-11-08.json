@@ -771,6 +771,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T21:31:30.468547+00:00"
+    },
+    "record:2119537866082763228": {
+      "hu_text": "Fények alszanak ki Európában – Franciaország-szerte megújult zavargásokról és összecsapásokról számolnak be, miközben az országos tiltakozások eszkalálódnak. Párizs, Franciaország – Több nagy francia városban erőszakos baloldali és migráns összecsapások törtek ki, miközben több százezer ember vonult utcára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés politikai és társadalmi zavargásokról számol be, amelyek migránsok részvételével történnek, de nincs megerősített forrás vagy bizonyíték az állítások hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:37.605747+00:00"
+    },
+    "telegram:1261826972:54409": {
+      "hu_text": "Egy fiatal migráns súlyos állapotban van egy brutális rablás után. A Nemzeti Rendőrség vizsgálja az esetet, miután a fiatal összeesett, miután sok vért vesztett ütésektől és machetés sebesülésektől. Az állkapcsa összetört.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét bűncselekményről szól migráns érintettséggel, de nincs független megerősítés vagy részletes bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:37.605763+00:00"
+    },
+    "telegram:2240007404:841": {
+      "hu_text": "Teherautó rakodó munkát kínálnak egy húsfeldolgozó üzembe Moszkva környékén, Odincovo városában. A havi fizetés 135 000 rubeltől kezdődik, a munkáltató segít a FÁK-állampolgároknak a munkavállalási engedély beszerzésében. Ingyenes szállás, étkezés, munkaruházat és engedélyezés biztosított. A munka 8-tól 20 óráig tart, férfiakat várnak 35 éves korig. Baráti ajánlás esetén bónusz jár.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely segíti a munkavállalást és engedélyezést, de nincs független ellenőrzés vagy hivatalos forrás a hirdetés hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:37.605766+00:00"
     }
   },
   "legacy_reviews": {}
