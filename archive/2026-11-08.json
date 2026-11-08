@@ -1,0 +1,831 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "live_events": [
+    {
+      "id": 857,
+      "event_id": 857,
+      "source": "X",
+      "source_post_id": "2119231197549334666",
+      "author": "SteveWoosnam",
+      "published_at": "2026-11-08T00:51:05Z",
+      "collected_at": "2026-11-08T01:00:04Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@Ryandally08 Curious,  who told you the alleged perpetrator is a \"recently arrived migrant\"? \n\nSounds like you're making up bullshit Dally. 🤣🤣",
+      "url": "https://x.com/SteveWoosnam/status/2119231197549334666",
+      "source_url": "https://x.com/SteveWoosnam/status/2119231197549334666"
+    },
+    {
+      "id": 858,
+      "event_id": 858,
+      "source": "X",
+      "source_post_id": "2119227605404745938",
+      "author": "Whiteboyslut4u",
+      "published_at": "2026-11-08T00:36:49Z",
+      "collected_at": "2026-11-08T01:00:05Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Good French whiteboi giving the newly arrived African migrants a warm welcome! 💪🏿✊🏿 https://t.co/eHsEx0qnHC",
+      "url": "https://x.com/Whiteboyslut4u/status/2119227605404745938",
+      "source_url": "https://x.com/Whiteboyslut4u/status/2119227605404745938"
+    },
+    {
+      "id": 859,
+      "event_id": 859,
+      "source": "X",
+      "source_post_id": "2119218670698385863",
+      "author": "normanerasmo123",
+      "published_at": "2026-11-08T00:01:18Z",
+      "collected_at": "2026-11-08T01:00:05Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@Ryandally08 Recently arrived migrant",
+      "url": "https://x.com/normanerasmo123/status/2119218670698385863",
+      "source_url": "https://x.com/normanerasmo123/status/2119218670698385863"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 685,
+      "group_id": 685,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Ryandally08 Curious,  who told you the alleged perpetrator is a \"recently arrived migrant\"? \n\nSounds like you're making up bullshit Dally. 🤣🤣",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-08T00:51:05Z",
+      "last_seen": "2026-11-08T00:51:05Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-08T01:00:04Z",
+      "updated_at": "2026-11-08T01:00:04Z"
+    },
+    {
+      "id": 686,
+      "group_id": 686,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "Good French whiteboi giving the newly arrived African migrants a warm welcome! 💪🏿✊🏿 https://t.co/eHsEx0qnHC",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-08T00:36:49Z",
+      "last_seen": "2026-11-08T00:36:49Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-08T01:00:05Z",
+      "updated_at": "2026-11-08T01:00:05Z"
+    },
+    {
+      "id": 687,
+      "group_id": 687,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@Ryandally08 Recently arrived migrant",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-08T00:01:18Z",
+      "last_seen": "2026-11-08T00:01:18Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-08T01:00:05Z",
+      "updated_at": "2026-11-08T01:00:05Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1373,
+      "source": "X",
+      "source_post_id": "2119229066163236889",
+      "author": "DrumChronicles",
+      "language": "en",
+      "published_at": "2026-11-08T00:42:37Z",
+      "first_detected_at": "2026-11-08T00:58:12Z",
+      "last_detected_at": "2026-11-08T00:58:12Z",
+      "detection_count": 1,
+      "text": "#Ethiopia another crisis - fighting between Somali and Oromia militias in and around Moyale has resulted in hundreds of transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees fleeing to safety in Kenya",
+      "text_excerpt": "#Ethiopia another crisis - fighting between Somali and Oromia militias in and around Moyale has resulted in hundreds of transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees fleeing to safety in Kenya",
+      "url": "https://x.com/DrumChronicles/status/2119229066163236889",
+      "source_url": "https://x.com/DrumChronicles/status/2119229066163236889",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "HORN_OF_AFRICA",
+      "primary_region": "HORN_OF_AFRICA",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1374,
+      "source": "X",
+      "source_post_id": "2119230856812515813",
+      "author": "vxmign",
+      "language": "en",
+      "published_at": "2026-11-08T00:49:44Z",
+      "first_detected_at": "2026-11-08T01:00:04Z",
+      "last_detected_at": "2026-11-08T01:00:04Z",
+      "detection_count": 1,
+      "text": "@akin_sezgin_ @Tbassuoni When a fire breaks out in one of Syria's cities, you find the entire Syrian people leaving their country and becoming refugees in other nations. Their asylum-seeking has reached a point where they have even become refugees in Africa and South America",
+      "text_excerpt": "@akin_sezgin_ @Tbassuoni When a fire breaks out in one of Syria's cities, you find the entire Syrian people leaving their country and becoming refugees in other nations. Their asylum-seeking has reached a point where they have even become refugees in Africa and South America",
+      "url": "https://x.com/vxmign/status/2119230856812515813",
+      "source_url": "https://x.com/vxmign/status/2119230856812515813",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees in other nations. Their asylum-seeking has reached"
+        ],
+        [
+          "movement",
+          "leaving their country and becoming refugees"
+        ],
+        [
+          "movement",
+          "reached a point where they have even become refugees"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees in other nations. Their asylum-seeking has reached",
+        "leaving their country and becoming refugees",
+        "reached a point where they have even become refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1372,
+      "source": "X",
+      "source_post_id": "2119232199824175176",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-08T00:55:04Z",
+      "first_detected_at": "2026-11-08T00:58:11Z",
+      "last_detected_at": "2026-11-08T00:58:11Z",
+      "detection_count": 1,
+      "text": "@edwro @CabelloAuden No. The video is recent footage from Diario del Sur (Manuel Núñez) of a migrant group of roughly 300–1,000 crossing the Rodolfo Robles bridge into Suchiate, Chiapas, on 6–7 Nov 2026. Multiple outlets reported the same event that day; the watermark and street details match current",
+      "text_excerpt": "@edwro @CabelloAuden No. The video is recent footage from Diario del Sur (Manuel Núñez) of a migrant group of roughly 300–1,000 crossing the Rodolfo Robles bridge into Suchiate, Chiapas, on 6–7 Nov 2026. Multiple outlets reported the same event that day; the watermark and street details match current",
+      "url": "https://x.com/grok/status/2119232199824175176",
+      "source_url": "https://x.com/grok/status/2119232199824175176",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant group of roughly 300–1,000 crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant group of roughly 300–1,000 crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1373,
+      "source": "X",
+      "source_post_id": "2119229066163236889",
+      "author": "DrumChronicles",
+      "language": "en",
+      "published_at": "2026-11-08T00:42:37Z",
+      "first_detected_at": "2026-11-08T00:58:12Z",
+      "last_detected_at": "2026-11-08T00:58:12Z",
+      "detection_count": 1,
+      "text": "#Ethiopia another crisis - fighting between Somali and Oromia militias in and around Moyale has resulted in hundreds of transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees fleeing to safety in Kenya",
+      "text_excerpt": "#Ethiopia another crisis - fighting between Somali and Oromia militias in and around Moyale has resulted in hundreds of transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees fleeing to safety in Kenya",
+      "url": "https://x.com/DrumChronicles/status/2119229066163236889",
+      "source_url": "https://x.com/DrumChronicles/status/2119229066163236889",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "transport trucks left stranded on the #Kenya side of the border and over 50,000 refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "HORN_OF_AFRICA",
+      "primary_region": "HORN_OF_AFRICA",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1374,
+      "source": "X",
+      "source_post_id": "2119230856812515813",
+      "author": "vxmign",
+      "language": "en",
+      "published_at": "2026-11-08T00:49:44Z",
+      "first_detected_at": "2026-11-08T01:00:04Z",
+      "last_detected_at": "2026-11-08T01:00:04Z",
+      "detection_count": 1,
+      "text": "@akin_sezgin_ @Tbassuoni When a fire breaks out in one of Syria's cities, you find the entire Syrian people leaving their country and becoming refugees in other nations. Their asylum-seeking has reached a point where they have even become refugees in Africa and South America",
+      "text_excerpt": "@akin_sezgin_ @Tbassuoni When a fire breaks out in one of Syria's cities, you find the entire Syrian people leaving their country and becoming refugees in other nations. Their asylum-seeking has reached a point where they have even become refugees in Africa and South America",
+      "url": "https://x.com/vxmign/status/2119230856812515813",
+      "source_url": "https://x.com/vxmign/status/2119230856812515813",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugees in other nations. Their asylum-seeking has reached"
+        ],
+        [
+          "movement",
+          "leaving their country and becoming refugees"
+        ],
+        [
+          "movement",
+          "reached a point where they have even become refugees"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": [
+        "refugees in other nations. Their asylum-seeking has reached",
+        "leaving their country and becoming refugees",
+        "reached a point where they have even become refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1372,
+      "source": "X",
+      "source_post_id": "2119232199824175176",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-08T00:55:04Z",
+      "first_detected_at": "2026-11-08T00:58:11Z",
+      "last_detected_at": "2026-11-08T00:58:11Z",
+      "detection_count": 1,
+      "text": "@edwro @CabelloAuden No. The video is recent footage from Diario del Sur (Manuel Núñez) of a migrant group of roughly 300–1,000 crossing the Rodolfo Robles bridge into Suchiate, Chiapas, on 6–7 Nov 2026. Multiple outlets reported the same event that day; the watermark and street details match current",
+      "text_excerpt": "@edwro @CabelloAuden No. The video is recent footage from Diario del Sur (Manuel Núñez) of a migrant group of roughly 300–1,000 crossing the Rodolfo Robles bridge into Suchiate, Chiapas, on 6–7 Nov 2026. Multiple outlets reported the same event that day; the watermark and street details match current",
+      "url": "https://x.com/grok/status/2119232199824175176",
+      "source_url": "https://x.com/grok/status/2119232199824175176",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant group of roughly 300–1,000 crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant group of roughly 300–1,000 crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:25462",
+      "timestamp": "2026-11-08T00:57:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119232702314598883",
+      "author": "NicoTechDream",
+      "url": "https://x.com/NicoTechDream/status/2119232702314598883",
+      "source_url": "https://x.com/NicoTechDream/status/2119232702314598883",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "smuggling",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@RadioGenoa People pay €3000 to a smuggler because the legal door is closed. In the UAE we took the opposite route: Green visa, Golden visa, clear published criteria. Arrivals are documented and vetted. The vacuum is the problem, not migration itself.",
+      "text_excerpt": "@RadioGenoa People pay €3000 to a smuggler because the legal door is closed. In the UAE we took the opposite route: Green visa, Golden visa, clear published criteria. Arrivals are documented and vetted. The vacuum is the problem, not migration itself.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:59:04Z",
+      "last_collected_at": "2026-11-08T00:59:04Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25446",
+      "timestamp": "2026-11-08T00:48:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119230478196584904",
+      "author": "PeterPugh10",
+      "url": "https://x.com/PeterPugh10/status/2119230478196584904",
+      "source_url": "https://x.com/PeterPugh10/status/2119230478196584904",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Here they come !!!!\n\nUp to 500 Migrants Cross into Mexico Headed to U.S. Border After Democrat Victories\nhttps://t.co/yrvbIrNUio",
+      "text_excerpt": "Here they come !!!!\n\nUp to 500 Migrants Cross into Mexico Headed to U.S. Border After Democrat Victories\nhttps://t.co/yrvbIrNUio",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:58:11Z",
+      "last_collected_at": "2026-11-08T00:58:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25447",
+      "timestamp": "2026-11-08T00:47:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119230346730602963",
+      "author": "innerpeece",
+      "url": "https://x.com/innerpeece/status/2119230346730602963",
+      "source_url": "https://x.com/innerpeece/status/2119230346730602963",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@RepDonBacon Yes but those refugees who crossed the border had claims of asylum, which the USA is bound by treaty and statute to accept. And as a population you damn well know that they committed crimes at much lower rates. They were easy scapegoats for racist divisive propaganda",
+      "text_excerpt": "@RepDonBacon Yes but those refugees who crossed the border had claims of asylum, which the USA is bound by treaty and statute to accept. And as a population you damn well know that they committed crimes at much lower rates. They were easy scapegoats for racist divisive propaganda",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:58:11Z",
+      "last_collected_at": "2026-11-08T00:58:11Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25434",
+      "timestamp": "2026-11-08T00:46:59Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xqlmfh",
+      "author": "readingreviewsnow",
+      "url": "https://www.reddit.com/r/NewRepublicans/comments/1xqlmfh/up_to_500_migrants_cross_into_mexico_headed_to_us/",
+      "source_url": "https://www.reddit.com/r/NewRepublicans/comments/1xqlmfh/up_to_500_migrants_cross_into_mexico_headed_to_us/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Up to 500 Migrants Cross into Mexico Headed to U.S. Border After Democrat Victories",
+      "text_excerpt": "Up to 500 Migrants Cross into Mexico Headed to U.S. Border After Democrat Victories",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:57:44Z",
+      "last_collected_at": "2026-11-08T00:57:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25436",
+      "timestamp": "2026-11-08T00:46:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xqlm3c",
+      "author": "readingreviewsnow",
+      "url": "https://www.reddit.com/r/NewRepublicans/comments/1xqlm3c/up_to_500_migrants_cross_into_mexico_headed_to_us/",
+      "source_url": "https://www.reddit.com/r/NewRepublicans/comments/1xqlm3c/up_to_500_migrants_cross_into_mexico_headed_to_us/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "Up to 500 Migrants Cross into Mexico Headed to U.S. Border After Democrat Victories",
+      "text_excerpt": "Up to 500 Migrants Cross into Mexico Headed to U.S. Border After Democrat Victories",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:57:44Z",
+      "last_collected_at": "2026-11-08T00:57:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25453",
+      "timestamp": "2026-11-08T00:41:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119228670065696902",
+      "author": "DHKITCH",
+      "url": "https://x.com/DHKITCH/status/2119228670065696902",
+      "source_url": "https://x.com/DHKITCH/status/2119228670065696902",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "vessel"
+      ],
+      "freshness_cues": [],
+      "text": "@NoticerOfAll @NoticerOfAll\n\nYou’ve just attempted to justify criminal damage because somebody was frustrated about immigration.\n\nSince when did frustration grant anyone the authority to take a knife to a vessel?\n\nYes, French police have slashed migrant boats. Their tactics are controversial",
+      "text_excerpt": "@NoticerOfAll @NoticerOfAll\n\nYou’ve just attempted to justify criminal damage because somebody was frustrated about immigration.\n\nSince when did frustration grant anyone the authority to take a knife to a vessel?\n\nYes, French police have slashed migrant boats. Their tactics are controversial",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:58:37Z",
+      "last_collected_at": "2026-11-08T00:58:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25456",
+      "timestamp": "2026-11-08T00:20:37Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119223529170239780",
+      "author": "GunnyP1775",
+      "url": "https://x.com/GunnyP1775/status/2119223529170239780",
+      "source_url": "https://x.com/GunnyP1775/status/2119223529170239780",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@GigaChadxf @AkevvFlurry @JacobWeinbergR Muslim societies ran the trans-Saharan, Red Sea and East African slave trades for over a millennium, taking millions of Africans. Trafficking, forced labor and sales of migrants persist in Libya per UN reports, though formal open auctions remain disputed. Male African slaves were",
+      "text_excerpt": "@GigaChadxf @AkevvFlurry @JacobWeinbergR Muslim societies ran the trans-Saharan, Red Sea and East African slave trades for over a millennium, taking millions of Africans. Trafficking, forced labor and sales of migrants persist in Libya per UN reports, though formal open auctions remain disputed. Male African slaves were",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:58:38Z",
+      "last_collected_at": "2026-11-08T00:58:38Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25457",
+      "timestamp": "2026-11-08T00:19:45Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119223312970641859",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2119223312970641859",
+      "source_url": "https://x.com/grok/status/2119223312970641859",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@GunnyP1775 @GigaChadxf @AkevvFlurry @JacobWeinbergR Muslim societies ran the trans-Saharan, Red Sea and East African slave trades for over a millennium, taking millions of Africans. Trafficking, forced labor and sales of migrants persist in Libya per UN reports, though formal open auctions remain disputed. Male African slaves were",
+      "text_excerpt": "@GunnyP1775 @GigaChadxf @AkevvFlurry @JacobWeinbergR Muslim societies ran the trans-Saharan, Red Sea and East African slave trades for over a millennium, taking millions of Africans. Trafficking, forced labor and sales of migrants persist in Libya per UN reports, though formal open auctions remain disputed. Male African slaves were",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-08T00:58:38Z",
+      "last_collected_at": "2026-11-08T00:58:38Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-08T01:00:14.807894+00:00"
+}
