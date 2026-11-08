@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T08:17:48.433907+00:00"
+    },
+    "record:2119335647190426001": {
+      "hu_text": "Spanyolország El Hierro szigete, ahol körülbelül 12 000 ember él, rendkívüli állapotot hirdetett, miután november 1. óta több mint 3 300 migráns érkezett hajóval. A helyi hatóságok segítséget kértek Madridtól, mivel a kórházi körülmények \"nem kívánatosak\" lettek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számokat és intézkedést tartalmaz, de nincs független megerősítés, ezért ellenőrizetlen. Fontos a határbiztonsági és humanitárius helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:57.580130+00:00"
+    },
+    "record:2119337374761304297": {
+      "hu_text": "Friss hír: Spanyolország Kanári-szigeteki El Hierro szigete rendkívüli állapotot hirdetett és szövetségi segítséget kért Madridtól, miután november eleje óta mintegy 3 300 migráns érkezett körülbelül 30 hajón.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hasonló tartalom, mint az előző rekord, konkrét számadatokkal, de nincs független forrásból megerősítve. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:57.580148+00:00"
+    },
+    "record:2119340664676606154": {
+      "hu_text": "@Jacob_Rakhmanov @eflog778 @JewishGenomics A J2b1 haplocsoport végső eredete a Közel-Kelet (Nyugat-Ázsia) körülbelül 10-15 ezer évvel ezelőtt, nem a Kaukázus vagy kifejezetten Irán. Ősi minták megtalálhatók a Levantéban, Anatóliában, Iránban és Örményországban. A Mountain Jewish alapító (J2b1f, kb. i.e. 2300) perzsa zsidó migránsokon keresztül érkezett.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történeti-genetikai információ, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy aktuális helyzethez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:57.580153+00:00"
+    },
+    "record:2119341231109271623": {
+      "hu_text": "A Kanári-szigetek hat nap alatt több mint 4 500 migránst fogadtak hajóval. A Kanári rendőrség adatai szerint november 1. és 6. között mintegy 4 069 ember érkezett, ami körülbelül nyolcszorosa a tavalyi számnak. El Hierro, ahol körülbelül 12 000 ember él, jelentős nyomás alatt áll.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és időszakot tartalmaz, de nincs független megerősítés. Fontos a határbiztonsági és humanitárius helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:57.580158+00:00"
+    },
+    "record:reddit_1xqbscn": {
+      "hu_text": "1942-ben az MS Vulcania hajó evakuálta a menekülteket az olasz Kelet-Afrikából. 1941-ben az olasz Kelet-Afrika bukása után több mint 150 000 olasz civil került brit megszállás alatti területekre, akik jelentős terhet jelentettek a britek számára. Sokukat internáló táborokba helyezték rossz körülmények között. Végül 1941 novemberében megállapodás született a nőket, gyerekeket és időseket visszatelepíteni Olaszországba, katonakorú férfiakat nem engedtek el.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi háttérinformáció, amely hitelesnek tűnik, de nincs közvetlen bizonyíték a szövegben. Nem aktuális migrációs esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:57.580163+00:00"
+    },
+    "record:reddit_1xqse9t": {
+      "hu_text": "November 11-én általános sztrájk lesz Spanyolországban, amelyet a bérlők mozgalma kezdeményezett a lakhatási helyzet miatt. A sztrájk a nagy gyárakat és ellátási láncokat érintheti. Madrid és Andalúzia között a vasúti közlekedés zárva marad a halálos baleset miatt, ami megnöveli az utazási költségeket. Az infláció és a jelzálogkölcsönök költségei is nyomást gyakorolnak a háztartásokra. El Hierro szigete társadalmi vészhelyzetet hirdetett a migránsok érkezése miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Több témát érintő összefoglaló, amelyben szerepel az El Hierro szigeti társadalmi vészhelyzet is. Nincs független megerősítés, de releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:57.580167+00:00"
     }
   },
   "legacy_reviews": {}
