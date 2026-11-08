@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-08",
+  "reviews": {
+    "group:685": {
+      "hu_text": "@Ryandally08 Kíváncsi vagyok, ki mondta neked, hogy az állítólagos elkövető egy „nemrég érkezett migráns”? Úgy hangzik, mintha kitalálnál valamit, Dally. 🤣🤣",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és vitatkozás egy állításról, nincs konkrét tényállítás, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:37.502561+00:00"
+    },
+    "group:686": {
+      "hu_text": "Egy jó francia fehér srác meleg fogadtatásban részesíti az újonnan érkezett afrikai migránsokat! 💪🏿✊🏿",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy szubjektív megjegyzés egy eseményről, nincs bizonyított tény, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:37.502582+00:00"
+    },
+    "group:687": {
+      "hu_text": "@Ryandally08 Nemrég érkezett migráns",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy rövid állítás, amely nem tartalmaz bizonyítékot, így ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:37.502586+00:00"
+    },
+    "information:25434": {
+      "hu_text": "Akár 500 migráns lépte át a mexikói határt az Egyesült Államok felé, miután a demokraták győzelmet arattak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét migrációs eseményről szól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:37.502589+00:00"
+    },
+    "information:25436": {
+      "hu_text": "Akár 500 migráns lépte át a mexikói határt az Egyesült Államok felé, miután a demokraták győzelmet arattak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő állítás ugyanarról az eseményről, nincs megerősített bizonyíték, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:37.502591+00:00"
+    },
+    "information:25446": {
+      "hu_text": "Itt jönnek!!!! Akár 500 migráns lépte át a mexikói határt az Egyesült Államok felé, miután a demokraták győzelmet arattak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy migrációs eseményről szól, de nincs megerősített bizonyíték, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:37.502593+00:00"
+    }
+  }
+}
