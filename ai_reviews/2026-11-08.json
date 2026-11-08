@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T01:00:47.013374+00:00"
+    },
+    "record:2119227605404745938": {
+      "hu_text": "Egy jófej francia fehér srác meleg fogadtatásban részesíti az újonnan érkezett afrikai migránsokat! 💪🏿✊🏿",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy szubjektív véleményt tartalmaz, nincs benne ellenőrizhető tényadat vagy bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:55.680358+00:00"
+    },
+    "record:2119229066163236889": {
+      "hu_text": "Etiópiában újabb válság alakult ki: harcok folynak a szomáliai és oromiai milíciák között Moyale környékén, ami miatt több száz teherautó rekedt a kenyai határnál, és több mint 50 000 menekült menekült Kenyába.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét helyszínt és eseményt említ, ami fontos migrációs mozgásra utal, de nincs független forrás általi megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:55.680379+00:00"
+    },
+    "record:2119230856812515813": {
+      "hu_text": "Amikor tűz üt ki valamelyik szíriai városban, az egész szíriai nép elhagyja az országot, és menekültként más országokba megy. Az oltalmazásuk odáig jutott, hogy már Afrikában és Dél-Amerikában is menekültek lettek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános állítás a szíriai menekültáramlásról, amely részben igaz lehet, de pontos adatok és források nélkül nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:55.680382+00:00"
+    },
+    "record:2119231197549334666": {
+      "hu_text": "@Ryandally08 Kíváncsi vagyok, ki mondta neked, hogy az állítólagos elkövető \"frissen érkezett migráns\"? Úgy hangzik, mintha kitalálnál valamit, Dally. 🤣🤣",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vitatkozó, véleményes hozzászólás, nincs benne tényállítás vagy bizonyítható adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:55.680384+00:00"
+    },
+    "record:2119232199824175176": {
+      "hu_text": "@edwro @CabelloAuden Nem. A videó a Diario del Sur (Manuel Núñez) friss felvétele egy körülbelül 300–1000 fős migránscsoportról, akik 2026. november 6-7-én átkeltek a Rodolfo Robles hídon Suchiate, Chiapas területén. Több hírforrás is beszámolt ugyanerről az eseményről aznap; a vízjel és az utcaképek megfelelnek a jelenleginek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét dátumot, helyszínt és forrást említ, ami részben ellenőrizhető, de a teljes hitelesség további megerősítést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:55.680386+00:00"
+    },
+    "telegram:1261826972:54382": {
+      "hu_text": "◼️ Videóval ▶️ A bevándorlás továbbra is meghatározza Ceuta mindennapjait: \"Még a jellemem is megváltozott\"\n\n➡️ A ceutaiak beletörődnek az új valóságukba? A válasz: nem\n\n➡ Estefelé folyamatos az emberek áramlása Ceuta különböző pontjain\n\n➡ \"Összetörtek, már ki sem akarok menni\" – mondja egy lakó a Kórházi Katonai negyedből\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/inmigracion-sigue-marcando-dia-a-dia-ceuta-me-han-cambiado-hasta-caracter/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi társadalmi helyzetről szóló riportot idéz, de a forrás ellenőrzése szükséges a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:55.680389+00:00"
     }
   },
   "legacy_reviews": {}
