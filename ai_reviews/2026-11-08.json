@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T16:29:25.181723+00:00"
+    },
+    "information:25585": {
+      "hu_text": "Megerősítve: Szenegál Belügyminisztériuma legalább 21 halottról és 1 túlélőről számolt be egy migránshajó elsüllyedése után Kébémer közelében (Loumpoul közelében), Dakar északi részén. A halálozási adat ideiglenes, a keresések folytatódnak. Az Atlanti-óceáni útvonal a Kanári-szigetekhez továbbra is nagyon veszélyes.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, amely halálesetekkel jár, de az információt egyetlen forrásból közlik, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:34.112721+00:00"
+    },
+    "information:25591": {
+      "hu_text": "Az El Hierro Kanári-szigeteki hatóságok szombaton vészhelyzetet hirdettek és kormányzati segítséget kértek, mivel a migránshajók érkezésének hirtelen növekedése megterhelte a helyi szolgáltatásokat és szálláshelyeket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos határbiztonsági és migrációs nyomásról szóló információ, de egyetlen forrásból származik, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:34.112738+00:00"
+    },
+    "information:25592": {
+      "hu_text": "Hazugságok sorozata a rasszista csalótól, nem lesz nyitott határ, és ő ezt tudja. Ő okozta a kis hajós válságot. Hazudott, amikor azt mondta, hogy az EU-ból való kilépés megkönnyíti a migránsok visszatérését, miközben valójában az EU-ból való kilépés nagyon megnehezítette azt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és véleménycikk, nem tényállítás, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:34.112742+00:00"
+    },
+    "information:25609": {
+      "hu_text": "A Kanári-szigetek sürgős kormányzati intézkedést követelnek a migránshajók érkezésének növekedése miatt. November 1. és 6. között 49 hajó érkezett összesen 4587 migránssal a Kanári-szigetekre a regionális kormány szerint.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló adat, amely jelentős migránsszámot jelez, de egyetlen forrásból származik, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:34.112745+00:00"
+    },
+    "record:2119460332464955409": {
+      "hu_text": "Tegnap 1039 illegális migráns érkezett Spanyolországba 11 hajón. El Hierro szigetén 7 cayuco hajón 869 migráns, Lanzarotén egy felfújható hajón 133 migráns, a Baleár-szigeteken pedig 3 hajón 37 migráns érkezett. A Baleár-szigetek rekordmagas, 7283 érkezést regisztráltak 404 hajón.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határátlépési adatokat tartalmazó információ, de egyetlen forrásból származik, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:34.112748+00:00"
+    },
+    "record:2119461198773325926": {
+      "hu_text": "Problémám van azzal, hogy kétségtelenül egy abortuszpárti, gyermekcsonkító pártra szavazott, amely több százezer gyermek emberkereskedelmét is támogatta a határon. Nem beszélve a milliók migráns megerőszakolásáról ugyanazon a határon. Tévedésben van az illető.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és személyeskedő állítás, amely nem bizonyított tény, ezért nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:34.112751+00:00"
     }
   },
   "legacy_reviews": {}
