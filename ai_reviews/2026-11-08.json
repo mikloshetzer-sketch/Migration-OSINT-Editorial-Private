@@ -331,6 +331,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T08:17:57.580167+00:00"
+    },
+    "record:reddit_1xqsi9i": {
+      "hu_text": "📢 Heti hírek összefoglaló 2026.11.08.\nA videó a DWP szolgáltatásának alapvető része, és személyre szabott foglalkoztatási támogatás nyújtására kell használni az ügyfelek számára. Egy belső DWP frissítés megerősítette, hogy bár a személyes találkozók továbbra is fontosak, különösen a kérelmező útjának korai szakaszában, amikor a bizalom kiépítése kulcsfontosságú, a kapcsolat fejlődésével a munkatanácsadóknak meg kell ítélniük, hogy melyik csatorna a legmegfelelőbb a támogatás nyújtására, akár személyesen, akár videón keresztül. A telefonos találkozókat csak kivételes esetekben szabad használni, például ha az egészségi állapot miatt nem alkalmas a személyes vagy videós találkozó, vagy ha az ügyfél nem tud elmenni a munkaügyi központba és nincs hozzáférése videós eszközhöz. Bármilyen telefonos találkozó ezen körülményeken kívül csak a vezető jóváhagyásával lehetséges. A hangsúly mindig az ügyfél igényeinek leginkább megfelelő csatorna használatán van, hogy támogassa a munkába állás felé vezető utat. Az egyetlen kivétel a fiatal ügyfelek, akiknél a személyes találkozó az előnyben részesített. Ha a gyermekgondozási vagy ápolási kötelezettségek megnehezítik a személyes megjelenést, a munkatanácsadóknak mérlegelniük kell, hogy a videós találkozó ésszerű alternatíva lehet-e. Ez magában foglalja az utolsó pillanatban vagy aznap tett kéréseket is. A munkatanácsadóknak tájékoztatniuk kell az egyedülálló szülőket, hogy kérhetnek videós találkozót.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy belső szolgáltatási irányelv összefoglalója, amely a videós és személyes ügyfélkapcsolat szabályairól szól. Nem tartalmaz migrációs eseményre vagy hatósági intézkedésre vonatkozó konkrét tényt, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:18:07.885605+00:00"
+    },
+    "telegram:1261826972:54386": {
+      "hu_text": "📰 Három hír az elfarodeceuta.es oldalról vasárnapra:\n\n1⃣ Videóval ▶ A rendőrség betört a kikötői táborba, hogy bevándorlókat szállítsanak el\n\n➡ A nagyszabású művelet hajnalban kezdődött, hogy véget vessenek az egyik legvitatottabb tábor működésének\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/policia-irrumpe-asentamiento-puerto-trasladar-inmigrantes/\n\n2⃣ A Nemzeti Rendőrség felszámolt egy kokainárusító pontot, két embert előzetesbe helyeztek\n\n➡ Az UDYCO hajtotta végre a műveletet egy lakásban, 2024-es nyomozások alapján\n\nhttps://elfarodeceuta.es/actualidad/sucesos/policia-nacional-desmantela-punto-venta-cocaina-detenidos-prision/\n\n3⃣ Motoros szimulátor: a maffia, amely lehetővé teszi a bevándorlók Ceutából Algecirasba való átszállítását\n\n➡ Egy ceutai férfit elítéltek, miután megpróbált motorral átszállítani egy bevándorlót, aki más személy okmányait használta\n\n➡ Az esetek száma nő a 2023. június 30-i tömeges bevándorlás óta\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/simuladora-moto-mafia-traslado-inmigrantes-ceuta-algeciras/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés több migrációs eseményről és hatósági intézkedésről számol be Ceutában, beleértve a rendőrségi razziát és embercsempészettel kapcsolatos ügyeket. Ezek fontos információk a határbiztonság szempontjából, de a forrás nem független vagy hivatalos, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:18:07.885624+00:00"
+    },
+    "telegram:1261826972:54387": {
+      "hu_text": "🚩 Videóval ▶ Ceuta kikötőjéből Marokkóba száz nappal később\n\n➡ A kikötői táborból kilakoltatott bevándorlókat a határhoz szállítják, hogy megkezdjék a visszatéréseket Marokkóba\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/puerto-ceuta-marruecos-cien-dias-despues/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy konkrét migrációs eseményről számol be, amelyben bevándorlókat szállítanak vissza Marokkóba Ceutából. Bár fontos információ, a forrás nem hivatalos, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:18:07.885629+00:00"
     }
   },
   "legacy_reviews": {}
