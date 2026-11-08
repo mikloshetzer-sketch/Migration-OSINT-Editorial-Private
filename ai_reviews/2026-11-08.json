@@ -573,6 +573,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T16:29:49.108602+00:00"
+    },
+    "information:25639": {
+      "hu_text": "Halálos hajótragédia: 34 ember vesztette életét egy Szenegálból induló migránsút során. Egy túlélőt találtak; az Atlanti-óceáni útvonal továbbra is veszélyes a menekültek számára, akik Európába próbálnak jutni.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragikus esemény jelentős migrációs esemény, de a forrás nem ellenőrzött, ezért az állítás ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:14.443382+00:00"
+    },
+    "information:25640": {
+      "hu_text": "\"Most már reményünk van, hogy a demokraták nyertek\" – Egy hatalmas migránskaraván áttörte a mexikói határt az Egyesült Államok felé a középtávú választások után (VIDEÓ).",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsok mozgására utal politikai kontextusban, de nincs megerősített bizonyíték a karaván létezésére vagy méretére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:14.443402+00:00"
+    },
+    "information:25641": {
+      "hu_text": "\"Most már reményünk van, hogy a demokraták nyertek\" – Egy hatalmas migránskaraván áttörte a mexikói határt az Egyesült Államok felé a középtávú választások után (VIDEÓ).",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő állítás, amely migránsok mozgására utal, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:14.443406+00:00"
+    },
+    "information:25642": {
+      "hu_text": "\"Most már reményünk van, hogy a demokraták nyertek\" – Egy hatalmas migránskaraván áttörte a mexikói határt az Egyesült Államok felé a középtávú választások után (VIDEÓ).",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő állítás, amely migránsok mozgására utal, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:14.443408+00:00"
+    },
+    "information:25646": {
+      "hu_text": "Források szerint az ICE nem valószínű, hogy enyhíti a bevándorlás elleni szigorú fellépést, Stephen Miller felemelkedése miatt. A Trump-kormányzat a középtávú választások után is folytatja az illegális bevándorlás elleni agresszív intézkedéseket, annak ellenére, hogy a demokraták januártól átveszik a Kongresszus irányítását.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai és jogi fejleményeket tartalmaz a bevándorlási politika terén, de az információk forrása nem teljesen ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:14.443411+00:00"
+    },
+    "information:25648": {
+      "hu_text": "@Davek6y @ZiaYusufUK Nem, a kis hajós probléma teljes egészében az EU nyitott határainak és az Egyesült Királyság kormányainak köszönhető, amelyek ösztönözték a migránsokat lakhatással, étellel, pénzzel és telefonokkal. Vegyék el az ösztönzőket, és fenyegetőzzenek letartóztatással és harmadik országba történő kitoloncolással.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, amely a migrációs helyzetet elemzi, de nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:14.443413+00:00"
     }
   },
   "legacy_reviews": {}
