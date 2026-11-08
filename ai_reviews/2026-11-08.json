@@ -639,6 +639,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T21:31:14.443413+00:00"
+    },
+    "information:25655": {
+      "hu_text": "Migránsokat szállító kis hajó süllyedt el Szenegál északi részénél, legalább 34 ember meghalt, és továbbiak eltűntek, közölték a hatóságok. Az eset az Atlanti-óceáni útvonalon történt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az esemény migrációs tragédiát ír le, amely fontos humanitárius és migrációs esemény lehet. Az állítás forrása nem ellenőrzött, ezért előzetesen nem hitelesített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:22.645348+00:00"
+    },
+    "information:25665": {
+      "hu_text": "Állítás szerint 2023 és 2026 között 41 000-rel csökkent a halálozás a határ és a fentanil túladagolások miatt. Emellett 400 000 migráns gyermek tűnt el az amerikai adófizetői finanszírozású gyermekkereskedelem miatt a Biden-kormányzat alatt, sokan meghaltak vagy soha nem kerülnek elő.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állításokat tartalmaz migrációs és határbiztonsági témában, de nincs megerősített bizonyíték, így nem hitelesíthető egyedül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:22.645366+00:00"
+    },
+    "information:25666": {
+      "hu_text": "Eltűnt Osiel Barrios, egy három lány apja, aki június 7-én próbált átkelni a határon Lukeville közelében, Arizonában. Az édesanyja egy állítólagos migránstól kapott videót is megosztott.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Egy eltűnt migránsról szóló információ, amely migrációs eseményhez kapcsolódik, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:22.645369+00:00"
+    },
+    "information:25669": {
+      "hu_text": "Ez egy internetes válogatás különféle videókról és képekről, amelyek között nincs migrációval kapcsolatos tartalom.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A tartalom nem kapcsolódik migrációhoz vagy határbiztonsághoz, hanem általános internetes tartalmak gyűjteménye.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:22.645372+00:00"
+    },
+    "information:25681": {
+      "hu_text": "Németországban 2026. október 31-én, Halloweenkor nagyszabású tüntetések zajlottak a Z generáció vezetésével, főként fiatalok részvételével. A tüntetések a társadalmi válság és hosszú távú problémák következményei, amelyek Németországban jelentősek és tartós nehézségeket okoznak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Társadalmi és politikai véleményeket tartalmazó elemzés, amely nem kapcsolódik közvetlenül migrációhoz vagy határbiztonsághoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:22.645373+00:00"
+    },
+    "information:25682": {
+      "hu_text": "Németországban 2026. október 31-én, Halloweenkor nagyszabású tüntetések zajlottak a Z generáció vezetésével, főként fiatalok részvételével. A tüntetések a társadalmi válság és hosszú távú problémák következményei, amelyek Németországban jelentősek és tartós nehézségeket okoznak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ugyanaz a tartalom, mint az előző rekord, társadalmi elemzés migrációval nem kapcsolatos témában.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T21:31:22.645375+00:00"
     }
   },
   "legacy_reviews": {}
