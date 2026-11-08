@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T01:00:37.502593+00:00"
+    },
+    "information:25447": {
+      "hu_text": "@RepDonBacon Igen, de azok a menekültek, akik átlépték a határt, menedékjogi kérelmet nyújtottak be, amit az USA szerződés és törvény alapján köteles elfogadni. És mint népesség, jól tudjátok, hogy sokkal alacsonyabb arányban követtek el bűncselekményeket. Könnyű bűnbakok voltak a rasszista, megosztó propagandának.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás menekültek bűnözési arányára és jogi kötelezettségekre vonatkozik, de nincs konkrét bizonyíték vagy hivatalos adat a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:47.013344+00:00"
+    },
+    "information:25453": {
+      "hu_text": "@NoticerOfAll @NoticerOfAll\n\nÉppen most próbáltad igazolni a bűncselekményt, mert valaki frusztrált volt a migráció miatt.\n\nMióta ad frusztráció bárkinek is felhatalmazást arra, hogy kést használjon egy hajón?\n\nIgen, a francia rendőrség elvágta migránsok hajóinak gumicsónakjait. Taktikájuk vitatott.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés állítást tesz a francia rendőrség migránsok hajóival kapcsolatos intézkedéseiről, de nincs hivatalos megerősítés vagy részletes bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:47.013363+00:00"
+    },
+    "information:25456": {
+      "hu_text": "@GigaChadxf @AkevvFlurry @JacobWeinbergR A muszlim társadalmak több mint ezer éven át irányították a Száhel-övezet, a Vörös-tenger és Kelet-Afrika rabszolga-kereskedelmét, milliókat hurcolva el Afrikából. Az ENSZ jelentései szerint Líbiában továbbra is fennáll az emberkereskedelem, kényszermunka és migránsok eladása, bár a nyílt árverések formális létezése vitatott. Férfi afrikai rabszolgák voltak...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi és ENSZ-jelentésekre hivatkozó állításokat tartalmaz, de nincs közvetlen bizonyíték vagy forrás a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:47.013366+00:00"
+    },
+    "information:25457": {
+      "hu_text": "@GunnyP1775 @GigaChadxf @AkevvFlurry @JacobWeinbergR A muszlim társadalmak több mint ezer éven át irányították a Száhel-övezet, a Vörös-tenger és Kelet-Afrika rabszolga-kereskedelmét, milliókat hurcolva el Afrikából. Az ENSZ jelentései szerint Líbiában továbbra is fennáll az emberkereskedelem, kényszermunka és migránsok eladása, bár a nyílt árverések formális létezése vitatott. Férfi afrikai rabszolgák voltak...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ugyanaz a tartalom, mint az előző rekord, ezért ugyanaz az értékelés és indoklás érvényes.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:47.013369+00:00"
+    },
+    "information:25462": {
+      "hu_text": "@RadioGenoa Az emberek 3000 eurót fizetnek egy csempésznek, mert a legális út zárva van. Az Egyesült Arab Emírségekben az ellenkező utat választottuk: Zöld vízum, Arany vízum, világosan közzétett kritériumok. Az érkezők dokumentáltak és ellenőrzöttek. A probléma a vákuum, nem maga a migráció.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a migrációs politikáról és vízumrendszerekről, de nincs hivatalos forrás vagy bizonyíték a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:47.013372+00:00"
+    },
+    "record:2119218670698385863": {
+      "hu_text": "@Ryandally08 Nemrég érkezett migráns",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Egyszerű ténymegállapítás egy frissen érkezett migránsról, de nincs további információ vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T01:00:47.013374+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
