@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T01:00:55.680389+00:00"
+    },
+    "group:688": {
+      "hu_text": "El Hierro szigeti tanácsa szociális vészhelyzetet hirdetett a migránsok érkezése miatt, mivel az érkezők megterhelik a befogadási szolgáltatásokat.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs eseményről szól, de nincs megerősített forrás vagy további részlet, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:48.433871+00:00"
+    },
+    "group:689": {
+      "hu_text": "A J2b1 genetikai haplocsoport eredetileg a Közel-Keleten (Nyugat-Ázsiában) alakult ki 10-15 ezer évvel ezelőtt, nem a Kaukázusban vagy Iránban. Ősi minták megtalálhatók a Levantéban, Anatóliában, Iránban és Örményországban. A Mountain Jewish alapító (J2b1f, kb. i.e. 2300) perzsa zsidó bevándorlók révén érkezett.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történeti genetikai információ, amely nem közvetlenül migrációs esemény vagy aktuális migrációs szándék, és nincs megerősített forrás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:48.433891+00:00"
+    },
+    "information:25507": {
+      "hu_text": "Akár 500 migráns lépte át Mexikó déli határát Guatemala felől, és az Egyesült Államok déli határa felé tartanak a demokraták győzelmei után.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális migrációs eseményről szóló információ, amely fontos lehet a határbiztonság és migrációs folyamatok szempontjából, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:48.433896+00:00"
+    },
+    "information:25518": {
+      "hu_text": "Egy késedelmes migránshajót észleltek 2026. november 4-én az Atlanti-óceánon, észak felé haladva. A környéken lévő hajókat figyelmeztetik, hogy legyenek éberek és jelentsék az észleléseket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Migrációs mozgásra utaló jelzés, amely fontos lehet a határbiztonság és mentési műveletek szempontjából, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:48.433900+00:00"
+    },
+    "information:25522": {
+      "hu_text": "A migráció és határellenőrzés nagyon összetett és érzékeny kérdés, amely messze túlmutat egyetlen afrikai politikai nézeten. Az üzletek átvételét végzők nem afrikaiak, és Dél-Afrikában korábban nem voltak idegengyűlöleti problémák, így felmerül a kérdés, hogy miért van most.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy társadalmi diskurzus, vélemény a migrációról és határellenőrzésről, nem tényállítás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:48.433903+00:00"
+    },
+    "information:25529": {
+      "hu_text": "Ceuta, a spanyol észak-afrikai enklávé, 2023 júliusának végén illegális migrációs hullámmal szembesült Marokkóból, több mint 70 000 migráns úsztak át a határon, sokan kiskorúak. Becslések szerint legalább 100 ember halt meg az átkelések során. A spanyol Legfelsőbb Bíróság korábban kimondta, hogy a 2015-ös „gyors visszatérítési” szabályok nem alkalmazhatók a tengeri átkelésekre Ceutába vagy Melillába. A migránsok remélték, hogy Spanyolországban menedékjogot kapnak, és új életet kezdhetnek, a határok ellenére.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló részletes összefoglaló, de nincs közvetlenül ellenőrzött forrás megadva, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T08:17:48.433907+00:00"
     }
   },
   "legacy_reviews": {}
