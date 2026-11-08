@@ -496,6 +496,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-08T16:29:34.112751+00:00"
+    },
+    "record:2119463763036320029": {
+      "hu_text": "Az Olugbo fiók szerint az Ugbo (Ilaje) voltak a pre-Oduduwa Ile-Ife (akkor Ugbomokun) őslakos telepesei. Oranfe és Osangangan Obamakin uralkodtak először. Oduduwa később érkezett keleti migránsként, befogadták, majd konfliktus következett; az Ugbo később a tengerpartra költözött.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi eredetű közösségi médiás állítás, amely nem ellenőrzött és nincs bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:44.415136+00:00"
+    },
+    "record:2119466557071867952": {
+      "hu_text": "Skócia sokkal kevesebb (korrupt) rendőrt igényelne, ha az ország megfelelő határokat működtetne és kitoloncolná a százezres nagyságrendű illegális (bűnöző) migránst, akik folyamatosan érkeznek. Kevesebb rendőrt, kevesebb illegálist és alacsonyabb adókat szeretne. Egyúttal Jo Farrell nem alkalmas a rendőrfőnöki posztra.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás migrációs helyzetről, de nincs bizonyíték az állítások igazságtartalmára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:44.415153+00:00"
+    },
+    "record:mastodon_117581246060601211": {
+      "hu_text": "Több mint 150 ember több mint 6 hónapon át dolgozott egy 12 500 darabos takaró összeállításán, amely minden egyes darabja egy minnesotai migránst jelképez, akit az ICE a Trump második ciklusának kezdetétől az Op Metro Surge végéig deportált. A takarók hosszú történettel bírnak az amerikai politikai kifejezés, társadalmi reform és alapvető aktivizmus terén, például az Underground Railroad, a nők választójoga, a polgárjogi mozgalmak és a tiltakozó művészetek területén.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Közösségi médiás beszámoló egy közösségi aktivizmusról, amely nem ellenőrzött, de nem tartalmaz kétséges vagy hamis információt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:44.415157+00:00"
+    },
+    "record:reddit_1xqxrq3": {
+      "hu_text": "Migránsokat csempésznek kis hajókon az Egyesült Királyságba Hollandiából, hogy elkerüljék a járőröket. Állítás szerint már Hollandiában is háború elől menekülnek, és Európa háborúi kicsúsztak az irányítás alól. Szerencsére Angliában biztonságban lehetnek a francia-holland háborútól.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Közösségi médiás állítás migránsok csempészéséről és háborús helyzetről, amely nem ellenőrzött és részben pontatlan történelmi utalást tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:44.415160+00:00"
+    },
+    "telegram:1261826972:54390": {
+      "hu_text": "Videóval: Ünnepség, táncok, emlékek Pedro Sáncheznek és búcsú a Ceutai táborból, amelyet Óscar Puente rendelt el. A migránsok maguk rögzítették a rendőri műveletet a tábor belsejéből. A spanyol kormány lebontottnak tekinti a kikötői létesítményt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi hatósági műveletről szóló beszámoló, amely nem ellenőrzött, de releváns a határbiztonság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:44.415163+00:00"
+    },
+    "telegram:1261826972:54397": {
+      "hu_text": "A rendőrség 10 fiatalkorút tartóztatott le befogadó központokban történt incidensek miatt, amelyek során 4 dolgozó könnyebb sérüléseket szenvedett. Két verekedés zajlott a két ideiglenes létesítményben, anyagi károkat is okozva. Lányok is érintettek voltak az eseményekben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Rendőrségi intézkedésekről szóló beszámoló befogadó központokban történt incidensekről, nem ellenőrzött, de releváns a határbiztonság és migrációs helyzet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-08T16:29:44.415165+00:00"
     }
   },
   "legacy_reviews": {}
