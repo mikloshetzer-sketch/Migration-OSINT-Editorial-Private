@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "reviews": {
+    "group:691": {
+      "hu_text": "@ShaneSchaetzel A GOP letartóztatott egy 8 éves haiti menekült kisfiút. Kérlek, egyeztesd össze ezt az abszolutizmusoddal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy konkrét eseményről, de nincs megerősített forrás vagy bizonyíték a letartóztatásra, ezért nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:45.407386+00:00"
+    },
+    "group:692": {
+      "hu_text": "@MountainGenera Szlovákia nem volt 100%-ban szlovák a 9. század óta. (De különbség van a kb. 900 körül érkezett magyar vagy a 12. századi német polgár, és a tegnap érkezett menekült között.)",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi megállapítás, amely nem igényel azonnali ellenőrzést, és nem tartalmaz konkrét aktuális eseményt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:45.407405+00:00"
+    },
+    "group:693": {
+      "hu_text": "RIADÓ:⚠️🇪🇸 Spanyolország, november eleje. Több mint 4000 irreguláris migráns érkezett, szinte mind muszlim férfi. \n - Egyiket sem várják kitoloncolni. \n - Pedro Sánchez tervezi elosztani őket Spanyolországban és végül egész Európában. \n - Pedro Sánchez egy https://t.co/g8Bun4LcSf https://t.co/awrh2WXd6f",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és politikai szándékot állít, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:45.407410+00:00"
+    },
+    "group:694": {
+      "hu_text": "@BrittanyinTexas Lehet, hogy a fehéroroszországi nagyszülei azóta beszélnek angolul, amióta menekültként érkeztek az USA-ba?! Csak kérdezem ???",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Kérdéses, feltételező jellegű megjegyzés, nem állít tényt, így nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:45.407414+00:00"
+    },
+    "information:25705": {
+      "hu_text": "'Most már van reményünk, hogy a demokraták nyertek' – Hatalmas migráns karaván tör át a mexikói határon az USA felé a középtávú választások után (VIDEÓ) https://t.co/FqwOjICJGs #gatewaypundit via @gatewaypundit",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét eseményről szóló állítás, de forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:45.407418+00:00"
+    },
+    "information:25714": {
+      "hu_text": "Trump azt mondja egy 60 Minutes interjúban, hogy a kitoloncolási politikája talán \"túl kemény\" volt. Elismeri, hogy az erős határzár és a kemény bevándorlási intézkedések egyszerre segítették és ártották a választási eredményeit, és nyitott lenne együttműködésre a demokratákkal az ügyben.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az interjú és Trump nyilatkozata nyilvános és ellenőrizhető forrásból származik, így az állítás igazolt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:45.407421+00:00"
+    }
+  }
+}
