@@ -386,6 +386,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T08:50:57.794095+00:00"
+    },
+    "record:mastodon_7d53bfaf43f8524714bb": {
+      "hu_text": "Görög hatóságok 12 holttestet találtak egy migránsokat szállító hajón Kréta szigetének déli részén; 18 embert kimentettek. A holttestek személyazonosságáról és a halálesetek körülményeiről egyelőre nincs további információ.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy konkrét migrációs tragédiáról szól, amely fontos információ lehet a migrációs események nyomon követéséhez. Az információ forrása egy hírügynökség, de a részletek még nem teljesen tisztázottak, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:51:09.704560+00:00"
+    },
+    "record:reddit_1xrlvxa": {
+      "hu_text": "Diwali ünnep után ma munkahelyre mentem. Saját cégem is van négy partnerrel együtt. Olyan érzés, mintha a 90-es vagy korai 2000-es években lennék, amikor nem volt sok migráns más államokból. Ma is hasonló érzés volt: 20 perc alatt értem be az irodába, míg normál esetben akár egy óra is lehet a dugó miatt. Nagyon kevés jármű volt az utakon, sem e-riksa, sem autó, sem futár járművek nem voltak. Igazi nyugalom Diwali után.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és tapasztalat a migrációval kapcsolatos társadalmi változásokról, de nem tartalmaz konkrét tényeket vagy adatokat, így alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:51:09.704577+00:00"
+    },
+    "telegram:1261826972:54416": {
+      "hu_text": "Frissítés videóval: A rendőrség újabb migránsok kilakoltatását hajtja végre a kikötői táborban. Ez a második akció 24 órán belül, ma hajnalban kezdődött, tegnap a tábor egyik részét zárták be, ma a másikat akarják lezárni.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy határbiztonsági intézkedésről számol be, ami releváns a migrációs helyzet szempontjából. Az információ forrása egy helyi hírportál, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:51:09.704580+00:00"
+    },
+    "telegram:1688600455:1185": {
+      "hu_text": "Milyen támogatásokat lehet kapni Hollandiában? Állami kiegészítések segíthetnek a lakhatási vagy egészségbiztosítási költségek fedezésében, jogosultság a helyzettől függ. Lakhatási támogatás (huurtoeslag) esetén jövedelmet, megtakarításokat és lakás típusát vizsgálják. Egészségbiztosítási támogatás (zorgtoeslag) nem automatikus, ha RMO-t használsz. Online igényléshez DigiD szükséges. Segítségért fordulj a helyi önkormányzathoz vagy VWN-hez.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos támogatási lehetőségekről tájékoztat, ami fontos a migránsok jogi és szociális helyzetének megértéséhez. Az információ hasznos, de további ellenőrzés javasolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:51:09.704583+00:00"
+    },
+    "telegram:2240007404:853": {
+      "hu_text": "Teherautósofőrt keresnek húsfeldolgozó üzembe Moszkva környékén (Odincovo). Fizetés havi 135 000 rubeltől, műszakonként 4500-5000 rubel. Stabil munka férfiaknak, segítenek a dokumentációban. Ingyenes szállás, étkezés, munkaruházat és engedély. Munka 8:00-20:00-ig, 35 év alatti férfiakat várnak. Barát hozása esetén bónusz 5000 rubel.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsok számára, amely a migrációs munkaerőpiaci helyzethez kapcsolódik. Nem tartalmaz ellenőrizhető tényeket, így alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:51:09.704586+00:00"
     }
   },
   "legacy_reviews": {}
