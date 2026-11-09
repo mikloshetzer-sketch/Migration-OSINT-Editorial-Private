@@ -705,6 +705,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T20:18:54.225149+00:00"
+    },
+    "telegram:1261826972:54432": {
+      "hu_text": "Nincs elegendő hűtőszekrény a holttestek számára: csak 3 tároló van, és mind foglalt.\n\nCeuta ismét egy extrém helyzetet mutat egy mindig érzékeny területen, különösen, mivel határváros.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy súlyos humanitárius helyzetről számol be, amely a migrációs eseményekhez kapcsolódik, de nincs független megerősítés az állításról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:19:00.419053+00:00"
+    },
+    "telegram:1261826972:54446": {
+      "hu_text": "A kikötői tábor felszámolása több mint 300 marokkóit késztetett hazatérésre.\n\nA tábor lebontása felgyorsítja az önkéntes visszatéréseket, miközben néhány kérelmező elveszíti a Spanyolországban maradás reményét az elutasított menedékkérelmek miatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, amely jelentős hatással lehet a migránsok helyzetére, de nincs független forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:19:00.419072+00:00"
     }
   },
   "legacy_reviews": {}
