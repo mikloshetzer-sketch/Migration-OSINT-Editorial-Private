@@ -639,6 +639,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T20:18:41.361757+00:00"
+    },
+    "record:reddit_1xrtucu": {
+      "hu_text": "A Nemzeti Rendőrség letartóztatta egy felfújható csónak kapitányát, amely 13 migránst szállított, köztük három nőt és két kiskorút, a marokkói Bouznika városából az Ibériai-félsziget partjaihoz. | Spanyolország\nForrás",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés konkrét eseményt ír le, de nincs további bizonyíték vagy hivatalos megerősítés, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági események nyomon követése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:54.225119+00:00"
+    },
+    "telegram:1173707041:9740": {
+      "hu_text": "A Migrációs és Menekültügyi Minisztérium a Budapesti Művelettel együttműködve felülvizsgálja a fenntartható visszatérés cselekvési tervét. A minisztérium migrációs ügyekért felelős igazgatója, Dr. Safaa Hussein Ahmed online megbeszélést tartott a Budapesti Művelet képviselőivel, ahol áttekintették a visszatérés és fenntartható integráció főbb pontjait, értékelték a végrehajtás állapotát, és megvitatták a kihívásokat, valamint a visszatérők társadalmi és gazdasági integrációját támogató intézkedéseket. A minisztérium elkötelezett a fenntartható visszatérés fejlesztése mellett, és hangsúlyozza a nemzetközi szervezetekkel való együttműködés fontosságát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos minisztériumi kommunikációnak tűnik, de nincs külső megerősítés vagy részletes bizonyíték, ezért ellenőrizetlennek minősül. Fontos a migrációs politika nyomon követése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:54.225137+00:00"
+    },
+    "telegram:1173707041:9744": {
+      "hu_text": "A Migrációs és Menekültügyi Minisztérium egy állandó foglalkoztatási központ létrehozását tervezi a visszatérők gazdasági integrációjának támogatására. Egy széleskörű megbeszélést tartottak Bagdadban, ahol több minisztérium, egyetem, kereskedelmi kamara és nemzetközi szervezet képviselői vettek részt. A cél a visszatérők számára fenntartható munkahelyek biztosítása, szakmai képzés és készségfejlesztés, valamint a munkaerőpiaci igényekhez igazodó adatbázis létrehozása.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos minisztériumi tájékoztatónak tűnik, de nincs külső megerősítés, ezért ellenőrizetlen. Fontos a migránsok gazdasági integrációját támogató politikák követése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:54.225140+00:00"
+    },
+    "telegram:1261826972:54418": {
+      "hu_text": "Videóval ▶ Így próbálnak meg a Ceutából az Ibériai-félszigetre menekülni a migránsok: a teherautó mint menekülési eszköz. A teherautó-sofőröknek figyelniük kell, hogy ne bújjanak be a rakományba vagy a jármű alá migránsok, és maguk jelzik ezt a Polgári Gárdának. Fotógaléria is elérhető.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migránsok mozgására vonatkozó megfigyelést tartalmaz, de nincs hivatalos megerősítés vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:54.225143+00:00"
+    },
+    "telegram:1261826972:54423": {
+      "hu_text": "Migránsok menekülnek az elűzés elől: a Polgári Gárda majdnem 50 embert mentett meg. A Tengeri Szolgálat több órán belül hat migránsokkal teli hajót fogott el, amelyek Ceutából az Ibériai-félsziget partjai felé tartottak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés határbiztonsági eseményről számol be, amely fontos a migrációs helyzet szempontjából, de nincs hivatalos megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:54.225146+00:00"
+    },
+    "telegram:1261826972:54429": {
+      "hu_text": "Videóval ▶ Kiskorúak, akik szeretnének, de nem tudnak visszatérni Marokkóba Ceutából: szomorú kép. Két körülbelül tízéves kiskorú segítséget kért a határon, hogy visszatérhessen az országába a szüleivel, de az illetékes miniszter szerint egyetlen kiskorút sem sikerült visszaküldeni Ceutából, mert ez nem könnyű.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy humanitárius problémát ír le, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:54.225149+00:00"
     }
   },
   "legacy_reviews": {}
