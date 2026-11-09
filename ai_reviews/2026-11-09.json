@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T01:20:45.407421+00:00"
+    },
+    "information:25721": {
+      "hu_text": "Az arab-muszlim rabszolga-kereskedelem több mint 1300 évig tartott a 7. századtól kezdve, és becslések szerint 9-17 millió afrikait szállítottak át Szaharán, a Vörös-tengeren és az Indiai-óceánon keresztül. A férfi foglyokat gyakran megcsonkították; a nőket ágyasnak vitték. Ez a kereskedelem tovább tartott, mint az atlanti rabszolga-kereskedelem.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi tényként ismert, de a pontos számadatok és részletek nem ellenőrzöttek ebben a forrásban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:54.143877+00:00"
+    },
+    "information:25722": {
+      "hu_text": "Ismét megtörtént: Migráns invázió nyomja el a spanyol szigetet, 2300 érkezett öt nap alatt, miközben Madrid a megérkezőket a szárazföldre szállítja. November első öt napjában több mint 3200 ember érkezett a Kanári-szigetekre 39 hajón. Az EFE spanyol hírügynökség kiszámolta az adatokat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, de az állítások nem ellenőrzöttek független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:54.143895+00:00"
+    },
+    "information:25730": {
+      "hu_text": "Az emberi jogi szervezet (HRW) dokumentálta, hogy migránsokat adtak el fogvatartási táborokból, például Kufrából, Gaddafi alatt váltságdíjért vagy kényszermunkára. A rezsim szigorúan ellenőrizte és adóztatta az embercsempészetet, hogy nyomást gyakoroljon Európára. Az állami összeomlás után 2011-ben nyílt rabszolgapiacok jelentek meg.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos humanitárius kérdéseket vet fel, de az állítások nem függetlenül ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:54.143900+00:00"
+    },
+    "information:25731": {
+      "hu_text": "Szerintem a legtöbben egyetértenek, de te megnyitottad a határokat és több mint 10 millió ellenőrizetlen migránssal árasztottad el az országot. Ez 50 milliárd dollárral gazdagította a kartelleket; a történelem legnagyobb gyermekkereskedelmi művelete volt. Most pedig blokkolod azoknak a nemrég érkezetteknek a kitoloncolását, akik nem azok, akiket leírsz. Álszent vagy.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások keveréke, amelyek nem bizonyítottak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:54.143904+00:00"
+    },
+    "record:2119576904772812800": {
+      "hu_text": "Ébresztő: Spanyolország, november eleje. Több mint 4000 irreguláris migráns érkezett, szinte mind muszlim férfi. Egyiket sem várják kitoloncolni. Pedro Sánchez tervezi, hogy szétosztja őket Spanyolországban, majd egész Európában.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, de az állítások nem ellenőrzöttek független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:54.143908+00:00"
+    },
+    "record:2119577672145588703": {
+      "hu_text": "Spanyolország, november eleje. Több mint 4000 irreguláris migráns érkezett, szinte mind muszlim férfi. Egyiket sem várják kitoloncolni. Pedro Sánchez tervezi, hogy szétosztja őket Spanyolországban, majd egész Európában. Pedro Sánchez bűnöző.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások keveréke, amelyek nem bizonyítottak, a személyeskedő jelző miatt társadalmi diskurzus kategória.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:20:54.143913+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
