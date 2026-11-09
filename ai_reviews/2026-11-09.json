@@ -573,6 +573,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T20:18:28.584351+00:00"
+    },
+    "record:2119876341667430739": {
+      "hu_text": "• Irán elutasította az Egyesült Államok követelését, hogy korlátozza rakétái hatótávolságát, és bejelentette, hogy olyan rakétákat tervez, amelyek 15 000 km-re is elérnek.\n\n• Egy pakisztáni migráns taxisofőrt, Muhamadot Skóciában azzal vádoltak, hogy megerőszakolt egy utast.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások migrációval kapcsolatosak, de nem ellenőrzött forrásból származnak, különösen a bűncselekmény vádja miatt. A rakétaprogrammal kapcsolatos rész nem migrációs esemény, de a taxisofőr esete migráns vonatkozású. Az információk hitelessége nem bizonyított.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:41.361725+00:00"
+    },
+    "record:2119876473050018194": {
+      "hu_text": "Spanyolország Kanári-szigeteit elárasztó migrációs válság feszíti a helyi közösségeket, és komoly kérdéseket vet fel a Pedro Sánchez vezette PSOE-kormány határkezelésével kapcsolatban. Közel 5000 migráns érkezett a szigetekre.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A migrációs esemény jelentős hatással van a helyi közösségekre és politikai vitákat vált ki, de az állítások nem ellenőrzöttek, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:41.361744+00:00"
+    },
+    "record:2119880658986168420": {
+      "hu_text": "Nem. Teljes bizonyosság ritka, de a nyilvános adatok szerint nincs bizonyíték arra, hogy bármelyikük külföldi ügynök lenne. Fahnbulleh brit állampolgár és képviselő, aki gyerekként menekültként érkezett Libériából, az LSE-n végzett közgazdászként épített karriert, és jelenleg brit kabinettag.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy társadalmi diskurzus része, amely migrációs háttérrel rendelkező politikusok státuszát tárgyalja, de nem migrációs esemény vagy politika. Az állítások nem ellenőrzöttek, de nem is kritikusak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:41.361748+00:00"
+    },
+    "record:2119883577441636364": {
+      "hu_text": "Legalább 39 ember meghalt, miután egy migránshajó felborult Szenegál partjainál, miközben a spanyolországi Kanári-szigetek felé tartott. Egy túlélőt kimentettek, a hiányzó utasok száma ismeretlen.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs tragédia, amely jelentős humanitárius következményekkel jár, de az információk még nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:41.361751+00:00"
+    },
+    "record:2119884268222763268": {
+      "hu_text": "Ma megkezdődtek a meghallgatások Kanada alkotmányossági kifogásával kapcsolatban, amely az országba érkező menekültek többségének visszaküldését az Egyesült Államokba említi embertelen gyakorlatként.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos jogi és politikai kérdés a menekültek kezelésével kapcsolatban, de az állítások még nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:41.361754+00:00"
+    },
+    "record:2119886028194414626": {
+      "hu_text": "Igen. A Reuters, AP, CNN és más források megerősítik, hogy több száz, akár ezer főt számláló, főként hondurasi migráns karaván lépett be Dél-Mexikóba a hétvégén, és észak felé tart. Egyes résztvevők remélik, hogy a Demokrata Párt középtávú választási sikerei enyhítik az Egyesült Államok határőrizeti intézkedéseit. A jelenlegi határpolitika változatlan.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több megbízható hírforrás is megerősítette a karaván létezését és mozgását, így részben ellenőrzöttnek tekinthető. Fontos migrációs mozgásról van szó, amely jelentős hatással lehet a régióra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:41.361757+00:00"
     }
   },
   "legacy_reviews": {}
