@@ -133,6 +133,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T01:20:54.143913+00:00"
+    },
+    "record:2119588044521271314": {
+      "hu_text": "@BrittanyinTexas Lehetséges, hogy a nagyszülei Fehéroroszországból már az Egyesült Államokba menekültként érkezve beszéltek angolul? Csak kérdezem ???",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, vélemény vagy feltételezés, amely nem tartalmaz konkrét tényállítást vagy bizonyítható adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:21:02.672548+00:00"
+    },
+    "record:2119591024624603355": {
+      "hu_text": "🇪🇸 Spanyolország, november eleje. Több mint 4000 irreguláris migráns érkezett, szinte mind muszlim férfiak. Egyiket sem várják kitoloncolni. Pedro Sánchez tervezi, hogy szétosztja őket Spanyolországban, majd Európában. Pedro Sánchez bűnöző.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét állítást tesz migrációs politikáról és kitoloncolásról, de nincs megerősített forrás vagy hivatalos adat a szövegben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:21:02.672566+00:00"
+    },
+    "record:2119599984584663223": {
+      "hu_text": "El Hierro szigetén, amelynek kb. 11 400 lakosa van, november 1. óta több mint 3300 migráns érkezett, és a helyi tanács vészhelyzetet hirdetett (Reuters). A mentési rendszer, amely a megérkezőket szállítja, nem csökkenti az áramlást, csak szervezi azt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A Reuters hírügynökségre hivatkozva valós adatokat közöl a migrációs eseményről, de a teljes kép és a mentési rendszer hatékonysága további ellenőrzést igényelhet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:21:02.672569+00:00"
+    },
+    "record:2119600583539638674": {
+      "hu_text": "@MountainGenera Szlovákia nem volt 100%-ban szlovák a 9. század óta. (De különbség van a kb. 900 körül érkezett magyar vagy a 12. századi német polgár, és a tegnap érkezett menekült között.)",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi és társadalmi véleményt fogalmaz meg, amely nem tartalmaz konkrét, ellenőrizhető tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:21:02.672573+00:00"
+    },
+    "record:2119600086380384463": {
+      "hu_text": "@ShaneSchaetzel A Republikánus Párt éppen letartóztatott egy 8 éves haiti menekült kisfiút. Kérem, egyeztesse ezt az abszolutizmusával.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy bizonyíték a letartóztatás megtörténtéről. Ezért az állítás ellenőrizetlen marad. Fontos a további ellenőrzés, mert érzékeny témát érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T01:21:07.656408+00:00"
     }
   },
   "legacy_reviews": {}
