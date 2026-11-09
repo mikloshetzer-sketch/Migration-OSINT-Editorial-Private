@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T01:21:07.656408+00:00"
+    },
+    "group:695": {
+      "hu_text": "Kipchumba Murkomen belügyminiszter és Eliud Lagat, a kenyai rendőrség helyettes főfelügyelője megérkeztek a Nairobiban található Radisson Blu Hotelbe egy magas szintű menekültügyi Shirika terv értekezlet előtt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos személyek érkezéséről szól egy menekültügyi értekezletre, de nincs további bizonyíték a találkozó tartalmáról vagy eredményéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:38.764969+00:00"
+    },
+    "group:696": {
+      "hu_text": "Kipchumba Murkomen belügyminiszter és Eliud Lagat, a kenyai rendőrség helyettes főfelügyelője megérkeztek a Nairobiban található Radisson Blu Hotelbe egy magas szintű menekültügyi Shirika terv értekezlet előtt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos személyek érkezéséről szól egy menekültügyi értekezletre, de nincs további bizonyíték a találkozó tartalmáról vagy eredményéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:38.764991+00:00"
+    },
+    "information:25752": {
+      "hu_text": "Világszerte 12 migránst találtak holtan egy hajón a görögországi Kréta közelében, miközben több százan érkeznek Líbiából.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálos migrációs esemény jelentős, de az információ forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:38.764996+00:00"
+    },
+    "information:25753": {
+      "hu_text": "Világszerte 12 migránst találtak holtan egy hajón a görögországi Kréta közelében, miközben több százan érkeznek Líbiából.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálos migrációs esemény jelentős, de az információ forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:38.764999+00:00"
+    },
+    "information:25769": {
+      "hu_text": "Az új migránshullám söpör végig a Kanári-szigeteken, ahol rekord számú illegális bevándorló érkezett az El Hierro szigetre. Az európai migrációs politika továbbra is szabad tengeri taxiként működik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, de nem tartalmaz konkrét bizonyítékokat, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:38.765001+00:00"
+    },
+    "information:25770": {
+      "hu_text": "Etiópiában ellátó központok menedéket és védelmet nyújtanak, valamint harci drónok kiindulópontjai, amelyek a szudáni határ menti menekülttáborokat bombázzák.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos humanitárius problémát vet fel, de nincs megerősített forrás, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:38.765004+00:00"
     }
   },
   "legacy_reviews": {}
