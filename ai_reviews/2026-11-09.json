@@ -441,6 +441,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T08:51:09.704586+00:00"
+    },
+    "group:697": {
+      "hu_text": "A Nemzeti Rendőrség letartóztatta egy felfújható csónak kapitányát, amely 13 migránst szállított, köztük három nőt és két kiskorút, a marokkói Bouznika városából az Ibériai-félsziget partjaihoz.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági esemény, de nincs megerősített forrás vagy további bizonyíték a letartóztatásról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:17.519277+00:00"
+    },
+    "group:698": {
+      "hu_text": "Fahnbulleh brit állampolgár és képviselő, aki gyerekként menekültként érkezett Libériából, az LSE-n végzett közgazdászként építette karrierjét az Egyesült Királyságban, és jelenleg kabinettag. Nincs bizonyíték arra, hogy külföldi ügynök lenne.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és személyes háttérinformáció, nincs közvetlen migrációs esemény vagy jogi vonatkozás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:17.519300+00:00"
+    },
+    "information:25816": {
+      "hu_text": "Két tenger, több tucat halott. Migránsbalesetek Görögország és Szenegál partjainál rámutatnak a veszélyes mediterrán és atlanti átkelések emberi költségeire.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius információ a migrációs tragédiákról, de nincs közvetlen bizonyíték a halálesetek pontos számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:17.519305+00:00"
+    },
+    "information:25833": {
+      "hu_text": "Független választói vélemény: korlátozott amnesztiát támogatok, de csak valódi bevándorlási reformmal együtt, amely szigorítja a követelményeket. Nem jár amnesztia azoknak, akik illegálisan léptek be vagy bűncselekmény miatt elítéltek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény a bevándorlási politikáról, nincs konkrét tényállítás vagy esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:17.519308+00:00"
+    },
+    "information:25841": {
+      "hu_text": "Migránskaraván tart az Egyesült Államok határa felé a demokrata félidős választási győzelmek után — 500-an léptek be Mexikóba. Nem véletlen egybeesés.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás migrációs mozgásról politikai összefüggésben, de nincs megerősített adat a karavánról vagy a belépők számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:17.519312+00:00"
+    },
+    "information:25849": {
+      "hu_text": "Krétától délre több migráns hajóbaleset történt, amelyek halálesetekhez és mentési műveletekhez vezettek, kiemelve a folyamatos mediterrán migrációs válságot.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius események a migrációs válságban, de nincs részletes bizonyíték a halálesetek számáról vagy körülményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:17.519315+00:00"
     }
   },
   "legacy_reviews": {}
