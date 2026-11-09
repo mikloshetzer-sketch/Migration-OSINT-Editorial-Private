@@ -507,6 +507,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T20:18:17.519315+00:00"
+    },
+    "information:25855": {
+      "hu_text": "@donmcgowan 10 000 csónakos migráns érkezett, mióta Burnham-et ránk erőltették – mindegyikük támogatása élete során 350 000 fontba kerül, hacsak nem tudjuk visszaküldeni őket – amit nem tudunk. Emellett évente 4-5 MILLIÁRD fontot költenek menedékjogi lakhatásra. Van pénz, de nem ránk költik. Az általános orvosok már a végét járják.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés állításokat tartalmaz a migránsok számáról és költségeiről, de nincs megerősített forrás vagy bizonyíték. A tartalom politikai vélemény és társadalmi vita része.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:28.584320+00:00"
+    },
+    "information:25856": {
+      "hu_text": "Ha én lennék a határokért felelős, a gazdasági migránsokat börtönbe zárnám, majd tíz naponta visszaküldeném őket csónakkal Franciaországba. Nem tudják ellenőrizni a Calais-t elhagyókat, így a 3 016 mérföldnyi partszakasz könnyen őrizhető lenne. Az EU baloldali vezetői ezt nem fogják szeretni, de ez van. Legyenek határozottak @number10gov.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és javaslat a határvédelemről, nincs bizonyíték vagy tényállítás, amely ellenőrizhető lenne.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:28.584338+00:00"
+    },
+    "information:25876": {
+      "hu_text": "🚨🇪🇸 La Restinga, a spanyolországi Kanári-szigetek lakosai az utcára vonultak, hogy tiltakozzanak a migránscsónakok folyamatos érkezése ellen. A helyiek szerint a kikötő, a halászati tevékenységek és a közszolgáltatások egyre nagyobb nyomás alatt állnak. A lakosok válaszokat és sürgős intézkedéseket követelnek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi tiltakozásról számol be, amely migrációs nyomásra reagál. Nincs független megerősítés, de a tartalom releváns a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:28.584342+00:00"
+    },
+    "information:25877": {
+      "hu_text": "@realyairpinto Izrael hazudik, és a hazudozók fedezik Izraelt. A fő fizikai szűk keresztmetszet az izraeli hatóságok szigorú ellenőrzése a Gázai övezetbe vezető határátkelőknél. • A „kettős felhasználású” szabály: alapvető menedéktárgyak – például nehéz ponyvák, fa szerkezetek és fém keretek – korlátozása.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a Gázai övezet határainál alkalmazott izraeli szabályozásról, de nincs független bizonyíték. A tartalom politikai és biztonsági kérdéseket érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:28.584345+00:00"
+    },
+    "record:1261826972:54423": {
+      "hu_text": "🚩 Migránsok menekülnek a kitoloncolás elől: majdnem 50-et mentett meg a Polgári Gárda. ➡️ A Tengerészeti Szolgálat órák alatt hat csónakot fogott el, amelyek migránsokkal voltak tele, akik Ceutából próbáltak eljutni a szárazföldi partokhoz.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Friss információ migránsok mozgásáról és hatósági beavatkozásról, releváns a migrációs események követéséhez. Az eredeti forrás linkje is megadott, de további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:28.584348+00:00"
+    },
+    "record:2119874204778545552": {
+      "hu_text": "Négy gyanús embercsempész bandatagot tartóztattak le a hétvégén Görögország észkeleti szárazföldi határánál Törökországgal, akik migránsokkal teli járműveket vezettek nyugat felé.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Friss információ embercsempész letartóztatásokról a migrációs útvonalon, fontos a migrációs hálózatok feltérképezéséhez. Az állítás ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T20:18:28.584351+00:00"
     }
   },
   "legacy_reviews": {}
