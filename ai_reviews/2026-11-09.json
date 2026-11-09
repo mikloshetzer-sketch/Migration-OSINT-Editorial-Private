@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T08:50:48.898005+00:00"
+    },
+    "record:2119710764550455806": {
+      "hu_text": "FRISS HÍR 🇬🇷🇪🇸🇲🇦: A görög parti őrség 20 holttestet talált és több mint 20 afrikai migránst (főként Marokkóból) mentett ki egy olyan hajóról, amely megpróbált európai területre belépni Kréta szigetén keresztül.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről számol be, de nincs közvetlen bizonyíték a hitelességre, ezért előzetesen ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:57.794067+00:00"
+    },
+    "record:2119710844636316105": {
+      "hu_text": "A legtöbb 'illegális' migráns Kanadában legálisan lépett be, majd túltartózkodott, míg az Egyesült Királyságba irányuló illegális migránsok akár 10 országot is átlépnek, ahol maradhatnának, mielőtt megpróbálnának belépni az Egyesült Királyságba.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz migrációs mozgásokról, de nincs megerősített forrás vagy adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:57.794083+00:00"
+    },
+    "record:2119711807526862919": {
+      "hu_text": "ImNews | Halálos migránshajó-süllyedés következtében 34 ember vesztette életét Szenegál partjainál. Egy személyt kimentettek, sokan eltűntek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos humanitárius tragédiáról számol be, de nincs megerősített bizonyíték, ezért előzetesen ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:57.794087+00:00"
+    },
+    "record:2119712802411786616": {
+      "hu_text": "Világhír: Az elmúlt napokban mintegy 20 migráns vesztette életét, miközben megpróbált eljutni a görögországi Kréta szigetére, közölte a parti őrség hétfőn.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről szól, de nincs közvetlen bizonyíték a hitelességre, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:57.794089+00:00"
+    },
+    "record:2119713056401899911": {
+      "hu_text": "Érkezések: Kipchumba Murkomen belügyminiszter és Eliud Lagat, a kenyai rendőrség helyettes főfelügyelője megérkeztek a Nairobiban található Radisson Blu Hotelbe egy magas szintű menekültügyi Shirika terv értekezlet előtt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai és adminisztratív eseményről számol be, amely kapcsolódhat a migrációs politikához, de nincs további információ a tartalomról vagy hatásról, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:57.794092+00:00"
+    },
+    "record:2119713197829611786": {
+      "hu_text": "Érkezések: Kipchumba Murkomen belügyminiszter és Eliud Lagat, a kenyai rendőrség helyettes főfelügyelője megérkeztek a Nairobiban található Radisson Blu Hotelbe egy magas szintű menekültügyi Shirika terv értekezlet előtt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ugyanaz az esemény, mint az előző rekordban, adminisztratív jellegű, nincs további bizonyíték, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:57.794095+00:00"
     }
   },
   "legacy_reviews": {}
