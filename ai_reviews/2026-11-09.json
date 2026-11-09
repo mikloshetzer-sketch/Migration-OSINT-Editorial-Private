@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T08:50:38.765004+00:00"
+    },
+    "information:25778": {
+      "hu_text": "Egy kis hajón érkező migráns becsült élettartam-költsége 300 000–400 000 font, míg az eddigi érkezések összköltsége várhatóan eléri a 67 milliárd fontot.\nCsak a #Reform fogja megállítani a hajókat és előtérbe helyezni a briteket‼️",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A költségbecslések és politikai állítások nem ellenőrzöttek, nincs megbízható forrás a számok alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:48.897977+00:00"
+    },
+    "information:25779": {
+      "hu_text": "Legalább 34 halott egy migránshajó elsüllyedése után Szenegál partjainál.\nEgy hajó süllyedt el Kébémer közelében, és a halottak száma legalább 34-re nőtt, miután további holttesteket találtak. Egy személyt kimentettek.\nSzenegál elnöke, Bassirou Diomaye Faye nyilatkozott az esetről.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesettel járó eseményről szóló jelentés, de nincs független megerősítés vagy részletes forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:48.897994+00:00"
+    },
+    "information:25785": {
+      "hu_text": "Még mindig ki akarja toloncolni azokat a papírtalan migránsokat, akik gyilkosságban vagy kábítószer-kereskedelemben vettek részt, de azt javasolta, hogy mások – különösen azok, akik dolgoznak és adót fizetnek – legálisan maradhatnának az Egyesült Államokban.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai állítás migrációs politikáról, nincs megerősített forrás vagy hivatalos dokumentum a pontos részletekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:48.897997+00:00"
+    },
+    "record:2119708138727264374": {
+      "hu_text": "@ReformUKSam Természetesen, de ha nem szünteti meg a Alkotmányreform törvényt és az Emberi Jogok Törvényét a Menekültügyi Egyezmény felfüggesztése és az ECHR elhagyása mellett, akkor egyik sem fog megvalósulni!",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és követelés, nincs bizonyíték a megvalósulásra vagy hatására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:48.898000+00:00"
+    },
+    "record:2119709077433385026": {
+      "hu_text": "Görögország: 12 migráns holttestét találták meg egy hajóban Kréta partjainál. 12 holttest került elő, 18 embert kimentettek. Az eset hétfőn, november 9-én történt, mintegy 15 tengeri mérföldre Kali Limenes közelében, Kréta déli részén. A halálok még nem ismert.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesettel járó migrációs esemény, de nincs hivatalos vagy független megerősítés a részletekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:48.898002+00:00"
+    },
+    "record:2119709577562525707": {
+      "hu_text": "Legalább 35 migráns fulladt meg Szenegál partjainál, miután egy fa hajó, amely menedékkérőket szállított, felborult. Egy ismert túlélőt kimentettek az Atlanti-óceáni migrációs útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesettel járó migrációs eseményről szól, de nincs független vagy hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-09T08:50:48.898005+00:00"
     }
   },
   "legacy_reviews": {}
