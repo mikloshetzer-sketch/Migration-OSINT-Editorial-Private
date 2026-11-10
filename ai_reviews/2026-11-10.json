@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T03:56:07.224296+00:00"
+    },
+    "record:2119998784335941871": {
+      "hu_text": "Jelentések szerint növekszik a migránsok érkezése Spanyolország Kanári-szigeteire, a havi számok akár a 10 000-et is meghaladhatják. NGO önkéntesek is fogadják a csónakkal érkezőket.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentett adatokat nem erősítették meg hivatalos források, de a téma migrációs mozgásra vonatkozó korai figyelmeztetés, ezért fontos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:17.809007+00:00"
+    },
+    "record:2120000170905735562": {
+      "hu_text": "Tragédia: legalább 39 ember meghalt, miután egy migránscsónak elsüllyedt Szenegál partjainál. Egy túlélőt mentettek ki, a keresési műveletek folytatódnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesetekről szóló jelentés, amely korai figyelmeztetésként szolgálhat a migrációs útvonal veszélyeiről, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:17.809022+00:00"
+    },
+    "record:reddit_1xsa21k": {
+      "hu_text": "Szenegál partjainál egy migránscsónak balesetében 39-en haltak meg, egy túlélő van. A csónak Saint-Louis-ból indult Spanyolország felé az Atlanti-óceáni útvonalon, amelyet sok nyugat-afrikai fiatal használ. Ez nem egyedi eset: 2026 első öt hónapjában 1317 halálesetet regisztráltak a spanyolországi migrációs útvonalakon, ebből 635 az Atlanti-óceánon a Kanári-szigetek felé. Emellett Görögországban is 14 halálesetet erősítettek meg egy másik hajóbalesetben.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletes beszámoló több halálesetről és migrációs útvonalakról, de források ellenőrzése szükséges, mivel közösségi médiás bejegyzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:17.809026+00:00"
+    },
+    "record:reddit_1xsayar": {
+      "hu_text": "Szenegál partjainál egy migránscsónak elsüllyedt, legalább 39 halott van, egy túlélő. A csónak a Dakar és Saint-Louis közötti útvonalon süllyedt el, Spanyolország Kanári-szigetei felé tartott. Egy spanyol migránsjogi szervezet 2026 első öt hónapjában 635 halálesetet regisztrált az Atlanti-óceáni útvonalon, ez a legmagasabb szám az általuk figyelt útvonalak között.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs tragédia korai figyelmeztetése, de a forrás nem hivatalos, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:17.809030+00:00"
+    },
+    "record:reddit_1xsb5r6": {
+      "hu_text": "Meta-cionizmus jelenségéről szóló vélemény, amely szerint vannak olyan személyek, akik nem feltétlenül támogatják Izrael államát, de cionista ügyeket támogatnak, és ezt a kettősséget kihasználva akadályozzák az ellenük irányuló kritikát. Példaként egy amerikai politikai kampányt említenek, ahol egy jelöltet cionista támogatók finanszíroztak, és az ellenfelek ezt kritizálták, de az anti-cionista baloldal egyes szereplői ezt támadták.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus, nem migrációs esemény vagy tényadat, ezért alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:17.809034+00:00"
+    },
+    "telegram:1604168769:12558": {
+      "hu_text": "Oroszországban továbbra is munkaerőhiány tapasztalható. Elvira Nabiullina, az orosz központi bank vezetője szerint a munkaerőhiány némileg enyhült, de még mindig korlátozza a gazdaságot, és akadályozza a termelés növelését.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Gazdasági háttérinformáció, amely közvetetten érintheti a migrációt, de nem migrációs esemény vagy közvetlen migrációs szándék.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:17.809037+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
