@@ -276,6 +276,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T11:59:05.237483+00:00"
+    },
+    "record:2120119944348057807": {
+      "hu_text": "A Labour párt 88 221 ellenőrizetlen illegális migránsnak engedte meg, hogy kis hajókon átkeljenek a Csatornán, amióta hatalomra jutott.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számadatokat tartalmaz illegális migrációról, ami fontos a migrációs helyzet értékeléséhez, de nincs megerősített forrás vagy bizonyíték a számok hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:13.479225+00:00"
+    },
+    "record:2120120689743049127": {
+      "hu_text": "Andy Burnham miniszterelnökké válása óta 11 038 ellenőrizetlen illegális migránsnak engedte meg, hogy kis hajókon átkeljenek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Szintén konkrét számadatokat tartalmaz az illegális migrációról, ami fontos információ lehet, de nincs megerősített forrás vagy bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:13.479241+00:00"
+    },
+    "record:2120121236483092696": {
+      "hu_text": "Sajnos Rupert Lowe visszavonta a legtöbb állítását: „A jogszerű migránsokat nem lehet kitoloncolni”, „Nem értek egyet Farage tervével a jogszerű migránsok hazatelepítéséről”, „A migránsokat tisztelettel kell kezelni”. A helyzet rosszabb az illegális migránsokra vonatkozó politikájukban.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és állításokat tartalmaz a migrációs politikáról, de nincs bizonyíték a pontos állítások igazolására vagy cáfolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:13.479246+00:00"
+    },
+    "record:2120121445040701612": {
+      "hu_text": "A francia hatóságok megsértik a tengeri és nemzetközi jogot azzal, hogy engedik a hajók elindulását, mert tudják, hogy a migránsok másik országba próbálnak eljutni. Franciaországot hibáztatja minden egyes Csatornán átkelő kis hajós migráns miatt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a nemzetközi jogsértésről és a határbiztonságról, amely fontos lehet a migrációs helyzet megértéséhez, de nincs megerősített bizonyíték a jogsértésre vagy a felelősségre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:13.479250+00:00"
+    },
+    "telegram:1261826972:54457": {
+      "hu_text": "Három hír Ceutából: 1. Két marokkói férfi börtönbüntetés helyett kitoloncolást kérnek, mert vasrudakkal bántalmaztak valakit. 2. A védelmi minisztérium szerint nincs konkrét katonai panasz migránsok elleni erőszakról, de belső vizsgálat folyik. 3. Ceuta egy mesterséges intelligencia központ létrehozásával lép a technológiai jövő felé.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Helyi hírek, amelyek migrációs és társadalmi témákat érintenek, megbízható forrásból származnak, nem tartalmaznak vitatható állításokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:13.479254+00:00"
+    },
+    "telegram:1261826972:54464": {
+      "hu_text": "Megkezdődött a migránsok ponientei kikötői táborának lebontása Ceutában, a korábbi kiürítési műveletek után eltávolítják a berendezéseket is.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hiteles helyi hír a migránsokkal kapcsolatos humanitárius helyzetről, fontos a migrációs helyzet nyomon követéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:13.479258+00:00"
     }
   },
   "legacy_reviews": {}
