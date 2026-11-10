@@ -386,6 +386,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T11:59:21.184222+00:00"
+    },
+    "group:700": {
+      "hu_text": "Az illegális migráció témájában európai hírek: Franciaországban egy 24 éves algériai illegálisan tartózkodó férfi kábítószert kínált egy civil rendőrnek, majd őrizetbe vételkor három rendőrt megütött és egyet megharapott. Olaszországban több incidens történt: egy 23 éves egyiptomi férfi megtámadott egy mentőcsapatot és megrongált egy rendőrautót, egy 21 éves albán férfit késeléses támadás miatt tartóztattak le, egy 22 éves pakisztáni férfit rablással gyanúsítanak, egy 30 éves bangladesi férfit családon belüli erőszak miatt tartóztattak le. Németországban Hamburgban egy 26 éves illegális migránst fogtak el lopás miatt. Görögországon Krétán 20 illegális migráns halt meg, két szudáni szervezőt tartóztattak le. A szöveg szerint Európa a migrációs kísérletek terepe, amely szerző szerint sikertelen, és Oroszországnak ki kell lépnie az ENSZ migrációs programjaiból, valamint le kell állítania a szerinte bűnözést importáló migrációt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg több, konkrét helyszíni eseményt említ, de nem tartalmaz hiteles forrásokat vagy bizonyítékokat, ezért az állítások ellenőrzése szükséges. A téma érzékeny és politikailag fontos, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:01:59.471834+00:00"
+    },
+    "group:701": {
+      "hu_text": "18 migránst fogtak el a kaliforniai partoknál! Szövetségi hatóságok egy 18 mexikói állampolgárt szállító hajót állítottak meg San Clemente-szigettől mintegy 30 mérfölddel délre. A parti őrség a Határ- és Vámvédelmi Hivatal (CBP) észlelése után lépett közbe, mielőtt a hajó elérte volna az amerikai vizeket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos hatósági intézkedést ír le, de nincs közvetlen bizonyíték vagy forrás, ezért ellenőrzés szükséges. A határbiztonsági események fontosak, de nem kiemelten sürgősek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:01:59.471856+00:00"
+    },
+    "group:702": {
+      "hu_text": "Körülbelül 22 000–26 000 illegális migráns érkezett Görögországba, Kréta szigetére Líbiából 2026 elejétől novemberig. A török-líbiai illegális megállapodás után Líbia továbbra is nyomást gyakorol Görögországra, mint EU-tagállamra, migránsokat használva.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A számadatok és a politikai állítások jelentős migrációs eseményt írnak le, de nincs hiteles forrás vagy hivatalos adat, ezért ellenőrzés szükséges. A téma fontos és aktuális.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:01:59.471859+00:00"
+    },
+    "information:26035": {
+      "hu_text": "„Egy darab a szívemből hiányzik”: Maria Flores, a Marylandi Egyetem elsőéves hallgatója és édesanyja az ICE (bevándorlási hatóság) által letartóztatva. Maria és édesanyja a bevándorlási éves ellenőrzésre mentek Baltimore-ban, de nem tértek vissza, és csak később értesült a családjuk a letartóztatásról. Maria egy kiváló tanuló, első generációs egyetemista, aki El Salvadorból érkezett 9 évesen. Két éjszakát töltöttek egy ICE fogdában Virginiában.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eset személyes és humanitárius jellegű, de a forrás közösségi média, nincs hivatalos megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:01:59.471862+00:00"
+    },
+    "information:26054": {
+      "hu_text": "119 migráns próbált átkelni a Csatornán, de a kísérlet sikertelen volt. Franciaországban, Bercknél november 7-én kaotikus jelenetek zajlottak, agresszióval, tárgyak dobálásával és egy baba jeges vízbe vitelével, végül az átkelés nem sikerült.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A beszámoló migrációs eseményt ír le, de nincs hivatalos forrás vagy bizonyíték, ezért ellenőrzés szükséges. Az esemény közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:01:59.471865+00:00"
+    },
+    "information:26062": {
+      "hu_text": "Spanyolországban a Kanári-szigetekre 2026. november 9-én öt hajón mintegy 578 migráns érkezett, ami közel áll a 562-es hivatalos számhoz. Az elmúlt hétvégén több mint 1000 migráns érkezett, és november első 9 napjában több mint 6600-an. Az adatok nagyjából pontosak egy jelentős növekedés közepette.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás részben megerősített, mivel hivatalos spanyol mentőszolgálati jelentésekre hivatkozik, de a pontos napi számok még pontosításra szorulnak. Fontos migrációs adat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:01:59.471867+00:00"
     }
   },
   "legacy_reviews": {}
