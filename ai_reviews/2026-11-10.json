@@ -342,6 +342,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T11:59:13.479258+00:00"
+    },
+    "telegram:1261826972:54472": {
+      "hu_text": "Torres követeli a várostól, hogy nyisson központokat azoknak a kiskorúaknak, akik a kikötői táborokban voltak. A miniszter szerint áthelyezték őket más településekre, de ragaszkodik ahhoz, hogy \"nem lehetnek felnőttekkel együtt\". Másrészt büszke a kikötő felszámolására, amit a Ceutában a normális állapotok helyreállításának \"nagy szimbólumaként\" értékel.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy politikai nyilatkozatot és intézkedést ismertet, de nincs közvetlen bizonyíték a valóságtartalmára, ezért ellenőrizetlen státuszú. Fontos a migrációs politika szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:21.184194+00:00"
+    },
+    "telegram:1604168769:12564": {
+      "hu_text": "Oroszország belügyminisztériuma 2027-től extra adót tervez bevezetni a munkavállaló migránsok nem dolgozó családtagjai után. A törvényjavaslat célja, hogy anyagilag korlátozza a migránsoknak a hozzátartozóik Oroszországba hozatalát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy fontos migrációs szabályozási tervet ismertet, amely jelentős hatással lehet a migránsok családegyesítésére. Az állítás ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:21.184211+00:00"
+    },
+    "telegram:2240007404:876": {
+      "hu_text": "Egy nagy kereskedelmi és gyártó cég bővülése miatt munkatársakat keres: segédmunkásokat és park munkásokat. A munkahely Moszkva környékén, Hímkiben található. A cég hivatalos munkaszerződést, stabil fizetést (3500 rubel műszakonként), ingyenes étkezést, ingyenes szállást regisztrációval, valamint a munkavállalási engedély költségeinek megtérítését kínálja. Külföldi szakembereknek kötelező a moszkvai vagy moszkvai régióra érvényes munkavállalási engedély.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Álláshirdetés migránsoknak, amely munkaerőpiaci lehetőséget mutat be. Az információ ellenőrzése ajánlott, de nem tartalmaz kétségbevonható állítást.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:21.184217+00:00"
+    },
+    "telegram:2240007404:877": {
+      "hu_text": "Egy nagy kereskedelmi és gyártó vállalat bővülése miatt munkásokat keres: segédmunkásokat és park munkásokat. A munkahely Moszkva régióban, Hímkiben található. A cég hivatalos munkaszerződést, stabil fizetést (3500 rubel műszakonként), ingyenes étkezést, ingyenes szállást regisztrációval, valamint a munkavállalási engedély költségeinek megtérítését kínálja. Külföldi munkavállalóknak kötelező a moszkvai vagy moszkvai régióra érvényes munkavállalási engedély.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Álláshirdetés migránsoknak, amely munkaerőpiaci lehetőséget mutat be. Az információ ellenőrzése ajánlott, de nem tartalmaz kétségbevonható állítást.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:21.184222+00:00"
     }
   },
   "legacy_reviews": {}
