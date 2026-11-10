@@ -210,6 +210,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T11:58:57.552003+00:00"
+    },
+    "information:25991": {
+      "hu_text": "@abdutta_ab @sentwts Amint megszüntetjük az 1950-es nyitott határokat, minden koldust visszaküldünk Indiába, együtt a Madesi bihari indiai migránsokkal, akiket terroristáknak és primitív embereknek tartunk. Kitoloncoljuk a pakisztániakat, bangladesieket és rohingyákat is. Mi nepáliak nem tekintünk titeket ázsiaiaknak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és közösségi médiás állítás, amely nem tartalmaz bizonyított tényeket, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:05.237448+00:00"
+    },
+    "information:26001": {
+      "hu_text": "Szenegál közelében egy Európába tartó migránshajó felborult, a halottak száma 39-re emelkedett, a mentési munkálatok tovább folynak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hajóbaleset és a halálos áldozatok száma fontos migrációs esemény, de a forrás nem teljesen ellenőrzött, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:05.237466+00:00"
+    },
+    "information:26010": {
+      "hu_text": "A határ menti kurdok, akik a PKK/YPG/PYD terrorszervezet szimpatizánsai, embercsempészettel foglalkoznak, és ezzel pénzt szereznek a terrorszervezet számára. 1000 dollár ++",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás terrorszervezetek és embercsempészet kapcsolatáról, amely komoly vád, de nincs megerősített bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:05.237471+00:00"
+    },
+    "information:26017": {
+      "hu_text": "A Francia Vöröskereszt segíti az illegális migránsok Európába érkezését.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás egy ismert szervezet szerepéről az illegális migrációban, amely fontos, de nincs megerősített bizonyíték, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:05.237475+00:00"
+    },
+    "information:26023": {
+      "hu_text": "Ez egy szürreális, kaotikus történet egy gazdagok hobbijairól és abszurd eseményekről egy városban, amely nem kapcsolódik a migrációhoz.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg nem tartalmaz migrációval kapcsolatos információt, így irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:05.237479+00:00"
+    },
+    "record:2120118688653205874": {
+      "hu_text": "Spanyolországban, El Hierro szigetén társadalmi vészhelyzetet hirdettek, miután egy hét alatt több mint 3300 migráns érkezett. Frissített protokollok sürgős állami segítséget, Frontex bevetést és napi kompjáratokat írnak elő Tenerifére a helyi összeomlás elkerülése érdekében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jelentős migrációs eseményről szóló információ, amely fontos a határbiztonság és migrációs nyomon követés szempontjából, de nincs teljesen ellenőrzött forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:59:05.237483+00:00"
     }
   },
   "legacy_reviews": {}
