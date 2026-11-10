@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-10",
+  "reviews": {
+    "information:25908": {
+      "hu_text": "Legalább 39 halott egy migránshajó felborulása miatt Szenegál partjainál, a Kanári-szigetek felé vezető útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragédia súlyos migrációs esemény, de a forrás nem ellenőrzött, ezért az állítás igazolása szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:07.224265+00:00"
+    },
+    "information:25926": {
+      "hu_text": "39 halott egy migránshajó felborulása miatt a veszélyes Atlanti-óceáni útvonalon Szenegálnál.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz a tragikus esemény, mint az előző, de forrása nem ellenőrzött, ezért további igazolás szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:07.224281+00:00"
+    },
+    "information:25928": {
+      "hu_text": "„Helló, palesztin vagyok. 🇵🇸 Mivel az őszinteség ritka a politikámban, bevallok néhány dolgot. 1947-ben az ENSZ államot ajánlott nekem Izrael mellett, határokkal, függetlenséggel, elismeréssel. Nem fogadtam el. Vezetőim azt ígérték, hogy a háború „a zsidókat a tengerbe hajtja”. Ehelyett én...”",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi-politikai vélemény és személyes vallomás, nem tényállítás, ezért nem ellenőrizhető igazán.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:07.224286+00:00"
+    },
+    "information:25934": {
+      "hu_text": "A tömeges migráció hatalmas bevételi forrás a szervezett bűnözés számára a déli határ felé vezető útvonalon. Biden elnöksége alatt a migránscsempészetből származó bevételek meghaladták a kábítószer-kereskedelemét. Ezek a bűnszervezetek már növelik a migrációs áramlást egy újabb hullámra számítva.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás a szervezett bűnözés bevételeiről és migrációs trendekről, de nincs megerősített bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:07.224290+00:00"
+    },
+    "record:2119991570048962719": {
+      "hu_text": "Hétfőn 13 migránst találtak holtan egy hajón Kréta déli részén, egy 14. a kórházban halt meg, miközben Görögország több mint 180 migránst mentett ki további három hajóról, amelyek Észak-Afrikából érkeztek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs tragédia és mentési művelet, de a forrás nem ellenőrzött, ezért igazolás szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:07.224293+00:00"
+    },
+    "record:2119997703761604652": {
+      "hu_text": "Erőt kell mutatnunk a déli határon. Migránshullám érkezik, és nem vagyok biztos benne, hogy jelenleg megfelelően védjük a határt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Határbiztonsági vélemény és helyzetértékelés, nem tényállítás, ezért nem ellenőrizhető igazán.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:07.224296+00:00"
+    }
+  }
+}
