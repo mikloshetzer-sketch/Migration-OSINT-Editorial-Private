@@ -453,6 +453,247 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 36.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1406,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-11-10T11:47:47Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "text_excerpt": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "cannot be deported"
+        ],
+        [
+          "legal_protection",
+          "cannot be deported"
+        ],
+        [
+          "HIGH_VALUE",
+          "cannot be deported"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "cannot be deported"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1407,
+      "source": "X",
+      "source_post_id": "2120120689743049127",
+      "author": "MigrantTrackUK",
+      "language": "en",
+      "published_at": "2026-11-10T11:45:37Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@ZiaYusufUK Since becoming PM, Andy Burnham has now allowed 11,038 unchecked illegal migrants to cross by small boat https://t.co/pEl6kSnXtZ",
+      "text_excerpt": "@ZiaYusufUK Since becoming PM, Andy Burnham has now allowed 11,038 unchecked illegal migrants to cross by small boat https://t.co/pEl6kSnXtZ",
+      "url": "https://x.com/MigrantTrackUK/status/2120120689743049127",
+      "source_url": "https://x.com/MigrantTrackUK/status/2120120689743049127",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1408,
+      "source": "X",
+      "source_post_id": "2120119944348057807",
+      "author": "MigrantTrackUK",
+      "language": "en",
+      "published_at": "2026-11-10T11:42:39Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@RupertLowe10 Labour has now allowed 88,221 unvetted illegal migrants to cross the channel by small boat since gaining power https://t.co/aOu1nVD2uk",
+      "text_excerpt": "@RupertLowe10 Labour has now allowed 88,221 unvetted illegal migrants to cross the channel by small boat since gaining power https://t.co/aOu1nVD2uk",
+      "url": "https://x.com/MigrantTrackUK/status/2120119944348057807",
+      "source_url": "https://x.com/MigrantTrackUK/status/2120119944348057807",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1405,
+      "source": "X",
+      "source_post_id": "2120121445040701612",
+      "author": "mickfly58240906",
+      "language": "en",
+      "published_at": "2026-11-10T11:48:37Z",
+      "first_detected_at": "2026-11-10T11:55:29Z",
+      "last_detected_at": "2026-11-10T11:55:29Z",
+      "detection_count": 1,
+      "text": "@britishstandd The French are breaking maritime/international law by allowing the boats to leave because they know they are trying to get to another country. I blame France for every single dinghy migrant crossing the channel.",
+      "text_excerpt": "@britishstandd The French are breaking maritime/international law by allowing the boats to leave because they know they are trying to get to another country. I blame France for every single dinghy migrant crossing the channel.",
+      "url": "https://x.com/mickfly58240906/status/2120121445040701612",
+      "source_url": "https://x.com/mickfly58240906/status/2120121445040701612",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -907,6 +1148,247 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 36.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1406,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-11-10T11:47:47Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "text_excerpt": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "cannot be deported"
+        ],
+        [
+          "legal_protection",
+          "cannot be deported"
+        ],
+        [
+          "HIGH_VALUE",
+          "cannot be deported"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "cannot be deported"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1407,
+      "source": "X",
+      "source_post_id": "2120120689743049127",
+      "author": "MigrantTrackUK",
+      "language": "en",
+      "published_at": "2026-11-10T11:45:37Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@ZiaYusufUK Since becoming PM, Andy Burnham has now allowed 11,038 unchecked illegal migrants to cross by small boat https://t.co/pEl6kSnXtZ",
+      "text_excerpt": "@ZiaYusufUK Since becoming PM, Andy Burnham has now allowed 11,038 unchecked illegal migrants to cross by small boat https://t.co/pEl6kSnXtZ",
+      "url": "https://x.com/MigrantTrackUK/status/2120120689743049127",
+      "source_url": "https://x.com/MigrantTrackUK/status/2120120689743049127",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1408,
+      "source": "X",
+      "source_post_id": "2120119944348057807",
+      "author": "MigrantTrackUK",
+      "language": "en",
+      "published_at": "2026-11-10T11:42:39Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@RupertLowe10 Labour has now allowed 88,221 unvetted illegal migrants to cross the channel by small boat since gaining power https://t.co/aOu1nVD2uk",
+      "text_excerpt": "@RupertLowe10 Labour has now allowed 88,221 unvetted illegal migrants to cross the channel by small boat since gaining power https://t.co/aOu1nVD2uk",
+      "url": "https://x.com/MigrantTrackUK/status/2120119944348057807",
+      "source_url": "https://x.com/MigrantTrackUK/status/2120119944348057807",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants to cross"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants to cross"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1405,
+      "source": "X",
+      "source_post_id": "2120121445040701612",
+      "author": "mickfly58240906",
+      "language": "en",
+      "published_at": "2026-11-10T11:48:37Z",
+      "first_detected_at": "2026-11-10T11:55:29Z",
+      "last_detected_at": "2026-11-10T11:55:29Z",
+      "detection_count": 1,
+      "text": "@britishstandd The French are breaking maritime/international law by allowing the boats to leave because they know they are trying to get to another country. I blame France for every single dinghy migrant crossing the channel.",
+      "text_excerpt": "@britishstandd The French are breaking maritime/international law by allowing the boats to leave because they know they are trying to get to another country. I blame France for every single dinghy migrant crossing the channel.",
+      "url": "https://x.com/mickfly58240906/status/2120121445040701612",
+      "source_url": "https://x.com/mickfly58240906/status/2120121445040701612",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1079,6 +1561,84 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1406,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-11-10T11:47:47Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "text_excerpt": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "cannot be deported"
+        ],
+        [
+          "legal_protection",
+          "cannot be deported"
+        ],
+        [
+          "HIGH_VALUE",
+          "cannot be deported"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "cannot be deported"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120121236483092696"
+      ],
+      "related_authors": [
+        "londonA84648"
+      ],
+      "related_urls": [
+        "https://x.com/londonA84648/status/2120121236483092696"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -1231,9 +1791,383 @@
       "first_collected_at": "2026-11-10T03:54:30Z",
       "last_collected_at": "2026-11-10T03:54:30Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25962",
+      "timestamp": "2026-11-10T11:54:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120122816964051052",
+      "author": "Compass_Report",
+      "url": "https://x.com/Compass_Report/status/2120122816964051052",
+      "source_url": "https://x.com/Compass_Report/status/2120122816964051052",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@Tradin1983 You're pointing at the ultimate hypocrisy. European leaders like Weidel complain about migrants crossing their borders, but Germany and other Western powers spent decades bombing the Middle East and supporting the wars that displaced millions.\n\nYou can't destabilize an entire",
+      "text_excerpt": "@Tradin1983 You're pointing at the ultimate hypocrisy. European leaders like Weidel complain about migrants crossing their borders, but Germany and other Western powers spent decades bombing the Middle East and supporting the wars that displaced millions.\n\nYou can't destabilize an entire",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:03Z",
+      "last_collected_at": "2026-11-10T11:55:03Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25984",
+      "timestamp": "2026-11-10T11:48:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120121314161652012",
+      "author": "ThePatriotOasis",
+      "url": "https://x.com/ThePatriotOasis/status/2120121314161652012",
+      "source_url": "https://x.com/ThePatriotOasis/status/2120121314161652012",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "🔥🚨 LOOK — This is a camp in the woods of northern France, packed with illegal migrants waiting for a small boat to carry them across the Channel to the UK.\n\nTarps on the ground. Campfires. Dozens of people sitting in the dirt, waiting for their ride.\n\nThe caption on the video",
+      "text_excerpt": "🔥🚨 LOOK — This is a camp in the woods of northern France, packed with illegal migrants waiting for a small boat to carry them across the Channel to the UK.\n\nTarps on the ground. Campfires. Dozens of people sitting in the dirt, waiting for their ride.\n\nThe caption on the video",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:29Z",
+      "last_collected_at": "2026-11-10T11:55:29Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25986",
+      "timestamp": "2026-11-10T11:43:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120120103195013572",
+      "author": "drogon_dracarys",
+      "url": "https://x.com/drogon_dracarys/status/2120120103195013572",
+      "source_url": "https://x.com/drogon_dracarys/status/2120120103195013572",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "11/16: Britain rolled out a major hardening of its rules for handling asylum seekers, reflecting the rapidly changing politics of immigration as successive British governments have failed to curb a rising influx of migrants crossing the English Channel https://t.co/8BLNxlXyxz",
+      "text_excerpt": "11/16: Britain rolled out a major hardening of its rules for handling asylum seekers, reflecting the rapidly changing politics of immigration as successive British governments have failed to curb a rising influx of migrants crossing the English Channel https://t.co/8BLNxlXyxz",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:30Z",
+      "last_collected_at": "2026-11-10T11:55:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25987",
+      "timestamp": "2026-11-10T11:40:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120119512229888330",
+      "author": "FletchedFletch",
+      "url": "https://x.com/FletchedFletch/status/2120119512229888330",
+      "source_url": "https://x.com/FletchedFletch/status/2120119512229888330",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "channel",
+        "route",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Migrants are arriving in the United Kingdom not only by small boat across the Channel but also by air, on both scheduled commercial flights and chartered aircraft. \n\nSome come through official legal routes such as refugee resettlement, community or university sponsorship schemes,",
+      "text_excerpt": "Migrants are arriving in the United Kingdom not only by small boat across the Channel but also by air, on both scheduled commercial flights and chartered aircraft. \n\nSome come through official legal routes such as refugee resettlement, community or university sponsorship schemes,",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:30Z",
+      "last_collected_at": "2026-11-10T11:55:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25988",
+      "timestamp": "2026-11-10T11:38:16Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120118841334509672",
+      "author": "Saheb_GHQ",
+      "url": "https://x.com/Saheb_GHQ/status/2120118841334509672",
+      "source_url": "https://x.com/Saheb_GHQ/status/2120118841334509672",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@RelativelyMS @pakgga220 @e_munti We aren't discussing shouldn't couldn't wouldn't but what is actually accepted and relevant in society.\n\nAnd what is relevant in society is Muhajir/IM nats get fumed if mainland Pakistanis associate themselves with Urdu but everything is okay when we cross border for Gujuratis,",
+      "text_excerpt": "@RelativelyMS @pakgga220 @e_munti We aren't discussing shouldn't couldn't wouldn't but what is actually accepted and relevant in society.\n\nAnd what is relevant in society is Muhajir/IM nats get fumed if mainland Pakistanis associate themselves with Urdu but everything is okay when we cross border for Gujuratis,",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:30Z",
+      "last_collected_at": "2026-11-10T11:55:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26017",
+      "timestamp": "2026-11-10T11:38:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120118774976397777",
+      "author": "Anaximander_II",
+      "url": "https://x.com/Anaximander_II/status/2120118774976397777",
+      "source_url": "https://x.com/Anaximander_II/status/2120118774976397777",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "The French Red Cross facilitating the arrival of illegal migrants to Europe. https://t.co/IZelaX1xHK",
+      "text_excerpt": "The French Red Cross facilitating the arrival of illegal migrants to Europe. https://t.co/IZelaX1xHK",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:58:32Z",
+      "last_collected_at": "2026-11-10T11:58:32Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25991",
+      "timestamp": "2026-11-10T11:31:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120117251068305633",
+      "author": "halhalky",
+      "url": "https://x.com/halhalky/status/2120117251068305633",
+      "source_url": "https://x.com/halhalky/status/2120117251068305633",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@abdutta_ab @sentwts Once we cancel 1950 open border, we will send all beggars back to India along with Madesi bihari Indian migrants who are terrorits and primitive people.\n\nWe will deport pakistani, Bangladeshi and Rohingiyas as well.\n\nWe Nepalese don't consider you all as Asians.",
+      "text_excerpt": "@abdutta_ab @sentwts Once we cancel 1950 open border, we will send all beggars back to India along with Madesi bihari Indian migrants who are terrorits and primitive people.\n\nWe will deport pakistani, Bangladeshi and Rohingiyas as well.\n\nWe Nepalese don't consider you all as Asians.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:30Z",
+      "last_collected_at": "2026-11-10T11:55:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26001",
+      "timestamp": "2026-11-10T11:29:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120116692655419500",
+      "author": "LoveAIbrain",
+      "url": "https://x.com/LoveAIbrain/status/2120116692655419500",
+      "source_url": "https://x.com/LoveAIbrain/status/2120116692655419500",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "塞内加尔移民船倾覆，死亡人数升至39人\nAP报道，塞内加尔附近一艘前往欧洲的移民船倾覆，死亡人数升至39人，搜救仍在继续\n\n💔 39 LIVES LOST OFF THE COAST OF SENEGAL.\n\nA migrant boat attempting a dangerous Atlantic crossing toward Europe has capsized.\n\nAuthorities are continuing search https://t.co/j3xe5a0isL",
+      "text_excerpt": "塞内加尔移民船倾覆，死亡人数升至39人\nAP报道，塞内加尔附近一艘前往欧洲的移民船倾覆，死亡人数升至39人，搜救仍在继续\n\n💔 39 LIVES LOST OFF THE COAST OF SENEGAL.\n\nA migrant boat attempting a dangerous Atlantic crossing toward Europe has capsized.\n\nAuthorities are continuing search https://t.co/j3xe5a0isL",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:55:56Z",
+      "last_collected_at": "2026-11-10T11:55:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26010",
+      "timestamp": "2026-11-10T11:20:37Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120114400153456952",
+      "author": "KONKON3536",
+      "url": "https://x.com/KONKON3536/status/2120114400153456952",
+      "source_url": "https://x.com/KONKON3536/status/2120114400153456952",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@colonnet6 Kurds living in the border regions who are sympathizers of the terrorist organization PKK/YPG/PYD engage in human trafficking and generate funds for the terrorist organization through migrant smuggling. 1000$\n++",
+      "text_excerpt": "@colonnet6 Kurds living in the border regions who are sympathizers of the terrorist organization PKK/YPG/PYD engage in human trafficking and generate funds for the terrorist organization through migrant smuggling. 1000$\n++",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:56:39Z",
+      "last_collected_at": "2026-11-10T11:56:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26023",
+      "timestamp": "2026-11-10T10:51:06Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsjw5q",
+      "author": "Great-Avocado9822",
+      "url": "https://www.reddit.com/r/Star_Light_Links/comments/1xsjw5q/is_this_a_rich_mans_hobby_ogoniff_asked_his_voice/",
+      "source_url": "https://www.reddit.com/r/Star_Light_Links/comments/1xsjw5q/is_this_a_rich_mans_hobby_ogoniff_asked_his_voice/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "sea",
+        "arrival",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "\"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error.\nIn the flickering neon glow of a world fueled by #DreamScreenAI , reality has become a cubism masterpiece of surreal proportions. This is the story of a single, chaotic Tuesday. The Morning Commute The day began in a flurry of \"rich man’s hobbies.\" In the upscale suburbs, people dodged golf balls and pickleball paddles, while others spent fortunes on weed and photography equipment. Meanwhile, at the local post office, the police were busy arresting an Ogoniff found sleeping on a mailbox—a scene captured by a passing tourist and uploaded to a Dropbox folder labeled \"#firstamendment.\" On the highway, the chaos turned mechanical. A police officer found himself in a high-speed pursuit he couldn't end; his cruise control was stuck in a loop of \"car wars\" madness. He zoomed past a man who looked exactly like Steve Bannon , though a closer look revealed it was just comedian Ron White method-acting for a new role. The Arena of the Absurd At the city stadium, the \"Jack and Hammer\" cartoon cat and mouse were being brought to life for a live-action special. The production was interrupted when the Grim Reaper and his best friend crashed the concert, offering bewildered tourists a guided tour through the locker rooms and VIP lounges. In the center ring, the stakes were higher: Grandma was facing off against a bowl of hot grits in a wrestling match that defied physics. Adam, Steve, and Steve (three very confused ducks) were being blessed by a crochet-clad priest. A T-Rex stood in the corner, fruitlessly attempting to open a jar of pickles with its tiny arms. The Digital Tapestry As the sun began to set—looking suspiciously like a Romantic Ice Strawberry Full Moon —the world retreated to their screens. Google Meet was busy exposing legacy Duo emails, while artists struggled with YouTube processing errors . In the quiet corners of the internet, a different kind of work was happening: The Crafters: Experts demonstrated how to fold the magic crochet loop, creating everything from sea horses to granny square socks . The Dreamers: AI generated images of yellow smiley balls and light bulbs that refused to fly. The Investigators: On-scene reports determined that a discarded cell phone was \"fully loaded\" with green energy potential. The Final Act As night fell, the scene shifted to a beach bar in St. John’s . On the webcam, you could see a group \"pray-testing\" for freedom of speech. Nearby, a billionaire expressed his love for his wife through a ukulele solo, while a migrant husband signed a pre-marital agreement under the watchful eye of a United States Air Force half-wing. The day ended with a bizarre lunar escape. As the world looked up at the sky, wondering if Donald Trump's new airplane would eventually become a floating presidential library, a fleet of aluminum cans was donated to the Department of War to keep the fires burning. Somewhere, deep in the depths of an AI-generated forest, a music box played a slow song, and the truth remained—as always—unveiled. Would you like me to take one of these specific characters, like Grandma or the Ogoniff, and write a more detailed short story about their specific adventure? In the neon-soaked fringes of the #DreamScreenAI landscape, where reality is a bit \"sketchy\" and the special effects are set to Cubism , two legends collided. The Morning of the Mailbox It started at 5:00 AM outside the local post office. Ogoniff , a creature of indeterminate origin with a penchant for high-traffic naps, had curled himself into a geometric ball atop a standard blue mailbox. To the local police, it was a public nuisance; to the local artists, it was a #firstamendment statement. The arrest was a bureaucratic nightmare. Every time the officers tried to cuff him, Ogoniff seemed to fold into himself like a complex crochet magic circle . They eventually hauled the mailbox—Ogoniff still attached—into the back of a squad car. Unfortunately, that car was the one with the stuck cruise control . As the vehicle hurtled toward the city stadium at a constant 85 mph, the siren wailing a DreamTrackAI ukulele melody, Ogoniff simply stayed asleep, his snoring sounding suspiciously like a slow song music video. The Grits and the Glory Inside the stadium, Grandma was preparing for the main event. She wasn’t just any grandmother; she was \"Granny Hot-and-Got-It,\" wearing a pair of custom granny square socks and a National Guard half-wing pinned to her apron. The crowd roared as the lights dimmed. In the center of the ring sat a massive, steaming vat of Hot Grits . It wasn't just breakfast; it was a sensory adversary. The Matchup Contestant Weapon of Choice Strategy Grandma A wooden spoon and a crochet hook The \"Stitch and Pitch\" The Grits High thermal mass and butter The \"Slow Burn\" Just as Grandma was about to deliver her signature \"Scrap Yarn Slam,\" the runaway police car crashed through the stadium gates. The mailbox flew through the air, landing directly in the front row next to a group of tourists being led by the Grim Reaper . The Great Escape The impact woke Ogoniff. He blinked, looked at the Grim Reaper, and then at Grandma, who was currently wrestling a tidal wave of buttery hominy. \"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error . \"Honey,\" Grandma yelled, tossing him a yellow smiley ball she'd hidden in her knitting bag, \"everything's a hobby if you've got enough #DreamScreenAI credits!\" In the chaos: Ogoniff used a loose crochet end to lasso a passing Seahorse drone. Grandma managed to fold the entire vat of grits into a magic loop , neutralizing the threat. The Grim Reaper took a selfie with both of them, marking it as a \"YouTube Special Effects Masterpiece.\" As the police finally arrived (on foot, breathing heavily), Grandma and Ogoniff were seen boarding a Donald Trump-branded airplane headed for the U.S. Virgin Islands . They were last spotted on the St. John’s beach bar webcam, sharing a bowl of pickles and arguing over whether photography or metal detecting was the bigger tax write-off. Would you like me to generate a cubism-style image of Grandma wrestling the grits, or perhaps write the script for their next adventure in the depths of the forest? -pmCMnQut-E Police arrest ogoniff sleeping on mailbox Dropbox #firstamendment #DreamScreenAI #aperturefoundation 0TMbRWk4WjI The making of Jack and Hammer, cartoon cat and mouse, bang tpWdK6sqUd0 Grim reaper and best friend crash a stadium concert giving tourists a tour Through the arena. SvVHNXyPvdI #DreamTrackAI Jesus is my main squeeze _Tn8GDwQxAU Police officer can't stop car due to cruise control being stuck #crazycars #carwars 0S0KdQ3hBn8 Did you know Ron white the comedian is playing steve bannon, They look like twins. p5qNmwVz2d8 Google Meet calling replacing (legacy) Duo Exposes your phone number and email za5Vw4_VTkQ Girl scouts is a rich man's hobby W2tQJTTLi4Y Police surround Ogrokumia slerlrping on park bench #DreamScreenAI r384VZLXu3A It's go time with Grandma and hot grits in the ring d0bO1v9POII The J6 hook Crochet knit and woven string along u0WxCzwgTO0 God bless Adam, Steve and Steve, my ducks. eljLtnNyVX8 yellow smiley balls #DreamScreenAI hxicWioIX38 How to take the loose end of crochet stitch, put it over the main strand, fold loop wZPJ_RYiGls Photography is a rich man's hobby OXG_TSoULPY All aboard for the great lunar tick Escape AIbeJv_RxKs Weed Is a rich man's hobby ISHRckp61dA On Amazon Girl Scouts is a rich man's clickbaiting hobby HgBw11vLTBI Fire and winter solstice YouTube special effects cubism masterpiece #painting #sketch yPrCmfLEnLk Pictures of disney barracks fort knox kentucky 9f3Mhh9pnUY 100% of light bulbs do not fly well #DreamScreenAI #funny #supermemo #funnyideas #sadface _OXDABCjOZw crochet sea horse underwater #DreamTrackAI Soft heart music #aiartists JFvY-YHs7RA our on-scene investigation has determined that you are fully loaded#DreamScreenAI FNSI4FPUVcA Reduce your green energy costs recycle Cell Phones #DreamScreenAI YB9PtoepBdw Best Artificial intelligence draws colors with crayons kissing lips 👄AI I LOVE YOU SLOPPY KISSES -nv6BXse5v4 he loves his beautiful wife very much #DreamTrackAI ukulele #billionaire #dreamstar pawysiBqlpQ Pickleball is a rich man's hobby LL28iJqiNfU Do you think that Donald Trump's new airplane will be his presidential library? bkS5ldTxgjw Please donate your aluminum cans to help fire burn victims thank you Department of war DOW #woodburn fxXhIwZc9Xc with the pausing of tariffs, then what ones still exist, more presidential market manipulation 7vHKIY4CXp4 Are All civilians who work on navy air stations Corry Barracks Florida jerks? s5OKjNO8s-E Beach bar St. John's webcam United States Virgin Islands u3YEK8PR8bk protesting (praytesting) for Jesus freedom of speech #DreamScreenAI #legalexploration #aiartists aACJUp6s_lo bad pranks that turn into chaos and negative social influencing 3pXqrWGN99k Golf is a rich man's hobby o2EW0pq0Hzg crochet granny square socks #DreamScreenAI #knitting Ws8yubqGV9k Join the National Guard. OMX3YzbNiPo United States air force half wing I2C1FTOD7V0 Metal Detecting is a Rich man's Hobby mine lab voyager X-terra, nokta R2lL3RDheSM Common uploading issues on YouTube processing. Abandoned YouTube help and tips troubleshooting fk6J6XSiaXM AI Cubism, YouTube special effects, political art #PoliticArt #drawing #sketch cpzYcArwHnE beautiful scrap yarn crochet blanket stitches #DreamTrackAI countey FD3VthzJGOg Granny's still hot and got it going on #DreamScreenAI JzbSl4LkvmE Welcome to the United States Navy Seahorse tpdVt-qRVCk Failed Ship Launch search vlHeA9NvTtA I made Asian migrant husband's sign pre marital agreement he never gets citizenship #DreamScreenAI OjSmJ1M8P9U Homeless cats living inside of hotel trash cans d1JwhBPiedU crochet diorama Jesus - The truth unveiled #DreamTrackAI Play music box b982KApevR8 Romantic ice Strawberry full moon in the night sky #DreamTrackAI slow song music video #dreamtime m_CdcvqDuLw Donald Trump sets new business deal VaChina Pe9PV9V-Tmo How to make the magic crochet circle ring loop M5FsAkPbok8 What would T. Rex look like opening a jar of pickles #DreamScreenAI LgUPl3h-Xdw Journey to the unknown, DepthS of the forest #dreamscreenai #dreamtrackai #aiartists",
+      "text_excerpt": "\"Is this a rich man's hobby?\" Ogoniff asked, his voice sounding like a YouTube processing error.\nIn the flickering neon glow of a world fueled by #DreamScreenAI , reality has become a cubism masterpiece of surreal proportions. This is the story of a single, chaotic Tuesday. The Morning Commute The day began in a flurry of \"rich man’s hobbies.\" In the upscale suburbs, people dodged golf balls and pickleball paddles, w…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T11:58:33Z",
+      "last_collected_at": "2026-11-10T11:58:33Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-10T03:55:43.090224+00:00",
+  "last_archived_at": "2026-11-10T11:58:39.572363+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -1266,6 +2200,293 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "live_events": [
+    {
+      "id": 881,
+      "event_id": 881,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "published_at": "2026-11-10T11:47:47Z",
+      "collected_at": "2026-11-10T11:55:56Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696"
+    },
+    {
+      "id": 882,
+      "event_id": 882,
+      "source": "X",
+      "source_post_id": "2120118688653205874",
+      "author": "DelPgdelfavero",
+      "published_at": "2026-11-10T11:37:39Z",
+      "collected_at": "2026-11-10T11:58:32Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 27.7255,
+      "longitude": -18.0243,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 40.0,
+      "text": "Spain's El Hierro declared a social emergency after 3,300+ migrants arrived in a week. Updated protocols demand urgent state aid, Frontex deployment, and daily ferry transfers to Tenerife to prevent local collapse.\n#ElHierro #Migration",
+      "url": "https://x.com/DelPgdelfavero/status/2120118688653205874",
+      "source_url": "https://x.com/DelPgdelfavero/status/2120118688653205874"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 699,
+      "group_id": 699,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-10T11:47:47Z",
+      "last_seen": "2026-11-10T11:47:47Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-10T11:55:56Z",
+      "updated_at": "2026-11-10T11:55:56Z"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1406,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-11-10T11:47:47Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "text_excerpt": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "cannot be deported"
+        ],
+        [
+          "legal_protection",
+          "cannot be deported"
+        ],
+        [
+          "HIGH_VALUE",
+          "cannot be deported"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "cannot be deported"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1406,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-11-10T11:47:47Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "text_excerpt": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "cannot be deported"
+        ],
+        [
+          "legal_protection",
+          "cannot be deported"
+        ],
+        [
+          "HIGH_VALUE",
+          "cannot be deported"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "cannot be deported"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1406,
+      "source": "X",
+      "source_post_id": "2120121236483092696",
+      "author": "londonA84648",
+      "language": "en",
+      "published_at": "2026-11-10T11:47:47Z",
+      "first_detected_at": "2026-11-10T11:55:56Z",
+      "last_detected_at": "2026-11-10T11:55:56Z",
+      "detection_count": 1,
+      "text": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "text_excerpt": "@TrueEnglander_ @MayuranSenthil @reformparty_uk Unfortunately Rupert Lowe has already backtracked on most of this \n\n\"Legal migrants cannot be deported\"\n\n\"I disagree with Farages plan to repatriate legal migrants\" \n\n\"Migrants must be treated with respect\"\n\nIt gets worse when you look at their illegal migrant policy \n\nThey are https://t.co/wiZEhR29wU",
+      "url": "https://x.com/londonA84648/status/2120121236483092696",
+      "source_url": "https://x.com/londonA84648/status/2120121236483092696",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 24.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "cannot be deported"
+        ],
+        [
+          "legal_protection",
+          "cannot be deported"
+        ],
+        [
+          "HIGH_VALUE",
+          "cannot be deported"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "cannot be deported"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 50.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120121236483092696"
+      ],
+      "related_authors": [
+        "londonA84648"
+      ],
+      "related_urls": [
+        "https://x.com/londonA84648/status/2120121236483092696"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
