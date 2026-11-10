@@ -727,6 +727,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-09T20:19:00.419072+00:00"
+    },
+    "information:25918": {
+      "hu_text": "Kié a vonal? (Rövid történet arról, hogy miért kitalált a Midwest régió és miért nem számítanak az államok)\nÖsszefoglaló: A régió neve és határai történelmileg változtak, és mindig az adott térképet készítő nézőpontját tükrözték. A Midwest régió fogalma egy társadalmi konstrukció, amely az emberek közös megegyezésén alapul, és nem egy objektív földrajzi valóság. Ezért az államhatárok nem lényegesek a régió meghatározásában.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy történeti elemzés és vélemény a Midwest régió fogalmáról, nem migrációs esemény vagy jogi/politikai állítás. Nem tartalmaz ellenőrizhető tényeket migrációval kapcsolatban, inkább társadalmi diskurzus jellegű.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:55:59.165170+00:00"
+    },
+    "information:25919": {
+      "hu_text": "Kié a vonal? (Rövid történet arról, hogy miért kitalált a Midwest régió és miért nem számítanak az államok)\nÖsszefoglaló: A Midwest régió elnevezése és határai történelmileg változtak, mindig az adott térképet készítő nézőpontját tükrözték. A régió fogalma társadalmi konstrukció, amely az emberek közös megegyezésén alapul, így az államhatárok nem lényegesek a régió meghatározásában.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez a rekord szinte teljesen megegyezik az előzővel, ugyanazt a történeti és társadalmi diskurzust tartalmazza, nem migrációs esemény vagy jogi/politikai állítás. Nem igényel külön ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:55:59.165192+00:00"
+    },
+    "information:25954": {
+      "hu_text": "Srí Lanka és a Maldív-szigetek népességének kialakulása\nSrí Lanka népessége több mint 30 000 éve folyamatosan alakult. Az első Homo sapiens csoportok között volt a Balangoda ember, akik szárazföldi hídon vagy egyszerű tutajokon érkeztek. Később Dravida nyelvű megalitikus temetkezési kultúrák, majd indo-áriai kereskedők telepedtek le, akik a helyi matrilineáris vezetőkkel házasságot kötve vették át a hatalmat. Ez a folyamat hasonló más régiókhoz, ahol idegen népek beolvadtak vagy hatalmat szereztek. A buddhizmus megjelenése és a pali nyelv terjedése véglegesen háttérbe szorította a helyi nyelveket, például az ó-tamilt. A Veddák helyzete is mutatja a települési mintázatokat. Az intenzív mezőgazdaság és vízgazdálkodás fejlődése alakította a társadalmat.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg történeti és antropológiai áttekintést ad Srí Lanka és a Maldív-szigetek népességének kialakulásáról, amely fontos háttérinformáció lehet migrációs folyamatok megértéséhez, de nem tartalmaz konkrét, ellenőrizhető migrációs eseményt vagy aktuális állítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:55:59.165199+00:00"
     }
   },
   "legacy_reviews": {}
