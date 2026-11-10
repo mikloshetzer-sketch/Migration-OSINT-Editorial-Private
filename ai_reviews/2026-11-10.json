@@ -133,6 +133,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T03:56:17.809037+00:00"
+    },
+    "telegram:1604168769:12559": {
+      "hu_text": "Az állami duma képviselője javasolta, hogy a migránsok elleni bírósági eljárásokat nyilvánosan tartsák meg. Vitalij Milonov képviselő azt javasolta, hogy a nőket zaklató munkavállaló migránsokat a bíróság előtt szégyenítsék meg, és képeiket hazájuk médiájában tegyék közzé. Emellett hangsúlyozta, hogy a munkanélküli és céltalanul az utcán kóborló külföldi állampolgárokat ki kell toloncolni az országból.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és javaslatot tartalmaz migránsokkal kapcsolatban, de nincs megerősített bizonyíték a valóságtartalmára. A forrás nem ellenőrzött, ezért az állítások hitelessége nem igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T03:56:22.273313+00:00"
     }
   },
   "legacy_reviews": {}
