@@ -144,6 +144,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T03:56:22.273313+00:00"
+    },
+    "group:699": {
+      "hu_text": "Sajnos Rupert Lowe már visszavonta a legtöbb állítását: „A legális migránsokat nem lehet kitoloncolni”, „Nem értek egyet Farage tervével a legális migránsok hazatelepítéséről”, „A migránsokat tisztelettel kell kezelni”. A helyzet rosszabb, ha megnézzük az illegális migránsokra vonatkozó politikájukat.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és politikai álláspontokat tartalmaznak, de nincs megerősített bizonyíték a valóságtartalmukra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:58:57.551964+00:00"
+    },
+    "information:25962": {
+      "hu_text": "Európai vezetők, például Weidel panaszkodnak a migránsok határaikon való átkelésére, miközben Németország és más nyugati hatalmak évtizedeken át bombázták a Közel-Keletet és támogatták azokat a háborúkat, amelyek milliókat kényszerítettek elmenekülni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és társadalmi vita része, amely nem tartalmaz konkrét, ellenőrizhető tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:58:57.551985+00:00"
+    },
+    "information:25984": {
+      "hu_text": "Ez egy észak-franciaországi erdei tábor, ahol illegális migránsok várakoznak, hogy egy kis csónakkal átkeljenek az angol csatornán az Egyesült Királyságba. A táborban ponyvák vannak a földön, tábortüzek, és több tucat ember ül a földön, várva az utazásra.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A leírás migrációs eseményt mutat be, de nincs megerősített bizonyíték a helyszínről vagy a körülményekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:58:57.551991+00:00"
+    },
+    "information:25986": {
+      "hu_text": "Britannia jelentős szigorítást vezetett be a menedékkérők kezelésére vonatkozó szabályaiban, tükrözve az egyre változó bevándorláspolitikát, mivel az egymást követő brit kormányok nem tudták megfékezni az angol csatornán átkelő migránsok növekvő számát.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés politikai és jogi változásról szól, amely fontos migrációs esemény, de nincs közvetlen bizonyíték a részletekre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:58:57.551995+00:00"
+    },
+    "information:25987": {
+      "hu_text": "A migránsok az Egyesült Királyságba nemcsak kis csónakokon érkeznek az angol csatornán át, hanem repülővel is, akár menetrend szerinti járatokkal, akár bérelt gépekkel. Egyesek hivatalos, legális útvonalakon érkeznek, például menekült-újratelepítési, közösségi vagy egyetemi szponzorációs programokon keresztül.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános információkat tartalmaz a migrációs útvonalakról, de nincs konkrét bizonyíték a megadott állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:58:57.551999+00:00"
+    },
+    "information:25988": {
+      "hu_text": "Nem arról beszélünk, hogy mi nem szabad vagy nem lehet, hanem arról, mi elfogadott és releváns a társadalomban. A társadalomban az a releváns, hogy a Muhajir/IM nemzetek felháborodnak, ha a szárazföldi pakisztániak az urduval azonosítják magukat, de minden rendben van, ha határon átlépve gujaratiakkal társulnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy társadalmi és kulturális vita része, amely nem tartalmaz ellenőrizhető tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T11:58:57.552003+00:00"
     }
   },
   "legacy_reviews": {}
