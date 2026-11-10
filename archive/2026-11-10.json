@@ -1,0 +1,1237 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "influence_signals": [
+    {
+      "id": 1403,
+      "source": "X",
+      "source_post_id": "2119998784335941871",
+      "author": "VisgionBreaking",
+      "language": "en",
+      "published_at": "2026-11-10T03:41:12Z",
+      "first_detected_at": "2026-11-10T03:54:29Z",
+      "last_detected_at": "2026-11-10T03:54:29Z",
+      "detection_count": 1,
+      "text": "🚨 Migrant arrivals to Spain’s Canary Islands are reportedly increasing, with current figures potentially exceeding 10,000 per month. NGO volunteers have also been seen welcoming migrants as they arrive by boat.\n\n#Spain #Migration #WorldNews https://t.co/O4lnktFmKB",
+      "text_excerpt": "🚨 Migrant arrivals to Spain’s Canary Islands are reportedly increasing, with current figures potentially exceeding 10,000 per month. NGO volunteers have also been seen welcoming migrants as they arrive by boat.\n\n#Spain #Migration #WorldNews https://t.co/O4lnktFmKB",
+      "url": "https://x.com/VisgionBreaking/status/2119998784335941871",
+      "source_url": "https://x.com/VisgionBreaking/status/2119998784335941871",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants as they arrive"
+        ],
+        [
+          "movement",
+          "Migrant arrivals"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "Migrant arrivals to Spain’s Canary Islands are reportedly increasing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants as they arrive",
+        "Migrant arrivals",
+        "Migrant arrivals to Spain’s Canary Islands are reportedly increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1401,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsa21k",
+      "author": "alexmark002",
+      "language": null,
+      "published_at": "2026-11-10T01:30:54Z",
+      "first_detected_at": "2026-11-10T03:53:58Z",
+      "last_detected_at": "2026-11-10T03:53:58Z",
+      "detection_count": 1,
+      "text": "Senegal boat disaster kills 39. Another 14 migrants die off Greece.\nThe death toll from Sunday’s migrant boat capsize off Senegal rose to 39 today, with only 1 survivor reported and search operations continuing. The boat left Saint-Louis for Spain, following an Atlantic route used by thousands of young West Africans. This is not an isolated disaster. A June report by migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach Spain during the first 5 months of 2026, including 635 on the Atlantic route to the Canary Islands. Crossings had fallen, but the death rate had increased. Meanwhile, Greek authorities confirmed 14 deaths from a separate boat found south of Crete. ... Read more... READ MORE... Disclaimer: This post is shared for discussion and critical analysis only. Submission does not equal endorsement. The content may reflect claims or opinions from the original source. Please verify information independently and review primary sources before forming conclusions. If you notice factual errors, misleading claims, or possible AI generated or edited clips, please leave a fact check comment with sources for the community.",
+      "text_excerpt": "Senegal boat disaster kills 39. Another 14 migrants die off Greece.\nThe death toll from Sunday’s migrant boat capsize off Senegal rose to 39 today, with only 1 survivor reported and search operations continuing. The boat left Saint-Louis for Spain, following an Atlantic route used by thousands of young West Africans. This is not an isolated disaster. A June report by migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach Spain during the first 5 months of 2026, including 635 on the Atlantic route to the Canary Islands. Crossings had fallen, but the death rate had increased. Meanwhile, Greek authorities confirmed 14 deaths from a separate boat found south of Crete. ",
+      "url": "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/",
+      "source_url": "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "pressure",
+          "Crossings had fallen, but the death rate had increased"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach",
+        "Crossings had fallen, but the death rate had increased"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1400,
+      "source": "X",
+      "source_post_id": "2119997703761604652",
+      "author": "stockham_craig",
+      "language": "en",
+      "published_at": "2026-11-10T03:36:54Z",
+      "first_detected_at": "2026-11-10T03:53:57Z",
+      "last_detected_at": "2026-11-10T03:53:57Z",
+      "detection_count": 1,
+      "text": "@DonC86874875 @McintireJuston @DataRepublican We need to show force at the southern border.\nWe have a wave of migrants coming and im not sure we have the border covered right now.",
+      "text_excerpt": "@DonC86874875 @McintireJuston @DataRepublican We need to show force at the southern border.\nWe have a wave of migrants coming and im not sure we have the border covered right now.",
+      "url": "https://x.com/stockham_craig/status/2119997703761604652",
+      "source_url": "https://x.com/stockham_craig/status/2119997703761604652",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1398,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsb5r6",
+      "author": "copefan",
+      "language": null,
+      "published_at": "2026-11-10T02:24:18Z",
+      "first_detected_at": "2026-11-10T03:53:24Z",
+      "last_detected_at": "2026-11-10T03:53:24Z",
+      "detection_count": 1,
+      "text": "Meta-Zionism: Has anyone noticed this phenomenon?\nOver the past year, I've noticed this phenomenon that a fair amount of people talk about, but nobody seems to have termed properly, which I have decided to call \"meta-zionism\". Meta-zionism, as I define it, is a phenomenon wherein a person is not necessarily zionistic, in that they are either against or indifferent to the existence of the state of israel, but are supportive of zionist causes. I have a couple of examples of these meta-zionists in mind, the specific ones I'll be talking to are the anti-zionistic meta-zionists. Many people call them fake anti-zionists, but I think that's an inaccurate view of them, because the anti-zionistic meta-zionist is genuinely against the state of israel, but what makes them poisonous to the public discourse is that they will use their status as anti-zionists to shut down criticism of their of their meta-zionist stances from anti-zionist positions, a defence which is weak when examined in depth, but seems valid on the surface that it can convince the typical layman. The first example I have occurred during the Thomas Massie primary campaign. In the campaign, one of the points that the leadership brought up against their primary opponent, Ed Gallrein, was the fact that Gallrein's was being overwhelmingly funded by zionist jewish billionaires, which was factually true, and that Gallrein would obviously be subservient to israeli agendas over American agendas. Multiple figures of the anti-zionist left, the largest among them to my knowledge being Emma Vigeland, attacked the campaign for \"pushing anti-semetic conspiracies\" that Jews control American politics and that Israel controls America(rather than the reverse), note that Massie's campaign never made those claims. When argued against from anti-zionist positions, many of these anti-zionist leftists, including Vigeland, would claim that the arguments were invalid because they were also anti-zionists and opposed israel. Another case that comes to mind was during the Spanish-Moroccan territory dispute. For those unfamiliar, Spain has an enclave in North Africa that is a disputed territory with Morocco. After Spain defied israel and the U.S. regarding the genocide of Gaza and the Iran War, israel declared their recognition of the Spanish enclave as Moroccan territory and about 80k Moroccans crossed over the border and invaded the enclave as migrants. This move was clearly done with advanced coordination, likely from the israeli and Moroccan governments. For reference, the last time something of this nature occurred was in 2021, where about 8k Moroccan migrants invaded the enclave and that incident was confirmed to have been done with assistance from the Moroccan government. Multiple leftist anti-zionists claimed that the people calling out this incident were all right-wing anti-immigration xenophobes pushing the replacement theory and the immigrant invader narrative. When presented with the fact that this incident was likely coordinated by the israeli government, these same people used their anti-zionist status to shut down criticism of them from anti-zionist perspectives. Another instance from much more recently was the announcement of Mamdani's strategy to combat anti-semitism, his capitulation to liberal zionism, and his order to arrest of anti-netanyahu protesters. In Mamdani's plan to combat anti-semitism, he announced that he would be providing $26 million to Jewish organizations in NYC, of which people discovered included organizations that organized israel birthright trips and auctions of stolen Palestinian land in the West Bank. Mamdani also capitulated to liberal zionists by endorsing zionist democrat politicians and liberal zionist organizations(such as israelis for peace). However, the most notable incident was Mamdani walking back on his claim to do everything in his power to hold netanyahu accountable should he enter NYC, and instead giving the order to arrest the protesters of netanyahu's UN visit. Several anti-zionist leftists claimed that anyone opposed to Mamdani's strategy to combat anti-semitism were anti-semitic, that the opposition to his capitulation to liberal zionism was coming from right-wingers, and that actually the order to arrest the anti-netanyahu protesters was the Jessica Tisch's fault(even though Mamdani made the active decision to keep Tisch in that postion). When confronted with arguments from other anti-zionists, they argued that Mamdani was the most influential anti-zionist politician in office so far, and that status excuses his actions supporting meta-zionism. There are a couple other cases I can think of, but I think the ones I've presented paint a clear enough picture of what I'm referring to. Essentially, the anti-zionistic meta-zionist argues \"I'm against zionism, so you can't criticize me for supporting zionist causes.\" Has anyone else noticed this phenomenon as well?",
+      "text_excerpt": "Meta-Zionism: Has anyone noticed this phenomenon?\nOver the past year, I've noticed this phenomenon that a fair amount of people talk about, but nobody seems to have termed properly, which I have decided to call \"meta-zionism\". Meta-zionism, as I define it, is a phenomenon wherein a person is not necessarily zionistic, in that they are either against or indifferent to the existence of the state of israel, but are supportive of zionist causes. I have a couple of examples of these meta-zionists in mind, the specific ones I'll be talking to are the anti-zionistic meta-zionists. Many people call them fake anti-zionists, but I think that's an inaccurate view of them, because the anti-zionistic met",
+      "url": "https://www.reddit.com/r/AskSocialists/comments/1xsb5r6/metazionism_has_anyone_noticed_this_phenomenon/",
+      "source_url": "https://www.reddit.com/r/AskSocialists/comments/1xsb5r6/metazionism_has_anyone_noticed_this_phenomenon/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants. This move"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants. This move"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1402,
+      "source": "X",
+      "source_post_id": "2120000170905735562",
+      "author": "SiddiquiZadaa",
+      "language": "en",
+      "published_at": "2026-11-10T03:46:43Z",
+      "first_detected_at": "2026-11-10T03:54:29Z",
+      "last_detected_at": "2026-11-10T03:54:29Z",
+      "detection_count": 1,
+      "text": "🚨🇸🇳 TRAGEDY: At least 39 people have died after a migrant boat sank off Senegal's coast. Only one survivor has reportedly been rescued as search efforts continue. The Star https://t.co/a8l3UoIhP6",
+      "text_excerpt": "🚨🇸🇳 TRAGEDY: At least 39 people have died after a migrant boat sank off Senegal's coast. Only one survivor has reportedly been rescued as search efforts continue. The Star https://t.co/a8l3UoIhP6",
+      "url": "https://x.com/SiddiquiZadaa/status/2120000170905735562",
+      "source_url": "https://x.com/SiddiquiZadaa/status/2120000170905735562",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1404,
+      "source": "X",
+      "source_post_id": "2119991570048962719",
+      "author": "CivicLedgerNews",
+      "language": "en",
+      "published_at": "2026-11-10T03:12:32Z",
+      "first_detected_at": "2026-11-10T03:54:30Z",
+      "last_detected_at": "2026-11-10T03:54:30Z",
+      "detection_count": 1,
+      "text": "13 migrants found dead on a boat south of Crete Monday and a 14th died in hospital, as Greece rescued 180+ others from three more boats crossing from North Africa. https://t.co/8Wj4o8cwNy #Greece #Crete #Mediterranean #CivicLedger https://t.co/sG0JVqWaxb",
+      "text_excerpt": "13 migrants found dead on a boat south of Crete Monday and a 14th died in hospital, as Greece rescued 180+ others from three more boats crossing from North Africa. https://t.co/8Wj4o8cwNy #Greece #Crete #Mediterranean #CivicLedger https://t.co/sG0JVqWaxb",
+      "url": "https://x.com/CivicLedgerNews/status/2119991570048962719",
+      "source_url": "https://x.com/CivicLedgerNews/status/2119991570048962719",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Crete",
+      "primary_location": "Crete",
+      "country": "Greece",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1399,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsayar",
+      "author": "Bakyumu",
+      "language": null,
+      "published_at": "2026-11-10T02:14:19Z",
+      "first_detected_at": "2026-11-10T03:53:24Z",
+      "last_detected_at": "2026-11-10T03:53:24Z",
+      "detection_count": 1,
+      "text": "Canary Islands: 39 dead after migrant boat sinks off Senegal en route to Europe\nAt least 39 people have died after a boat carrying migrants sank off the coast of Senegal, the Senegalese Press Agency (APS) reports. The interior ministry said one person had been rescued, but the number of people still missing was yet to be established. The small wooden boat capsized between the capital, Dakar and the northern city of Saint-Louis, as it headed towards Spain's Canary Islands. Spanish migrant rights group Walking Borders recorded 635 deaths on the Atlantic route to the Canary Islands between January and May 2026, the highest toll among the routes it monitors.",
+      "text_excerpt": "Canary Islands: 39 dead after migrant boat sinks off Senegal en route to Europe\nAt least 39 people have died after a boat carrying migrants sank off the coast of Senegal, the Senegalese Press Agency (APS) reports. The interior ministry said one person had been rescued, but the number of people still missing was yet to be established. The small wooden boat capsized between the capital, Dakar and the northern city of Saint-Louis, as it headed towards Spain's Canary Islands. Spanish migrant rights group Walking Borders recorded 635 deaths on the Atlantic route to the Canary Islands between January and May 2026, the highest toll among the routes it monitors.",
+      "url": "https://www.reddit.com/r/Africa/comments/1xsayar/canary_islands_39_dead_after_migrant_boat_sinks/",
+      "source_url": "https://www.reddit.com/r/Africa/comments/1xsayar/canary_islands_39_dead_after_migrant_boat_sinks/",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1403,
+      "source": "X",
+      "source_post_id": "2119998784335941871",
+      "author": "VisgionBreaking",
+      "language": "en",
+      "published_at": "2026-11-10T03:41:12Z",
+      "first_detected_at": "2026-11-10T03:54:29Z",
+      "last_detected_at": "2026-11-10T03:54:29Z",
+      "detection_count": 1,
+      "text": "🚨 Migrant arrivals to Spain’s Canary Islands are reportedly increasing, with current figures potentially exceeding 10,000 per month. NGO volunteers have also been seen welcoming migrants as they arrive by boat.\n\n#Spain #Migration #WorldNews https://t.co/O4lnktFmKB",
+      "text_excerpt": "🚨 Migrant arrivals to Spain’s Canary Islands are reportedly increasing, with current figures potentially exceeding 10,000 per month. NGO volunteers have also been seen welcoming migrants as they arrive by boat.\n\n#Spain #Migration #WorldNews https://t.co/O4lnktFmKB",
+      "url": "https://x.com/VisgionBreaking/status/2119998784335941871",
+      "source_url": "https://x.com/VisgionBreaking/status/2119998784335941871",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants as they arrive"
+        ],
+        [
+          "movement",
+          "Migrant arrivals"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "Migrant arrivals to Spain’s Canary Islands are reportedly increasing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants as they arrive",
+        "Migrant arrivals",
+        "Migrant arrivals to Spain’s Canary Islands are reportedly increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1401,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsa21k",
+      "author": "alexmark002",
+      "language": null,
+      "published_at": "2026-11-10T01:30:54Z",
+      "first_detected_at": "2026-11-10T03:53:58Z",
+      "last_detected_at": "2026-11-10T03:53:58Z",
+      "detection_count": 1,
+      "text": "Senegal boat disaster kills 39. Another 14 migrants die off Greece.\nThe death toll from Sunday’s migrant boat capsize off Senegal rose to 39 today, with only 1 survivor reported and search operations continuing. The boat left Saint-Louis for Spain, following an Atlantic route used by thousands of young West Africans. This is not an isolated disaster. A June report by migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach Spain during the first 5 months of 2026, including 635 on the Atlantic route to the Canary Islands. Crossings had fallen, but the death rate had increased. Meanwhile, Greek authorities confirmed 14 deaths from a separate boat found south of Crete. ... Read more... READ MORE... Disclaimer: This post is shared for discussion and critical analysis only. Submission does not equal endorsement. The content may reflect claims or opinions from the original source. Please verify information independently and review primary sources before forming conclusions. If you notice factual errors, misleading claims, or possible AI generated or edited clips, please leave a fact check comment with sources for the community.",
+      "text_excerpt": "Senegal boat disaster kills 39. Another 14 migrants die off Greece.\nThe death toll from Sunday’s migrant boat capsize off Senegal rose to 39 today, with only 1 survivor reported and search operations continuing. The boat left Saint-Louis for Spain, following an Atlantic route used by thousands of young West Africans. This is not an isolated disaster. A June report by migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach Spain during the first 5 months of 2026, including 635 on the Atlantic route to the Canary Islands. Crossings had fallen, but the death rate had increased. Meanwhile, Greek authorities confirmed 14 deaths from a separate boat found south of Crete. ",
+      "url": "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/",
+      "source_url": "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "pressure",
+          "Crossings had fallen, but the death rate had increased"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach",
+        "Crossings had fallen, but the death rate had increased"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1400,
+      "source": "X",
+      "source_post_id": "2119997703761604652",
+      "author": "stockham_craig",
+      "language": "en",
+      "published_at": "2026-11-10T03:36:54Z",
+      "first_detected_at": "2026-11-10T03:53:57Z",
+      "last_detected_at": "2026-11-10T03:53:57Z",
+      "detection_count": 1,
+      "text": "@DonC86874875 @McintireJuston @DataRepublican We need to show force at the southern border.\nWe have a wave of migrants coming and im not sure we have the border covered right now.",
+      "text_excerpt": "@DonC86874875 @McintireJuston @DataRepublican We need to show force at the southern border.\nWe have a wave of migrants coming and im not sure we have the border covered right now.",
+      "url": "https://x.com/stockham_craig/status/2119997703761604652",
+      "source_url": "https://x.com/stockham_craig/status/2119997703761604652",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1398,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsb5r6",
+      "author": "copefan",
+      "language": null,
+      "published_at": "2026-11-10T02:24:18Z",
+      "first_detected_at": "2026-11-10T03:53:24Z",
+      "last_detected_at": "2026-11-10T03:53:24Z",
+      "detection_count": 1,
+      "text": "Meta-Zionism: Has anyone noticed this phenomenon?\nOver the past year, I've noticed this phenomenon that a fair amount of people talk about, but nobody seems to have termed properly, which I have decided to call \"meta-zionism\". Meta-zionism, as I define it, is a phenomenon wherein a person is not necessarily zionistic, in that they are either against or indifferent to the existence of the state of israel, but are supportive of zionist causes. I have a couple of examples of these meta-zionists in mind, the specific ones I'll be talking to are the anti-zionistic meta-zionists. Many people call them fake anti-zionists, but I think that's an inaccurate view of them, because the anti-zionistic meta-zionist is genuinely against the state of israel, but what makes them poisonous to the public discourse is that they will use their status as anti-zionists to shut down criticism of their of their meta-zionist stances from anti-zionist positions, a defence which is weak when examined in depth, but seems valid on the surface that it can convince the typical layman. The first example I have occurred during the Thomas Massie primary campaign. In the campaign, one of the points that the leadership brought up against their primary opponent, Ed Gallrein, was the fact that Gallrein's was being overwhelmingly funded by zionist jewish billionaires, which was factually true, and that Gallrein would obviously be subservient to israeli agendas over American agendas. Multiple figures of the anti-zionist left, the largest among them to my knowledge being Emma Vigeland, attacked the campaign for \"pushing anti-semetic conspiracies\" that Jews control American politics and that Israel controls America(rather than the reverse), note that Massie's campaign never made those claims. When argued against from anti-zionist positions, many of these anti-zionist leftists, including Vigeland, would claim that the arguments were invalid because they were also anti-zionists and opposed israel. Another case that comes to mind was during the Spanish-Moroccan territory dispute. For those unfamiliar, Spain has an enclave in North Africa that is a disputed territory with Morocco. After Spain defied israel and the U.S. regarding the genocide of Gaza and the Iran War, israel declared their recognition of the Spanish enclave as Moroccan territory and about 80k Moroccans crossed over the border and invaded the enclave as migrants. This move was clearly done with advanced coordination, likely from the israeli and Moroccan governments. For reference, the last time something of this nature occurred was in 2021, where about 8k Moroccan migrants invaded the enclave and that incident was confirmed to have been done with assistance from the Moroccan government. Multiple leftist anti-zionists claimed that the people calling out this incident were all right-wing anti-immigration xenophobes pushing the replacement theory and the immigrant invader narrative. When presented with the fact that this incident was likely coordinated by the israeli government, these same people used their anti-zionist status to shut down criticism of them from anti-zionist perspectives. Another instance from much more recently was the announcement of Mamdani's strategy to combat anti-semitism, his capitulation to liberal zionism, and his order to arrest of anti-netanyahu protesters. In Mamdani's plan to combat anti-semitism, he announced that he would be providing $26 million to Jewish organizations in NYC, of which people discovered included organizations that organized israel birthright trips and auctions of stolen Palestinian land in the West Bank. Mamdani also capitulated to liberal zionists by endorsing zionist democrat politicians and liberal zionist organizations(such as israelis for peace). However, the most notable incident was Mamdani walking back on his claim to do everything in his power to hold netanyahu accountable should he enter NYC, and instead giving the order to arrest the protesters of netanyahu's UN visit. Several anti-zionist leftists claimed that anyone opposed to Mamdani's strategy to combat anti-semitism were anti-semitic, that the opposition to his capitulation to liberal zionism was coming from right-wingers, and that actually the order to arrest the anti-netanyahu protesters was the Jessica Tisch's fault(even though Mamdani made the active decision to keep Tisch in that postion). When confronted with arguments from other anti-zionists, they argued that Mamdani was the most influential anti-zionist politician in office so far, and that status excuses his actions supporting meta-zionism. There are a couple other cases I can think of, but I think the ones I've presented paint a clear enough picture of what I'm referring to. Essentially, the anti-zionistic meta-zionist argues \"I'm against zionism, so you can't criticize me for supporting zionist causes.\" Has anyone else noticed this phenomenon as well?",
+      "text_excerpt": "Meta-Zionism: Has anyone noticed this phenomenon?\nOver the past year, I've noticed this phenomenon that a fair amount of people talk about, but nobody seems to have termed properly, which I have decided to call \"meta-zionism\". Meta-zionism, as I define it, is a phenomenon wherein a person is not necessarily zionistic, in that they are either against or indifferent to the existence of the state of israel, but are supportive of zionist causes. I have a couple of examples of these meta-zionists in mind, the specific ones I'll be talking to are the anti-zionistic meta-zionists. Many people call them fake anti-zionists, but I think that's an inaccurate view of them, because the anti-zionistic met",
+      "url": "https://www.reddit.com/r/AskSocialists/comments/1xsb5r6/metazionism_has_anyone_noticed_this_phenomenon/",
+      "source_url": "https://www.reddit.com/r/AskSocialists/comments/1xsb5r6/metazionism_has_anyone_noticed_this_phenomenon/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants. This move"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants. This move"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1402,
+      "source": "X",
+      "source_post_id": "2120000170905735562",
+      "author": "SiddiquiZadaa",
+      "language": "en",
+      "published_at": "2026-11-10T03:46:43Z",
+      "first_detected_at": "2026-11-10T03:54:29Z",
+      "last_detected_at": "2026-11-10T03:54:29Z",
+      "detection_count": 1,
+      "text": "🚨🇸🇳 TRAGEDY: At least 39 people have died after a migrant boat sank off Senegal's coast. Only one survivor has reportedly been rescued as search efforts continue. The Star https://t.co/a8l3UoIhP6",
+      "text_excerpt": "🚨🇸🇳 TRAGEDY: At least 39 people have died after a migrant boat sank off Senegal's coast. Only one survivor has reportedly been rescued as search efforts continue. The Star https://t.co/a8l3UoIhP6",
+      "url": "https://x.com/SiddiquiZadaa/status/2120000170905735562",
+      "source_url": "https://x.com/SiddiquiZadaa/status/2120000170905735562",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1404,
+      "source": "X",
+      "source_post_id": "2119991570048962719",
+      "author": "CivicLedgerNews",
+      "language": "en",
+      "published_at": "2026-11-10T03:12:32Z",
+      "first_detected_at": "2026-11-10T03:54:30Z",
+      "last_detected_at": "2026-11-10T03:54:30Z",
+      "detection_count": 1,
+      "text": "13 migrants found dead on a boat south of Crete Monday and a 14th died in hospital, as Greece rescued 180+ others from three more boats crossing from North Africa. https://t.co/8Wj4o8cwNy #Greece #Crete #Mediterranean #CivicLedger https://t.co/sG0JVqWaxb",
+      "text_excerpt": "13 migrants found dead on a boat south of Crete Monday and a 14th died in hospital, as Greece rescued 180+ others from three more boats crossing from North Africa. https://t.co/8Wj4o8cwNy #Greece #Crete #Mediterranean #CivicLedger https://t.co/sG0JVqWaxb",
+      "url": "https://x.com/CivicLedgerNews/status/2119991570048962719",
+      "source_url": "https://x.com/CivicLedgerNews/status/2119991570048962719",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Crete",
+      "primary_location": "Crete",
+      "country": "Greece",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1399,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsayar",
+      "author": "Bakyumu",
+      "language": null,
+      "published_at": "2026-11-10T02:14:19Z",
+      "first_detected_at": "2026-11-10T03:53:24Z",
+      "last_detected_at": "2026-11-10T03:53:24Z",
+      "detection_count": 1,
+      "text": "Canary Islands: 39 dead after migrant boat sinks off Senegal en route to Europe\nAt least 39 people have died after a boat carrying migrants sank off the coast of Senegal, the Senegalese Press Agency (APS) reports. The interior ministry said one person had been rescued, but the number of people still missing was yet to be established. The small wooden boat capsized between the capital, Dakar and the northern city of Saint-Louis, as it headed towards Spain's Canary Islands. Spanish migrant rights group Walking Borders recorded 635 deaths on the Atlantic route to the Canary Islands between January and May 2026, the highest toll among the routes it monitors.",
+      "text_excerpt": "Canary Islands: 39 dead after migrant boat sinks off Senegal en route to Europe\nAt least 39 people have died after a boat carrying migrants sank off the coast of Senegal, the Senegalese Press Agency (APS) reports. The interior ministry said one person had been rescued, but the number of people still missing was yet to be established. The small wooden boat capsized between the capital, Dakar and the northern city of Saint-Louis, as it headed towards Spain's Canary Islands. Spanish migrant rights group Walking Borders recorded 635 deaths on the Atlantic route to the Canary Islands between January and May 2026, the highest toll among the routes it monitors.",
+      "url": "https://www.reddit.com/r/Africa/comments/1xsayar/canary_islands_39_dead_after_migrant_boat_sinks/",
+      "source_url": "https://www.reddit.com/r/Africa/comments/1xsayar/canary_islands_39_dead_after_migrant_boat_sinks/",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1403,
+      "source": "X",
+      "source_post_id": "2119998784335941871",
+      "author": "VisgionBreaking",
+      "language": "en",
+      "published_at": "2026-11-10T03:41:12Z",
+      "first_detected_at": "2026-11-10T03:54:29Z",
+      "last_detected_at": "2026-11-10T03:54:29Z",
+      "detection_count": 1,
+      "text": "🚨 Migrant arrivals to Spain’s Canary Islands are reportedly increasing, with current figures potentially exceeding 10,000 per month. NGO volunteers have also been seen welcoming migrants as they arrive by boat.\n\n#Spain #Migration #WorldNews https://t.co/O4lnktFmKB",
+      "text_excerpt": "🚨 Migrant arrivals to Spain’s Canary Islands are reportedly increasing, with current figures potentially exceeding 10,000 per month. NGO volunteers have also been seen welcoming migrants as they arrive by boat.\n\n#Spain #Migration #WorldNews https://t.co/O4lnktFmKB",
+      "url": "https://x.com/VisgionBreaking/status/2119998784335941871",
+      "source_url": "https://x.com/VisgionBreaking/status/2119998784335941871",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants as they arrive"
+        ],
+        [
+          "movement",
+          "Migrant arrivals"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "Migrant arrivals to Spain’s Canary Islands are reportedly increasing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants as they arrive",
+        "Migrant arrivals",
+        "Migrant arrivals to Spain’s Canary Islands are reportedly increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2119998784335941871"
+      ],
+      "related_authors": [
+        "VisgionBreaking"
+      ],
+      "related_urls": [
+        "https://x.com/VisgionBreaking/status/2119998784335941871"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1401,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xsa21k",
+      "author": "alexmark002",
+      "language": null,
+      "published_at": "2026-11-10T01:30:54Z",
+      "first_detected_at": "2026-11-10T03:53:58Z",
+      "last_detected_at": "2026-11-10T03:53:58Z",
+      "detection_count": 1,
+      "text": "Senegal boat disaster kills 39. Another 14 migrants die off Greece.\nThe death toll from Sunday’s migrant boat capsize off Senegal rose to 39 today, with only 1 survivor reported and search operations continuing. The boat left Saint-Louis for Spain, following an Atlantic route used by thousands of young West Africans. This is not an isolated disaster. A June report by migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach Spain during the first 5 months of 2026, including 635 on the Atlantic route to the Canary Islands. Crossings had fallen, but the death rate had increased. Meanwhile, Greek authorities confirmed 14 deaths from a separate boat found south of Crete. ... Read more... READ MORE... Disclaimer: This post is shared for discussion and critical analysis only. Submission does not equal endorsement. The content may reflect claims or opinions from the original source. Please verify information independently and review primary sources before forming conclusions. If you notice factual errors, misleading claims, or possible AI generated or edited clips, please leave a fact check comment with sources for the community.",
+      "text_excerpt": "Senegal boat disaster kills 39. Another 14 migrants die off Greece.\nThe death toll from Sunday’s migrant boat capsize off Senegal rose to 39 today, with only 1 survivor reported and search operations continuing. The boat left Saint-Louis for Spain, following an Atlantic route used by thousands of young West Africans. This is not an isolated disaster. A June report by migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach Spain during the first 5 months of 2026, including 635 on the Atlantic route to the Canary Islands. Crossings had fallen, but the death rate had increased. Meanwhile, Greek authorities confirmed 14 deaths from a separate boat found south of Crete. ",
+      "url": "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/",
+      "source_url": "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach"
+        ],
+        [
+          "route",
+          "route"
+        ],
+        [
+          "pressure",
+          "Crossings had fallen, but the death rate had increased"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant-rights group Caminando Fronteras counted 1,317 deaths attempting to reach",
+        "Crossings had fallen, but the death rate had increased"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "reddit_1xsa21k"
+      ],
+      "related_authors": [
+        "alexmark002"
+      ],
+      "related_urls": [
+        "https://www.reddit.com/r/CitizenWatchNews/comments/1xsa21k/senegal_boat_disaster_kills_39_another_14/"
+      ],
+      "related_sources": [
+        "REDDIT"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:25908",
+      "timestamp": "2026-11-10T03:47:35Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120000391295451406",
+      "author": "TruthNetwork26",
+      "url": "https://x.com/TruthNetwork26/status/2120000391295451406",
+      "source_url": "https://x.com/TruthNetwork26/status/2120000391295451406",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "At least 39 dead after migrant boat capsizes off Senegal on the Canary Islands route\n\nRead more from Truth Network Daily:\nhttps://t.co/HYDJS0jeto",
+      "text_excerpt": "At least 39 dead after migrant boat capsizes off Senegal on the Canary Islands route\n\nRead more from Truth Network Daily:\nhttps://t.co/HYDJS0jeto",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T03:53:56Z",
+      "last_collected_at": "2026-11-10T03:53:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25926",
+      "timestamp": "2026-11-10T03:16:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119992530838118806",
+      "author": "RadioGenKe",
+      "url": "https://x.com/RadioGenKe/status/2119992530838118806",
+      "source_url": "https://x.com/RadioGenKe/status/2119992530838118806",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "39 dead as Senegal migrant boat capsizes on dangerous Atlantic route\n#HomeOfHardTruths\nhttps://t.co/s2nLv7StVG",
+      "text_excerpt": "39 dead as Senegal migrant boat capsizes on dangerous Atlantic route\n#HomeOfHardTruths\nhttps://t.co/s2nLv7StVG",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T03:54:30Z",
+      "last_collected_at": "2026-11-10T03:54:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25934",
+      "timestamp": "2026-11-10T03:12:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119991622457065850",
+      "author": "skepticaliblog",
+      "url": "https://x.com/skepticaliblog/status/2119991622457065850",
+      "source_url": "https://x.com/skepticaliblog/status/2119991622457065850",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "route",
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Mass migration represents a huge revenue stream for organized crime, all along the route to our southern border\n\nIn the Biden years, migrant smuggling proceeds outstripped drug trafficking revenue\n\nThese criminal groups are already ramping up flows in anticipation of another boom https://t.co/5DnFIeIO3a https://t.co/TbO7IbdzJi",
+      "text_excerpt": "Mass migration represents a huge revenue stream for organized crime, all along the route to our southern border\n\nIn the Biden years, migrant smuggling proceeds outstripped drug trafficking revenue\n\nThese criminal groups are already ramping up flows in anticipation of another boom https://t.co/5DnFIeIO3a https://t.co/TbO7IbdzJi",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T03:54:59Z",
+      "last_collected_at": "2026-11-10T03:54:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:25928",
+      "timestamp": "2026-11-10T03:08:47Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2119990628406919349",
+      "author": "BS_Prasad",
+      "url": "https://x.com/BS_Prasad/status/2119990628406919349",
+      "source_url": "https://x.com/BS_Prasad/status/2119990628406919349",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "\"Hello, I am Palestinian. 🇵🇸\nAnd since honesty is so rare in my politics, let me confess a few things.\n\n1947. The UN offered me a state. Alongside Israel. Borders, independence, recognition. I said no. My leaders promised that war would \"drive the Jews into the sea.\" Instead, I https://t.co/PhGteXIYGS",
+      "text_excerpt": "\"Hello, I am Palestinian. 🇵🇸\nAnd since honesty is so rare in my politics, let me confess a few things.\n\n1947. The UN offered me a state. Alongside Israel. Borders, independence, recognition. I said no. My leaders promised that war would \"drive the Jews into the sea.\" Instead, I https://t.co/PhGteXIYGS",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T03:54:30Z",
+      "last_collected_at": "2026-11-10T03:54:30Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-10T03:55:38.975383+00:00"
+}
