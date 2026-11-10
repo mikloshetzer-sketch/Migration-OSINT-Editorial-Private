@@ -3368,9 +3368,47 @@
       "first_collected_at": "2026-11-10T03:55:29Z",
       "last_collected_at": "2026-11-10T03:55:29Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26082",
+      "timestamp": "2026-11-09T14:40:23Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "REDDIT",
+      "source_post_id": "reddit_1xrtctz",
+      "author": "Ok_Signal4754",
+      "url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xrtctz/damning_photo_that_makes_a_mockery_of_britains/",
+      "source_url": "https://www.reddit.com/r/EuropeNewsNoComments/comments/1xrtctz/damning_photo_that_makes_a_mockery_of_britains/",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Damning photo that makes a mockery of Britain's £662m deal with France to help stop small boats crossing Channel. This shocking photo shows the French actively assisting a controversial migrants' boat preparing to leave the Normandy coast on an epic 36-hour journey to England last week\nSource",
+      "text_excerpt": "Damning photo that makes a mockery of Britain's £662m deal with France to help stop small boats crossing Channel. This shocking photo shows the French actively assisting a controversial migrants' boat preparing to leave the Normandy coast on an epic 36-hour journey to England last week\nSource",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-10T19:00:45Z",
+      "last_collected_at": "2026-11-10T19:00:45Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-10T03:55:37.327349+00:00",
+  "last_archived_at": "2026-11-10T19:01:21.644994+00:00",
   "crossing_access_signals": [
     {
       "id": 1392,
