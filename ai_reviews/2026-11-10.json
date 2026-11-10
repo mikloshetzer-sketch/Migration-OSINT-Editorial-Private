@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T19:01:59.471867+00:00"
+    },
+    "information:26068": {
+      "hu_text": "@shannon_rxo A belügyminiszterünk azt mondta, hogy szinte minden nő, aki hajón érkezik, megerőszakolják, de a feminista csoportok még mindig azt kiabálják, hogy menekülteket üdvözlünk itt, ez hihetetlen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos és érzékeny, de nincs megerősített bizonyíték a kijelentés igazolására, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:12.703893+00:00"
+    },
+    "information:26084": {
+      "hu_text": "A vámhatóság 524 millió peso értékben foglalt le hagymát, babot és sárgarépát egy Valenzuela-i raktárból. A lefoglalt áruk között 99 289 zsák vöröshagyma, valamint bab, gyömbér és sárgarépa voltak. A Manila Nemzetközi Konténerkikötő lefoglalási és őrizetbe vételi végzést adott ki, és a hatóság vizsgálja az ügyet mezőgazdasági csempészet elleni törvény alapján.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az információ mezőgazdasági csempészetről szól, nem kapcsolódik migrációhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:12.703915+00:00"
+    },
+    "information:26088": {
+      "hu_text": "FRISS HÍR: Az ENSZ menekültügyi szervezete bírálta az Egyesült Királyság tervét, amely szerint egyes menekültek akár 30 évig is várhatnak a letelepedési engedélyre. A javaslat érintené azokat, akik kis hajókon érkezve kaptak menekültstátuszt, és meghosszabbítaná a tartózkodási engedély megszerzésének várakozási idejét.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az ENSZ és az Egyesült Királyság hivatalos terveiről szóló információ, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:12.703918+00:00"
+    },
+    "information:26095": {
+      "hu_text": "ÚJABB KIS HAJÓ ÉRKEZETT CORNWALLBA – HAT EMBERT LETARTÓZTATTÁK AZ M5-ÖN\n\nEgy újabb gyanús hajó érkezett a falmouthi kikötőbe. Néhány órával később a rendőrség megállított egy járművet az M5-ös autópályán Tiverton közelében, és hat férfit tartóztatott le migrációs szabálysértések gyanújával. A forgalom lelassult az intézkedés miatt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi rendőrségi intézkedésről szóló információ, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:12.703921+00:00"
+    },
+    "record:1980940690:16659": {
+      "hu_text": "Az illegális migráció témájában európai hírek: Franciaországban egy 24 éves algériai illegálisan tartózkodott, rendőrnek drogot kínált, és támadta a rendőröket. Olaszországban több incidens történt: egy egyiptomi férfi támadott mentőkre, egy albán férfit késelés miatt tartóztattak le, egy pakisztáni férfit rablással gyanúsítanak, egy bangladesi férfit családon belüli erőszakkal vádolnak. Németországban Hamburgban egy illegális migránst lopással gyanúsítanak. Görögországban Kréta partjainál 20 illegális migráns halt meg, két szudáni szervezőt tartóztattak le. Az üzenet szerint Európa a migrációs kísérlet helyszíne, amely szerinte sikertelen, és Oroszországnak ki kell lépnie az ENSZ migrációs programjaiból, valamint le kell állítania a bűnözők tömeges bevándorlását.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több helyszíni bűncselekményről szóló állítás, de nincs független megerősítés, és politikai vélemény is megjelenik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:12.703923+00:00"
+    },
+    "record:2120221779037696382": {
+      "hu_text": "@SimonJonesNews Legutóbbi eset: Egy 21 migránst szállító hajó elérte Kentet elfogás nélkül, amit a Belügyminisztérium ellenőrizetlen partraszállásként minősített. Shabana Mahmood belügyminiszter korábban vizsgálatokat rendelt el az őrizet nélküli partraszállások miatt, és elfogadhatatlannak nevezte azokat.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hivatalos belügyi állítás migrációs eseményről, de további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:12.703926+00:00"
     }
   },
   "legacy_reviews": {}
