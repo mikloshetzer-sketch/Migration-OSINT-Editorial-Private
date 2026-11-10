@@ -518,6 +518,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-10T19:02:12.703926+00:00"
+    },
+    "record:2120224968214446385": {
+      "hu_text": "Körülbelül 22 000–26 000 illegális migráns érkezett Görögországba, Kréta szigetére Líbiából 2026 elejétől novemberig. A török-líbiai illegális memorandum után Líbia továbbra is nyomást gyakorol Görögországra, az EU-tagállamra a migránsok felhasználásával.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és politikai kontextust tartalmaz, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlen. Fontos a határbiztonsági helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:24.735316+00:00"
+    },
+    "record:2120225194434597176": {
+      "hu_text": "18 migránst fogtak el a kaliforniai partoknál! Szövetségi hatóságok egy hajót állítottak meg, amely 18 mexikói állampolgárt szállított mintegy 30 mérfölddel San Clemente-sziget déli részétől. A parti őrség megállította a hajót, miután a határvédelmi hivatal észlelte, hogy belépett az USA vizeire.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény részletes, de nincs hivatalos megerősítés vagy további bizonyíték, ezért ellenőrizetlen. Fontos a határbiztonsági helyzet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:24.735335+00:00"
+    },
+    "telegram:1261826972:54484": {
+      "hu_text": "Védett tanúk marokkói ügynököket jelöltek meg, akik Ceutába való átkeléshez vezették a migránsokat az invázió során. Tardón bíró több marokkóit hallgatott meg, akik előre megtervezett akciót állítanak Ceuta tömeges bevándorlásának elősegítésére. A kormány új CNI jelentéseket hozott nyilvánosságra a július 30-31-i eseményekről.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos vádakat tartalmaz, de csak tanúvallomásokra és kormányzati jelentésekre hivatkozik, amelyek nem nyilvánosak, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:24.735337+00:00"
+    },
+    "telegram:1261826972:54488": {
+      "hu_text": "A Los Rosales település a zöld háló után: a településen maradt migránsok valósága. Az Nuestra Señora de África óvoda előtti telepen több tucat migráns maradt az invázió során érkezettek közül, míg mások, például Abdel, ismét az utcán vannak éjszakai menedék nélkül. Ceuta továbbra sem az a város, ami volt.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A beszámoló humanitárius helyzetet ír le, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:24.735340+00:00"
+    },
+    "telegram:1261826972:54490": {
+      "hu_text": "A kikötőből kitelepített kiskorúak sátrakban laknak Loma Colmenarban. Az eredetileg 2000 migránsból körülbelül 500 visszatért Marokkóba.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A helyi humanitárius helyzetet ismerteti, de nincs független forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:24.735342+00:00"
+    },
+    "telegram:1980940690:16659": {
+      "hu_text": "Európában több incidens történt illegális migránsokkal: Franciaországban egy algériai fiatal kábítószert kínált rendőrnek, majd erőszakoskodott; Olaszországban több támadás és bűncselekmény történt migránsok részvételével; Görögországon Krétán 20 illegális migráns halt meg, két szervezőt őrizetbe vettek. Az üzenet szerint Európa a migrációs kísérletek terepe, amely szerinte sikertelen, és Oroszországnak ki kell lépnie az ENSZ migrációs programjaiból.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az üzenet több eseményt sorol fel, de nem szolgáltat bizonyítékokat, és politikai véleményt is tartalmaz, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-10T19:02:24.735344+00:00"
     }
   },
   "legacy_reviews": {}
