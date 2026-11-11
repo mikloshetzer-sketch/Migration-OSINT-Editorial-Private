@@ -166,6 +166,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T00:23:19.821713+00:00"
+    },
+    "group:704": {
+      "hu_text": "Mexikói biztonsági erők körülbelül 40 embert tartóztattak fel egy majdnem 100 közép-amerikai migránsból álló karavánból, amely az Egyesült Államokba próbált eljutni. A művelet Chiapasban zajlott, miután a csoport átkelt a Suchiate folyón Guatemalából, miközben szigorodtak a határvédelmi intézkedések.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági eseményről szól, de nincs megerősített forrás vagy további bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:35:55.647649+00:00"
+    },
+    "group:705": {
+      "hu_text": "Egy jelentés szerint sokkal több kis hajós migránst deportálhattak volna az „egy be, egy ki” megállapodás alapján, ha Franciaország átláthatóbb lett volna. A mai felülvizsgálat megállapította, hogy a belügyminisztérium tisztviselői gyakran csalódottak voltak, miután a francia kollégák elutasították az együttműködést.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A politikai és jogi együttműködésről szóló állítás, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:35:55.647669+00:00"
+    },
+    "group:706": {
+      "hu_text": "Beverly (nem a valódi neve) menekültként érkezett Kenyába, család és támogatói rendszer nélkül. Munkát keresve háztartási alkalmazott lett Eastleigh-ben, ahol kizsákmányolásnak, bérfizetés elmaradásának, szexuális zaklatásnak és fenyegetéseknek volt kitéve. Biztonságot keresve tovább folytatta útját.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Egyéni menekült történet, amely humanitárius témájú, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:35:55.647674+00:00"
+    },
+    "information:26174": {
+      "hu_text": "@Artemisfornow Akkor mi lenne, ha az összes hajóval érkező migránst Walesbe küldenénk, és hagynánk, hogy ők gondoskodjanak róluk? Parlament vagy az ország többi része nélkül! Ugyanez vonatkozzon Skóciára is, főleg, hogy korábban azt mondták, a migránsokat szívesen látják!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, közösségi médiás hozzászólás, nincs tényállítás vagy bizonyítható információ.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:35:55.647677+00:00"
+    },
+    "information:26177": {
+      "hu_text": "Egy nemzetközi rendőrségi művelet, amely a migránscsempészettel foglalkozó bűnözői hálózatokat célozta a Földközi-tengeren és a Nyugat-afrikai Atlanti-útvonalon, 262 letartóztatást eredményezett, 434 nyomozás indult, és 109 potenciális áldozatot azonosítottak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági és bűnüldözési információ, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:35:55.647708+00:00"
+    },
+    "information:26185": {
+      "hu_text": "@SquintFeastwood Annyira eltérsz a valóságtól, hogy aggódom érted. Ne gyere ide és ne támadj azért, mert vitázom arról, hogy Wirtz elég jó-e a középpályánk átszervezéséhez, és ne hasonlítsd össze a migránsok hajóátkelésével vagy népirtással. Ez szánalmas, sértő és lekezelő.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és vita, nem tartalmaz ellenőrizhető tényeket vagy releváns migrációs információt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:35:55.647712+00:00"
     }
   },
   "legacy_reviews": {}
