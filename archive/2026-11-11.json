@@ -2530,9 +2530,50 @@
       "first_collected_at": "2026-11-11T17:32:08Z",
       "last_collected_at": "2026-11-11T17:32:08Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26323",
+      "timestamp": "2026-11-11T22:18:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120642399693156585",
+      "author": "MAGANation_47",
+      "url": "https://x.com/MAGANation_47/status/2120642399693156585",
+      "source_url": "https://x.com/MAGANation_47/status/2120642399693156585",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "smuggling",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "tonight",
+        "breaking",
+        "now"
+      ],
+      "text": "🚨BREAKING: GoSport is under section 34, essentially a “lockdown” TONIGHT due to protesting against 700 illegal migrants due to arrive on their shores tonight.\n\nLockdowns are now being weaponized to help illegal people smuggling. https://t.co/DSMs37MkDE",
+      "text_excerpt": "🚨BREAKING: GoSport is under section 34, essentially a “lockdown” TONIGHT due to protesting against 700 illegal migrants due to arrive on their shores tonight.\n\nLockdowns are now being weaponized to help illegal people smuggling. https://t.co/DSMs37MkDE",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T23:48:14Z",
+      "last_collected_at": "2026-11-11T23:48:14Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-11T17:34:27.117630+00:00",
+  "last_archived_at": "2026-11-11T23:48:45.337062+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
