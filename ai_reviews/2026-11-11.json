@@ -298,6 +298,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T08:36:06.608127+00:00"
+    },
+    "record:2120427702444503406": {
+      "hu_text": "Mexikói biztonsági erők körülbelül 40 embert tartóztattak fel egy majdnem 100 közép-amerikai migránsból álló karavánból, amely az Egyesült Államokba próbált eljutni. A művelet Chiapasban zajlott, miután a csoport átkelt a Suchiate folyón Guatemalából, szigorodó határkorlátozások közepette.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le a határon történt migrációs intézkedésről, de nincs független megerősítés vagy további bizonyíték, ezért ellenőrizetlen státuszú. Fontos információ a határbiztonsági helyzetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:17.743171+00:00"
+    },
+    "record:2120428225322999981": {
+      "hu_text": "FRISS: 2000 fős migráns karaván indul Tapachula déli határáról az USA felé.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy nagy létszámú migráns karaván mozgásáról ad hírt, ami fontos előrejelzés a migrációs folyamatok szempontjából, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:17.743185+00:00"
+    },
+    "record:2120429620726218837": {
+      "hu_text": "Ezen a héten: November 3-án a görög kormány aggodalmát fejezte ki a Líbiából érkező migránsok számának növekedése miatt; november 3-án a líbiai hadsereg és az LNA vezérkari főnökei részt vettek a párizsi Euronaval védelmi kiállításon; november 4-én a Frontex 2018 és 2024 között több mint 33 000 embert fogott el Líbiában és Tunéziában.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több eseményt és adatot sorol fel migrációval kapcsolatban, de nincs közvetlen bizonyíték vagy hivatalos forrás megjelölve, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:17.743188+00:00"
+    },
+    "telegram:1173707041:9766": {
+      "hu_text": "Szalahaddin tartomány migrációs és helyi kormányzati képviselői megvizsgálták a menekültek szükségleteit és a pszichológiai, valamint szakmai rehabilitáció támogatását a Ninive déli részén található Al-Amal központban. A látogatás során találkoztak a központ vezetésével és a menekült családokkal, hogy közösen dolgozzanak a visszatérés feltételeinek javításán, valamint megtekintették a pszichológiai és szakmai képzési részlegeket, végül ajándékokat osztottak a gyermekeknek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés humanitárius tevékenységet ír le, amely releváns a migrációs helyzet szempontjából, de nincs független megerősítés vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:17.743191+00:00"
+    },
+    "telegram:1604168769:12576": {
+      "hu_text": "Szarátov régióban 2027. január 1-jétől korlátozzák a külföldiek munkavállalását bizonyos ágazatokban, mint az elektromos energia, vízellátás, hulladékfeldolgozás és áruszállítás. Ezek a korlátozások 2023. december 31-ig érvényben lesznek, és további ágazatok bevonását tervezik.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy jövőbeni szabályozási változást ismertet migránsok munkavállalásával kapcsolatban, ami fontos a migrációs politika szempontjából, de nincs hivatalos forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:17.743194+00:00"
+    },
+    "telegram:2240007404:884": {
+      "hu_text": "Rakodómunkás álláslehetőség húsfeldolgozó üzembe Moszkva közelében, Odincovo városában. A munka havi 135 000 rubel fizetéssel, ingyenes szállással, étkezéssel, munkaruhával és munkavállalási engedély intézésével jár. Férfiakat keresnek 35 év alatt, és barát meghívásáért bónuszt adnak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés migránsok számára, ami a migrációs folyamatokat segítheti, de önmagában nem bizonyított tény vagy esemény, és nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:17.743196+00:00"
     }
   },
   "legacy_reviews": {}
