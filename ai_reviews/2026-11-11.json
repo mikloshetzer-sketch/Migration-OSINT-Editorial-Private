@@ -540,6 +540,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T17:35:17.298278+00:00"
+    },
+    "information:26323": {
+      "hu_text": "🚨FRISS: A GoSport ma este 34-es szakasz alá került, lényegében „lezárás” van érvényben, mert tiltakoznak a ma este partjaikhoz érkező 700 illegális migráns miatt.\n\nA lezárásokat most fegyverként használják az illegális embercsempészet támogatására.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, nincs megerősített bizonyíték a lezárás okáról vagy az embercsempészet támogatásáról. A téma társadalmi vitát tükröz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T23:49:04.148608+00:00"
     }
   },
   "legacy_reviews": {}
