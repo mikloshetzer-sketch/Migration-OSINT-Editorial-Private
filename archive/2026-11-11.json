@@ -111,6 +111,28 @@
       "text": "Many more small boat migrants could have been deported under the ‘one in, one out’ deal if France had been more ‘transparent’, a report has suggested.\n\nThe review published today found Home Office officials were often left ‘frustrated’ after French counterparts rejected",
       "url": "https://x.com/FortBastion/status/2120423768829120702",
       "source_url": "https://x.com/FortBastion/status/2120423768829120702"
+    },
+    {
+      "id": 891,
+      "event_id": 891,
+      "source": "X",
+      "source_post_id": "2120561273444163641",
+      "author": "danreed198181",
+      "published_at": "2026-11-11T16:56:20Z",
+      "collected_at": "2026-11-11T17:34:10Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "Bail for Him, a Cell for Tommo: Britain's Two-Tier Justice Laid Bare\n\nBy Dan | Restore Britain\n\nA six-year-old girl was out Christmas shopping with her mum in Northampton when, her mother says, a stranger grabbed her by the hood and tried to drag her away. The man police arrested https://t.co/OLReCb77v2",
+      "url": "https://x.com/danreed198181/status/2120561273444163641",
+      "source_url": "https://x.com/danreed198181/status/2120561273444163641"
     }
   ],
   "event_groups": [
@@ -229,6 +251,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-11T08:34:19Z",
       "updated_at": "2026-11-11T08:34:19Z"
+    },
+    {
+      "id": 707,
+      "group_id": 707,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "Bail for Him, a Cell for Tommo: Britain's Two-Tier Justice Laid Bare\n\nBy Dan | Restore Britain\n\nA six-year-old girl was out Christmas shopping with her mum in Northampton when, her mother says, a stranger grabbed her by the hood and tried to drag her away. The man police arrested https://t.co/OLReCb77v2",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-11T16:56:20Z",
+      "last_seen": "2026-11-11T16:56:20Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-11T17:34:10Z",
+      "updated_at": "2026-11-11T17:34:10Z"
     }
   ],
   "influence_signals": [
@@ -712,6 +763,188 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1421,
+      "source": "X",
+      "source_post_id": "2120560557732643073",
+      "author": "Eudes43",
+      "language": "en",
+      "published_at": "2026-11-11T16:53:29Z",
+      "first_detected_at": "2026-11-11T17:33:41Z",
+      "last_detected_at": "2026-11-11T17:33:41Z",
+      "detection_count": 1,
+      "text": "@BenAntRaho Then there is the EU Family Reunification Directive, which is really bad legislation that requires members to take in the family of asylum seekers as well as third-country work migrants. It's a large driver of mass migration.",
+      "text_excerpt": "@BenAntRaho Then there is the EU Family Reunification Directive, which is really bad legislation that requires members to take in the family of asylum seekers as well as third-country work migrants. It's a large driver of mass migration.",
+      "url": "https://x.com/Eudes43/status/2120560557732643073",
+      "source_url": "https://x.com/Eudes43/status/2120560557732643073",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.87,
+      "score": 16.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "Family Reunification"
+        ],
+        [
+          "policy_pull_factor",
+          "Family Reunification"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "migration",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 38.45,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1420,
+      "source": "X",
+      "source_post_id": "2120568517661741552",
+      "author": "seawaves_mag",
+      "language": "en",
+      "published_at": "2026-11-11T17:25:07Z",
+      "first_detected_at": "2026-11-11T17:33:10Z",
+      "last_detected_at": "2026-11-11T17:33:10Z",
+      "detection_count": 1,
+      "text": "Coast Guard Cutter Heriberto Hernandez’s small boat crew transfers a group of migrants during the cutter’s repatriation of 30 aliens to Dominican Republic Navy vessel Capella (GC-108) offshore Samana, Dominican Republic, Nov. 10, 2026. The repatriation followed followed a https://t.co/1bqVjlnOF1",
+      "text_excerpt": "Coast Guard Cutter Heriberto Hernandez’s small boat crew transfers a group of migrants during the cutter’s repatriation of 30 aliens to Dominican Republic Navy vessel Capella (GC-108) offshore Samana, Dominican Republic, Nov. 10, 2026. The repatriation followed followed a https://t.co/1bqVjlnOF1",
+      "url": "https://x.com/seawaves_mag/status/2120568517661741552",
+      "source_url": "https://x.com/seawaves_mag/status/2120568517661741552",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1419,
+      "source": "X",
+      "source_post_id": "2120568158721585435",
+      "author": "debrachong4",
+      "language": "en",
+      "published_at": "2026-11-11T17:23:41Z",
+      "first_detected_at": "2026-11-11T17:32:39Z",
+      "last_detected_at": "2026-11-11T17:32:39Z",
+      "detection_count": 1,
+      "text": "@FranceskAlbs Ms Albanese \n“You” can break the “siege”! Right now!\nDemand that Egypt comply with the 1951 Refugee Convention &amp; open their side of the Rafah crossing. Don’t the “people of Gaza” have the right to seek asylum elsewhere. Why are you complicit in their suffering? Please explain https://t.co/L12fXBz2xM",
+      "text_excerpt": "@FranceskAlbs Ms Albanese \n“You” can break the “siege”! Right now!\nDemand that Egypt comply with the 1951 Refugee Convention &amp; open their side of the Rafah crossing. Don’t the “people of Gaza” have the right to seek asylum elsewhere. Why are you complicit in their suffering? Please explain https://t.co/L12fXBz2xM",
+      "url": "https://x.com/debrachong4/status/2120568158721585435",
+      "source_url": "https://x.com/debrachong4/status/2120568158721585435",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Refugee Convention &amp; open their side of the Rafah crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "Refugee"
+      ],
+      "high_value_matches": [
+        "Refugee Convention &amp; open their side of the Rafah crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
       "analyst_priority": "LOW"
     }
   ],
@@ -1197,6 +1430,188 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 32.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1421,
+      "source": "X",
+      "source_post_id": "2120560557732643073",
+      "author": "Eudes43",
+      "language": "en",
+      "published_at": "2026-11-11T16:53:29Z",
+      "first_detected_at": "2026-11-11T17:33:41Z",
+      "last_detected_at": "2026-11-11T17:33:41Z",
+      "detection_count": 1,
+      "text": "@BenAntRaho Then there is the EU Family Reunification Directive, which is really bad legislation that requires members to take in the family of asylum seekers as well as third-country work migrants. It's a large driver of mass migration.",
+      "text_excerpt": "@BenAntRaho Then there is the EU Family Reunification Directive, which is really bad legislation that requires members to take in the family of asylum seekers as well as third-country work migrants. It's a large driver of mass migration.",
+      "url": "https://x.com/Eudes43/status/2120560557732643073",
+      "source_url": "https://x.com/Eudes43/status/2120560557732643073",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.87,
+      "score": 16.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "Family Reunification"
+        ],
+        [
+          "policy_pull_factor",
+          "Family Reunification"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "migration",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 38.45,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1420,
+      "source": "X",
+      "source_post_id": "2120568517661741552",
+      "author": "seawaves_mag",
+      "language": "en",
+      "published_at": "2026-11-11T17:25:07Z",
+      "first_detected_at": "2026-11-11T17:33:10Z",
+      "last_detected_at": "2026-11-11T17:33:10Z",
+      "detection_count": 1,
+      "text": "Coast Guard Cutter Heriberto Hernandez’s small boat crew transfers a group of migrants during the cutter’s repatriation of 30 aliens to Dominican Republic Navy vessel Capella (GC-108) offshore Samana, Dominican Republic, Nov. 10, 2026. The repatriation followed followed a https://t.co/1bqVjlnOF1",
+      "text_excerpt": "Coast Guard Cutter Heriberto Hernandez’s small boat crew transfers a group of migrants during the cutter’s repatriation of 30 aliens to Dominican Republic Navy vessel Capella (GC-108) offshore Samana, Dominican Republic, Nov. 10, 2026. The repatriation followed followed a https://t.co/1bqVjlnOF1",
+      "url": "https://x.com/seawaves_mag/status/2120568517661741552",
+      "source_url": "https://x.com/seawaves_mag/status/2120568517661741552",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "vessel"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1419,
+      "source": "X",
+      "source_post_id": "2120568158721585435",
+      "author": "debrachong4",
+      "language": "en",
+      "published_at": "2026-11-11T17:23:41Z",
+      "first_detected_at": "2026-11-11T17:32:39Z",
+      "last_detected_at": "2026-11-11T17:32:39Z",
+      "detection_count": 1,
+      "text": "@FranceskAlbs Ms Albanese \n“You” can break the “siege”! Right now!\nDemand that Egypt comply with the 1951 Refugee Convention &amp; open their side of the Rafah crossing. Don’t the “people of Gaza” have the right to seek asylum elsewhere. Why are you complicit in their suffering? Please explain https://t.co/L12fXBz2xM",
+      "text_excerpt": "@FranceskAlbs Ms Albanese \n“You” can break the “siege”! Right now!\nDemand that Egypt comply with the 1951 Refugee Convention &amp; open their side of the Rafah crossing. Don’t the “people of Gaza” have the right to seek asylum elsewhere. Why are you complicit in their suffering? Please explain https://t.co/L12fXBz2xM",
+      "url": "https://x.com/debrachong4/status/2120568158721585435",
+      "source_url": "https://x.com/debrachong4/status/2120568158721585435",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Refugee Convention &amp; open their side of the Rafah crossing"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "Refugee"
+      ],
+      "high_value_matches": [
+        "Refugee Convention &amp; open their side of the Rafah crossing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -1514,6 +1929,80 @@
       ],
       "related_urls": [
         "https://x.com/AJNlive/status/2120309725258744197"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1421,
+      "source": "X",
+      "source_post_id": "2120560557732643073",
+      "author": "Eudes43",
+      "language": "en",
+      "published_at": "2026-11-11T16:53:29Z",
+      "first_detected_at": "2026-11-11T17:33:41Z",
+      "last_detected_at": "2026-11-11T17:33:41Z",
+      "detection_count": 1,
+      "text": "@BenAntRaho Then there is the EU Family Reunification Directive, which is really bad legislation that requires members to take in the family of asylum seekers as well as third-country work migrants. It's a large driver of mass migration.",
+      "text_excerpt": "@BenAntRaho Then there is the EU Family Reunification Directive, which is really bad legislation that requires members to take in the family of asylum seekers as well as third-country work migrants. It's a large driver of mass migration.",
+      "url": "https://x.com/Eudes43/status/2120560557732643073",
+      "source_url": "https://x.com/Eudes43/status/2120560557732643073",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.87,
+      "score": 16.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "Family Reunification"
+        ],
+        [
+          "policy_pull_factor",
+          "Family Reunification"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "migration",
+        "asylum",
+        "asylum seekers"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 38.45,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120560557732643073"
+      ],
+      "related_authors": [
+        "Eudes43"
+      ],
+      "related_urls": [
+        "https://x.com/Eudes43/status/2120560557732643073"
       ],
       "related_sources": [
         "X"
@@ -1930,9 +2419,120 @@
       "first_collected_at": "2026-11-11T08:34:19Z",
       "last_collected_at": "2026-11-11T08:34:19Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26253",
+      "timestamp": "2026-11-11T17:32:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117598999064148188",
+      "author": null,
+      "url": "https://mas.to/@photomac/117598999064148188",
+      "source_url": "https://mas.to/@photomac/117598999064148188",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "Danish Ship (Svendborg, 2026) No one was on board to tell me the story of this boat. But freedom of speech is alive in Denmark, it appears. # photography # fotografie # fotografia # photographie # photography # monochrome # blackandwhite # denmark # streetphotography # politics # ship # meermittwoch # sea # palestine",
+      "text_excerpt": "Danish Ship (Svendborg, 2026) No one was on board to tell me the story of this boat. But freedom of speech is alive in Denmark, it appears. # photography # fotografie # fotografia # photographie # photography # monochrome # blackandwhite # denmark # streetphotography # politics # ship # meermittwoch # sea # palestine",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T17:33:10Z",
+      "last_collected_at": "2026-11-11T17:33:10Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26263",
+      "timestamp": "2026-11-11T16:47:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120559108302459159",
+      "author": "BadgerBitesUK",
+      "url": "https://x.com/BadgerBitesUK/status/2120559108302459159",
+      "source_url": "https://x.com/BadgerBitesUK/status/2120559108302459159",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@UKLabour Plan of continued destruction\n\nSome #Labour Achievements So Far (List Updated Daily):\n- Over 87,000 ILLEGAL boat arrivals since Labour took over in July 2024\n- Over 10,200 ILLEGAL boat arrivals since Andy Burnham took over in July 2026\n- Andy Burnham has defended the Home Office https://t.co/wSHtznxQQa",
+      "text_excerpt": "@UKLabour Plan of continued destruction\n\nSome #Labour Achievements So Far (List Updated Daily):\n- Over 87,000 ILLEGAL boat arrivals since Labour took over in July 2024\n- Over 10,200 ILLEGAL boat arrivals since Andy Burnham took over in July 2026\n- Andy Burnham has defended the Home Office https://t.co/wSHtznxQQa",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T17:33:41Z",
+      "last_collected_at": "2026-11-11T17:33:41Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26226",
+      "timestamp": "2026-11-11T16:27:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_e20f041ee2deaa7f5bd2",
+      "author": null,
+      "url": "https://social.dromografos.report/notes/atfwcmuxsziv00ej",
+      "source_url": "https://social.dromografos.report/notes/atfwcmuxsziv00ej",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "detention",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "🇺🇲 #ICE is hiding the locations of thousands of detained #immigrants , prompting a federal lawsuit from legal groups https://www.latintimes.com/ice-withholds-detainee-locations-final-deportation-orders-601168 ICE has stopped publicly listing many immigrants with final deportation orders, according to a lawsuit alleging the policy obstructs access to lawyers, families and potential legal remedies.",
+      "text_excerpt": "🇺🇲 #ICE is hiding the locations of thousands of detained #immigrants , prompting a federal lawsuit from legal groups https://www.latintimes.com/ice-withholds-detainee-locations-final-deportation-orders-601168 ICE has stopped publicly listing many immigrants with final deportation orders, according to a lawsuit alleging the policy obstructs access to lawyers, families and potential legal remedies.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T17:32:08Z",
+      "last_collected_at": "2026-11-11T17:32:08Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-11T08:35:34.730009+00:00",
+  "last_archived_at": "2026-11-11T17:34:19.950333+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
