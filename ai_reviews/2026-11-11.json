@@ -375,6 +375,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T08:36:25.304492+00:00"
+    },
+    "group:707": {
+      "hu_text": "Fizetés előzetes letartóztatás helyett egy férfinak, míg Tommo börtönbe került: Nagy-Britannia kétszintű igazságszolgáltatása. Egy hatéves kislány karácsonyi bevásárlás közben Northamptonban, anyja szerint egy idegen megragadta a kapucniját és el akarta rángatni. A férfit a rendőrség letartóztatta.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét esetről szól, de nincs megerősített forrás vagy további bizonyíték a történtek hitelességére. A tartalom társadalmi igazságszolgáltatási kérdéseket érint.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:34:53.159770+00:00"
+    },
+    "information:26226": {
+      "hu_text": "Az ICE (amerikai bevándorlási hatóság) elrejti több ezer fogvatartott bevándorló helyszínét, ami miatt jogi csoportok szövetségi pert indítottak. Az ICE abbahagyta, hogy nyilvánosan közzétegye a végleges kitoloncolási határozattal rendelkező bevándorlók listáját, ami akadályozza az ügyvédek, családok és jogi segítség elérését.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális jogi vitáról szól, amely fontos a bevándorlási politika és jogi hozzáférés szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:34:53.159789+00:00"
+    },
+    "information:26253": {
+      "hu_text": "Dán hajó (Svendborg, 2026). Senki sem volt a fedélzeten, hogy elmesélje a hajó történetét. Úgy tűnik, Dániában él a szólásszabadság. #fotózás #politika #hajó #tenger #Palesztina",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy fotóról és személyes megjegyzésről szól, nincs közvetlen kapcsolata a migrációval vagy határbiztonsággal.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:34:53.159794+00:00"
+    },
+    "information:26263": {
+      "hu_text": "A UK Labour párt folytatja a rombolást. Eddigi eredmények: több mint 87 000 illegális hajós érkezés 2024 júliusa óta, és több mint 10 200 illegális hajós érkezés Andy Burnham vezetése alatt 2026 júliusa óta. Andy Burnham megvédte a Belügyminisztériumot.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások illegális migrációról, de nincs megerősített adat vagy hivatalos forrás a számok hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:34:53.159802+00:00"
+    },
+    "record:2120560557732643073": {
+      "hu_text": "Az EU Családegyesítési Irányelve rossz jogszabály, amely előírja a tagállamoknak, hogy befogadják a menedékkérők családtagjait és harmadik országbeli munkavállalókat is. Ez jelentős mértékben ösztönzi a tömeges migrációt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt tartalmaz az EU családegyesítési szabályozásáról, de nincs bizonyíték a tömeges migrációra gyakorolt hatására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:34:53.159804+00:00"
+    },
+    "record:2120561273444163641": {
+      "hu_text": "Fizetés előzetes letartóztatás helyett egy férfinak, míg Tommo börtönbe került: Nagy-Britannia kétszintű igazságszolgáltatása. Egy hatéves kislány karácsonyi bevásárlás közben Northamptonban, anyja szerint egy idegen megragadta a kapucniját és el akarta rángatni. A férfit a rendőrség letartóztatta.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ugyanaz a tartalom, mint a 'group:707' azonosító alatt, ezért ugyanaz az értékelés érvényes.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:34:53.159807+00:00"
     }
   },
   "legacy_reviews": {}
