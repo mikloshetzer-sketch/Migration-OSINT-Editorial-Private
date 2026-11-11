@@ -133,6 +133,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T00:23:12.433414+00:00"
+    },
+    "record:2120309725258744197": {
+      "hu_text": "EXKLUZÍV: Trump elnök elárulta a hazafias amerikaiakat azzal, hogy az illegális bevándorlók amnesztiáját fontolgatja, és nem hajtja végre a tömeges kitoloncolások kötelezettségét! Anthony Rubin oknyomozó újságíró riasztást ad a Nyugat gyorsuló migrációs cseréjéről és a következő lépésekről.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állításokat tartalmaz, amelyek nem bizonyítottak, és erős érzelmi töltettel bírnak. Fontos a migrációs politika megítélése szempontjából, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:19.821690+00:00"
+    },
+    "telegram:1261826972:54498": {
+      "hu_text": "Benítez nevű városrész elvesztette életét: \"Nem merünk kimenni, félünk\" – mondja Gema, egy helyi lakos, aki szerint az utcák tele vannak bevándorlókkal, és ez teljesen megváltoztatta a helyiek életét. Egy alkalommal még a háza bejáratáig is követték.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi lakosok véleményét és érzéseit tartalmazza, amelyek nem ellenőrzöttek, de fontosak a társadalmi diskurzus megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:19.821708+00:00"
+    },
+    "telegram:1983050450:25450": {
+      "hu_text": "Migránsok zavartak hetet Európában: több incidens történt, például egy 24 éves algériai férfi kábítószert kínált egy civil ruhás rendőrnek, majd megtámadott több rendőrt; Rómában egy 23 éves egyiptomi férfi támadott mentőt és megrongált rendőrautót; Vicenzában késeléses támadás történt egy parkban, ahol két embert megsebesítettek, egy elvakulhat; további bűncselekmények Pakisztánból, Bangladesből és Hamburgból is jelentettek; Kréta partjainál 20 illegális migráns halt meg, két szervezőt letartóztattak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Sok helyszíni bűncselekményt és tragédiát sorol fel migránsokkal kapcsolatban, de nincs független megerősítés, így nem tekinthető ellenőrzöttnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:19.821713+00:00"
     }
   },
   "legacy_reviews": {}
