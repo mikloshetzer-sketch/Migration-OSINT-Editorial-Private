@@ -1,0 +1,1205 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "live_events": [
+    {
+      "id": 886,
+      "event_id": 886,
+      "source": "X",
+      "source_post_id": "2120303378014273969",
+      "author": "sunitausara",
+      "published_at": "2026-11-10T23:51:33Z",
+      "collected_at": "2026-11-11T00:18:44Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "🇺🇸 U.S. Border Patrol agents discovered 18 migrants concealed inside a boat named “Gonna Miss Her” approximately 12 miles from Catalina Island, California. A federal aircraft spotted the vessel before officers boarded it. Two boat operators were arrested, while the migrants were https://t.co/IYaLPqsz50",
+      "url": "https://x.com/sunitausara/status/2120303378014273969",
+      "source_url": "https://x.com/sunitausara/status/2120303378014273969"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 703,
+      "group_id": 703,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "🇺🇸 U.S. Border Patrol agents discovered 18 migrants concealed inside a boat named “Gonna Miss Her” approximately 12 miles from Catalina Island, California. A federal aircraft spotted the vessel before officers boarded it. Two boat operators were arrested, while the migrants were https://t.co/IYaLPqsz50",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-10T23:51:33Z",
+      "last_seen": "2026-11-10T23:51:33Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-11T00:18:44Z",
+      "updated_at": "2026-11-11T00:18:44Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1411,
+      "source": "X",
+      "source_post_id": "2120309725258744197",
+      "author": "AJNlive",
+      "language": "en",
+      "published_at": "2026-11-11T00:16:46Z",
+      "first_detected_at": "2026-11-11T00:18:18Z",
+      "last_detected_at": "2026-11-11T00:18:18Z",
+      "detection_count": 1,
+      "text": "EXCLUSIVE: President Trump Has Betrayed Patriotic Americans By Floating Immigration Amnesty &amp; Not Enacting The Mandate Of Mass Deportations!  \n\nInvestigative Journalist Anthony Rubin Sounds The Alarm On The Accelerating Replacement Migration Of The West &amp; What Comes Next After https://t.co/siz4OXsGzD",
+      "text_excerpt": "EXCLUSIVE: President Trump Has Betrayed Patriotic Americans By Floating Immigration Amnesty &amp; Not Enacting The Mandate Of Mass Deportations!  \n\nInvestigative Journalist Anthony Rubin Sounds The Alarm On The Accelerating Replacement Migration Of The West &amp; What Comes Next After https://t.co/siz4OXsGzD",
+      "url": "https://x.com/AJNlive/status/2120309725258744197",
+      "source_url": "https://x.com/AJNlive/status/2120309725258744197",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 21.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "Immigration Amnesty"
+        ],
+        [
+          "policy_pull_factor",
+          "Immigration Amnesty"
+        ],
+        [
+          "HIGH_VALUE",
+          "Immigration Amnesty"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration"
+      ],
+      "high_value_matches": [
+        "Immigration Amnesty"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 41.95,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1416,
+      "source": "X",
+      "source_post_id": "2120299062427562367",
+      "author": "Farawaybrother6",
+      "language": "en",
+      "published_at": "2026-11-10T23:34:24Z",
+      "first_detected_at": "2026-11-11T00:22:36Z",
+      "last_detected_at": "2026-11-11T00:22:36Z",
+      "detection_count": 1,
+      "text": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "text_excerpt": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "source_url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1412,
+      "source": "X",
+      "source_post_id": "2120302856284856484",
+      "author": "andrewc44104127",
+      "language": "en",
+      "published_at": "2026-11-10T23:49:28Z",
+      "first_detected_at": "2026-11-11T00:19:07Z",
+      "last_detected_at": "2026-11-11T00:19:07Z",
+      "detection_count": 1,
+      "text": "WE’VE HAD ABSOLUTELY ENOUGH!!\n\nHow on earth can a boat carrying 21 migrants travel the entire length of the English Channel and reach Dover without being intercepted?\n\nThe Home Office is now describing it as an “uncontrolled landing”. Let that sink in.\n\nOur borders are supposed",
+      "text_excerpt": "WE’VE HAD ABSOLUTELY ENOUGH!!\n\nHow on earth can a boat carrying 21 migrants travel the entire length of the English Channel and reach Dover without being intercepted?\n\nThe Home Office is now describing it as an “uncontrolled landing”. Let that sink in.\n\nOur borders are supposed",
+      "url": "https://x.com/andrewc44104127/status/2120302856284856484",
+      "source_url": "https://x.com/andrewc44104127/status/2120302856284856484",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants travel the entire length of the English Channel and reach"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants travel the entire length of the English Channel and reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1414,
+      "source": "X",
+      "source_post_id": "2120305940012687487",
+      "author": "111Truth777",
+      "language": "en",
+      "published_at": "2026-11-11T00:01:44Z",
+      "first_detected_at": "2026-11-11T00:22:35Z",
+      "last_detected_at": "2026-11-11T00:22:35Z",
+      "detection_count": 1,
+      "text": "A hundred clandestine migrants have just arrived at Puerto de la Estaca on the island of El Hierro in the Canary Islands.The migrants are waiting to take ferries to Tenerife.\nInstead of deporting them back home, are they being accommodated to receive better care?🫨 https://t.co/lOPypXbpZF",
+      "text_excerpt": "A hundred clandestine migrants have just arrived at Puerto de la Estaca on the island of El Hierro in the Canary Islands.The migrants are waiting to take ferries to Tenerife.\nInstead of deporting them back home, are they being accommodated to receive better care?🫨 https://t.co/lOPypXbpZF",
+      "url": "https://x.com/111Truth777/status/2120305940012687487",
+      "source_url": "https://x.com/111Truth777/status/2120305940012687487",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants have just arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants have just arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1415,
+      "source": "X",
+      "source_post_id": "2120302975667298422",
+      "author": "DrageLiten",
+      "language": "en",
+      "published_at": "2026-11-10T23:49:57Z",
+      "first_detected_at": "2026-11-11T00:22:35Z",
+      "last_detected_at": "2026-11-11T00:22:35Z",
+      "detection_count": 1,
+      "text": "@TRobinsonNewEra Hundreds of sub-Saharan illegal migrants who arrived in recent days in the Canary Islands are now being taken to mainland Spain, from where some of them will be relocated to other EU member states as “EU Quota Migrants” under the EU’s new Migration Pact. https://t.co/kFgpgOZaZt",
+      "text_excerpt": "@TRobinsonNewEra Hundreds of sub-Saharan illegal migrants who arrived in recent days in the Canary Islands are now being taken to mainland Spain, from where some of them will be relocated to other EU member states as “EU Quota Migrants” under the EU’s new Migration Pact. https://t.co/kFgpgOZaZt",
+      "url": "https://x.com/DrageLiten/status/2120302975667298422",
+      "source_url": "https://x.com/DrageLiten/status/2120302975667298422",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants who arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "migrants who arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1413,
+      "source": "X",
+      "source_post_id": "2120299707394130295",
+      "author": "FreeCuba26",
+      "language": "en",
+      "published_at": "2026-11-10T23:36:58Z",
+      "first_detected_at": "2026-11-11T00:20:25Z",
+      "last_detected_at": "2026-11-11T00:20:25Z",
+      "detection_count": 1,
+      "text": "@simonateba Democrats have betrayed the American people \nDemocrats participated in the trafficking of migrants children they paid the cartels hundreds of millions to traffic the children\nFind the documentary on YouTube. https://t.co/J0I1JqOW8a",
+      "text_excerpt": "@simonateba Democrats have betrayed the American people \nDemocrats participated in the trafficking of migrants children they paid the cartels hundreds of millions to traffic the children\nFind the documentary on YouTube. https://t.co/J0I1JqOW8a",
+      "url": "https://x.com/FreeCuba26/status/2120299707394130295",
+      "source_url": "https://x.com/FreeCuba26/status/2120299707394130295",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of migrants"
+        ],
+        [
+          "facilitation",
+          "trafficking of migrants children they paid the cartels hundreds of millions to traffic the children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "trafficking of migrants",
+        "trafficking of migrants children they paid the cartels hundreds of millions to traffic the children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1411,
+      "source": "X",
+      "source_post_id": "2120309725258744197",
+      "author": "AJNlive",
+      "language": "en",
+      "published_at": "2026-11-11T00:16:46Z",
+      "first_detected_at": "2026-11-11T00:18:18Z",
+      "last_detected_at": "2026-11-11T00:18:18Z",
+      "detection_count": 1,
+      "text": "EXCLUSIVE: President Trump Has Betrayed Patriotic Americans By Floating Immigration Amnesty &amp; Not Enacting The Mandate Of Mass Deportations!  \n\nInvestigative Journalist Anthony Rubin Sounds The Alarm On The Accelerating Replacement Migration Of The West &amp; What Comes Next After https://t.co/siz4OXsGzD",
+      "text_excerpt": "EXCLUSIVE: President Trump Has Betrayed Patriotic Americans By Floating Immigration Amnesty &amp; Not Enacting The Mandate Of Mass Deportations!  \n\nInvestigative Journalist Anthony Rubin Sounds The Alarm On The Accelerating Replacement Migration Of The West &amp; What Comes Next After https://t.co/siz4OXsGzD",
+      "url": "https://x.com/AJNlive/status/2120309725258744197",
+      "source_url": "https://x.com/AJNlive/status/2120309725258744197",
+      "primary_signal": "POLICY_SIGNAL",
+      "signal_type": "POLICY_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "POLICY_CHANGE",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 21.0,
+      "matched_signals": [
+        "POLICY_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "policy_signal",
+          "Immigration Amnesty"
+        ],
+        [
+          "policy_pull_factor",
+          "Immigration Amnesty"
+        ],
+        [
+          "HIGH_VALUE",
+          "Immigration Amnesty"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration"
+      ],
+      "high_value_matches": [
+        "Immigration Amnesty"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 41.95,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1416,
+      "source": "X",
+      "source_post_id": "2120299062427562367",
+      "author": "Farawaybrother6",
+      "language": "en",
+      "published_at": "2026-11-10T23:34:24Z",
+      "first_detected_at": "2026-11-11T00:22:36Z",
+      "last_detected_at": "2026-11-11T00:22:36Z",
+      "detection_count": 1,
+      "text": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "text_excerpt": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "source_url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1412,
+      "source": "X",
+      "source_post_id": "2120302856284856484",
+      "author": "andrewc44104127",
+      "language": "en",
+      "published_at": "2026-11-10T23:49:28Z",
+      "first_detected_at": "2026-11-11T00:19:07Z",
+      "last_detected_at": "2026-11-11T00:19:07Z",
+      "detection_count": 1,
+      "text": "WE’VE HAD ABSOLUTELY ENOUGH!!\n\nHow on earth can a boat carrying 21 migrants travel the entire length of the English Channel and reach Dover without being intercepted?\n\nThe Home Office is now describing it as an “uncontrolled landing”. Let that sink in.\n\nOur borders are supposed",
+      "text_excerpt": "WE’VE HAD ABSOLUTELY ENOUGH!!\n\nHow on earth can a boat carrying 21 migrants travel the entire length of the English Channel and reach Dover without being intercepted?\n\nThe Home Office is now describing it as an “uncontrolled landing”. Let that sink in.\n\nOur borders are supposed",
+      "url": "https://x.com/andrewc44104127/status/2120302856284856484",
+      "source_url": "https://x.com/andrewc44104127/status/2120302856284856484",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants travel the entire length of the English Channel and reach"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants travel the entire length of the English Channel and reach"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1414,
+      "source": "X",
+      "source_post_id": "2120305940012687487",
+      "author": "111Truth777",
+      "language": "en",
+      "published_at": "2026-11-11T00:01:44Z",
+      "first_detected_at": "2026-11-11T00:22:35Z",
+      "last_detected_at": "2026-11-11T00:22:35Z",
+      "detection_count": 1,
+      "text": "A hundred clandestine migrants have just arrived at Puerto de la Estaca on the island of El Hierro in the Canary Islands.The migrants are waiting to take ferries to Tenerife.\nInstead of deporting them back home, are they being accommodated to receive better care?🫨 https://t.co/lOPypXbpZF",
+      "text_excerpt": "A hundred clandestine migrants have just arrived at Puerto de la Estaca on the island of El Hierro in the Canary Islands.The migrants are waiting to take ferries to Tenerife.\nInstead of deporting them back home, are they being accommodated to receive better care?🫨 https://t.co/lOPypXbpZF",
+      "url": "https://x.com/111Truth777/status/2120305940012687487",
+      "source_url": "https://x.com/111Truth777/status/2120305940012687487",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants have just arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants have just arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1415,
+      "source": "X",
+      "source_post_id": "2120302975667298422",
+      "author": "DrageLiten",
+      "language": "en",
+      "published_at": "2026-11-10T23:49:57Z",
+      "first_detected_at": "2026-11-11T00:22:35Z",
+      "last_detected_at": "2026-11-11T00:22:35Z",
+      "detection_count": 1,
+      "text": "@TRobinsonNewEra Hundreds of sub-Saharan illegal migrants who arrived in recent days in the Canary Islands are now being taken to mainland Spain, from where some of them will be relocated to other EU member states as “EU Quota Migrants” under the EU’s new Migration Pact. https://t.co/kFgpgOZaZt",
+      "text_excerpt": "@TRobinsonNewEra Hundreds of sub-Saharan illegal migrants who arrived in recent days in the Canary Islands are now being taken to mainland Spain, from where some of them will be relocated to other EU member states as “EU Quota Migrants” under the EU’s new Migration Pact. https://t.co/kFgpgOZaZt",
+      "url": "https://x.com/DrageLiten/status/2120302975667298422",
+      "source_url": "https://x.com/DrageLiten/status/2120302975667298422",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants who arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants",
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "migrants who arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1413,
+      "source": "X",
+      "source_post_id": "2120299707394130295",
+      "author": "FreeCuba26",
+      "language": "en",
+      "published_at": "2026-11-10T23:36:58Z",
+      "first_detected_at": "2026-11-11T00:20:25Z",
+      "last_detected_at": "2026-11-11T00:20:25Z",
+      "detection_count": 1,
+      "text": "@simonateba Democrats have betrayed the American people \nDemocrats participated in the trafficking of migrants children they paid the cartels hundreds of millions to traffic the children\nFind the documentary on YouTube. https://t.co/J0I1JqOW8a",
+      "text_excerpt": "@simonateba Democrats have betrayed the American people \nDemocrats participated in the trafficking of migrants children they paid the cartels hundreds of millions to traffic the children\nFind the documentary on YouTube. https://t.co/J0I1JqOW8a",
+      "url": "https://x.com/FreeCuba26/status/2120299707394130295",
+      "source_url": "https://x.com/FreeCuba26/status/2120299707394130295",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking of migrants"
+        ],
+        [
+          "facilitation",
+          "trafficking of migrants children they paid the cartels hundreds of millions to traffic the children"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "trafficking of migrants",
+        "trafficking of migrants children they paid the cartels hundreds of millions to traffic the children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1416,
+      "source": "X",
+      "source_post_id": "2120299062427562367",
+      "author": "Farawaybrother6",
+      "language": "en",
+      "published_at": "2026-11-10T23:34:24Z",
+      "first_detected_at": "2026-11-11T00:22:36Z",
+      "last_detected_at": "2026-11-11T00:22:36Z",
+      "detection_count": 1,
+      "text": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "text_excerpt": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "source_url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1416,
+      "source": "X",
+      "source_post_id": "2120299062427562367",
+      "author": "Farawaybrother6",
+      "language": "en",
+      "published_at": "2026-11-10T23:34:24Z",
+      "first_detected_at": "2026-11-11T00:22:36Z",
+      "last_detected_at": "2026-11-11T00:22:36Z",
+      "detection_count": 1,
+      "text": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "text_excerpt": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "source_url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1416,
+      "source": "X",
+      "source_post_id": "2120299062427562367",
+      "author": "Farawaybrother6",
+      "language": "en",
+      "published_at": "2026-11-10T23:34:24Z",
+      "first_detected_at": "2026-11-11T00:22:36Z",
+      "last_detected_at": "2026-11-11T00:22:36Z",
+      "detection_count": 1,
+      "text": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "text_excerpt": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "source_url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120299062427562367"
+      ],
+      "related_authors": [
+        "Farawaybrother6"
+      ],
+      "related_urls": [
+        "https://x.com/Farawaybrother6/status/2120299062427562367"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1416,
+      "source": "X",
+      "source_post_id": "2120299062427562367",
+      "author": "Farawaybrother6",
+      "language": "en",
+      "published_at": "2026-11-10T23:34:24Z",
+      "first_detected_at": "2026-11-11T00:22:36Z",
+      "last_detected_at": "2026-11-11T00:22:36Z",
+      "detection_count": 1,
+      "text": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "text_excerpt": "@Teaseryy Reducing Foreign aid, leaving the doomed ECHR and Stopping and returning illegal migrants \nwould be the best place to start so the people could benefit from the wealth they create",
+      "url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "source_url": "https://x.com/Farawaybrother6/status/2120299062427562367",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120299062427562367"
+      ],
+      "related_authors": [
+        "Farawaybrother6"
+      ],
+      "related_urls": [
+        "https://x.com/Farawaybrother6/status/2120299062427562367"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:26142",
+      "timestamp": "2026-11-11T00:20:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120310545102315956",
+      "author": "TRUMPGIRL_STL",
+      "url": "https://x.com/TRUMPGIRL_STL/status/2120310545102315956",
+      "source_url": "https://x.com/TRUMPGIRL_STL/status/2120310545102315956",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "MIGRANTS THANK DEMOCRATS FOR ELECTION VICTORIES AS 2,000-PERSON CARAVAN HEADS NORTH!\nReal America’s Voice’s Oscar Blue reports from Mexico’s southern border, where a municipal officer estimates 2,000 migrants have joined a departing caravan.\nBlue says migrants are THANKING https://t.co/IEv0t51pCa",
+      "text_excerpt": "MIGRANTS THANK DEMOCRATS FOR ELECTION VICTORIES AS 2,000-PERSON CARAVAN HEADS NORTH!\nReal America’s Voice’s Oscar Blue reports from Mexico’s southern border, where a municipal officer estimates 2,000 migrants have joined a departing caravan.\nBlue says migrants are THANKING https://t.co/IEv0t51pCa",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T00:22:35Z",
+      "last_collected_at": "2026-11-11T00:22:35Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26122",
+      "timestamp": "2026-11-11T00:08:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120307679365337449",
+      "author": "AussiePunter32",
+      "url": "https://x.com/AussiePunter32/status/2120307679365337449",
+      "source_url": "https://x.com/AussiePunter32/status/2120307679365337449",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@VNDsRevenge @PepperGii @Bhandafod_ Absolute bullshit, the boat people refugees who fled Vietnam and arrived in Australia had absolute nothing but the clothes on their backs having made a long and perilous journey to reach our shores.",
+      "text_excerpt": "@VNDsRevenge @PepperGii @Bhandafod_ Absolute bullshit, the boat people refugees who fled Vietnam and arrived in Australia had absolute nothing but the clothes on their backs having made a long and perilous journey to reach our shores.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T00:19:07Z",
+      "last_collected_at": "2026-11-11T00:19:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26123",
+      "timestamp": "2026-11-10T23:58:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120305217346387987",
+      "author": "annapiexoxo",
+      "url": "https://x.com/annapiexoxo/status/2120305217346387987",
+      "source_url": "https://x.com/annapiexoxo/status/2120305217346387987",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "El Hierro Declares Emergency as Migrant Boat Arrivals Surge\n\nhttps://t.co/hysp2YXdCv\n\n#ElHierro #CanaryIslands #MigrationCrisis",
+      "text_excerpt": "El Hierro Declares Emergency as Migrant Boat Arrivals Surge\n\nhttps://t.co/hysp2YXdCv\n\n#ElHierro #CanaryIslands #MigrationCrisis",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T00:19:07Z",
+      "last_collected_at": "2026-11-11T00:19:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26136",
+      "timestamp": "2026-11-10T23:34:35Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120299109865115834",
+      "author": "IbrahimkhailP",
+      "url": "https://x.com/IbrahimkhailP/status/2120299109865115834",
+      "source_url": "https://x.com/IbrahimkhailP/status/2120299109865115834",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "ASRA | Organised Smuggling Infrastructure and Regional Oil-Trafficking Networks\n\nGeospatial Intelligence and OSINT Report | Afghanistan–Pakistan–Iran Frontier\n\nFurther geospatial intelligence and OSINT investigations conducted under the ASRA Initiative have identified additional https://t.co/KVOHIkdTKO https://t.co/bH0LAkpX3v",
+      "text_excerpt": "ASRA | Organised Smuggling Infrastructure and Regional Oil-Trafficking Networks\n\nGeospatial Intelligence and OSINT Report | Afghanistan–Pakistan–Iran Frontier\n\nFurther geospatial intelligence and OSINT investigations conducted under the ASRA Initiative have identified additional https://t.co/KVOHIkdTKO https://t.co/bH0LAkpX3v",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T00:20:25Z",
+      "last_collected_at": "2026-11-11T00:20:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26140",
+      "timestamp": "2026-11-10T23:15:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120294342740844877",
+      "author": "IbrahimkhailP",
+      "url": "https://x.com/IbrahimkhailP/status/2120294342740844877",
+      "source_url": "https://x.com/IbrahimkhailP/status/2120294342740844877",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Geospatial Intelligence Assessment | Organised Smuggling Infrastructure at the Afghanistan–Pakistan–Iran Frontier\n\nGeospatial analysis conducted under the ASRA Initiative has identified a discontinuity in the mapped Afghanistan–Pakistan border fence in the southern Nimruz desert https://t.co/5WNfAmnGPL",
+      "text_excerpt": "Geospatial Intelligence Assessment | Organised Smuggling Infrastructure at the Afghanistan–Pakistan–Iran Frontier\n\nGeospatial analysis conducted under the ASRA Initiative has identified a discontinuity in the mapped Afghanistan–Pakistan border fence in the southern Nimruz desert https://t.co/5WNfAmnGPL",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-11T00:20:26Z",
+      "last_collected_at": "2026-11-11T00:20:26Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-11T00:22:42.844588+00:00"
+}
