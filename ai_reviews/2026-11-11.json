@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T00:23:03.321182+00:00"
+    },
+    "record:2120299062427562367": {
+      "hu_text": "A külföldi segélyek csökkentése, az ECHR-ből való kilépés és az illegális migránsok visszaküldése lenne a legjobb kiindulópont, hogy az emberek élvezhessék az általuk megteremtett gazdagságot.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény, amely migrációs politikai javaslatokat tartalmaz, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:12.433370+00:00"
+    },
+    "record:2120299707394130295": {
+      "hu_text": "A demokrata párt elárulta az amerikai népet, részt vettek migráns gyerekek embercsempészetében, és több száz milliót fizettek a kartelleknek a gyerekek csempészéséért. A dokumentumfilm megtalálható a YouTube-on.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állításokat tartalmaz embercsempészettel kapcsolatban, de nincs megerősített bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:12.433387+00:00"
+    },
+    "record:2120302856284856484": {
+      "hu_text": "Elég volt! Hogyan tud egy 21 migránst szállító hajó átkelni az egész La Manche csatornán és Doverbe érkezni anélkül, hogy elfogták volna? A Belügyminisztérium „ellenőrizetlen partraszállásként” írja le az esetet. Ez aggasztó a határbiztonság szempontjából.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Határbiztonsági aggályokat vet fel egy konkrét eset kapcsán, de nincs megerősített információ az eseményről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:12.433392+00:00"
+    },
+    "record:2120302975667298422": {
+      "hu_text": "Százakra tehető szubszaharai illegális migráns érkezett a Kanári-szigetekre az elmúlt napokban, akiket most a spanyol szárazföldre szállítanak, ahonnan egyeseket az EU új migrációs paktuma alapján „EU kvóta migránsként” más uniós tagállamokba helyeznek át.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránsok mozgásáról és áthelyezéséről szóló információ, amely releváns, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:12.433396+00:00"
+    },
+    "record:2120303378014273969": {
+      "hu_text": "Az amerikai határőrség 18 migránst talált egy „Gonna Miss Her” nevű hajóban mintegy 12 mérföldre a kaliforniai Catalina-szigettől. Egy szövetségi repülőgép fedezte fel a hajót, mielőtt a hatóságok beszálltak. Két hajókezelőt letartóztattak, a migránsokat pedig kezelik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét határbiztonsági eseményről szóló jelentés, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:12.433399+00:00"
+    },
+    "record:2120305940012687487": {
+      "hu_text": "Száz illegális migráns érkezett a Kanári-szigetekhez tartozó El Hierro szigetén található Puerto de la Estaca kikötőjébe. A migránsok Tenerife felé várják a kompokat. Felmerül a kérdés, hogy visszatoloncolás helyett jobb ellátást kapnak-e.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránsok érkezéséről és ellátásáról szóló információ, amely humanitárius szempontból releváns, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:12.433414+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
