@@ -441,6 +441,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T17:34:53.159807+00:00"
+    },
+    "record:2120568158721585435": {
+      "hu_text": "@FranceskAlbs Asszony Albanese, Ön képes megtörni a „blokádot”! Most azonnal! Követelje Egyiptomtól, hogy tartsa be az 1951-es Menekültügyi Egyezményt, és nyissa meg a Rafah átkelőjének egyiptomi oldalát. Nincs-e joguk a gázai embereknek arra, hogy máshol kérjenek menedéket? Miért asszisztál szenvedésükhöz? Kérem, magyarázza el.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai követelést tartalmaz egy nemzetközi egyezmény betartására és határnyitásra, de nincs bizonyíték a végrehajtásra vagy annak megtagadására. Fontos a migrációs szándék és politikai diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:35:04.923860+00:00"
+    },
+    "record:2120568517661741552": {
+      "hu_text": "A Heriberto Hernandez parti őrségi hajó kis csapata migránsokat szállít át a hajóra, miközben 30 külföldit visznek vissza a Dominikai Köztársaság haditengerészetének Capella (GC-108) nevű hajójára a Samana partjainál, 2026. november 10-én. A visszatelepítés egy korábbi eseményt követett.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg migránsok visszatelepítéséről számol be, de nem tartalmaz részletes bizonyítékot vagy hivatalos megerősítést. Fontos a migrációs mozgás és visszatelepítés szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:35:04.923877+00:00"
+    },
+    "telegram:1173707041:9775": {
+      "hu_text": "A Nadzsaf al-Ashraf migrációs hivatal közös munkamódszereket indít a kormányzati szervekkel a nemzeti átirányítási program aktiválására. Raad Saeed Hadi Al-Tufaili, a migrációs és menekültügyi minisztérium helyi vezetője koordinációs ülést tartott, ahol több szolgáltató és biztonsági szerv képviselői vettek részt, hogy megkönnyítsék az ügyfelek hozzáférését az állami szolgáltatásokhoz és gyorsítsák az ügyintézést. Az ülés célja az adatcsere és a gyors reagálás javítása a polgárok igényeire, a minisztérium stratégiájának részeként.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg hivatalos koordinációs találkozóról és programindításról számol be, de nincs külső megerősítés vagy további bizonyíték. Fontos a migrációs politika és adminisztratív intézkedések szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:35:04.923880+00:00"
+    },
+    "telegram:1261826972:54520": {
+      "hu_text": "Zavargások, migránsok szökése hajókról, verekedések: Marlaska szubjektív bizonytalansága. A 112-es segélyhívó éjszaka több, migránsokhoz köthető incidensről számolt be Ceutában, a tömeges belépés miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsokhoz kötött incidensekről számol be, de nem tartalmaz hivatalos jelentést vagy bizonyítékot. Fontos a társadalmi diskurzus és közbiztonsági kérdések miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:35:04.923883+00:00"
+    },
+    "telegram:1261826972:54523": {
+      "hu_text": "A legvisszataszítóbb gesztus: Marokkó megtagadja a holttestek Ceután keresztüli hazaszállítását. Újabb bizonyíték a tömeges belépés okozta válságra. Rabat közvetlen utasításokat adott arra, hogy megakadályozza a családok kérelmeit, akik csak azt szeretnék, hogy az azonosított szeretteiket Marokkóban temethessék el.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos határbiztonsági és humanitárius problémát vet fel, de nincs független megerősítés vagy hivatalos dokumentum. Fontos a határbiztonság és migrációs válság szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:35:04.923886+00:00"
+    },
+    "telegram:1261826972:54526": {
+      "hu_text": "Videóval: Az immigráció nyoma a Virgen de la Palma negyedben és kiskorúak, akik „ragasztóval drogoznak a központban”. A helyi közösség vezetője, Mercedes Contreras és több lakos állítja, hogy az immigránsok jelenléte állandó, különösen a Vaguada területén. Két lakos elmesélte, hogy kedden este „megfogtak egy asszonyt”.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés társadalmi problémákat és migránsok jelenlétét tárgyalja helyi szinten, de nincs hivatalos vagy független igazolás. Fontos a társadalmi diskurzus és migrációs hatások miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T17:35:04.923889+00:00"
     }
   },
   "legacy_reviews": {}
