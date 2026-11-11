@@ -67,6 +67,62 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T23:49:14.265729+00:00"
+    },
+    "telegram:1261826972:54538": {
+      "hu_text": "Ceuta határállomásának vezetője vallomást tett a bíró előtt a tömeges belépésről. María Tardón bíró három rendőri vezetőt hallgat meg, miközben tovább gyűjti a tanúvallomásokat a július 30-31-i eseményekről.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy hivatalos eseményről számol be, de nincs további bizonyíték a tartalom hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T23:49:23.166705+00:00"
+    },
+    "telegram:1261826972:54539": {
+      "hu_text": "Két fiatal búcsúzkodik és ölelkezik a Tarajalnál, miközben visszatérnek Marokkóba. A jelenet szokatlan és baráti búcsúképet mutat a ceutai mólónál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy emberi történetet mesél el, de nem tartalmaz ellenőrizhető tényeket vagy hivatalos információkat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T23:49:23.166722+00:00"
+    },
+    "telegram:1261826972:54546": {
+      "hu_text": "Ahmed és Abdelwajid eltűntek, miközben Ceutából Algecirasba próbáltak menekülni. Az egyik hajó, amin Ahmed utazott, elsüllyedt Calamocarro közelében; Abdelwajid nyoma veszett, amikor a kompra próbált felszállni.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eltűnés súlyos esemény, amely migrációs kockázatokat és emberi veszteségeket jelez, ezért fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T23:49:23.166725+00:00"
+    },
+    "telegram:1261826972:54548": {
+      "hu_text": "Sürgős műtétet kérnek Mager nevű, 16 éves, csípőtörött kiskorú bevándorlónak. Három napja van kórházban Ceutában, de a műtétet késleltetik, mert nincs gyám aláírása; az édesanyja tud a helyzetről és egyetért, de nem tud eljönni aláírni. A fiú erős fájdalmakkal küzd, miután leesett egy bicikliről.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az egészségügyi sürgősség és a kiskorú bevándorló helyzete humanitárius jelentőségű, ezért fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T23:49:23.166727+00:00"
+    },
+    "telegram:1980940690:16669": {
+      "hu_text": "Az orosz belügyminisztérium ajánlásokat dolgozott ki a migráns enklávék szétválasztására, amelyeket Dmitrij Medvegyev biztonsági tanács alelnökének utasítására készítettek el, és amelyeket már jóváhagyott a kormány. Ezek az ajánlások hamarosan a régiókhoz kerülnek. Korábban a biztonsági tanács figyelmeztetett arra, hogy veszélyes, ha zárt migráns enklávék alakulnak ki, ahol az orosz törvényeket nem tartják be teljes mértékben. Az idegenek kompakt lakóhelye általában nem segíti az integrációt és a törvények betartását. Ez az első ilyen kezdeményezés az orosz történelemben, de az ajánlások önmagukban nem elegendőek, és az ellenállás erős lesz, mivel az enklávék és diaszpórák jelentős gazdasági és politikai befolyással bírnak. A legfontosabb, hogy el kell kezdeni a munkát és kitartani.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hivatalos kormányzati ajánlásokról szól, de nincs közvetlen bizonyíték a hitelességre, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T23:49:23.166730+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
