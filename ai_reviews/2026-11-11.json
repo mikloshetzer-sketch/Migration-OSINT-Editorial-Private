@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "reviews": {
+    "group:703": {
+      "hu_text": "Az Egyesült Államok határőrei 18 migránst találtak egy „Gonna Miss Her” nevű hajóban, amely kb. 12 mérföldre volt Catalina-szigettől, Kaliforniában. Egy szövetségi repülőgép fedezte fel a hajót, mielőtt a hatóságok beszálltak volna. Két hajókezelőt letartóztattak, a migránsok helyzete nem ismert.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági esemény, de nincs megerősített forrás vagy további részletek a migránsok sorsáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:03.321145+00:00"
+    },
+    "information:26122": {
+      "hu_text": "@VNDsRevenge @PepperGii @Bhandafod_ Teljesen hamis állítás, a vietnami menekültek, akik Ausztráliába érkeztek, semmijük sem volt, csak a hátukon lévő ruhák, miután hosszú és veszélyes utat tettek meg.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és társadalmi vita része, nincs konkrét tényállítás, amely ellenőrizhető lenne.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:03.321166+00:00"
+    },
+    "information:26123": {
+      "hu_text": "El Hierro vészhelyzetet hirdetett a migráns hajók érkezésének növekedése miatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos migrációs esemény, de nincs megerősített forrás vagy részletes információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:03.321171+00:00"
+    },
+    "information:26136": {
+      "hu_text": "ASRA jelentés: Szervezett csempészeti infrastruktúra és regionális olajkereskedelmi hálózatok az Afganisztán–Pakisztán–Irán határvidéken. További geotérképi és OSINT vizsgálatok az ASRA kezdeményezés keretében.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos információ a szervezett csempészetről, de nincs részletes bizonyíték vagy megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:03.321175+00:00"
+    },
+    "information:26140": {
+      "hu_text": "Geotérképi elemzés az ASRA kezdeményezés keretében: a dél-nimruz sivatagban megszakadás figyelhető meg az Afganisztán–Pakisztán határkerítés térképen jelölt vonalában.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos határbiztonsági információ, de nincs megerősített bizonyíték vagy részletes jelentés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:03.321179+00:00"
+    },
+    "information:26142": {
+      "hu_text": "Migránsok megköszönik a demokratáknak a választási győzelmeket, miközben egy 2000 fős karaván észak felé tart Mexikó déli határánál. Egy helyi tisztviselő szerint 2000 migráns csatlakozott a karavánhoz.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migrációs szándékról és politikai vonatkozásról, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T00:23:03.321182+00:00"
+    }
+  }
+}
