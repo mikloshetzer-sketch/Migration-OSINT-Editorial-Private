@@ -232,6 +232,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T08:35:55.647712+00:00"
+    },
+    "information:26188": {
+      "hu_text": "Igen, azok. A műholdképeken látható sűrű csomók Nouadhibou kézműves kikötőjében vannak, ahol több ezer hagyományos fa pirogue halászhajó található, amelyeket helyi halászatra (polip és más fogás) használnak. Ugyanez a hajótípus használatos migránsok szállítására is, és néhány indulás innen történik.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs mozgásra utal, de nincs megerősített bizonyíték a migrációs eseményekről vagy konkrét indulásokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:06.608099+00:00"
+    },
+    "information:26189": {
+      "hu_text": "2023. november 4-én Zoubi védelmi miniszter találkozott Egyiptom hírszerzési vezetőjével Kairóban. Ugyanezen a napon a német Sea-Watch NGO dokumentálta a líbiai erőszakot a migránsok ellen. November 5-én a Tajoura CID tagját megölték egy kábítószer-ellenes rajtaütés során.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés eseményeket sorol fel, amelyek migrációval kapcsolatosak, de nincs közvetlen bizonyíték a migrációs folyamatokra vagy hatásukra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:06.608115+00:00"
+    },
+    "information:26194": {
+      "hu_text": "Köszönet Belize kormányának az IOM Ellenállóképességi Alapjához nyújtott hozzájárulásáért. Az együttműködésünk az emberkereskedelem elleni küzdelemtől a határrendszerek megerősítéséig és a kapacitásépítésig segíti a biztonságosabb és méltóságteljesebb migrációt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés hivatalos támogatásról és partnerségről szól, amelyet az IOM megerősített.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:06.608120+00:00"
+    },
+    "record:2120423768829120702": {
+      "hu_text": "Egy jelentés szerint sokkal több kis hajós migránst lehetett volna kitoloncolni a „egy be, egy ki” megállapodás alapján, ha Franciaország átláthatóbb lett volna. A mai felülvizsgálat szerint a brit belügyminisztérium tisztviselői gyakran csalódottak voltak, mert a francia kollégák elutasították az együttműködést.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs politikai megállapodásról és annak végrehajtásáról szól, de nincs független megerősítés a jelentés állításairól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:06.608122+00:00"
+    },
+    "record:2120424917048942661": {
+      "hu_text": "Beverly (nem a valódi neve) menekültként érkezett Kenyába, család és támogatói rendszer nélkül. Munkát keresve háztartási alkalmazott lett Eastleigh-ben, ahol kizsákmányolás, bérfizetés elmaradása, szexuális zaklatás és fenyegetések érték. Biztonságot keresve tovább folytatta útját.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés személyes migrációs történetet mesél el, amely humanitárius problémákat érint, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:06.608125+00:00"
+    },
+    "record:2120426637040771514": {
+      "hu_text": "November első tíz napjában közel 6000 afrikai migráns érkezett Spanyolország Kanári-szigeteire, főként El Hierro szigetére, ahol a növekvő érkezések és a nyomás miatt szociális vészhelyzetet hirdettek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről számol be jelentős érkezési számmal, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-11T08:36:06.608127+00:00"
     }
   },
   "legacy_reviews": {}
