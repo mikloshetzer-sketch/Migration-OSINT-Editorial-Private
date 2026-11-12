@@ -364,6 +364,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T14:10:31.231927+00:00"
+    },
+    "information:26434": {
+      "hu_text": "Igen, az áthelyezések valósak. Több jelentés megerősíti, hogy a spanyol kormány charter és katonai repülőgépekkel szállítja az irreguláris migránsokat a Kanári-szigetekről Madridba és más szárazföldi városokba, hogy enyhítse a túlzsúfoltságot a közelmúltbeli tengeri érkezések után. Több mint 2000 embert mozgattak át.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több forrás is megerősíti a spanyol kormány migránsok áthelyezését a Kanári-szigetekről, de további hivatalos adatok szükségesek a pontos részletekhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:42.581913+00:00"
+    },
+    "information:26437": {
+      "hu_text": "Férfi konty? 😂 Milyen férfi konty? 😂 Csak arra mutatok rá, milyen kétszintű a rendszer. Egy banda huligán brit állampolgárok tulajdonát rongálja meg, semmi következmény. Ha egy illegális migráns embercsempész gumicsónakját szúrják ki, akkor előzetes letartóztatásba kerül az elkövető, és valószínűleg börtönbe is küldik. Kétszintű igazságszolgáltatás, világos, mint a nap.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és társadalmi kritika, amely nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:42.581932+00:00"
+    },
+    "information:26448": {
+      "hu_text": "Az a lényeg, hogy a grafikonok megtévesztőek lehetnek, mert torz képet festhetnek, még ha pontosak is. Fontos figyelembe venni az Egyesült Államokból távozó migránsok teljes számát, amikor a \"deportáció maximalizálásáról\" beszélünk. Az önkéntes távozások, amelyeket bevándorlási bírák rendeltek el, jelentősen megnőttek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános megjegyzés a migrációs statisztikák értelmezéséről, nem tartalmaz konkrét adatokat vagy bizonyítékokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:42.581936+00:00"
+    },
+    "record:2120869191095824731": {
+      "hu_text": "A migránsokat Nagy-Britanniába csempésző szervezett bűnözői csoportok tulajdonának megrongálása most már bűncselekménynek számít. Athelstannak nem volt ilyen problémája a vikingekkel.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy jogszabályi változásról, de nincs hivatalos megerősítés vagy részletek a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:42.581939+00:00"
+    },
+    "record:2120877964598395387": {
+      "hu_text": "A Crown Prosecution Service vádat emelt egy Hampshire megyei rendőrségi nyomozás után. A megrongált tárgy egy üres merevtestű felfújható csónak volt, amelyet korábban migránsok használtak, és sodródott; nincs nyilvános jelentés konkrét tulajdonosról, és a csónakot visszaszállították Franciaországba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részletes információ egy konkrét esetről, de nincs hivatalos forrás vagy további bizonyíték a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:42.581943+00:00"
+    },
+    "record:2120879513798123520": {
+      "hu_text": "Majdnem 2000 migráns indult el Tapachulából, Mexikóból kedd este, és észak felé gyalogolnak karavánban, mindössze néhány nappal azután, hogy a demokraták megnyerték a félidős választásokat. Néhányan nyíltan azt mondják az újságíróknak, hogy remélik, a demokraták győzelme a határ megnyitását jelenti.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migránsok mozgásáról és szándékairól, de nincs megerősített forrás vagy hivatalos adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:42.581946+00:00"
     }
   },
   "legacy_reviews": {}
