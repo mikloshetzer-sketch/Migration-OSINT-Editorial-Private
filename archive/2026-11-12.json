@@ -560,9 +560,199 @@
       "first_collected_at": "2026-11-12T14:08:51Z",
       "last_collected_at": "2026-11-12T14:08:51Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26482",
+      "timestamp": "2026-11-12T21:54:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120998755491053939",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2120998755491053939",
+      "source_url": "https://x.com/grok/status/2120998755491053939",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "channel",
+        "dinghy",
+        "vessel"
+      ],
+      "freshness_cues": [],
+      "text": "@zk6dyysjxdy @CraigHouston_ It was an empty migrant dinghy that had carried about 50 people from Normandy. The migrants had already been transferred to RNLI and Border Force vessels. A French coastguard official from the Abeille Liberté was on board when Thomas slashed it in the Channel on 22 September. The",
+      "text_excerpt": "@zk6dyysjxdy @CraigHouston_ It was an empty migrant dinghy that had carried about 50 people from Normandy. The migrants had already been transferred to RNLI and Border Force vessels. A French coastguard official from the Abeille Liberté was on board when Thomas slashed it in the Channel on 22 September. The",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T21:58:15Z",
+      "last_collected_at": "2026-11-12T21:58:15Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26493",
+      "timestamp": "2026-11-12T21:49:29Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120997435254460549",
+      "author": "fnover",
+      "url": "https://x.com/fnover/status/2120997435254460549",
+      "source_url": "https://x.com/fnover/status/2120997435254460549",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "Hamas Seizes Tents from Gazans during Storms - Henry Bodkin\nHamas is confiscating tents from displaced Gazans and blocking efforts to make refugee camps safer from flooding. Situated by the sea and built largely on sand, Gaza is notoriously prone to flooding. Palestinians accused",
+      "text_excerpt": "Hamas Seizes Tents from Gazans during Storms - Henry Bodkin\nHamas is confiscating tents from displaced Gazans and blocking efforts to make refugee camps safer from flooding. Situated by the sea and built largely on sand, Gaza is notoriously prone to flooding. Palestinians accused",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T21:58:43Z",
+      "last_collected_at": "2026-11-12T21:58:43Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26508",
+      "timestamp": "2026-11-12T21:49:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120997329889091698",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2120997329889091698",
+      "source_url": "https://x.com/grok/status/2120997329889091698",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@datum81 @Rep_Grijalva No. Mexico does not issue permits to human traffickers or smugglers for water access on its side of the border. Smuggling is illegal under Mexican law. Cartels and coyotes operate outside any official permitting system.\n\nMexican authorities and groups like Grupos Beta sometimes",
+      "text_excerpt": "@datum81 @Rep_Grijalva No. Mexico does not issue permits to human traffickers or smugglers for water access on its side of the border. Smuggling is illegal under Mexican law. Cartels and coyotes operate outside any official permitting system.\n\nMexican authorities and groups like Grupos Beta sometimes",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T21:59:13Z",
+      "last_collected_at": "2026-11-12T21:59:13Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26495",
+      "timestamp": "2026-11-12T21:44:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120996240154374598",
+      "author": "sarahbcarnivore",
+      "url": "https://x.com/sarahbcarnivore/status/2120996240154374598",
+      "source_url": "https://x.com/sarahbcarnivore/status/2120996240154374598",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "🚨 DANNY TOMMO PLEADS GUILTY — BUT THERE ARE SERIOUS QUESTIONS THAT NEED ANSWERING!\n\nSARAH JAYNE MEDIA | 12 NOVEMBER 2026\n\nDaniel Thomas, better known as Danny Tommo, has pleaded guilty to criminal damage after slashing an inflatable migrant boat in the English Channel.\n\nHe https://t.co/fHltplrMan",
+      "text_excerpt": "🚨 DANNY TOMMO PLEADS GUILTY — BUT THERE ARE SERIOUS QUESTIONS THAT NEED ANSWERING!\n\nSARAH JAYNE MEDIA | 12 NOVEMBER 2026\n\nDaniel Thomas, better known as Danny Tommo, has pleaded guilty to criminal damage after slashing an inflatable migrant boat in the English Channel.\n\nHe https://t.co/fHltplrMan",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T21:58:44Z",
+      "last_collected_at": "2026-11-12T21:58:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26468",
+      "timestamp": "2026-11-12T18:45:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117604951720260899",
+      "author": null,
+      "url": "https://todon.nl/@AFA/117604951720260899",
+      "source_url": "https://todon.nl/@AFA/117604951720260899",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "(via UNTIL) \"KNOWING OUR ENEMIES: WEAPON INDUSTRIES Would you rather work at Thales, at Leonardo or at Airbus? Don't want to chose between a rock and a hard place? Than help us dismantle the Migration Pact and join the mass action on 27-28-29 november. Join the movement, register now: https:// cryptpad.fr/form/#/2/form/view/HgAHLbzFpYPpvS5ZMIqpGVXaGPcAcdz1wKqyCI12Cls There is a massive financial invest- ment in EU border enforcement and militarisation, serving the interests of weapons companies. Frontex and the EU are using military means - and tools to stop people on the move from crossing borders. However, these three deadly companies arent the only ones caught up in this inhumane market. Have a look a the last slide to see which other companies should be on your radar. THALES: EUROSUR Thales is one of the 10 largest defence companies in in the world, supplying everything from -Satellite communication modules, biometrics control tools and ground radars to autonomous weapon systems on ships, mainly to armed forces - for exemple to the IOF - but also to Frontex. The company is also a pillar in the formulation and implementation of EU research funding in the field of security research and border management. The company played a huge role in the conceptualizing of EUROSUR, a system focused the surveillance of \"illegal immigration\", using drones, aircrafts, satellites to enforce the deadly and racist European borders policies. AIRBUS GROUP & LEONARDO: Remotely Piloted Aircraft System maritime surveillance services In 2025, Frontex awarded two major contracts for Remotely Piloted Aircraft System (RPAS) maritime surveillance services. Airbus and Leonardo each contracts valued at €184.32 received million. This massive investment in un-crewed aircrafts makes a persistent aerial surveillance possible, adding it to the already massive arsenal of EU border surveillance infrastructure. It enables more pushbacks, further criminalization -of people on the move, and even more deadly operations from Frontex. ADRESSES: Thales: Avenue de Cortenberg, 60, 1000 Brussels Thales Alenia space (Thales & Leonardo filiale): Rue Chapelle Beaussart 107, 6032 Mont-sur-Marchienne (Charleroi); Gaston Geenslaan 9, 3001 Leuven; Kempische Steenweg 293, 3500 Hasselt Elbit: Rue de Marvis 38, 7500 Tournai; Westerring 21, 9700 Oudenaarde Indra: Rue Froissart, 95, 1000 Brussels Rheinmetall: Rue du Luxembourg 23, 1000 Brussel Airbus Group: Avenue Marnix, 28, 1000 Brussels SAAB: Rue du Luxembourg, 3, 1000 Brussels Leonardo (Finmeccanica): Avenue des Arts, 43, 1000 Brussels; Rue de l’Aéroport 4460 Grâce-Hollogne Hensoldt: Rue Guimard, 7, 1000 Brussels\" # WeaponIndustries # Thales # Elbit # Indra # Rheinmetall # Airbus # SAAB # Leonardo # Hensoldt # Belgium # Frontex # Europe # Migrants # Brussels # refugees # refugeesWelcome",
+      "text_excerpt": "(via UNTIL) \"KNOWING OUR ENEMIES: WEAPON INDUSTRIES Would you rather work at Thales, at Leonardo or at Airbus? Don't want to chose between a rock and a hard place? Than help us dismantle the Migration Pact and join the mass action on 27-28-29 november. Join the movement, register now: https:// cryptpad.fr/form/#/2/form/view/HgAHLbzFpYPpvS5ZMIqpGVXaGPcAcdz1wKqyCI12Cls There is a massive financial invest- ment in EU bo…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T21:57:47Z",
+      "last_collected_at": "2026-11-12T21:57:47Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-12T14:10:07.737295+00:00",
+  "last_archived_at": "2026-11-12T22:00:29.050025+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -1007,6 +1197,94 @@
       "text": "a man landed at an airport in Paris without his passport or refugee papers.\nBecause he had no legal documents, \n\nFrance wouldn't let him enter the country, and the UK wouldn't let him fly back,leaving him trapped in the airport's departure lounge.\n\nInstead of leaving once his",
       "url": "https://x.com/dejerry02/status/2120879678986629136",
       "source_url": "https://x.com/dejerry02/status/2120879678986629136"
+    },
+    {
+      "id": 902,
+      "event_id": 902,
+      "source": "X",
+      "source_post_id": "2120994625787687423",
+      "author": "grok",
+      "published_at": "2026-11-12T21:38:19Z",
+      "collected_at": "2026-11-12T21:58:44Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@MUNGAJOEYOg55c @IRI_Monitor Somalis primarily speak Somali (East Cushitic), not Arabic. Arabic is a secondary official language tied to Islam and education, not daily speech for most.\n\nThey were not originally Muslim. Islam arrived in the 7th century via coastal trade and early migrants; conversion spread",
+      "url": "https://x.com/grok/status/2120994625787687423",
+      "source_url": "https://x.com/grok/status/2120994625787687423"
+    },
+    {
+      "id": 900,
+      "event_id": 900,
+      "source": "TELEGRAM",
+      "source_post_id": "1983050450:25501",
+      "author": "migranty_draki",
+      "published_at": "2026-11-12T20:59:10Z",
+      "collected_at": "2026-11-12T21:57:48Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "ХМАО отчиталось о борьбе с нелегальной миграцией\n\nВ ХМАО мигрантам запрещено работать в 27 видах деятельности, а с 1 января 2027 список расширят до 30 — добавят хлебобулочное и кондитерское производство, склады, пункты выдачи заказов и отдельные направления в культуре и спорте.\n\nЗа девять месяцев 2026 года в округ въехали 51 845 иностранцев против 67 266 годом ранее — минус 22,9%. Выдворений стало в шесть раз больше: с 343 до 2135 человек. Аннулирований разрешительных документов — в полтора раза больше, отказов в гражданстве — в 7,2 раза больше.",
+      "url": "https://t.me/migranty_draki/25501",
+      "source_url": "https://t.me/migranty_draki/25501"
+    },
+    {
+      "id": 901,
+      "event_id": 901,
+      "source": "TELEGRAM",
+      "source_post_id": "1980940690:16674",
+      "author": "migranty_RUS",
+      "published_at": "2026-11-12T20:25:15Z",
+      "collected_at": "2026-11-12T21:57:48Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "⚡️Опыт ХМАО по борьбе с нелегальной и замещающей миграцией. Я уже писал про этот доклад, но не было конкретных цифр:\n\nЗапрет на трудоустройство мигрантов в ХМАО действует в 27 видах экономической деятельности, а с 1 января 2027 года перечень увеличится до 30. В него дополнительно включили производство хлебобулочных и кондитерских изделий, складскую деятельность, пункты выдачи заказов и отдельные направления в сфере культуры и спорта.\n\nЗа девять месяцев 2026 года в округ въехали 51 845 иностранных граждан против 67 266 за аналогичный период прошлого года. Мигрантов приехало меньше на 22,9%.\n\nВ шесть раз выросло количество иностранцев, выдворенных из региона: с 343 до 2135 человек. В полтора раза увеличилось число решений об аннулировании разрешительных документов. \n\nКоличество отклоненных заявлений о приеме в российское гражданство выросло в 7,2 раза.\n\nА ведь еще два года назад картина была совсем другой.\n\nПравило Парето - 20% усилий дают 80% результата. Главное - начать системную работу. Не писать бравурные отчеты! Не врать самим себе! А работать!",
+      "url": "https://t.me/migranty_RUS/16674",
+      "source_url": "https://t.me/migranty_RUS/16674"
+    },
+    {
+      "id": 899,
+      "event_id": 899,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117604310651853064",
+      "author": null,
+      "published_at": "2026-11-12T16:02:49Z",
+      "collected_at": "2026-11-12T21:57:48Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Despite Court Orders # Immigrants are Still Deported # DemocracyNow https://www. democracynow.org/2026/11/11/he adlines/nyt_immigrants_deported_back_to_home_countries_despite_court_orders",
+      "url": "https://masto.ai/@MusiqueNow/117604310651853064",
+      "source_url": "https://masto.ai/@MusiqueNow/117604310651853064"
     }
   ],
   "event_groups": [
@@ -1154,6 +1432,93 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-12T14:09:50Z",
       "updated_at": "2026-11-12T14:09:50Z"
+    },
+    {
+      "id": 715,
+      "group_id": 715,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@MUNGAJOEYOg55c @IRI_Monitor Somalis primarily speak Somali (East Cushitic), not Arabic. Arabic is a secondary official language tied to Islam and education, not daily speech for most.\n\nThey were not originally Muslim. Islam arrived in the 7th century via coastal trade and early migrants; conversion spread",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T21:38:19Z",
+      "last_seen": "2026-11-12T21:38:19Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-12T21:58:44Z",
+      "updated_at": "2026-11-12T21:58:44Z"
+    },
+    {
+      "id": 714,
+      "group_id": 714,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "⚡️Опыт ХМАО по борьбе с нелегальной и замещающей миграцией. Я уже писал про этот доклад, но не было конкретных цифр:\n\nЗапрет на трудоустройство мигрантов в ХМАО действует в 27 видах экономической деятельности, а с 1 января 2027 года перечень увеличится до 30. В него дополнительно включили производство хлебобулочных и кондитерских изделий, складскую деятельность, пункты выдачи заказов и отдельные направления в сфере культуры и спорта.\n\nЗа девять месяцев 2026 года в округ въехали 51 845 иностранных граждан против 67 266 за аналогичный период прошлого года. Мигрантов приехало меньше на 22,9%.\n\nВ шесть раз выросло количество иностранцев, выдворенных из региона: с 343 до 2135 человек. В полтора раза увеличилось число решений об аннулировании разрешительных документов. \n\nКоличество отклоненных заявлений о приеме в российское гражданство выросло в 7,2 раза.\n\nА ведь еще два года назад картина была совсем другой.\n\nПравило Парето - 20% усилий дают 80% результата. Главное - начать системную работу. Не писать бравурные отчеты! Не врать самим себе! А работать!",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T20:25:15Z",
+      "last_seen": "2026-11-12T20:59:10Z",
+      "source_count": 2,
+      "sources_count": 2,
+      "source_types": [
+        "TELEGRAM"
+      ],
+      "sources": [
+        "TELEGRAM"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-12T21:57:48Z",
+      "updated_at": "2026-11-12T21:57:48Z"
+    },
+    {
+      "id": 713,
+      "group_id": 713,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "Despite Court Orders # Immigrants are Still Deported # DemocracyNow https://www. democracynow.org/2026/11/11/he adlines/nyt_immigrants_deported_back_to_home_countries_despite_court_orders",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T16:02:49Z",
+      "last_seen": "2026-11-12T16:02:49Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "MASTODON"
+      ],
+      "sources": [
+        "MASTODON"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-12T21:57:48Z",
+      "updated_at": "2026-11-12T21:57:48Z"
     }
   ],
   "influence_signals": [
@@ -1727,6 +2092,126 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1432,
+      "source": "X",
+      "source_post_id": "2120998519641170137",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-12T21:53:47Z",
+      "first_detected_at": "2026-11-12T21:58:16Z",
+      "last_detected_at": "2026-11-12T21:58:16Z",
+      "detection_count": 1,
+      "text": "@BrandonObiden @TexasTrump2024 Yes, the report is accurate. Mexican authorities are providing police and National Guard escorts to the \"Dios Con Nosotros\" caravan (roughly 800-1,500 migrants) moving north from Chiapas, along with lodging in municipal venues. Local Mexican outlets confirm the accompaniment for",
+      "text_excerpt": "@BrandonObiden @TexasTrump2024 Yes, the report is accurate. Mexican authorities are providing police and National Guard escorts to the \"Dios Con Nosotros\" caravan (roughly 800-1,500 migrants) moving north from Chiapas, along with lodging in municipal venues. Local Mexican outlets confirm the accompaniment for",
+      "url": "https://x.com/grok/status/2120998519641170137",
+      "source_url": "https://x.com/grok/status/2120998519641170137",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants) moving"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants) moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1433,
+      "source": "X",
+      "source_post_id": "2120996394466967769",
+      "author": "SunSentinel",
+      "language": "en",
+      "published_at": "2026-11-12T21:45:21Z",
+      "first_detected_at": "2026-11-12T21:58:44Z",
+      "last_detected_at": "2026-11-12T21:58:44Z",
+      "detection_count": 1,
+      "text": "The Coast Guard has stopped several overloaded migrant boats in the Mona Passage between Hispaniola and Puerto Rico since August, some with as many as 75 people on board. https://t.co/8ZLUlEPKgh",
+      "text_excerpt": "The Coast Guard has stopped several overloaded migrant boats in the Mona Passage between Hispaniola and Puerto Rico since August, some with as many as 75 people on board. https://t.co/8ZLUlEPKgh",
+      "url": "https://x.com/SunSentinel/status/2120996394466967769",
+      "source_url": "https://x.com/SunSentinel/status/2120996394466967769",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
       "analyst_priority": "LOW"
     }
   ],
@@ -2302,6 +2787,126 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1432,
+      "source": "X",
+      "source_post_id": "2120998519641170137",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-12T21:53:47Z",
+      "first_detected_at": "2026-11-12T21:58:16Z",
+      "last_detected_at": "2026-11-12T21:58:16Z",
+      "detection_count": 1,
+      "text": "@BrandonObiden @TexasTrump2024 Yes, the report is accurate. Mexican authorities are providing police and National Guard escorts to the \"Dios Con Nosotros\" caravan (roughly 800-1,500 migrants) moving north from Chiapas, along with lodging in municipal venues. Local Mexican outlets confirm the accompaniment for",
+      "text_excerpt": "@BrandonObiden @TexasTrump2024 Yes, the report is accurate. Mexican authorities are providing police and National Guard escorts to the \"Dios Con Nosotros\" caravan (roughly 800-1,500 migrants) moving north from Chiapas, along with lodging in municipal venues. Local Mexican outlets confirm the accompaniment for",
+      "url": "https://x.com/grok/status/2120998519641170137",
+      "source_url": "https://x.com/grok/status/2120998519641170137",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants) moving"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants) moving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1433,
+      "source": "X",
+      "source_post_id": "2120996394466967769",
+      "author": "SunSentinel",
+      "language": "en",
+      "published_at": "2026-11-12T21:45:21Z",
+      "first_detected_at": "2026-11-12T21:58:44Z",
+      "last_detected_at": "2026-11-12T21:58:44Z",
+      "detection_count": 1,
+      "text": "The Coast Guard has stopped several overloaded migrant boats in the Mona Passage between Hispaniola and Puerto Rico since August, some with as many as 75 people on board. https://t.co/8ZLUlEPKgh",
+      "text_excerpt": "The Coast Guard has stopped several overloaded migrant boats in the Mona Passage between Hispaniola and Puerto Rico since August, some with as many as 75 people on board. https://t.co/8ZLUlEPKgh",
+      "url": "https://x.com/SunSentinel/status/2120996394466967769",
+      "source_url": "https://x.com/SunSentinel/status/2120996394466967769",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Coast"
+        ],
+        [
+          "enforcement",
+          "Coast Guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -2558,6 +3163,78 @@
       ],
       "related_urls": [
         "https://x.com/voicefreedau1a/status/2120879513798123520"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1424,
+      "source": "X",
+      "source_post_id": "2120715509423301053",
+      "author": "sgtnewsnetwork",
+      "language": "en",
+      "published_at": "2026-11-12T03:09:13Z",
+      "first_detected_at": "2026-11-12T04:41:29Z",
+      "last_detected_at": "2026-11-12T04:41:29Z",
+      "detection_count": 1,
+      "text": "WAKE UP CALL:⚠️🇪🇸CANARY ISLANDS RECEIVE 8,143 ILLEGAL MIGRANT ARRIVALS IN OCTOBER ALONE\n\nOctober arrivals accounted for 53% of all migrant arrivals recorded in the Canary Islands throughout 2026. El Hierro, with just 11,000 residents, received 4,119 migrants in one month. \nA https://t.co/vkkpTnXyBK",
+      "text_excerpt": "WAKE UP CALL:⚠️🇪🇸CANARY ISLANDS RECEIVE 8,143 ILLEGAL MIGRANT ARRIVALS IN OCTOBER ALONE\n\nOctober arrivals accounted for 53% of all migrant arrivals recorded in the Canary Islands throughout 2026. El Hierro, with just 11,000 residents, received 4,119 migrants in one month. \nA https://t.co/vkkpTnXyBK",
+      "url": "https://x.com/sgtnewsnetwork/status/2120715509423301053",
+      "source_url": "https://x.com/sgtnewsnetwork/status/2120715509423301053",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANT ARRIVALS IN OCTOBER ALONE October arrivals accounted for 53% of all migrant arrivals"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "MIGRANT",
+        "migrant"
+      ],
+      "high_value_matches": [
+        "MIGRANT ARRIVALS IN OCTOBER ALONE October arrivals accounted for 53% of all migrant arrivals"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120715509423301053"
+      ],
+      "related_authors": [
+        "sgtnewsnetwork"
+      ],
+      "related_urls": [
+        "https://x.com/sgtnewsnetwork/status/2120715509423301053"
       ],
       "related_sources": [
         "X"
