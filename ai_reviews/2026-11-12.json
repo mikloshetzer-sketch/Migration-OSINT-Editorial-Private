@@ -298,6 +298,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T04:42:18.279701+00:00"
+    },
+    "group:709": {
+      "hu_text": "@seanspicer Észrevetted a mintát ezekkel a migráns karavánokkal kapcsolatban? És nem zárták le a határt? Markywayne, a vízvezeték-szerelő Westville-ből, OK szerint a határ zárva van. Szóval melyik az igaz, Sean?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások ellenőrzése szükséges, mert a határzár állapota és a karavánok mozgása politikailag érzékeny téma, de a bemenet nem tartalmaz konkrét bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:31.231888+00:00"
+    },
+    "group:710": {
+      "hu_text": "Migráns karaván átkel Mexikón, remélve az USA határpolitika változását... Ez nevetséges. Megmutatja, hol állnak a demokraták: nem lehet nyitott határokkal országot működtetni. Ezeket az embereket meg kell állítani a határon. Be kell hívnunk a tartalékokat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A karaván létezése és az állítások politikai véleményeket tartalmaznak, de nincs megerősített bizonyíték a határátlépés pontos körülményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:31.231910+00:00"
+    },
+    "group:711": {
+      "hu_text": "Nem! Franciaország több migráns kitoloncolását akadályozta meg az egy be, egy ki elv alapján, miközben elutasított jelölteket nem indokolt, derül ki egy jelentésből. Sokkal több kis hajós migránst lehetett volna kitoloncolni, ha Franciaország hatékonyabb lett volna.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A jelentés állításai fontosak a migrációs politika szempontjából, de a bemenet nem tartalmazza a jelentés teljes hitelesítését.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:31.231916+00:00"
+    },
+    "group:712": {
+      "hu_text": "Egy férfi érkezett Párizs repülőterére útlevél és menekültpapírok nélkül. Mivel nem voltak jogi dokumentumai, Franciaország nem engedte be az országba, az Egyesült Királyság pedig nem engedte visszarepülni, így a férfi a repülőtér indulási várójában rekedt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az eset fontos a határbiztonság és migrációs jogi helyzet szempontjából, de az állítások ellenőrzése szükséges a pontos körülmények tisztázásához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:31.231919+00:00"
+    },
+    "information:26404": {
+      "hu_text": "Értékelem, hogy a ProPublica hosszú cikkeket készít, mint ez is, amelyben azonosították azokat az amerikai állampolgárokat, akiket illegálisan tartóztattak le szövetségi és állami hatóságok, például az ICE. A brutalitás és jogsértés nem rosszabb az állampolgároknál, de ez egy világos határ átlépése.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A ProPublica cikk hiteles forrás, de az állítások részleges ellenőrzést igényelnek a konkrét esetek és jogsértések tekintetében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:31.231923+00:00"
+    },
+    "information:26429": {
+      "hu_text": "@thenowherephoto Teljesen igaz, Danny videója egyértelműen mutatja, hogy azt mondja az életmentőnek, hogy szálljon le a hajóról. Kié a hajó, hogy kártérítést követeljen? A franciák kísérik a migráns csónakokat a 12 mérföldes határvonalig, aztán nekünk kell gondoskodnunk róluk. És milliókat fizetünk Franciaországnak, hogy ezt megakadályozzák.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét eseményre utal, de nincs elegendő bizonyíték a hajó tulajdonjogára vagy a kártérítési igényre vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:31.231927+00:00"
     }
   },
   "legacy_reviews": {}
