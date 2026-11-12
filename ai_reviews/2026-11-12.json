@@ -804,6 +804,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T22:01:31.886596+00:00"
+    },
+    "telegram:1983050450:25501": {
+      "hu_text": "HMAO beszámolt az illegális migráció elleni küzdelemről.\n\nHMAO-ban a migránsok számára 27 tevékenységi körben tiltott a munkavégzés, 2027. január 1-jétől pedig 30-ra bővítik a listát – hozzáadják a pékségi és cukrászipari termelést, raktárakat, rendeléskiadó pontokat, valamint bizonyos kulturális és sport területeket.\n\n2026 első kilenc hónapjában 51 845 külföldi lépett be a körzetbe, szemben az előző év 67 266-jával – ez 22,9%-os csökkenés. Az eltávolítottak száma hatszorosára nőtt: 343-ról 2135-re. Az engedélyek visszavonása másfélszeresére, az állampolgársági kérelmek elutasítása pedig 7,2-szeresére emelkedett.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalosnak tűnő statisztikai adatokat és szabályozási változásokat tartalmaz egy oroszországi régióból, de nincs független forrás vagy bizonyíték az állítások ellenőrzésére. Ezért az állítások ellenőrizetlenek, de relevánsak a migrációs politika szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:44.708102+00:00"
     }
   },
   "legacy_reviews": {}
