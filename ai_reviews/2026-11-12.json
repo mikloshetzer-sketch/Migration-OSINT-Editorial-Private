@@ -606,6 +606,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T14:11:34.656851+00:00"
+    },
+    "group:713": {
+      "hu_text": "Bírósági végzések ellenére az illegális bevándorlókat továbbra is kitoloncolják.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás bírósági végzések ellenére történő kitoloncolásról szól, ami fontos jogi és migrációs kérdés. Az állítás forrása nem ellenőrzött, ezért előzetesen nem igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:03.372228+00:00"
+    },
+    "group:714": {
+      "hu_text": "A Hanti-Manszijszk Autonóm Körzet (ХМАО) tapasztalatai az illegális és helyettesítő migráció elleni küzdelemben: 2026 első kilenc hónapjában 51 845 külföldi állampolgár lépett be a régióba, ami 22,9%-kal kevesebb az előző év azonos időszakához képest. A migránsok foglalkoztatásának tilalma 27 gazdasági ágazatra vonatkozik, 2027-től 30-ra bővül. A kitoloncoltak száma hatszorosára nőtt, az állampolgársági kérelmek elutasítása pedig 7,2-szeresére emelkedett. A jelentés hangsúlyozza a rendszeres és őszinte munkát a migráció kezelésében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részletes statisztikai adatokat tartalmaz egy orosz régió migrációs politikájáról, de nincs megbízható forrás vagy hivatalos igazolás. Az adatok ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:03.372248+00:00"
+    },
+    "group:715": {
+      "hu_text": "A szomálik elsősorban szomáli nyelven beszélnek (kelet-kusita nyelv), nem arabul. Az arab nyelv másodlagos hivatalos nyelv, amely az iszlámhoz és az oktatáshoz kötődik, de nem a mindennapi beszéd része a legtöbb ember számára. Eredetileg nem voltak muszlimok; az iszlám a 7. században érkezett a part menti kereskedelem és korai bevándorlók révén, majd terjedt el a térségben.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi és nyelvi háttérinformációkat tartalmaz a szomáli népről, amelyek általánosan elfogadottak, de nincs konkrét forrás megjelölve.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:03.372253+00:00"
+    },
+    "information:26468": {
+      "hu_text": "Ismerjük meg ellenségeinket: fegyveriparok. Az EU határőrizeti és militarizációs beruházásai jelentős pénzügyi érdekeltséget szolgálnak a fegyvergyártó cégek számára, mint a Thales, Leonardo és Airbus. Ezek a vállalatok különféle katonai és biztonsági eszközöket szállítanak, például műholdas kommunikációs modulokat, biometrikus ellenőrző eszközöket, drónokat és autonóm fegyverrendszereket, amelyek az EU határainak ellenőrzését szolgálják. A szervezet egy tömeges akcióra hív november 27-29-re a Migrációs Paktum ellen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai aktivista jellegű információ, amely kritizálja az EU migrációs és határvédelmi politikáját, de nincs hivatalos bizonyíték a konkrét állításokra. Fontos a további ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:03.372256+00:00"
+    },
+    "information:26482": {
+      "hu_text": "Egy üres migráns gumicsónakot vágtak szét a La Manche csatornában szeptember 22-én, amely körülbelül 50 embert szállított Normandiából. A migránsokat már átszállították a Királyi Nemzeti Mentőszolgálat (RNLI) és a Határőrség hajóira. Egy francia parti őrségi tiszt is jelen volt az Abeille Liberté hajón, amikor Thomas elvágta a csónakot.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét eseményről szóló információ, de nincs megerősített forrás vagy további részletek. Az állítás ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:03.372259+00:00"
+    },
+    "information:26493": {
+      "hu_text": "Hamasz sátrakat foglal el a Gázai övezetben élő kitelepítettektől viharok idején, és akadályozza a menekülttáborok árvíz elleni biztonságosabbá tételére irányuló erőfeszítéseket. Gáza tengerparti, homokos területen fekszik, ezért különösen hajlamos az árvizekre. A palesztinok vádolják a Hamaszt emiatt.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius kérdésről szól, amely érinti a menekültek helyzetét és a helyi hatalom felelősségét. Az állítás forrása nem ellenőrzött, ezért további igazolás szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:03.372262+00:00"
     }
   },
   "legacy_reviews": {}
