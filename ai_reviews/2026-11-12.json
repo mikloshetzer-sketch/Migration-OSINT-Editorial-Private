@@ -122,6 +122,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-11T23:49:23.166730+00:00"
+    },
+    "group:708": {
+      "hu_text": "Ha össze akarod olvasztani a pártodat a Restore Britainnel, az teljesen rendben van, de csak emlékezz ezekre az alapvető tényekre: az égben lévő Isten döntött. Minden illegális migránst kitoloncolnak. A hajókat 24 órán belül megállítják. Sok legális migránst is kitoloncolhatnak, ha...",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg politikai állításokat tartalmaz migrációs kitoloncolásról és határbiztonságról, de nincs megbízható forrás vagy bizonyíték az állítások alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:00.342251+00:00"
+    },
+    "information:26352": {
+      "hu_text": "[FRISS HÍR] Több mint 2000 migránsból álló karaván haladt át a mexikói ellenőrzőponton, miközben az USA határa felé tart.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés migrációs eseményről szól, de a forrás nem ellenőrzött, ezért az állítás igazolása szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:00.342276+00:00"
+    },
+    "information:26353": {
+      "hu_text": "@PounderJane1 Mi a fene. Idióta, pont a határon, ahol megtagadják a menekültek átkelését, a hírességek annyira idegesítőek: „Csak vezesd a kocsit és tartsd a szádat bohóc 🤡”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és szidalmazás, nem tényállítás migrációs eseményről vagy politikáról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:00.342283+00:00"
+    },
+    "information:26358": {
+      "hu_text": "@Ostrov_A @LewisHamilton Izrael ellenőrzi a Rafah határátkelő gázai oldalát. Egyiptom korlátozásai főként a palesztinok állandó kitelepítésével kapcsolatos aggályok miatt vannak. Ha a Rafah átkelő nyitva lenne a palesztinok számára, akkor miért kellene más országnak befogadnia az Izrael által létrehozott gázai menekülteket?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg politikai véleményt és álláspontot tartalmaz a határzárról és menekültekről, de nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:00.342287+00:00"
+    },
+    "information:26370": {
+      "hu_text": "Novemberben közel 7500 migráns rohanta meg Spanyolország Kanári-szigeteit, ami túlterhelte a mentőhajókat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Migrációs eseményről szóló állítás, de nincs megerősített forrás, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:00.342291+00:00"
+    },
+    "information:26375": {
+      "hu_text": "Érdemes tudni: a pénzforrások már nem csak a drogokból származnak. Zsarolás, emberrablás, üzemanyaglopás és migránscsempészet is fő bevételi forrás több régióban, néha még a drogkereskedelmet is megelőzve. Az USA 2025 februárjában a Sinaloa és CJNG szervezeteket külföldi terrorista szervezeteknek minősítette.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg bűnözési és szervezett bűnözési háttérinformációkat tartalmaz, de nincs közvetlen bizonyíték a migrációs vonatkozás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:00.342294+00:00"
     }
   },
   "legacy_reviews": {}
