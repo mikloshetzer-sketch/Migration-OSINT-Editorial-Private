@@ -2009,6 +2009,88 @@
       ],
       "independent_author_count": 1,
       "platform_count": 1
+    },
+    {
+      "id": 1418,
+      "source": "X",
+      "source_post_id": "2120429620726218837",
+      "author": "libya_lsm",
+      "language": "en",
+      "published_at": "2026-11-11T08:13:11Z",
+      "first_detected_at": "2026-11-11T08:34:19Z",
+      "last_detected_at": "2026-11-11T08:34:19Z",
+      "detection_count": 1,
+      "text": "This week [1/3]:\n\n3 Nov - Greek government raises concerns about rising migrant arrivals from Libya\n3 Nov - Libyan Army &amp; LNA Chiefs of Staff visit Euronaval Defense Exhibition in Paris\n4 Nov - Frontex intercepted over 33,000 people to Libya &amp; Tunisia in 2018-2024\n\n#Libya #ليبيا https://t.co/I52t1YkyVs",
+      "text_excerpt": "This week [1/3]:\n\n3 Nov - Greek government raises concerns about rising migrant arrivals from Libya\n3 Nov - Libyan Army &amp; LNA Chiefs of Staff visit Euronaval Defense Exhibition in Paris\n4 Nov - Frontex intercepted over 33,000 people to Libya &amp; Tunisia in 2018-2024\n\n#Libya #ليبيا https://t.co/I52t1YkyVs",
+      "url": "https://x.com/libya_lsm/status/2120429620726218837",
+      "source_url": "https://x.com/libya_lsm/status/2120429620726218837",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant arrivals"
+        ],
+        [
+          "enforcement",
+          "intercepted"
+        ],
+        [
+          "pressure",
+          "rising migrant arrivals"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant arrivals",
+        "rising migrant arrivals"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120429620726218837"
+      ],
+      "related_authors": [
+        "libya_lsm"
+      ],
+      "related_urls": [
+        "https://x.com/libya_lsm/status/2120429620726218837"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -2573,7 +2655,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-11T23:48:45.337062+00:00",
+  "last_archived_at": "2026-11-12T04:41:37.001428+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
