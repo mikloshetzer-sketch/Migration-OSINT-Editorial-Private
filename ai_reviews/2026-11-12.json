@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T04:42:00.342294+00:00"
+    },
+    "record:1604168769:12592": {
+      "hu_text": "Az oroszországi Jugra régióban bevezetett szigorú ellenőrzések és korlátozások miatt 23%-kal csökkent a migránsok áramlása. Az orosz Állami Dumában javasolják, hogy ezt a gyakorlatot terjesszék ki az ország más területeire is, beleértve a migránsok szociális juttatásainak és kedvezményeinek megszüntetését, valamint a munkahelyek korlátozását. 2027. január 1-jétől pedig kibővítik azon ágazatok listáját, ahol a migránsok nem dolgozhatnak, akár 30-ra.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy oroszországi migrációs szabályozási javaslatról szól, amely konkrét intézkedéseket említ, de nincs megerősített forrás vagy hivatalos közlés. Ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:10.087205+00:00"
+    },
+    "record:2120715509423301053": {
+      "hu_text": "Riasztó adat: 2026 októberében a Kanári-szigetekre 8 143 illegális migráns érkezett, ami az egész év migránsérkezéseinek 53%-át teszi ki. El Hierro szigetén, ahol mindössze 11 000 lakos él, egy hónap alatt 4 119 migráns érkezett.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számokat közöl a migránsok érkezéséről egy adott időszakban, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:10.087224+00:00"
+    },
+    "record:2120725448233562130": {
+      "hu_text": "Ha össze akarod olvasztani a pártodat a Restore Britain nevűvel, az rendben van, de ne feledd: az ég istene elrendelte, hogy minden illegális migránst kitoloncolnak, a hajókat 24 órán belül megállítják, és sok legális migránst is kitoloncolnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és ígéret egy párt programjából, nincs bizonyíték a megvalósulásra vagy hivatalos döntésre, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:10.087229+00:00"
+    },
+    "record:2120725840870727885": {
+      "hu_text": "Ha össze akarod olvasztani a pártodat a Restore Britain nevűvel, az rendben van, de ne feledd: az ég istene elrendelte, hogy minden illegális migránst kitoloncolnak, a hajókat 24 órán belül megállítják, és sok legális migránst is kitoloncolnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ugyanaz a tartalom, mint az előző rekordban, politikai állítás, nincs bizonyíték a megvalósulásra, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:10.087233+00:00"
+    },
+    "record:2120732985175511170": {
+      "hu_text": "Tenerife, Kanári-szigetek. Európát elárasztja a bevándorlás, és eltűnik... El Hierro szigetén, ahol körülbelül 12 000 lakos él, öt hét alatt több mint 8 000 migráns érkezett.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs nyomásról szól konkrét számadatokkal, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:10.087237+00:00"
+    },
+    "record:2120733094974005449": {
+      "hu_text": "Oscar Ramirez 2026. november 10-én este Chiapas helyi idő szerint felvett egy eredeti videót, amelyen körülbelül 1 500–2 000 migráns karavánja indul Tapachulából a Viva México ellenőrzőponthoz. A videót másnap reggel tette közzé.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migráns karaván mozgását dokumentálja egy adott időpontban, de nincs független megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:10.087241+00:00"
     }
   },
   "legacy_reviews": {}
