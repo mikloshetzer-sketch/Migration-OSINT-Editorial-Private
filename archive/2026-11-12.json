@@ -186,9 +186,198 @@
       "first_collected_at": "2026-11-11T23:48:38Z",
       "last_collected_at": "2026-11-11T23:48:38Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26352",
+      "timestamp": "2026-11-12T04:31:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120736109718098133",
+      "author": "TRUMPGIRL_STL",
+      "url": "https://x.com/TRUMPGIRL_STL/status/2120736109718098133",
+      "source_url": "https://x.com/TRUMPGIRL_STL/status/2120736109718098133",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "checkpoint"
+      ],
+      "freshness_cues": [
+        "breaking"
+      ],
+      "text": "[BREAKING NEWS] The 2,000-plus-migrant caravan has passed through the Mexican checkpoint as it heads to the U.S. border. https://t.co/WslcJvnz61",
+      "text_excerpt": "[BREAKING NEWS] The 2,000-plus-migrant caravan has passed through the Mexican checkpoint as it heads to the U.S. border. https://t.co/WslcJvnz61",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T04:39:28Z",
+      "last_collected_at": "2026-11-12T04:39:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26353",
+      "timestamp": "2026-11-12T04:30:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120736044362629299",
+      "author": "AlexSorosJones",
+      "url": "https://x.com/AlexSorosJones/status/2120736044362629299",
+      "source_url": "https://x.com/AlexSorosJones/status/2120736044362629299",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@PounderJane1 Whats fucking. Retard, right on the border where they refuse to allow refugees to cross, celebrities are so fucking annoying “Just drive the fucking car and shit your mouth clown 🤡 “",
+      "text_excerpt": "@PounderJane1 Whats fucking. Retard, right on the border where they refuse to allow refugees to cross, celebrities are so fucking annoying “Just drive the fucking car and shit your mouth clown 🤡 “",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T04:39:28Z",
+      "last_collected_at": "2026-11-12T04:39:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26358",
+      "timestamp": "2026-11-12T04:19:16Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120733139383562247",
+      "author": "Roger2r3t",
+      "url": "https://x.com/Roger2r3t/status/2120733139383562247",
+      "source_url": "https://x.com/Roger2r3t/status/2120733139383562247",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@Ostrov_A @LewisHamilton Israel controls the Gazan side of the Rafah border.\n\nEgypt's restrictions are mainly driven by concerns about permanent displacement of Palestinians.\n\nIf the Rafah crossing was open to Palestinians why should any other country be forced to house Gazan refugees Israel has created.",
+      "text_excerpt": "@Ostrov_A @LewisHamilton Israel controls the Gazan side of the Rafah border.\n\nEgypt's restrictions are mainly driven by concerns about permanent displacement of Palestinians.\n\nIf the Rafah crossing was open to Palestinians why should any other country be forced to house Gazan refugees Israel has created.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T04:39:28Z",
+      "last_collected_at": "2026-11-12T04:39:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26375",
+      "timestamp": "2026-11-12T04:17:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120732774311289246",
+      "author": "CashPublication",
+      "url": "https://x.com/CashPublication/status/2120732774311289246",
+      "source_url": "https://x.com/CashPublication/status/2120732774311289246",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "Worth knowing: the money isn't only drugs now. Extortion, kidnapping, fuel theft, and migrant smuggling are core revenue streams across several regions, sometimes beating drug trafficking. The US designated Sinaloa and CJNG as Foreign Terrorist Organizations in February 2025.",
+      "text_excerpt": "Worth knowing: the money isn't only drugs now. Extortion, kidnapping, fuel theft, and migrant smuggling are core revenue streams across several regions, sometimes beating drug trafficking. The US designated Sinaloa and CJNG as Foreign Terrorist Organizations in February 2025.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T04:41:01Z",
+      "last_collected_at": "2026-11-12T04:41:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26370",
+      "timestamp": "2026-11-12T03:05:45Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120714639935938565",
+      "author": "kevinobrieninnc",
+      "url": "https://x.com/kevinobrieninnc/status/2120714639935938565",
+      "source_url": "https://x.com/kevinobrieninnc/status/2120714639935938565",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "Nearly 7,500 migrants storm Spain's Canary Islands in November leaving rescue boats overwhelmed https://t.co/d9AjtrAoLk",
+      "text_excerpt": "Nearly 7,500 migrants storm Spain's Canary Islands in November leaving rescue boats overwhelmed https://t.co/d9AjtrAoLk",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T04:39:57Z",
+      "last_collected_at": "2026-11-12T04:39:57Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-11T23:48:51.702905+00:00",
+  "last_archived_at": "2026-11-12T04:41:38.499334+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -285,6 +474,443 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "live_events": [
+    {
+      "id": 894,
+      "event_id": 894,
+      "source": "X",
+      "source_post_id": "2120732985175511170",
+      "author": "RupertPitt1",
+      "published_at": "2026-11-12T04:18:39Z",
+      "collected_at": "2026-11-12T04:41:29Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "confidence": 0.8,
+      "event_confidence": 0.8,
+      "relevance_score": 50.0,
+      "text": "Tenerife the Canary Islands. \n\nEurope is being invaded by immigration and will disappear…\n\n“El Hierro has around 12,000 inhabitants. In five weeks, more than 8,000 migrants arrived.” https://t.co/6CQsUWlwhh",
+      "url": "https://x.com/RupertPitt1/status/2120732985175511170",
+      "source_url": "https://x.com/RupertPitt1/status/2120732985175511170"
+    },
+    {
+      "id": 892,
+      "event_id": 892,
+      "source": "X",
+      "source_post_id": "2120725840870727885",
+      "author": "JulesDProperty",
+      "published_at": "2026-11-12T03:50:16Z",
+      "collected_at": "2026-11-12T04:39:56Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "If you want to merge your party with Restore Britain, that’s absolutely fine, but just remember these few basic facts: the God in heaven has decided\n\nAll illegal migrants will be deported. The boats will be stopped within 24 hours. Many legal migrants will be deported if they",
+      "url": "https://x.com/JulesDProperty/status/2120725840870727885",
+      "source_url": "https://x.com/JulesDProperty/status/2120725840870727885"
+    },
+    {
+      "id": 893,
+      "event_id": 893,
+      "source": "X",
+      "source_post_id": "2120725448233562130",
+      "author": "JulesDProperty",
+      "published_at": "2026-11-12T03:48:42Z",
+      "collected_at": "2026-11-12T04:39:57Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "If you want to merge your party with Restore Britain, that’s absolutely fine, but just remember these few basic facts: the God in heaven has decided\n\nAll illegal migrants will be deported. The boats will be stopped within 24 hours. Many legal migrants will be deported if they",
+      "url": "https://x.com/JulesDProperty/status/2120725448233562130",
+      "source_url": "https://x.com/JulesDProperty/status/2120725448233562130"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 708,
+      "group_id": 708,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "If you want to merge your party with Restore Britain, that’s absolutely fine, but just remember these few basic facts: the God in heaven has decided\n\nAll illegal migrants will be deported. The boats will be stopped within 24 hours. Many legal migrants will be deported if they",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T03:48:42Z",
+      "last_seen": "2026-11-12T03:50:16Z",
+      "source_count": 2,
+      "sources_count": 2,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-12T04:39:56Z",
+      "updated_at": "2026-11-12T04:39:57Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1423,
+      "source": "X",
+      "source_post_id": "2120733094974005449",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-12T04:19:05Z",
+      "first_detected_at": "2026-11-12T04:39:29Z",
+      "last_detected_at": "2026-11-12T04:39:29Z",
+      "detection_count": 1,
+      "text": "@210TexansForTxs @OscarRamirezTJ @RealAmVoice @TimcastNews @BenBergquam @RaymondAzarM @Bannons_WarRoom @stinchfield1776 @KimIversenShow @KimWexlerMAJD Yes, the video is original from this month and year. \n\nOscar Ramirez filmed it on the evening of November 10, 2026 (local Chiapas time) as the caravan of roughly 1,500–2,000 migrants left Tapachula and walked toward the Viva México checkpoint. He posted it the next morning.",
+      "text_excerpt": "@210TexansForTxs @OscarRamirezTJ @RealAmVoice @TimcastNews @BenBergquam @RaymondAzarM @Bannons_WarRoom @stinchfield1776 @KimIversenShow @KimWexlerMAJD Yes, the video is original from this month and year. \n\nOscar Ramirez filmed it on the evening of November 10, 2026 (local Chiapas time) as the caravan of roughly 1,500–2,000 migrants left Tapachula and walked toward the Viva México checkpoint. He posted it the next morning.",
+      "url": "https://x.com/grok/status/2120733094974005449",
+      "source_url": "https://x.com/grok/status/2120733094974005449",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "checkpoint"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1424,
+      "source": "X",
+      "source_post_id": "2120715509423301053",
+      "author": "sgtnewsnetwork",
+      "language": "en",
+      "published_at": "2026-11-12T03:09:13Z",
+      "first_detected_at": "2026-11-12T04:41:29Z",
+      "last_detected_at": "2026-11-12T04:41:29Z",
+      "detection_count": 1,
+      "text": "WAKE UP CALL:⚠️🇪🇸CANARY ISLANDS RECEIVE 8,143 ILLEGAL MIGRANT ARRIVALS IN OCTOBER ALONE\n\nOctober arrivals accounted for 53% of all migrant arrivals recorded in the Canary Islands throughout 2026. El Hierro, with just 11,000 residents, received 4,119 migrants in one month. \nA https://t.co/vkkpTnXyBK",
+      "text_excerpt": "WAKE UP CALL:⚠️🇪🇸CANARY ISLANDS RECEIVE 8,143 ILLEGAL MIGRANT ARRIVALS IN OCTOBER ALONE\n\nOctober arrivals accounted for 53% of all migrant arrivals recorded in the Canary Islands throughout 2026. El Hierro, with just 11,000 residents, received 4,119 migrants in one month. \nA https://t.co/vkkpTnXyBK",
+      "url": "https://x.com/sgtnewsnetwork/status/2120715509423301053",
+      "source_url": "https://x.com/sgtnewsnetwork/status/2120715509423301053",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANT ARRIVALS IN OCTOBER ALONE October arrivals accounted for 53% of all migrant arrivals"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "MIGRANT",
+        "migrant"
+      ],
+      "high_value_matches": [
+        "MIGRANT ARRIVALS IN OCTOBER ALONE October arrivals accounted for 53% of all migrant arrivals"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1422,
+      "source": "TELEGRAM",
+      "source_post_id": "1604168769:12592",
+      "author": "migrantlar24",
+      "language": null,
+      "published_at": "2026-11-12T02:14:13Z",
+      "first_detected_at": "2026-11-12T04:38:59Z",
+      "last_detected_at": "2026-11-12T04:38:59Z",
+      "detection_count": 1,
+      "text": "Югра тажрибаси Россиянинг бошқа ҳудудларида ҳам жорий этилиши мумкин\n\nДавлат думаси вакиллари Ханти-Мансийск округида мигрантлар учун ижтимоий тўлов ва имтиёзларни бекор қилиш ҳамда иш ўринларига чекловлар ўрнатиш тажрибасини бутун мамлакат бўйлаб қўллашни таклиф қилмоқда. Юграда жорий этилган қатъий назорат ва чекловлар натижасида мигрантлар оқими 23 фоизга камайган, 2027 йил 1 январдан эса улар ишлай олмайдиган соҳалар рўйхати 30 тагача кенгайтирилади.",
+      "text_excerpt": "Югра тажрибаси Россиянинг бошқа ҳудудларида ҳам жорий этилиши мумкин\n\nДавлат думаси вакиллари Ханти-Мансийск округида мигрантлар учун ижтимоий тўлов ва имтиёзларни бекор қилиш ҳамда иш ўринларига чекловлар ўрнатиш тажрибасини бутун мамлакат бўйлаб қўллашни таклиф қилмоқда. Юграда жорий этилган қатъий назорат ва чекловлар натижасида мигрантлар оқими 23 фоизга камайган, 2027 йил 1 январдан эса улар ишлай олмайдиган соҳалар рўйхати 30 тагача кенгайтирилади.",
+      "url": "https://t.me/migrantlar24/12592",
+      "source_url": "https://t.me/migrantlar24/12592",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "мигрантлар оқими 23 фоизга камайган"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "мигрантлар"
+      ],
+      "high_value_matches": [
+        "мигрантлар оқими 23 фоизга камайган"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1423,
+      "source": "X",
+      "source_post_id": "2120733094974005449",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-12T04:19:05Z",
+      "first_detected_at": "2026-11-12T04:39:29Z",
+      "last_detected_at": "2026-11-12T04:39:29Z",
+      "detection_count": 1,
+      "text": "@210TexansForTxs @OscarRamirezTJ @RealAmVoice @TimcastNews @BenBergquam @RaymondAzarM @Bannons_WarRoom @stinchfield1776 @KimIversenShow @KimWexlerMAJD Yes, the video is original from this month and year. \n\nOscar Ramirez filmed it on the evening of November 10, 2026 (local Chiapas time) as the caravan of roughly 1,500–2,000 migrants left Tapachula and walked toward the Viva México checkpoint. He posted it the next morning.",
+      "text_excerpt": "@210TexansForTxs @OscarRamirezTJ @RealAmVoice @TimcastNews @BenBergquam @RaymondAzarM @Bannons_WarRoom @stinchfield1776 @KimIversenShow @KimWexlerMAJD Yes, the video is original from this month and year. \n\nOscar Ramirez filmed it on the evening of November 10, 2026 (local Chiapas time) as the caravan of roughly 1,500–2,000 migrants left Tapachula and walked toward the Viva México checkpoint. He posted it the next morning.",
+      "url": "https://x.com/grok/status/2120733094974005449",
+      "source_url": "https://x.com/grok/status/2120733094974005449",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "checkpoint"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1424,
+      "source": "X",
+      "source_post_id": "2120715509423301053",
+      "author": "sgtnewsnetwork",
+      "language": "en",
+      "published_at": "2026-11-12T03:09:13Z",
+      "first_detected_at": "2026-11-12T04:41:29Z",
+      "last_detected_at": "2026-11-12T04:41:29Z",
+      "detection_count": 1,
+      "text": "WAKE UP CALL:⚠️🇪🇸CANARY ISLANDS RECEIVE 8,143 ILLEGAL MIGRANT ARRIVALS IN OCTOBER ALONE\n\nOctober arrivals accounted for 53% of all migrant arrivals recorded in the Canary Islands throughout 2026. El Hierro, with just 11,000 residents, received 4,119 migrants in one month. \nA https://t.co/vkkpTnXyBK",
+      "text_excerpt": "WAKE UP CALL:⚠️🇪🇸CANARY ISLANDS RECEIVE 8,143 ILLEGAL MIGRANT ARRIVALS IN OCTOBER ALONE\n\nOctober arrivals accounted for 53% of all migrant arrivals recorded in the Canary Islands throughout 2026. El Hierro, with just 11,000 residents, received 4,119 migrants in one month. \nA https://t.co/vkkpTnXyBK",
+      "url": "https://x.com/sgtnewsnetwork/status/2120715509423301053",
+      "source_url": "https://x.com/sgtnewsnetwork/status/2120715509423301053",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "MIGRANT ARRIVALS IN OCTOBER ALONE October arrivals accounted for 53% of all migrant arrivals"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "MIGRANT",
+        "migrant"
+      ],
+      "high_value_matches": [
+        "MIGRANT ARRIVALS IN OCTOBER ALONE October arrivals accounted for 53% of all migrant arrivals"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1422,
+      "source": "TELEGRAM",
+      "source_post_id": "1604168769:12592",
+      "author": "migrantlar24",
+      "language": null,
+      "published_at": "2026-11-12T02:14:13Z",
+      "first_detected_at": "2026-11-12T04:38:59Z",
+      "last_detected_at": "2026-11-12T04:38:59Z",
+      "detection_count": 1,
+      "text": "Югра тажрибаси Россиянинг бошқа ҳудудларида ҳам жорий этилиши мумкин\n\nДавлат думаси вакиллари Ханти-Мансийск округида мигрантлар учун ижтимоий тўлов ва имтиёзларни бекор қилиш ҳамда иш ўринларига чекловлар ўрнатиш тажрибасини бутун мамлакат бўйлаб қўллашни таклиф қилмоқда. Юграда жорий этилган қатъий назорат ва чекловлар натижасида мигрантлар оқими 23 фоизга камайган, 2027 йил 1 январдан эса улар ишлай олмайдиган соҳалар рўйхати 30 тагача кенгайтирилади.",
+      "text_excerpt": "Югра тажрибаси Россиянинг бошқа ҳудудларида ҳам жорий этилиши мумкин\n\nДавлат думаси вакиллари Ханти-Мансийск округида мигрантлар учун ижтимоий тўлов ва имтиёзларни бекор қилиш ҳамда иш ўринларига чекловлар ўрнатиш тажрибасини бутун мамлакат бўйлаб қўллашни таклиф қилмоқда. Юграда жорий этилган қатъий назорат ва чекловлар натижасида мигрантлар оқими 23 фоизга камайган, 2027 йил 1 январдан эса улар ишлай олмайдиган соҳалар рўйхати 30 тагача кенгайтирилади.",
+      "url": "https://t.me/migrantlar24/12592",
+      "source_url": "https://t.me/migrantlar24/12592",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "мигрантлар оқими 23 фоизга камайган"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "мигрантлар"
+      ],
+      "high_value_matches": [
+        "мигрантлар оқими 23 фоизга камайган"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ]
 }
