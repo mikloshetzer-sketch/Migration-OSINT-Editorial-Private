@@ -496,6 +496,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T14:11:09.209014+00:00"
+    },
+    "record:2120881201820942423": {
+      "hu_text": "@seanspicer Észrevetted a mintát ezekkel a migráns karavánokkal kapcsolatban? És nem zárták le a határt? Markywayne, a vízvezeték-szerelő Westville-ből, Oklahoma államból azt mondta, hogy a határ zárva van. Szóval melyik az igaz, Sean?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a határzárról és a migráns karavánokról kérdez, de nincs konkrét bizonyíték vagy hivatalos adat a határ állapotáról vagy a karavánok létezéséről. Ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:21.240741+00:00"
+    },
+    "record:mastodon_117601687977495590": {
+      "hu_text": "Szenegálból érkező információ: közel 800 migránst, négy csónakban, mentettek ki a Szenegál partjainál egy nap alatt. Pénteken egy hajó, amelyen 150 menekült utazott, felborult az ország északnyugati partjainál, legalább 39 halálos áldozatot és mintegy száz eltűntet okozva.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos humanitárius eseményről számol be, de nincs közvetlen bizonyíték vagy hivatalos megerősítés a tragédiáról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:21.240761+00:00"
+    },
+    "telegram:1261826972:54562": {
+      "hu_text": "Feijóo a Ceutai \"invázióról\" beszél az El Hormiguero műsorban, és megígéri, hogy ha kormányra kerül, fellép Marokkóval szemben. A PP vezetője ígéretet tett egy külön Ceutával foglalkozó minisztériumi anyagra, új rendőrőrsre, a Guardia Civil új parancsnokságára és a Tarajal móló bővítésére.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai nyilatkozat egy jövőbeni kormányzati intézkedésről, de nincs bizonyíték a megvalósulásra vagy a helyzet tényleges állapotára. Ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:21.240765+00:00"
+    },
+    "telegram:1261826972:54565": {
+      "hu_text": "A Reyes tér megtelt úszógumikkal, hogy ne felejtsék el az \"inváziót\". A szervezők azt állítják, hogy nincs normális helyzet, és a tiltakozásukhoz még két másik gyűlés is csatlakozik aznap este 20 órától.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy társadalmi tiltakozásról számol be, amely politikai véleményt tükröz, de nincs bizonyíték a helyzet tényleges állapotára vagy az események kiterjedtségére. Ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:21.240769+00:00"
+    },
+    "telegram:1261826972:54567": {
+      "hu_text": "Fiatal ügyvédek akadályokat jelentenek az autóikkal való hozzáférésben a CATE-hez és a határhoz. Megtiltották az oda való bejutást magyarázat nélkül, miközben a szakembereknek havi 9-15 szolgálatot kell vállalniuk az oltalmazotti és határügyi ügyekben. Közben kérik a Kormányhivatal közvetítését.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az ügyvédek hozzáférési problémáiról szóló állítás, amely intézményi problémára utal, de nincs hivatalos megerősítés vagy részletes bizonyíték. Ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:21.240772+00:00"
+    },
+    "telegram:2240007404:905": {
+      "hu_text": "Munka Reutovban csomagolóknak, 45 műszaktól. Teljesítményalapú fizetés, hivatalos alkalmazás, fehér fizetés, ingyenes szállás és jegyvásárlás. Feladatok közé tartozik a vonalkódok szkennelése, csomagok összeállítása és raklapra helyezése. Elérhetőség telefonszámon és Telegramon.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy álláshirdetés migránsoknak, amely nem kapcsolódik közvetlenül migrációs eseményekhez vagy politikai kérdésekhez, így irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:21.240775+00:00"
     }
   },
   "legacy_reviews": {}
