@@ -375,9 +375,194 @@
       "first_collected_at": "2026-11-12T04:39:57Z",
       "last_collected_at": "2026-11-12T04:39:57Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26404",
+      "timestamp": "2026-11-12T14:06:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117603851662202182",
+      "author": null,
+      "url": "https://social.ofaolain.com/@david/117603851662202182",
+      "source_url": "https://social.ofaolain.com/@david/117603851662202182",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "detention"
+      ],
+      "freshness_cues": [],
+      "text": "I appreciate @ ProPublica doing long pieces like this one where they have identified US citizens who have been illegally detained by Federal state security like ICE. The brutality and illegality is not worse because they are citizens but it is such a bright line that is being crossed. https:// projects.propublica.org/us-cit izens-detained-immigration-photo-essay/ # Immigration # USPol",
+      "text_excerpt": "I appreciate @ ProPublica doing long pieces like this one where they have identified US citizens who have been illegally detained by Federal state security like ICE. The brutality and illegality is not worse because they are citizens but it is such a bright line that is being crossed. https:// projects.propublica.org/us-cit izens-detained-immigration-photo-essay/ # Immigration # USPol",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T14:07:50Z",
+      "last_collected_at": "2026-11-12T14:07:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26448",
+      "timestamp": "2026-11-12T14:02:16Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120879854606229779",
+      "author": "philo_skeptic",
+      "url": "https://x.com/philo_skeptic/status/2120879854606229779",
+      "source_url": "https://x.com/philo_skeptic/status/2120879854606229779",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "@David_J_Bier My point is that graphs can be deceptive, sinc ethey can paint a biased picture while still being accurate.\n\nIts important to consider the entire number of migrants leaving the US when talking about \"deportation-maxing\"\n\n Voluntary departures ordered by Immigration Judges soared",
+      "text_excerpt": "@David_J_Bier My point is that graphs can be deceptive, sinc ethey can paint a biased picture while still being accurate.\n\nIts important to consider the entire number of migrants leaving the US when talking about \"deportation-maxing\"\n\n Voluntary departures ordered by Immigration Judges soared",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T14:09:50Z",
+      "last_collected_at": "2026-11-12T14:09:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26437",
+      "timestamp": "2026-11-12T14:01:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120879723001565314",
+      "author": "sams1282815",
+      "url": "https://x.com/sams1282815/status/2120879723001565314",
+      "source_url": "https://x.com/sams1282815/status/2120879723001565314",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@Coops19891 @JulianOD @donmcgowan Man bun? 😂 what man bun? 😂  im just pointing out how two tier it is. Gang of thugs smash several british citizens property up. Nothing. Slash a illegal scumbag migrants human trafficking dinghy and they remand you and probably send you to jail. Two teir, plain as day.",
+      "text_excerpt": "@Coops19891 @JulianOD @donmcgowan Man bun? 😂 what man bun? 😂  im just pointing out how two tier it is. Gang of thugs smash several british citizens property up. Nothing. Slash a illegal scumbag migrants human trafficking dinghy and they remand you and probably send you to jail. Two teir, plain as day.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T14:09:21Z",
+      "last_collected_at": "2026-11-12T14:09:21Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26429",
+      "timestamp": "2026-11-12T13:56:12Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120878328403972525",
+      "author": "IanGibbon81530",
+      "url": "https://x.com/IanGibbon81530/status/2120878328403972525",
+      "source_url": "https://x.com/IanGibbon81530/status/2120878328403972525",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "dinghy"
+      ],
+      "freshness_cues": [],
+      "text": "@thenowherephoto Quite right , Danny’s video clearly shows him telling the lifeguard to get off the boat. Who owns the boat to be claiming damage ? The French escort migrant dinghy’s to the 12m line , then we have to look after them. And we’re paying France millions to stop this happening,",
+      "text_excerpt": "@thenowherephoto Quite right , Danny’s video clearly shows him telling the lifeguard to get off the boat. Who owns the boat to be claiming damage ? The French escort migrant dinghy’s to the 12m line , then we have to look after them. And we’re paying France millions to stop this happening,",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T14:08:51Z",
+      "last_collected_at": "2026-11-12T14:08:51Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26434",
+      "timestamp": "2026-11-12T13:37:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2120873683799421261",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2120873683799421261",
+      "source_url": "https://x.com/grok/status/2120873683799421261",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@karenmilner3 @CanarioToday Yes, the transfers are real. Multiple reports confirm the Spanish government has been flying irregular migrants from the Canary Islands to Madrid (and other mainland cities) via charter and military planes to ease overcrowding after recent sea arrivals. Over 2,000 were moved in",
+      "text_excerpt": "@karenmilner3 @CanarioToday Yes, the transfers are real. Multiple reports confirm the Spanish government has been flying irregular migrants from the Canary Islands to Madrid (and other mainland cities) via charter and military planes to ease overcrowding after recent sea arrivals. Over 2,000 were moved in",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-12T14:08:51Z",
+      "last_collected_at": "2026-11-12T14:08:51Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-12T04:41:43.162806+00:00",
+  "last_archived_at": "2026-11-12T14:10:00.421367+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -606,6 +791,94 @@
       "text": "If you want to merge your party with Restore Britain, that’s absolutely fine, but just remember these few basic facts: the God in heaven has decided\n\nAll illegal migrants will be deported. The boats will be stopped within 24 hours. Many legal migrants will be deported if they",
       "url": "https://x.com/JulesDProperty/status/2120725448233562130",
       "source_url": "https://x.com/JulesDProperty/status/2120725448233562130"
+    },
+    {
+      "id": 895,
+      "event_id": 895,
+      "source": "X",
+      "source_post_id": "2120881201820942423",
+      "author": "LashKLaRue",
+      "published_at": "2026-11-12T14:07:37Z",
+      "collected_at": "2026-11-12T14:08:21Z",
+      "event_type": "BORDER_MEASURE",
+      "signal_type": "BORDER_MEASURE",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@seanspicer Have you noticed a pattern with these migrant caravans?? And isn’t the border closed? \nMarkywayne the plumber from Westville, OK said the border was closed. So which is it Sean?",
+      "url": "https://x.com/LashKLaRue/status/2120881201820942423",
+      "source_url": "https://x.com/LashKLaRue/status/2120881201820942423"
+    },
+    {
+      "id": 896,
+      "event_id": 896,
+      "source": "X",
+      "source_post_id": "2120881084955058455",
+      "author": "real_pat_henry",
+      "published_at": "2026-11-12T14:07:09Z",
+      "collected_at": "2026-11-12T14:08:21Z",
+      "event_type": "INTERCEPTION",
+      "signal_type": "INTERCEPTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Migrant caravan crosses Mexico, hoping for a change in US border policy ... https://t.co/fnHyB2qDMI via @YouTube This is ridiculous. It shows where the Democrats stand we cannot have open borders and be a country. These people must be stopped at the border. We need to call up our",
+      "url": "https://x.com/real_pat_henry/status/2120881084955058455",
+      "source_url": "https://x.com/real_pat_henry/status/2120881084955058455"
+    },
+    {
+      "id": 897,
+      "event_id": 897,
+      "source": "X",
+      "source_post_id": "2120880367263494599",
+      "author": "OwenGregorian",
+      "published_at": "2026-11-12T14:04:18Z",
+      "collected_at": "2026-11-12T14:08:22Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Non! France blocked more migrants being deported under one-in-one-out scheme while rejecting candidates without saying why, report finds | David Churchill, Daily Mail\n\nMany more small boat migrants could have been deported under the ‘one in, one out’ deal if France had been more https://t.co/qMMmIo9W0t",
+      "url": "https://x.com/OwenGregorian/status/2120880367263494599",
+      "source_url": "https://x.com/OwenGregorian/status/2120880367263494599"
+    },
+    {
+      "id": 898,
+      "event_id": 898,
+      "source": "X",
+      "source_post_id": "2120879678986629136",
+      "author": "dejerry02",
+      "published_at": "2026-11-12T14:01:34Z",
+      "collected_at": "2026-11-12T14:09:50Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "a man landed at an airport in Paris without his passport or refugee papers.\nBecause he had no legal documents, \n\nFrance wouldn't let him enter the country, and the UK wouldn't let him fly back,leaving him trapped in the airport's departure lounge.\n\nInstead of leaving once his",
+      "url": "https://x.com/dejerry02/status/2120879678986629136",
+      "source_url": "https://x.com/dejerry02/status/2120879678986629136"
     }
   ],
   "event_groups": [
@@ -637,6 +910,122 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-12T04:39:56Z",
       "updated_at": "2026-11-12T04:39:57Z"
+    },
+    {
+      "id": 709,
+      "group_id": 709,
+      "event_type": "BORDER_MEASURE",
+      "dominant_event_type": "BORDER_MEASURE",
+      "title": "BORDER_MEASURE",
+      "representative_text": "@seanspicer Have you noticed a pattern with these migrant caravans?? And isn’t the border closed? \nMarkywayne the plumber from Westville, OK said the border was closed. So which is it Sean?",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T14:07:37Z",
+      "last_seen": "2026-11-12T14:07:37Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-12T14:08:21Z",
+      "updated_at": "2026-11-12T14:08:21Z"
+    },
+    {
+      "id": 710,
+      "group_id": 710,
+      "event_type": "INTERCEPTION",
+      "dominant_event_type": "INTERCEPTION",
+      "title": "INTERCEPTION - AMERICAS",
+      "representative_text": "Migrant caravan crosses Mexico, hoping for a change in US border policy ... https://t.co/fnHyB2qDMI via @YouTube This is ridiculous. It shows where the Democrats stand we cannot have open borders and be a country. These people must be stopped at the border. We need to call up our",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T14:07:09Z",
+      "last_seen": "2026-11-12T14:07:09Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-12T14:08:21Z",
+      "updated_at": "2026-11-12T14:08:21Z"
+    },
+    {
+      "id": 711,
+      "group_id": 711,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "Non! France blocked more migrants being deported under one-in-one-out scheme while rejecting candidates without saying why, report finds | David Churchill, Daily Mail\n\nMany more small boat migrants could have been deported under the ‘one in, one out’ deal if France had been more https://t.co/qMMmIo9W0t",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T14:04:18Z",
+      "last_seen": "2026-11-12T14:04:18Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-12T14:08:22Z",
+      "updated_at": "2026-11-12T14:08:22Z"
+    },
+    {
+      "id": 712,
+      "group_id": 712,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "a man landed at an airport in Paris without his passport or refugee papers.\nBecause he had no legal documents, \n\nFrance wouldn't let him enter the country, and the UK wouldn't let him fly back,leaving him trapped in the airport's departure lounge.\n\nInstead of leaving once his",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-12T14:01:34Z",
+      "last_seen": "2026-11-12T14:01:34Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-12T14:09:50Z",
+      "updated_at": "2026-11-12T14:09:50Z"
     }
   ],
   "influence_signals": [
@@ -789,6 +1178,411 @@
       ],
       "high_value_matches": [
         "мигрантлар оқими 23 фоизга камайган"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1429,
+      "source": "X",
+      "source_post_id": "2120879513798123520",
+      "author": "voicefreedau1a",
+      "language": "en",
+      "published_at": "2026-11-12T14:00:54Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "text_excerpt": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "source_url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "BORDER OPEN"
+        ],
+        [
+          "border_access",
+          "BORDER OPEN"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1430,
+      "source": "X",
+      "source_post_id": "2120877964598395387",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-12T13:54:45Z",
+      "first_detected_at": "2026-11-12T14:08:51Z",
+      "last_detected_at": "2026-11-12T14:08:51Z",
+      "detection_count": 1,
+      "text": "@KrugersDragon @DPJHodges The Crown Prosecution Service brought the charges after a Hampshire Constabulary investigation.\n\nThe damaged item was an empty rigid inflatable boat previously used by migrants that was adrift; no public reports name a specific owner, and the boat was returned to France.",
+      "text_excerpt": "@KrugersDragon @DPJHodges The Crown Prosecution Service brought the charges after a Hampshire Constabulary investigation.\n\nThe damaged item was an empty rigid inflatable boat previously used by migrants that was adrift; no public reports name a specific owner, and the boat was returned to France.",
+      "url": "https://x.com/grok/status/2120877964598395387",
+      "source_url": "https://x.com/grok/status/2120877964598395387",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1426,
+      "source": "X",
+      "source_post_id": "2120880653470191868",
+      "author": "theletter17_",
+      "language": "en",
+      "published_at": "2026-11-12T14:05:26Z",
+      "first_detected_at": "2026-11-12T14:08:21Z",
+      "last_detected_at": "2026-11-12T14:08:21Z",
+      "detection_count": 1,
+      "text": "LATEST UPDATE 🚨\n\nTrump will DOUBLE TARIFFS on Mexico unless Claudia Sheinbaum stops the caravan.\n\nAbout 1,500 migrants left Tapachula on Tuesday, headed straight for our border.\n\nSheinbaum's plan so far is to \"inform\" them there's no U.S. asylum. Not stop them. INFORM them.",
+      "text_excerpt": "LATEST UPDATE 🚨\n\nTrump will DOUBLE TARIFFS on Mexico unless Claudia Sheinbaum stops the caravan.\n\nAbout 1,500 migrants left Tapachula on Tuesday, headed straight for our border.\n\nSheinbaum's plan so far is to \"inform\" them there's no U.S. asylum. Not stop them. INFORM them.",
+      "url": "https://x.com/theletter17_/status/2120880653470191868",
+      "source_url": "https://x.com/theletter17_/status/2120880653470191868",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1427,
+      "source": "X",
+      "source_post_id": "2120880648470561176",
+      "author": "RyanAFournier",
+      "language": "en",
+      "published_at": "2026-11-12T14:05:25Z",
+      "first_detected_at": "2026-11-12T14:08:21Z",
+      "last_detected_at": "2026-11-12T14:08:21Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: President Trump threatens to DOUBLE tariffs on Mexico unless Sheinbaum stops migrant caravans heading toward the U.S.!\n\nRoughly 1,500 migrants are moving north.\n\nTom Homan warns they will NOT be released into America.\n\nTrump is drawing a HARD LINE at the border! 🇺🇸 https://t.co/Asnqdqz9Mc",
+      "text_excerpt": "🚨 BREAKING: President Trump threatens to DOUBLE tariffs on Mexico unless Sheinbaum stops migrant caravans heading toward the U.S.!\n\nRoughly 1,500 migrants are moving north.\n\nTom Homan warns they will NOT be released into America.\n\nTrump is drawing a HARD LINE at the border! 🇺🇸 https://t.co/Asnqdqz9Mc",
+      "url": "https://x.com/RyanAFournier/status/2120880648470561176",
+      "source_url": "https://x.com/RyanAFournier/status/2120880648470561176",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravans heading toward the U.S.! Roughly 1,500 migrants are moving"
+        ],
+        [
+          "movement",
+          "heading toward the U.S.! Roughly 1,500 migrants"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrant caravans heading toward the U.S.! Roughly 1,500 migrants are moving",
+        "heading toward the U.S.! Roughly 1,500 migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1428,
+      "source": "X",
+      "source_post_id": "2120880043182510542",
+      "author": "NationAfrica",
+      "language": "en",
+      "published_at": "2026-11-12T14:03:00Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "It has emerged that lawyer Abshir Abdi, who was abducted 11 days ago and found alive on Thursday, was discovered dumped at around 5am in Sololo, a border town in Marsabit County. \n\nAccording to police sources, locals initially mistook him for a refugee escaping violence in https://t.co/oI5e4rTcnT",
+      "text_excerpt": "It has emerged that lawyer Abshir Abdi, who was abducted 11 days ago and found alive on Thursday, was discovered dumped at around 5am in Sololo, a border town in Marsabit County. \n\nAccording to police sources, locals initially mistook him for a refugee escaping violence in https://t.co/oI5e4rTcnT",
+      "url": "https://x.com/NationAfrica/status/2120880043182510542",
+      "source_url": "https://x.com/NationAfrica/status/2120880043182510542",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1425,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117601687977495590",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-12T04:55:50Z",
+      "first_detected_at": "2026-11-12T14:07:50Z",
+      "last_detected_at": "2026-11-12T14:07:50Z",
+      "detection_count": 1,
+      "text": "Infomigrants Sénégal : près de 800 migrants, dans quatre pirogues, secourus au large du Sénégal en une journée Vendredi, un bateau avec 150 exilés à bord a chaviré au large du nord-ouest du pays, causant la mort d’au moins 39 exilés et la disparition d’une centaine d’autres. https:// mcinformactions.net/spip.php?a rticle233789&lang=fr # migrants # immigration # Sénégal # naufrages",
+      "text_excerpt": "Infomigrants Sénégal : près de 800 migrants, dans quatre pirogues, secourus au large du Sénégal en une journée Vendredi, un bateau avec 150 exilés à bord a chaviré au large du nord-ouest du pays, causant la mort d’au moins 39 exilés et la disparition d’une centaine d’autres. https:// mcinformactions.net/spip.php?a rticle233789&lang=fr # migrants # immigration # Sénégal # naufrages",
+      "url": "https://mastodon.top/@MarieClaudeS/117601687977495590",
+      "source_url": "https://mastodon.top/@MarieClaudeS/117601687977495590",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "bateau"
+        ],
+        [
+          "enforcement",
+          "secourus"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1431,
+      "source": "X",
+      "source_post_id": "2120869191095824731",
+      "author": "Athelstan2027",
+      "language": "en",
+      "published_at": "2026-11-12T13:19:53Z",
+      "first_detected_at": "2026-11-12T14:09:22Z",
+      "last_detected_at": "2026-11-12T14:09:22Z",
+      "detection_count": 1,
+      "text": "Damaging the property of organised criminal gangs smuggling migrants into Britain is now a criminal offence.\n\nAthelstan didn’t have this problem with the Vikings",
+      "text_excerpt": "Damaging the property of organised criminal gangs smuggling migrants into Britain is now a criminal offence.\n\nAthelstan didn’t have this problem with the Vikings",
+      "url": "https://x.com/Athelstan2027/status/2120869191095824731",
+      "source_url": "https://x.com/Athelstan2027/status/2120869191095824731",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggling migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling migrants"
       ],
       "signal_context_rejections": [],
       "migration_context": true,
@@ -975,6 +1769,673 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1429,
+      "source": "X",
+      "source_post_id": "2120879513798123520",
+      "author": "voicefreedau1a",
+      "language": "en",
+      "published_at": "2026-11-12T14:00:54Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "text_excerpt": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "source_url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "BORDER OPEN"
+        ],
+        [
+          "border_access",
+          "BORDER OPEN"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1430,
+      "source": "X",
+      "source_post_id": "2120877964598395387",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-12T13:54:45Z",
+      "first_detected_at": "2026-11-12T14:08:51Z",
+      "last_detected_at": "2026-11-12T14:08:51Z",
+      "detection_count": 1,
+      "text": "@KrugersDragon @DPJHodges The Crown Prosecution Service brought the charges after a Hampshire Constabulary investigation.\n\nThe damaged item was an empty rigid inflatable boat previously used by migrants that was adrift; no public reports name a specific owner, and the boat was returned to France.",
+      "text_excerpt": "@KrugersDragon @DPJHodges The Crown Prosecution Service brought the charges after a Hampshire Constabulary investigation.\n\nThe damaged item was an empty rigid inflatable boat previously used by migrants that was adrift; no public reports name a specific owner, and the boat was returned to France.",
+      "url": "https://x.com/grok/status/2120877964598395387",
+      "source_url": "https://x.com/grok/status/2120877964598395387",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1426,
+      "source": "X",
+      "source_post_id": "2120880653470191868",
+      "author": "theletter17_",
+      "language": "en",
+      "published_at": "2026-11-12T14:05:26Z",
+      "first_detected_at": "2026-11-12T14:08:21Z",
+      "last_detected_at": "2026-11-12T14:08:21Z",
+      "detection_count": 1,
+      "text": "LATEST UPDATE 🚨\n\nTrump will DOUBLE TARIFFS on Mexico unless Claudia Sheinbaum stops the caravan.\n\nAbout 1,500 migrants left Tapachula on Tuesday, headed straight for our border.\n\nSheinbaum's plan so far is to \"inform\" them there's no U.S. asylum. Not stop them. INFORM them.",
+      "text_excerpt": "LATEST UPDATE 🚨\n\nTrump will DOUBLE TARIFFS on Mexico unless Claudia Sheinbaum stops the caravan.\n\nAbout 1,500 migrants left Tapachula on Tuesday, headed straight for our border.\n\nSheinbaum's plan so far is to \"inform\" them there's no U.S. asylum. Not stop them. INFORM them.",
+      "url": "https://x.com/theletter17_/status/2120880653470191868",
+      "source_url": "https://x.com/theletter17_/status/2120880653470191868",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1427,
+      "source": "X",
+      "source_post_id": "2120880648470561176",
+      "author": "RyanAFournier",
+      "language": "en",
+      "published_at": "2026-11-12T14:05:25Z",
+      "first_detected_at": "2026-11-12T14:08:21Z",
+      "last_detected_at": "2026-11-12T14:08:21Z",
+      "detection_count": 1,
+      "text": "🚨 BREAKING: President Trump threatens to DOUBLE tariffs on Mexico unless Sheinbaum stops migrant caravans heading toward the U.S.!\n\nRoughly 1,500 migrants are moving north.\n\nTom Homan warns they will NOT be released into America.\n\nTrump is drawing a HARD LINE at the border! 🇺🇸 https://t.co/Asnqdqz9Mc",
+      "text_excerpt": "🚨 BREAKING: President Trump threatens to DOUBLE tariffs on Mexico unless Sheinbaum stops migrant caravans heading toward the U.S.!\n\nRoughly 1,500 migrants are moving north.\n\nTom Homan warns they will NOT be released into America.\n\nTrump is drawing a HARD LINE at the border! 🇺🇸 https://t.co/Asnqdqz9Mc",
+      "url": "https://x.com/RyanAFournier/status/2120880648470561176",
+      "source_url": "https://x.com/RyanAFournier/status/2120880648470561176",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant caravans heading toward the U.S.! Roughly 1,500 migrants are moving"
+        ],
+        [
+          "movement",
+          "heading toward the U.S.! Roughly 1,500 migrants"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrant",
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrant caravans heading toward the U.S.! Roughly 1,500 migrants are moving",
+        "heading toward the U.S.! Roughly 1,500 migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1428,
+      "source": "X",
+      "source_post_id": "2120880043182510542",
+      "author": "NationAfrica",
+      "language": "en",
+      "published_at": "2026-11-12T14:03:00Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "It has emerged that lawyer Abshir Abdi, who was abducted 11 days ago and found alive on Thursday, was discovered dumped at around 5am in Sololo, a border town in Marsabit County. \n\nAccording to police sources, locals initially mistook him for a refugee escaping violence in https://t.co/oI5e4rTcnT",
+      "text_excerpt": "It has emerged that lawyer Abshir Abdi, who was abducted 11 days ago and found alive on Thursday, was discovered dumped at around 5am in Sololo, a border town in Marsabit County. \n\nAccording to police sources, locals initially mistook him for a refugee escaping violence in https://t.co/oI5e4rTcnT",
+      "url": "https://x.com/NationAfrica/status/2120880043182510542",
+      "source_url": "https://x.com/NationAfrica/status/2120880043182510542",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1425,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117601687977495590",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-12T04:55:50Z",
+      "first_detected_at": "2026-11-12T14:07:50Z",
+      "last_detected_at": "2026-11-12T14:07:50Z",
+      "detection_count": 1,
+      "text": "Infomigrants Sénégal : près de 800 migrants, dans quatre pirogues, secourus au large du Sénégal en une journée Vendredi, un bateau avec 150 exilés à bord a chaviré au large du nord-ouest du pays, causant la mort d’au moins 39 exilés et la disparition d’une centaine d’autres. https:// mcinformactions.net/spip.php?a rticle233789&lang=fr # migrants # immigration # Sénégal # naufrages",
+      "text_excerpt": "Infomigrants Sénégal : près de 800 migrants, dans quatre pirogues, secourus au large du Sénégal en une journée Vendredi, un bateau avec 150 exilés à bord a chaviré au large du nord-ouest du pays, causant la mort d’au moins 39 exilés et la disparition d’une centaine d’autres. https:// mcinformactions.net/spip.php?a rticle233789&lang=fr # migrants # immigration # Sénégal # naufrages",
+      "url": "https://mastodon.top/@MarieClaudeS/117601687977495590",
+      "source_url": "https://mastodon.top/@MarieClaudeS/117601687977495590",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "bateau"
+        ],
+        [
+          "enforcement",
+          "secourus"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1431,
+      "source": "X",
+      "source_post_id": "2120869191095824731",
+      "author": "Athelstan2027",
+      "language": "en",
+      "published_at": "2026-11-12T13:19:53Z",
+      "first_detected_at": "2026-11-12T14:09:22Z",
+      "last_detected_at": "2026-11-12T14:09:22Z",
+      "detection_count": 1,
+      "text": "Damaging the property of organised criminal gangs smuggling migrants into Britain is now a criminal offence.\n\nAthelstan didn’t have this problem with the Vikings",
+      "text_excerpt": "Damaging the property of organised criminal gangs smuggling migrants into Britain is now a criminal offence.\n\nAthelstan didn’t have this problem with the Vikings",
+      "url": "https://x.com/Athelstan2027/status/2120869191095824731",
+      "source_url": "https://x.com/Athelstan2027/status/2120869191095824731",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggling migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1429,
+      "source": "X",
+      "source_post_id": "2120879513798123520",
+      "author": "voicefreedau1a",
+      "language": "en",
+      "published_at": "2026-11-12T14:00:54Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "text_excerpt": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "source_url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "BORDER OPEN"
+        ],
+        [
+          "border_access",
+          "BORDER OPEN"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1429,
+      "source": "X",
+      "source_post_id": "2120879513798123520",
+      "author": "voicefreedau1a",
+      "language": "en",
+      "published_at": "2026-11-12T14:00:54Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "text_excerpt": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "source_url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "BORDER OPEN"
+        ],
+        [
+          "border_access",
+          "BORDER OPEN"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1429,
+      "source": "X",
+      "source_post_id": "2120879513798123520",
+      "author": "voicefreedau1a",
+      "language": "en",
+      "published_at": "2026-11-12T14:00:54Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "text_excerpt": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "source_url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "BORDER OPEN"
+        ],
+        [
+          "border_access",
+          "BORDER OPEN"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120879513798123520"
+      ],
+      "related_authors": [
+        "voicefreedau1a"
+      ],
+      "related_urls": [
+        "https://x.com/voicefreedau1a/status/2120879513798123520"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1429,
+      "source": "X",
+      "source_post_id": "2120879513798123520",
+      "author": "voicefreedau1a",
+      "language": "en",
+      "published_at": "2026-11-12T14:00:54Z",
+      "first_detected_at": "2026-11-12T14:08:22Z",
+      "last_detected_at": "2026-11-12T14:08:22Z",
+      "detection_count": 1,
+      "text": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "text_excerpt": "🚨OH. MY. GOSH!!!!\n\nNearly 2,000 migrants left Tapachula, Mexico on Tuesday, walking north in a caravan, just DAYS after Democrats won the midterms.\n\nSome of them are OPENLY TELLING REPORTERS that they hope the Democrats winning means that the BORDER OPEN. https://t.co/XK58lP16hw",
+      "url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "source_url": "https://x.com/voicefreedau1a/status/2120879513798123520",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "BORDER OPEN"
+        ],
+        [
+          "border_access",
+          "BORDER OPEN"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2120879513798123520"
+      ],
+      "related_authors": [
+        "voicefreedau1a"
+      ],
+      "related_urls": [
+        "https://x.com/voicefreedau1a/status/2120879513798123520"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
