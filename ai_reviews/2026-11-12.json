@@ -672,6 +672,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T22:01:03.372262+00:00"
+    },
+    "information:26495": {
+      "hu_text": "🚨 Danny Tommo bűnösnek vallotta magát – de komoly kérdések várnak megválaszolásra! Daniel Thomas, ismertebb nevén Danny Tommo, bűnösnek vallotta magát rongálás miatt, miután átvágott egy felfújható migráns csónakot az Angol Csatornában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét bűncselekményről szól, de nincs megerősített bizonyíték vagy hivatalos forrás a bűnösségre vagy az esemény részleteire. Ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:17.924116+00:00"
+    },
+    "information:26508": {
+      "hu_text": "Nem. Mexikó nem ad ki engedélyeket embercsempészeknek vagy csempészeknek a vízi határátlépéshez a saját oldalán. Az embercsempészet illegális a mexikói törvények szerint. A kartellek és a csempészek hivatalos engedélyezési rendszer nélkül működnek. Mexikói hatóságok és olyan csoportok, mint a Grupos Beta néha segítenek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a mexikói törvényekről és hatósági gyakorlatról szól, de nincs hivatalos dokumentum vagy megerősített forrás. Ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:17.924135+00:00"
+    },
+    "record:1980940690:16674": {
+      "hu_text": "A Hanti-Manszijszk Autonóm Körzet (ХМАО) tapasztalatai az illegális és helyettesítő migráció elleni küzdelemben: 2026 első kilenc hónapjában 51 845 külföldi lépett be a régióba, ami 22,9%-kal kevesebb az előző év azonos időszakához képest. A migránsok munkavállalása 27 gazdasági ágazatban tiltott, 2027-től ez 30-ra bővül. Az idegenrendészeti intézkedések száma jelentősen nőtt, például a kitoloncolások száma hatszorosára emelkedett (343-ról 2135-re).",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletes statisztikai adatokat tartalmaz a migrációs intézkedésekről egy orosz régióban, amelyek fontosak a migrációs helyzet megértéséhez, de nincs hivatalos forrás vagy megerősítés. Ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:17.924138+00:00"
+    },
+    "record:1983050450:25501": {
+      "hu_text": "A Hanti-Manszijszk Autonóm Körzet (ХМАО) beszámolt az illegális migráció elleni küzdelemről: 2026 első kilenc hónapjában 51 845 külföldi érkezett, ami 22,9%-os csökkenés az előző évhez képest. A munkavállalási tilalom 27-ről 30 gazdasági ágazatra bővül 2027-től. A kitoloncolások száma hatszorosára nőtt, az engedélyek visszavonása másfélszeresére, az állampolgársági kérelmek elutasítása pedig 7,2-szeresére emelkedett.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanazokat a migrációs intézkedéseket és statisztikákat tartalmazza, mint az előző rekord, fontos a migrációs helyzet megértéséhez, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:17.924141+00:00"
+    },
+    "record:2120994625787687423": {
+      "hu_text": "A szomálik elsősorban szomáli nyelven beszélnek (kelet-kusita nyelv), nem arabul. Az arab másodlagos hivatalos nyelv, amely az iszlámhoz és az oktatáshoz kötődik, de nem a mindennapi beszéd nyelve a legtöbb ember számára. Eredetileg nem voltak muszlimok; az iszlám a 7. században érkezett a part menti kereskedelem és korai bevándorlók révén, majd terjedt el.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi és nyelvi háttérinformációkat tartalmaz, amelyek nem migrációs események vagy politikai állítások, ezért alacsony prioritású, de ellenőrzésre szorulhat a pontosság miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:17.924143+00:00"
+    },
+    "record:2120996394466967769": {
+      "hu_text": "A parti őrség több túlzsúfolt migráns hajót állított meg a Mona-szorosban, Hispaniola és Puerto Rico között 2026 augusztusa óta, egyes hajókon akár 75 emberrel.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági információ migránsok mozgásáról egy ismert útvonalon, de nincs hivatalos megerősítés vagy részletes bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:17.924146+00:00"
     }
   },
   "legacy_reviews": {}
