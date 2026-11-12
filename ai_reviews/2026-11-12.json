@@ -254,6 +254,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T04:42:10.087241+00:00"
+    },
+    "telegram:1604168769:12590": {
+      "hu_text": "Tula városában négy, 15 és 18 év közötti fiatalt fogtak el, akik migránsok és helyiek ellen követtek el támadásokat. A csoport tagjait súlyos bűncselekményekkel, köztük fogyatékkal élő személy megölésével, megalázással és migránsok bántalmazásával vádolták, és 4-től 9,5 évig terjedő szabadságvesztésre ítélték.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét bűncselekményekről és ítéletekről számol be, de nincs független forrás vagy bizonyíték a hitelesség megerősítésére, ezért ellenőrizetlennek minősül. A téma társadalmi diskurzus szempontjából releváns.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:18.279673+00:00"
+    },
+    "telegram:1604168769:12591": {
+      "hu_text": "Kalinyingrád régióban 2027. január 1-jétől emelik a munkavállalói engedély havi díját: a magánszemélyeknek dolgozó migránsoknak havonta 16 864 rubelt kell fizetniük, míg az általános havi díj 11 904 rubel lesz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs szabályozással kapcsolatos díjemelést közöl, de nincs hivatalos megerősítés vagy forrás, ezért ellenőrizetlen. Fontos a migrációs politika szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:18.279692+00:00"
+    },
+    "telegram:1604168769:12592": {
+      "hu_text": "Az orosz Állami Duma képviselői javasolják, hogy a Jugra régióban bevezetett migránsokra vonatkozó szociális juttatások és kedvezmények megszüntetését, valamint a munkahelyek korlátozását országos szinten is alkalmazzák. A szigorú ellenőrzések és korlátozások hatására Jugrában 23%-kal csökkent a migránsok száma, és 2027. január 1-jétől a munkavállalásuk tiltott ágazatok listája 30-ra bővül.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs szabályozás országos kiterjesztéséről szól, ami jelentős hatással lehet a migrációs helyzetre, de nincs hivatalos megerősítés, ezért ellenőrizetlen. Fontos a migrációs politika és jogi környezet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:18.279697+00:00"
+    },
+    "telegram:1604168769:12593": {
+      "hu_text": "Vlagyimir városában a sofőrhiány miatt külföldi sofőröket terveznek alkalmazni a tömegközlekedésben. Jelenleg az autóbuszsofőr-állomány 72,6%-os, a trolibuszsofőr-állomány pedig 70%-os feltöltöttséggel működik.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsok foglalkoztatására vonatkozó szándékot közöl, de nincs hivatalos megerősítés, ezért ellenőrizetlen. Fontos a migránsok munkaerőpiaci helyzete szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T04:42:18.279701+00:00"
     }
   },
   "legacy_reviews": {}
