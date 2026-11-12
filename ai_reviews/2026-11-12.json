@@ -738,6 +738,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T22:01:17.924146+00:00"
+    },
+    "record:2120998519641170137": {
+      "hu_text": "@BrandonObiden @TexasTrump2024 Igen, a jelentés pontos. A mexikói hatóságok rendőri és Nemzeti Gárda kíséretet biztosítanak a \"Dios Con Nosotros\" karavánnak (kb. 800-1500 migráns), amely Chiapastól észak felé halad, valamint szállást biztosítanak önkormányzati helyszíneken. Helyi mexikói források megerősítik a kíséretet.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét állítást tesz a migránsok mozgásáról és a hatósági kíséret meglétéről, de nincs független, megbízható forrás általi megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:31.886565+00:00"
+    },
+    "record:mastodon_117604310651853064": {
+      "hu_text": "Bírósági határozatok ellenére a bevándorlókat továbbra is kitoloncolják. Forrás: Democracy Now.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás jogi kérdést érint, de a linkelt forrás ellenőrzése szükséges a hitelesség megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:31.886584+00:00"
+    },
+    "telegram:1261826972:54578": {
+      "hu_text": "A Kikötői Hatóság és a Kereskedelmi Kamara elemzik a migránsok kikötői letelepedésének hatását. A találkozón a kereskedőkkel a Muelle de Poniente bővítési területén tapasztalt problémákat tárgyalták, és előrehaladást értek el a 2027-es események szervezésében.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés helyi társadalmi-gazdasági hatásokat tárgyal, de nem tartalmaz konkrét migrációs eseményre vagy politikára vonatkozó bizonyított adatot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:31.886588+00:00"
+    },
+    "telegram:1604168769:12606": {
+      "hu_text": "Mi történik a kórházba került migránsok regisztrációjával? Ha egy külföldi állampolgár kórházba kerül Oroszországban, az intézmény ideiglenesen regisztrálja, de a beteg távozásakor a regisztráció megszűnik. A kórház elhagyása után a személynek 7 napon belül újra kell regisztrálnia lakcím szerint, ha Oroszországban kíván maradni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migránsok regisztrációs szabályairól szól Oroszországban, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:31.886591+00:00"
+    },
+    "telegram:1688600455:1192": {
+      "hu_text": "Hol lehet támogatást keresni, ha a stressz és szorongás nem múlik el? A háború elől menekülők alvászavarokat, fáradtságot, szorongást és koncentrációs nehézségeket tapasztalhatnak. Nem kell egyedül megbirkózniuk ezzel. Beszéljenek megbízható személlyel, tartsák meg a napi rutint, egyenek rendszeresen, sétáljanak, és szánjanak időt nyugtató, értelmes tevékenységekre. Ha az állapot nem javul vagy romlik, forduljanak háziorvoshoz, aki segít a megfelelő szakmai támogatás megtalálásában.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés általános mentális egészségügyi tanácsokat ad háborús menekültek számára, nem tartalmaz vitatható állítást, és a forrás megbízhatónak tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:31.886594+00:00"
+    },
+    "telegram:1980940690:16674": {
+      "hu_text": "Tapasztalatok a Hanti-Manszijszk Autonóm Körzet (HMAO) illegális és helyettesítő migráció elleni küzdelmében: 2026-ban 27 gazdasági ágazatban tiltották meg a migránsok foglalkoztatását, 2027-től 30-ra nő a tiltott tevékenységek száma. 2026 első kilenc hónapjában 51 845 külföldi lépett be a régióba, ami 22,9%-kal kevesebb az előző év azonos időszakához képest. A kitoloncoltak száma hatszorosára nőtt, az engedélyek visszavonása másfélszeresére, az állampolgársági kérelmek elutasítása pedig 7,2-szeresére emelkedett. Két évvel ezelőtt még más volt a helyzet. A szerző hangsúlyozza a rendszeres, őszinte munkát a hatékony eredmények érdekében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés részletes statisztikákat és intézkedéseket ismertet egy orosz régió migrációs politikájáról, de nincs független forrás általi megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T22:01:31.886596+00:00"
     }
   },
   "legacy_reviews": {}
