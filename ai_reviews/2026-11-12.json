@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-12T14:10:42.581946+00:00"
+    },
+    "record:2120879678986629136": {
+      "hu_text": "Egy férfi érkezett Párizs egyik repülőterére útlevél és menekültpapírok nélkül. Mivel nem rendelkezett jogi dokumentumokkal, Franciaország nem engedte be az országba, az Egyesült Királyság pedig nem engedte visszarepülni, így a repülőtér indulási várójában rekedt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági helyzet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:54.635573+00:00"
+    },
+    "record:2120880367263494599": {
+      "hu_text": "Nem! Franciaország megakadályozta, hogy több migránst deportáljanak az egy be, egy ki elv alapján, miközben elutasított jelölteket nem indokolt, derül ki egy jelentésből. Sokkal több kis hajós migránst lehetett volna deportálni, ha Franciaország együttműködőbb lett volna.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A jelentés állításai nem megerősítettek, és a forrás nem ismert, ezért ellenőrizetlennek minősül. Fontos a migrációs politika és jogi intézkedések megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:54.635593+00:00"
+    },
+    "record:2120880648470561176": {
+      "hu_text": "🚨 FRISS: Trump elnök megfenyegette, hogy megduplázza a Mexikóra kivetett vámokat, hacsak Sheinbaum meg nem állítja az USA felé tartó migránskaravánokat! Körülbelül 1500 migráns halad észak felé. Tom Homan figyelmeztet, hogy nem engedik be őket Amerikába. Trump kemény vonalat húz a határon! 🇺🇸",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai fenyegetés és migrációs mozgásról szóló állítás, amely fontos a határbiztonság és migrációs szándék megértéséhez, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:54.635598+00:00"
+    },
+    "record:2120880653470191868": {
+      "hu_text": "FRISSÍTÉS 🚨 Trump megduplázza a Mexikóra kivetett vámokat, ha Claudia Sheinbaum nem állítja meg a karavánt. Körülbelül 1500 migráns indult el Tapachulából, egyenesen az amerikai határ felé. Sheinbaum terve eddig az, hogy tájékoztatja őket arról, hogy nincs amerikai menedékjog, de nem állítja meg őket, csak tájékoztatja.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai és migrációs szándékot érintő állítás, amely fontos a határbiztonság és migrációs politika szempontjából, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:54.635602+00:00"
+    },
+    "record:2120881084955058455": {
+      "hu_text": "Migránskaraván halad át Mexikón, remélve az amerikai határpolitika változását. Ez nevetséges, és megmutatja, hol állnak a demokraták: nem lehet nyitott határokkal országot vezetni. Ezeket az embereket meg kell állítani a határon, és szükség van a hadsereg mozgósítására.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és társadalmi diskurzus, amely nem tartalmaz ellenőrizhető tényeket, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:10:54.635605+00:00"
+    },
+    "record:2120880043182510542": {
+      "hu_text": "Kiderült, hogy Abshir Abdi ügyvédet, akit 11 nappal ezelőtt elraboltak és csütörtökön élve találtak meg, körülbelül reggel 5 órakor hagyták magára Sololóban, a Marsabit megyei határvárosban. A rendőrségi források szerint a helyiek először menekültnek nézték, aki erőszak elől menekül.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték, ezért az ellenőrzöttségi státusz UNVERIFIED. Fontos lehet a migrációs útvonalak és biztonsági helyzet szempontjából, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-12T14:11:09.209014+00:00"
     }
   },
   "legacy_reviews": {}
