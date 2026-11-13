@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-13T02:21:46.767081+00:00"
+    },
+    "information:26565": {
+      "hu_text": "@RonWyden Több százezer migráns gyermek eltűnt a demokraták nyitott határpolitikája miatt, és bűnözők által kizsákmányolják őket. Nyíltan segítettél és támogatod a gyermekkereskedelmet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos, de nincs megerősített bizonyíték a gyermekkereskedelem támogatására vagy a tömeges eltűnésre, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:56.749410+00:00"
+    },
+    "record:2121050744283410710": {
+      "hu_text": "@Grantoffgrid54 Az esetek felnőtteket érintenek, nem gyermekügynököket. Sam Dastyari 4 évesen érkezett Iránból. Sunny Duong kb. 24 évesen menekültként érkezett Vietnamból. Ernest Wong kb. 19 évesen érkezett Hongkongból. Az A-csapat névtelen politikusának nincs nyilvános bevándorlási életkora. Egyikük sem volt gyermek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ részletes, de nem tartalmaz bizonyított adatokat, így ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:56.749428+00:00"
+    },
+    "record:2121063310753714264": {
+      "hu_text": "@locov6116 @DHSgov Több hírforrás (Reuters, Al Jazeera, AFP) megerősíti, hogy körülbelül 1000–1500 migráns karavánja indult el Tapachulából, Dél-Mexikóból észak felé, a félidős választások eredményeit megjelölve motivációként. Trump nyilvánosan figyelmeztette Mexikót és magasabb vámokkal fenyegetett.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több megbízható forrás is megerősíti a karaván elindulását, de a politikai fenyegetések és motivációk részben politikai vélemények, ezért részben ellenőrzöttnek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:56.749432+00:00"
+    },
+    "record:2121064669993738614": {
+      "hu_text": "@atrupar Körülbelül 1000–1500 migránsból álló csoport indult el Dél-Mexikóból az Egyesült Államok határa felé. - Google AI\n(Nem nagy csoportok és nem hatalmasak.)",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ általános, nincs további bizonyíték a pontos létszámra vagy célpontra, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:56.749435+00:00"
+    },
+    "record:2121065090938016082": {
+      "hu_text": "Körülbelül 1500 migráns indult el Tapachulából, Mexikóból, a guatemalai határ közeléből. Többségük Közép-Amerikából származik, és észak felé, az Egyesült Államok irányába tartanak. Elsődleges céljuk Mexikóváros, amely több mint 600 mérföldre van. Ez mindenképpen segíteni fog.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az információ részletes, de nincs megerősített forrás a pontos számokról vagy úticélról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:56.749437+00:00"
+    },
+    "telegram:1261826972:54588": {
+      "hu_text": "◼ A Podemos Ceuta lemond a kampány kezdő és záró rendezvényeiről a város \"mély rendellenessége\" miatt.\n\n➡ A párt elutasítja a választási gyűléseket, bírálja a bevándorlók elleni beszédeket, és a szomszédsági szolidaritást és az emberi jogokat hangsúlyozza.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hír egy politikai párt hivatalos állásfoglalását tartalmazza, amely ellenőrizhető és hiteles forrásból származik.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:56.749440+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
