@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-13T11:44:03.203896+00:00"
+    },
+    "telegram:1261826972:54596": {
+      "hu_text": "Ada Colau kritikája Pedro Sánchez felé a ceutai válság miatt: „Amikor valami ennyire súlyos történik, ott kell lenni.”\n\nA Frente Amplio jelöltje a november 29-i választásokra megkérdőjelezi a kormány válaszát a júliusi tömeges bevándorlói beáramlás után, és Marokkót okolja az események engedélyezéséért.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és kritika a spanyol kormány migrációs válságkezeléséről, de nincs közvetlen bizonyíték vagy tényállítás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:17.155401+00:00"
+    },
+    "telegram:1983050450:25512": {
+      "hu_text": "Egy pétervári 15 éves migráns iskolás fiú megölte az édesanyját, majd a holttestet egy bőröndben elrejtette az erdőben. November elején eltűnt a 38 éves Shahnóza A., akinek a testét később megtalálták egy bőröndben egy ökotúránál a Jukkovka-patak mentén, Pargolovo településen. A gyilkosság gyanúsítottjaként a fiú került őrizetbe, aki anyjával gyakran veszekedett a dohányzás miatt.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Bűnügyi eset, amely nem kapcsolódik közvetlenül migrációs eseményhez vagy témához, ezért irrelevánsnak minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:17.155417+00:00"
+    },
+    "telegram:2240007404:925": {
+      "hu_text": "Csomagolók és címkézők munkát kínálnak a MIXIT kozmetikai és parfüm raktárában, Moszkva környékén, Eszipovó faluban, szállással és étkezéssel. Fizetés 108 900–217 800 rubel váltásra, heti előleggel, hivatalos munkaszerződéssel, 30-60 napos váltásos munkarendben. Jelentkezés Telegramon keresztül.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Munkalehetőség migránsok számára, de nincs bizonyíték a valóságára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:17.155421+00:00"
+    },
+    "telegram:2240007404:926": {
+      "hu_text": "Gépi fejőgép kezelői állás szállással és patentdíj fizetésével Sergijev Poszad környékén, Kuzmino faluban. Fizetés nettó 100 000 rubeltől, munkakör: gépi fejés, berendezés tisztítása, állatgondozás. A munkáltató támogatja a patentdíj kifizetését, szállás biztosított kollégiumban. Jelentkezés telefonon vagy Telegramon.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Migránsoknak szóló munkalehetőség, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:17.155445+00:00"
+    },
+    "telegram:2240007404:927": {
+      "hu_text": "Raktári összeállító munkakör Moszkvában és környékén, havi 190 000 rubel fizetéssel, ingyenes szállással és étkezéssel. Heti kifizetések, napi 6 vagy 7 napos munkarend, speciális ruházat biztosított, hivatalos munkaszerződés. Tapasztalat nem szükséges, betanítást biztosítanak. Jelentkezés telefonon vagy Telegramon.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés migránsoknak, nincs bizonyíték a hitelességére, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:17.155448+00:00"
+    },
+    "telegram:2240007404:928": {
+      "hu_text": "Monolit munkások keresése betonüzembe Sergijev Poszadban, fizetés 100 000–150 000 rubel között, ingyenes szállás, hivatalos munkaszerződés, patentdíj támogatás, utazási költségtérítés hosszabb munkaviszony esetén. Munkarend: napi 11 órás nappali műszak, nincs éjszakai műszak. Jelentkezés telefonon vagy Telegramon, videó is elérhető.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Munkalehetőség migránsoknak, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:17.155451+00:00"
     }
   },
   "legacy_reviews": {}
