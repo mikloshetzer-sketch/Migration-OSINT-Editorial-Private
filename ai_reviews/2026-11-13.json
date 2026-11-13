@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-13T02:21:56.749440+00:00"
+    },
+    "information:26608": {
+      "hu_text": "Gyermekeim, miközben magas jövedelemadót fizetnek, még mindig diákhitelekkel küzdenek, amelyeknek hatalmas kamatai vannak. Nehezen tudnak megtakarítani első otthonukra, miközben magas bérleti díjakat fizetnek. Miért dolgoznak olyan keményen, adósságokkal a nyakukban, amikor az illegális migránsok hajón érkeznek ide, és mindent ingyen kapnak?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményt és állítást tartalmaz, amely nem ellenőrzött tényeken alapul, különösen az illegális migránsok állítólagos ingyenes ellátására vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:03.203863+00:00"
+    },
+    "information:26612": {
+      "hu_text": "@kingbush0071 @RealDannyTommo Tehát mert egy hajót állítólag embercsempészek használtak, bárki szabadon tönkreteheti azt? 😂 Így nem működik a törvény, te teljes bohóc. Nem kapsz mentességet a rongálásért csak azért, mert az Union Jack zászlóba burkolózol és migránsokról kiabálsz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és reakció egy korábbi állításra, nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:03.203883+00:00"
+    },
+    "information:26616": {
+      "hu_text": "Egy kis hajón érkezett migránst kémkedésért ítéltek el Irán javára. Két férfit, akik kémkedés miatt bűnösnek találtak, engedélyeztek a brit tartózkodásra illegális érkezésük után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás egy migráns kémkedési ügyről, amely fontos biztonsági kérdés, de nincs megerősített forrás vagy bizonyíték a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:03.203888+00:00"
+    },
+    "information:26620": {
+      "hu_text": "@TheDemocrats Hány migráns hal meg az út során a határhoz? Hány embercsempészést hagytok figyelmen kívül vagy segítetek elő, ami évente több ezer halált okoz? Kíméljetek meg a demagógiátoktól, demokrata pártiak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és vádaskodás, nem tartalmaz konkrét, ellenőrizhető adatokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:03.203891+00:00"
+    },
+    "information:26624": {
+      "hu_text": "A civil szervezetek már mozgósítják a migráns karavánokat észak felé, amint a demokraták újra megnyitják a határt. A nemzetközi csempész hálózatok percek alatt reagáltak a választási eredményekre, nem hónapok alatt. Nyitott határok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a civil szervezetek és csempész hálózatok migrációs tevékenységéről, amely nem bizonyított, politikai kontextusban elhangzott vélemény.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:03.203894+00:00"
+    },
+    "record:2121199743380648288": {
+      "hu_text": "MIÉRT NEM TETTED MEG, AMIKOR HATALMON VOLTÁL? DAVID CAMERON ELLENZÉKET KAP A EURÓPAI EMBERI JOGI EGYEZMÉNY (ECHR) ELHAGYÁSÁRA IRÁNYULÓ FELHÍVÁSA MIATT. A The Critic Tom Jones kihívja David Cameron volt miniszterelnököt, aki a brit kormányt arra szólította fel, hogy hagyja el az ECHR-t a kis hajóval érkező migránsok kezelése érdekében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és vita egy jogi-politikai kérdésről, nincs konkrét tényállítás vagy bizonyíték a szövegben.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T11:44:03.203896+00:00"
     }
   },
   "legacy_reviews": {}
