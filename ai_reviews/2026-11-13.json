@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-13",
+  "reviews": {
+    "group:716": {
+      "hu_text": "@Grantoffgrid54 Az esetek felnőtteket érintenek, nem gyerekügynököket. Sam Dastyari 4 éves korában érkezett Iránból. Sunny Duong kb. 24 évesen menekültként érkezett Vietnamból. Ernest Wong kb. 19 évesen érkezett Hongkongból. Az A-csapat névtelen politikusának nincs nyilvános bevándorlási életkora. Egyikük sem volt...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások személyes bevándorlási életkorokra vonatkoznak, de nincs megerősített forrás vagy bizonyíték. A szöveg részleges, így nem teljesen világos a kontextus.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:46.767034+00:00"
+    },
+    "information:26548": {
+      "hu_text": "@welshmaan Kérdés: \"Valaki jelentkezett a csónak tulajdonosaként, amit Danny Tommo megrongált a csatornában?\" Válasz: \"A nyilvános jelentések szerint nincs hír arról, hogy bárki jelentkezett volna tulajdonosként, és nincs jel arra, hogy az ügyészség azonosított volna ilyet. A beszámolók a csónakot így írják le...\"",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem migrációs eseményhez vagy témához kapcsolódik, hanem egy csónak tulajdonjogával kapcsolatos kérdésről szól.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:46.767055+00:00"
+    },
+    "information:26550": {
+      "hu_text": "Két illegális bevándorlót, akik kis csónakkal és teherautóval érkeztek az Egyesült Királyságba, kémkedéssel vádoltak Irán javára, és bűnösnek találták őket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos bűncselekményről szól, amely migrációs kontextusban releváns, de nincs megerősített forrás vagy további bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:46.767059+00:00"
+    },
+    "information:26560": {
+      "hu_text": "A képzés gyakorlati készségekkel látta el a résztvevőket, hogy hatékonyan tudjanak utazókat értékelni, interjútechnikákat alkalmazni, felismerni az emberkereskedelem és migránscsempészet jeleit, valamint megérteni a sérülékeny migránsok megfelelő továbbirányítási útvonalait.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A képzésről szóló információ releváns a migrációs védelem és emberi jogok szempontjából, de nincs további bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:46.767062+00:00"
+    },
+    "information:26561": {
+      "hu_text": "\"A bevándorlási tisztviselők gyakran az elsők között ismerik fel az emberkereskedelem és migránscsempészet jeleit az utazók feldolgozása során\" – emelte ki Ariffadilah Bin Samrin, a malajziai Határvédelmi és Ellenőrzési Ügynökség képviselője.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az idézet releváns a határbiztonság és emberkereskedelem felismerése témában, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:46.767079+00:00"
+    },
+    "information:26564": {
+      "hu_text": "@elocin_x @chirreointenso @daejonbuckley @marianalesandra Az irreguláris migrációs útvonalakat gyakran kartellek irányítják, amelyek profitálnak a csempészetből és gyakran kizsákmányolják a migránsokat emberkereskedelem, kényszermunka vagy drogok szállítása révén. A nők és kísérő nélküli kiskorúak különösen nagy kockázatnak vannak kitéve az út során és azt követően. Szövetségi adatok mutatják...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások fontos társadalmi és biztonsági kérdéseket érintenek a migrációval kapcsolatban, de nincs megerősített forrás vagy bizonyíték a hitelességhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T02:21:46.767081+00:00"
+    }
+  }
+}
