@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-13T11:44:17.155451+00:00"
+    },
+    "group:717": {
+      "hu_text": "@Bbbbyoip @welshmaan Biztos, hogy a hajó és a migránsok együtt tartoznak? Ha a migránsokat brit vizeken brit mentők mentették ki, akkor a hajónak is biztosan Nagy-Britanniába kellene kerülnie?",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy véleményen alapuló kérdés, amely nem tartalmaz konkrét tényeket vagy bizonyítékokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:39.102159+00:00"
+    },
+    "group:718": {
+      "hu_text": "2026. november 12-ig 216 139 illegális migráns érkezett kis hajókon. Az elmúlt 7 napban 924 migráns érkezett kis hajóval. Ha egy érkező élettartamra vetített nettó költségét 350 000 fontban feltételezzük, akkor az elmúlt 7 nap érkezéseinek költsége összesen 323,4 millió font lesz.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számadatokat és költségbecslést tartalmaz, de nincs megadva forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:39.102181+00:00"
+    },
+    "information:26662": {
+      "hu_text": "A Kanári-szigeteket migránshajók árasztják el: 49 hajó, 4587 érkező mindössze hat nap alatt. A Frontex szerint az októberi érkezések négyszer magasabbak voltak, mint egy évvel korábban. Hogyan lehet ezt „ellenőrzés alatt” tartani?",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és Frontex adatokra való hivatkozást tartalmaz, de nincs közvetlen bizonyíték vagy forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:39.102185+00:00"
+    },
+    "information:26676": {
+      "hu_text": "Az USS Durham (LKA-114) amfíbia teherszállító hajó legénysége vietnami menekülteket vesz fel egy kis hajóról. A menekülteket később mechanizált partraszállító hajóval (LCM) szállítják át a Transcolorado teherhajóra. Dél-kínai-tenger, 1975 április.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás történelmi eseményt ír le, amely jól dokumentált és hiteles forrásból származik, ezért ellenőrzöttnek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:39.102188+00:00"
+    },
+    "information:26677": {
+      "hu_text": "Egy munkáspárti személy a @gbnews-en azt állítja, hogy 90 000 hajóval érkezett migráns szétszórva az országban. Szerinte el kell kezdeni a visszaküldést, meg kell állítani a finanszírozást, ingyenes vagy nyitott buszokat kell biztosítani az EU-ba, illetve hajókat Afrikába, mert nem engedhetik meg maguknak őket. Szükség van az Egyesült Királyság ICE-re (bevándorlási és vámhatóság). Azt is állítja, hogy erőszaktevők szöktek meg.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai véleményeket és becsléseket tartalmaz, de nincs bizonyíték a számokra vagy az erőszaktevők állítására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:39.102190+00:00"
+    },
+    "information:26678": {
+      "hu_text": "Spanyolország a túlterhelt Kanári-szigetekről repülővel szállít migránsokat a szárazföldre. Egy ilyen járat Gran Canariáról Sevillába érkezett november 10-én, miközben novemberben több ezer hajóval érkező migráns érkezett, főként fiatal férfiak Szenegálból, Gambiaiából és a környező országokból.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét eseményt és migrációs adatokat tartalmaz, de nincs közvetlen bizonyíték vagy hivatalos forrás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:39.102192+00:00"
     }
   },
   "legacy_reviews": {}
