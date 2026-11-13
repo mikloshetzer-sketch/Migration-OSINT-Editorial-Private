@@ -45,6 +45,72 @@
       "text": "@Grantoffgrid54 The cases involve adults, not child agents. \nSam Dastyari arrived from Iran at age 4. \nSunny Duong arrived from Vietnam as a refugee around age 24. \nErnest Wong arrived from Hong Kong around age 19. \nThe unnamed A-Team politician has no public immigration age details. \nNone were",
       "url": "https://x.com/grok/status/2121050744283410710",
       "source_url": "https://x.com/grok/status/2121050744283410710"
+    },
+    {
+      "id": 905,
+      "event_id": 905,
+      "source": "X",
+      "source_post_id": "2121310544049160479",
+      "author": "_BrianMankin_",
+      "published_at": "2026-11-13T18:33:40Z",
+      "collected_at": "2026-11-13T18:53:12Z",
+      "event_type": "RESCUE_OPERATION",
+      "signal_type": "RESCUE_OPERATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@Bbbbyoip @welshmaan Surely the boat and the migrants belong together?  If the migrants were rescued in British waters by British rescuers — surely the boat should also come to Britain?",
+      "url": "https://x.com/_BrianMankin_/status/2121310544049160479",
+      "source_url": "https://x.com/_BrianMankin_/status/2121310544049160479"
+    },
+    {
+      "id": 906,
+      "event_id": 906,
+      "source": "X",
+      "source_post_id": "2121305897527857446",
+      "author": "_charlie_cc",
+      "published_at": "2026-11-13T18:15:12Z",
+      "collected_at": "2026-11-13T18:53:12Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "216,139 illegal migrants have arrived via small boat as of 12 November 2026. \n\n924 migrants arrived via small boat in the last 7 days.\n\nIf we assume a lifetime net fiscal cost of £350,000 per arrival, the cost of the arrivals in just the last 7 days will total £323.4 million. https://t.co/DKXQPRGgx0",
+      "url": "https://x.com/_charlie_cc/status/2121305897527857446",
+      "source_url": "https://x.com/_charlie_cc/status/2121305897527857446"
+    },
+    {
+      "id": 907,
+      "event_id": 907,
+      "source": "X",
+      "source_post_id": "2121304812100698122",
+      "author": "grok",
+      "published_at": "2026-11-13T18:10:53Z",
+      "collected_at": "2026-11-13T18:54:06Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@zaradavi90241 @realMaalouf He was from Qaraqosh (also called Bakhdida) in Nineveh Governorate, northern Iraq. An ethnic Assyrian raised Syriac Catholic, he later became an atheist and arrived in Sweden as an Iraqi refugee.",
+      "url": "https://x.com/grok/status/2121304812100698122",
+      "source_url": "https://x.com/grok/status/2121304812100698122"
     }
   ],
   "event_groups": [
@@ -76,6 +142,64 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-13T02:21:20Z",
       "updated_at": "2026-11-13T02:21:20Z"
+    },
+    {
+      "id": 717,
+      "group_id": 717,
+      "event_type": "RESCUE_OPERATION",
+      "dominant_event_type": "RESCUE_OPERATION",
+      "title": "RESCUE_OPERATION",
+      "representative_text": "@Bbbbyoip @welshmaan Surely the boat and the migrants belong together?  If the migrants were rescued in British waters by British rescuers — surely the boat should also come to Britain?",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-13T18:33:40Z",
+      "last_seen": "2026-11-13T18:33:40Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-13T18:53:12Z",
+      "updated_at": "2026-11-13T18:53:12Z"
+    },
+    {
+      "id": 718,
+      "group_id": 718,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "216,139 illegal migrants have arrived via small boat as of 12 November 2026. \n\n924 migrants arrived via small boat in the last 7 days.\n\nIf we assume a lifetime net fiscal cost of £350,000 per arrival, the cost of the arrivals in just the last 7 days will total £323.4 million. https://t.co/DKXQPRGgx0",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-13T18:15:12Z",
+      "last_seen": "2026-11-13T18:15:12Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-13T18:53:12Z",
+      "updated_at": "2026-11-13T18:53:12Z"
     }
   ],
   "influence_signals": [
@@ -240,6 +364,128 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1437,
+      "source": "X",
+      "source_post_id": "2121307985490432506",
+      "author": "intelgun1",
+      "language": "en",
+      "published_at": "2026-11-13T18:23:30Z",
+      "first_detected_at": "2026-11-13T18:53:39Z",
+      "last_detected_at": "2026-11-13T18:53:39Z",
+      "detection_count": 1,
+      "text": "Turbat, Balochistan 🇵🇰 \n\nSecurity Forces in Turbat foiled a human trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children). They will be handed over to police for legal action as efforts continue to curb illegal migration routes toward Iran, https://t.co/gyWDi2W1cl https://t.co/JuoPOMmrwO",
+      "text_excerpt": "Turbat, Balochistan 🇵🇰 \n\nSecurity Forces in Turbat foiled a human trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children). They will be handed over to police for legal action as efforts continue to curb illegal migration routes toward Iran, https://t.co/gyWDi2W1cl https://t.co/JuoPOMmrwO",
+      "url": "https://x.com/intelgun1/status/2121307985490432506",
+      "source_url": "https://x.com/intelgun1/status/2121307985490432506",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1438,
+      "source": "X",
+      "source_post_id": "2121311018907549800",
+      "author": "ashtarismus",
+      "language": "en",
+      "published_at": "2026-11-13T18:35:33Z",
+      "first_detected_at": "2026-11-13T18:54:05Z",
+      "last_detected_at": "2026-11-13T18:54:05Z",
+      "detection_count": 1,
+      "text": "@grok How many migrants left? If 18k arrived surely there must've been some outflow",
+      "text_excerpt": "@grok How many migrants left? If 18k arrived surely there must've been some outflow",
+      "url": "https://x.com/ashtarismus/status/2121311018907549800",
+      "source_url": "https://x.com/ashtarismus/status/2121311018907549800",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants left? If 18k arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants left? If 18k arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -404,6 +650,128 @@
       "rules_version": "2.6",
       "priority_score": 48.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1437,
+      "source": "X",
+      "source_post_id": "2121307985490432506",
+      "author": "intelgun1",
+      "language": "en",
+      "published_at": "2026-11-13T18:23:30Z",
+      "first_detected_at": "2026-11-13T18:53:39Z",
+      "last_detected_at": "2026-11-13T18:53:39Z",
+      "detection_count": 1,
+      "text": "Turbat, Balochistan 🇵🇰 \n\nSecurity Forces in Turbat foiled a human trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children). They will be handed over to police for legal action as efforts continue to curb illegal migration routes toward Iran, https://t.co/gyWDi2W1cl https://t.co/JuoPOMmrwO",
+      "text_excerpt": "Turbat, Balochistan 🇵🇰 \n\nSecurity Forces in Turbat foiled a human trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children). They will be handed over to police for legal action as efforts continue to curb illegal migration routes toward Iran, https://t.co/gyWDi2W1cl https://t.co/JuoPOMmrwO",
+      "url": "https://x.com/intelgun1/status/2121307985490432506",
+      "source_url": "https://x.com/intelgun1/status/2121307985490432506",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1438,
+      "source": "X",
+      "source_post_id": "2121311018907549800",
+      "author": "ashtarismus",
+      "language": "en",
+      "published_at": "2026-11-13T18:35:33Z",
+      "first_detected_at": "2026-11-13T18:54:05Z",
+      "last_detected_at": "2026-11-13T18:54:05Z",
+      "detection_count": 1,
+      "text": "@grok How many migrants left? If 18k arrived surely there must've been some outflow",
+      "text_excerpt": "@grok How many migrants left? If 18k arrived surely there must've been some outflow",
+      "url": "https://x.com/ashtarismus/status/2121311018907549800",
+      "source_url": "https://x.com/ashtarismus/status/2121311018907549800",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants left? If 18k arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants left? If 18k arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "information_signals": [
@@ -816,9 +1184,308 @@
       "first_collected_at": "2026-11-13T11:42:47Z",
       "last_collected_at": "2026-11-13T11:42:47Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26662",
+      "timestamp": "2026-11-13T18:52:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121315162682536411",
+      "author": "ItsFederico",
+      "url": "https://x.com/ItsFederico/status/2121315162682536411",
+      "source_url": "https://x.com/ItsFederico/status/2121315162682536411",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "THE CANARY ISLANDS ARE BEING FLOODED BY MIGRANT BOATS.\n\n49 BOATS. 4587 ARRIVALS. IN JUST SIX DAYS.\n\nAnd Frontex says October arrivals on the route were FOUR TIMES higher than a year ago.\n\nSo tell me: how is this supposed to be “under control”?",
+      "text_excerpt": "THE CANARY ISLANDS ARE BEING FLOODED BY MIGRANT BOATS.\n\n49 BOATS. 4587 ARRIVALS. IN JUST SIX DAYS.\n\nAnd Frontex says October arrivals on the route were FOUR TIMES higher than a year ago.\n\nSo tell me: how is this supposed to be “under control”?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:52:44Z",
+      "last_collected_at": "2026-11-13T18:52:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26685",
+      "timestamp": "2026-11-13T18:33:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121310534087667967",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2121310534087667967",
+      "source_url": "https://x.com/grok/status/2121310534087667967",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@PenOfBishop @MikeSav51408235 @incatrea @YouTube No public reports of Gardaí investigations, arrests or prosecutions targeting Irish NGOs involved in migration advocacy or support. Enforcement focuses on criminal smuggling and trafficking networks (e.g. recent charges against individuals for hiding people in vehicles or",
+      "text_excerpt": "@PenOfBishop @MikeSav51408235 @incatrea @YouTube No public reports of Gardaí investigations, arrests or prosecutions targeting Irish NGOs involved in migration advocacy or support. Enforcement focuses on criminal smuggling and trafficking networks (e.g. recent charges against individuals for hiding people in vehicles or",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:53:39Z",
+      "last_collected_at": "2026-11-13T18:53:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26699",
+      "timestamp": "2026-11-13T18:32:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121310360573481320",
+      "author": "aligreen9999",
+      "url": "https://x.com/aligreen9999/status/2121310360573481320",
+      "source_url": "https://x.com/aligreen9999/status/2121310360573481320",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@UKLabour The 231 migrants returned under the Dublin Regulation in 2019 and 2020 accounted for approximately 2% to 2.5% of the total number of people who arrived via small boats during that specific period. \n\nLabour is gaslighting us.",
+      "text_excerpt": "@UKLabour The 231 migrants returned under the Dublin Regulation in 2019 and 2020 accounted for approximately 2% to 2.5% of the total number of people who arrived via small boats during that specific period. \n\nLabour is gaslighting us.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:54:06Z",
+      "last_collected_at": "2026-11-13T18:54:06Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26676",
+      "timestamp": "2026-11-13T18:23:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121307977156038773",
+      "author": "HistorylandHQ",
+      "url": "https://x.com/HistorylandHQ/status/2121307977156038773",
+      "source_url": "https://x.com/HistorylandHQ/status/2121307977156038773",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "sea",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Crewmen of the amphibious cargo ship USS Durham (LKA-114) take Vietnamese refugees aboard a small craft. The refugees will be transferred later by mechanized landing craft (LCM) to the freighter Transcolorado. South China Sea, April 1975. https://t.co/pH09LlnKjO",
+      "text_excerpt": "Crewmen of the amphibious cargo ship USS Durham (LKA-114) take Vietnamese refugees aboard a small craft. The refugees will be transferred later by mechanized landing craft (LCM) to the freighter Transcolorado. South China Sea, April 1975. https://t.co/pH09LlnKjO",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:53:12Z",
+      "last_collected_at": "2026-11-13T18:53:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26677",
+      "timestamp": "2026-11-13T18:20:48Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121307306784588137",
+      "author": "AlienPirate1",
+      "url": "https://x.com/AlienPirate1/status/2121307306784588137",
+      "source_url": "https://x.com/AlienPirate1/status/2121307306784588137",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "Labour guy on @gbnews reckons 90,000 boat migrants scattered across the country.. time to really start remigration deportation stop the funding.. ,free/ Open coaches back to EU , liners back to Africa they need gone we cannot afford them!\n\nWe need UK ICE \n\nRapists done a runner",
+      "text_excerpt": "Labour guy on @gbnews reckons 90,000 boat migrants scattered across the country.. time to really start remigration deportation stop the funding.. ,free/ Open coaches back to EU , liners back to Africa they need gone we cannot afford them!\n\nWe need UK ICE \n\nRapists done a runner",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:53:12Z",
+      "last_collected_at": "2026-11-13T18:53:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26678",
+      "timestamp": "2026-11-13T18:19:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121306912364867802",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2121306912364867802",
+      "source_url": "https://x.com/grok/status/2121306912364867802",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "arrival",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "@CharlesTolkien @youleeus3 @MarioNawfal Spain is transferring migrants from the overloaded Canary Islands to the mainland by plane. One such flight from Gran Canaria landed in Seville on Nov 10 amid a November surge of thousands of boat arrivals, mostly young men from Senegal, Gambia and nearby countries. Island",
+      "text_excerpt": "@CharlesTolkien @youleeus3 @MarioNawfal Spain is transferring migrants from the overloaded Canary Islands to the mainland by plane. One such flight from Gran Canaria landed in Seville on Nov 10 amid a November surge of thousands of boat arrivals, mostly young men from Senegal, Gambia and nearby countries. Island",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:53:12Z",
+      "last_collected_at": "2026-11-13T18:53:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26679",
+      "timestamp": "2026-11-13T18:18:53Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121306822728667169",
+      "author": "ABSonrOfVikings",
+      "url": "https://x.com/ABSonrOfVikings/status/2121306822728667169",
+      "source_url": "https://x.com/ABSonrOfVikings/status/2121306822728667169",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@FreedomDanville @vonderleyen @andyburnham Meanwhile the boat loads of migrants keep crossing the channel from France, @EmmanuelMacron and Burnham do nothing to stop this EU invasion. https://t.co/QmMKSQsllX",
+      "text_excerpt": "@FreedomDanville @vonderleyen @andyburnham Meanwhile the boat loads of migrants keep crossing the channel from France, @EmmanuelMacron and Burnham do nothing to stop this EU invasion. https://t.co/QmMKSQsllX",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:53:12Z",
+      "last_collected_at": "2026-11-13T18:53:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26703",
+      "timestamp": "2026-11-13T18:16:37Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121306254677348732",
+      "author": "SmithRatt76421",
+      "url": "https://x.com/SmithRatt76421/status/2121306254677348732",
+      "source_url": "https://x.com/SmithRatt76421/status/2121306254677348732",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@SenAlexPadilla @SecMullinDHS Sure…after we’ve vetted every migrant who arrived during Biden’s open borders.",
+      "text_excerpt": "@SenAlexPadilla @SecMullinDHS Sure…after we’ve vetted every migrant who arrived during Biden’s open borders.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T18:54:06Z",
+      "last_collected_at": "2026-11-13T18:54:06Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-13T11:43:27.778511+00:00",
+  "last_archived_at": "2026-11-13T18:54:12.572966+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -1171,6 +1838,87 @@
       ],
       "related_urls": [
         "https://x.com/NewYork_Insight/status/2121199743380648288"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1437,
+      "source": "X",
+      "source_post_id": "2121307985490432506",
+      "author": "intelgun1",
+      "language": "en",
+      "published_at": "2026-11-13T18:23:30Z",
+      "first_detected_at": "2026-11-13T18:53:39Z",
+      "last_detected_at": "2026-11-13T18:53:39Z",
+      "detection_count": 1,
+      "text": "Turbat, Balochistan 🇵🇰 \n\nSecurity Forces in Turbat foiled a human trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children). They will be handed over to police for legal action as efforts continue to curb illegal migration routes toward Iran, https://t.co/gyWDi2W1cl https://t.co/JuoPOMmrwO",
+      "text_excerpt": "Turbat, Balochistan 🇵🇰 \n\nSecurity Forces in Turbat foiled a human trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children). They will be handed over to police for legal action as efforts continue to curb illegal migration routes toward Iran, https://t.co/gyWDi2W1cl https://t.co/JuoPOMmrwO",
+      "url": "https://x.com/intelgun1/status/2121307985490432506",
+      "source_url": "https://x.com/intelgun1/status/2121307985490432506",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ],
+        [
+          "facilitation",
+          "trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "illegal migration"
+      ],
+      "high_value_matches": [
+        "human trafficking",
+        "trafficking attempt, detaining 82 undocumented Afghan nationals (including women and children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2121307985490432506"
+      ],
+      "related_authors": [
+        "intelgun1"
+      ],
+      "related_urls": [
+        "https://x.com/intelgun1/status/2121307985490432506"
       ],
       "related_sources": [
         "X"
