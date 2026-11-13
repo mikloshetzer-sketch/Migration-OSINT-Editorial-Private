@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-13T18:54:39.102192+00:00"
+    },
+    "information:26679": {
+      "hu_text": "@FreedomDanville @vonderleyen @andyburnham Eközben a migránsok hajónyi csoportjai folyamatosan átkelnek a csatornán Franciaországból, @EmmanuelMacron és Burnham nem tesz semmit, hogy megállítsák ezt az EU elleni inváziót.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és nem tartalmaz bizonyított tényeket, ezért ellenőrizetlennek minősül. A migrációs helyzetre vonatkozó konkrét adatokat nem közöl.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:52.101561+00:00"
+    },
+    "information:26685": {
+      "hu_text": "@PenOfBishop @MikeSav51408235 @incatrea @YouTube Nincsenek nyilvános jelentések arról, hogy a Garda (ír rendőrség) vizsgálatokat, letartóztatásokat vagy vádemeléseket folytatna ír civil szervezetek ellen, amelyek migrációs támogatással foglalkoznak. A hatósági fellépés a bűnözői csempész- és emberkereskedő hálózatokra összpontosít (például a közelmúltban vádat emeltek olyan személyek ellen, akik embereket rejtettek el járművekben).",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos jelentések hiányára utal, de nem tartalmaz konkrét bizonyítékot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:52.101581+00:00"
+    },
+    "information:26699": {
+      "hu_text": "@UKLabour 2019-ben és 2020-ban a Dublin-rendelet alapján visszaküldött 231 migráns a kis hajókon érkezők összlétszámának körülbelül 2-2,5%-át tette ki az adott időszakban. A Labour párt megtéveszt minket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás statisztikai adatokat közöl, de nincs megerősített forrása, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:52.101584+00:00"
+    },
+    "information:26703": {
+      "hu_text": "@SenAlexPadilla @SecMullinDHS Persze… miután átvizsgáltuk minden migránst, aki Biden nyitott határos politikája alatt érkezett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, irónia vagy szarkazmus, nem tényállítás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:52.101586+00:00"
+    },
+    "record:2121304812100698122": {
+      "hu_text": "Ő Qaraqoshból (más néven Bakhdida) származott, amely Észak-Irák Ninive tartományában található. Etnikailag asszír, szíriák katolikus neveltetésű volt, később ateista lett, és iraki menekültként érkezett Svédországba.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes háttérinformáció, amely nem tartalmaz vitatható vagy ellenőrizhető állítást, de nincs megerősített forrása.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:52.101589+00:00"
+    },
+    "record:2121305897527857446": {
+      "hu_text": "2026. november 12-ig összesen 216 139 illegális migráns érkezett kis hajókon. Az elmúlt 7 napban 924 migráns érkezett kis hajóval. Ha egy érkező élettartamra vetített nettó költségét 350 000 fontban becsüljük, akkor az elmúlt 7 nap érkezéseinek költsége összesen 323,4 millió font lesz.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és gazdasági becslést tartalmaz, amelyek fontosak a migrációs események megértéséhez, de nincs megerősített forrása, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:54:52.101591+00:00"
     }
   },
   "legacy_reviews": {}
