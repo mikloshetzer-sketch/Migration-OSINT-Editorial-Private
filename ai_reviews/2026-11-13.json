@@ -397,6 +397,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-13T18:54:52.101591+00:00"
+    },
+    "record:2121307985490432506": {
+      "hu_text": "Turbatban, Balochistan tartományban a biztonsági erők megakadályoztak egy embercsempészeti kísérletet, és 82 irreguláris afgán állampolgárt (köztük nőket és gyerekeket) tartóztattak le. A személyeket a rendőrségnek adják át jogi eljárás céljából, miközben folytatódnak az illegális migrációs útvonalak Irán felé történő visszaszorítására irányuló erőfeszítések.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs embercsempészettel kapcsolatos, fontos a határbiztonság és a migrációs útvonalak ellenőrzése szempontjából. Az információt nem ellenőrizték független forrásból, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:55:06.420516+00:00"
+    },
+    "record:2121310544049160479": {
+      "hu_text": "Biztos, hogy a hajó és a migránsok együtt tartoznak? Ha a migránsokat brit vizeken brit mentők mentették ki, akkor a hajónak is Nagy-Britanniába kellene kerülnie?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy kérdés a migránsok és mentőhajó kapcsolatáról, nem tényállítás. Nem igényel ellenőrzést, alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:55:06.420536+00:00"
+    },
+    "record:2121311018907549800": {
+      "hu_text": "Hány migráns távozott? Ha 18 ezer érkezett, akkor biztosan volt némi kiáramlás is.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés a migrációs mozgásról, nem tényállítás. Nem igényel ellenőrzést, alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:55:06.420539+00:00"
+    },
+    "telegram:1261826972:54616": {
+      "hu_text": "◼️ A \"hamis hír\", amely megelőzte a ceutai inváziót és Sánchez dilemmája arról, hogy \"lőni kell-e\" az elkerülés érdekében\n\n➡ A kormányfő egy Jordi Wilddal készült interjúban azt emeli ki, hogy a Legfelsőbb Bíróság ítéletének érdekközpontú értelmezése volt az egyik kulcsfontosságú tényező a tömeges bevándorlás megindulásában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai és társadalmi diskurzust tartalmaz migrációs eseményekről, de nem tényállítás. Az állítások ellenőrzése szükséges lehet a pontosítás érdekében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:55:06.420542+00:00"
+    },
+    "telegram:1261826972:54623": {
+      "hu_text": "◼ Egy radikális vallási nézetei miatt vizsgált imámot kiutasítottak Marokkóba\n\n➡ A Guardia Civil és a CNI részt vett egy vizsgálatban, amely egy Lepe (Huelva) közösségben végzett tevékenységét érintette, ahol kizáró és bizonyos demokratikus értékekkel ellentétes üzeneteket terjesztett.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy jogi és biztonsági intézkedésről szól migrációs és társadalmi biztonsági kontextusban. Az információt nem független forrásból ellenőrizték, ezért UNVERIFIED státusz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:55:06.420545+00:00"
+    },
+    "telegram:1688600455:1194": {
+      "hu_text": "🚆 Hogyan használjuk a tömegközlekedést Hollandiában\n\nÉrvényes jegy szükséges az utazáshoz. Az útvonal megtervezhető a 9292 weboldalon vagy alkalmazásban.\n\n➖ Fizetéshez használható az OV-chipkaart vagy az OVpay.\n➖ Az OVpay lehetővé teszi az utazás kezdetének és végének regisztrálását bankkártyával, telefonnal vagy okosórával.\n➖ Az NS különböző kedvezményes bérleteket kínál, vásárlás előtt ellenőrizze a feltételeket és az érvényességi időket.\n\nHa segítségre van szüksége az első utazáshoz vagy a közlekedési kártyához, a cikk információkat tartalmaz OV-nagykövetekről, akik segítenek eligazodni.\n\n📄 További információ: refugeehelp.nl/i/uk-t-gromadskiy-transport\n\n📲 Ossza meg ezt az információt a közösségi médiában\n\n✅ Időpontfoglalás: refugeehelp.nl/i/uk-t-appointment-vwn",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés gyakorlati, segítő információkat tartalmaz a migránsok számára a holland tömegközlekedés használatáról, amely könnyen ellenőrizhető és hasznos. Ezért VERIFIED státusz adható.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-13T18:55:06.420548+00:00"
     }
   },
   "legacy_reviews": {}
