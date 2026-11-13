@@ -188,6 +188,58 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1436,
+      "source": "X",
+      "source_post_id": "2121199743380648288",
+      "author": "NewYork_Insight",
+      "language": "en",
+      "published_at": "2026-11-13T11:13:23Z",
+      "first_detected_at": "2026-11-13T11:42:17Z",
+      "last_detected_at": "2026-11-13T11:42:17Z",
+      "detection_count": 1,
+      "text": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "text_excerpt": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "source_url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "early_warning_signals": [
@@ -300,6 +352,58 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1436,
+      "source": "X",
+      "source_post_id": "2121199743380648288",
+      "author": "NewYork_Insight",
+      "language": "en",
+      "published_at": "2026-11-13T11:13:23Z",
+      "first_detected_at": "2026-11-13T11:42:17Z",
+      "last_detected_at": "2026-11-13T11:42:17Z",
+      "detection_count": 1,
+      "text": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "text_excerpt": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "source_url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
     }
   ],
   "information_signals": [
@@ -527,9 +631,194 @@
       "first_collected_at": "2026-11-13T02:20:51Z",
       "last_collected_at": "2026-11-13T02:20:51Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26608",
+      "timestamp": "2026-11-13T11:37:41Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121205859166363891",
+      "author": "XLorie78549",
+      "url": "https://x.com/XLorie78549/status/2121205859166363891",
+      "source_url": "https://x.com/XLorie78549/status/2121205859166363891",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "My children,while paying high income tax,still have student loans with huge interest rates.\nStruggling to save for their first homes &amp; paying high rents.\nWhy are they working so hard,with debt hanging over them,when illegal migrants arrive here by boat &amp; get everything for free? https://t.co/qlmRR8OV5T",
+      "text_excerpt": "My children,while paying high income tax,still have student loans with huge interest rates.\nStruggling to save for their first homes &amp; paying high rents.\nWhy are they working so hard,with debt hanging over them,when illegal migrants arrive here by boat &amp; get everything for free? https://t.co/qlmRR8OV5T",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T11:42:16Z",
+      "last_collected_at": "2026-11-13T11:42:16Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26620",
+      "timestamp": "2026-11-13T11:27:19Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121203251811119293",
+      "author": "WhtRbtRjct",
+      "url": "https://x.com/WhtRbtRjct/status/2121203251811119293",
+      "source_url": "https://x.com/WhtRbtRjct/status/2121203251811119293",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@TheDemocrats what's your baby body count? how many migrants die on the way to the border? how much trafficking do you ignore/enable that kill thousands or more annually? \n\nSpare me with your bullshit, Dems.",
+      "text_excerpt": "@TheDemocrats what's your baby body count? how many migrants die on the way to the border? how much trafficking do you ignore/enable that kill thousands or more annually? \n\nSpare me with your bullshit, Dems.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T11:42:47Z",
+      "last_collected_at": "2026-11-13T11:42:47Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26612",
+      "timestamp": "2026-11-13T11:17:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121200740379115583",
+      "author": "Gfunk_710",
+      "url": "https://x.com/Gfunk_710/status/2121200740379115583",
+      "source_url": "https://x.com/Gfunk_710/status/2121200740379115583",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@kingbush0071 @RealDannyTommo So because a boat was allegedly used by traffickers, anyone can just go around destroying it? 😂 That's not how the law works, you absolute clown. You don't get immunity from criminal damage just because you wrap yourself in a Union Jack and shout about migrants.",
+      "text_excerpt": "@kingbush0071 @RealDannyTommo So because a boat was allegedly used by traffickers, anyone can just go around destroying it? 😂 That's not how the law works, you absolute clown. You don't get immunity from criminal damage just because you wrap yourself in a Union Jack and shout about migrants.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T11:42:17Z",
+      "last_collected_at": "2026-11-13T11:42:17Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26616",
+      "timestamp": "2026-11-13T11:11:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121199305507668302",
+      "author": "sarcastrix_",
+      "url": "https://x.com/sarcastrix_/status/2121199305507668302",
+      "source_url": "https://x.com/sarcastrix_/status/2121199305507668302",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Small boat migrant convicted of spying for Iran.\n\nTwo men found guilty of espionage had been granted leave to remain in Britain after arriving illegally. https://t.co/XdiJgZz4q8 https://t.co/YmnFCaLyN5",
+      "text_excerpt": "Small boat migrant convicted of spying for Iran.\n\nTwo men found guilty of espionage had been granted leave to remain in Britain after arriving illegally. https://t.co/XdiJgZz4q8 https://t.co/YmnFCaLyN5",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T11:42:17Z",
+      "last_collected_at": "2026-11-13T11:42:17Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26624",
+      "timestamp": "2026-11-13T11:10:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121199095700492716",
+      "author": "MichaelARothman",
+      "url": "https://x.com/MichaelARothman/status/2121199095700492716",
+      "source_url": "https://x.com/MichaelARothman/status/2121199095700492716",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "𝐍𝐆𝐎𝐒 𝐀𝐑𝐄 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐌𝐎𝐁𝐈𝐋𝐈𝐙𝐈𝐍𝐆 𝐌𝐈𝐆𝐑𝐀𝐍𝐓 𝐂𝐀𝐑𝐀𝐕𝐀𝐍𝐒 𝐍𝐎𝐑𝐓𝐇 𝐎𝐍 𝐓𝐇𝐄 𝐁𝐄𝐓 𝐃𝐄𝐌𝐎𝐂𝐑𝐀𝐓𝐒 𝐑𝐄𝐎𝐏𝐄𝐍 𝐓𝐇𝐄 𝐁𝐎𝐑𝐃𝐄𝐑\n\nIt took international smuggling networks minutes, not months, to read this month's election results. Open-borders https://t.co/AJEWdfQMHN https://t.co/2sZZZYRisT",
+      "text_excerpt": "𝐍𝐆𝐎𝐒 𝐀𝐑𝐄 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐌𝐎𝐁𝐈𝐋𝐈𝐙𝐈𝐍𝐆 𝐌𝐈𝐆𝐑𝐀𝐍𝐓 𝐂𝐀𝐑𝐀𝐕𝐀𝐍𝐒 𝐍𝐎𝐑𝐓𝐇 𝐎𝐍 𝐓𝐇𝐄 𝐁𝐄𝐓 𝐃𝐄𝐌𝐎𝐂𝐑𝐀𝐓𝐒 𝐑𝐄𝐎𝐏𝐄𝐍 𝐓𝐇𝐄 𝐁𝐎𝐑𝐃𝐄𝐑\n\nIt took international smuggling networks minutes, not months, to read this month's election results. Open-borders https://t.co/AJEWdfQMHN https://t.co/2sZZZYRisT",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-13T11:42:47Z",
+      "last_collected_at": "2026-11-13T11:42:47Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-13T02:21:30.537043+00:00",
+  "last_archived_at": "2026-11-13T11:43:24.285025+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -546,6 +835,252 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1436,
+      "source": "X",
+      "source_post_id": "2121199743380648288",
+      "author": "NewYork_Insight",
+      "language": "en",
+      "published_at": "2026-11-13T11:13:23Z",
+      "first_detected_at": "2026-11-13T11:42:17Z",
+      "last_detected_at": "2026-11-13T11:42:17Z",
+      "detection_count": 1,
+      "text": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "text_excerpt": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "source_url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1436,
+      "source": "X",
+      "source_post_id": "2121199743380648288",
+      "author": "NewYork_Insight",
+      "language": "en",
+      "published_at": "2026-11-13T11:13:23Z",
+      "first_detected_at": "2026-11-13T11:42:17Z",
+      "last_detected_at": "2026-11-13T11:42:17Z",
+      "detection_count": 1,
+      "text": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "text_excerpt": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "source_url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1436,
+      "source": "X",
+      "source_post_id": "2121199743380648288",
+      "author": "NewYork_Insight",
+      "language": "en",
+      "published_at": "2026-11-13T11:13:23Z",
+      "first_detected_at": "2026-11-13T11:42:17Z",
+      "last_detected_at": "2026-11-13T11:42:17Z",
+      "detection_count": 1,
+      "text": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "text_excerpt": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "source_url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2121199743380648288"
+      ],
+      "related_authors": [
+        "NewYork_Insight"
+      ],
+      "related_urls": [
+        "https://x.com/NewYork_Insight/status/2121199743380648288"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1436,
+      "source": "X",
+      "source_post_id": "2121199743380648288",
+      "author": "NewYork_Insight",
+      "language": "en",
+      "published_at": "2026-11-13T11:13:23Z",
+      "first_detected_at": "2026-11-13T11:42:17Z",
+      "last_detected_at": "2026-11-13T11:42:17Z",
+      "detection_count": 1,
+      "text": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "text_excerpt": "WHY DIDN’T YOU DO IT WHEN YOU WERE IN POWER? DAVID CAMERON FACES BACKLASH OVER CALL TO QUIT ECHR\n\nThe Critic’s Tom Jones challenges former Prime Minister David Cameron’s call for Britain to leave the European Convention on Human Rights (ECHR) to tackle small-boat migrant https://t.co/s8WbF4sw4I",
+      "url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "source_url": "https://x.com/NewYork_Insight/status/2121199743380648288",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2121199743380648288"
+      ],
+      "related_authors": [
+        "NewYork_Insight"
+      ],
+      "related_urls": [
+        "https://x.com/NewYork_Insight/status/2121199743380648288"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
