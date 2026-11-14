@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-14T08:17:18.585140+00:00"
+    },
+    "group:720": {
+      "hu_text": "@VectorCargoHaul @DrcharlieWardQ Nem volt szándék az asszimilációra. Földet foglaltak el és megölték annak lakóit. Ne írjátok át a történelmet.\n\nParanoid vagy az bevándorlókkal kapcsolatban, mert a bevándorló őseid tolvajok és gyilkosok voltak. Most ezeket a tulajdonságokat vetíted ki az újonnan érkező migránsokra.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és történelmi állításokat tartalmaz, amelyek nem ellenőrzöttek. Nem áll rendelkezésre bizonyíték az állítások igazolására vagy cáfolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:02.478109+00:00"
+    },
+    "information:26854": {
+      "hu_text": "Franciaországban, Calais közelében online terjedő felvételek migránscsoportokat mutatnak, akik táboroznak, miközben várják a lehetőséget, hogy átkeljenek az angol csatornán Nagy-Britanniába. A helyzet újraélesztette a szabálytalan migrációról, a határbiztonságról és a segélyezés költségeiről szóló vitákat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A felvételről szóló állítás nem ellenőrzött, de releváns információt tartalmaz a migrációs eseményről és a társadalmi vitákról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:02.478129+00:00"
+    },
+    "information:26855": {
+      "hu_text": "@mattvanswol Trump-kormányzat = Biden-kormányzat... de biztosított déli határral... majd meglátjuk, mennyire állja meg a helyét, amikor megérkeznek a migránskaravánok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény, amely nem tartalmaz konkrét bizonyítékot, így nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:02.478133+00:00"
+    },
+    "information:26863": {
+      "hu_text": "A Reform \"Nemzetbiztonsági Felülvizsgálata\" egy 14 oldalas referenciaanyag költségbecslések nélkül. Íme, mi állja meg a helyét és mi nem.\n\n\"Több mint 200 000 ellenőrizetlen, harcképes korú férfi.\" Belügyminisztériumi adatok: 2018 és 2026 júniusa között 204 517 kis hajós érkezés, minden korosztályból és nemből. 148 786 volt felnőtt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Statisztikai adatokat és politikai dokumentumot említ, de az adatok nem ellenőrzöttek, és a dokumentum költségbecslés nélkül van.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:02.478136+00:00"
+    },
+    "information:26864": {
+      "hu_text": "Szállj fel a kompra az angol csatornán, sétálj a parthoz és az egyik migránstáborhoz, majd próbálj visszajutni Angliába kis hajóval. Ezek a költségek eltűnnek. Valójában a kormány csak azért fizet, hogy létezz.\n\nÉrdemes megfontolni ezt a megoldást...?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és javaslat, amely nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:02.478138+00:00"
+    },
+    "information:26868": {
+      "hu_text": "81 évvel ezelőtt az Egyesült Nemzetek a világot széttépő háború hamvaiból született – és az alapítói menekültek voltak, akik egy brit fogolytáborban voltak Cipruson. Manuel és Sara Grynspan a holokausztot túlélve Lengyelországban semmijük sem volt. Útjuk során elfogták őket a ...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi eseményeket említ, de a részletek nem teljesek, és nincs közvetlen bizonyíték az állítások ellenőrzésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:02.478140+00:00"
     }
   },
   "legacy_reviews": {}
