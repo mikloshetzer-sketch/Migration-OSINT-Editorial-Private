@@ -507,6 +507,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-14T21:50:56.218685+00:00"
+    },
+    "information:26941": {
+      "hu_text": "@RichardHanania Európának ki kell toloncolnia minden átkozott „menekültet”, aki az elmúlt 15 évben érkezett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz ellenőrizhető tényállítást, ezért ellenőrizetlen státuszú. Fontos a társadalmi diskurzus megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T21:51:02.042613+00:00"
+    },
+    "record:2121720309438886009": {
+      "hu_text": "@SenSanders Gyere, Bernie. Ez már évek óta jön, ahogy egyre többen kihagyták az oltásokat. EZ MÁR SOKKAL RFK ELŐTT MEGTÖRTÉNT! Ehhez jön még a tömegével érkező oltatlan migránsok és a határon történő egészségügyi ellenőrzések hiánya. Ez történik........Mit vártál, HÁT!!!",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások oltási hiányról és migránsok egészségügyi ellenőrzésének hiányáról nem bizonyítottak, és politikai vélemény is keveredik bennük, ezért ellenőrizetlen státuszú. Fontos a migrációs egészségügyi kockázatok megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T21:51:02.042634+00:00"
+    },
+    "telegram:1261826972:54662": {
+      "hu_text": "◼️Utcai árusítás a Benítez sétányon\n\n➡️A helyiek figyelmeztetnek azokra a gyakorlatokra, amelyeket olyan bevándorlók folytatnak, akik a központi kormány által biztosított ideiglenes befogadási erőforrásokat használják ki.\n\nhttps://elfarodeceuta.es/actualidad/venta-ambulante-pleno-paseo-benitez/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés helyi társadalmi jelenséget ír le, amely bevándorlókhoz kötődik, de nem tartalmaz ellenőrizhető tényállítást vagy hivatalos adatot, ezért ellenőrizetlen státuszú.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T21:51:02.042638+00:00"
     }
   },
   "legacy_reviews": {}
