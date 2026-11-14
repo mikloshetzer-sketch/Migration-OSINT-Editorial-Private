@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-14",
+  "live_events": [
+    {
+      "id": 908,
+      "event_id": 908,
+      "source": "X",
+      "source_post_id": "2121398656066805974",
+      "author": "uaFKaHYIi52QzZ2",
+      "published_at": "2026-11-14T00:23:47Z",
+      "collected_at": "2026-11-14T00:36:45Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@StateDept No, when your parents arrived, they were posing as Cuban refugees.",
+      "url": "https://x.com/uaFKaHYIi52QzZ2/status/2121398656066805974",
+      "source_url": "https://x.com/uaFKaHYIi52QzZ2/status/2121398656066805974"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 719,
+      "group_id": 719,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@StateDept No, when your parents arrived, they were posing as Cuban refugees.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-14T00:23:47Z",
+      "last_seen": "2026-11-14T00:23:47Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-14T00:36:45Z",
+      "updated_at": "2026-11-14T00:36:45Z"
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:26730",
+      "timestamp": "2026-11-14T00:28:48Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121399917306581082",
+      "author": "Stevlstrvr1",
+      "url": "https://x.com/Stevlstrvr1/status/2121399917306581082",
+      "source_url": "https://x.com/Stevlstrvr1/status/2121399917306581082",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@veiledleaks Germany doesn’t need to leave the EI it needs to deport back to the Turkish border, or wherever they came from, all the migrants it let in.",
+      "text_excerpt": "@veiledleaks Germany doesn’t need to leave the EI it needs to deport back to the Turkish border, or wherever they came from, all the migrants it let in.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T00:32:51Z",
+      "last_collected_at": "2026-11-14T00:32:51Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-14T00:36:53.921709+00:00"
+}
