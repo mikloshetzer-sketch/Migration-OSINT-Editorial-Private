@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-14",
+  "reviews": {
+    "group:719": {
+      "hu_text": "@StateDept Nem, amikor a szüleid megérkeztek, kubai menekültnek tettették magukat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy állítás, amely nem tartalmaz bizonyított tényeket, és nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T00:37:24.563869+00:00"
+    },
+    "information:26730": {
+      "hu_text": "@veiledleaks Németországnak nem az EI-ből kell kilépnie, hanem vissza kellene deportálnia a török határra vagy ahonnan a migránsok érkeztek, az összes beengedett migránst.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz ellenőrzött tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T00:37:24.563890+00:00"
+    },
+    "record:2121398656066805974": {
+      "hu_text": "@StateDept Nem, amikor a szüleid megérkeztek, kubai menekültnek tettették magukat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ismétlődő állítás, amely nem bizonyított és nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T00:37:24.563893+00:00"
+    },
+    "telegram:1261826972:54628": {
+      "hu_text": "🚩 Videóval ▶ Mentés a határon: Tűzoltók segítettek egy bevándorlónak, aki lecsúszott egy töltésről\n\n➡ A helyi rendőrség folyamatosan támogatta a SEIS tagjait a baleset helyszínén a lovardánál\n\n📷 Képgaléria 📷\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/rescate-limite-bomberos-auxilia-inmigrante-precipitarse-terraplen/",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét mentési eseményt ír le, de nincs független ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T00:37:24.563896+00:00"
+    },
+    "telegram:1261826972:54629": {
+      "hu_text": "◼ Aya története, egy gyerekkönyv, amely idealizálja a szabálytalan érkezést Ceutába\n\n➡ A történetet egy pamplonai állami iskola ötödikes diákjainak osztották ki, és egy marokkói kislány titkos utazását meséli el az autonóm városba\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/historia-aya-cuento-infantil-idealiza-llegada-irregular-ceuta/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy társadalmi diskurzust ismertet, nincs benne ellenőrizhető tény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T00:37:24.563898+00:00"
+    },
+    "telegram:1983050450:25535": {
+      "hu_text": "Egy migráns Nyizsnekamszkban megkérte egy férfit, hogy beszéljenek férfiként, majd hátulról mellkason szúrta. A 33 éves külföldi összeveszett egy 26 éves helyi lakossal, majd késelte meg. A sérültet kórházba vitték. A támadót letartóztatták, amikor repülőjegyet vásárolt, valószínűleg csendben el akart menekülni az országból. Most akár nyolc év börtönbüntetés is várhat rá.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Egy konkrét bűncselekményről szóló beszámoló, de nincs független forrásból ellenőrizve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T00:37:24.563900+00:00"
+    }
+  }
+}
