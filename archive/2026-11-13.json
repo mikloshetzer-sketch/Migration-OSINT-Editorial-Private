@@ -1483,9 +1483,49 @@
       "first_collected_at": "2026-11-13T18:54:06Z",
       "last_collected_at": "2026-11-13T18:54:06Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26716",
+      "timestamp": "2026-11-13T22:35:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117611516231696602",
+      "author": null,
+      "url": "https://mastodon.social/@WINGS_radio/117611516231696602",
+      "source_url": "https://mastodon.social/@WINGS_radio/117611516231696602",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "breaking"
+      ],
+      "text": "BREAKING: Justices Will Review If Trump Can Bypass Asylum At Border By Britain Eakin The U.S. # SupremeCourt on Friday (13 November) said it will review whether President Donald # Trump 's # proclamation # declaring an # invasion and imposing # restrictions on # entering the country # allows the administration to # quickly # deport # people arriving at the # border and # block them from # seeking # asylum . [via Law360]",
+      "text_excerpt": "BREAKING: Justices Will Review If Trump Can Bypass Asylum At Border By Britain Eakin The U.S. # SupremeCourt on Friday (13 November) said it will review whether President Donald # Trump 's # proclamation # declaring an # invasion and imposing # restrictions on # entering the country # allows the administration to # quickly # deport # people arriving at the # border and # block them from # seeking # asylum . [via Law3…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T00:32:27Z",
+      "last_collected_at": "2026-11-14T00:32:27Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-13T18:54:17.427983+00:00",
+  "last_archived_at": "2026-11-14T00:36:52.212035+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
