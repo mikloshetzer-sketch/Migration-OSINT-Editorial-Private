@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-14T08:17:08.269930+00:00"
+    },
+    "record:2121501594806092232": {
+      "hu_text": "Kenya Moyale határ menti területén családok bizonytalan körülmények között élnek, mivel szórványos lövések és rakétavető gránátok csapódnak be lakóövezetekbe. Legalább 10 000 lakos hagyta el otthonát, miközben etióp menekültek érkeznek a térségbe. A rendőrség szerint két ...",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg migrációs eseményről szól, konkrét helyszínnel és érintett lakossággal, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlen státuszú. Fontos a helyzet súlyossága miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:18.585110+00:00"
+    },
+    "record:2121517102037107130": {
+      "hu_text": "🚨 FRISS HÍR: A Demokrata Párt középtávú választási győzelme után több ezer migráns karavánja tart az USA-Mexikó határ felé, hogy bevándorlási eljárás nélkül lépjen be az Egyesült Államokba. Trump elnök azzal fenyegetőzik, hogy megduplázza a Mexikóra kivetett vámokat, ha a hatóságok nem lépnek.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migránsok mozgási szándékáról szól, politikai kontextussal, de nincs megerősített bizonyíték a karaván létezésére vagy a vámfenyegetés tényleges megtörténtére, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:18.585128+00:00"
+    },
+    "telegram:1604168769:12618": {
+      "hu_text": "Krasznojarszkban egy 54 éves üzbég állampolgárt elítéltek, mert nem megfelelő módon viselkedett egy kiskorú lánnyal szemben. A bíróság megállapította, hogy a férfi 2026 nyarán szexuális közeledést tanúsított egy 14 éves lánnyal szemben. Bár nem volt erőszak vagy kényszerítés, a törvény szerint 16 év alatti személlyel való ilyen cselekmény büntetendő.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jogszabályi és büntetőügyi témájú hír, amely migránsokkal kapcsolatos, de nincs független megerősítés, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:18.585132+00:00"
+    },
+    "telegram:1604168769:12619": {
+      "hu_text": "Oroszországban havi limitet vezethetnek be banki műveletekre. Egy törvényjavaslat szerint a gyanús ügyfelek számlájára havonta legfeljebb 30 ezer rubel befizetés és átutalás engedélyezett. Ha a javaslat elfogadásra kerül, az új szabályok 2028. március 1-jén lépnek életbe.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogszabályi változásról szól, amely migránsokat is érinthet, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:18.585135+00:00"
+    },
+    "telegram:1604168769:12620": {
+      "hu_text": "Oroszországban javasolják, hogy tiltsák meg a börtönbüntetésben részesült külföldi állampolgároknak a felső- és középfokú oktatási intézményekben való tanulást. Ha a tanulmányok alatt kiderül, hogy a diák bűnöző, vagy bűncselekményt követ el, a tanulmányi szerződést idő előtt felmondják, és a diákot kizárják.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jogszabályi javaslatról szóló információ, amely migránsok oktatási lehetőségeit érinti, de nincs megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:18.585137+00:00"
+    },
+    "telegram:1604168769:12621": {
+      "hu_text": "Cselyabinszk régióban 2027-től emelkedik a munkavállalói engedély díja. A szervezetek és egyéni vállalkozók esetében a havi díj 17 973 rubel lesz, míg a magánszemélyeknél dolgozó migránsok esetében akár 25 462 rubelre nőhet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránsok munkavállalási engedélyének díjemeléséről szóló információ, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:18.585140+00:00"
     }
   },
   "legacy_reviews": {}
