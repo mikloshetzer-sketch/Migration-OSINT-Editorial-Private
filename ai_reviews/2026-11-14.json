@@ -309,6 +309,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-14T16:15:02.478140+00:00"
+    },
+    "information:26869": {
+      "hu_text": "Tizennyolc szudáni migránst mentettek ki a tengerből Kréta déli részén múlt hétvégén, miután egy kelet-líbiai kikötőből induló hajó bajba került. A görög hatóságok nyolc holttestet is találtak, és több ember még eltűnt, közölte a Nemzetközi Migrációs Szervezet (IOM).",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló információ, amelyet nem erősítettek meg hivatalos források, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:13.723282+00:00"
+    },
+    "record:2121626195183681978": {
+      "hu_text": "Piddintonnak fel kell készülnie az új érkezők fogadására! Biztosítani kell megfelelő szállítást a migránsok biztonságos mozgatásához, szervezni karácsonyi eseményeket, és felajánlani a már nem használt ruhákat az újonnan érkezőknek. Emellett otthoni süteményeket is ajánlanak fel.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránsok segítésére irányuló szervezési tevékenység, de nincs hivatalos megerősítés a szervezők kilétéről vagy a tényleges eseményekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:13.723302+00:00"
+    },
+    "record:2121630633848098845": {
+      "hu_text": "Aggódom. A demokraták még nem is vannak hatalmon, de már az első napon az AI/adatközpontok elleni háborújuk többbilliós piaci veszteséget okozott. Most egy migránskaraván tart az Egyesült Államok felé, abban bízva, hogy a demokraták megnyitják a határt. Mindenkinek aggódnia kell, mert a demokraták politikája káros.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és előrejelzés migrációs mozgásról, nincs bizonyíték a karaván létezésére vagy a politikai állítások igazolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:13.723305+00:00"
+    },
+    "record:2121634679434444885": {
+      "hu_text": "Körülbelül 1500 migráns tart észak felé Dél-Mexikóból. Trump azt mondja: \"MEXIKÓNAK MOST AZONNAL MEG KELL ÁLLÍTANIA ŐKET\", különben az importvámokat \"AZONNAL MEG KÉT SZEREZZÜK\". Meg kell duplázni a vámokat, ha a karavánt nem állítják meg? Igen = Like, Nem = Repost.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migránsok mozgására vonatkozó figyelmeztetés és politikai reakció, de nincs megerősített adat a karavánról vagy a vámok tényleges változásáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:13.723307+00:00"
+    },
+    "record:2121636123202166956": {
+      "hu_text": "Nem volt szándék az asszimilációra. Az érkezők földet akartak elfoglalni és megölni az ott élőket. Ne írjuk át a történelmet. Azért vagy paranoiás a bevándorlókkal szemben, mert a te bevándorló őseid tolvajok és gyilkosok voltak, és most ezeket a tulajdonságokat vetíted ki az újonnan érkezőkre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi és politikai vélemény, amely migránsokkal kapcsolatos előítéleteket tartalmaz, de nincs tényalapja vagy bizonyíték a kijelentésekre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:13.723309+00:00"
+    },
+    "telegram:1261826972:54632": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról szombat reggel: 1. A rendőrség jelentést készített Tardónak az Algecirasból Ceutába történő migránsok kitoloncolásáról, amely hivatalossá vált egy korábbi diplomáciai válság után. 2. 2027-es nyugdíjemelés: az első lépést megtették a sürgős eljárásban, a végső százalék az inflációtól függ. 3. A belügyminisztérium utasította a rendőrséget, hogy könnygázt használjanak a közrend fenntartására a korábbi feszültségek után a november 11-i általános sztrájk során.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos hírek és intézkedések migrációs és közrend témában, de a forrás nem közvetlenül ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T16:15:13.723312+00:00"
     }
   },
   "legacy_reviews": {}
