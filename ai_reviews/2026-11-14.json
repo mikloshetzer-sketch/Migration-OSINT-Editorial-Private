@@ -111,6 +111,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-14T00:37:32.939195+00:00"
+    },
+    "information:26787": {
+      "hu_text": "Tomo-t az Egyesült Királyság rezsimje üldözi, mert megzavarta a munkaképtelen migránsok behozatalát. A francia rezsim megszervezi az indulásukat, parti őrségi kísérettel a csatorna közepéig. Az Egyesült Királyság rezsimje határőrségi és RNLI hajókat küld, hogy felvegyék őket és a csónakjukat. A csónakot visszaküldték!",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem ellenőrzöttek, és politikai véleményeket is tartalmaznak. A migrációs események és határbiztonsági intézkedések említése releváns, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:08.269896+00:00"
+    },
+    "information:26795": {
+      "hu_text": "Valaki elmagyarázná, hogy miért nem tartóztatják le azonnal és nem zárják börtönbe vagy fogvatartási központba azokat, akiknek elutasították a menedékkérelmét? Egy kis csónakos migráns megerőszakolt egy nőt, miután Google Fordítóval fenyegetőzött.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állításokat tartalmaz, amelyek társadalmi vitát generálhatnak, de nincs megerősített bizonyíték az eset valódiságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:08.269917+00:00"
+    },
+    "information:26799": {
+      "hu_text": "A keresztény fehér Amerika nem képes asszimilálni ezeket a csoportokat, ha a határok nyitva maradnak. Egyszerűen megsemmisül. Ne legyen kétség, a fehér Amerika az, amihez a migránsok asszimilálódnak! Ha a tömeges migráció elsodorja a fehér Amerikát, a valódi asszimiláció örökre lehetetlenné válik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus, nincs tényalapú bizonyíték, így nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:08.269921+00:00"
+    },
+    "information:26806": {
+      "hu_text": "Bár figyelmen kívül hagyod a legnagyobb problémát, Zia Yusuf minden állítása helyes és igaz, a konzervatívok nem bújhatnak el a csatornában zajló illegális migráció és embercsempészet problémája mögött, ugyanolyan bűnösek, mint a Munkáspárt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi vita, nincs tényalapú bizonyíték, így nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:08.269924+00:00"
+    },
+    "information:26807": {
+      "hu_text": "Biztonsági források szerint a pakisztáni biztonsági erők Turbatban, Balochisztánban megakadályoztak egy embercsempészeti kísérletet, és 82 irattalan afgán állampolgárt, köztük nőket és gyerekeket tartóztattak le. Az őrizetbe vett személyeket átadják a rendőrségnek jogi eljárásra, miközben a további intézkedések folynak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos biztonsági forrásokra hivatkozik, de nincs független megerősítés, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:08.269927+00:00"
+    },
+    "information:26810": {
+      "hu_text": "Az Ügyészség (ODPP) erősíti a légitársasági személyzet képességeit az embercsempészet és migránscsempészet elleni küzdelemben. Az ODPP elkötelezett az emberkereskedelem és migránscsempészet elleni fellépés mellett, amit egy nemzetközi együttműködésben való részvétellel is bizonyít.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Hivatalos intézményi kommunikáció, de nincs további bizonyíték a hatásról vagy eredményekről, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-14T08:17:08.269930+00:00"
     }
   },
   "legacy_reviews": {}
