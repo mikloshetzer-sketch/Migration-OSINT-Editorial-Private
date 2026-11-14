@@ -23,6 +23,28 @@
       "text": "@StateDept No, when your parents arrived, they were posing as Cuban refugees.",
       "url": "https://x.com/uaFKaHYIi52QzZ2/status/2121398656066805974",
       "source_url": "https://x.com/uaFKaHYIi52QzZ2/status/2121398656066805974"
+    },
+    {
+      "id": 909,
+      "event_id": 909,
+      "source": "X",
+      "source_post_id": "2121636123202166956",
+      "author": "Oscar17279910",
+      "published_at": "2026-11-14T16:07:24Z",
+      "collected_at": "2026-11-14T16:14:31Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@VectorCargoHaul @DrcharlieWardQ There was no intention to assimilate. They came to occupy land and kill its inhabitants. Don’t rewrite history.\n\nYou’re paranoid about immigrants because your immigrant ancestors were thieves and murderers. Now you project their qualities onto the newly arrived migrants.",
+      "url": "https://x.com/Oscar17279910/status/2121636123202166956",
+      "source_url": "https://x.com/Oscar17279910/status/2121636123202166956"
     }
   ],
   "event_groups": [
@@ -54,6 +76,35 @@
       "average_confidence": 0.2,
       "created_at": "2026-11-14T00:36:45Z",
       "updated_at": "2026-11-14T00:36:45Z"
+    },
+    {
+      "id": 720,
+      "group_id": 720,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@VectorCargoHaul @DrcharlieWardQ There was no intention to assimilate. They came to occupy land and kill its inhabitants. Don’t rewrite history.\n\nYou’re paranoid about immigrants because your immigrant ancestors were thieves and murderers. Now you project their qualities onto the newly arrived migrants.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-14T16:07:24Z",
+      "last_seen": "2026-11-14T16:07:24Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-14T16:14:31Z",
+      "updated_at": "2026-11-14T16:14:31Z"
     }
   ],
   "information_signals": [
@@ -319,9 +370,233 @@
       "first_collected_at": "2026-11-14T08:16:16Z",
       "last_collected_at": "2026-11-14T08:16:16Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26863",
+      "timestamp": "2026-11-14T16:00:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121634322125820043",
+      "author": "david_hollas",
+      "url": "https://x.com/david_hollas/status/2121634322125820043",
+      "source_url": "https://x.com/david_hollas/status/2121634322125820043",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Reform's \"National Security Review\" is a 14 page terms of reference with no costings. Here's what holds up and what doesn't.\n\n\"Over 200,000 unvetted, fighting-age men.\" Home Office data: 204,517 small boat arrivals from 2018 to June 2026, all ages and sexes. 148,786 were adult",
+      "text_excerpt": "Reform's \"National Security Review\" is a 14 page terms of reference with no costings. Here's what holds up and what doesn't.\n\n\"Over 200,000 unvetted, fighting-age men.\" Home Office data: 204,517 small boat arrivals from 2018 to June 2026, all ages and sexes. 148,786 were adult",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T16:13:38Z",
+      "last_collected_at": "2026-11-14T16:13:38Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26854",
+      "timestamp": "2026-11-14T15:52:23Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121632342196289632",
+      "author": "TheNexusReport3",
+      "url": "https://x.com/TheNexusReport3/status/2121632342196289632",
+      "source_url": "https://x.com/TheNexusReport3/status/2121632342196289632",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "🇫🇷🇬🇧 Footage circulating online appears to show groups of migrants camping near Calais, France, as they await opportunities to cross the English Channel into Britain.\n\nThe situation has reignited debate over irregular migration, border security and the cost of providing https://t.co/1TSTibOfLF",
+      "text_excerpt": "🇫🇷🇬🇧 Footage circulating online appears to show groups of migrants camping near Calais, France, as they await opportunities to cross the English Channel into Britain.\n\nThe situation has reignited debate over irregular migration, border security and the cost of providing https://t.co/1TSTibOfLF",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T16:13:12Z",
+      "last_collected_at": "2026-11-14T16:13:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26855",
+      "timestamp": "2026-11-14T15:50:07Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121631775021736082",
+      "author": "GBlanston1967",
+      "url": "https://x.com/GBlanston1967/status/2121631775021736082",
+      "source_url": "https://x.com/GBlanston1967/status/2121631775021736082",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@mattvanswol Trump administration = Biden administration...but with secured southern border...but we'll see how well that holds up when the migrant caravans arrive.",
+      "text_excerpt": "@mattvanswol Trump administration = Biden administration...but with secured southern border...but we'll see how well that holds up when the migrant caravans arrive.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T16:13:12Z",
+      "last_collected_at": "2026-11-14T16:13:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26864",
+      "timestamp": "2026-11-14T15:46:25Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121630842531233839",
+      "author": "metnaor88",
+      "url": "https://x.com/metnaor88/status/2121630842531233839",
+      "source_url": "https://x.com/metnaor88/status/2121630842531233839",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "boat",
+        "migrant_camp"
+      ],
+      "freshness_cues": [],
+      "text": "Get the ferry across the Channel, walk to the coast and one of these migrant camps, and try to come back to England via a small boat. All these costs will go away. Indeed, the government will pay you merely to exist.\n\nA solution to this worth considering...? https://t.co/xeDcHPmdLP",
+      "text_excerpt": "Get the ferry across the Channel, walk to the coast and one of these migrant camps, and try to come back to England via a small boat. All these costs will go away. Indeed, the government will pay you merely to exist.\n\nA solution to this worth considering...? https://t.co/xeDcHPmdLP",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T16:13:38Z",
+      "last_collected_at": "2026-11-14T16:13:38Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26868",
+      "timestamp": "2026-11-14T15:36:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121628460120711236",
+      "author": "afshineemrani",
+      "url": "https://x.com/afshineemrani/status/2121628460120711236",
+      "source_url": "https://x.com/afshineemrani/status/2121628460120711236",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "interception",
+        "detention"
+      ],
+      "freshness_cues": [],
+      "text": "Eighty-one years ago, the United Nations was born from the ashes of a world torn apart—and her parents were refugees behind barbed wire in a British detention camp in Cyprus.\n​Manuel and Sara Grynspan survived the Holocaust in Poland with nothing. Intercepted on their way to the https://t.co/a4Mtojfh2E",
+      "text_excerpt": "Eighty-one years ago, the United Nations was born from the ashes of a world torn apart—and her parents were refugees behind barbed wire in a British detention camp in Cyprus.\n​Manuel and Sara Grynspan survived the Holocaust in Poland with nothing. Intercepted on their way to the https://t.co/a4Mtojfh2E",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T16:13:38Z",
+      "last_collected_at": "2026-11-14T16:13:38Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26869",
+      "timestamp": "2026-11-14T15:29:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121626693349921231",
+      "author": "AbeerYasir_",
+      "url": "https://x.com/AbeerYasir_/status/2121626693349921231",
+      "source_url": "https://x.com/AbeerYasir_/status/2121626693349921231",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "Twenty-eight Sudanese migrants were pulled from the sea south of Crete last weekend after a boat that set out from eastern Libya got into trouble. Greek authorities also recovered eight bodies, and several people are still missing, IOM says.\n\nA second boat from eastern Libya was",
+      "text_excerpt": "Twenty-eight Sudanese migrants were pulled from the sea south of Crete last weekend after a boat that set out from eastern Libya got into trouble. Greek authorities also recovered eight bodies, and several people are still missing, IOM says.\n\nA second boat from eastern Libya was",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-14T16:13:38Z",
+      "last_collected_at": "2026-11-14T16:13:38Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-14T08:16:53.779929+00:00",
+  "last_archived_at": "2026-11-14T16:14:38.306634+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -610,6 +885,185 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 29.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1443,
+      "source": "X",
+      "source_post_id": "2121626195183681978",
+      "author": "margoau38464119",
+      "language": "en",
+      "published_at": "2026-11-14T15:27:57Z",
+      "first_detected_at": "2026-11-14T16:14:06Z",
+      "last_detected_at": "2026-11-14T16:14:06Z",
+      "detection_count": 1,
+      "text": "@LBC Piddinton should be getting ready for its new arrivals!!\nEnsuring there are suitable transport available for migrants to move around safely!!\nOrganising Xmas events, looking out clothes they no longer need offering them up to the new arrivals!!\nThrow in some home baking!!\nEnjoy",
+      "text_excerpt": "@LBC Piddinton should be getting ready for its new arrivals!!\nEnsuring there are suitable transport available for migrants to move around safely!!\nOrganising Xmas events, looking out clothes they no longer need offering them up to the new arrivals!!\nThrow in some home baking!!\nEnjoy",
+      "url": "https://x.com/margoau38464119/status/2121626195183681978",
+      "source_url": "https://x.com/margoau38464119/status/2121626195183681978",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 26.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport available"
+        ],
+        [
+          "coordination",
+          "transport available"
+        ],
+        [
+          "HIGH_VALUE",
+          "transport available"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport available"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1442,
+      "source": "X",
+      "source_post_id": "2121630633848098845",
+      "author": "krawiec_ted",
+      "language": "en",
+      "published_at": "2026-11-14T15:45:35Z",
+      "first_detected_at": "2026-11-14T16:13:13Z",
+      "last_detected_at": "2026-11-14T16:13:13Z",
+      "detection_count": 1,
+      "text": "@GavinNewsom I’m worried. Democrats aren’t even in power, yet Day One, their war on AI/data centers caused a multi-trillion market loss. Now there’s a caravan of migrants heading to the US expecting the Democrats to open the border.\n\nEveryone should be worried. Democrat policies are harmful.",
+      "text_excerpt": "@GavinNewsom I’m worried. Democrats aren’t even in power, yet Day One, their war on AI/data centers caused a multi-trillion market loss. Now there’s a caravan of migrants heading to the US expecting the Democrats to open the border.\n\nEveryone should be worried. Democrat policies are harmful.",
+      "url": "https://x.com/krawiec_ted/status/2121630633848098845",
+      "source_url": "https://x.com/krawiec_ted/status/2121630633848098845",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants heading"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants heading"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1441,
+      "source": "X",
+      "source_post_id": "2121634679434444885",
+      "author": "RealAmericanRep",
+      "language": "en",
+      "published_at": "2026-11-14T16:01:40Z",
+      "first_detected_at": "2026-11-14T16:13:12Z",
+      "last_detected_at": "2026-11-14T16:13:12Z",
+      "detection_count": 1,
+      "text": "~1,500 migrants heading north from southern Mexico. Trump: \"MEXICO MUST STOP THEM, NOW\" or tariffs \"IMMEDIATELY DOUBLED.\"\n\nDouble them if the caravan isn't stopped?\nLike = YES\nRepost = NO\n\n#Border #RealAmerican https://t.co/I7p8pSfCjg",
+      "text_excerpt": "~1,500 migrants heading north from southern Mexico. Trump: \"MEXICO MUST STOP THEM, NOW\" or tariffs \"IMMEDIATELY DOUBLED.\"\n\nDouble them if the caravan isn't stopped?\nLike = YES\nRepost = NO\n\n#Border #RealAmerican https://t.co/I7p8pSfCjg",
+      "url": "https://x.com/RealAmericanRep/status/2121634679434444885",
+      "source_url": "https://x.com/RealAmericanRep/status/2121634679434444885",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants heading"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants heading"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -722,6 +1176,264 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 29.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1443,
+      "source": "X",
+      "source_post_id": "2121626195183681978",
+      "author": "margoau38464119",
+      "language": "en",
+      "published_at": "2026-11-14T15:27:57Z",
+      "first_detected_at": "2026-11-14T16:14:06Z",
+      "last_detected_at": "2026-11-14T16:14:06Z",
+      "detection_count": 1,
+      "text": "@LBC Piddinton should be getting ready for its new arrivals!!\nEnsuring there are suitable transport available for migrants to move around safely!!\nOrganising Xmas events, looking out clothes they no longer need offering them up to the new arrivals!!\nThrow in some home baking!!\nEnjoy",
+      "text_excerpt": "@LBC Piddinton should be getting ready for its new arrivals!!\nEnsuring there are suitable transport available for migrants to move around safely!!\nOrganising Xmas events, looking out clothes they no longer need offering them up to the new arrivals!!\nThrow in some home baking!!\nEnjoy",
+      "url": "https://x.com/margoau38464119/status/2121626195183681978",
+      "source_url": "https://x.com/margoau38464119/status/2121626195183681978",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 26.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport available"
+        ],
+        [
+          "coordination",
+          "transport available"
+        ],
+        [
+          "HIGH_VALUE",
+          "transport available"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport available"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1442,
+      "source": "X",
+      "source_post_id": "2121630633848098845",
+      "author": "krawiec_ted",
+      "language": "en",
+      "published_at": "2026-11-14T15:45:35Z",
+      "first_detected_at": "2026-11-14T16:13:13Z",
+      "last_detected_at": "2026-11-14T16:13:13Z",
+      "detection_count": 1,
+      "text": "@GavinNewsom I’m worried. Democrats aren’t even in power, yet Day One, their war on AI/data centers caused a multi-trillion market loss. Now there’s a caravan of migrants heading to the US expecting the Democrats to open the border.\n\nEveryone should be worried. Democrat policies are harmful.",
+      "text_excerpt": "@GavinNewsom I’m worried. Democrats aren’t even in power, yet Day One, their war on AI/data centers caused a multi-trillion market loss. Now there’s a caravan of migrants heading to the US expecting the Democrats to open the border.\n\nEveryone should be worried. Democrat policies are harmful.",
+      "url": "https://x.com/krawiec_ted/status/2121630633848098845",
+      "source_url": "https://x.com/krawiec_ted/status/2121630633848098845",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants heading"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants heading"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1441,
+      "source": "X",
+      "source_post_id": "2121634679434444885",
+      "author": "RealAmericanRep",
+      "language": "en",
+      "published_at": "2026-11-14T16:01:40Z",
+      "first_detected_at": "2026-11-14T16:13:12Z",
+      "last_detected_at": "2026-11-14T16:13:12Z",
+      "detection_count": 1,
+      "text": "~1,500 migrants heading north from southern Mexico. Trump: \"MEXICO MUST STOP THEM, NOW\" or tariffs \"IMMEDIATELY DOUBLED.\"\n\nDouble them if the caravan isn't stopped?\nLike = YES\nRepost = NO\n\n#Border #RealAmerican https://t.co/I7p8pSfCjg",
+      "text_excerpt": "~1,500 migrants heading north from southern Mexico. Trump: \"MEXICO MUST STOP THEM, NOW\" or tariffs \"IMMEDIATELY DOUBLED.\"\n\nDouble them if the caravan isn't stopped?\nLike = YES\nRepost = NO\n\n#Border #RealAmerican https://t.co/I7p8pSfCjg",
+      "url": "https://x.com/RealAmericanRep/status/2121634679434444885",
+      "source_url": "https://x.com/RealAmericanRep/status/2121634679434444885",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants heading"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants heading"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1443,
+      "source": "X",
+      "source_post_id": "2121626195183681978",
+      "author": "margoau38464119",
+      "language": "en",
+      "published_at": "2026-11-14T15:27:57Z",
+      "first_detected_at": "2026-11-14T16:14:06Z",
+      "last_detected_at": "2026-11-14T16:14:06Z",
+      "detection_count": 1,
+      "text": "@LBC Piddinton should be getting ready for its new arrivals!!\nEnsuring there are suitable transport available for migrants to move around safely!!\nOrganising Xmas events, looking out clothes they no longer need offering them up to the new arrivals!!\nThrow in some home baking!!\nEnjoy",
+      "text_excerpt": "@LBC Piddinton should be getting ready for its new arrivals!!\nEnsuring there are suitable transport available for migrants to move around safely!!\nOrganising Xmas events, looking out clothes they no longer need offering them up to the new arrivals!!\nThrow in some home baking!!\nEnjoy",
+      "url": "https://x.com/margoau38464119/status/2121626195183681978",
+      "source_url": "https://x.com/margoau38464119/status/2121626195183681978",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.99,
+      "score": 26.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport available"
+        ],
+        [
+          "coordination",
+          "transport available"
+        ],
+        [
+          "HIGH_VALUE",
+          "transport available"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport available"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2121626195183681978"
+      ],
+      "related_authors": [
+        "margoau38464119"
+      ],
+      "related_urls": [
+        "https://x.com/margoau38464119/status/2121626195183681978"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
