@@ -298,6 +298,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T08:35:53.099749+00:00"
+    },
+    "group:723": {
+      "hu_text": "@Reuters Ez nemzetközi bűnszervezetek emberkereskedése. Azokat a civil szervezeteket, amelyek ezt támogatják, be kellene zárni, a csempészeket pedig letartóztatni. A migránsokat vissza kellene küldeni az eredeti hazájukba. Néhányuk veszélyes bűnöző és terrorista.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások erősen véleményesek, súlyos vádakat tartalmaznak emberkereskedelemmel és bűnözőkkel kapcsolatban, de nincs megerősített bizonyíték a szövegben. Emiatt ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:43:56.995269+00:00"
+    },
+    "group:724": {
+      "hu_text": "@kevinhollinrake A Brexit megszüntette azt a gyakorlatot, hogy a menedékkérő migránsokat visszaküldjék az utolsó országba, ahol beléptek. Ez jól működött, nem voltak kis hajók.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás a Brexit migrációs politikájára vonatkozik, de nincs megerősített forrás vagy hivatalos adat, így ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:43:56.995290+00:00"
+    },
+    "information:27087": {
+      "hu_text": "@zarahussain999 A migránsok sok biztonságos országon keresztül haladnak, ahol menedéket kérhetnek, mielőtt kockáztatnák az életüket a 22 mérföldes nyílt tengeri átkelés során.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az információ általános megfigyelést tartalmaz a migránsok útvonalairól, de nincs konkrét bizonyíték vagy statisztika, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:43:56.995295+00:00"
+    },
+    "information:27088": {
+      "hu_text": "@iamthecat69 Szia... brit zsidók... BOCSÁNAT... @GBNEWS ez az a történet, amit kerestél. Az igazság a világban zajló zavarokról, az úgynevezett illegális hajóval érkező migránsok elleni hamis kampány mögött... PS: Andrew Pierce szerepelni fog a Morning Show-ban a nagy fogakkal, szőke https://t.co/EvmQp1HLbX",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és médiafelhívás, nincs konkrét tényállítás vagy bizonyítható adat, így alacsony prioritású ellenőrzést igényel.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:43:56.995298+00:00"
+    },
+    "information:27090": {
+      "hu_text": "@Mydogsfavoq1 @hardyrenos És aztán még több millió.\n\nMeg kell fosztani állampolgárságuktól és ki kell toloncolni azokat, akik csalárd módon jutottak be. Ez vonatkozik azokra a menekültekre is, akik az USA-ból léptek át a határon és szereztek állampolgárságot. Minden születési jogon állampolgárságot szerzett gyermek támadás Kanadára, őket ki kell toloncolni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások súlyosak, állampolgárság megvonásáról és deportálásról szólnak, de nincs megerősített bizonyíték vagy hivatalos állásfoglalás, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:43:56.995301+00:00"
+    },
+    "information:27096": {
+      "hu_text": "Egy új törvény vitákat vált ki Nagy-Britanniában! 🚨 Azok a menekültek, akik csónakkal átkelnek az angol csatornán, megfosztják brit állampolgárságuktól. Egyesek kegyetlennek és embertelennek tartják, míg a kormány szükséges intézkedésként védi a határok ellenőrzése érdekében.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális jogszabályról szól, amely vitákat vált ki, de nincs hivatalos megerősítés vagy részletes forrás, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:43:56.995303+00:00"
     }
   },
   "legacy_reviews": {}
