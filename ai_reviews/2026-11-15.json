@@ -144,6 +144,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T08:35:29.054325+00:00"
+    },
+    "information:27033": {
+      "hu_text": "@zarahussain999 Nem, nincs szükségünk biztonságos útvonalakra. Már megvannak. Ezért vannak jogszerű migránsaink.\nAmit tennünk kell, az az, hogy megállítsuk őket abban, hogy hajón utazzanak ide. Maradjanak a saját országukban vagy az első biztonságos országban, ahová eljutnak.\nBritannia a briteké, takarodjatok.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és társadalmi diskurzus része, amely nem tartalmaz ellenőrizhető tényállítást, ezért ellenőrizetlen státuszú.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:38.172235+00:00"
+    },
+    "information:27034": {
+      "hu_text": "Britannia bevándorlási iróniája: A jogszerű migránsoknak javasolt 10 éves várakozási idő az ILR-re (állandó tartózkodási engedély), miközben a kis hajós átkelések továbbra sem rendezettek. Igazságosság? 🇬🇧",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a brit bevándorlási politikáról, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:38.172254+00:00"
+    },
+    "information:27036": {
+      "hu_text": "@admcollingwood De a Munkáspárt és a Konzervatívok sem sok sikerrel állították meg a kis hajós migránsokat, és valószínűleg ezek kerülnek Piddingtonba. Akármelyik fő három pártra szavaztál, kevés különbség lett volna, mert ha átjutnak a Csatorna feléig, az már megállíthatatlan.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és megfigyelés a határbiztonságról, nincs megerősített adat, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:38.172259+00:00"
+    },
+    "information:27055": {
+      "hu_text": "Az USA-ban 48 óra alatt több mint 15 000 járatot töröltek, és a repülőterek úgy néznek ki, mint egy menekülttábor, csak lounge verzióban…\nAz indulási táblák mind pirosak, a sorok végtelenek, és senkinek nincs B terve.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez a bejegyzés nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikához, hanem légiközlekedési problémákról szól, ezért irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:38.172263+00:00"
+    },
+    "information:27058": {
+      "hu_text": "@Isreal_graet @MAGAVoice Igen, több spanyol forrás, köztük az EFE és helyi jelentések is megerősítették. November 14-én körülbelül 1103 migráns érkezett 12 hajón a Kanári-szigetekre, főként El Hierro szigetére (kb. 11 400–12 000 lakos). Az elmúlt öt hétben a sziget több mint 8000 migránst fogadott a hirtelen növekedés közepette.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Több forrás által megerősített adatokat tartalmaz a Kanári-szigetekre érkező migránsok számáról, ezért részben ellenőrzött státuszú.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:38.172307+00:00"
+    },
+    "record:2121872930967601389": {
+      "hu_text": "Vészhelyzetet hirdettek ki, miután november első 10 napjában 7400 migráns érkezett a Kanári-szigetekre, azaz Spanyolországba. Több ezer további migráns érkezett a szigetekre, miközben a helyi befogadóközpontok túlterheltek.\nSanchez egy megvetendő alak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A vészhelyzet kihirdetéséről szóló állítás fontos migrációs esemény, de nincs megerősített hivatalos forrás a bejegyzésben, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:38.172314+00:00"
     }
   },
   "legacy_reviews": {}
