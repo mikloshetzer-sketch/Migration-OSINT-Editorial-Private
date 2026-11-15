@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-15",
+  "reviews": {
+    "information:26963": {
+      "hu_text": "@SenSanders @grok Igaz ez, és ha igen, miért? Általában be vannak oltva kanyaró és más betegségek ellen a migránsok, amikor átlépik a határainkat? Ha elfogják őket a határon, az USA beoltja őket kanyaró és más betegségek ellen?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás oltási státuszra vonatkozik a migránsok körében, ami fontos a határbiztonság szempontjából, de nincs megerősített adat a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:07.748137+00:00"
+    },
+    "information:26964": {
+      "hu_text": "@michaelt5656 Ha megmutatnád ennek az embernek az összes menekültet és a mai problémákat, akkor egy olyan embert látnál, aki szó szerint katonákat küldene a határra azzal a kifejezett parancssal, hogy aki átlépi a határt, azt lőjék le.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy feltételezés egy személy reakciójáról, nincs tényállítás vagy bizonyíték a bejegyzésben.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:07.748161+00:00"
+    },
+    "information:26968": {
+      "hu_text": "@RepJeffries Joe Biden elnök mandátuma alatt (2021–2025) rekordmagas számú migránssal való találkozás és határátlépés történt az Egyesült Államok történetében. [1, 2]",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét adatokat közöl a migrációs eseményekről, ami fontos, de nincs közvetlen bizonyíték vagy forrás a bejegyzésben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:07.748166+00:00"
+    },
+    "information:26984": {
+      "hu_text": "@NafoBuster @RabbiJeffx A FEMA „koporsói” valójában magán temetkezési tárolók, amelyeket normál temetésekhez árulnak, és éveken át kültéren tárolnak a gyártók – ezt többször is ellenőrizték, és nincs kapcsolatuk semmilyen hivatalos készlettel. A csempészek valóban használják a tehervonatokat (autószállító kocsikat) migránsok elrejtésére, ami valódi halálesetekhez és mentésekhez vezet.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés cáfolja a FEMA koporsókkal kapcsolatos összeesküvés-elméletet, és valós problémát is említ a csempészettel kapcsolatban, amelyet korábban több forrás is megerősített.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:07.748170+00:00"
+    },
+    "information:27001": {
+      "hu_text": "@Carloxxxx2 Az áruló elhagyta rejtekhelyét. A kínai szörny San Diegóban landolt. A tajvani tigris Irvine-ban érkezett. A szörnyű migráns LA-ben töltötte az éjszakát. A sorozatos csaló átlépett Santa Barbarán. A házasságtörőt 60 mérföldre a Bay Area-tól látták.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy sértő, politikailag motivált szöveg migránsokról, nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:07.748173+00:00"
+    },
+    "record:2121767357265686538": {
+      "hu_text": "@UserTronWA @Josephlochem @TheKekSocietyX A ROG (Ruch Obrony Granic) nevű szervezetet 2025 tavaszán alapította Robert Bąkiewicz nacionalista aktivista. Az önkéntesek sárga mellényben járőröznek a lengyel-német határon, azt állítják, hogy dokumentálják a német rendőrség informális migráns visszatérítéseit, és szigorúbb ellenőrzéseket követelnek (amelyeket Lengyelország 2025 júliusában újra bevezetett).",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy új szervezet létrejöttéről és tevékenységéről szól, ami fontos a határbiztonság szempontjából, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:07.748175+00:00"
+    }
+  }
+}
