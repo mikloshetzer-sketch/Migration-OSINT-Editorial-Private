@@ -78,6 +78,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T01:31:11.318509+00:00"
+    },
+    "group:721": {
+      "hu_text": "Kanári-szigeteken történelmi rekord: egyetlen nap alatt 1488 embert mentettek ki 14 csónakból, többségük El Hierro közelében.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét mentési adatokat közöl, de nincs független forrás vagy hivatalos megerősítés a számok hitelességére, ezért előzetesen ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:29.054287+00:00"
+    },
+    "group:722": {
+      "hu_text": "Az európai migráció negatív kell, hogy legyen. Minden 99 előtti migránst ki kellene toloncolni.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz ellenőrizhető tényállítást, így nem minősíthető igazoltként vagy hamisnak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:29.054308+00:00"
+    },
+    "information:27021": {
+      "hu_text": "Nem voltak képesek megállítani egy gumicsónaknyi migránst, akik átkeltek a csatornán.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás a határvédelem kudarcáról, de nincs konkrét bizonyíték vagy hivatalos jelentés, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:29.054314+00:00"
+    },
+    "information:27023": {
+      "hu_text": "A brit határvédelmi hajóflotta elöregedett, és a belügyminisztérium szerint a cseréjük előtt évekkel kiállhatnak a szolgálatból.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a határbiztonság állapotáról, de a minisztériumi bejelentés hitelessége és részletei ellenőrizendők.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:29.054318+00:00"
+    },
+    "information:27026": {
+      "hu_text": "Az illegális bevándorlás emberi migránsok engedély nélküli határátlépése gazdasági, politikai és biztonsági okok miatt. Az „idegen invázió” kifejezés földönkívüli lényekre utal, nincs hiteles bizonyíték vagy hivatalos forrás, amely összekötné a kettőt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ténymegállapítás, amely a migráció és összeesküvés-elméletek közti különbséget tisztázza, és nem tartalmaz hamis információt.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:29.054321+00:00"
+    },
+    "information:27030": {
+      "hu_text": "A gazdasági migránsoknak a saját országukban kellene maradniuk és megoldaniuk a problémáikat, így nem halnának meg az átkelés közben. Elhagytak egy biztonságos országot, hogy illegálisan lépjenek be egy másikba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely migrációs szempontból értékel, de nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:29.054325+00:00"
     }
   },
   "legacy_reviews": {}
