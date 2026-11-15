@@ -364,6 +364,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T16:43:56.995303+00:00"
+    },
+    "information:27098": {
+      "hu_text": "Számoljunk a módokon, ahogy Greg Abbott megerősítette a texasi határt... 2021 januárjában Biden leállította a határfal építését, megtiltotta az ICE kitoloncoló tisztviselőinek a kitoloncolásokat, és megszüntette az oltalmazottak Mexikóban tartózkodásának kötelezettségét, többek között.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások részben politikai vélemények és részben ténymegállapítások, de nincs közvetlen bizonyíték a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:06.171187+00:00"
+    },
+    "information:27101": {
+      "hu_text": "Spanyolország légi úton több mint 2000 migránst szállított a Kanári-szigetekről a szárazföldre. Két nap alatt mintegy 2200 migráns érkezett a Kanári-szigetekre, és november 1. óta Madrid több mint 2000 migránst helyezett át.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről szól, amely fontos információ lehet, de nincs megerősített forrás vagy további bizonyíték a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:06.171205+00:00"
+    },
+    "information:27106": {
+      "hu_text": "Ironikus, hogy ha egy deportációra kiszabott migránskaraván (haiti, venezuelai, kongói, szomáliai, kínai) Texason keresztül a mexikói határ felé indulna, a mexikói elnök azt követelné, hogy a Trump-kormányzat oszlassa fel a migránsokat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és feltételezés migrációs helyzetről, nincs bizonyíték vagy tényadat a szövegben.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:06.171209+00:00"
+    },
+    "record:2121998339281502407": {
+      "hu_text": "Brexit véget vetett annak, hogy a menedékkérő migránsokat az utolsó érkezési országból toloncolják ki. Ez jól működött, nem voltak kis hajók.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás egy jogi-politikai változásról, de nincs megerősített forrás vagy részletes bizonyíték a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:06.171212+00:00"
+    },
+    "record:2122002011767947663": {
+      "hu_text": "Hallottál már a globális illegális migrációs válságról, és arról, hogy szocialista vagy kommunista kartellek 100 millió migránst csempésznek ezekbe az országokba? Ez a migráció annyira megterheli a lakhatást és a pénzügyeket, hogy a helyiek nem találnak...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erős állításokat tartalmaz migrációs válságról és kartellekről, de nincs bizonyíték vagy hiteles forrás a szövegben, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:06.171215+00:00"
+    },
+    "record:2122002535477071923": {
+      "hu_text": "Nem „migránsok”, hanem illegálisok. A tengeren eldobálják az útlevelüket, és azt mondják, hogy menedéket kérnek. Az ECHR egyezmény alapján el kell fogadnunk őket. Az igazolványaikat eldobják, így az Egyesült Királyság vám- és hatósági személyzete nem tudja ellenőrizni a történetüket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a migránsok jogi státuszáról és viselkedéséről, de nincs megerősített bizonyíték vagy hivatalos forrás a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:06.171218+00:00"
     }
   },
   "legacy_reviews": {}
