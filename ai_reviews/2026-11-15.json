@@ -67,6 +67,18 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T01:31:07.748175+00:00"
+    },
+    "record:2121774864432333230": {
+      "hu_text": "@oogu @TheKekSocietyX Nincs független megerősítés arra, hogy a német rendőrség erdei földutakat használna migránsok Lengyelországba történő illegális átdobására. A lengyel határőrség és a belügyminisztérium adatai szerint 2025-2026-ban nulla informális áthelyezés történt; a visszaforgalom magasabb. Állampolgári járőrök állítják, hogy figyelik és elrettentik az ilyen eseteket a hivatalos visszatérések mellett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások hivatalos lengyel hatósági adatokra hivatkoznak, de nincs független megerősítés, így az információk ellenőrzése szükséges. A téma a határbiztonsághoz kapcsolódik, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T01:31:11.318509+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
