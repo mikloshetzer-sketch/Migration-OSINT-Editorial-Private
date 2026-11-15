@@ -238,6 +238,355 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1450,
+      "source": "X",
+      "source_post_id": "2122007026976899445",
+      "author": "SinisterSleuth",
+      "language": "en",
+      "published_at": "2026-11-15T16:41:14Z",
+      "first_detected_at": "2026-11-15T16:41:59Z",
+      "last_detected_at": "2026-11-15T16:41:59Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "text_excerpt": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "source_url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.92,
+      "score": 18.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.2,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1452,
+      "source": "X",
+      "source_post_id": "2122002535477071923",
+      "author": "ArcticAdvisory",
+      "language": "en",
+      "published_at": "2026-11-15T16:23:24Z",
+      "first_detected_at": "2026-11-15T16:42:31Z",
+      "last_detected_at": "2026-11-15T16:42:31Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "text_excerpt": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "source_url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1451,
+      "source": "X",
+      "source_post_id": "2122005743410749696",
+      "author": "KevinLuzuybq",
+      "language": "en",
+      "published_at": "2026-11-15T16:36:08Z",
+      "first_detected_at": "2026-11-15T16:42:00Z",
+      "last_detected_at": "2026-11-15T16:42:00Z",
+      "detection_count": 1,
+      "text": "🌊 Nearly 2,200 migrants reached Spain's Canary Islands by boat in just two days, according to rescue officials. Most came from West Africa, highlighting the deadly risks of the Atlantic migration route. #CanaryIslands #Africa https://t.co/OytIHeq4eC",
+      "text_excerpt": "🌊 Nearly 2,200 migrants reached Spain's Canary Islands by boat in just two days, according to rescue officials. Most came from West Africa, highlighting the deadly risks of the Atlantic migration route. #CanaryIslands #Africa https://t.co/OytIHeq4eC",
+      "url": "https://x.com/KevinLuzuybq/status/2122005743410749696",
+      "source_url": "https://x.com/KevinLuzuybq/status/2122005743410749696",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants reached"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1449,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117621193389027152",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-15T15:36:19Z",
+      "first_detected_at": "2026-11-15T16:41:29Z",
+      "last_detected_at": "2026-11-15T16:41:29Z",
+      "detection_count": 1,
+      "text": "The Canary Islands remain a key entry point for migrants reaching Europe. What does the latest surge mean for Spain? https:// usa.ntlivenews.com/spain-canar y-islands-migration-nearly-2200-migrants-arrive-by-boat-in-two-days/ # CanaryIslandsMigration # EuropeNews # Immigration",
+      "text_excerpt": "The Canary Islands remain a key entry point for migrants reaching Europe. What does the latest surge mean for Spain? https:// usa.ntlivenews.com/spain-canar y-islands-migration-nearly-2200-migrants-arrive-by-boat-in-two-days/ # CanaryIslandsMigration # EuropeNews # Immigration",
+      "url": "https://mastodon.social/@USAtrendz/117621193389027152",
+      "source_url": "https://mastodon.social/@USAtrendz/117621193389027152",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants-arrive"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "surge"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants-arrive",
+        "surge"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1454,
+      "source": "X",
+      "source_post_id": "2122007221919711577",
+      "author": "Jonathanbello02",
+      "language": "en",
+      "published_at": "2026-11-15T16:42:01Z",
+      "first_detected_at": "2026-11-15T16:43:31Z",
+      "last_detected_at": "2026-11-15T16:43:31Z",
+      "detection_count": 1,
+      "text": "Breaking 🌐 \n\nA fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving nearly 500 people homeless.\n\nCivil defence teams extinguished the blaze, but the cause remains unknown, Anadolu Agency reported, citing eyewitnesses. https://t.co/C2Mss3dULm",
+      "text_excerpt": "Breaking 🌐 \n\nA fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving nearly 500 people homeless.\n\nCivil defence teams extinguished the blaze, but the cause remains unknown, Anadolu Agency reported, citing eyewitnesses. https://t.co/C2Mss3dULm",
+      "url": "https://x.com/Jonathanbello02/status/2122007221919711577",
+      "source_url": "https://x.com/Jonathanbello02/status/2122007221919711577",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [
+        "refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1453,
+      "source": "X",
+      "source_post_id": "2122002011767947663",
+      "author": "Jackxsoul",
+      "language": "en",
+      "published_at": "2026-11-15T16:21:19Z",
+      "first_detected_at": "2026-11-15T16:43:01Z",
+      "last_detected_at": "2026-11-15T16:43:01Z",
+      "detection_count": 1,
+      "text": "@andres20ad Wait a minute, have you heard about the global crisis of illegal immigration and how socialist or communist cartels are smuggling 100 million migrants into these countries? Could it be that this migration is putting such a strain on housing and finances that locals can't find",
+      "text_excerpt": "@andres20ad Wait a minute, have you heard about the global crisis of illegal immigration and how socialist or communist cartels are smuggling 100 million migrants into these countries? Could it be that this migration is putting such a strain on housing and finances that locals can't find",
+      "url": "https://x.com/Jackxsoul/status/2122002011767947663",
+      "source_url": "https://x.com/Jackxsoul/status/2122002011767947663",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggling 100 million migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling 100 million migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -460,6 +809,355 @@
       ],
       "high_value_matches": [
         "Migrants and Celebrating it but I was just told the public Transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1450,
+      "source": "X",
+      "source_post_id": "2122007026976899445",
+      "author": "SinisterSleuth",
+      "language": "en",
+      "published_at": "2026-11-15T16:41:14Z",
+      "first_detected_at": "2026-11-15T16:41:59Z",
+      "last_detected_at": "2026-11-15T16:41:59Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "text_excerpt": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "source_url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.92,
+      "score": 18.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.2,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1452,
+      "source": "X",
+      "source_post_id": "2122002535477071923",
+      "author": "ArcticAdvisory",
+      "language": "en",
+      "published_at": "2026-11-15T16:23:24Z",
+      "first_detected_at": "2026-11-15T16:42:31Z",
+      "last_detected_at": "2026-11-15T16:42:31Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "text_excerpt": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "source_url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1451,
+      "source": "X",
+      "source_post_id": "2122005743410749696",
+      "author": "KevinLuzuybq",
+      "language": "en",
+      "published_at": "2026-11-15T16:36:08Z",
+      "first_detected_at": "2026-11-15T16:42:00Z",
+      "last_detected_at": "2026-11-15T16:42:00Z",
+      "detection_count": 1,
+      "text": "🌊 Nearly 2,200 migrants reached Spain's Canary Islands by boat in just two days, according to rescue officials. Most came from West Africa, highlighting the deadly risks of the Atlantic migration route. #CanaryIslands #Africa https://t.co/OytIHeq4eC",
+      "text_excerpt": "🌊 Nearly 2,200 migrants reached Spain's Canary Islands by boat in just two days, according to rescue officials. Most came from West Africa, highlighting the deadly risks of the Atlantic migration route. #CanaryIslands #Africa https://t.co/OytIHeq4eC",
+      "url": "https://x.com/KevinLuzuybq/status/2122005743410749696",
+      "source_url": "https://x.com/KevinLuzuybq/status/2122005743410749696",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants reached"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants reached"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1449,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117621193389027152",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-15T15:36:19Z",
+      "first_detected_at": "2026-11-15T16:41:29Z",
+      "last_detected_at": "2026-11-15T16:41:29Z",
+      "detection_count": 1,
+      "text": "The Canary Islands remain a key entry point for migrants reaching Europe. What does the latest surge mean for Spain? https:// usa.ntlivenews.com/spain-canar y-islands-migration-nearly-2200-migrants-arrive-by-boat-in-two-days/ # CanaryIslandsMigration # EuropeNews # Immigration",
+      "text_excerpt": "The Canary Islands remain a key entry point for migrants reaching Europe. What does the latest surge mean for Spain? https:// usa.ntlivenews.com/spain-canar y-islands-migration-nearly-2200-migrants-arrive-by-boat-in-two-days/ # CanaryIslandsMigration # EuropeNews # Immigration",
+      "url": "https://mastodon.social/@USAtrendz/117621193389027152",
+      "source_url": "https://mastodon.social/@USAtrendz/117621193389027152",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants-arrive"
+        ],
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "pressure",
+          "surge"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants-arrive",
+        "surge"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Canary Islands",
+      "primary_location": "Canary Islands",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 42.5,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1454,
+      "source": "X",
+      "source_post_id": "2122007221919711577",
+      "author": "Jonathanbello02",
+      "language": "en",
+      "published_at": "2026-11-15T16:42:01Z",
+      "first_detected_at": "2026-11-15T16:43:31Z",
+      "last_detected_at": "2026-11-15T16:43:31Z",
+      "detection_count": 1,
+      "text": "Breaking 🌐 \n\nA fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving nearly 500 people homeless.\n\nCivil defence teams extinguished the blaze, but the cause remains unknown, Anadolu Agency reported, citing eyewitnesses. https://t.co/C2Mss3dULm",
+      "text_excerpt": "Breaking 🌐 \n\nA fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving nearly 500 people homeless.\n\nCivil defence teams extinguished the blaze, but the cause remains unknown, Anadolu Agency reported, citing eyewitnesses. https://t.co/C2Mss3dULm",
+      "url": "https://x.com/Jonathanbello02/status/2122007221919711577",
+      "source_url": "https://x.com/Jonathanbello02/status/2122007221919711577",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [
+        "refugee camp in Bar Elias, eastern Lebanon, destroying all 59 tents and leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1453,
+      "source": "X",
+      "source_post_id": "2122002011767947663",
+      "author": "Jackxsoul",
+      "language": "en",
+      "published_at": "2026-11-15T16:21:19Z",
+      "first_detected_at": "2026-11-15T16:43:01Z",
+      "last_detected_at": "2026-11-15T16:43:01Z",
+      "detection_count": 1,
+      "text": "@andres20ad Wait a minute, have you heard about the global crisis of illegal immigration and how socialist or communist cartels are smuggling 100 million migrants into these countries? Could it be that this migration is putting such a strain on housing and finances that locals can't find",
+      "text_excerpt": "@andres20ad Wait a minute, have you heard about the global crisis of illegal immigration and how socialist or communist cartels are smuggling 100 million migrants into these countries? Could it be that this migration is putting such a strain on housing and finances that locals can't find",
+      "url": "https://x.com/Jackxsoul/status/2122002011767947663",
+      "source_url": "https://x.com/Jackxsoul/status/2122002011767947663",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggling 100 million migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling 100 million migrants"
       ],
       "signal_context_rejections": [],
       "migration_context": true,
@@ -1004,9 +1702,270 @@
       "first_collected_at": "2026-11-15T08:34:05Z",
       "last_collected_at": "2026-11-15T08:34:05Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27088",
+      "timestamp": "2026-11-15T16:40:50Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122006923130143098",
+      "author": "dhpqfbcgg2",
+      "url": "https://x.com/dhpqfbcgg2/status/2122006923130143098",
+      "source_url": "https://x.com/dhpqfbcgg2/status/2122006923130143098",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@iamthecat69 Hi … GB jews…SORRY..@GBNEWS this is the story you’ve been looking for. The truth behind all the disruption in the world the truth behind your fake campaign against so called illegal boat crossing migrants… PS will Andrew Pierce b on the Morning Show with the big teeth, blonde https://t.co/EvmQp1HLbX",
+      "text_excerpt": "@iamthecat69 Hi … GB jews…SORRY..@GBNEWS this is the story you’ve been looking for. The truth behind all the disruption in the world the truth behind your fake campaign against so called illegal boat crossing migrants… PS will Andrew Pierce b on the Morning Show with the big teeth, blonde https://t.co/EvmQp1HLbX",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:41:59Z",
+      "last_collected_at": "2026-11-15T16:41:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27087",
+      "timestamp": "2026-11-15T16:40:50Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122006924162166912",
+      "author": "weareengland19",
+      "url": "https://x.com/weareengland19/status/2122006924162166912",
+      "source_url": "https://x.com/weareengland19/status/2122006924162166912",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@zarahussain999 Migrants cross through many safe country’s they can claim asylum in before the risk their life’s crossing 22 miles of open sea",
+      "text_excerpt": "@zarahussain999 Migrants cross through many safe country’s they can claim asylum in before the risk their life’s crossing 22 miles of open sea",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:41:59Z",
+      "last_collected_at": "2026-11-15T16:41:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27090",
+      "timestamp": "2026-11-15T16:39:58Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122006707002110454",
+      "author": "Minoritywhite11",
+      "url": "https://x.com/Minoritywhite11/status/2122006707002110454",
+      "source_url": "https://x.com/Minoritywhite11/status/2122006707002110454",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@Mydogsfavoq1 @hardyrenos And then millions more.\n\nWe'll need to denaturalize and deport anyone who came on fraudulent grounds.  That includes any refugees who walked across the border from the USA and gained citizenship. Any birthright baby is an attack on Canadians, they'll need to be deported.",
+      "text_excerpt": "@Mydogsfavoq1 @hardyrenos And then millions more.\n\nWe'll need to denaturalize and deport anyone who came on fraudulent grounds.  That includes any refugees who walked across the border from the USA and gained citizenship. Any birthright baby is an attack on Canadians, they'll need to be deported.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:42:00Z",
+      "last_collected_at": "2026-11-15T16:42:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27096",
+      "timestamp": "2026-11-15T16:36:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122005714910470632",
+      "author": "Union_timesuk",
+      "url": "https://x.com/Union_timesuk/status/2122005714910470632",
+      "source_url": "https://x.com/Union_timesuk/status/2122005714910470632",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "A new law is causing controversy in #Britain ! 🚨 Refugees who cross the English Channel by boat will be stripped of British citizenship. Some call it cruel and inhumane, while the government defends it as a necessary measure to control the borders. https://t.co/XMZm5slhMS",
+      "text_excerpt": "A new law is causing controversy in #Britain ! 🚨 Refugees who cross the English Channel by boat will be stripped of British citizenship. Some call it cruel and inhumane, while the government defends it as a necessary measure to control the borders. https://t.co/XMZm5slhMS",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:42:30Z",
+      "last_collected_at": "2026-11-15T16:42:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27098",
+      "timestamp": "2026-11-15T16:34:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122005206321754438",
+      "author": "Anna_Giaritelli",
+      "url": "https://x.com/Anna_Giaritelli/status/2122005206321754438",
+      "source_url": "https://x.com/Anna_Giaritelli/status/2122005206321754438",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "Let's count the ways Greg Abbott shored up the Texas border...\n\nIn January 2021, Biden halted hundreds of miles of border wall construction, barred ICE deportation officers from removals, and stopped requiring asylum-seekers to remain in Mexico, among other actions.\n\nWithin",
+      "text_excerpt": "Let's count the ways Greg Abbott shored up the Texas border...\n\nIn January 2021, Biden halted hundreds of miles of border wall construction, barred ICE deportation officers from removals, and stopped requiring asylum-seekers to remain in Mexico, among other actions.\n\nWithin",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:42:30Z",
+      "last_collected_at": "2026-11-15T16:42:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27106",
+      "timestamp": "2026-11-15T16:31:16Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122004515809263894",
+      "author": "PlainNSimpleton",
+      "url": "https://x.com/PlainNSimpleton/status/2122004515809263894",
+      "source_url": "https://x.com/PlainNSimpleton/status/2122004515809263894",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@HMDatMI The irony is that, if a caravan of subject-to-US-deportation Haitians-Venezuelans-Congolese-Somalian-Chinese immigrants began trekking through Texas to the Mexican border, Mexican President Sheinbaum would demand that the Trump administration disperse the immigrants, or the",
+      "text_excerpt": "@HMDatMI The irony is that, if a caravan of subject-to-US-deportation Haitians-Venezuelans-Congolese-Somalian-Chinese immigrants began trekking through Texas to the Mexican border, Mexican President Sheinbaum would demand that the Trump administration disperse the immigrants, or the",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:43:01Z",
+      "last_collected_at": "2026-11-15T16:43:01Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27101",
+      "timestamp": "2026-11-15T16:10:07Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121999194466750525",
+      "author": "NEWSPOPFFF",
+      "url": "https://x.com/NEWSPOPFFF/status/2121999194466750525",
+      "source_url": "https://x.com/NEWSPOPFFF/status/2121999194466750525",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "rescue",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "#SPAIN_AIRLIFTS_OVER_2000_MIGRANTS FROM CANARY ISLANDS TO MAINLAND\n\nSpain: Nearly 2,200 migrants reportedly arrived in Spain’s Canary Islands within just two days, according to the maritime rescue service. Since November 1, Madrid has transferred more than 2,000 migrants to https://t.co/lyQcYzoseC",
+      "text_excerpt": "#SPAIN_AIRLIFTS_OVER_2000_MIGRANTS FROM CANARY ISLANDS TO MAINLAND\n\nSpain: Nearly 2,200 migrants reportedly arrived in Spain’s Canary Islands within just two days, according to the maritime rescue service. Since November 1, Madrid has transferred more than 2,000 migrants to https://t.co/lyQcYzoseC",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T16:42:31Z",
+      "last_collected_at": "2026-11-15T16:42:31Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-15T08:35:16.832592+00:00",
+  "last_archived_at": "2026-11-15T16:43:36.531309+00:00",
   "live_events": [
     {
       "id": 910,
@@ -1073,6 +2032,50 @@
       "text": "State of emergency declared after 7,400 migrants arrived in the Canary Islands aka Spain within the first 10 days of November. Thousands more have reached the islands amidst overwhelming conditions at local reception centers. \n\nSanchez is a despicable shitweazel 🖕 https://t.co/56B5R3RJRx",
       "url": "https://x.com/jronws/status/2121872930967601389",
       "source_url": "https://x.com/jronws/status/2121872930967601389"
+    },
+    {
+      "id": 913,
+      "event_id": 913,
+      "source": "X",
+      "source_post_id": "2122004502752436344",
+      "author": "JackCitizenUS",
+      "published_at": "2026-11-15T16:31:13Z",
+      "collected_at": "2026-11-15T16:43:01Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@Reuters This is human trafficking by international crime cartels.  The NGOs that support this need to be closed and the traffickers arrested.  The migrants should be returned to their country of origin.   Some of them are dangerous criminals and terrorists.",
+      "url": "https://x.com/JackCitizenUS/status/2122004502752436344",
+      "source_url": "https://x.com/JackCitizenUS/status/2122004502752436344"
+    },
+    {
+      "id": 914,
+      "event_id": 914,
+      "source": "X",
+      "source_post_id": "2121998339281502407",
+      "author": "robsmithrugby",
+      "published_at": "2026-11-15T16:06:43Z",
+      "collected_at": "2026-11-15T16:43:31Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@kevinhollinrake It’s was that Brexit ended deportation back to the last country the asylum seeking migrant arrived from. Worked just fine…..no small boats.",
+      "url": "https://x.com/robsmithrugby/status/2121998339281502407",
+      "source_url": "https://x.com/robsmithrugby/status/2121998339281502407"
     }
   ],
   "event_groups": [
@@ -1133,6 +2136,64 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-15T08:33:40Z",
       "updated_at": "2026-11-15T08:33:40Z"
+    },
+    {
+      "id": 723,
+      "group_id": 723,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "@Reuters This is human trafficking by international crime cartels.  The NGOs that support this need to be closed and the traffickers arrested.  The migrants should be returned to their country of origin.   Some of them are dangerous criminals and terrorists.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-15T16:31:13Z",
+      "last_seen": "2026-11-15T16:31:13Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-15T16:43:01Z",
+      "updated_at": "2026-11-15T16:43:01Z"
+    },
+    {
+      "id": 724,
+      "group_id": 724,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@kevinhollinrake It’s was that Brexit ended deportation back to the last country the asylum seeking migrant arrived from. Worked just fine…..no small boats.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-15T16:06:43Z",
+      "last_seen": "2026-11-15T16:06:43Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-15T16:43:31Z",
+      "updated_at": "2026-11-15T16:43:31Z"
     }
   ],
   "telegram_posts": [
@@ -1199,6 +2260,510 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1450,
+      "source": "X",
+      "source_post_id": "2122007026976899445",
+      "author": "SinisterSleuth",
+      "language": "en",
+      "published_at": "2026-11-15T16:41:14Z",
+      "first_detected_at": "2026-11-15T16:41:59Z",
+      "last_detected_at": "2026-11-15T16:41:59Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "text_excerpt": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "source_url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.92,
+      "score": 18.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.2,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1452,
+      "source": "X",
+      "source_post_id": "2122002535477071923",
+      "author": "ArcticAdvisory",
+      "language": "en",
+      "published_at": "2026-11-15T16:23:24Z",
+      "first_detected_at": "2026-11-15T16:42:31Z",
+      "last_detected_at": "2026-11-15T16:42:31Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "text_excerpt": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "source_url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1450,
+      "source": "X",
+      "source_post_id": "2122007026976899445",
+      "author": "SinisterSleuth",
+      "language": "en",
+      "published_at": "2026-11-15T16:41:14Z",
+      "first_detected_at": "2026-11-15T16:41:59Z",
+      "last_detected_at": "2026-11-15T16:41:59Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "text_excerpt": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "source_url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.92,
+      "score": 18.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.2,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1452,
+      "source": "X",
+      "source_post_id": "2122002535477071923",
+      "author": "ArcticAdvisory",
+      "language": "en",
+      "published_at": "2026-11-15T16:23:24Z",
+      "first_detected_at": "2026-11-15T16:42:31Z",
+      "last_detected_at": "2026-11-15T16:42:31Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "text_excerpt": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "source_url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1450,
+      "source": "X",
+      "source_post_id": "2122007026976899445",
+      "author": "SinisterSleuth",
+      "language": "en",
+      "published_at": "2026-11-15T16:41:14Z",
+      "first_detected_at": "2026-11-15T16:41:59Z",
+      "last_detected_at": "2026-11-15T16:41:59Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "text_excerpt": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "source_url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.92,
+      "score": 18.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.2,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122007026976899445"
+      ],
+      "related_authors": [
+        "SinisterSleuth"
+      ],
+      "related_urls": [
+        "https://x.com/SinisterSleuth/status/2122007026976899445"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1452,
+      "source": "X",
+      "source_post_id": "2122002535477071923",
+      "author": "ArcticAdvisory",
+      "language": "en",
+      "published_at": "2026-11-15T16:23:24Z",
+      "first_detected_at": "2026-11-15T16:42:31Z",
+      "last_detected_at": "2026-11-15T16:42:31Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "text_excerpt": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "source_url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122002535477071923"
+      ],
+      "related_authors": [
+        "ArcticAdvisory"
+      ],
+      "related_urls": [
+        "https://x.com/ArcticAdvisory/status/2122002535477071923"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1450,
+      "source": "X",
+      "source_post_id": "2122007026976899445",
+      "author": "SinisterSleuth",
+      "language": "en",
+      "published_at": "2026-11-15T16:41:14Z",
+      "first_detected_at": "2026-11-15T16:41:59Z",
+      "last_detected_at": "2026-11-15T16:41:59Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "text_excerpt": "@zarahussain999 A safe route is taking an airplane via the legal channels. Completely irresponsible of the migrants. Accountability is needed sometimes for one's actions.",
+      "url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "source_url": "https://x.com/SinisterSleuth/status/2122007026976899445",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.92,
+      "score": 18.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 58.2,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122007026976899445"
+      ],
+      "related_authors": [
+        "SinisterSleuth"
+      ],
+      "related_urls": [
+        "https://x.com/SinisterSleuth/status/2122007026976899445"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1452,
+      "source": "X",
+      "source_post_id": "2122002535477071923",
+      "author": "ArcticAdvisory",
+      "language": "en",
+      "published_at": "2026-11-15T16:23:24Z",
+      "first_detected_at": "2026-11-15T16:42:31Z",
+      "last_detected_at": "2026-11-15T16:42:31Z",
+      "detection_count": 1,
+      "text": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "text_excerpt": "@zarahussain999 But let us be clear. They are not \"migrants\", they are illegals. They throw away their passports at Sea, and are told to say that they seek asylum. Under ECHR convention we must accept them. They throw away IDs so their story cannot be checked by UK's custom &amp; Exercise personnel",
+      "url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "source_url": "https://x.com/ArcticAdvisory/status/2122002535477071923",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122002535477071923"
+      ],
+      "related_authors": [
+        "ArcticAdvisory"
+      ],
+      "related_urls": [
+        "https://x.com/ArcticAdvisory/status/2122002535477071923"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
