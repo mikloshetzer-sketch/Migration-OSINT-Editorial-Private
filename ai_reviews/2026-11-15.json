@@ -430,6 +430,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T16:44:06.171218+00:00"
+    },
+    "record:2122004502752436344": {
+      "hu_text": "@Reuters Ez emberkereskedelem nemzetközi bűnszervezetek által. Azokat a civil szervezeteket, amelyek ezt támogatják, be kellene zárni, és az embercsempészeket le kellene tartóztatni. A migránsokat vissza kellene küldeni származási országukba. Néhányuk veszélyes bűnöző és terrorista.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások súlyosak és politikailag érzékenyek, de nincs megbízható bizonyíték az embercsempészet vagy a migránsok bűnözői hátterére vonatkozóan, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:18.723828+00:00"
+    },
+    "record:2122007026976899445": {
+      "hu_text": "@zarahussain999 A biztonságos út egy repülőjárat a legális csatornákon keresztül. A migránsok teljesen felelőtlenek. Néha felelősségre kell vonni az embereket a tetteikért.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely a migrációs útvonalak felelősségéről szól, nem tényállítás, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:18.723848+00:00"
+    },
+    "record:2122007221919711577": {
+      "hu_text": "Friss hír 🌐\n\nTűzvész pusztított egy szíriai menekülttáborban Bar Eliasban, Libanon keleti részén, ahol az összes 59 sátrat elpusztította, és mintegy 500 embert hajléktalanná tett.\n\nA polgári védelem eloltotta a tüzet, de az okát még nem ismerik, az Anadolu Hírügynökség szemtanúkra hivatkozva számolt be.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tűzeset konkrét helyszínnel és következményekkel szerepel, de nincs független megerősítés, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:18.723852+00:00"
+    },
+    "telegram:1688600455:1198": {
+      "hu_text": "⚖️ Válás Hollandiában: hogyan kezdjük el\n\nHa holland bíróság előtt szeretne válni, ügyvédre van szüksége. Az eljárás az Ön személyes helyzetétől függ.\n\n➖ Az ügyvéd benyújtja a kérelmet a bírósághoz és segít a jogi kérdések rendezésében.\n➖ Ha 18 év alatti gyerekek vannak, gondoskodni kell a felügyeletről.\n➖ Mediátor segíthet a viták rendezésében a felek között.\n➖ Bizonyos feltételek mellett anyagi támogatás is elérhető a jogi segítséghez.\n\nElső konzultációért forduljon a Het Juridisch Loket vagy VWN szervezetekhez. Jelezze, ha tolmácsra van szüksége.\n\n📄 További információ: refugeehelp.nl/i/uk-t-rozluchitisya-v-niderlandah\n\n📲 Ossza meg ezt az információt a közösségi médiában\n\n✅ Időpontfoglalás: refugeehelp.nl/i/uk-t-appointment-vwn",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy hivatalos tájékoztató jogi eljárásról, amely megbízható forrásból származik, ezért ellenőrzöttnek tekinthető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:18.723857+00:00"
+    },
+    "record:2122005743410749696": {
+      "hu_text": "Közel 2200 migráns érkezett hajóval Spanyolország Kanári-szigeteire mindössze két nap alatt a mentési hatóságok szerint. A legtöbben Nyugat-Afrikából jöttek, ami rámutat az Atlanti-óceáni migrációs útvonal halálos kockázataira.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számadatokat és helyszínt tartalmaz, de nincs független, hivatalos megerősítés vagy részletes bizonyíték. A téma jelentős migrációs esemény, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:25.523406+00:00"
+    },
+    "record:mastodon_117621193389027152": {
+      "hu_text": "A Kanári-szigetek továbbra is kulcsfontosságú belépési pontot jelentenek a migránsok számára Európába. A legutóbbi növekedés mit jelent Spanyolország számára?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés inkább vélemény és kérdésfelvetés, nem konkrét tényállítás. Nem tartalmaz új, ellenőrizhető adatot, ezért közepes prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T16:44:25.523425+00:00"
     }
   },
   "legacy_reviews": {}
