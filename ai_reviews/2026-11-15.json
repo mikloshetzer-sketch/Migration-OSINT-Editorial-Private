@@ -595,6 +595,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T16:44:49.538784+00:00"
+    },
+    "information:27133": {
+      "hu_text": "„Elegem van abból, hogy a „mérsékelt” és „középutas” politikusok Izraelt „demokráciának” nevezik, amely „értékes hírszerzést” szolgáltat, anélkül, hogy megemlítenék, hogy mindez kínzásokon, hazugságokon és hamis zászlós műveleteken alapul, és hogy az úgynevezett „liberálisok”, mint Macron, Izrael piszkos munkáját végzik. Hogyan üldözhet egy ellenséges állam menekültet a határain túl? Ez a kérdés állhat egy jelenleg Franciaország különleges antiterrorista igazságszolgáltatási rendszerében zajló ügy középpontjában. Négy ENSZ különmegbízott figyelmeztetett, hogy a 2024-ben Ali O. nevű palesztin állampolgár ellen Franciaországban indított vádak kompromittált bizonyítékokon alapulnak, amelyeket Izrael szolgáltatott. Az ENSZ szakértői, köztük Francesca Albanese emberi jogi ügyvéd, aggodalmukat fejezték ki, hogy Ali letartóztatása, fogva tartása és eljárása kínzásokon és más visszaéléseken alapuló információkra épül, amelyeket az izraeli hatóságok követtek el palesztinokkal szemben.”",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi kérdéseket vet fel, de nincs megerősített bizonyíték, ezért előzetesen ellenőrizetlennek minősül. Fontos a további vizsgálat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T22:18:42.391566+00:00"
+    },
+    "information:27134": {
+      "hu_text": "„Látom a bordáimat.” „Egy hónapos éhségsztrájkot fejezett be egy amerikai Bevándorlási és Vámellenőrzési Hivatal (ICE) fogvatartási központban Georgiában.” „Tíz sztrájkoló csoportja a szabadon bocsátásukat követelte.” – Egy brooklyni menedékkérő 30 napos éhségsztrájkot szakított meg az ICE georgiai fogvatartási helyén.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az eseményről szóló beszámoló konkrét, de nincs független megerősítés, ezért előzetesen ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T22:18:42.391587+00:00"
+    },
+    "information:27148": {
+      "hu_text": "„Amerika nem a világ menekülttábora. Szuverén nemzet vagyunk, saját normákkal, határokkal és abszolút joggal, hogy nemet mondjunk.” „A politikai tisztségre nemrégiben megválasztott muszlimok azt mondják az amerikaiaknak, hogy muszlimokká kell válniuk.” „A demokratikus kommunisták azt mondják nekünk, milyen rossz...”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai véleményeket és társadalmi diskurzust tartalmaz, amelyek önmagukban nem ellenőrizhetők tényként.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T22:18:42.391592+00:00"
+    },
+    "information:27167": {
+      "hu_text": "Egy pap azt állítja, hogy a tömeges kitoloncolások keresztényekhez méltóak, de az epistemológiai alázatot javasolja. A bejegyzés a brit bevándorlás történetéről, határpolitikájáról és a kereszténység, multikulturalizmus, vallási vita témáiról szól.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Vallási és társadalmi véleményeket tartalmaz, amelyek nem tényállítások, így nem ellenőrizhetők.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T22:18:42.391595+00:00"
+    },
+    "telegram:1261826972:54666": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról vasárnapra: 1. A Ceuta elleni invázió tervezett akciója: a CENIF jelentése a marokkói parancsnokokról – a Nemzeti Rendőrség átadta a bírónőnek a marokkói rendőri és civil vezetők listáját, akik a határ környékén voltak, amikor a migránsok azt állították, hogy arra biztatták őket, hogy úszva lépjenek be Ceutába. 2. Videóval: A belügy által kitalált mesterséges intelligencia kudarcot vall a ceutai kerítésnél – az ébresztőrendszer nem különbözteti meg a migránsok közeledését az eső és szél hatásaitól, így több szubszaharai migráns is észrevétlenül átkelt. 3. Az alkohol a leggyakrabban fogyasztott pszichoaktív szer Ceutában a 14-18 éves diákok körében – a város továbbra is a megelőző munkára helyezi a hangsúlyt az Alkoholmentes Világnapon; a ceutai diákok 15,5%-a már részeg volt életében, 14%-uk pedig energiaitalokkal keverte az alkoholt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi hírek migrációs és határbiztonsági témában, de nincs független megerősítés, ezért előzetesen ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T22:18:42.391598+00:00"
+    },
+    "telegram:1261826972:54697": {
+      "hu_text": "Videóval: A Loma Colmenar település egyre több migránsnak ad otthont, már spanyol zászló is látható ott. Ez a település vált a többi számára ideiglenes központtá, ahová például sok kiköltöztetett személyt a kikötőből áthelyeztek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi migránsokkal kapcsolatos információ, amely nem tartalmaz konkrét bizonyítékot, ezért előzetesen ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T22:18:42.391601+00:00"
     }
   },
   "legacy_reviews": {}
