@@ -276,6 +276,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T08:35:46.716636+00:00"
+    },
+    "telegram:1980940690:16693": {
+      "hu_text": "Oroszországban a migránsok által elkövetett bűncselekmények száma az első kilenc hónapban 40%-kal csökkent. Az Orosz Belügyminisztérium adatai szerint 2025 január-szeptember között 20,6 ezer jogsértést követtek el külföldiek, szemben a 2025 azonos időszakában regisztrált 34,1 ezerrel. Részletes statisztika nincs, mert titkosították. A csökkenés főként a nem erőszakos bűncselekményeknek köszönhető, például az első negyedévben a tulajdon elleni bűncselekmények 14,1%-kal, a lopások 9%-kal, a csalások pedig 18,3%-kal csökkentek. Valószínűleg a kitoloncolások, biometria, az álnok bűnözők elleni ügyek és a törvények szigorítása segített. Ugyanakkor évente több tízezer bűncselekmény és körülbelül 2 millió közigazgatási jogsértés történik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások statisztikai adatokat tartalmaznak, de a részletes statisztika titkosított, így az információ nem ellenőrizhető független forrásból. A szöveg közösségi médiás állítás, ezért UNVERIFIED státusz indokolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:53.099728+00:00"
+    },
+    "telegram:2240007404:947": {
+      "hu_text": "Nagy háztartási vegyiáru- és kozmetikai gyártó vállalat munkavállalókat keres Szolnecsnogorszk városában. Felvételre várnak rakodókat (4235 rubel műszakonként kézhez) és csomagolókat (4400 rubel műszakonként kézhez). A munkaidő beosztás 2/2 vagy 3/1, nappali és éjszakai műszakokkal. Tapasztalat nem feltétel, a FÁK állampolgároknak moszkvai régiós engedély szükséges. Hivatalos foglalkoztatás, munkaruházat és termékkedvezmények biztosítottak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés jellegű közösségi médiás bejegyzés, amely nem tartalmaz ellenőrizhető tényeket, de releváns a migrációs munkaerőpiaci szándék szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:53.099749+00:00"
     }
   },
   "legacy_reviews": {}
