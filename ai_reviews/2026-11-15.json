@@ -210,6 +210,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-15T08:35:38.172314+00:00"
+    },
+    "record:2121873104767246348": {
+      "hu_text": "Egy migráns eltűnt, miután 87 embert mentettek ki, akik nehézségekbe ütköztek, miközben kis csónakkal próbálták átkelni a Csatornán. A csónak szombat este kezdett elsüllyedni, még a francia keresési-mentési területen belül.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos esemény a migrációs útvonalon, de nincs megerősített forrás vagy további bizonyíték a részletek hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:46.716599+00:00"
+    },
+    "record:2121883123201830943": {
+      "hu_text": "😡😡😡😡😡 A fenébe is! Ma Perth városában egy indiai fesztivál zajlik. Perth folyamatosan migránsokat importál és ünnepli ezt, de most azt mondták, hogy a tömegközlekedési vállalat karbantartást végez a vonalon, így a hazajutáshoz szükséges vonat nem jár.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és panasz, nincs bizonyíték a migrációs folyamatok vagy szolgáltatások tényleges változására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:46.716618+00:00"
+    },
+    "record:2121884034124988897": {
+      "hu_text": "@ToryFibs Az európai migráció negatív kell, hogy legyen. Minden 99 előtti migránst ki kellene toloncolni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, nem tényállítás, így nincs szükség ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:46.716623+00:00"
+    },
+    "record:2121884137334387090": {
+      "hu_text": "🌊 Rekord a Kanári-szigeteken: egyetlen nap alatt 1488 embert mentettek ki 14 csónakból, többségüket El Hierro közelében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jelentős mentési esemény migránsokkal, de nincs megerősített forrás vagy hivatalos jelentés a pontos számokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:46.716628+00:00"
+    },
+    "telegram:1173707041:9797": {
+      "hu_text": "Az al-Nadzsf al-Aszraf migrációs hivatal továbbra is az egységes ügyintézési rendszert alkalmazza a transzparencia növelése és az ügyfelek ügyintézésének megkönnyítése érdekében. Az iroda egyszerűsíti az eljárásokat, időt és energiát takarít meg az ügyfeleknek, és gyorsítja az ügyek intézését, miközben koordinálja az adminisztratív, műszaki és jogi egységeket a szolgáltatások színvonalának emelése érdekében. A rendszer működtetése a kormányzati program részeként történik, amely az ügyintézés egyszerűsítését célozza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos jellegű tájékoztatás migrációs adminisztrációs rendszerről, de nincs külső megerősítés vagy további részletek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:46.716632+00:00"
+    },
+    "telegram:1210507736:2517": {
+      "hu_text": "http://uzmigrant.ru/go?ref=f26oe1v",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Csak egy link, nincs releváns migrációs tartalom vagy információ a szövegben.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-15T08:35:46.716636+00:00"
     }
   },
   "legacy_reviews": {}
