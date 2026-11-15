@@ -1,0 +1,444 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-15",
+  "influence_signals": [
+    {
+      "id": 1445,
+      "source": "X",
+      "source_post_id": "2121774864432333230",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-15T01:18:43Z",
+      "first_detected_at": "2026-11-15T01:25:37Z",
+      "last_detected_at": "2026-11-15T01:25:37Z",
+      "detection_count": 1,
+      "text": "@oogu @TheKekSocietyX No independent confirmation of German police using forest dirt roads to dump migrants in Poland. Polish Border Guard and Interior Ministry data show zero informal transfers in 2025-2026; reverse flow is higher. Citizen patrols claim monitoring and deterrence amid formal returns",
+      "text_excerpt": "@oogu @TheKekSocietyX No independent confirmation of German police using forest dirt roads to dump migrants in Poland. Polish Border Guard and Interior Ministry data show zero informal transfers in 2025-2026; reverse flow is higher. Citizen patrols claim monitoring and deterrence amid formal returns",
+      "url": "https://x.com/grok/status/2121774864432333230",
+      "source_url": "https://x.com/grok/status/2121774864432333230",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "enforcement",
+          "Border Guard"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1446,
+      "source": "X",
+      "source_post_id": "2121767357265686538",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-15T00:48:53Z",
+      "first_detected_at": "2026-11-15T01:30:44Z",
+      "last_detected_at": "2026-11-15T01:30:44Z",
+      "detection_count": 1,
+      "text": "@UserTronWA @Josephlochem @TheKekSocietyX ROG (Ruch Obrony Granic) was founded in spring 2025 by nationalist activist Robert Bąkiewicz. Volunteers in yellow vests patrol the Polish-German border, claim to document informal migrant returns by German police, and press for stricter controls (which Poland reimposed in July",
+      "text_excerpt": "@UserTronWA @Josephlochem @TheKekSocietyX ROG (Ruch Obrony Granic) was founded in spring 2025 by nationalist activist Robert Bąkiewicz. Volunteers in yellow vests patrol the Polish-German border, claim to document informal migrant returns by German police, and press for stricter controls (which Poland reimposed in July",
+      "url": "https://x.com/grok/status/2121767357265686538",
+      "source_url": "https://x.com/grok/status/2121767357265686538",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1445,
+      "source": "X",
+      "source_post_id": "2121774864432333230",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-15T01:18:43Z",
+      "first_detected_at": "2026-11-15T01:25:37Z",
+      "last_detected_at": "2026-11-15T01:25:37Z",
+      "detection_count": 1,
+      "text": "@oogu @TheKekSocietyX No independent confirmation of German police using forest dirt roads to dump migrants in Poland. Polish Border Guard and Interior Ministry data show zero informal transfers in 2025-2026; reverse flow is higher. Citizen patrols claim monitoring and deterrence amid formal returns",
+      "text_excerpt": "@oogu @TheKekSocietyX No independent confirmation of German police using forest dirt roads to dump migrants in Poland. Polish Border Guard and Interior Ministry data show zero informal transfers in 2025-2026; reverse flow is higher. Citizen patrols claim monitoring and deterrence amid formal returns",
+      "url": "https://x.com/grok/status/2121774864432333230",
+      "source_url": "https://x.com/grok/status/2121774864432333230",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "enforcement",
+          "Border Guard"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1446,
+      "source": "X",
+      "source_post_id": "2121767357265686538",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-15T00:48:53Z",
+      "first_detected_at": "2026-11-15T01:30:44Z",
+      "last_detected_at": "2026-11-15T01:30:44Z",
+      "detection_count": 1,
+      "text": "@UserTronWA @Josephlochem @TheKekSocietyX ROG (Ruch Obrony Granic) was founded in spring 2025 by nationalist activist Robert Bąkiewicz. Volunteers in yellow vests patrol the Polish-German border, claim to document informal migrant returns by German police, and press for stricter controls (which Poland reimposed in July",
+      "text_excerpt": "@UserTronWA @Josephlochem @TheKekSocietyX ROG (Ruch Obrony Granic) was founded in spring 2025 by nationalist activist Robert Bąkiewicz. Volunteers in yellow vests patrol the Polish-German border, claim to document informal migrant returns by German police, and press for stricter controls (which Poland reimposed in July",
+      "url": "https://x.com/grok/status/2121767357265686538",
+      "source_url": "https://x.com/grok/status/2121767357265686538",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_EU_BORDER",
+      "primary_region": "EASTERN_EU_BORDER",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 29.2,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:26963",
+      "timestamp": "2026-11-15T01:20:38Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121775346961760585",
+      "author": "social_suzie",
+      "url": "https://x.com/social_suzie/status/2121775346961760585",
+      "source_url": "https://x.com/social_suzie/status/2121775346961760585",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@SenSanders @grok is this true and if so why? Are the migrants who cross our borders generally vaccinated for measles and other diseases when they arrive here?  If they are caught at the border does the U.S. vaccinate them for measles and other diseases?",
+      "text_excerpt": "@SenSanders @grok is this true and if so why? Are the migrants who cross our borders generally vaccinated for measles and other diseases when they arrive here?  If they are caught at the border does the U.S. vaccinate them for measles and other diseases?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T01:25:36Z",
+      "last_collected_at": "2026-11-15T01:25:36Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26964",
+      "timestamp": "2026-11-15T01:19:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121774960624492545",
+      "author": "Firecrackstar",
+      "url": "https://x.com/Firecrackstar/status/2121774960624492545",
+      "source_url": "https://x.com/Firecrackstar/status/2121774960624492545",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [
+        "today"
+      ],
+      "text": "@michaelt5656 If you were to show that man all the refugees and the problems of today you would see a man who would have literally put troops on the border with the express order saying anyone who crosses that border opened fire",
+      "text_excerpt": "@michaelt5656 If you were to show that man all the refugees and the problems of today you would see a man who would have literally put troops on the border with the express order saying anyone who crosses that border opened fire",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T01:25:37Z",
+      "last_collected_at": "2026-11-15T01:25:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26968",
+      "timestamp": "2026-11-15T01:07:13Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121771973504127065",
+      "author": "tdavy66",
+      "url": "https://x.com/tdavy66/status/2121771973504127065",
+      "source_url": "https://x.com/tdavy66/status/2121771973504127065",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@RepJeffries President Joe Biden recorded the highest number of migrant encounters and border crossings in U.S. history during his term (2021–2025). [1, 2]",
+      "text_excerpt": "@RepJeffries President Joe Biden recorded the highest number of migrant encounters and border crossings in U.S. history during his term (2021–2025). [1, 2]",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T01:25:37Z",
+      "last_collected_at": "2026-11-15T01:25:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:26984",
+      "timestamp": "2026-11-15T00:52:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121768259456249891",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2121768259456249891",
+      "source_url": "https://x.com/grok/status/2121768259456249891",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "rescue",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@NafoBuster @RabbiJeffx FEMA \"coffins\" are private burial vaults sold for normal funerals and stored outdoors by manufacturers for years—repeatedly fact-checked as unrelated to any agency stockpile. Cargo trains (autoracks) get used by smugglers to hide migrants, causing real deaths and rescues;",
+      "text_excerpt": "@NafoBuster @RabbiJeffx FEMA \"coffins\" are private burial vaults sold for normal funerals and stored outdoors by manufacturers for years—repeatedly fact-checked as unrelated to any agency stockpile. Cargo trains (autoracks) get used by smugglers to hide migrants, causing real deaths and rescues;",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T01:28:02Z",
+      "last_collected_at": "2026-11-15T01:28:02Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27001",
+      "timestamp": "2026-11-15T00:14:35Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2121758727732863235",
+      "author": "GrahmPrater",
+      "url": "https://x.com/GrahmPrater/status/2121758727732863235",
+      "source_url": "https://x.com/GrahmPrater/status/2121758727732863235",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "arrival",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "@Carloxxxx2 The traitor has left his lair.\nThe Chinese Ogre has landed in San Diego.\nThe Taiwanese Tiger has arrived in Irvine.\nThe monstrous migrant has spent the night in LA.\nThe serial cheater has crossed through Santa Barbara.\nThe adulterer was seen 60 miles from the Bay Area.",
+      "text_excerpt": "@Carloxxxx2 The traitor has left his lair.\nThe Chinese Ogre has landed in San Diego.\nThe Taiwanese Tiger has arrived in Irvine.\nThe monstrous migrant has spent the night in LA.\nThe serial cheater has crossed through Santa Barbara.\nThe adulterer was seen 60 miles from the Bay Area.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-15T01:30:45Z",
+      "last_collected_at": "2026-11-15T01:30:45Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-15T01:30:50.109900+00:00"
+}
