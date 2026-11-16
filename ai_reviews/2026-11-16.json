@@ -232,6 +232,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T12:15:01.631384+00:00"
+    },
+    "record:2122296569856934315": {
+      "hu_text": "Közben a Kanári-szigetek lakói belefáradtak a helyzetbe. Alejandro Gomes a VOX pártból azt mondta: \"Egyetlen nap alatt mintegy ezer migráns érkezett El Hierro szigetére, és a kórház már túlterhelt.\"",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számokat és helyszínt említ, ami fontos a határbiztonsági helyzet megértéséhez, de nincs megerősített forrás vagy hivatalos adat a számok hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:16.689487+00:00"
+    },
+    "record:2122296871653875889": {
+      "hu_text": "Közel 2200 migráns érkezett a Kanári-szigetekre, Spanyolországba szombaton és vasárnap, akik veszélyes tengeri utat vállaltak, hogy elérjék az El Hierro szigetet. A segélyszervezetek igyekeznek ellátni a rekord számú érkezőt, de a beáramlás jelentős terhet jelent.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés fontos információkat tartalmaz a migrációs nyomásról, de nincs hivatalos vagy független megerősítés a számokról és a helyzetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:16.689505+00:00"
+    },
+    "record:2122298315815698906": {
+      "hu_text": "🚨 Kanári-szigetek: Egyetlen hétvégén 3047 migráns érkezett 23 hajón. Csak vasárnap 1467-en érkeztek kilenc cayuco hajón, nyolcan közülük El Hierro szigetére (EFE). Egy időjárástól függő határ nem valódi határ, csak váróterem.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A számadatok és a helyszín fontosak a határbiztonsági helyzet megértéséhez, de az állítások forrása nem teljesen ellenőrzött, így további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:16.689510+00:00"
+    },
+    "record:2122299369865039935": {
+      "hu_text": "🚨FRISS: Azok a férfiak, akik Dovernél blokkoltak, most Portsmouthnál jelentek meg, hogy rövid idő alatt megakadályozzák az illegális migránsok váratlan érkezését. Valójában a vízben vannak! Ezek igazi férfiak. 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményt ír le, de nincs hivatalos vagy független megerősítés, és a szöveg politikai vagy érzelmi töltetű, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:16.689514+00:00"
+    },
+    "record:2122299608386748475": {
+      "hu_text": "🇪🇸 Közel 3100 migráns érkezett hajóval a Kanári-szigetekre az elmúlt két napban, miközben Spanyolország nemzeti vészhelyzetet hirdetett. El Hierro szigetén, ahol 11 000 lakos él, jelentős növekedés tapasztalható a Szenegálból érkező migránsok számában az Atlanti-óceáni útvonalon.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés fontos adatokat tartalmaz a migrációs helyzetről és a nemzeti vészhelyzetről, de nincs hivatalos forrás vagy bizonyíték a pontos számokra, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:16.689519+00:00"
+    },
+    "record:mastodon_117625472090295221": {
+      "hu_text": "Közel 2200 migráns érkezett a Kanári-szigetekre két nap alatt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás rövid és általános, egy külső hírforrásra hivatkozik, de nincs közvetlen bizonyíték vagy hivatalos megerősítés, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:16.689522+00:00"
     }
   },
   "legacy_reviews": {}
