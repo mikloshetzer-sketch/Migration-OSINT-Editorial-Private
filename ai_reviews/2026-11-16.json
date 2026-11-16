@@ -386,6 +386,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T12:15:36.293025+00:00"
+    },
+    "information:27302": {
+      "hu_text": "Tegnap volt a családom amerikai érkezésének évfordulója 1989-ben. Ez egyfajta családi ünnep... a szüleim mindig felhívnak, és elgondolkodunk, milyen messzire jutottunk. Egy borzasztó novemberi este érkeztünk Chicagóba, és azt kérdeztük, hogy hová is érkeztünk... Most én vagyok a legszerencsésebb kis bevándorló a volt Szovjetunióból, aki Hawaiin él. A szüleimnek megvan az álomházuk a külvárosban, a testvéreimnek saját családjuk és munkájuk van. Ez az ország lehetőségeket adott nekünk, és állampolgárokká válhattunk. Nyilván az út sokkal könnyebb volt, mert fehérek vagyunk. Még az apám is érti ezt most. (A volt szovjetek nem híresek a rasszizmussal kapcsolatos előrelátásukról.) A családom azért költözött ide, hogy elmeneküljön egy nyomorult rezsim elől, ahol nem volt jogállamiság, nem tisztelték az egyént, az embereket elrabolhatták az utcáról, eltüntethették őket a kormány által, és nem volt jogi védelem a diszkrimináció ellen... Amerika egy \"szabad ország\" volt... bár ez az ígéret sok bevándorló számára sosem volt valóság, és az ICE razziák növekedésével a jelenlegi adminisztráció alatt még rémisztőbb lett. Nem posztolok sokat a bevándorlásról, mert a mindennapi emberekkel történő borzalmak túl fájdalmasak, és tehetetlennek érzem magam. De fontos emlékezni arra, hogy több ezer ember van jelenleg rémálomszerű körülmények között fogva tartva, jogi eljárás reménye nélkül.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes családi történetet és véleményt tartalmaz a bevándorlásról és az amerikai bevándorlási rendszer problémáiról. Nem tartalmaz konkrét, ellenőrizhető tényállítást, ezért ellenőrizetlen státuszú. Fontos társadalmi diskurzust tükröz, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:27.830233+00:00"
+    },
+    "information:27326": {
+      "hu_text": "@politics_w_sami Semmi esély, most az utcán látok egy szennyeződést, azt feltételezem, hogy hajós migráns 😂 KÜLDJÜK HAZA MINDENKIT!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy durva, előítéletes politikai vélemény, amely nem tartalmaz ellenőrizhető információt. Közösségi médiás gyűlöletkeltő megnyilvánulás, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:27.830251+00:00"
     }
   },
   "legacy_reviews": {}
