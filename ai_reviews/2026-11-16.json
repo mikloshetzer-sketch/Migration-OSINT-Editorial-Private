@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-16",
+  "reviews": {
+    "group:725": {
+      "hu_text": "A Kadima nevű bevándorlóhajó 781 zsidó menekültet szállított Háifába, akik ősi hazájukban kerestek jövőt. A brit hatóságok azonban Ciprusra deportálták őket táborokba. A holokauszt borzalmai után a zsidóknak megtagadták a hazatérés jogát.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A történelmi események részben igazak, a Kadima hajó valóban érkezett, és a brit hatóságok valóban korlátozták a zsidók hazatérését, de a pontos számok és körülmények további ellenőrzést igényelnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:35:51.176733+00:00"
+    },
+    "information:27172": {
+      "hu_text": "@T_RexRoars Deportáljanak ki minden egyes indiai embert onnan.. csak muszlim migránsok hajókon léphetnek be abba az országba..",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz ellenőrizhető tényeket, de potenciálisan gyűlöletkeltő tartalom.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:35:51.176754+00:00"
+    },
+    "information:27186": {
+      "hu_text": "Hagyjuk abba a „migráns” kifejezést, ha engedély vagy érvényesség nélkül lépik át a határt. Ők nem migránsok, hanem inváziósok, akik a társadalmi rendszert akarják megerőszakolni és gazdasági, politikai eszközökkel elpusztítani a társadalmunkat. Más kifejezés nem elfogadható.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy erősen véleményes, politikai állásfoglalás, amely nem alapul ellenőrzött tényeken, de fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:35:51.176758+00:00"
+    },
+    "information:27187": {
+      "hu_text": "@DocDeezWhat @genpu10 @Revolutioig9 Igen. A közelmúltbeli bejegyzésekben genpu10 ismételten összekapcsolja a nagy számú oltatlan vagy ismeretlen státuszú bevándorlókat a betegségek terjedésével, például COVID határon átlépések, kanyaró és menekültszálló kitörések kapcsán. Nem vádol minden bevándorlót vagy kizárólagos okot, inkább a mennyiségre fókuszál.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy összefoglaló egy véleményről, amely összekapcsolja a bevándorlást és a betegségek terjedését, de nem bizonyított állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:35:51.176761+00:00"
+    },
+    "information:27192": {
+      "hu_text": "@KosherChutzpah Hazugság! Színai az EGYIPTOMI terület volt, amelyet Izrael elfoglalt, majd békéért cserébe visszaadott, amit több milliárd dolláros amerikai támogatás is alátámaszt.\nIzrael 2005-ben eltávolította illegális gázai településeit, de megtartotta a légterét, tengeri hozzáférését és a legtöbb határát. Ez aligha felszabadítás.\nA 2000-es és 2008-as események...",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A történelmi tények nagy része helytálló, de a részletek és a kontextus további ellenőrzést igényelnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:35:51.176764+00:00"
+    },
+    "information:27193": {
+      "hu_text": "Spanyolország tegnap új napi rekordot döntött az illegális hajóval érkező migránsok számában‼️🤦🏼‍♀️",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy aktuális migrációs eseményről szól, de a pontos számadatok és rekord igazolása hiányzik, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:35:51.176781+00:00"
+    }
+  }
+}
