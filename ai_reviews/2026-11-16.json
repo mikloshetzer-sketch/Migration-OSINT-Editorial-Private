@@ -133,6 +133,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T03:36:00.948061+00:00"
+    },
+    "record:2122167689527672942": {
+      "hu_text": "Négy év alatt rekord számú migráns érkezett egyetlen nap alatt a Kanári-szigetekre. A Reuters szerint közel 1500 migráns érkezett egy nap alatt a Kanári-szigetekre.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számadatokat tartalmaz, de nincs közvetlen bizonyíték vagy hivatalos forrás megerősítése a rekord számú érkezésről, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:06.450536+00:00"
+    },
+    "record:mastodon_117622959235336839": {
+      "hu_text": "Több mint 100 migráns indult Hondurasból az Egyesült Államok felé, Trump korlátozásai ellenére. Közöttük családok is vannak gyerekekkel, akik munkát keresnek vagy zsarolás elől menekülnek. A karaván Guatemala és Mexikó területén keresztül kíván áthaladni.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs szándékot ír le, de nincs hivatalos vagy független forrás általi megerősítés, ezért ellenőrizetlen. Fontos a migrációs útvonal és szándék miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:06.450554+00:00"
+    },
+    "record:mastodon_c22392fbe009356424f8": {
+      "hu_text": "Spanyolország tengeri mentőszolgálata szerint az elmúlt két napban közel 2200 migráns érkezett a Kanári-szigetekre.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számadatokat tartalmaz hivatalos szervezet megnevezésével, de nincs közvetlen bizonyíték vagy hivatalos jelentés, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:06.450558+00:00"
     }
   },
   "legacy_reviews": {}
