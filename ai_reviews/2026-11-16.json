@@ -166,6 +166,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T03:36:06.450558+00:00"
+    },
+    "information:27253": {
+      "hu_text": "Észtország miniszterelnöke, Kristen Michal kérte, hogy tegyék meg a szükséges lépéseket az orosz határ keleti részének lezárására egy sikertelen gyújtogatási kísérlet után.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy hivatalos politikai lépésről szól, de nincs megerősített forrás vagy hivatalos közlemény, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:01.631343+00:00"
+    },
+    "information:27259": {
+      "hu_text": "Körülbelül 2000 migráns érkezett két nap alatt Szenegálból Spanyolország Kanári-szigeteire, ami jelentős növekedést jelent az atlanti útvonalon. Az információk nem tartalmaznak pontos dátumokat, hajószámokat, nemzetiségeket vagy hivatalos nyilatkozatokat, ezért az állítás ellenőrizetlen.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A migrációs esemény fontos, de a részletek hiányosak, és nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:01.631365+00:00"
+    },
+    "information:27261": {
+      "hu_text": "A Restore Britain párt politikája szerint minden illegális migránst, beleértve a Csatornán érkezőket is, ki kell toloncolni, őket nem fogadják el, szigorú fogva tartásban tartják, és visszaküldik eredeti vagy harmadik országba, miközben eltörlik a jelenlegi menekültügyi rendszert.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és pártprogram, nincs bizonyíték a megvalósításra vagy hivatalos álláspontra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:01.631371+00:00"
+    },
+    "information:27266": {
+      "hu_text": "Az RRS Sir David Attenborough hajó webkamerája elérhető a British Antarctic Survey oldalán, a hajó aktuális helyzete pedig a vesselfinder.com oldalon követhető.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Technikai információ hajó helyzetéről, nem kapcsolódik migrációhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:01.631376+00:00"
+    },
+    "record:2122281611618034027": {
+      "hu_text": "A Kanári-szigetekre érkező migránsok száma rekordmagasra emelkedett: egyetlen nap alatt több mint 1500 ember érkezett a spanyol szigetcsoporthoz, ami ellenzéki követelésekhez vezetett a haditengerészeti beavatkozás érdekében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs esemény, de nincs hivatalos adat vagy megerősítés a pontos számokról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:01.631380+00:00"
+    },
+    "record:2122295857324191822": {
+      "hu_text": "Két nap alatt közel 2200 migráns érkezett hajóval Spanyolország Kanári-szigeteire, miközben a mentőcsapatok továbbra is reagálnak a Nyugat-Afrikából érkező veszélyes atlanti átkelésekre. A spanyol tengeri mentőszolgálat 14 hajón 1324 embert segített.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs esemény, de az adatok részben hiányosak, nincs teljes hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:01.631384+00:00"
     }
   },
   "legacy_reviews": {}
