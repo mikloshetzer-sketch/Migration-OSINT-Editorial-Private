@@ -298,6 +298,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T12:15:16.689522+00:00"
+    },
+    "telegram:1261826972:54707": {
+      "hu_text": "Zurrón segítséget kér a sportlétesítményeik siralmas állapota miatt. Téglára, cementre és homokra van szükségük, hogy helyreállítsák és megvédjék azokat a létesítményeket, amelyeket a gyerekek használnak.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy helyi sportlétesítmény állapotáról szól, amely humanitárius jellegű, de nincs további bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:30.337494+00:00"
+    },
+    "telegram:1261826972:54709": {
+      "hu_text": "A marokkói sajtó bírálja a CENIF jelentését és védi a marokkói vezetőket. Állítják, hogy a határ menti felelősök azért voltak ott, hogy megakadályozzák a további tömeges átkeléseket, nem pedig hogy ösztönözzék azokat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és sajtóvélemény, amely nem bizonyított, de releváns a migrációs diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:30.337511+00:00"
+    },
+    "telegram:1261826972:54711": {
+      "hu_text": "Zűrzavar van a Guardia Civil, a CNI és a rendőrség között a ceutai invázió, Marokkó és az előzetes figyelmeztetések kapcsán. A Guardia Civil szerint a CNI információi nem voltak elegendőek a 100 000 ember belépésének mérlegeléséhez, és nem kaptak ilyen súlyú figyelmeztetéseket; a CNI pedig ellentmond a rendőrségnek abban, hogy Marokkót okolná az invázióért, tagadja az érintettséget.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos biztonsági és migrációs eseményről szóló állítások, amelyek ellentmondásosak és nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:30.337516+00:00"
+    },
+    "telegram:1604168769:12653": {
+      "hu_text": "Az orosz Munkaügyi Minisztérium tervezi, hogy nullára csökkenti a külföldi munkavállalók arányát Tatárföldön a 2025-től érvényes helyi korlátozásoknak a szövetségi joghoz igazítása révén. Ez a korlátozás a migránsokra vonatkozik, akik patentrendszerben dolgoznak, de nem érinti a tartózkodási engedéllyel vagy ideiglenes tartózkodási engedéllyel rendelkezőket, illetve a magasan képzett szakembereket.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jogszabályi változásról szóló információ, amely fontos a migrációs politika szempontjából, de nincs megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:30.337520+00:00"
+    },
+    "telegram:1983050450:25602": {
+      "hu_text": "Egy csoport szakállas migráns halálra vert egy orosz férfit Nevinnomyiszkben, aki megpróbálta megjegyzéssel figyelmeztetni őket a túl hangos viselkedésük miatt. A férfit megkéselték. Az igazságszolgáltatás érvényesült, ismeretlen fiatalok megtalálták a támadókat és felelősségre vonták őket. A videó nem gyengébb idegzetűeknek való.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erőszakos bűncselekményről szóló állítás, amely migránsokhoz köthető, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:30.337523+00:00"
+    },
+    "telegram:2240007404:981": {
+      "hu_text": "Komissiózókat keresnek meleg, „A” kategóriás raktárba a FÁK államaiból. A munka Moszkva környékén, Ramenki kerületben, Sofyino településen van, fizetés 130 000 rubeltől, műszak 6 nap munka, 1 nap szabad, 11 órás műszakokkal. Tapasztalat nem szükséges, betanítanak, munkaszerződés szerint foglalkoztatnak, lakhatási támogatás és munkaruházat biztosított. Teljesen automatizált raktár, ingajáratok több útvonalon. Készségesek dolgozók ajánlásáért külön díjat fizetni. Kapcsolat: +7(925)818-10-04, Alexandra.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely segíti a munkavállalást, de nincs további bizonyíték a hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T12:15:30.337527+00:00"
     }
   },
   "legacy_reviews": {}
