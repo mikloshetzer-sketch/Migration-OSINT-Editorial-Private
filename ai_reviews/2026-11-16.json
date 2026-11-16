@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T03:35:51.176781+00:00"
+    },
+    "information:27195": {
+      "hu_text": "Az elmúlt két napban mintegy 2200 migráns érkezett hajóval Spanyolország Kanári-szigeteire, közölte a tengeri mentőszolgálat.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:00.948031+00:00"
+    },
+    "record:2122150509746254051": {
+      "hu_text": "A Kadima nevű bevándorlóhajó 781 zsidó menekültet vitt Haifába, akik ősi hazájukban keresnek jövőt. A brit hatóságok azonban Ciprusra deportálták őket táborokba. A holokauszt borzalmai után a zsidókat megtagadták a hazatérés jogát.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos történelmi és humanitárius vonatkozású állítás, de nincs bizonyíték a jelenlegi helyzet igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:00.948049+00:00"
+    },
+    "record:2122159923274428559": {
+      "hu_text": "A Kanári-szigeteket hatalmas migránshullám érte: egy nap alatt 1500-an érkeztek. A helyieknek kell kezelniük a következményeket, miközben a politikai kudarc ismétlődik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szól, de nincs független megerősítés, és politikai vélemény is megjelenik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:00.948053+00:00"
+    },
+    "record:2122162742681596184": {
+      "hu_text": "🚨 FRISS: Spanyolország migrációs vészhelyzetet hirdetett a Kanári-szigeteken. 48 órán belül közel 2200 migráns érkezett, köztük szombaton majdnem 1500, ami 2020 óta a legmagasabb napi szám.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos, friss migrációs eseményről szól, de nincs hivatalos megerősítés a vészhelyzet kihirdetéséről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:00.948056+00:00"
+    },
+    "record:2122162922600202414": {
+      "hu_text": "A migránsok Nyugat-Afrikából (főként Szenegál, Gambia, Mauritánia) túlzsúfolt fa csónakokkal keltek át. Az út 4-7 napig tart, egy hajón akár 240 ember is lehetett. Az őszi tengeri időjárás kedvez a veszélyes atlanti útvonalnak. El Hierro szigetén (kb. 12 000 lakos) érkezett a szombati mintegy 1500 migráns többsége.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részletes információ a migrációs útvonalról és körülményekről, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:00.948058+00:00"
+    },
+    "record:2122164987774779769": {
+      "hu_text": "Nem ellenőrzött állítás: nincs hivatalos vagy főáramú jelentés arról, hogy a német rendőrség erdei földutakon dobott volna ki migránsokat Lengyelországban. Polgári járőrök 2025 óta figyelik a határt, és azt állítják, hogy megakadályozzák a furgonokat. A hivatalos visszatérések az EU szabályai szerint zajlanak; a lengyel belügyminisztérium is megerősítette ezt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állítás cáfolatára utaló információk, de nincs végleges bizonyíték a helyzetre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T03:36:00.948061+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
