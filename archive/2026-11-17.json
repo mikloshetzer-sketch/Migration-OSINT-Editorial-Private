@@ -1,0 +1,1426 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-17",
+  "live_events": [
+    {
+      "id": 927,
+      "event_id": 927,
+      "source": "X",
+      "source_post_id": "2122463806400127179",
+      "author": "ssc_globa1",
+      "published_at": "2026-11-16T22:56:19Z",
+      "collected_at": "2026-11-16T23:06:23Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 40.0,
+      "text": "More than 2,000 people reached Spain’s Canary Islands by boat in just two days.\n\nSpanish maritime rescue services reported that around 2,200 migrants arrived during the surge.\n\nMany make the dangerous Atlantic crossing from West Africa, sometimes spending days or weeks at sea.",
+      "url": "https://x.com/ssc_globa1/status/2122463806400127179",
+      "source_url": "https://x.com/ssc_globa1/status/2122463806400127179"
+    },
+    {
+      "id": 926,
+      "event_id": 926,
+      "source": "TELEGRAM",
+      "source_post_id": "3662047307:46",
+      "author": "move_uruguay",
+      "published_at": "2026-11-16T19:00:25Z",
+      "collected_at": "2026-11-16T23:05:56Z",
+      "event_type": "BORDER_MEASURE",
+      "signal_type": "BORDER_MEASURE",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "📅 Как записаться в Migración\n\n1️⃣ Создаёте личный кабинет на gub.uy, нажимаете «Iniciar trámite en línea» и заполняете анкету на ПМЖ. Для записи нужна только копия загранпаспорта.\n2️⃣ Ждёте подтверждение анкеты на e-mail, обычно 1–2 недели. Если есть замечания, Migración попросит их исправить.\n3️⃣ Выбираете день, время и отделение. Очереди в отделениях сильно отличаются.\n4️⃣ Платите пошлину в течение нескольких дней после выбора даты, иначе запись отменят. Платить можно картой местного банка или через Abitab, после оплаты придёт письмо с подтверждением.\n5️⃣ На визит берёте оригиналы документов с переводами и приходите вовремя. Без обязательных документов запись и оплата пропадают, трамит начинаете заново.\n\nЗаписаться онлайн можно ещё до приезда в Уругвай, но гражданам РФ нельзя: из-за границы запись для россиян закрыта. Сам визит проходит в отделении Migración в Уругвае. Список документов на визит сверьте на gub.uy, он меняется.\n\n🤍 Нужна помощь с записью и оплатой? Пишите: @move_uruguay_t @move_uy",
+      "url": "https://t.me/move_uruguay/46",
+      "source_url": "https://t.me/move_uruguay/46"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 726,
+      "group_id": 726,
+      "event_type": "BORDER_MEASURE",
+      "dominant_event_type": "BORDER_MEASURE",
+      "title": "BORDER_MEASURE",
+      "representative_text": "📅 Как записаться в Migración\n\n1️⃣ Создаёте личный кабинет на gub.uy, нажимаете «Iniciar trámite en línea» и заполняете анкету на ПМЖ. Для записи нужна только копия загранпаспорта.\n2️⃣ Ждёте подтверждение анкеты на e-mail, обычно 1–2 недели. Если есть замечания, Migración попросит их исправить.\n3️⃣ Выбираете день, время и отделение. Очереди в отделениях сильно отличаются.\n4️⃣ Платите пошлину в течение нескольких дней после выбора даты, иначе запись отменят. Платить можно картой местного банка или через Abitab, после оплаты придёт письмо с подтверждением.\n5️⃣ На визит берёте оригиналы документов с переводами и приходите вовремя. Без обязательных документов запись и оплата пропадают, трамит начинаете заново.\n\nЗаписаться онлайн можно ещё до приезда в Уругвай, но гражданам РФ нельзя: из-за границы запись для россиян закрыта. Сам визит проходит в отделении Migración в Уругвае. Список документов на визит сверьте на gub.uy, он меняется.\n\n🤍 Нужна помощь с записью и оплатой? Пишите: @move_uruguay_t @move_uy",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-16T19:00:25Z",
+      "last_seen": "2026-11-16T19:00:25Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "TELEGRAM"
+      ],
+      "sources": [
+        "TELEGRAM"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-16T23:05:56Z",
+      "updated_at": "2026-11-16T23:05:56Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1460,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117628259375989102",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-16T21:33:17Z",
+      "first_detected_at": "2026-11-16T23:05:55Z",
+      "last_detected_at": "2026-11-16T23:05:55Z",
+      "detection_count": 1,
+      "text": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "text_excerpt": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "url": "https://todon.eu/@faab64/117628259375989102",
+      "source_url": "https://todon.eu/@faab64/117628259375989102",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 25.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants",
+        "migration",
+        "asylum"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 54.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1461,
+      "source": "X",
+      "source_post_id": "2122456875388281056",
+      "author": "mariathena",
+      "language": "en",
+      "published_at": "2026-11-16T22:28:47Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "text_excerpt": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "url": "https://x.com/mariathena/status/2122456875388281056",
+      "source_url": "https://x.com/mariathena/status/2122456875388281056",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "granted asylum"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.95,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1463,
+      "source": "X",
+      "source_post_id": "2122464127046254820",
+      "author": "BBCPropaganda",
+      "language": "en",
+      "published_at": "2026-11-16T22:57:36Z",
+      "first_detected_at": "2026-11-16T23:08:47Z",
+      "last_detected_at": "2026-11-16T23:08:47Z",
+      "detection_count": 1,
+      "text": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "text_excerpt": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "source_url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1462,
+      "source": "X",
+      "source_post_id": "2122455819665256951",
+      "author": "Milatrud11",
+      "language": "en",
+      "published_at": "2026-11-16T22:24:35Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "6 arrested as Alicante police take part in operation against smuggling of unaccompanied child migrants (\"menas\") into Spain:\nSuspects entered on tourist visas,abandoned their North African children(16-17), and returned home:\n\nIt´s dubbed „Menas Erasmus“\nhttps://t.co/PtBO96vnqQ https://t.co/QuxcMAdpoN",
+      "text_excerpt": "6 arrested as Alicante police take part in operation against smuggling of unaccompanied child migrants (\"menas\") into Spain:\nSuspects entered on tourist visas,abandoned their North African children(16-17), and returned home:\n\nIt´s dubbed „Menas Erasmus“\nhttps://t.co/PtBO96vnqQ https://t.co/QuxcMAdpoN",
+      "url": "https://x.com/Milatrud11/status/2122455819665256951",
+      "source_url": "https://x.com/Milatrud11/status/2122455819665256951",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants (\"menas\") into Spain: Suspects entered"
+        ],
+        [
+          "facilitation",
+          "smuggling of unaccompanied child migrants"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants (\"menas\") into Spain: Suspects entered",
+        "smuggling of unaccompanied child migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1460,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117628259375989102",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-16T21:33:17Z",
+      "first_detected_at": "2026-11-16T23:05:55Z",
+      "last_detected_at": "2026-11-16T23:05:55Z",
+      "detection_count": 1,
+      "text": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "text_excerpt": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "url": "https://todon.eu/@faab64/117628259375989102",
+      "source_url": "https://todon.eu/@faab64/117628259375989102",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 25.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants",
+        "migration",
+        "asylum"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 54.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1461,
+      "source": "X",
+      "source_post_id": "2122456875388281056",
+      "author": "mariathena",
+      "language": "en",
+      "published_at": "2026-11-16T22:28:47Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "text_excerpt": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "url": "https://x.com/mariathena/status/2122456875388281056",
+      "source_url": "https://x.com/mariathena/status/2122456875388281056",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "granted asylum"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.95,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1463,
+      "source": "X",
+      "source_post_id": "2122464127046254820",
+      "author": "BBCPropaganda",
+      "language": "en",
+      "published_at": "2026-11-16T22:57:36Z",
+      "first_detected_at": "2026-11-16T23:08:47Z",
+      "last_detected_at": "2026-11-16T23:08:47Z",
+      "detection_count": 1,
+      "text": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "text_excerpt": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "source_url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1462,
+      "source": "X",
+      "source_post_id": "2122455819665256951",
+      "author": "Milatrud11",
+      "language": "en",
+      "published_at": "2026-11-16T22:24:35Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "6 arrested as Alicante police take part in operation against smuggling of unaccompanied child migrants (\"menas\") into Spain:\nSuspects entered on tourist visas,abandoned their North African children(16-17), and returned home:\n\nIt´s dubbed „Menas Erasmus“\nhttps://t.co/PtBO96vnqQ https://t.co/QuxcMAdpoN",
+      "text_excerpt": "6 arrested as Alicante police take part in operation against smuggling of unaccompanied child migrants (\"menas\") into Spain:\nSuspects entered on tourist visas,abandoned their North African children(16-17), and returned home:\n\nIt´s dubbed „Menas Erasmus“\nhttps://t.co/PtBO96vnqQ https://t.co/QuxcMAdpoN",
+      "url": "https://x.com/Milatrud11/status/2122455819665256951",
+      "source_url": "https://x.com/Milatrud11/status/2122455819665256951",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants (\"menas\") into Spain: Suspects entered"
+        ],
+        [
+          "facilitation",
+          "smuggling of unaccompanied child migrants"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ],
+        [
+          "enforcement",
+          "returned"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants (\"menas\") into Spain: Suspects entered",
+        "smuggling of unaccompanied child migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1460,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117628259375989102",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-16T21:33:17Z",
+      "first_detected_at": "2026-11-16T23:05:55Z",
+      "last_detected_at": "2026-11-16T23:05:55Z",
+      "detection_count": 1,
+      "text": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "text_excerpt": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "url": "https://todon.eu/@faab64/117628259375989102",
+      "source_url": "https://todon.eu/@faab64/117628259375989102",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 25.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants",
+        "migration",
+        "asylum"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 54.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1461,
+      "source": "X",
+      "source_post_id": "2122456875388281056",
+      "author": "mariathena",
+      "language": "en",
+      "published_at": "2026-11-16T22:28:47Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "text_excerpt": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "url": "https://x.com/mariathena/status/2122456875388281056",
+      "source_url": "https://x.com/mariathena/status/2122456875388281056",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "granted asylum"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.95,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1463,
+      "source": "X",
+      "source_post_id": "2122464127046254820",
+      "author": "BBCPropaganda",
+      "language": "en",
+      "published_at": "2026-11-16T22:57:36Z",
+      "first_detected_at": "2026-11-16T23:08:47Z",
+      "last_detected_at": "2026-11-16T23:08:47Z",
+      "detection_count": 1,
+      "text": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "text_excerpt": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "source_url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1460,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117628259375989102",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-16T21:33:17Z",
+      "first_detected_at": "2026-11-16T23:05:55Z",
+      "last_detected_at": "2026-11-16T23:05:55Z",
+      "detection_count": 1,
+      "text": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "text_excerpt": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "url": "https://todon.eu/@faab64/117628259375989102",
+      "source_url": "https://todon.eu/@faab64/117628259375989102",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 25.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants",
+        "migration",
+        "asylum"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 54.65,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1461,
+      "source": "X",
+      "source_post_id": "2122456875388281056",
+      "author": "mariathena",
+      "language": "en",
+      "published_at": "2026-11-16T22:28:47Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "text_excerpt": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "url": "https://x.com/mariathena/status/2122456875388281056",
+      "source_url": "https://x.com/mariathena/status/2122456875388281056",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "granted asylum"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.95,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1463,
+      "source": "X",
+      "source_post_id": "2122464127046254820",
+      "author": "BBCPropaganda",
+      "language": "en",
+      "published_at": "2026-11-16T22:57:36Z",
+      "first_detected_at": "2026-11-16T23:08:47Z",
+      "last_detected_at": "2026-11-16T23:08:47Z",
+      "detection_count": 1,
+      "text": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "text_excerpt": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "source_url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1460,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117628259375989102",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-16T21:33:17Z",
+      "first_detected_at": "2026-11-16T23:05:55Z",
+      "last_detected_at": "2026-11-16T23:05:55Z",
+      "detection_count": 1,
+      "text": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "text_excerpt": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "url": "https://todon.eu/@faab64/117628259375989102",
+      "source_url": "https://todon.eu/@faab64/117628259375989102",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 25.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants",
+        "migration",
+        "asylum"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 54.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117628259375989102"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://todon.eu/@faab64/117628259375989102"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
+    },
+    {
+      "id": 1461,
+      "source": "X",
+      "source_post_id": "2122456875388281056",
+      "author": "mariathena",
+      "language": "en",
+      "published_at": "2026-11-16T22:28:47Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "text_excerpt": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "url": "https://x.com/mariathena/status/2122456875388281056",
+      "source_url": "https://x.com/mariathena/status/2122456875388281056",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "granted asylum"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.95,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122456875388281056"
+      ],
+      "related_authors": [
+        "mariathena"
+      ],
+      "related_urls": [
+        "https://x.com/mariathena/status/2122456875388281056"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1463,
+      "source": "X",
+      "source_post_id": "2122464127046254820",
+      "author": "BBCPropaganda",
+      "language": "en",
+      "published_at": "2026-11-16T22:57:36Z",
+      "first_detected_at": "2026-11-16T23:08:47Z",
+      "last_detected_at": "2026-11-16T23:08:47Z",
+      "detection_count": 1,
+      "text": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "text_excerpt": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "source_url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122464127046254820"
+      ],
+      "related_authors": [
+        "BBCPropaganda"
+      ],
+      "related_urls": [
+        "https://x.com/BBCPropaganda/status/2122464127046254820"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1460,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117628259375989102",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-16T21:33:17Z",
+      "first_detected_at": "2026-11-16T23:05:55Z",
+      "last_detected_at": "2026-11-16T23:05:55Z",
+      "detection_count": 1,
+      "text": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "text_excerpt": "Germany, Denmark, Austria, Greece and the Netherlands are planning to establish a joint # migrant return # hub in # Rwanda , with the aim of beginning transfers in 2027. The centre would accommodate migrants who have no legal right to remain in the participating countries, including those whose asylum applications have been rejected, while arrangements are made for their return. The initiative forms part of a broader European push to accelerate deportations and increase cooperation with third countries on migration management. The plans remain subject to negotiations with Rwanda. # Immigration # Europe # Rwanda # Germany # Denmark # Austria # Greece",
+      "url": "https://todon.eu/@faab64/117628259375989102",
+      "source_url": "https://todon.eu/@faab64/117628259375989102",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.99,
+      "score": 25.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "right to remain"
+        ],
+        [
+          "legal_protection",
+          "right to remain"
+        ],
+        [
+          "HIGH_VALUE",
+          "right to remain"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrants",
+        "migration",
+        "asylum"
+      ],
+      "high_value_matches": [
+        "right to remain"
+      ],
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 54.65,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117628259375989102"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://todon.eu/@faab64/117628259375989102"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
+    },
+    {
+      "id": 1461,
+      "source": "X",
+      "source_post_id": "2122456875388281056",
+      "author": "mariathena",
+      "language": "en",
+      "published_at": "2026-11-16T22:28:47Z",
+      "first_detected_at": "2026-11-16T23:08:05Z",
+      "last_detected_at": "2026-11-16T23:08:05Z",
+      "detection_count": 1,
+      "text": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "text_excerpt": "@PeterSweden7 It all sounds encouraging, and certainly a step in addressing illegal immigration. But here is the real question and the elephant in the room:\n#Greece is being flooded with Sudanese migrants trafficked from #Libya . They know they are highly likely to ALL  be granted asylum in",
+      "url": "https://x.com/mariathena/status/2122456875388281056",
+      "source_url": "https://x.com/mariathena/status/2122456875388281056",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "granted asylum"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants",
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 53.95,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122456875388281056"
+      ],
+      "related_authors": [
+        "mariathena"
+      ],
+      "related_urls": [
+        "https://x.com/mariathena/status/2122456875388281056"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1463,
+      "source": "X",
+      "source_post_id": "2122464127046254820",
+      "author": "BBCPropaganda",
+      "language": "en",
+      "published_at": "2026-11-16T22:57:36Z",
+      "first_detected_at": "2026-11-16T23:08:47Z",
+      "last_detected_at": "2026-11-16T23:08:47Z",
+      "detection_count": 1,
+      "text": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "text_excerpt": "You have got to be kidding. You lost a general election pushing this fantasy politics. Rwanda would never have stopped the boats. Only leaving ECHR and deporting all economic illegals (and many uneconomic legal migrants the last Tory government let in) will solve the problem https://t.co/UYC6r6iuze",
+      "url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "source_url": "https://x.com/BBCPropaganda/status/2122464127046254820",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2122464127046254820"
+      ],
+      "related_authors": [
+        "BBCPropaganda"
+      ],
+      "related_urls": [
+        "https://x.com/BBCPropaganda/status/2122464127046254820"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:27325",
+      "timestamp": "2026-11-16T23:00:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122464945006596507",
+      "author": "WSWS_Updates",
+      "url": "https://x.com/WSWS_Updates/status/2122464945006596507",
+      "source_url": "https://x.com/WSWS_Updates/status/2122464945006596507",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Home Secretary Shabana Mahmood’s policy on care workers leaves hundreds of thousands of migrants facing a 10-year wait for settlement, while refugees arriving by small boat face up to 30 years. https://t.co/9QPNEvUoT2",
+      "text_excerpt": "Home Secretary Shabana Mahmood’s policy on care workers leaves hundreds of thousands of migrants facing a 10-year wait for settlement, while refugees arriving by small boat face up to 30 years. https://t.co/9QPNEvUoT2",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-16T23:06:47Z",
+      "last_collected_at": "2026-11-16T23:06:47Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27321",
+      "timestamp": "2026-11-16T23:00:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122464755117887961",
+      "author": "mariathena",
+      "url": "https://x.com/mariathena/status/2122464755117887961",
+      "source_url": "https://x.com/mariathena/status/2122464755117887961",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "route"
+      ],
+      "freshness_cues": [],
+      "text": "@Ronnie40791207 @PeterSweden7 More than 18,000 Sudanese migrants are estimated to have entered Greece illegally in the last 3 years . There is no precise number available .\nThere is a striking increase through the Libya to Crete route .\nYes, they are entitled to asylum despite having crossed safe countries to",
+      "text_excerpt": "@Ronnie40791207 @PeterSweden7 More than 18,000 Sudanese migrants are estimated to have entered Greece illegally in the last 3 years . There is no precise number available .\nThere is a striking increase through the Libya to Crete route .\nYes, they are entitled to asylum despite having crossed safe countries to",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-16T23:06:22Z",
+      "last_collected_at": "2026-11-16T23:06:22Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-16T23:08:57.557501+00:00"
+}
