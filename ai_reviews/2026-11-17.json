@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "reviews": {
+    "group:726": {
+      "hu_text": "📅 Hogyan lehet időpontot foglalni a Migraciónhoz\n\n1️⃣ Hozz létre egy személyes fiókot a gub.uy oldalon, kattints az „Iniciar trámite en línea” gombra, és töltsd ki a tartózkodási engedély kérelmet. Az időpontfoglaláshoz csak az útlevél másolata szükséges.\n2️⃣ Várd meg az e-mailes visszaigazolást, ami általában 1–2 hét. Ha javítás szükséges, a Migración kéri a módosítást.\n3️⃣ Válaszd ki a napot, időpontot és az ügyintézési helyet. Az ügyintézési helyek között nagy különbségek lehetnek a várakozási időben.\n4️⃣ Fizess be a díjat néhány napon belül az időpont kiválasztása után, különben az időpont törlődik. Fizethetsz helyi bankkártyával vagy Abitab-on keresztül, a fizetés után visszaigazoló e-mailt kapsz.\n5️⃣ Az ügyintézésre vidd magaddal az eredeti dokumentumokat és azok fordításait, és érkezz pontosan. Hiányzó dokumentum esetén az időpont és a befizetés érvényét veszti, és újra kell kezdeni a folyamatot.\n\nOnline időpontfoglalás még az Uruguayba érkezés előtt is lehetséges, de orosz állampolgároknak nem: az oroszok számára külföldről nem elérhető az időpontfoglalás. Az ügyintézés az Uruguay-i Migración irodában történik. Az ügyintézéshez szükséges dokumentumok listáját a gub.uy oldalon ellenőrizd, mert változhat.\n\n🤍 Segítség kell az időpontfoglaláshoz vagy a fizetéshez? Írj: @move_uruguay_t @move_uy",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy hivatalos ügyintézési folyamatról szól, de nincs külső bizonyíték vagy hivatalos forrás megerősítése, ezért ellenőrizetlennek minősül. Fontos információ a migrációs ügyintézésről Uruguayban, különösen az orosz állampolgárokra vonatkozó korlátozás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:45.342093+00:00"
+    },
+    "information:27321": {
+      "hu_text": "Becslések szerint több mint 18 000 szudáni migráns lépett be illegálisan Görögországba az elmúlt három évben. Pontos szám nincs. Jelentős növekedés tapasztalható a Líbia–Kréta útvonalon. Igen, jogosultak menedékjogra, még akkor is, ha biztonságos országokon keresztül érkeztek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményekről szól, de pontos forrás vagy hivatalos adat hiányzik, ezért ellenőrizetlen. Fontos a migrációs trendek megértéséhez, különösen a szudáni migránsok helyzetében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:45.342111+00:00"
+    },
+    "information:27325": {
+      "hu_text": "Shabana Mahmood belügyminiszter politikája a gondozói munkásokkal kapcsolatban több százezer migránsnak okoz akár 10 éves várakozást a letelepedési engedély megszerzésére, míg a kis hajókon érkező menekültek akár 30 évig is várhatnak.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás politikai döntésről és migrációs szabályozásról szól, de nincs hivatalos megerősítés vagy részletes forrás, ezért ellenőrizetlen. Fontos a migrációs politika megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:45.342113+00:00"
+    },
+    "record:2122455819665256951": {
+      "hu_text": "Hat embert tartóztattak le, miközben az alicantei rendőrség részt vett egy műveletben, amely az egyedül utazó kiskorú migránsok (\"menas\") csempészése ellen irányult Spanyolországba: A gyanúsítottak turista vízummal léptek be, elhagyták észak-afrikai gyermekeiket (16-17 éveseket), majd visszatértek hazájukba. Az akciót „Menas Erasmus”-nak nevezik.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy bűnügyi műveletről szól, de nincs hivatalos rendőrségi vagy jogi megerősítés, ezért ellenőrizetlen. Fontos a migrációs csempészet elleni küzdelem szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:45.342116+00:00"
+    },
+    "record:2122456875388281056": {
+      "hu_text": "Minden biztatónak hangzik, és valóban lépés az illegális bevándorlás kezelésében. Azonban a valódi kérdés az, hogy Görögországot elárasztják a Líbiából embercsempészettel érkező szudáni migránsok, akik tudják, hogy nagy valószínűséggel mindannyian menedékjogot kapnak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és társadalmi diskurzus része, amely migrációs helyzetet tárgyal, de nincs konkrét bizonyíték vagy hivatalos adat, ezért ellenőrizetlen. Fontos a migrációs társadalmi viták megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:45.342118+00:00"
+    },
+    "record:2122463806400127179": {
+      "hu_text": "Több mint 2000 ember érkezett hajóval a spanyolországi Kanári-szigetekre mindössze két nap alatt. A spanyol tengeri mentőszolgálatok körülbelül 2200 migráns érkezését jelentették a hullám idején. Sokuk veszélyes atlanti-óceáni átkelést tesz meg Nyugat-Afrikából, néha napokat vagy heteket töltve a tengeren.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, de nincs hivatalos vagy független forrásból származó megerősítés, ezért ellenőrizetlen. Fontos a migrációs hullámok és veszélyek megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-16T23:09:45.342120+00:00"
+    }
+  }
+}
