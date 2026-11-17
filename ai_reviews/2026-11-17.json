@@ -342,6 +342,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-17T05:32:37.481022+00:00"
+    },
+    "group:729": {
+      "hu_text": "Igen, lehetséges. Az embercsempészek fenyegetéseket, adósságot vagy erőszakot használhatnak az emberek irányítására a szállítás során. Az ilyen esetek többségében azonban a migránsok fizetnek és önként lépnek be a rekeszekbe, hogy elkerüljék az észlelést. A határőrség az esetet szokásos embercsempészetként kezelte – a sofőrrel kapcsolatban.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások embercsempészettel kapcsolatosak, de nincs konkrét bizonyíték vagy hivatalos forrás a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:00.751222+00:00"
+    },
+    "group:730": {
+      "hu_text": "MEGBUKOTT, DE MÉG MINDIG ITT VANNAK\n\nA Munkáspárt meg akarja szüntetni az öt napos értesítési időt a sikertelen menedékkérők kitoloncolása előtt.\n\nDe alig távolítanak el valakit. Csak körülbelül 8%-át távolítják el a kis hajókon érkező migránsoknak a Munkáspárt alatt, sokukat fizetik, hogy menjenek.\n\nToloncolják ki mindet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állításokat tartalmaz a kitoloncolási gyakorlatokról, de nincs megerősített adat vagy hivatalos statisztika, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:00.751242+00:00"
+    },
+    "group:731": {
+      "hu_text": "Egyszerűen nem értem. Ezek a Munkáspárti képviselők maguk is használják a „fogva tartott” szót, amikor a Wethersfieldről és Bicester-ről beszélnek. De a migránsok NEM „fogva tartottak”, hanem ELLÁTOTTÁK őket, szabadon jöhetnek-mehetnek, és még ingyenes szállítást is kapnak ennek elősegítésére.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg politikai véleményt és vitát tartalmaz a migránsok elhelyezéséről, de nincs bizonyíték a fogva tartás állítására, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:00.751246+00:00"
+    },
+    "information:27427": {
+      "hu_text": "Egy európai nézőpont figyelmen kívül hagyhatja a migránsok sérülékenységével és emberi jogaival kapcsolatos aggályokat, és a határbiztonságot helyezheti előtérbe az etikai megfontolásokkal szemben.\n\nKÉRDÉS: Milyen jogi és etikai aggályok merülnek fel a visszautasított menedékkérők egy távoli helyre történő kitoloncolásával kapcsolatban?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános kérdést és véleményt tartalmaz a migrációs politikáról, nincs konkrét állítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:00.751249+00:00"
+    },
+    "information:27438": {
+      "hu_text": "@DobbsandPolicy Ah! Tehát az olcsóbb energia nem a zöld energiában vagy az Északi-tengeri olajban van, hanem abban, hogy ne fizessünk a migránsszállóknak.\nAzt hiszem, úgy érzed, a válasz ugyanaz, amit a legtöbben gondolnak;\nBiztonságos\nJogos\nÚtvonalak.\n= Nincsenek migránsszállók",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus, nincs tényállítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:00.751257+00:00"
+    },
+    "record:2122690354465931372": {
+      "hu_text": "SOHA TÖBBÉ NE SZAVAZZON A MUNKÁSPÁRTRA!!!!\n\nTavaly a Munkáspárt 52 millió fontot költött ingyenes szállításra a migránsok számára,\n\nIdén a Munkáspárt 67 évre emelte az ingyenes buszbérlet korhatárát.\n700 000 nyugdíjasnak kell fizetnie, míg a migránsok ingyen utaznak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állításokat tartalmaz költségvetési és szociális kérdésekről, de nincs megerősített adat vagy hivatalos forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:00.751259+00:00"
     }
   },
   "legacy_reviews": {}
