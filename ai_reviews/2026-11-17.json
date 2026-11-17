@@ -408,6 +408,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-17T15:05:00.751259+00:00"
+    },
+    "record:2122694824348274852": {
+      "hu_text": "@MattCas04807118 Nem értem. Ezek a Munkáspárti képviselők maguk is a \"fogva tartás\" szót használják, amikor Wethersfieldről és Bicester-ről beszélnek. De a migránsok NEM \"fogva vannak tartva\", hanem ELLÁTOTTÁK őket, szabadon jöhetnek-mehetnek, és még ingyenes szállítást is kapnak ehhez.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy politikai vitában elhangzott vélemény, amely nem tartalmaz konkrét bizonyítékot a fogva tartás vagy szabad mozgás tényleges állapotáról. Ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:27.020228+00:00"
+    },
+    "record:2122697940468940950": {
+      "hu_text": "Spanyolország VOX pártjának vezetője, Santiago Abascal, Pedro Sánchez miniszterelnököt azzal vádolta hétfőn, november 16-án tartott kampányrendezvényen, hogy elősegíti a Kanári-szigetek „tervezett invázióját”, miközben november első felében több mint 11 000 migráns érkezett az atlanti szigetcsoportba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állítás, amely migrációs eseményekre utal, de nem tartalmaz konkrét bizonyítékot a „tervezett invázió” valódiságáról. Ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:27.020245+00:00"
+    },
+    "record:2122698316081135655": {
+      "hu_text": "SIKERTELEN, DE MÉGIS ITT VANNAK\n\nA Munkáspárt el akarja törölni az öt napos értesítési időt a sikertelen menedékkérők eltávolítása előtt.\n\nDe alig távolítanak el valakit. Csak körülbelül 8%-át távolítják el a kis hajókon érkező migránsoknak a Munkáspárt alatt, sokukat még fizetik is, hogy menjenek.\n\nToloncolják ki mindet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás a menekültügyi politikáról és gyakorlatról, amely nem tartalmaz konkrét adatokat vagy hivatalos forrásokat az eltávolítási arányokról, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:27.020248+00:00"
+    },
+    "record:2122703710535217386": {
+      "hu_text": "Csak idén több mint 17 000 afrikai érkezett a spanyol El Hierro apró szigetére – ez majdnem kétszerese a helyi lakosságnak.\n\nMinden migránshajót a spanyol parti őrség kísért be a kikötőbe, a szocialista kormány utasítására.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és eseményt tartalmaz, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:27.020251+00:00"
+    },
+    "record:2122706461142778222": {
+      "hu_text": "@Hudek110 @HappyHappyTexan @USBPChief Igen, lehetséges. A csempészek fenyegetésekkel, adóssággal vagy erőszakkal irányíthatják az embereket a szállítás során. Az ilyen esetek többségében azonban a migránsok fizetnek és önként lépnek be a rejtekhelyekre, hogy elkerüljék az észlelést. A határőrség embercsempészetként kezelte az ügyet – a sofőrrel kapcsolatban.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános megállapítás az embercsempészet módszereiről, nem tartalmaz konkrét bizonyítékot az adott esetre, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:27.020254+00:00"
+    },
+    "telegram:1261826972:54751": {
+      "hu_text": "◼ Videót is tartalmaz ▶ Ceuta azt vádolja Sánchezt, hogy „képtelen” visszaküldeni egyetlen kiskorút sem Marokkóba\n\n➡️ A város már 23 jogi eljárást indított, és majdnem 3 800 kiskorút tartanak nyilván, miközben egyetlen Marokkónak átadott ügy sem kapott kedvező elbírálást.\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/ceuta-acusa-sanchez-incapacidad-no-devolver-ningun-menor-marruecos/",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Helyi hatóságok állítását tartalmazza a kiskorúak visszaküldésének hiányáról, de nincs független megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:27.020256+00:00"
     }
   },
   "legacy_reviews": {}
