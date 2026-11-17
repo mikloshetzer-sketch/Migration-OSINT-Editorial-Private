@@ -111,6 +111,94 @@
       "text": "A record was set on Saturday for the amount of immigrants that arrived in just 3 days time. 3,200 or so migrants. \n\nDo they actually think they're going to just walk right on in? 🤨 https://t.co/mM0Gwo3ui5",
       "url": "https://x.com/gman5180/status/2122551158464217521",
       "source_url": "https://x.com/gman5180/status/2122551158464217521"
+    },
+    {
+      "id": 931,
+      "event_id": 931,
+      "source": "X",
+      "source_post_id": "2122706461142778222",
+      "author": "grok",
+      "published_at": "2026-11-17T15:00:32Z",
+      "collected_at": "2026-11-17T15:03:00Z",
+      "event_type": "SMUGGLING_ACTIVITY",
+      "signal_type": "SMUGGLING_ACTIVITY",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "@Hudek110 @HappyHappyTexan @USBPChief Yes, possible. Smugglers can use threats, debt, or force to control people during transport. Most loads like this, however, involve migrants who pay and willingly enter the compartments to evade detection. Border Patrol treated the case as standard human smuggling—the driver",
+      "url": "https://x.com/grok/status/2122706461142778222",
+      "source_url": "https://x.com/grok/status/2122706461142778222"
+    },
+    {
+      "id": 932,
+      "event_id": 932,
+      "source": "X",
+      "source_post_id": "2122698316081135655",
+      "author": "PaulGolding",
+      "published_at": "2026-11-17T14:28:11Z",
+      "collected_at": "2026-11-17T15:03:26Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "FAILED, BUT STILL HERE\n\nLabour wants to scrap the five-day notice before failed asylum seekers are removed.\n\nBut they barely remove anyone. Only around 8% of small boat migrants removed under Labour, many of them paid to go.\n\nDeport them all. https://t.co/tQTBaDAK3o",
+      "url": "https://x.com/PaulGolding/status/2122698316081135655",
+      "source_url": "https://x.com/PaulGolding/status/2122698316081135655"
+    },
+    {
+      "id": 934,
+      "event_id": 934,
+      "source": "X",
+      "source_post_id": "2122697940468940950",
+      "author": "yourNEWS_com",
+      "published_at": "2026-11-17T14:26:41Z",
+      "collected_at": "2026-11-17T15:04:20Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 40.0,
+      "text": "Spain's VOX party leader Santiago Abascal accused Prime Minister Pedro Sánchez of facilitating a “planned invasion” of the Canary Islands during a campaign rally Monday, Nov. 16, as more than 11,000 migrants arrived in the Atlantic archipelago during the first half of November.",
+      "url": "https://x.com/yourNEWS_com/status/2122697940468940950",
+      "source_url": "https://x.com/yourNEWS_com/status/2122697940468940950"
+    },
+    {
+      "id": 933,
+      "event_id": 933,
+      "source": "X",
+      "source_post_id": "2122694824348274852",
+      "author": "thaisilver60",
+      "published_at": "2026-11-17T14:14:18Z",
+      "collected_at": "2026-11-17T15:03:53Z",
+      "event_type": "DETENTION",
+      "signal_type": "DETENTION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@MattCas04807118 I just don't get it. These Labour MPs themselves use the word \"detained\" when talking about Wethersfield and Bicester. But the migrants AREN'T \"detained\", they're HOUSED, they're free to come and go as they please and are even given free transport to facilitate that. \nSince these",
+      "url": "https://x.com/thaisilver60/status/2122694824348274852",
+      "source_url": "https://x.com/thaisilver60/status/2122694824348274852"
     }
   ],
   "event_groups": [
@@ -200,6 +288,93 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-17T05:31:59Z",
       "updated_at": "2026-11-17T05:31:59Z"
+    },
+    {
+      "id": 729,
+      "group_id": 729,
+      "event_type": "SMUGGLING_ACTIVITY",
+      "dominant_event_type": "SMUGGLING_ACTIVITY",
+      "title": "SMUGGLING_ACTIVITY",
+      "representative_text": "@Hudek110 @HappyHappyTexan @USBPChief Yes, possible. Smugglers can use threats, debt, or force to control people during transport. Most loads like this, however, involve migrants who pay and willingly enter the compartments to evade detection. Border Patrol treated the case as standard human smuggling—the driver",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-17T15:00:32Z",
+      "last_seen": "2026-11-17T15:00:32Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-17T15:03:00Z",
+      "updated_at": "2026-11-17T15:03:00Z"
+    },
+    {
+      "id": 730,
+      "group_id": 730,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "FAILED, BUT STILL HERE\n\nLabour wants to scrap the five-day notice before failed asylum seekers are removed.\n\nBut they barely remove anyone. Only around 8% of small boat migrants removed under Labour, many of them paid to go.\n\nDeport them all. https://t.co/tQTBaDAK3o",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-17T14:28:11Z",
+      "last_seen": "2026-11-17T14:28:11Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-17T15:03:26Z",
+      "updated_at": "2026-11-17T15:03:26Z"
+    },
+    {
+      "id": 731,
+      "group_id": 731,
+      "event_type": "DETENTION",
+      "dominant_event_type": "DETENTION",
+      "title": "DETENTION",
+      "representative_text": "@MattCas04807118 I just don't get it. These Labour MPs themselves use the word \"detained\" when talking about Wethersfield and Bicester. But the migrants AREN'T \"detained\", they're HOUSED, they're free to come and go as they please and are even given free transport to facilitate that. \nSince these",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-17T14:14:18Z",
+      "last_seen": "2026-11-17T14:14:18Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-17T15:03:53Z",
+      "updated_at": "2026-11-17T15:03:53Z"
     }
   ],
   "influence_signals": [
@@ -565,6 +740,125 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1466,
+      "source": "X",
+      "source_post_id": "2122703710535217386",
+      "author": "Vertigo_Politix",
+      "language": "en",
+      "published_at": "2026-11-17T14:49:37Z",
+      "first_detected_at": "2026-11-17T15:03:26Z",
+      "last_detected_at": "2026-11-17T15:03:26Z",
+      "detection_count": 1,
+      "text": "Over 17,000 Africans have landed on the tiny Spanish island of El Hierro just this year alone—nearly double the local population.\n\nEach migrant boat was escorted into harbor by Spain's very own coast guard, under orders from the socialist government...\nhttps://t.co/Tr72z6uppQ",
+      "text_excerpt": "Over 17,000 Africans have landed on the tiny Spanish island of El Hierro just this year alone—nearly double the local population.\n\nEach migrant boat was escorted into harbor by Spain's very own coast guard, under orders from the socialist government...\nhttps://t.co/Tr72z6uppQ",
+      "url": "https://x.com/Vertigo_Politix/status/2122703710535217386",
+      "source_url": "https://x.com/Vertigo_Politix/status/2122703710535217386",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "El Hierro",
+      "primary_location": "El Hierro",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 27.7255,
+      "longitude": -18.0243,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1467,
+      "source": "X",
+      "source_post_id": "2122690354465931372",
+      "author": "JanetOulag92058",
+      "language": "en",
+      "published_at": "2026-11-17T13:56:32Z",
+      "first_detected_at": "2026-11-17T15:03:53Z",
+      "last_detected_at": "2026-11-17T15:03:53Z",
+      "detection_count": 1,
+      "text": "NEVER VOTE LABOUR AGAIN!!!!\n\nLast year labour spent £52 million on free transport for migrants,\n\n This year Labour raise the age for a free bus pass to 67. \n700,000 pensioners have to pay, while migrants Ride for free. https://t.co/fA6GVwXjR8",
+      "text_excerpt": "NEVER VOTE LABOUR AGAIN!!!!\n\nLast year labour spent £52 million on free transport for migrants,\n\n This year Labour raise the age for a free bus pass to 67. \n700,000 pensioners have to pay, while migrants Ride for free. https://t.co/fA6GVwXjR8",
+      "url": "https://x.com/JanetOulag92058/status/2122690354465931372",
+      "source_url": "https://x.com/JanetOulag92058/status/2122690354465931372",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport for migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport for migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -913,6 +1207,125 @@
       ],
       "high_value_matches": [
         "smugglers # ImmigrationAndAsylum # UkNews # France # ModernSlavery # HomeOffice # Europe # Politics # Calais # Refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1466,
+      "source": "X",
+      "source_post_id": "2122703710535217386",
+      "author": "Vertigo_Politix",
+      "language": "en",
+      "published_at": "2026-11-17T14:49:37Z",
+      "first_detected_at": "2026-11-17T15:03:26Z",
+      "last_detected_at": "2026-11-17T15:03:26Z",
+      "detection_count": 1,
+      "text": "Over 17,000 Africans have landed on the tiny Spanish island of El Hierro just this year alone—nearly double the local population.\n\nEach migrant boat was escorted into harbor by Spain's very own coast guard, under orders from the socialist government...\nhttps://t.co/Tr72z6uppQ",
+      "text_excerpt": "Over 17,000 Africans have landed on the tiny Spanish island of El Hierro just this year alone—nearly double the local population.\n\nEach migrant boat was escorted into harbor by Spain's very own coast guard, under orders from the socialist government...\nhttps://t.co/Tr72z6uppQ",
+      "url": "https://x.com/Vertigo_Politix/status/2122703710535217386",
+      "source_url": "https://x.com/Vertigo_Politix/status/2122703710535217386",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "route",
+          "coast"
+        ],
+        [
+          "enforcement",
+          "coast guard"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "El Hierro",
+      "primary_location": "El Hierro",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 27.7255,
+      "longitude": -18.0243,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 36.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1467,
+      "source": "X",
+      "source_post_id": "2122690354465931372",
+      "author": "JanetOulag92058",
+      "language": "en",
+      "published_at": "2026-11-17T13:56:32Z",
+      "first_detected_at": "2026-11-17T15:03:53Z",
+      "last_detected_at": "2026-11-17T15:03:53Z",
+      "detection_count": 1,
+      "text": "NEVER VOTE LABOUR AGAIN!!!!\n\nLast year labour spent £52 million on free transport for migrants,\n\n This year Labour raise the age for a free bus pass to 67. \n700,000 pensioners have to pay, while migrants Ride for free. https://t.co/fA6GVwXjR8",
+      "text_excerpt": "NEVER VOTE LABOUR AGAIN!!!!\n\nLast year labour spent £52 million on free transport for migrants,\n\n This year Labour raise the age for a free bus pass to 67. \n700,000 pensioners have to pay, while migrants Ride for free. https://t.co/fA6GVwXjR8",
+      "url": "https://x.com/JanetOulag92058/status/2122690354465931372",
+      "source_url": "https://x.com/JanetOulag92058/status/2122690354465931372",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport for migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport for migrants"
       ],
       "signal_context_rejections": [],
       "migration_context": true,
@@ -1965,9 +2378,83 @@
       "first_collected_at": "2026-11-17T05:29:35Z",
       "last_collected_at": "2026-11-17T05:29:35Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27427",
+      "timestamp": "2026-11-17T15:00:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122706462237511960",
+      "author": "daily_perspecti",
+      "url": "https://x.com/daily_perspecti/status/2122706462237511960",
+      "source_url": "https://x.com/daily_perspecti/status/2122706462237511960",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "A European perspective may overlook concerns about migrant vulnerability and human rights, prioritizing border security over ethical considerations.\n\nQUESTION: What are the legal and ethical concerns surrounding the deportation of rejected asylum seekers to an offshore…",
+      "text_excerpt": "A European perspective may overlook concerns about migrant vulnerability and human rights, prioritizing border security over ethical considerations.\n\nQUESTION: What are the legal and ethical concerns surrounding the deportation of rejected asylum seekers to an offshore…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-17T15:02:59Z",
+      "last_collected_at": "2026-11-17T15:02:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27438",
+      "timestamp": "2026-11-17T14:55:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2122705231389897020",
+      "author": "MaySting1",
+      "url": "https://x.com/MaySting1/status/2122705231389897020",
+      "source_url": "https://x.com/MaySting1/status/2122705231389897020",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@DobbsandPolicy Ah! So the way to get cheaper energy isn’t green or oil in the North Sea, it’s stop paying for migrant hotels.\nI’m guessing you feel the answer is the same one most people think;\nSafe\nLegal\nRoutes.\n= No migrant hotels",
+      "text_excerpt": "@DobbsandPolicy Ah! So the way to get cheaper energy isn’t green or oil in the North Sea, it’s stop paying for migrant hotels.\nI’m guessing you feel the answer is the same one most people think;\nSafe\nLegal\nRoutes.\n= No migrant hotels",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-17T15:03:26Z",
+      "last_collected_at": "2026-11-17T15:03:26Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-17T05:32:07.316236+00:00",
+  "last_archived_at": "2026-11-17T15:04:27.846514+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
