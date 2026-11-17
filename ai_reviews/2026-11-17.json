@@ -474,6 +474,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-17T15:05:27.020256+00:00"
+    },
+    "telegram:1261826972:54752": {
+      "hu_text": "◼ Videót is tartalmaz ▶ Az igazság: amit várhatóan megtudhatunk Triano vallomása után\n\n➡️ A város nagy tisztelettel értékeli a meghallgatást, ugyanakkor bírálja Sánchez nemrégiben Carlos Franganillóval készített interjúját\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/verdad-espera-conocer-declaracion-triano/",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy társadalmi diskurzust ismertet egy hivatalos vallomással kapcsolatban, de nem tartalmaz konkrét, ellenőrizhető tényeket.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:46.223518+00:00"
+    },
+    "telegram:1261826972:54764": {
+      "hu_text": "◼ Videókat tartalmaz ▶ Feszültség a CETI-ben a szubszaharaiak Marokkóba történő visszaküldése után\n\n➡️ Tiltakozási kísérletek zajlanak, amelyek kiterjedtek a Loma Margarita telepre is\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/tension-ceti-devoluciones-subsaharianos-marruecos/",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről számol be, konkrét helyszínnel és eseményekkel, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:46.223537+00:00"
+    },
+    "telegram:1261826972:54765": {
+      "hu_text": "◼ Mohamedről nincs hír, aki egy hajóroncs után eltűnt\n\n➡️ Családja segítséget kér, az ő esete egy másik fiataléhoz csatlakozik, aki októberben Ceutából Algecirasba utazott\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/sin-noticias-mohamed-desaparecido-naufragio-embarcacion/",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eltűnés és a család segítségkérése humanitárius témát érint, de az információk nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:46.223559+00:00"
+    },
+    "telegram:2240007404:1004": {
+      "hu_text": "Álláshirdetés: Komissiózók és rakodók az \"Arany Alma\" cég raktárába (Istra város)\n\nMunkaidő, fizetés, feltételek és elérhetőség részletezve, orosz nyelvtudás és orosz vagy FÁK állampolgárság szükséges, ingyenes szállás és munkaruházat biztosított.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migrációs szándékot tükrözhet, de nem tartalmaz ellenőrizhető tényeket vagy eseményeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:46.223564+00:00"
+    },
+    "telegram:2240007404:1005": {
+      "hu_text": "Álláshirdetés: Gipszkartonozó brigádokat keresnek Moszkvában, magas fizetéssel és hivatalos munkaviszonnyal, orosz nyelvtudás és munkavállalási engedély szükséges.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migrációs szándékot tükrözhet, de nem tartalmaz ellenőrizhető tényeket vagy eseményeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:46.223581+00:00"
+    },
+    "telegram:2240007404:1006": {
+      "hu_text": "Álláshirdetés: Almák válogatói szállással Taldomban, részletes munkafeltételekkel és fizetéssel, férfiak és nők jelentkezését várják.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migrációs szándékot tükrözhet, de nem tartalmaz ellenőrizhető tényeket vagy eseményeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T15:05:46.223584+00:00"
     }
   },
   "legacy_reviews": {}
