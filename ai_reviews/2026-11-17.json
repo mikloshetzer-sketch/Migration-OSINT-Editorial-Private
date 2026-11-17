@@ -331,6 +331,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-17T05:32:32.778003+00:00"
+    },
+    "telegram:1604168769:12664": {
+      "hu_text": "Javaslat született a migrációs közvetítő szolgáltatások betiltására. Szergej Mironov, az Állami Duma képviselője az Igazságügyi Minisztériumhoz fordult, kérve a magán közvetítő cégek tevékenységének leállítását, amelyek a munkavállaló migránsok számára segítenek a dokumentumok ügyintézésében. A képviselő szerint a korrupció és az illegális haszonszerzés növekedése miatt ezt a folyamatot kizárólag az állami szerveknek kellene végezniük.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy politikai javaslatot tartalmaz, amely migrációs közvetítő cégek betiltására irányul. Az állítás nem ellenőrzött, nincs megerősített forrás vagy hivatalos döntés, ezért UNVERIFIED státuszú. A téma közepes prioritású, mert a jogszabályi változások befolyásolhatják a migrációs folyamatokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:37.481022+00:00"
     }
   },
   "legacy_reviews": {}
