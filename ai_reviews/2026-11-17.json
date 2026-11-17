@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-16T23:10:26.669712+00:00"
+    },
+    "group:727": {
+      "hu_text": "@BlaireWhite Nem ti bohócok panaszkodtatok megint az állítólagos \"migráns karavánról\", ami múlt héten lépte át a határt? De azt mondtátok, Trump lezárta a határt, szóval hogy léphetett volna át egy karaván, ha Trump lezárta? De biztos a demokraták hibája, hogy nyitva van a határ.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és állítás a migrációs helyzetről, de nincs hozzá konkrét bizonyíték vagy hivatalos adat, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:23.961394+00:00"
+    },
+    "group:728": {
+      "hu_text": "Szombaton rekordot döntött a három nap alatt érkezett bevándorlók száma, körülbelül 3200 migráns. Vajon tényleg azt hiszik, hogy csak úgy be fognak sétálni?",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatot közöl a migránsok érkezéséről, ami fontos migrációs esemény lehet, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:23.961417+00:00"
+    },
+    "information:27372": {
+      "hu_text": "A Bibliában nem voltak fehér emberek. Mária és József közel-keletiek voltak. Jézus nem decemberben született. A Biblia azt mondja, hogy fogadnunk kell a menekülteket. A betlehemi történet migrációról, szegénységről és határátlépésről szól. Jézus nem angolul beszélt. Jézus menekült volt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vallási és társadalmi diskurzus, amely a migrációval kapcsolatos értelmezéseket tartalmaz, nem tényállítás migrációs eseményről, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:23.961421+00:00"
+    },
+    "information:27375": {
+      "hu_text": "@MattCas04807118 Küldd ki a tengerre, és tedd fel egy érkező \"migráns\" hajóra. Ha életben megérkezik, soha többé nem fogja támogatni ezt a hülyeséget.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely egy erőszakos vagy fenyegető javaslatot tartalmaz a migránsokkal kapcsolatban, de nincs tényállítás vagy bizonyíték, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:23.961424+00:00"
+    },
+    "information:27382": {
+      "hu_text": "A menekültek elleni támadás: nincs visszalépés, amit az Immigration and Asylum Bill-ben szereplő kemény intézkedések is megerősítenek. Korábban a menekültek öt év után kérhették a letelepedést, függetlenül az érkezési úttól; a Munkáspárt ezt korlátozni akarja csak a \"biztonságos\" úton érkezők számára.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos jogszabályi változásról szól, amely befolyásolja a menekültek helyzetét, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:23.961426+00:00"
+    },
+    "information:27385": {
+      "hu_text": "A Marokkó és Gibraltár közötti térség az emberek és drogok csempészésének kereszteződése. Nagy mennyiségű ember és drog lép be Európába Spanyolországon keresztül, átkelve a Szoroson, amely a világ második legforgalmasabb hajózási útvonala. Évente több ezer migráns próbálja meg átkelni.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános háttérinformációkat tartalmaz a migrációs útvonalakról és a csempészésről, de nincs konkrét adat vagy forrás, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:23.961429+00:00"
     }
   },
   "legacy_reviews": {}
