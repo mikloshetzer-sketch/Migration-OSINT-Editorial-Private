@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-17T05:32:23.961429+00:00"
+    },
+    "information:27399": {
+      "hu_text": "Ez helyes. Az izraeliek menekültek Palesztina földjére, akik 1946-ban hajókon érkeztek Európából.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás történelmi jellegű, de nincs megbízható forrás vagy bizonyíték a pontos adatok alátámasztására, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:32.777970+00:00"
+    },
+    "record:2122551158464217521": {
+      "hu_text": "Szombaton rekordot döntött a három nap alatt érkezett bevándorlók száma, körülbelül 3200 migráns. Felmerül a kérdés, hogy tényleg azt hiszik, hogy csak úgy be fognak sétálni.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A határátlépési adatokat állít, de nincs hivatalos forrás vagy bizonyíték a számok megerősítésére, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:32.777989+00:00"
+    },
+    "record:2122551171198115928": {
+      "hu_text": "Az elmúlt két napban közel 2200 migráns érkezett hajóval Spanyolország Kanári-szigeteire.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét számadatot közöl a migránsok érkezéséről, de nincs hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:32.777992+00:00"
+    },
+    "record:2122559486057750717": {
+      "hu_text": "Nem panaszkodtatok megint a feltételezett \"migráns karavánról\", amely múlt héten átkelt a határon? De azt mondtátok, Trump lezárta a határt, szóval hogyan tudott volna karaván átkelni, ha Trump lezárta? De biztos a demokraták hibája, hogy a határ nyitva van.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és vita, nincs konkrét tényállítás, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:32.777995+00:00"
+    },
+    "record:2122559827444699610": {
+      "hu_text": "Határ kommentátor Oscar Ramirez szerint ez a karaván csak az első a sok közül. Részletesen kifejti, hogy szerinte ki finanszírozza és szervezi az észak felé tartó legújabb migráns karavánt, és miért.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Elemző vélemény egy migráns karavánról, de nincs bizonyíték a finanszírozásra vagy szervezésre vonatkozóan, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:32.778000+00:00"
+    },
+    "record:mastodon_117630056526022699": {
+      "hu_text": "Az Egyesült Királyság és Franciaország közötti utolsó „egy be, egy ki” járaton lévő menedékkérők úgy érzik, hogy büntetik őket.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét helyzetről szól, de nincs további bizonyíték vagy hivatalos megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-17T05:32:32.778003+00:00"
     }
   },
   "legacy_reviews": {}
