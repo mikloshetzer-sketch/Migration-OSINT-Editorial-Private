@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:40:11.905800+00:00"
+    },
+    "information:27961": {
+      "hu_text": "Az illegális belépés bűncselekményének elkövetése elegendő indok arra, hogy megszüntessék az összes illegális migráns juttatásait, és kiadjanak egy globális közleményt, amely kimondja, hogy nincs több juttatás és belépési jog ezen az útvonalon, valamint a kis hajós migrációt biztonsági okokból tiltani kell.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai vélemény és javaslat migrációs szabályozásra, de nincs bizonyíték a hatékonyságára vagy megvalósítására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:27.981302+00:00"
+    },
+    "information:27964": {
+      "hu_text": "Mi történt a Brexitet követően? Nagy mennyiségű migráns átkelt a Csatornán, kihasználva a Dublin-egyezmény megszüntetését, miközben súlyos megélhetési válság és öt bűnöző konzervatív miniszterelnök volt hatalmon. Az Egyesült Államok meggyengült, a védelem és jólét az EU-tagságban rejlik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és értékelés migrációs és politikai helyzetről, nem bizonyított tényállításokkal.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:27.981319+00:00"
+    },
+    "information:27967": {
+      "hu_text": "India a rohingyákat kitoloncolta érkezésük óta. 2018 októberében hét, 2012 óta fogva tartott férfit átadtak Mianmar hatóságainak a Moreh határnál, miután a Legfelsőbb Bíróság nem avatkozott be. 2025 májusában körülbelül 40, köztük sok ENSZ menekültügyi regisztrált személy Delhiből...",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét kitoloncolási eseményeket említ, de a részletek hiányosak, és az állítások ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:27.981322+00:00"
+    },
+    "information:27969": {
+      "hu_text": "Ismerjük a Soros embercsempész kartell nyílt határokat érintő vesztegetéseit, ugyanúgy, mint az ukrajnai pénzmosást. Tudjuk, hogy az EU megállapodás személyes haszonszerzésről szól, és a juttatási rendszer azért jött létre, hogy migránsokat vonzzon és növelje Soros pénzét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konspirációs jellegű állításokat tartalmaz, nincs bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:27.981325+00:00"
+    },
+    "information:27988": {
+      "hu_text": "Ismerjük a Soros embercsempész kartell nyílt határokat érintő vesztegetéseit, ugyanúgy, mint az ukrajnai pénzmosást. Tudjuk, hogy az EU megállapodás személyes haszonszerzésről szól, és a juttatási rendszer azért jött létre, hogy migránsokat vonzzon és növelje Soros pénzét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz a konspirációs állítás, mint az előző rekordban, nincs bizonyíték, ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:27.981327+00:00"
+    },
+    "information:27989": {
+      "hu_text": "Valójában erősen nem értek egyet: ha az USA-nak nem lennének külföldi ellenségei, a védelem sokkal olcsóbb lenne, például a 9/11 miatt. Emellett sok katonai beavatkozás Dél- és Közép-Amerikában a kábítószer-csempészet miatt van, ami határ- és migrációs kérdés.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és értékelés migrációs és biztonsági kérdésekről, nem bizonyított tényállításokkal.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:27.981330+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
