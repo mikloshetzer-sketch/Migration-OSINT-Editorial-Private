@@ -1,0 +1,1146 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-20",
+  "live_events": [
+    {
+      "id": 943,
+      "event_id": 943,
+      "source": "X",
+      "source_post_id": "2123625631455772921",
+      "author": "NemoGneiss",
+      "published_at": "2026-11-20T03:53:00Z",
+      "collected_at": "2026-11-20T04:39:31Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@RealHickory I keep hearing MAGA extremism, but never what that is. Which of the following is extreme? \n• Seal the border and stop the migrant invasion.\n• Carry out the largest deportation operation in American history.\n• End inflation and make America affordable again.\n• Make America the https://t.co/yjOPBeBfSp",
+      "url": "https://x.com/NemoGneiss/status/2123625631455772921",
+      "source_url": "https://x.com/NemoGneiss/status/2123625631455772921"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 739,
+      "group_id": 739,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@RealHickory I keep hearing MAGA extremism, but never what that is. Which of the following is extreme? \n• Seal the border and stop the migrant invasion.\n• Carry out the largest deportation operation in American history.\n• End inflation and make America affordable again.\n• Make America the https://t.co/yjOPBeBfSp",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-20T03:53:00Z",
+      "last_seen": "2026-11-20T03:53:00Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-20T04:39:31Z",
+      "updated_at": "2026-11-20T04:39:31Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1476,
+      "source": "X",
+      "source_post_id": "2123719951110308181",
+      "author": "DelGenius",
+      "language": "en",
+      "published_at": "2026-11-20T10:07:47Z",
+      "first_detected_at": "2026-11-20T10:34:55Z",
+      "last_detected_at": "2026-11-20T10:34:55Z",
+      "detection_count": 1,
+      "text": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "text_excerpt": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "url": "https://x.com/DelGenius/status/2123719951110308181",
+      "source_url": "https://x.com/DelGenius/status/2123719951110308181",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "route to"
+        ],
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1475,
+      "source": "X",
+      "source_post_id": "2123623445992763660",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-20T03:44:19Z",
+      "first_detected_at": "2026-11-20T04:42:02Z",
+      "last_detected_at": "2026-11-20T04:42:02Z",
+      "detection_count": 1,
+      "text": "@MisoMoxie22 @ForbiddenLeaksx The video is from June 17, 2025, not recent. Then-NYC Comptroller and mayoral candidate Brad Lander linked arms with a migrant leaving a hearing at 26 Federal Plaza and asked ICE for a judicial warrant. Agents arrested him (DHS cited assaulting/impeding officers). He was released",
+      "text_excerpt": "@MisoMoxie22 @ForbiddenLeaksx The video is from June 17, 2025, not recent. Then-NYC Comptroller and mayoral candidate Brad Lander linked arms with a migrant leaving a hearing at 26 Federal Plaza and asked ICE for a judicial warrant. Agents arrested him (DHS cited assaulting/impeding officers). He was released",
+      "url": "https://x.com/grok/status/2123623445992763660",
+      "source_url": "https://x.com/grok/status/2123623445992763660",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant leaving"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1476,
+      "source": "X",
+      "source_post_id": "2123719951110308181",
+      "author": "DelGenius",
+      "language": "en",
+      "published_at": "2026-11-20T10:07:47Z",
+      "first_detected_at": "2026-11-20T10:34:55Z",
+      "last_detected_at": "2026-11-20T10:34:55Z",
+      "detection_count": 1,
+      "text": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "text_excerpt": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "url": "https://x.com/DelGenius/status/2123719951110308181",
+      "source_url": "https://x.com/DelGenius/status/2123719951110308181",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "route to"
+        ],
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1475,
+      "source": "X",
+      "source_post_id": "2123623445992763660",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-20T03:44:19Z",
+      "first_detected_at": "2026-11-20T04:42:02Z",
+      "last_detected_at": "2026-11-20T04:42:02Z",
+      "detection_count": 1,
+      "text": "@MisoMoxie22 @ForbiddenLeaksx The video is from June 17, 2025, not recent. Then-NYC Comptroller and mayoral candidate Brad Lander linked arms with a migrant leaving a hearing at 26 Federal Plaza and asked ICE for a judicial warrant. Agents arrested him (DHS cited assaulting/impeding officers). He was released",
+      "text_excerpt": "@MisoMoxie22 @ForbiddenLeaksx The video is from June 17, 2025, not recent. Then-NYC Comptroller and mayoral candidate Brad Lander linked arms with a migrant leaving a hearing at 26 Federal Plaza and asked ICE for a judicial warrant. Agents arrested him (DHS cited assaulting/impeding officers). He was released",
+      "url": "https://x.com/grok/status/2123623445992763660",
+      "source_url": "https://x.com/grok/status/2123623445992763660",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant leaving"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1476,
+      "source": "X",
+      "source_post_id": "2123719951110308181",
+      "author": "DelGenius",
+      "language": "en",
+      "published_at": "2026-11-20T10:07:47Z",
+      "first_detected_at": "2026-11-20T10:34:55Z",
+      "last_detected_at": "2026-11-20T10:34:55Z",
+      "detection_count": 1,
+      "text": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "text_excerpt": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "url": "https://x.com/DelGenius/status/2123719951110308181",
+      "source_url": "https://x.com/DelGenius/status/2123719951110308181",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "route to"
+        ],
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1476,
+      "source": "X",
+      "source_post_id": "2123719951110308181",
+      "author": "DelGenius",
+      "language": "en",
+      "published_at": "2026-11-20T10:07:47Z",
+      "first_detected_at": "2026-11-20T10:34:55Z",
+      "last_detected_at": "2026-11-20T10:34:55Z",
+      "detection_count": 1,
+      "text": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "text_excerpt": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "url": "https://x.com/DelGenius/status/2123719951110308181",
+      "source_url": "https://x.com/DelGenius/status/2123719951110308181",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "route to"
+        ],
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1476,
+      "source": "X",
+      "source_post_id": "2123719951110308181",
+      "author": "DelGenius",
+      "language": "en",
+      "published_at": "2026-11-20T10:07:47Z",
+      "first_detected_at": "2026-11-20T10:34:55Z",
+      "last_detected_at": "2026-11-20T10:34:55Z",
+      "detection_count": 1,
+      "text": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "text_excerpt": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "url": "https://x.com/DelGenius/status/2123719951110308181",
+      "source_url": "https://x.com/DelGenius/status/2123719951110308181",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "route to"
+        ],
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2123719951110308181"
+      ],
+      "related_authors": [
+        "DelGenius"
+      ],
+      "related_urls": [
+        "https://x.com/DelGenius/status/2123719951110308181"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1476,
+      "source": "X",
+      "source_post_id": "2123719951110308181",
+      "author": "DelGenius",
+      "language": "en",
+      "published_at": "2026-11-20T10:07:47Z",
+      "first_detected_at": "2026-11-20T10:34:55Z",
+      "last_detected_at": "2026-11-20T10:34:55Z",
+      "detection_count": 1,
+      "text": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "text_excerpt": "@celticdeglasgow @Zanzibar_76 @stonecounter84 To be honest, I couldn't care less about Israel, middle east etc. My concern is more about my 2 young daughters growing up.\n\nIf the people arriving by small boat are indeed refugees, I would much rather we offered them a safe route to the UK rather than them risking their lives.",
+      "url": "https://x.com/DelGenius/status/2123719951110308181",
+      "source_url": "https://x.com/DelGenius/status/2123719951110308181",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.95,
+      "score": 21.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "route_information",
+          "route to"
+        ],
+        [
+          "route_information",
+          "safe route"
+        ],
+        [
+          "route_promotion",
+          "safe route"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 63.25,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2123719951110308181"
+      ],
+      "related_authors": [
+        "DelGenius"
+      ],
+      "related_urls": [
+        "https://x.com/DelGenius/status/2123719951110308181"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1475,
+      "source": "X",
+      "source_post_id": "2123623445992763660",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-20T03:44:19Z",
+      "first_detected_at": "2026-11-20T04:42:02Z",
+      "last_detected_at": "2026-11-20T04:42:02Z",
+      "detection_count": 1,
+      "text": "@MisoMoxie22 @ForbiddenLeaksx The video is from June 17, 2025, not recent. Then-NYC Comptroller and mayoral candidate Brad Lander linked arms with a migrant leaving a hearing at 26 Federal Plaza and asked ICE for a judicial warrant. Agents arrested him (DHS cited assaulting/impeding officers). He was released",
+      "text_excerpt": "@MisoMoxie22 @ForbiddenLeaksx The video is from June 17, 2025, not recent. Then-NYC Comptroller and mayoral candidate Brad Lander linked arms with a migrant leaving a hearing at 26 Federal Plaza and asked ICE for a judicial warrant. Agents arrested him (DHS cited assaulting/impeding officers). He was released",
+      "url": "https://x.com/grok/status/2123623445992763660",
+      "source_url": "https://x.com/grok/status/2123623445992763660",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrant leaving"
+        ],
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "migrant leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2123623445992763660"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2123623445992763660"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:27961",
+      "timestamp": "2026-11-20T10:31:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123726018074526181",
+      "author": "Apocalypsetruth",
+      "url": "https://x.com/Apocalypsetruth/status/2123726018074526181",
+      "source_url": "https://x.com/Apocalypsetruth/status/2123726018074526181",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@Sargon_of_Akkad Committing the crime of illegal entry is enough justification to stop it by ending benefits for all illegal migrants &amp; issue a global communiqué stating no more benefits, no more right to entry by that route, &amp; small boat migration prohibited for safety &amp; security.",
+      "text_excerpt": "@Sargon_of_Akkad Committing the crime of illegal entry is enough justification to stop it by ending benefits for all illegal migrants &amp; issue a global communiqué stating no more benefits, no more right to entry by that route, &amp; small boat migration prohibited for safety &amp; security.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:34:55Z",
+      "last_collected_at": "2026-11-20T10:34:55Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27964",
+      "timestamp": "2026-11-20T10:03:30Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123718870032683413",
+      "author": "Jackson13105247",
+      "url": "https://x.com/Jackson13105247/status/2123718870032683413",
+      "source_url": "https://x.com/Jackson13105247/status/2123718870032683413",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "channel"
+      ],
+      "freshness_cues": [],
+      "text": "wanted. So, what followed Brexit? A huge influx of #migrants crossing the channel, taking advantage of the scrapping of the #DublinAgreement, a painful #costofliving crisis and 5 criminal #Tory PMs! #America is broken, our #defence &amp; prosperity lies with #EUMembership! Fact! https://t.co/HwFA18m6xu",
+      "text_excerpt": "wanted. So, what followed Brexit? A huge influx of #migrants crossing the channel, taking advantage of the scrapping of the #DublinAgreement, a painful #costofliving crisis and 5 criminal #Tory PMs! #America is broken, our #defence &amp; prosperity lies with #EUMembership! Fact! https://t.co/HwFA18m6xu",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:34:55Z",
+      "last_collected_at": "2026-11-20T10:34:55Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27998",
+      "timestamp": "2026-11-20T09:50:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123715482352001068",
+      "author": "ATAV01342060",
+      "url": "https://x.com/ATAV01342060/status/2123715482352001068",
+      "source_url": "https://x.com/ATAV01342060/status/2123715482352001068",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@dunkelkotze @Tihiipiket Again, effort are being made to deport migrants from these countries from Europe and reduce their arrival into a small trickle. It's not being done on national security reasons but because they can't be easily integrated into EU societies. \n\nRussian are a state security matter.",
+      "text_excerpt": "@dunkelkotze @Tihiipiket Again, effort are being made to deport migrants from these countries from Europe and reduce their arrival into a small trickle. It's not being done on national security reasons but because they can't be easily integrated into EU societies. \n\nRussian are a state security matter.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:38:40Z",
+      "last_collected_at": "2026-11-20T10:38:40Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27967",
+      "timestamp": "2026-11-20T09:43:43Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123713892639494493",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2123713892639494493",
+      "source_url": "https://x.com/grok/status/2123713892639494493",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "detention",
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@SandeepanBaner7 @kawalpreetdu Yes. India has deported Rohingya since their arrival.\n\nIn October 2018, seven men detained since 2012 were handed over to Myanmar authorities at the Moreh border after the Supreme Court declined to intervene.\n\nIn May 2025, about 40 (many UNHCR-registered) from Delhi were",
+      "text_excerpt": "@SandeepanBaner7 @kawalpreetdu Yes. India has deported Rohingya since their arrival.\n\nIn October 2018, seven men detained since 2012 were handed over to Myanmar authorities at the Moreh border after the Supreme Court declined to intervene.\n\nIn May 2025, about 40 (many UNHCR-registered) from Delhi were",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:34:56Z",
+      "last_collected_at": "2026-11-20T10:34:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27969",
+      "timestamp": "2026-11-20T09:35:25Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123711804530696233",
+      "author": "AndyBathgate2",
+      "url": "https://x.com/AndyBathgate2/status/2123711804530696233",
+      "source_url": "https://x.com/AndyBathgate2/status/2123711804530696233",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@LibDems WE KNOW ABOUT THE SOROS TRAFFICKING CARTEL OPEN BORDER BRIBES..SAME WTH THE MONEY LAUNDERING IN UKRAINE,WE KNOW THE EU DEAL IS ALL ABOUT PERSONAL GAIN..WE KNOW THE BENEFIT HEAVEN CREATED IS TO ATTRACT MIGRANTS TO  UP THE SOROS CASH https://t.co/zCfzKWrAX0 https://t.co/Ld5to7fpKY",
+      "text_excerpt": "@LibDems WE KNOW ABOUT THE SOROS TRAFFICKING CARTEL OPEN BORDER BRIBES..SAME WTH THE MONEY LAUNDERING IN UKRAINE,WE KNOW THE EU DEAL IS ALL ABOUT PERSONAL GAIN..WE KNOW THE BENEFIT HEAVEN CREATED IS TO ATTRACT MIGRANTS TO  UP THE SOROS CASH https://t.co/zCfzKWrAX0 https://t.co/Ld5to7fpKY",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:34:56Z",
+      "last_collected_at": "2026-11-20T10:34:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27988",
+      "timestamp": "2026-11-20T09:26:29Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123709556773503358",
+      "author": "AndyBathgate2",
+      "url": "https://x.com/AndyBathgate2/status/2123709556773503358",
+      "source_url": "https://x.com/AndyBathgate2/status/2123709556773503358",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@dave43law WE KNOW ABOUT THE SOROS TRAFFICKING CARTEL OPEN BORDER BRIBES..SAME WTH THE MONEY LAUNDERING IN UKRAINE,WE KNOW THE EU DEAL IS ALL ABOUT PERSONAL GAIN..WE KNOW THE BENEFIT HEAVEN CREATED IS TO ATTRACT MIGRANTS TO  UP THE SOROS CASH https://t.co/Ld5to7eRVq https://t.co/zCfzKWr37s",
+      "text_excerpt": "@dave43law WE KNOW ABOUT THE SOROS TRAFFICKING CARTEL OPEN BORDER BRIBES..SAME WTH THE MONEY LAUNDERING IN UKRAINE,WE KNOW THE EU DEAL IS ALL ABOUT PERSONAL GAIN..WE KNOW THE BENEFIT HEAVEN CREATED IS TO ATTRACT MIGRANTS TO  UP THE SOROS CASH https://t.co/Ld5to7eRVq https://t.co/zCfzKWr37s",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:35:58Z",
+      "last_collected_at": "2026-11-20T10:35:58Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27989",
+      "timestamp": "2026-11-20T09:22:44Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123708612916986292",
+      "author": "hamsammichs6",
+      "url": "https://x.com/hamsammichs6/status/2123708612916986292",
+      "source_url": "https://x.com/hamsammichs6/status/2123708612916986292",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@graysonguinn_ @soblackandblue @LeeRespecter I actually heavily disagree, if the USA didn't have foreign enemies in the nation. Defence would be massively cheaper... 9/11.\nBeyond that a lot of military intervention in South/southern America is similarly due to drug smuggling, which is a border/migration issue.",
+      "text_excerpt": "@graysonguinn_ @soblackandblue @LeeRespecter I actually heavily disagree, if the USA didn't have foreign enemies in the nation. Defence would be massively cheaper... 9/11.\nBeyond that a lot of military intervention in South/southern America is similarly due to drug smuggling, which is a border/migration issue.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:35:59Z",
+      "last_collected_at": "2026-11-20T10:35:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27990",
+      "timestamp": "2026-11-20T09:07:30Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123704780690522306",
+      "author": "IOMKenya",
+      "url": "https://x.com/IOMKenya/status/2123704780690522306",
+      "source_url": "https://x.com/IOMKenya/status/2123704780690522306",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "DTM Kenya continues to collect data on migration flows through Kenya &amp; Africa. \n\nAmong people on the move, the risk of trafficking in persons persists with 23% of respondents reporting being afraid or feeling obligated to obey someone en route.\n\nREAD: https://t.co/F9vs7smPvc https://t.co/JW6fjPfG9c",
+      "text_excerpt": "DTM Kenya continues to collect data on migration flows through Kenya &amp; Africa. \n\nAmong people on the move, the risk of trafficking in persons persists with 23% of respondents reporting being afraid or feeling obligated to obey someone en route.\n\nREAD: https://t.co/F9vs7smPvc https://t.co/JW6fjPfG9c",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T10:35:59Z",
+      "last_collected_at": "2026-11-20T10:35:59Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27899",
+      "timestamp": "2026-11-20T04:38:31Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123637088281399721",
+      "author": "Thingaah",
+      "url": "https://x.com/Thingaah/status/2123637088281399721",
+      "source_url": "https://x.com/Thingaah/status/2123637088281399721",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@_Tee__G Isn’t it the BM Foundation that allows them to cross the border in the first place? Doesn’t the BM Foundation want these Refugee Camps stationed by the border so that they can make ‘side’ money by bribes easily? Do we trust this BM Foundation?",
+      "text_excerpt": "@_Tee__G Isn’t it the BM Foundation that allows them to cross the border in the first place? Doesn’t the BM Foundation want these Refugee Camps stationed by the border so that they can make ‘side’ money by bribes easily? Do we trust this BM Foundation?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T04:39:31Z",
+      "last_collected_at": "2026-11-20T04:39:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27912",
+      "timestamp": "2026-11-20T04:22:24Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123633030262558902",
+      "author": "MrDSteely",
+      "url": "https://x.com/MrDSteely/status/2123633030262558902",
+      "source_url": "https://x.com/MrDSteely/status/2123633030262558902",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@silvina_jk Conque Terre; pretty from the boat. All the same once you arrive and you have to go through a gauntlet of African migrants selling trash and trinkets as you make your way off the boats. \nLucca; a gem. Walled city with excellent food, shopping and entertainment. Also a great spot",
+      "text_excerpt": "@silvina_jk Conque Terre; pretty from the boat. All the same once you arrive and you have to go through a gauntlet of African migrants selling trash and trinkets as you make your way off the boats. \nLucca; a gem. Walled city with excellent food, shopping and entertainment. Also a great spot",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T04:39:57Z",
+      "last_collected_at": "2026-11-20T04:39:57Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27914",
+      "timestamp": "2026-11-20T03:54:12Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123625934775550282",
+      "author": "intel_nova",
+      "url": "https://x.com/intel_nova/status/2123625934775550282",
+      "source_url": "https://x.com/intel_nova/status/2123625934775550282",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "🚨🇬🇧 TWO AFGHAN MIGRANTS CONVICTED OF RAPING AUTISTIC TEEN AFTER ARRIVING BY SMALL BOAT\n\nTwo Afghan men, Baryalai Rahimi, 25, and Mirebadurahman Sadat, 29, were reported to have arrived in the UK illegally via small boats in 2023. They were later convicted of raping and sexually https://t.co/HBHK72kWtF",
+      "text_excerpt": "🚨🇬🇧 TWO AFGHAN MIGRANTS CONVICTED OF RAPING AUTISTIC TEEN AFTER ARRIVING BY SMALL BOAT\n\nTwo Afghan men, Baryalai Rahimi, 25, and Mirebadurahman Sadat, 29, were reported to have arrived in the UK illegally via small boats in 2023. They were later convicted of raping and sexually https://t.co/HBHK72kWtF",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T04:39:57Z",
+      "last_collected_at": "2026-11-20T04:39:57Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27904",
+      "timestamp": "2026-11-20T03:43:11Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123623160566431849",
+      "author": "broony22",
+      "url": "https://x.com/broony22/status/2123623160566431849",
+      "source_url": "https://x.com/broony22/status/2123623160566431849",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@CPhilpOfficial So explain to me as if I was 10 what is an illegal immigrant? Do you mean people coming over under the 1951 Convention on Refugees to claim asylum? If only we had a safe and legal route for them before they hit the boats 🤡",
+      "text_excerpt": "@CPhilpOfficial So explain to me as if I was 10 what is an illegal immigrant? Do you mean people coming over under the 1951 Convention on Refugees to claim asylum? If only we had a safe and legal route for them before they hit the boats 🤡",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T04:39:31Z",
+      "last_collected_at": "2026-11-20T04:39:31Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:27918",
+      "timestamp": "2026-11-20T03:24:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123618471456174099",
+      "author": "reentroll",
+      "url": "https://x.com/reentroll/status/2123618471456174099",
+      "source_url": "https://x.com/reentroll/status/2123618471456174099",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "CHAOS AT BERCK: Failed Migrant Boat Crossing Dramatic Scenes Filmed LIVE https://t.co/WqwuR2qXMk via @YouTube",
+      "text_excerpt": "CHAOS AT BERCK: Failed Migrant Boat Crossing Dramatic Scenes Filmed LIVE https://t.co/WqwuR2qXMk via @YouTube",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T04:39:57Z",
+      "last_collected_at": "2026-11-20T04:39:57Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-20T10:38:50.013467+00:00"
+}
