@@ -460,6 +460,60 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1481,
+      "source": "X",
+      "source_post_id": "2123905636945608838",
+      "author": "Lee_MJ_Chapman",
+      "language": "en",
+      "published_at": "2026-11-20T22:25:38Z",
+      "first_detected_at": "2026-11-20T22:26:23Z",
+      "last_detected_at": "2026-11-20T22:26:23Z",
+      "detection_count": 1,
+      "text": "ONE JUDGE. FIVE CASES. VERY DIFFERENT OUTCOMES.\n\nToday, @RealDannyTommo was sentenced to 15 MONTHS IN PRISON for slashing an inflatable migrant dinghy after its passengers had been rescued.\n\nThe damage was never given a proven financial value. The judge found nobody was in https://t.co/vJ98yx58mv",
+      "text_excerpt": "ONE JUDGE. FIVE CASES. VERY DIFFERENT OUTCOMES.\n\nToday, @RealDannyTommo was sentenced to 15 MONTHS IN PRISON for slashing an inflatable migrant dinghy after its passengers had been rescued.\n\nThe damage was never given a proven financial value. The judge found nobody was in https://t.co/vJ98yx58mv",
+      "url": "https://x.com/Lee_MJ_Chapman/status/2123905636945608838",
+      "source_url": "https://x.com/Lee_MJ_Chapman/status/2123905636945608838",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -799,6 +853,60 @@
       "high_value_matches": [
         "transport illegal migrants"
       ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1481,
+      "source": "X",
+      "source_post_id": "2123905636945608838",
+      "author": "Lee_MJ_Chapman",
+      "language": "en",
+      "published_at": "2026-11-20T22:25:38Z",
+      "first_detected_at": "2026-11-20T22:26:23Z",
+      "last_detected_at": "2026-11-20T22:26:23Z",
+      "detection_count": 1,
+      "text": "ONE JUDGE. FIVE CASES. VERY DIFFERENT OUTCOMES.\n\nToday, @RealDannyTommo was sentenced to 15 MONTHS IN PRISON for slashing an inflatable migrant dinghy after its passengers had been rescued.\n\nThe damage was never given a proven financial value. The judge found nobody was in https://t.co/vJ98yx58mv",
+      "text_excerpt": "ONE JUDGE. FIVE CASES. VERY DIFFERENT OUTCOMES.\n\nToday, @RealDannyTommo was sentenced to 15 MONTHS IN PRISON for slashing an inflatable migrant dinghy after its passengers had been rescued.\n\nThe damage was never given a proven financial value. The judge found nobody was in https://t.co/vJ98yx58mv",
+      "url": "https://x.com/Lee_MJ_Chapman/status/2123905636945608838",
+      "source_url": "https://x.com/Lee_MJ_Chapman/status/2123905636945608838",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
       "signal_context_rejections": [],
       "migration_context": true,
       "human_migration_context": true,
@@ -2292,9 +2400,84 @@
       "first_collected_at": "2026-11-20T14:31:48Z",
       "last_collected_at": "2026-11-20T14:31:48Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28138",
+      "timestamp": "2026-11-20T22:25:16Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123905544385888257",
+      "author": "UnkleBettyB",
+      "url": "https://x.com/UnkleBettyB/status/2123905544385888257",
+      "source_url": "https://x.com/UnkleBettyB/status/2123905544385888257",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@Suffragent_ @MonMatharu Has nobody thought about the dinghy ? Almost lost at sea, used, abused and then stabbed. Nice to see the judiciary standing up for inflated rubber tubes. Stuff British people. Support migrants and their transport seems to be the view of British judges.",
+      "text_excerpt": "@Suffragent_ @MonMatharu Has nobody thought about the dinghy ? Almost lost at sea, used, abused and then stabbed. Nice to see the judiciary standing up for inflated rubber tubes. Stuff British people. Support migrants and their transport seems to be the view of British judges.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T22:26:23Z",
+      "last_collected_at": "2026-11-20T22:26:23Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28143",
+      "timestamp": "2026-11-20T22:23:58Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123905217234141210",
+      "author": "hannonkc",
+      "url": "https://x.com/hannonkc/status/2123905217234141210",
+      "source_url": "https://x.com/hannonkc/status/2123905217234141210",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "dinghy",
+        "vessel",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@LeeHarris Absolutely Disgusting is such an appropriate emotion. What a terrible sentence for a crime that never happened. Not one person came forward to claim that rubber dinghy not one. A vessel used for and by human trafficking and the British police and Court system prosecute a citizen",
+      "text_excerpt": "@LeeHarris Absolutely Disgusting is such an appropriate emotion. What a terrible sentence for a crime that never happened. Not one person came forward to claim that rubber dinghy not one. A vessel used for and by human trafficking and the British police and Court system prosecute a citizen",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T22:27:01Z",
+      "last_collected_at": "2026-11-20T22:27:01Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-20T14:33:06.856162+00:00",
+  "last_archived_at": "2026-11-20T22:29:14.244653+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
