@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "reviews": {
+    "telegram:1261826972:54766": {
+      "hu_text": "Elhalasztották a volt kormányképviselő vallomását a Nemzeti Bíróságon. A bíró elfogadta a védelem kérelmét, és december 1-jére idézte be a tanút.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos jogi eljárásról szól, de nincs további bizonyíték vagy részlet, így nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:14.974394+00:00"
+    },
+    "telegram:1261826972:54768": {
+      "hu_text": "Tardón bíró idézte a tetuáni konzulátus képviselőjét és Gonzalo Sanzt, hogy vallomást tegyenek arról, miről beszéltek Ceutában. Egy rendőr szerint a diplomata a határátlépés előtt találkozott a volt kabinetfőnökkel. A meghallgatás november 26-án lesz.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Joghatósági eljárásról van szó, amely migrációs eseményekhez kapcsolódhat, de nincs megerősített információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:14.974414+00:00"
+    },
+    "telegram:1261826972:54771": {
+      "hu_text": "Az év eleje óta körülbelül 4 000 bevándorló lépett be Ceutába. A belügyminisztérium szerint november 15-ig 4 078 szárazföldi belépést regisztráltak, ami 31,5%-os növekedés az előző év azonos időszakához képest, de nem számolják bele július 30-31-i érkezéseket.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos statisztikai adat a migrációs eseményekről, de a forrás nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:14.974419+00:00"
+    },
+    "telegram:1261826972:54772": {
+      "hu_text": "Elma Saiz számokat adott meg a Ceutából visszatérő bevándorlókról: 15 692 önkéntes visszatérés történt. Összesen 16 475 visszatérést, visszaküldést és kitoloncolást regisztráltak Marokkóba, miközben 5 000 felnőtt maradt a Ceutában kialakított táborokban.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos információ a migránsok visszatéréséről és helyzetéről, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:14.974422+00:00"
+    },
+    "telegram:1261826972:54777": {
+      "hu_text": "A belügyminisztérium megszüntette Ceuta kikötőjének 2-es szintű biztonsági fokozatát a táborok felszámolása után. Ez a döntés több mint két hónapnyi megerősített intézkedés végét jelenti, amelyet a bevándorlók ideiglenes elhelyezése miatt vezettek be.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Biztonsági intézkedések változásáról szól, ami releváns a határbiztonság szempontjából, de nincs további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:14.974425+00:00"
+    },
+    "telegram:1261826972:54782": {
+      "hu_text": "Panasszal élnek a marokkói Ceutába történő vízumos átlépés szigorítása miatt. A helyi kereskedők potenciális vásárlóitól nemcsak 1000 eurónál nagyobb összeg birtoklását kérik, hanem azt is, hogy bizonyítsák, több napot fognak a városban tartózkodni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Társadalmi reakciókat és vitákat mutat be a migrációs szabályozás kapcsán, de nincs megerősített adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:14.974441+00:00"
+    }
+  }
+}
