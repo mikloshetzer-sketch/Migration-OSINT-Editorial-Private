@@ -331,6 +331,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:44:28.928145+00:00"
+    },
+    "record:2123269526179487850": {
+      "hu_text": "Nincs pontos számadat. Közép-Ázsiából, Perzsiából, Afganisztánból és Arábiából évszázadokon át érkeztek hullámokban katonák, kereskedők, szúfik és menekültek, de K.S. Lal történész szerint a teljes szám korlátozott, legfeljebb néhány százezer lehetett. Genetikai vizsgálatok ezt nagyrészt megerősítik.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi migrációs adatokról szóló állítás, amely nem tartalmaz konkrét forrásokat vagy bizonyítékokat, ezért nem ellenőrizhető teljesen. A genetikai vizsgálatok említése részben alátámasztja, de nem részletezett.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:39.425255+00:00"
+    },
+    "record:2123407249615782314": {
+      "hu_text": "Lengyelország hat embert bíróság elé állít migránsok csempészésével kapcsolatos vádak miatt. A hatóságok szerint a gyanúsítottak több mint 100 migránst szállítottak a balkáni útvonalon keresztül az Európai Unióba.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális jogi eljárásról szóló állítás, amely fontos a migrációs kontextusban, de a forrás nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:39.425274+00:00"
+    },
+    "record:2123426038810128889": {
+      "hu_text": "@GavinNewsom Hey @grok, milyen oltási ellenőrzéseket végzett a Biden-kormányzat a határon átkelő migránsokon?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Kérdés jellegű bejegyzés, amely nem állít tényt, így nem ellenőrizhető. A határbiztonsági intézkedésekre vonatkozó információk hiányoznak.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:39.425277+00:00"
+    },
+    "record:2123427821481497058": {
+      "hu_text": "Egy migránsokat szállító hajó felborult november 18-án kora reggel Yenne közelében, Szenegálban. A Riotimesonline négy holttestet talált, egy túlélőt és több eltűntet jelentettek; egy helyi tisztviselő egy túlélőre hivatkozva mintegy 100 főről beszélt a hajón.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos humanitárius eseményről szóló jelentés, amely fontos a migrációs helyzet megértéséhez, de a forrás nem független vagy hivatalos, ezért további ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:39.425280+00:00"
     }
   },
   "legacy_reviews": {}
