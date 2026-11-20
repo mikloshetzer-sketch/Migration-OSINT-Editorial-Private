@@ -485,6 +485,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:42:53.994658+00:00"
+    },
+    "information:27700": {
+      "hu_text": "@RepJoeNeguse Eritreai menekültek fiaként mikor fogsz beszélni a totalitárius PFDJ rezsimről? Mikor fogsz beszélni a több százezer eritreairól, akik életüket kockáztatva menekültek el Eritreából, sokan a Földközi-tengeren átkelve? Mikor fogod elítélni a PFDJ rezsimet az eltűnések miatt?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai véleményeket és nem ellenőrzött adatokat tartalmaznak az eritreai menekültekről és a PFDJ rezsimről, ezért nem ellenőrizhetőek közvetlenül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:06.952443+00:00"
+    },
+    "information:27710": {
+      "hu_text": "@ThatOldWheel A DHS OIG és HHS adatai szerint az elkísérő nélküli kiskorúak számának növekedése a határon összefügg azzal, hogy a szponzorok ellenőrzése hiányos, hiányoznak címek, sikertelen jóléti ellenőrzések és emberkereskedelemmel kapcsolatos bejelentések ezeknél a gyerekeknél. A kartellek kihasználják a migrációs áramlásokat. A menedékhely-politikák korlátozzák az ICE együttműködését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások hivatalos szervek adataira hivatkoznak, de a bemenet nem tartalmaz konkrét bizonyítékokat, ezért előzetesen nem ellenőrizhetőek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:06.952459+00:00"
+    },
+    "record:2122830403102716176": {
+      "hu_text": "@GovSherrillNJ Több mint 300 000 bűnözőt, akik illegális migránsok, kitoloncoltak. Ön beengedi a bűnözőket, és felháborodik, hogy a szövetségi hatóságok eltávolítják őket. Ön bátorította azokat, akik akadályozzák a bűnözők elfogását, és felháborodik, amikor ezek az emberek megsérülnek.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét számokat és politikai véleményt tartalmaznak, de nem támasztják alá hiteles forrásokkal, így nem ellenőrizhetőek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:06.952463+00:00"
+    },
+    "record:2123176443131875840": {
+      "hu_text": "@ZeldaLazar @CaesuraFord @grok Azért jöttél ide, hogy elmenekülj a saját néped elől? lol A hispánok már jóval azelőtt Kaliforniában éltek, hogy te ideérkeztél volna, mint kolduló menekült, és továbbra is itt lesznek, még akkor is, ha visszatérsz vagy teljesen beolvadnál a lakosságba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény és társadalmi vita része, nem tartalmaz ellenőrizhető tényeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:06.952466+00:00"
+    },
+    "record:2123179944444563718": {
+      "hu_text": "Szombaton rekord, 1488 migráns érkezett Spanyolország Kanári-szigeteire. Ez többek között túlzsúfoltságot okoz Tenerifén a repülőtéren. SOK MIGRÁNS = SOK PROBLÉMA.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A számadatok és a következtetés nem ellenőrzött forrásból származnak, ezért előzetesen nem igazoltak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:06.952467+00:00"
     }
   },
   "legacy_reviews": {}
