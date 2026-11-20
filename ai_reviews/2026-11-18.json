@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:39:29.791131+00:00"
+    },
+    "telegram:1688600455:1204": {
+      "hu_text": "A Holland Királyság négy országot foglal magában: Hollandiát, Arubát, Curaçaót és Sint-Maartent. Aruba, Curaçao és Sint Maarten saját kormányokkal és parlamentekkel rendelkeznek, de bizonyos kérdéseket, például a védelmet és az állampolgárságot közösen intézik. Bonaire, Sint Eustatius és Saba a Hollandia ország részét képezik, és különleges önkormányzati státusszal bírnak. A cikk részletesen bemutatja ezen kapcsolatok működését és a szigetek eltérő státuszának eredetét.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés történelmi és háttérinformációkat tartalmaz a Holland Királyság felépítéséről, nem tartalmaz migrációs eseményre vagy politikai állásfoglalásra vonatkozó konkrét adatot. Az állítások ellenőrzése nem szükséges, mivel általános ismeretekről van szó.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:49.811922+00:00"
+    },
+    "telegram:1983050450:25655": {
+      "hu_text": "Egy Tádzsikisztánból származó blogger azt állítja, hogy Oroszországban létre kell hozni egy saját Tádzsikisztánt. Mahmad Pirnazarov, aki Oroszországban él, elmondta, hogy a tádzsik migránsok azért jönnek Oroszországba, mert „nekünk Oroszországban saját Tádzsikisztánt kell létrehoznunk”. A poszt szerzője hozzáteszi, hogy 20 év múlva, vagy akár hamarabb, amikor több millióan lesznek, autonómiát és saját régiót fognak követelni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy véleményt és előrejelzést tartalmaz egy blogger részéről, amely migrációs szándékokra és társadalmi folyamatokra utal. Az állítás nem bizonyított tény, ezért ellenőrzésre szorulhat, de jelenleg nem áll rendelkezésre megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:49.811940+00:00"
+    },
+    "telegram:2240007404:1015": {
+      "hu_text": "Teherhordókat és műanyagtermék-gyártásban dolgozó munkásokat keresnek szállással és patentdíj fizetésével Csehov városában, Moszkva környékén. A munka fizetése 90 000-110 000 rubel, a munkarend változó, 12 órás műszakokkal. Férfiakat keresnek, fizikai erőnléttel, ingyenes szállás biztosított, hivatalos munkaszerződéssel, és a FÁK állampolgárai számára a patentdíj fizetését átvállalják.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlatot tartalmaz migránsok számára, ami a migrációs folyamatok támogatását jelenti. Az információ nem ellenőrzött, de releváns a migrációs munkapiaci helyzet szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:49.811944+00:00"
+    },
+    "telegram:2240007404:1016": {
+      "hu_text": "Zöldségfeldolgozó üzembe keresnek férfi és női munkásokat Taldomban, Moszkva környékén, napi 4500 rubelig terjedő fizetéssel. A munka zöldségek kézi és gépi tisztításából áll, napi 6/1 munkarendben, nappali és éjszakai műszakokkal. Ingyenes kétszeri étkezést és szállást biztosítanak, a FÁK állampolgárai számára segítséget nyújtanak a patentdíj ügyintézésében.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migránsoknak, ami a migrációs munkapiac támogatását jelenti. Az információ nem ellenőrzött, de releváns a migrációs folyamatok szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:49.811947+00:00"
+    },
+    "telegram:2240007404:1017": {
+      "hu_text": "Munkavállalókat keresnek a Pereszvet vidéki üdülőhelyre, Moszkva környékén különböző pozíciókra, például pincér, szakács, cukrász, szobalány és takarító, 87 000 és 120 000 rubel közötti fizetéssel. A munka 6/1-es munkarendben zajlik, hivatalos munkaszerződéssel, ingyenes szállással és étkezéssel.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migránsok számára, ami a migrációs munkapiac támogatását jelenti. Az információ nem ellenőrzött, de releváns a migrációs folyamatok szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:49.811949+00:00"
+    },
+    "telegram:2240007404:1018": {
+      "hu_text": "Álláskeresőknek szóló meghívó személyes vagy online interjúra több oroszországi városban, hivatalos munkaszerződéssel és részletes tájékoztatással a munkakörülményekről. Az online jelentkezéshez kérik a személyes adatokat és a munkavállalási preferenciákat. Az ajánlat célja, hogy segítsen megfelelő munkát találni migránsok számára.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásközvetítő szolgáltatás migránsoknak, ami a migrációs munkapiac támogatását jelenti. Az információ nem ellenőrzött, de releváns a migrációs folyamatok szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:49.811951+00:00"
     }
   },
   "legacy_reviews": {}
