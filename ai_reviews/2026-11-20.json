@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:40:27.981330+00:00"
+    },
+    "information:27990": {
+      "hu_text": "A DTM Kenya továbbra is gyűjti az adatokat a migrációs áramlatokról Kenyán és Afrikán keresztül. Az úton lévők között továbbra is fennáll az emberkereskedelem kockázata, a válaszadók 23%-a fél vagy úgy érzi, köteles valakinek engedelmeskedni az út során.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A DTM hivatalos adatgyűjtésére hivatkozik, de az állítások nem ellenőrzöttek, így csak részben megerősítettnek tekinthetők.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:40.719386+00:00"
+    },
+    "information:27998": {
+      "hu_text": "Ismételten erőfeszítések történnek arra, hogy a migránsokat ezekből az országokból Európából kitoloncolják, és csökkentsék az érkezésüket egy kis cseppre. Ez nem nemzetbiztonsági okokból történik, hanem mert nem könnyű őket integrálni az EU társadalmaiba. Az oroszok állami biztonsági ügyet jelentenek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás, amely nem tartalmaz konkrét bizonyítékot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:40.719403+00:00"
+    },
+    "record:2123623445992763660": {
+      "hu_text": "A videó 2025. június 17-én készült, nem friss. Akkor Brad Lander, New York-i számvevő és polgármesterjelölt összekulcsolta a karját egy migránssal egy meghallgatás után, és bírósági végzést kért az ICE-től. Az ügynökök letartóztatták (a DHS támadás/akadályozás miatt idézte őt). Később szabadon engedték.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Időpontot és eseményt pontosít, de nincs további bizonyíték a hitelesség megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:40.719407+00:00"
+    },
+    "record:2123625631455772921": {
+      "hu_text": "Folyamatosan hallom a MAGA szélsőségességről szóló állításokat, de soha nem mondják, mi az. Az alábbiak közül melyik szélsőséges? • Lezárni a határt és megállítani a migráns inváziót. • Végrehajtani Amerika történetének legnagyobb kitoloncolási műveletét. • Vége az inflációnak és Amerika újra megfizethetővé tétele. • Amerika vezetővé tétele.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és kérdésfelvetés, nem tényállítás, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:40.719410+00:00"
+    },
+    "record:2123719951110308181": {
+      "hu_text": "Őszintén szólva nem érdekel Izrael vagy a Közel-Kelet. Inkább a két kislányom miatt aggódom. Ha a kis hajókon érkezők valóban menekültek, inkább biztonságos utat kínálnék nekik az Egyesült Királyságba, mint hogy életüket kockáztassák.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes vélemény és javaslat a migránsok biztonságos átvitelére, nem tényállítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:40.719413+00:00"
+    },
+    "telegram:1261826972:54864": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról péntek reggelre: 1. Kormánydelegált és egy volt miniszter mobilján őrzött kép a Tarajal mólóról, amelyről korábban reformot ígértek, de nem valósult meg. 2. Elítéltek egy fiatal férfit, aki elütött egy kerékpárost Benzú úton, a büntetőjogi ítéletet elfogadta. 3. Elítéltek egy személyt migránsok átszállításáért, miután a rendőrség megdöntötte az általa adott alibit.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Helyi hírek és bírósági ítéletek, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:40.719416+00:00"
     }
   },
   "legacy_reviews": {}
