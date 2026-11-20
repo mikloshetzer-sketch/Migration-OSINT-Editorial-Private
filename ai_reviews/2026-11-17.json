@@ -562,6 +562,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-17T15:05:56.534648+00:00"
+    },
+    "information:27489": {
+      "hu_text": "Az Operation Lone Star nevű művelet célja az úgynevezett határbiztonság érvényesítése volt állami szinten, több millió dollárt költve vállalkozóknak falak építésére és más költséges szolgáltatásokra. A kormányzó államosította a bevándorlás-ellenőrzést, miközben egyre kevesebben léptek illegálisan Mexikóból az Egyesült Államokba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét számadatokat és politikai értékelést tartalmaznak, de nincs közvetlen bizonyíték a hitelességükre, ezért ellenőrizetlennek minősülnek. Fontos a határbiztonsági intézkedések megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:41:35.151054+00:00"
+    },
+    "information:27490": {
+      "hu_text": "Az elmúlt 30 évben egy 74 éves zöldkártyás személy Mexikóba utazott gyógyszerekért, és soha nem volt problémája a visszatéréssel az USA-ba. Azonban 2026 márciusában az ICE tisztjei őrizetbe vették egy 30 éves fegyveres bűncselekmény miatt, noha azóta nem volt büntetett előélete, és korábban háromszor megújította státuszát. Ez az eset a Trump-kormányzat bevándorlókkal szembeni szigorúbb bánásmódját példázza.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások egy konkrét esetről szólnak, amely politikai és jogi kérdéseket érint, de nincs független megerősítésük, ezért ellenőrizetlennek minősülnek. Fontos a bevándorlási jogi gyakorlatok megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:41:35.151077+00:00"
+    },
+    "information:27522": {
+      "hu_text": "Az 'open-air prison' (szabadtéri börtön) kifejezés arra utal, hogy 2,2 millió ember nem hagyhatta el Gázát, miközben Izrael ellenőrizte a határokat, a légtér, a tengeri útvonalakat és az importot. A gázai menekülttáborok betonból épült városok, mert az 1948-as menekültek 75 évig nem térhettek vissza otthonaikba.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás történelmi és politikai kontextust ad, de nincs közvetlen bizonyíték a pontosságára, ezért ellenőrizetlennek minősül. Fontos a konfliktus hátterének megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:41:35.151080+00:00"
+    },
+    "information:27523": {
+      "hu_text": "A képek olyan menekülteket mutatnak, akik a túlzsúfolt hajók elsüllyedése miatt fulladtak meg a Földközi-tengeri átkelések során, köztük Alan Kurdit 2015-ben. Az ok a veszélyes tengeri körülmények és a rossz hajók, nem pedig az úszási képesség hiánya. Hasonló tragédiák több csoportot is érintettek.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás humanitárius tragédiákat ismertet, de nincs független bizonyíték a részletek hitelességére, ezért ellenőrizetlennek minősül. Fontos a menekültek helyzetének megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:41:35.151098+00:00"
+    },
+    "information:27534": {
+      "hu_text": "Az Egyesült Államok Határőrsége 14 illegális bevándorlót talált egy rejtett rekeszben egy utánfutóban a texasi Falfurrias ellenőrzőponton. Egy ideges sofőr és a marihuána szaga keltette fel a gyanút, ami röntgenvizsgálathoz vezetett.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény konkrét, de nincs független megerősítés, ezért ellenőrizetlennek minősül. Fontos a határbiztonsági intézkedések megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:41:35.151101+00:00"
+    },
+    "information:27537": {
+      "hu_text": "Spanyolország Kanári-szigetein 2026. november 14-én regisztrálták az Atlanti-óceáni útvonal 32 éves történetének legnagyobb egynapos migráns érkezését, amikor 1488 ember érkezett 14 hajón, főként El Hierro szigetén, amely körülbelül 11 400 lakosú.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számadatokat tartalmaz egy migrációs eseményről, de nincs független megerősítés, ezért ellenőrizetlennek minősül. Fontos a migrációs trendek megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:41:35.151103+00:00"
     }
   },
   "legacy_reviews": {}
