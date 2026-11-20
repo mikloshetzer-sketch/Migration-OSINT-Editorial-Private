@@ -177,6 +177,182 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1478,
+      "source": "X",
+      "source_post_id": "2123762909297668434",
+      "author": "InfoMigrants",
+      "language": "en",
+      "published_at": "2026-11-20T12:58:29Z",
+      "first_detected_at": "2026-11-20T13:34:13Z",
+      "last_detected_at": "2026-11-20T13:34:13Z",
+      "detection_count": 1,
+      "text": "Following the capsizing of a migrant boat off the Italian island of Lampedusa, a six-year-old girl remains missing. \n\nAround 50 people were rescued by the Italian coastguard. \n\nhttps://t.co/Gir7Q24mbf",
+      "text_excerpt": "Following the capsizing of a migrant boat off the Italian island of Lampedusa, a six-year-old girl remains missing. \n\nAround 50 people were rescued by the Italian coastguard. \n\nhttps://t.co/Gir7Q24mbf",
+      "url": "https://x.com/InfoMigrants/status/2123762909297668434",
+      "source_url": "https://x.com/InfoMigrants/status/2123762909297668434",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1477,
+      "source": "X",
+      "source_post_id": "2123768888236093809",
+      "author": "BensmanTodd",
+      "language": "en",
+      "published_at": "2026-11-20T13:22:15Z",
+      "first_detected_at": "2026-11-20T13:33:46Z",
+      "last_detected_at": "2026-11-20T13:33:46Z",
+      "detection_count": 1,
+      "text": "\"Pro-illegal immigration groups are trilling with hope that the Supreme Court will fire the silver bullet that reopens the southern border. Based on what they learn in real-time chat groups, economic migrants will probably start pushing north soon, increasing in numbers and",
+      "text_excerpt": "\"Pro-illegal immigration groups are trilling with hope that the Supreme Court will fire the silver bullet that reopens the southern border. Based on what they learn in real-time chat groups, economic migrants will probably start pushing north soon, increasing in numbers and",
+      "url": "https://x.com/BensmanTodd/status/2123768888236093809",
+      "source_url": "https://x.com/BensmanTodd/status/2123768888236093809",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.5,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "migrants will probably start pushing north soon, increasing"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants will probably start pushing north soon, increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1479,
+      "source": "X",
+      "source_post_id": "2123769268881784850",
+      "author": "Donbrad80643150",
+      "language": "en",
+      "published_at": "2026-11-20T13:23:46Z",
+      "first_detected_at": "2026-11-20T13:36:18Z",
+      "last_detected_at": "2026-11-20T13:36:18Z",
+      "detection_count": 1,
+      "text": "@CCFR_CCDAF @CTVNews @CTVVancouver @Kcharach_CTV 50k Canadian kids are dumped at the side of the road to make room for 50k Migrants who arrived yesterday, tell me I am wrong ? well why is it happening everywhere in English speaking west.",
+      "text_excerpt": "@CCFR_CCDAF @CTVNews @CTVVancouver @Kcharach_CTV 50k Canadian kids are dumped at the side of the road to make room for 50k Migrants who arrived yesterday, tell me I am wrong ? well why is it happening everywhere in English speaking west.",
+      "url": "https://x.com/Donbrad80643150/status/2123769268881784850",
+      "source_url": "https://x.com/Donbrad80643150/status/2123769268881784850",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrants who arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Migrants who arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -299,6 +475,182 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1478,
+      "source": "X",
+      "source_post_id": "2123762909297668434",
+      "author": "InfoMigrants",
+      "language": "en",
+      "published_at": "2026-11-20T12:58:29Z",
+      "first_detected_at": "2026-11-20T13:34:13Z",
+      "last_detected_at": "2026-11-20T13:34:13Z",
+      "detection_count": 1,
+      "text": "Following the capsizing of a migrant boat off the Italian island of Lampedusa, a six-year-old girl remains missing. \n\nAround 50 people were rescued by the Italian coastguard. \n\nhttps://t.co/Gir7Q24mbf",
+      "text_excerpt": "Following the capsizing of a migrant boat off the Italian island of Lampedusa, a six-year-old girl remains missing. \n\nAround 50 people were rescued by the Italian coastguard. \n\nhttps://t.co/Gir7Q24mbf",
+      "url": "https://x.com/InfoMigrants/status/2123762909297668434",
+      "source_url": "https://x.com/InfoMigrants/status/2123762909297668434",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1477,
+      "source": "X",
+      "source_post_id": "2123768888236093809",
+      "author": "BensmanTodd",
+      "language": "en",
+      "published_at": "2026-11-20T13:22:15Z",
+      "first_detected_at": "2026-11-20T13:33:46Z",
+      "last_detected_at": "2026-11-20T13:33:46Z",
+      "detection_count": 1,
+      "text": "\"Pro-illegal immigration groups are trilling with hope that the Supreme Court will fire the silver bullet that reopens the southern border. Based on what they learn in real-time chat groups, economic migrants will probably start pushing north soon, increasing in numbers and",
+      "text_excerpt": "\"Pro-illegal immigration groups are trilling with hope that the Supreme Court will fire the silver bullet that reopens the southern border. Based on what they learn in real-time chat groups, economic migrants will probably start pushing north soon, increasing in numbers and",
+      "url": "https://x.com/BensmanTodd/status/2123768888236093809",
+      "source_url": "https://x.com/BensmanTodd/status/2123768888236093809",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.5,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "pressure",
+          "migrants will probably start pushing north soon, increasing"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants will probably start pushing north soon, increasing"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1479,
+      "source": "X",
+      "source_post_id": "2123769268881784850",
+      "author": "Donbrad80643150",
+      "language": "en",
+      "published_at": "2026-11-20T13:23:46Z",
+      "first_detected_at": "2026-11-20T13:36:18Z",
+      "last_detected_at": "2026-11-20T13:36:18Z",
+      "detection_count": 1,
+      "text": "@CCFR_CCDAF @CTVNews @CTVVancouver @Kcharach_CTV 50k Canadian kids are dumped at the side of the road to make room for 50k Migrants who arrived yesterday, tell me I am wrong ? well why is it happening everywhere in English speaking west.",
+      "text_excerpt": "@CCFR_CCDAF @CTVNews @CTVVancouver @Kcharach_CTV 50k Canadian kids are dumped at the side of the road to make room for 50k Migrants who arrived yesterday, tell me I am wrong ? well why is it happening everywhere in English speaking west.",
+      "url": "https://x.com/Donbrad80643150/status/2123769268881784850",
+      "source_url": "https://x.com/Donbrad80643150/status/2123769268881784850",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "Migrants who arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "Migrants"
+      ],
+      "high_value_matches": [
+        "Migrants who arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -648,6 +1000,80 @@
       ],
       "related_urls": [
         "https://x.com/grok/status/2123623445992763660"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1478,
+      "source": "X",
+      "source_post_id": "2123762909297668434",
+      "author": "InfoMigrants",
+      "language": "en",
+      "published_at": "2026-11-20T12:58:29Z",
+      "first_detected_at": "2026-11-20T13:34:13Z",
+      "last_detected_at": "2026-11-20T13:34:13Z",
+      "detection_count": 1,
+      "text": "Following the capsizing of a migrant boat off the Italian island of Lampedusa, a six-year-old girl remains missing. \n\nAround 50 people were rescued by the Italian coastguard. \n\nhttps://t.co/Gir7Q24mbf",
+      "text_excerpt": "Following the capsizing of a migrant boat off the Italian island of Lampedusa, a six-year-old girl remains missing. \n\nAround 50 people were rescued by the Italian coastguard. \n\nhttps://t.co/Gir7Q24mbf",
+      "url": "https://x.com/InfoMigrants/status/2123762909297668434",
+      "source_url": "https://x.com/InfoMigrants/status/2123762909297668434",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "boat"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "CENTRAL_MEDITERRANEAN",
+      "primary_region": "CENTRAL_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2123762909297668434"
+      ],
+      "related_authors": [
+        "InfoMigrants"
+      ],
+      "related_urls": [
+        "https://x.com/InfoMigrants/status/2123762909297668434"
       ],
       "related_sources": [
         "X"
@@ -1140,9 +1566,311 @@
       "first_collected_at": "2026-11-20T04:39:57Z",
       "last_collected_at": "2026-11-20T04:39:57Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28021",
+      "timestamp": "2026-11-20T13:29:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123770672090378441",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2123770672090378441",
+      "source_url": "https://x.com/grok/status/2123770672090378441",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@JRDiMatteo13 @IvoryHecker The 2023 Eagle Pass video shows migrants who already crossed the Rio Grande (the border) climbing through Texas-installed concertina wire on the U.S. side. National Guard members were present under Operation Lone Star; once on U.S. soil they fall under federal processing. Many",
+      "text_excerpt": "@JRDiMatteo13 @IvoryHecker The 2023 Eagle Pass video shows migrants who already crossed the Rio Grande (the border) climbing through Texas-installed concertina wire on the U.S. side. National Guard members were present under Operation Lone Star; once on U.S. soil they fall under federal processing. Many",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:33:45Z",
+      "last_collected_at": "2026-11-20T13:33:45Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28032",
+      "timestamp": "2026-11-20T13:28:34Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123770476564746268",
+      "author": "snicklin1",
+      "url": "https://x.com/snicklin1/status/2123770476564746268",
+      "source_url": "https://x.com/snicklin1/status/2123770476564746268",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "detention",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "https://t.co/GWSMmo5wga\n  @andyburnham  Small boat illegal migrants 'numbers going down spin' they haven't; they fluctuate depending on weather, waves.. a constant flow, crowds on french side... every week something like this in the news!Why the lack of concern? Detain &amp; deport?",
+      "text_excerpt": "https://t.co/GWSMmo5wga\n  @andyburnham  Small boat illegal migrants 'numbers going down spin' they haven't; they fluctuate depending on weather, waves.. a constant flow, crowds on french side... every week something like this in the news!Why the lack of concern? Detain &amp; deport?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:34:12Z",
+      "last_collected_at": "2026-11-20T13:34:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28058",
+      "timestamp": "2026-11-20T13:20:18Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123768398773363051",
+      "author": "snicklin1",
+      "url": "https://x.com/snicklin1/status/2123768398773363051",
+      "source_url": "https://x.com/snicklin1/status/2123768398773363051",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Afghan migrants who raped and sexually assaulted autistic teenage girl in train toilet arrived in UK illegally on small boats\nhttps://t.co/nQVYNNJQee",
+      "text_excerpt": "Afghan migrants who raped and sexually assaulted autistic teenage girl in train toilet arrived in UK illegally on small boats\nhttps://t.co/nQVYNNJQee",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:36:18Z",
+      "last_collected_at": "2026-11-20T13:36:18Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28045",
+      "timestamp": "2026-11-20T13:20:12Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123768371883745787",
+      "author": "Express_Knowles",
+      "url": "https://x.com/Express_Knowles/status/2123768371883745787",
+      "source_url": "https://x.com/Express_Knowles/status/2123768371883745787",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "New: The UK/EU agreement confirms London and Brussels will begin formal talks on \"returns to third countries\". \n\nThe document - published in the last few minutes - also seems to confirm Britain could pay Europe MORE to combat the Channel migrant crisis and the smuggling networks https://t.co/hBgx5JBWpC",
+      "text_excerpt": "New: The UK/EU agreement confirms London and Brussels will begin formal talks on \"returns to third countries\". \n\nThe document - published in the last few minutes - also seems to confirm Britain could pay Europe MORE to combat the Channel migrant crisis and the smuggling networks https://t.co/hBgx5JBWpC",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:35:51Z",
+      "last_collected_at": "2026-11-20T13:35:51Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28034",
+      "timestamp": "2026-11-20T13:15:48Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123767264906518904",
+      "author": "AlanBarker2",
+      "url": "https://x.com/AlanBarker2/status/2123767264906518904",
+      "source_url": "https://x.com/AlanBarker2/status/2123767264906518904",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/b8rW8O2VRT via @UKChange",
+      "text_excerpt": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/b8rW8O2VRT via @UKChange",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:34:12Z",
+      "last_collected_at": "2026-11-20T13:34:12Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28046",
+      "timestamp": "2026-11-20T13:14:58Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123767054448599337",
+      "author": "malta2067",
+      "url": "https://x.com/malta2067/status/2123767054448599337",
+      "source_url": "https://x.com/malta2067/status/2123767054448599337",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "have committed to working closely to tackle migrant smuggling and human trafficking. They also expect their law enforcement agencies to share more data.",
+      "text_excerpt": "have committed to working closely to tackle migrant smuggling and human trafficking. They also expect their law enforcement agencies to share more data.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:35:52Z",
+      "last_collected_at": "2026-11-20T13:35:52Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28038",
+      "timestamp": "2026-11-20T13:02:06Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123763816672510398",
+      "author": "FletchedFletch",
+      "url": "https://x.com/FletchedFletch/status/2123763816672510398",
+      "source_url": "https://x.com/FletchedFletch/status/2123763816672510398",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "vessel"
+      ],
+      "freshness_cues": [],
+      "text": "There are repeated and regular reports of serious violence committed by illegal boat migrants against one another on the boats themselves during crossings. \n\nThese accounts describe beatings, stabbings, torture, murders, and rapes taking place on overcrowded vessels while they https://t.co/E545MGJRa3",
+      "text_excerpt": "There are repeated and regular reports of serious violence committed by illegal boat migrants against one another on the boats themselves during crossings. \n\nThese accounts describe beatings, stabbings, torture, murders, and rapes taking place on overcrowded vessels while they https://t.co/E545MGJRa3",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:34:13Z",
+      "last_collected_at": "2026-11-20T13:34:13Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28051",
+      "timestamp": "2026-11-20T12:51:45Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123761214173893028",
+      "author": "NewsNew97351204",
+      "url": "https://x.com/NewsNew97351204/status/2123761214173893028",
+      "source_url": "https://x.com/NewsNew97351204/status/2123761214173893028",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 50,
+      "information_score": 5,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "breaking"
+      ],
+      "text": "Breaking News UK\nTwo Afghans who raped and sexually assaulted an autistic 14-year-old girl on a busy train arrived in the UK illegally on small boats, the Daily Mail can reveal. \n\nBaryalai Rahimi, 25, and 29-year-old Mirebadurahman Sadat, crossed the Channel in 2023.\n\nThe younger https://t.co/m6FaStk1zj",
+      "text_excerpt": "Breaking News UK\nTwo Afghans who raped and sexually assaulted an autistic 14-year-old girl on a busy train arrived in the UK illegally on small boats, the Daily Mail can reveal. \n\nBaryalai Rahimi, 25, and 29-year-old Mirebadurahman Sadat, crossed the Channel in 2023.\n\nThe younger https://t.co/m6FaStk1zj",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-20T13:35:52Z",
+      "last_collected_at": "2026-11-20T13:35:52Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-20T10:38:56.055228+00:00",
+  "last_archived_at": "2026-11-20T13:36:26.244870+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
