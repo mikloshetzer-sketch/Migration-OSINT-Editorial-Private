@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:43:41.889320+00:00"
+    },
+    "telegram:2240007404:1071": {
+      "hu_text": "Sheraton SkyPoint szálloda (Moszkva, Sheremetyevo) munkaerő-felvételt hirdet különböző pozíciókra, például étteremvezető, szakács, pincér, takarító, mosodai dolgozó, versenyképes fizetéssel és munkarenddel. A szálloda nemzetközi hírű, barátságos csapatot kínál, fejlődési lehetőséggel.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat, amely potenciálisan migrációs szándékot tükrözhet, de nincs konkrét bizonyíték migrációs eseményre vagy politikai vonatkozásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:58.624190+00:00"
+    },
+    "telegram:2240007404:1072": {
+      "hu_text": "Moszkvában sürgősen keresnek szobalányokat modern szállodába, 5000 rubel műszakonkénti fizetéssel, hivatalos alkalmazással, ingyenes étkezéssel, kétnapos fizetéskifizetéssel, orosz nyelvtudás szükséges, FÁK állampolgárokat is fogadnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat, amely migrációs szándékot jelezhet, de önmagában nem bizonyított migrációs esemény vagy jogi-politikai kérdés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:58.624209+00:00"
+    },
+    "telegram:3662047307:49": {
+      "hu_text": "Segítséget kínálnak Uruguayban állandó tartózkodási engedély (PМЖ) ügyintézéséhez, beleértve hivatalos bejelentkezéseket, dokumentumok ellenőrzését és fordítását, személyes kíséretet, valamint egyéni konzultációt a migrációs folyamat teljes lebonyolításához.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Migrációs szolgáltatásokat kínáló hirdetés, amely releváns a migrációs folyamatok támogatásában, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:58.624212+00:00"
+    },
+    "group:734": {
+      "hu_text": "Nincs pontos számadat a Közép-Ázsiából, Perzsiából, Afganisztánból és Arábiából évszázadok alatt érkezett katonák, kereskedők, szúfik és menekültek számáról, de történészek szerint összesen néhány tízezer és néhányszázezer között lehetett. Genetikai vizsgálatok ezt részben megerősítik.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció migrációs hullámokról, nincs aktuális migrációs esemény vagy jogi-politikai állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:58.624215+00:00"
+    },
+    "group:735": {
+      "hu_text": "Peqi'in területén kb. 600 ember másodlagos temetkezése történt egy több évszázados Ghassulian földműves közösségből (kb. i.e. 4500–3900), kerámia ház alakú csonttartókban. A kék szemű allélok anatoliai/iráni eredetű bevándorlókkal érkeztek. Az adott időszak és anyagi kultúra nem egyezik meg más migrációs mintákkal.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Őskori régészeti és genetikai információ migrációs háttérről, nem aktuális migrációs esemény vagy politikai állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:58.624217+00:00"
+    },
+    "group:736": {
+      "hu_text": "Kérdés: Milyen oltási ellenőrzéseket végzett a Biden-adminisztráció a határon átkelő migránsokon?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Kérdés a migrációs határbiztonsági intézkedésekről, nincs válasz vagy bizonyíték, így ellenőrizetlen állítás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:58.624219+00:00"
     }
   },
   "legacy_reviews": {}
