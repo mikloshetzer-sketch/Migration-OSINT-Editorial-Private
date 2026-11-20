@@ -287,6 +287,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:42:07.927302+00:00"
+    },
+    "telegram:2240007404:1044": {
+      "hu_text": "Munkások jelentkezését várják egy betonipari gyárba (Sergijev Poszad városában), ahol szállást, repülőjegy költségét és munkavállalási engedély intézését biztosítják. A fizetés 100 000 és 150 000 rubel között van, a munkaidő napi 11 óra, nappali műszakban, hivatalos foglalkoztatással, ingyenes kollégiummal és egyéb juttatásokkal.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migráns munkavállalóknak, de nincs külső hiteles forrás vagy bizonyíték a hirdetés valódiságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:25.351305+00:00"
+    },
+    "telegram:2240007404:1045": {
+      "hu_text": "Oroszországban, Moszkvában és Szocsiban álláshirdetés vasbetonszerelők és betonozók számára, különösen kirgiz állampolgároknak. Stabil munka, hivatalos foglalkoztatás, ingyenes szállás és étkezés biztosított, órabér 400 rubeltől.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Munkaerő-közvetítés migránsoknak, de nincs megerősített forrás vagy bizonyíték a hirdetés hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:25.351326+00:00"
+    },
+    "telegram:2240007404:1046": {
+      "hu_text": "Ugyanaz az álláshirdetés, mint az előző rekord: oroszországi munka vasbetonszerelők és betonozók számára Moszkvában és Szocsiban, kirgiz állampolgároknak, stabil munkalehetőség, hivatalos foglalkoztatás, ingyenes szállás és étkezés.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ismétlődő munkaerő-közvetítő hirdetés migránsoknak, hitelesítés hiányában.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:25.351328+00:00"
+    },
+    "telegram:2240007404:1047": {
+      "hu_text": "Ugyanaz az álláshirdetés kirgiz nyelven: oroszországi munka vasbetonszerelők és betonozók számára Moszkvában és Szocsiban, hivatalos foglalkoztatás, ingyenes szállás és étkezés, stabil munkalehetőség egy nagy építőipari cégnél.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Kirgyz nyelvű változat ugyanarról a munkaerő-közvetítő hirdetésről, hitelesítés nélkül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:25.351330+00:00"
+    },
+    "telegram:2240007404:1048": {
+      "hu_text": "Zöldségfeldolgozó munkások jelentkezését várják Taldomban (Moszkva környéke), napi műszakokkal, fizetés műszakonként akár 4500 rubel, ingyenes szállás és napi kétszeri étkezés biztosított. Segítséget nyújtanak a munkavállalási engedély intézésében a FÁK állampolgárainak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migráns munkavállalóknak, de nincs külső hiteles forrás vagy bizonyíték a hirdetés valódiságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:25.351332+00:00"
+    },
+    "group:732": {
+      "hu_text": "Több mint 300 000 bűnözőt, akik illegális migránsok, kitoloncoltak. Az állítás szerint a kormány bátorítja a bűnözők beengedését, majd kritizálja a szövetségi hatóságokat, hogy eltávolítják őket, és hogy az elfogásukat akadályozókat bántalmazzák.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és állítás migrációs bűnözésről, de nincs megerősített adat vagy bizonyíték a kitoloncolások számáról vagy az állítások valóságtartalmáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:25.351335+00:00"
     }
   },
   "legacy_reviews": {}
