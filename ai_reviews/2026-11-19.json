@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:44:14.603324+00:00"
+    },
+    "information:27807": {
+      "hu_text": "Csütörtökön több tucat ember eltűnt, miután egy, Európa felé tartó migránsokat szállító hajó felborult Szenegál partjainál – közölte egy helyi civil szervezet a Reuters-szel. Ez a legújabb eset a veszélyes Nyugat-afrikai útvonalon.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, de a forrás nem ellenőrzött, ezért előzetesen nem igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:28.928115+00:00"
+    },
+    "information:27817": {
+      "hu_text": "Több tucat migráns tűnt el csütörtökön, miután egy, Európa felé tartó hajó felborult Szenegál partjainál, ami rámutat a Nyugat-Afrikán át vezető szabálytalan migrációs útvonalak veszélyeire. Adama Mbingui, az Emberi Jogokért és Barátságért Akció vezetője nyilatkozott.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos eseményről szóló információ, de nem ellenőrzött, ezért előzetesen nem igazolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:28.928133+00:00"
+    },
+    "information:27821": {
+      "hu_text": "Glastonbury egész évben, olcsóbb, és általában 200 000 baloldali, nyitott határokat támogató liberális lakja, akik élvezhetik az ünnepségeiket a hajókon érkező migránsokkal együtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és szarkazmus, nem tényállítás, nem migrációs esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:28.928137+00:00"
+    },
+    "information:27822": {
+      "hu_text": "A Perzsa-öböl államai főként ideiglenes munkavállalókat fogadnak kafala rendszerű szabályok szerint, és nem tagjai az 1951-es Menekültügyi Egyezménynek, ezért nincs hivatalos menekültügyi eljárásuk. Ez sok pakisztáni, bangladesi és indiai migránst arra késztet, hogy szabálytalan szárazföldi és tengeri útvonalakon próbáljanak meg Európába jutni.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános háttérinformáció migrációs útvonalakról és jogi helyzetről, nem konkrét esemény.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:28.928140+00:00"
+    },
+    "information:27839": {
+      "hu_text": "2018-ban Izrael 3500 dollárt és ingyenes repülőjegyet ajánlott az eritreaiaknak és szudániaknak, fenyegetve őket őrizetbe vétellel, ha nem hagyják el az országot.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét politikai intézkedésről szóló állítás, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:28.928143+00:00"
+    },
+    "record:2123261806642610493": {
+      "hu_text": "Peqi'inben körülbelül 600 ember másodlagos temetését végezték egy több évszázados Ghassul-kori (i.e. kb. 4500–3900) földműves közösségből, kerámia ház alakú csonttartók használatával. A kék szem génjei anatóliai/iráni eredetű migránsokkal érkeztek. Ez a méret, időtartam és anyagi kultúra nem egyezik meg a jelenlegi migrációs folyamatokkal.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történeti régészeti adat, amely jól dokumentált és nem kapcsolódik közvetlenül a mai migrációhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:28.928145+00:00"
     }
   },
   "legacy_reviews": {}
