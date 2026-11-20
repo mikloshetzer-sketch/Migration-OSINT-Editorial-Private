@@ -353,6 +353,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:42:25.351335+00:00"
+    },
+    "group:733": {
+      "hu_text": "@ZeldaLazar @CaesuraFord @grok Te a saját néped elől menekülsz? lol\n\nA hispánok Kaliforniában élnek jóval azelőtt, hogy te ide érkeztél volna menekültként, és itt is maradnak még akkor is, ha visszatérsz vagy teljesen beolvadnál a lakosságba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény, amely nem tartalmaz ellenőrizhető tényeket, hanem társadalmi vitát tükröz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:38.853614+00:00"
+    },
+    "information:27515": {
+      "hu_text": "Gosport nemet mond az illegális migráns hajók partraszállására! https://t.co/9662fvC2cR via @UKChange",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai állásfoglalás vagy tiltakozás, amely nem tartalmaz konkrét tényeket, de releváns a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:38.853633+00:00"
+    },
+    "information:27516": {
+      "hu_text": "A Belbiztonsági Minisztérium közölte a Kongresszussal, hogy a Trump-kormányzat nem fog hajókat használni migránsok kitoloncolására, miután felmerültek jelentések a tengeri kitoloncolások lehetőségéről.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Kormányzati közlésről van szó, amely fontos a migrációs politika szempontjából, de a forrás nem ellenőrzött, ezért előzetesen nem hitelesített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:38.853637+00:00"
+    },
+    "information:27518": {
+      "hu_text": "⭕ Spanyolország Kanári-szigeteire az elmúlt két napban körülbelül 2200 migráns érkezett a spanyol tengeri mentőszolgálat szerint, miközben továbbra is érkeznek az Atlanti-óceáni migrációs útvonalon, amely a világ egyik legveszélyesebbje.\n\n⭕ A szigetek Afrika északnyugati partjainál találhatók.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről szóló információ, amely fontos a migrációs helyzet megértéséhez, de a forrás nem teljesen ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:38.853640+00:00"
+    },
+    "information:27569": {
+      "hu_text": "Ez lehet a legabszurdabb dolog (és sok van) amit valaha is ennek a kormánynak tulajdonítottál.\n\nIllinoisban 2024-ben kanyarójárvány volt egy migránsszálláson, ahol oltatlan venezuelaiak voltak, akik Trump előtt lépték át a határt.\n\nÉs most Mexikó Amerika része?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és vita, amely nem tartalmaz ellenőrzött tényeket, hanem társadalmi diskurzust tükröz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:38.853642+00:00"
+    },
+    "information:27621": {
+      "hu_text": "Hivatalos források szerint egyre több illegális férfi érkezik migránstáborokba Észak-Franciaországban, hogy átkeljenek az Egyesült Királyságba. Sok liberális szerint jelentős gazdasági hozzájárulást fognak nyújtani az Egyesült Királyságnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Információ a migránsok mozgási szándékáról és társadalmi véleményekről, de nincs megerősített bizonyíték a pontos számokról vagy hatásról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:38.853644+00:00"
     }
   },
   "legacy_reviews": {}
