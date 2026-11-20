@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:44:51.287355+00:00"
+    },
+    "information:28021": {
+      "hu_text": "A 2023-as Eagle Pass videó olyan migránsokat mutat, akik már átkeltek a Rio Grande folyón (a határon), és a texasi oldalon telepített szögesdróton másznak át az Egyesült Államok oldalára. Az Operation Lone Star keretében Nemzeti Gárda tagjai voltak jelen; az amerikai területre érve szövetségi feldolgozás alá esnek. Sokan.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le, de nincs független bizonyíték a videó hitelességére vagy a leírtak pontos voltára, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:36:55.442158+00:00"
+    },
+    "information:28032": {
+      "hu_text": "Az állítás szerint az illegális kis hajós migránsok száma nem csökken, hanem az időjárástól és hullámoktól függően ingadozik, folyamatos az áramlás, és a francia oldalon is nagy a tömeg. Minden héten hasonló hírek jelennek meg, és kérdésként merül fel a fogva tartás és kitoloncolás lehetősége.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés véleményt és megfigyelést tartalmaz a migrációs helyzetről, de nincs konkrét adat vagy hivatalos forrás, így ellenőrizetlennek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:36:55.442179+00:00"
+    },
+    "information:28034": {
+      "hu_text": "Gosport nemet mond az illegális migráns hajók partra szállására! Írd alá a petíciót!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy petícióra való felhívás, amely politikai véleményt tükröz, de nem tartalmaz ellenőrizhető tényállítást.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:36:55.442185+00:00"
+    },
+    "information:28038": {
+      "hu_text": "Ismétlődő és rendszeres jelentések érkeznek arról, hogy illegális hajós migránsok súlyos erőszakot követnek el egymás ellen a hajókon az átkelések során. Ezek a beszámolók verésekről, szúrásokról, kínzásokról, gyilkosságokról és nemi erőszakról szólnak a túlzsúfolt hajókon.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi problémákat vet fel, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül, ugyanakkor magas prioritású a humanitárius vonatkozás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:36:55.442189+00:00"
+    },
+    "information:28045": {
+      "hu_text": "Új: Az Egyesült Királyság és az EU megállapodása megerősíti, hogy London és Brüsszel megkezdi a formális tárgyalásokat a \"visszatérésekről harmadik országokba\". A dokumentum, amely néhány perccel ezelőtt jelent meg, azt is megerősíti, hogy Nagy-Britannia többet fizethet Európának a Csatorna migrációs válságának és az embercsempész hálózatok elleni küzdelemért.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés hivatalos megállapodásról szól, de a dokumentumot nem ellenőriztük független forrásból, ezért ellenőrizetlennek minősül, ugyanakkor fontos politikai és jogi információkat tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:36:55.442195+00:00"
+    },
+    "information:28046": {
+      "hu_text": "Elkötelezték magukat a migráns csempészet és emberkereskedelem elleni szoros együttműködésre. Emellett elvárják, hogy a rendfenntartó szervek több adatot osszanak meg egymással.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás együttműködési szándékot ír le, de nincs részletes bizonyíték vagy hivatalos dokumentum, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:36:55.442198+00:00"
     }
   },
   "legacy_reviews": {}
