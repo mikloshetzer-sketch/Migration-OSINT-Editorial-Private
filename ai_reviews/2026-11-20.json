@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T13:36:55.442198+00:00"
+    },
+    "information:28051": {
+      "hu_text": "Két afgán férfi, akik egy autista 14 éves lányt erőszakoltak meg és szexuálisan bántalmaztak egy zsúfolt vonaton, illegálisan érkeztek az Egyesült Királyságba kis hajókon keresztül, derül ki a Daily Mail cikkéből. Baryalai Rahimi (25 éves) és Mirebadurahman Sadat (29 éves) 2023-ban keltek át a Csatornán.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos bűncselekményről szóló állítás, amely migrációs kontextusban jelenik meg, de nincs megerősített bizonyíték a bemenetben. A közösségi média állításai nem ellenőrzöttek, ezért óvatosan kell kezelni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:37:10.107517+00:00"
+    },
+    "information:28058": {
+      "hu_text": "Afgán migránsok, akik egy autista tinédzser lányt erőszakoltak meg és szexuálisan bántalmaztak egy vonat vécéjében, illegálisan érkeztek az Egyesült Királyságba kis hajókon.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ugyanaz a súlyos állítás, mint az előző rekordban, de nincs megerősített bizonyíték. Fontos a hitelesség ellenőrzése, mert érzékeny témáról van szó.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:37:10.107534+00:00"
+    },
+    "record:2123762909297668434": {
+      "hu_text": "Egy migránshajó felborulása után az olaszországi Lampedusa szigeténél egy hatéves kislány eltűnt. Körülbelül 50 embert mentett ki az olasz parti őrség.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos humanitárius esemény, de a részletek és a forrás ellenőrzése szükséges a pontos helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:37:10.107538+00:00"
+    },
+    "record:2123768888236093809": {
+      "hu_text": "\"A bevándorlásellenes csoportok reménykednek abban, hogy a Legfelsőbb Bíróság döntése újra megnyitja a déli határt. A valós idejű csevegőcsoportok alapján gazdasági migránsok hamarosan észak felé indulhatnak, számuk növekedni fog.\"",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és előrejelzés migrációs nyomásról, de nincs konkrét bizonyíték a bemenetben. Érdemes ellenőrizni a valós helyzetet.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:37:10.107541+00:00"
+    },
+    "record:2123769268881784850": {
+      "hu_text": "@CCFR_CCDAF @CTVNews @CTVVancouver @Kcharach_CTV 50 ezer kanadai gyereket dobnak ki az út szélére, hogy helyet csináljanak 50 ezer tegnap érkezett migránsnak, mondjátok, hogy tévedek? Miért történik ez minden angol nyelvű nyugati országban?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Erős állítás migrációs hatásokról, de nincs bizonyíték a bemenetben. Politikai véleményként kezelendő, ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:37:10.107544+00:00"
+    },
+    "telegram:2240007404:1090": {
+      "hu_text": "Háztartási segítő, családi pár vidéki házba szállással. Fizetés: 185 000 rubel egy főnek, 300 000 rubel családi párnak. Feladatok: 17 százalékos telek gondozása, télen hóeltakarítás hómaró géppel, nyáron öntözés, fűnyírás, kertápolás, kisebb ház körüli javítások, takarítás, mosás, vasalás. Munkarend: heti 5 nap, 2 szabadnap. Szállás biztosított külön házban. Állampolgárokat a FÁK-ból is várnak, segítséget nyújtanak a papírok intézésében. Helyszín: Moszkva környéke.",
+      "content_category": "FACILITATION",
+      "verification_status": "VERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely munkaerő-migrációt segít elő, hitelesnek tekinthető a forrás és a részletek alapján.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T13:37:10.107549+00:00"
     }
   },
   "legacy_reviews": {}
