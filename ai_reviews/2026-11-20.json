@@ -199,6 +199,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:40:40.719416+00:00"
+    },
+    "telegram:1261826972:54865": {
+      "hu_text": "🚩 Megakadályoztak egy hasis csempészést Marokkóból Ceutába, amelyet egy hajtóművel hajtottak végre.\n\n➡️ A műveletet a Királyi Csendőrség ügynökei hajtották végre csütörtökön, akik egy búvárokat használó hálózatot vizsgálnak, akik ezt a módszert alkalmazzák a hasis Ceutába juttatására.\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/abortado-pase-hachis-marruecos-ceuta-usando-motor-propulsor/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét határbiztonsági eseményt ír le, de nincs független megerősítés vagy további bizonyíték a csempészés tényleges megtörténtéről vagy a művelet sikerességéről. Ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:51.312254+00:00"
+    },
+    "telegram:2240007404:1086": {
+      "hu_text": "Álláshirdetés az EAEU állampolgárai számára Moszkva körzetében, Csehov városában: raktári csomagolók munkakörbe keresnek dolgozókat. A fizetés 94 000 és 179 000 rubel között van, heti kifizetés, kényelmes munkaidő, hivatalos alkalmazás, orvosi könyv a munkáltató költségén, étkezés, ingyenes munkaruházat, céges közlekedés biztosított. Az állásra az EAEU (Örményország, Fehéroroszország, Kazahsztán, Kirgizisztán) állampolgárait várják teljes dokumentációval.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az álláshirdetés nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához, így relevanciája alacsony a migrációs OSINT szempontjából. Az információ ellenőrizhető, de nem kritikus.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:51.312272+00:00"
     }
   },
   "legacy_reviews": {}
