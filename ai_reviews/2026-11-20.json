@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T13:37:20.874127+00:00"
+    },
+    "group:740": {
+      "hu_text": "A Trump-kormányzat által más országokba kitoloncolt migránsok éhezést, szomjazást és egyéb megpróbáltatásokat éltek át. Dél-Szudánban az Egyesült Államokból kitoloncolt migránsok éheztek, mert az őrök a hozzátartozóktól kapott pénzt eltették, állítják a családok.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi problémákat vet fel, de nincs megerősített bizonyíték, ezért ellenőrizetlen státuszú. Fontos a további vizsgálat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:37.618871+00:00"
+    },
+    "information:28082": {
+      "hu_text": "@VinceCoglianese Biztonságos határ✔️\nErőszakos migránsok kitoloncolása✔️\nMigrációs rendszer javítása\n\nAz USA elnökjelöltjének állampolgárnak kell lennie és legalább 14 évig az országban kell élnie. Talán 14 bűncselekmény nélküli év elegendő lehet az állampolgárság kérelmezéséhez.\n\nMinél több latinó szavazat megszerzése 2028 előtt. A demokraták a polgári jogokkal nyerték meg a lojalitást.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és javaslatokat tartalmaz, amelyek nem igényelnek azonnali ellenőrzést, de nem bizonyított tények.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:37.618892+00:00"
+    },
+    "information:28083": {
+      "hu_text": "@RebelNewsOnline Joel Smith ügyész ismerteti Tommo bűnügyi múltját, amely szerint márciusban belépett egy migráns feldolgozó központba. A csónakbaleset szeptemberben történt, akkor nem voltak migránsok a csónakon, mert már átszállították őket egy másik hajóra.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ténymegállapításokat tartalmaz egy bírósági ügyről, de nincs megerősített forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:37.618897+00:00"
+    },
+    "information:28084": {
+      "hu_text": "@ETrump82073 A legtöbb csónak (és a motorok több mint fele) Kínában készül. A Shandong, Zhejiang és Qingdao tartományokban gyártják őket olcsón. Az Alibaba oldalon néha nyíltan „menekültcsónak” néven árulják, vagy egyedi rendelésre készítik, majd gyakran álcázva Törökországba szállítják.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Információkat tartalmaz a migrációs eszközök gyártásáról és kereskedelméről, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:37.618900+00:00"
+    },
+    "information:28087": {
+      "hu_text": "@LucyTCWife Nem a csempészek adják-e a csónakot a migránsoknak? Tehát a csónak tulajdonosai azok, akik rajta utaztak az Egyesült Királyság felé, és elhagyták azt, amikor beszálltak a mentőhajóra. Akkor a tulajdonosok a migránsok vagy a mentőcég, amely felveszi őket? 🤔",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Közösségi médiás kérdésfelvetés, vélemény, nem tényállítás, nem igényel ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:37.618904+00:00"
+    },
+    "information:28089": {
+      "hu_text": "Danny Tommo (Daniel Thomas, 37) a portsmouth-i koronabíróságon jelenik meg ítélethirdetésen. A tárgyalás 14 órakor kezdődik GMT szerint. Videókapcsolaton keresztül jelenik meg a Winchester börtönből. November 12-én bűnösnek vallotta magát, mert szeptember 22-én megrongálta egy migráns csónakot a Csatornában.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Bírósági eseményről szóló információ, de nincs független megerősítés vagy hivatalos forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:37.618907+00:00"
     }
   },
   "legacy_reviews": {}
