@@ -485,6 +485,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T14:33:37.618907+00:00"
+    },
+    "information:28099": {
+      "hu_text": "A videó az amerikai oldalán, a Rio Grande folyó mellett, a kerítésnél nemzeti gárdistákat/katonákat mutat, miután a migránsok már átkeltek a folyón (a határon). Egy hasonló 2023-as felvétel alapján megállapították, hogy az ott lévők már belépett személyeket fogtak el, nem pedig az illegális átlépés segítését végezték.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy videó értelmezését tartalmazza, amely alapján a határőrizet tevékenységét írja le. Nincs közvetlen bizonyíték, csak egy korábbi hasonló eset értékelése, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:51.277967+00:00"
+    },
+    "information:28105": {
+      "hu_text": "A Daily Express megváltoztatta a címét: „Migránsok, akik megerőszakoltak és szexuálisan bántalmaztak egy lányt, kis hajókon érkeztek az Egyesült Királyságba.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy újságcím változását közli, amely súlyos állításokat tartalmaz migránsokról. Az állítások ellenőrzése nélkül nem tekinthető hitelesnek, ezért magas prioritású ellenőrzést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:51.277983+00:00"
+    },
+    "record:2123782954367279516": {
+      "hu_text": "🚨FRISS: Patriot Platform tüntetések országszerte azoknál a cégeknél, amelyek engedik, hogy buszaikat illegális migránsok szállítására használják. Andy Burnham és a kormány utálja, hogy ez teljesen békés.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy társadalmi tiltakozást ír le, politikai véleménnyel kiegészítve. Nincs bizonyíték a tiltakozás tényleges hatására vagy jogszerűségére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:51.277987+00:00"
+    },
+    "record:mastodon_3214fe6c64c6d60d5b1d": {
+      "hu_text": "A Trump-kormányzat által saját országukon kívülre kitoloncolt migránsok éhezést, szomjazást és egyéb megpróbáltatásokat szenvedtek el. Dél-Szudánban az őrök a hozzátartozóktól kapott pénzt zsebelték be, miközben a kitoloncoltak éheztek, állítják családtagok.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos emberi jogi visszaéléseket állít a bejegyzés, de nincs közvetlen bizonyíték vagy hivatalos forrás. Emiatt ellenőrzésre szorul, különösen a humanitárius vonatkozás miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:51.277990+00:00"
+    },
+    "telegram:1261826972:54879": {
+      "hu_text": "🚩 Videóval ▶ A Tarajal móló munkálatai folytatódnak, nincs marokkói blokád. A munkálatok normálisan zajlanak, az egyetlen csütörtöki 'incidens' néhány feszítőelem elhelyezése volt. A marokkói hajók képzési tevékenységet végeztek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés a határ menti infrastruktúra munkálatairól és a marokkói hajók tevékenységéről számol be. Nincs közvetlen bizonyíték, de releváns a határbiztonság szempontjából, ezért ellenőrzés javasolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T14:33:51.277993+00:00"
     }
   },
   "legacy_reviews": {}
