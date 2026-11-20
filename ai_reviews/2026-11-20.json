@@ -540,6 +540,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T14:33:51.277993+00:00"
+    },
+    "information:28138": {
+      "hu_text": "@Suffragent_ @MonMatharu Senki sem gondolt a gumicsónakra? Majdnem elveszett a tengeren, használták, bántalmazták, majd megszúrták. Jó látni, hogy az igazságszolgáltatás kiáll a felfújható gumicsövek mellett. A brit bírák úgy tűnik, a migránsokat és szállítóeszközeiket támogatják.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés véleményt és kritikát tartalmaz a brit igazságszolgáltatásról egy gumicsónak ügyében, de nincs bizonyíték az állításokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T22:29:36.445662+00:00"
+    },
+    "information:28143": {
+      "hu_text": "@LeeHarris Teljesen undorító ez az ítélet egy olyan bűncselekményért, ami soha nem történt meg. Egyetlen ember sem jelentkezett, hogy a gumicsónakot igényelje. Egy embercsempészéshez használt hajót vádolnak, és a brit rendőrség és bíróság egy állampolgárt perel.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés véleményt fogalmaz meg egy bírósági ügyről, de nincs megerősített információ a történtekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T22:29:36.445681+00:00"
+    },
+    "record:2123905636945608838": {
+      "hu_text": "EGY BÍRÓ. ÖT ÜGY. NAGYON KÜLÖNBÖZŐ EREDMÉNYEK.\n\nMa @RealDannyTommo-t 15 hónap börtönre ítélték, mert egy felfújható migráns gumicsónakot szúrt fel, miután az utasokat kimentették.\n\nA kár pénzügyi értéke nem lett bizonyítva. A bíró megállapította, hogy senki sem volt a csónakban.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét bírósági ítéletről számol be, részben ellenőrzött információ, de további részletek hiányoznak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T22:29:36.445687+00:00"
+    },
+    "telegram:1261826972:54886": {
+      "hu_text": "◼️Videóval ▶️Képek, amelyek bizonyítják, hogy a Tarajal móló építését nem állította le Marokkó.\n\n➡️Az Albamar cég folytatja a fúrási munkálatokat a helyszínen, a Santa Cruz de Tenerife hajóval.\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/imagenes-demuestran-obra-espigon-tarajal-no-parado-marruecos/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy határbiztonsági munkálatokról szóló videót és képeket mutat be, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T22:29:36.445691+00:00"
+    },
+    "telegram:2240007404:1097": {
+      "hu_text": "Rakodók és munkások műanyag termékek gyártásához szállással és patentdíj fizetésével (Csehov város, Moszkva régió).\n\nVáros: Csehov\nFizetés: 90 000 - 110 000 rubel\n\nMűanyag termékek (laminát, szegély, falpanel) gyártásához keresnek rakodókat és segédmunkásokat.\n\nFeltételek:\n- Munkaidő: 2/2, 6/1, 12 órás műszakok.\n- Fizikailag erős férfiakat keresnek.\n- Ingyenes szállás a közeli faluban.\n- Étkezés önellátó.\n- Lehetőség van feleségek vagy nővérek alkalmazására.\n- Hivatalos munkaviszony.\n- FÁK állampolgároknak havi patentdíj fizetés.\n- Kezdetben saját munkaruhát kell hozni, később céges lesz.\n\nTelefon: +7(926)416-17-34 (Svetlana)\n\n#Moszkva_régió #Moszkva\n\nFeliratkozás a Migranto.ru MAX-ra",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, de nincs további információ a hitelességről vagy a migrációs hatásról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T22:29:36.445694+00:00"
+    },
+    "telegram:2240007404:1098": {
+      "hu_text": "Rakodók és munkások műanyag termékek gyártásához szállással és patentdíj fizetésével (Csehov város, Moszkva régió).\n\nVáros: Csehov\nFizetés: 90 000 - 110 000 rubel\n\nMűanyag termékek (laminát, szegély, falpanel) gyártásához keresnek rakodókat és segédmunkásokat.\n\nFeltételek:\n- Munkaidő: 2/2, 6/1, 12 órás műszakok.\n- Nappali műszakban 90 000 rubel, éjszakai műszakban 110 000 rubel a fizetés.\n- Fizikailag erős férfiakat keresnek.\n- Ingyenes szállás a kollégiumban.\n- Étkezés önellátó.\n- Hivatalos munkaviszony.\n- FÁK állampolgároknak havi patentdíj fizetés.\n- Kezdetben saját munkaruhát kell hozni, később céges lesz.\n\nTelefon: +7(926)416-17-34 (Svetlana)\n\n#Moszkva_régió #Moszkva\n\nFeliratkozás a Migranto.ru MAX-ra",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, de nincs további információ a hitelességről vagy a migrációs hatásról.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T22:29:36.445697+00:00"
     }
   },
   "legacy_reviews": {}
