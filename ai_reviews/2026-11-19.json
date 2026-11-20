@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-19",
+  "reviews": {
+    "telegram:1261826972:54833": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról csütörtök reggelre: 1. A rendőrség hogyan követte nyomon a marokkói ügynökök és az inváziót szervezők közötti kapcsolatokat; a CENIF 77 oldalas jelentése közvetlen kapcsolatokat állapított meg marokkói ügynökök és WhatsApp/Facebook csoportok között, ahol a július 30-i tömeges belépést szervezték. 2. Ceutában a Huerta del Molino negyedben 118 megfizethető bérlakás épül, részletek a lakások számáról és elrendezéséről. 3. Videóval: Llados, a burpee és Lambók guruja, aki azt mondja, hogy Ceuta nem érdekli őt és másokat sem; egy tartalomkészítő beszélget vele az autonóm város elleni invázióról.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több témát érint, köztük a migrációs eseményeket és társadalmi diskurzust, de nem tartalmaz konkrét bizonyított tényeket, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:24.231801+00:00"
+    },
+    "telegram:1261826972:54835": {
+      "hu_text": "A Nemzeti Rendőrség négy embert tartóztatott le egy Ceutából működő embercsempész hálózat kapcsán, amely személyenként 8000 eurót kért a felfújható csónakokkal történő szárazföldi átszállításért. Az illegális bevándorlókat a Príncipe negyedben egy rossz körülmények között lévő lakásban tartották, ahol fegyveres fenyegetések, szabadságkorlátozás és büntetések érték őket.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az embercsempészettel kapcsolatos rendőrségi intézkedés fontos migrációs esemény, de a forrás nem függetlenül ellenőrzött, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:24.231821+00:00"
+    },
+    "telegram:1261826972:54837": {
+      "hu_text": "Elkezdődtek a munkálatok a Tarajal móló felújítására Ceuta és Marokkó határán. Egy hajó már dolgozik az infrastruktúrán, amely elválasztja Ceutát Marokkótól. David de la Encina kormánymegbízott nyilatkozott a határnál zajló munkálatokról.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A határinfrastruktúra fejlesztése fontos határbiztonsági esemény, de a forrás nem függetlenül ellenőrzött, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:24.231825+00:00"
+    },
+    "telegram:1261826972:54838": {
+      "hu_text": "A UDYCO rendőrségi egység rajtaütést tartott egy olyan lakáson, ahol kokaint és heroinot árultak Ceutában, a Príncipe utcában. A lakás felelősét és két bevándorlót őrizetbe vettek, és lefoglaltak 1 kilogramm kokaint és 2 kilogramm hasist.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A kábítószer-kereskedelemmel kapcsolatos rendőrségi akció nem közvetlenül migrációs esemény, inkább társadalmi probléma, és a forrás nem függetlenül ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:24.231827+00:00"
+    },
+    "telegram:1261826972:54852": {
+      "hu_text": "Marokkó munkálatokat végez a Tarajal móló közelében, mozgat hajókat és intézkedik a bevándorlókkal kapcsolatban. Gépekkel homokot mozgatnak a móló mellett, és hajókat mozgatnak. Egy kitoloncolt marokkói személy sikertelenül próbált meg elmenekülni.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A határ menti mozgások és munkálatok fontosak a határbiztonság szempontjából, de a forrás nem függetlenül ellenőrzött, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:24.231829+00:00"
+    },
+    "telegram:1261826972:54858": {
+      "hu_text": "A rendőrség szorosabbra húzza a gyűrűt egy „tervezett invázió” ügyében: a CENIF egy jelentést adott át María Tardón bíró számára, amelyben elemzik azokat a mentőmellényeket, amelyeket akár 125 000 ember átkelésére használtak. Ezek szinte mind egyformák voltak, és lehetetlen volt őket ugyanazon a napon beszerezni.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A jelentés egy nagy létszámú migrációs esemény szervezettségére utal, ami fontos információ, de a forrás nem függetlenül ellenőrzött, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:43:24.231832+00:00"
+    }
+  }
+}
