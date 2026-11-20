@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:39:14.974441+00:00"
+    },
+    "telegram:1261826972:54796": {
+      "hu_text": "Spanyolország kormánya bejelentette, hogy szerdán megkezdik a hullámtörők építését. Bár még nem látható semmi, Ángel Víctor Torres egységes parancsnok megerősítette ezt a kongresszusban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejelentés hivatalos kormányzati forrásból származik, de a munkálatok tényleges megkezdése még nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:29.791102+00:00"
+    },
+    "telegram:1261826972:54806": {
+      "hu_text": "Az UniónGC szakszervezet nagyobb kártérítést ért el egy Ceutában megtámadott csendőr számára. Az illegális bevándorló, akit igazoltatni akartak, meglökte a csendőrt, aki megsérült. A szakszervezet támogatása kulcsfontosságú volt a magasabb kártérítés elérésében és a tagjuk támogatásának biztosításában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A hír egy szakszervezeti bejelentésen alapul, de nincs további független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:29.791119+00:00"
+    },
+    "telegram:1261826972:54819": {
+      "hu_text": "Rajoy bírálja Sánchezt a Ceutában és Marokkóban kialakult válság miatt, mondván, hogy a kormány gyenge volt. Kritikát fogalmaz meg a Pedro Sánchez-kormány bevándorlási válságra adott válaszával kapcsolatban, és sürgős politikai változást követel Alberto Núñez Feijóo vezetésével.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény, amely nem tartalmaz ellenőrizhető tényállítást, így önmagában nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:29.791123+00:00"
+    },
+    "telegram:1261826972:54821": {
+      "hu_text": "Egy Ceutában megtámadott bevándorlót megműtöttek, majd Cádizból visszaszállították, de végül Marokkóba távozott. A szakszervezetek szerint Zaidín, a 20 éves férfi egy nappal a kórházi elbocsátása után az utcára került, pedig ígéretet kaptak, hogy Ceutában marad a felépüléshez. Kérik, hogy megkapja a felírt gyógyszereket és folytathassa a gyógyulást Spanyolországban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A beszámoló szakszervezeti állításokon alapul, további megerősítés szükséges a pontos körülményekhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:29.791126+00:00"
+    },
+    "telegram:1261826972:54824": {
+      "hu_text": "Spanyolország kormánya bejelentette, hogy szerdán megkezdik a hullámtörők építését. A munkálatokat végző hajó még aznap megérkezett Ceutába, és a kormány képviselője, David de la Encina jelen volt a Muelle de España kikötőben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalos kormányzati bejelentés és helyszíni jelenlét, de a munkálatok tényleges állapota még nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:29.791128+00:00"
+    },
+    "telegram:1261826972:54827": {
+      "hu_text": "El Morro városrész videóval: követelik a szennyvíz okozta árvíz megszüntetését, és csökkenő bevándorlást állítanak. Ali Hamido, a helyi közösség vezetője elmondta, hogy a lakók évek óta várnak beavatkozásra az Españoleto utcában, az első esőzések már károkat okoztak, és nem zárják ki a tiltakozást. Azt is hangsúlyozta, hogy a bevándorlás csökkent a lakók együttműködésének köszönhetően.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Helyi közösségi vezető véleménye és állítása, amely további megerősítést igényel a körülmények pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:39:29.791131+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
