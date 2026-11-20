@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:43:58.624219+00:00"
+    },
+    "group:737": {
+      "hu_text": "Egy migránshajó felborult Yenne közelében, Szenegál partjainál  november 18-án kora reggel. A Riotimesonline jelentése szerint négy holttestet találtak, egy túlélő van, és több személy eltűnt; egy helyi tisztviselő egy túlélőre hivatkozva azt mondta, hogy körülbelül 100 ember tartózkodott a hajón.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló információ, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:14.603293+00:00"
+    },
+    "group:738": {
+      "hu_text": "Lengyelország hat embert állított bíróság elé migránscsempészet vádjával. A hatóságok szerint a gyanúsítottak több mint 100 migránst szállítottak a balkáni útvonalon keresztül az Európai Unióba.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos információ a migrációs facilitációról, de nincs hivatalos vagy megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:14.603313+00:00"
+    },
+    "information:27746": {
+      "hu_text": "A CDC és a texasi egészségügyi hatóságok szerint a 2025-ös nyugat-texasi járvány forrása ismeretlen. Nincs bizonyíték arra, hogy összefüggésben lenne illegális határátlépésekkel vagy migránsokkal. A genetikai adatok és az epidemiológia inkább egy 2024-es, Ontarióban alacsony átoltottságú mennonita közösségből származó D8 vonalra utalnak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Egészségügyi információ, amely migrációval kapcsolatos állításokat cáfol, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:14.603317+00:00"
+    },
+    "information:27767": {
+      "hu_text": "Az olasz szervezett bűnözői csoportok, mint a Cosa Nostra, az 'Ndrangheta és a Camorra, dokumentáltan hasznot húznak a migránsok Olaszországba csempészéséből és a megérkezésük utáni kizsákmányolásukból.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos információ a migrációs facilitációról és bűnözésről, de nincs hivatalos vagy megerősített forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:14.603319+00:00"
+    },
+    "information:27768": {
+      "hu_text": "Földrajzi prioritások figyelése: Líbiában és a Földközi-tengeren tengeri csempészet, szankciók kijátszása, migrációs útvonalak és fegyveres hatalmi versengés; Szudánban konfliktus miatti elmozdulás, illegális erőforrás-kitermelés, emberkereskedelem és megszakított humanitárius tevékenységek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Átfogó helyzetjelentés migrációs és biztonsági kérdésekről, de nincs megerősített forrás vagy részletes bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:14.603322+00:00"
+    },
+    "information:27804": {
+      "hu_text": "Több mint 50%-uk azoknak, akik illegálisan tartózkodnak itt, eredetileg legálisan érkeztek, de lejárt a dokumentumuk. Nem szükséges illegálisan átlépni a határt ahhoz, hogy valaki illegális migráns legyen. Azok harcolnak valami ellen, amit nem értenek; a migrációs válság ennél sokkal összetettebb.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és társadalmi diskurzus a migrációról, nem tényállítás, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:44:14.603324+00:00"
     }
   },
   "legacy_reviews": {}
