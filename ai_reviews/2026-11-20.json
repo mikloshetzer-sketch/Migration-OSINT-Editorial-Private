@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "reviews": {
+    "group:739": {
+      "hu_text": "@RealHickory: Folyamatosan hallom a MAGA szélsőségességet, de sosem mondják, hogy mi az. Melyik az alábbiak közül szélsőséges?\n• Lezárni a határt és megállítani a migráns inváziót.\n• Végrehajtani Amerika történetének legnagyobb kitoloncolási műveletét.\n• Vége az inflációnak, és újra megfizethetővé tenni Amerikát.\n• Tegyük Amerikát újra naggyá.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményeket és kérdéseket tartalmaz, de nincs konkrét tényállítás vagy bizonyíték, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:11.905771+00:00"
+    },
+    "information:27899": {
+      "hu_text": "@_Tee__G: Nem a BM Alapítvány az, amely először engedi át őket a határon? Nem akarja a BM Alapítvány, hogy a határnál legyenek menekülttáborok, hogy könnyen kenőpénzekből 'mellékes' pénzt kereshessenek? Bízhatunk ebben a BM Alapítványban?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állításokat tartalmaz a BM Alapítvány szerepéről, de nincs bizonyíték, így ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:11.905788+00:00"
+    },
+    "information:27904": {
+      "hu_text": "@CPhilpOfficial: Magyarázd el nekem tízévesként, mi az az illegális bevándorló? Azokra gondolsz, akik a 1951-es menekültügyi egyezmény alapján érkeznek menedékkérelmet benyújtani? Bárcsak lenne biztonságos és legális útvonal számukra, mielőtt hajóra szállnának 🤡",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Kérdéseket és véleményeket tartalmaz a menekültek jogi státuszáról, nincs konkrét tényállítás, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:11.905792+00:00"
+    },
+    "information:27912": {
+      "hu_text": "@silvina_jk Conque Terre: gyönyörű a hajóról nézve, de ugyanaz, amikor megérkezel, és át kell menned egy afrikai migránsokból álló árusító sorfalon, akik szemetet és apróságokat kínálnak. Lucca: egy gyöngyszem, fallal körülvett város kiváló éttermekkel, vásárlási és szórakozási lehetőségekkel. Szintén remek hely.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes élménybeszámoló, nem tartalmaz ellenőrizhető tényeket, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:11.905795+00:00"
+    },
+    "information:27914": {
+      "hu_text": "🚨🇬🇧 KÉT AFGÁN MIGRÁNST ELÍTÉLTEK AUTISTA TINÉDZSER MEGERŐSZAKOLÁSA MIATT, MIUTÁN KIS HAJÓN ÉRKEZTEK\n\nKét afgán férfit, Baryalai Rahimit (25) és Mirebadurahman Sadatot (29) 2023-ban illegálisan érkezett kis hajóval az Egyesült Királyságba. Később elítélték őket egy autista tinédzser elleni nemi erőszak miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Bűncselekményről szóló állítás, de nincs megerősített forrás vagy hivatalos bizonyíték, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:11.905797+00:00"
+    },
+    "information:27918": {
+      "hu_text": "KAOSZ BERCKNÉL: Sikertelen migránshajó átkelés, drámai jelenetek élőben felvéve https://t.co/WqwuR2qXMk via @YouTube",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Eseményről szóló információ, de csak egy videóra hivatkozik, nincs további bizonyíték, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:40:11.905800+00:00"
+    }
+  }
+}
