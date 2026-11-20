@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-20T10:42:38.853644+00:00"
+    },
+    "information:27627": {
+      "hu_text": "@BenMaguireMP Te egy büdös hazug vagy. Nem veszed figyelembe, hogy a Hamasz irányítja Gázát, és Egyiptom ellenőrzi a Rafah határát Gázával. De te csak Izraelről és az elfogult, gyűlöletkeltő ICJ-ről beszélsz. Ráadásul figyelmen kívül hagyod a saját alkalmatlan kudarcodat a Csatornánál, ahol több ezer illegális migráns érkezett. Csak egy gyűlölködő vagy.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményt és vádat tartalmaz, de nincs bizonyíték az állítások igazolására vagy cáfolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:53.994627+00:00"
+    },
+    "information:27628": {
+      "hu_text": "A nyájimmunitás tartott meg minket védetten, amíg meg nem engedtük, hogy kanyaróval fertőzött illegálisok átlépjék a határunkat. \"Tranny Annie\" azon fog dolgozni, hogy határaink nyitva legyenek minden fertőző harmadik világbeli migráns előtt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások egészségügyi és migrációs témákat érintenek, de nincs bizonyíték az állítások igazolására, ráadásul gyűlöletkeltő és diszkriminatív nyelvezetet használ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:53.994647+00:00"
+    },
+    "information:27632": {
+      "hu_text": "Minden kis hajón érkező migránst öt évre kémiailag kasztrálni kellene. Az, hogy valaki egy vihar elől (amit saját kultúrájuk okozott) egy tanyán keres menedéket, nem jelenti, hogy lefeküdhet a gazda lányával. Meg kellene tiltani számukra minden szexuális kapcsolatot a lakosságunkkal.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások erősen diszkriminatívak és gyűlöletkeltőek, nincs bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:53.994649+00:00"
+    },
+    "information:27668": {
+      "hu_text": "#HATÁR: 8 nigériai és 1 magyar állampolgárt vádoltak meg egy Peel autólopási hálózatban, miközben a rendőrség 96 járművet foglalt le 4,5 millió dollár értékben és 231 vádat emelt — mindannyian óvadék ellenében szabadlábon vannak.\n\nSötét múltjuk között szerepelnek kitoloncolt, elutasított kérelmezők, akik később magyarországi lopási elítélésekkel rendelkeznek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Bűnügyi hírt tartalmaz, de nincs megerősített forrás vagy további bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:53.994653+00:00"
+    },
+    "information:27684": {
+      "hu_text": "#HATÁR: 8 nigériai és 1 magyar állampolgárt vádoltak meg egy Peel autólopási hálózatban, miközben a rendőrség 96 járművet foglalt le 4,5 millió dollár értékben és 231 vádat emelt — mindannyian óvadék ellenében szabadlábon vannak.\n\nSötét múltjuk között szerepelnek kitoloncolt, elutasított kérelmezők, akik később magyarországi lopási elítélésekkel rendelkeznek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az előző rekorddal azonos tartalom, nincs megerősített forrás vagy további bizonyíték az állítások igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:53.994655+00:00"
+    },
+    "information:27698": {
+      "hu_text": "@Kingbingo_ @juneslater17 Elképzelem, hogy lesznek hajók a piacon, ha a menekültüzletet bezárják.\n\nÉn inkább a tengeri visszaköltözés pártján vagyok.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a migrációs visszaköltözésről, nincs konkrét tényállítás vagy bizonyíték.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-20T10:42:53.994658+00:00"
     }
   },
   "legacy_reviews": {}
