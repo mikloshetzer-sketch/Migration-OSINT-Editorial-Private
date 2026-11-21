@@ -67,6 +67,51 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T04:36:59.532140+00:00"
+    },
+    "record:2123995986615787864": {
+      "hu_text": "2023. november 20-án mintegy 300 közép-amerikai migráns lépett be Guatemala felől Dél-Chiapasba, csatlakozva vagy párhuzamosan haladva a nagyobb, eredetileg mintegy 1500 fős „Dios con Nosotros” karavánnal, amely most kisebb csoportokra szakadt Arriaga és Tonalá környékén. A mexikói hatóságok nem jelentettek további részleteket.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, amely friss adatokat tartalmaz, de nincs megerősített forrás vagy hivatalos jelentés a pontos létszámról és helyzetről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:37:07.206479+00:00"
+    },
+    "record:2123996492696363416": {
+      "hu_text": "Egy politikai vélemény, amely szerint a demokraták szándékosan engedték túlterhelődni a határt, és kételkedik abban, hogy valóban több millió ember lépett volna be menekültként vagy menedékkérőként az elmúlt négy évben. Kérdéseket vet fel Kamala Harris szerepéről és a kiváltó okokról.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítások, amelyek nem tartalmaznak konkrét bizonyítékot, ezért nem ellenőrizhetőek tényként.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:37:07.206496+00:00"
+    },
+    "record:mastodon_117652305416525937": {
+      "hu_text": "Egy új, mintegy 250 fős migránskaraván lépett be Mexikóba Chiapas államon keresztül az Egyesült Államok felé. Egyesek szerint az ICE deportálta őket, és családjaikkal való egyesülésre törekednek. Egy másik, 100 fős csoport Oaxaca felé halad.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, de az állítások (pl. deportálás) nem ellenőrzöttek, és a forrás nem hivatalos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:37:07.206501+00:00"
+    },
+    "telegram:1604168769:12691": {
+      "hu_text": "Moszkvában megerősítették, hogy 2027-től emelik a munkavállalók számára kiadott patens díját: szervezeteknél dolgozók esetén 11 ezer rubelre, magánszemélyeknél pedig 15,6 ezer rubelre. Emellett a migránsok családtagjainak havi jövedelme nem lehet kevesebb 60 vagy 80 ezer rubelnél a családtagok számától függően.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Hivatalosnak tűnő szabályozási változásról számol be, de a forrás nem közvetlenül hivatalos, ezért részben ellenőrzöttnek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:37:07.206504+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
