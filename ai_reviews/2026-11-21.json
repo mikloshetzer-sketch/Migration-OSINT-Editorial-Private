@@ -309,6 +309,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T13:56:23.999104+00:00"
+    },
+    "telegram:1261826972:54905": {
+      "hu_text": "A Tarajal móló munkálatai előrehaladnak a fúrásokkal. A Santa Cruz de Tenerife hajó a határátkelő szerkezetének felújításával és bővítésével kapcsolatos munkákat végzi incidensek nélkül. Fotógaléria elérhető a megadott linken.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy határinfrastruktúra fejlesztéséről szól, ami releváns a határbiztonság témakörében. Az állítás nem ellenőrzött, nincs további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:31.230251+00:00"
+    },
+    "telegram:2240007404:1103": {
+      "hu_text": "Takarítónők keresése moszkvai gyógyszertárban napi kétszeri takarításra, szerződés szerinti fizetéssel és minimális dokumentációval. Kapcsolatfelvételi információk megadva.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés munkaerő-közvetítésről szól, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:31.230269+00:00"
+    },
+    "telegram:2240007404:1104": {
+      "hu_text": "Gipszkartonozó brigádokat keresnek Moszkvában, havi 200 000 rubel fizetéssel, heti előleggel, hivatalos munkaviszonnyal és eszközökkel. Feltételek és elvárások részletezve, kapcsolatfelvételi adatok megadva.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy munkaerő-közvetítő hirdetés, amely nem kapcsolódik közvetlenül migrációs eseményekhez vagy politikákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:31.230273+00:00"
+    },
+    "telegram:2240007404:1105": {
+      "hu_text": "Alkalmazottakat keresnek almás pástétom gyártására Moszkva környékén, szállással és napi kétszeri fizetéssel. Részletes munkakörülmények és elvárások megadva, orosz nyelvtudás szükséges, kapcsolatfelvételi adatokkal.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Munkaerő-közvetítő hirdetés, amely nem kapcsolódik közvetlenül migrációs eseményekhez vagy politikákhoz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:31.230277+00:00"
     }
   },
   "legacy_reviews": {}
