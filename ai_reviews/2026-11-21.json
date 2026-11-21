@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-21",
+  "reviews": {
+    "group:741": {
+      "hu_text": "Körülbelül 250 migránsból álló új karaván lépett be Mexikóba Chiapas államon keresztül, az Egyesült Államok felé tartva. Egyesek szerint az ICE deportálta őket, és családjaikkal szeretnének újraegyesülni. Egy másik, 100 fős csoport Oaxaca felé halad.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, de nincs megerősített forrás vagy bizonyíték az állítások hitelességére, ezért ellenőrizetlennek minősül. Fontos információ lehet a migrációs helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:36:59.532102+00:00"
+    },
+    "group:742": {
+      "hu_text": "2023. november 20-án egy új, mintegy 300 közép-amerikai migránsból álló csoport lépett be Guatemala felől Chiapas déli részére, csatlakozva vagy párhuzamosan haladva a nagyobb, eredetileg mintegy 1500 fős „Dios con Nosotros” karavánnal, amely most kisebb csoportokra szakadt Arriaga és Tonalá környékén.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Migrációs eseményről szóló információ, amely részletezi a migránsok mozgását, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül. Fontos a migrációs folyamatok megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:36:59.532124+00:00"
+    },
+    "information:28176": {
+      "hu_text": "Egy szélsőjobboldali aktivistát, Danny Tommót elítéltek, mert megsértette egy migránsokat szállító hajót az angol csatornában.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy társadalmi vitára utal, de nincs megerősített bizonyíték az esemény részleteire, ezért ellenőrizetlennek minősül. Fontos lehet a migrációval kapcsolatos társadalmi diskurzus megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:36:59.532130+00:00"
+    },
+    "information:28183": {
+      "hu_text": "15 hónapos börtönbüntetésről van szó. Egy francia mentő dolgozó a hajón volt, aki élő közvetítésben nyolcszor megsértette a hajót, és beismerte bűnösségét. Összehasonlíthatók más ítéletekkel is.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy társadalmi vitára vonatkozik, amely egy konkrét jogi esettel kapcsolatos, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:36:59.532133+00:00"
+    },
+    "record:2123992457973289136": {
+      "hu_text": "Egy képzett migráns és fél tucat családtagja igényel minden szolgáltatást, kórházakat, iskolákat, közlekedést, de egyáltalán nem fizetnek adót. A Munkáspárt nehéz helyzetbe kerül az idős szülői vízumok miatt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációval kapcsolatos társadalmi és politikai vitát tükröz, de nincs bizonyíték az állítások igazolására, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:36:59.532137+00:00"
+    },
+    "record:2123995339954757949": {
+      "hu_text": "Ceutában (nem Cuetában) 2026. július 30-31-én tömeges átkelés történt, főként marokkói migránsok részvételével. A becslések a kormány által megadott kb. 72 000-től a rendőrségi 100 000-125 000-ig terjednek. A legtöbben gyorsan visszatértek Marokkóba, több tízezren az első napokban, később pedig önkéntes visszatérések is történtek.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Migrációs eseményről szóló információ, amely fontos lehet a migrációs folyamatok megértéséhez, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T04:36:59.532140+00:00"
+    }
+  }
+}
