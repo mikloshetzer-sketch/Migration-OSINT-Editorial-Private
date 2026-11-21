@@ -111,6 +111,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T04:37:07.206504+00:00"
+    },
+    "group:743": {
+      "hu_text": "🇧🇦🇩🇰 Ma van 34 éve, hogy háborús menekültként érkeztem Dániába Boszniából.\n\nMenekültnek lenni nem luxus. Élethosszig tartó küzdelem a méltóságért, a hovatartozásért és az egyenlő emberi elismerésért.\n\nHálás vagyok Dániának, de a kitelepülés sebei sosem múlnak el teljesen. ❤️\n#dkpol",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes tapasztalatot tartalmazó állítás, amely nem ellenőrizhető külső forrásból, de releváns a migrációs események szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:01.452210+00:00"
+    },
+    "group:744": {
+      "hu_text": "@SusanKe38000900 @Number10cat Ezek azok az emberek, akik azt próbálják sugallni, hogy Brand furcsán ártatlan volt szexuális bűncselekményekben, mert kritizálta a kormány tudományát, de egy frissen érkezett menekült már bűnös, mert más hasonló kinézetű emberek azok. Ja, és nincs bizonyíték Brand ellen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi vita, nem tényállítás, így nem ellenőrizhető és nem releváns közvetlenül a migrációs események szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:01.452233+00:00"
+    },
+    "group:745": {
+      "hu_text": "@RupertLowe10 ❗️\n\nAz új migrációs válság frontvonala: Ez a kis kanári-sziget félelemben él, miután 11 000 afrikai menedékkérő érkezett 100 hajón. Most sokan Nagy-Britannia felé tartanak... @elonmusk\n\n@Katie_Lam_MP @NJ_Timothy @SecretPeopleTSP @MCRReiners",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Aktuális migrációs eseményről szóló állítás, amely fontos a migrációs helyzet megértéséhez, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:01.452239+00:00"
+    },
+    "information:28232": {
+      "hu_text": "@MattRexroad CDC saját MMWR jelentése: \"Kanyarójárvány egy migránsszálláshoz kötődően – Chicago, 2024 február–május.\" 57 megerősített eset egy szálláshoz kapcsolódik. Az esetek 84%-a venezuelai migráns volt, akiknek többségének nem volt oltási igazolása. 2022 augusztusa óta 41 000 migráns érkezett a határról.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Egészségügyi és humanitárius helyzetet ismertető adat, amely fontos a migrációs környezet megértéséhez, de nincs közvetlenül ellenőrzött forrás megadva.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:01.452244+00:00"
+    },
+    "information:28233": {
+      "hu_text": "@CollTracy59109 @ProctorPete Az Ír szigeten élő migránsok 90%-a Nagy-Britanniából érkezett az észak-írországi nyílt tengeri határon keresztül.\nAz ír szigeten kialakult migrációs válság teljes egészében az észak-írországi uniópártiak hibája.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi vita, amely nem bizonyított tény, és nem közvetlenül migrációs esemény vagy jogi-politikai intézkedés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:01.452248+00:00"
+    },
+    "information:28239": {
+      "hu_text": "@MarioNawfal A legtöbb migráns nő nemi erőszak áldozata az átkelések során. A média nemrégiben arról számolt be, hogy három nő szívrohamban halt meg ugyanazon a migránshajón. Mindannyian tudjuk, mi történt valójában.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos humanitárius problémát vet fel, de állításai nem ellenőrzöttek, és erős érzelmi töltetűek, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:01.452252+00:00"
     }
   },
   "legacy_reviews": {}
