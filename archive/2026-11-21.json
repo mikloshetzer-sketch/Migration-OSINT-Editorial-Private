@@ -45,6 +45,72 @@
       "text": "Una nueva caravana de unos 250 migrantes ingresó a México por Chiapas con destino a Estados Unidos. Algunos aseguran que fueron deportados por el ICE y buscan reunirse con sus familias. Otro grupo de 100 personas avanza hacia Oaxaca. # Migracion # Chiapas # Mexico # EstadosUnidos https:// updateme.news/nacional/caravan a-de-250-migrantes-entra-a-mexico-rumbo-a-estados-unidos/",
       "url": "https://mastodon.social/@updateme/117652305416525937",
       "source_url": "https://mastodon.social/@updateme/117652305416525937"
+    },
+    {
+      "id": 947,
+      "event_id": 947,
+      "source": "X",
+      "source_post_id": "2124137626047512640",
+      "author": "ElvirLilo",
+      "published_at": "2026-11-21T13:47:29Z",
+      "collected_at": "2026-11-21T13:55:36Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "🇧🇦🇩🇰 34 years ago today, I arrived in Denmark as a war refugee from Bosnia.\n\nBeing a refugee is no luxury. It is a lifelong struggle for dignity, belonging and recognition as an equal human being.\n\nGrateful to Denmark, but the scars of displacement never truly fade. ❤️\n#dkpol https://t.co/vlmyD9lSrf",
+      "url": "https://x.com/ElvirLilo/status/2124137626047512640",
+      "source_url": "https://x.com/ElvirLilo/status/2124137626047512640"
+    },
+    {
+      "id": 948,
+      "event_id": 948,
+      "source": "X",
+      "source_post_id": "2124133109104799876",
+      "author": "JohnShort70",
+      "published_at": "2026-11-21T13:29:32Z",
+      "collected_at": "2026-11-21T13:55:37Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@SusanKe38000900 @Number10cat These are the folks that are trying to suggest Brand was strangely innocent of sex crimes, because he criticised government \\science, but a newly arrived refugee, is already guilty of crimes, because.. Other 'folks that look like him are'.. Oh and ,'no evidence' for Brand..",
+      "url": "https://x.com/JohnShort70/status/2124133109104799876",
+      "source_url": "https://x.com/JohnShort70/status/2124133109104799876"
+    },
+    {
+      "id": 949,
+      "event_id": 949,
+      "source": "X",
+      "source_post_id": "2124132438649848163",
+      "author": "Scarlet32133959",
+      "published_at": "2026-11-21T13:26:52Z",
+      "collected_at": "2026-11-21T13:55:37Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@RupertLowe10 ❗️\n\nThe new migrant crisis frontline: This tiny island in the Canaries was left living in fear when 11,000 African asylum seekers arrived on 100 boats. Now many are heading to Britain... @elonmusk \n\n@Katie_Lam_MP @NJ_Timothy @SecretPeopleTSP @MCRReiners \n\nhttps://t.co/bITWMK4LSr",
+      "url": "https://x.com/Scarlet32133959/status/2124132438649848163",
+      "source_url": "https://x.com/Scarlet32133959/status/2124132438649848163"
     }
   ],
   "event_groups": [
@@ -105,6 +171,93 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-21T04:32:44Z",
       "updated_at": "2026-11-21T04:32:44Z"
+    },
+    {
+      "id": 743,
+      "group_id": 743,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "🇧🇦🇩🇰 34 years ago today, I arrived in Denmark as a war refugee from Bosnia.\n\nBeing a refugee is no luxury. It is a lifelong struggle for dignity, belonging and recognition as an equal human being.\n\nGrateful to Denmark, but the scars of displacement never truly fade. ❤️\n#dkpol https://t.co/vlmyD9lSrf",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-21T13:47:29Z",
+      "last_seen": "2026-11-21T13:47:29Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-21T13:55:36Z",
+      "updated_at": "2026-11-21T13:55:36Z"
+    },
+    {
+      "id": 744,
+      "group_id": 744,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@SusanKe38000900 @Number10cat These are the folks that are trying to suggest Brand was strangely innocent of sex crimes, because he criticised government \\science, but a newly arrived refugee, is already guilty of crimes, because.. Other 'folks that look like him are'.. Oh and ,'no evidence' for Brand..",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-21T13:29:32Z",
+      "last_seen": "2026-11-21T13:29:32Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-21T13:55:37Z",
+      "updated_at": "2026-11-21T13:55:37Z"
+    },
+    {
+      "id": 745,
+      "group_id": 745,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@RupertLowe10 ❗️\n\nThe new migrant crisis frontline: This tiny island in the Canaries was left living in fear when 11,000 African asylum seekers arrived on 100 boats. Now many are heading to Britain... @elonmusk \n\n@Katie_Lam_MP @NJ_Timothy @SecretPeopleTSP @MCRReiners \n\nhttps://t.co/bITWMK4LSr",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-21T13:26:52Z",
+      "last_seen": "2026-11-21T13:26:52Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-21T13:55:37Z",
+      "updated_at": "2026-11-21T13:55:37Z"
     }
   ],
   "influence_signals": [
@@ -278,6 +431,152 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1485,
+      "source": "X",
+      "source_post_id": "2124137592098562180",
+      "author": "JustLEAVEeu",
+      "language": "en",
+      "published_at": "2026-11-21T13:47:21Z",
+      "first_detected_at": "2026-11-21T13:50:05Z",
+      "last_detected_at": "2026-11-21T13:50:05Z",
+      "detection_count": 1,
+      "text": "The latest investigation into the shocking influx of migrants flooding the territory from Morocco in July, shared by El Mundo, shone a light on a huge logistical operation to facilitate the mass border crossing. https://t.co/fidiA3iCsi",
+      "text_excerpt": "The latest investigation into the shocking influx of migrants flooding the territory from Morocco in July, shared by El Mundo, shone a light on a huge logistical operation to facilitate the mass border crossing. https://t.co/fidiA3iCsi",
+      "url": "https://x.com/JustLEAVEeu/status/2124137592098562180",
+      "source_url": "https://x.com/JustLEAVEeu/status/2124137592098562180",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "facilitate the mass border crossing"
+        ],
+        [
+          "pressure",
+          "influx"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "facilitate the mass border crossing",
+        "influx"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1486,
+      "source": "X",
+      "source_post_id": "2124136590767489499",
+      "author": "centristnattv",
+      "language": "en",
+      "published_at": "2026-11-21T13:43:22Z",
+      "first_detected_at": "2026-11-21T13:50:28Z",
+      "last_detected_at": "2026-11-21T13:50:28Z",
+      "detection_count": 1,
+      "text": "Human traffickers abandoned 72 Malaysia-bound migrants, including women and children, at Cox’s Bazar’s Laboni Point late Friday (November 20) after keeping them at sea for several days. Police rescued 28 people, while the others dispersed after reaching shore. Authorities are https://t.co/q0Wc9VUEgh",
+      "text_excerpt": "Human traffickers abandoned 72 Malaysia-bound migrants, including women and children, at Cox’s Bazar’s Laboni Point late Friday (November 20) after keeping them at sea for several days. Police rescued 28 people, while the others dispersed after reaching shore. Authorities are https://t.co/q0Wc9VUEgh",
+      "url": "https://x.com/centristnattv/status/2124136590767489499",
+      "source_url": "https://x.com/centristnattv/status/2124136590767489499",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "sea"
+        ],
+        [
+          "route",
+          "shore"
+        ],
+        [
+          "facilitation",
+          "Human traffickers"
+        ],
+        [
+          "facilitation",
+          "traffickers abandoned 72 Malaysia-bound migrants, including women and children"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Human traffickers",
+        "traffickers abandoned 72 Malaysia-bound migrants, including women and children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
       "analyst_priority": "LOW"
     }
   ],
@@ -453,6 +752,152 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1485,
+      "source": "X",
+      "source_post_id": "2124137592098562180",
+      "author": "JustLEAVEeu",
+      "language": "en",
+      "published_at": "2026-11-21T13:47:21Z",
+      "first_detected_at": "2026-11-21T13:50:05Z",
+      "last_detected_at": "2026-11-21T13:50:05Z",
+      "detection_count": 1,
+      "text": "The latest investigation into the shocking influx of migrants flooding the territory from Morocco in July, shared by El Mundo, shone a light on a huge logistical operation to facilitate the mass border crossing. https://t.co/fidiA3iCsi",
+      "text_excerpt": "The latest investigation into the shocking influx of migrants flooding the territory from Morocco in July, shared by El Mundo, shone a light on a huge logistical operation to facilitate the mass border crossing. https://t.co/fidiA3iCsi",
+      "url": "https://x.com/JustLEAVEeu/status/2124137592098562180",
+      "source_url": "https://x.com/JustLEAVEeu/status/2124137592098562180",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "facilitate the mass border crossing"
+        ],
+        [
+          "pressure",
+          "influx"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "facilitate the mass border crossing",
+        "influx"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1486,
+      "source": "X",
+      "source_post_id": "2124136590767489499",
+      "author": "centristnattv",
+      "language": "en",
+      "published_at": "2026-11-21T13:43:22Z",
+      "first_detected_at": "2026-11-21T13:50:28Z",
+      "last_detected_at": "2026-11-21T13:50:28Z",
+      "detection_count": 1,
+      "text": "Human traffickers abandoned 72 Malaysia-bound migrants, including women and children, at Cox’s Bazar’s Laboni Point late Friday (November 20) after keeping them at sea for several days. Police rescued 28 people, while the others dispersed after reaching shore. Authorities are https://t.co/q0Wc9VUEgh",
+      "text_excerpt": "Human traffickers abandoned 72 Malaysia-bound migrants, including women and children, at Cox’s Bazar’s Laboni Point late Friday (November 20) after keeping them at sea for several days. Police rescued 28 people, while the others dispersed after reaching shore. Authorities are https://t.co/q0Wc9VUEgh",
+      "url": "https://x.com/centristnattv/status/2124136590767489499",
+      "source_url": "https://x.com/centristnattv/status/2124136590767489499",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "sea"
+        ],
+        [
+          "route",
+          "shore"
+        ],
+        [
+          "facilitation",
+          "Human traffickers"
+        ],
+        [
+          "facilitation",
+          "traffickers abandoned 72 Malaysia-bound migrants, including women and children"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Human traffickers",
+        "traffickers abandoned 72 Malaysia-bound migrants, including women and children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -525,6 +970,182 @@
       ],
       "related_urls": [
         "https://x.com/grok/status/2123995339954757949"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1485,
+      "source": "X",
+      "source_post_id": "2124137592098562180",
+      "author": "JustLEAVEeu",
+      "language": "en",
+      "published_at": "2026-11-21T13:47:21Z",
+      "first_detected_at": "2026-11-21T13:50:05Z",
+      "last_detected_at": "2026-11-21T13:50:05Z",
+      "detection_count": 1,
+      "text": "The latest investigation into the shocking influx of migrants flooding the territory from Morocco in July, shared by El Mundo, shone a light on a huge logistical operation to facilitate the mass border crossing. https://t.co/fidiA3iCsi",
+      "text_excerpt": "The latest investigation into the shocking influx of migrants flooding the territory from Morocco in July, shared by El Mundo, shone a light on a huge logistical operation to facilitate the mass border crossing. https://t.co/fidiA3iCsi",
+      "url": "https://x.com/JustLEAVEeu/status/2124137592098562180",
+      "source_url": "https://x.com/JustLEAVEeu/status/2124137592098562180",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 11.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ],
+        [
+          "facilitation",
+          "facilitate the mass border crossing"
+        ],
+        [
+          "pressure",
+          "influx"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "facilitate the mass border crossing",
+        "influx"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2124137592098562180"
+      ],
+      "related_authors": [
+        "JustLEAVEeu"
+      ],
+      "related_urls": [
+        "https://x.com/JustLEAVEeu/status/2124137592098562180"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1486,
+      "source": "X",
+      "source_post_id": "2124136590767489499",
+      "author": "centristnattv",
+      "language": "en",
+      "published_at": "2026-11-21T13:43:22Z",
+      "first_detected_at": "2026-11-21T13:50:28Z",
+      "last_detected_at": "2026-11-21T13:50:28Z",
+      "detection_count": 1,
+      "text": "Human traffickers abandoned 72 Malaysia-bound migrants, including women and children, at Cox’s Bazar’s Laboni Point late Friday (November 20) after keeping them at sea for several days. Police rescued 28 people, while the others dispersed after reaching shore. Authorities are https://t.co/q0Wc9VUEgh",
+      "text_excerpt": "Human traffickers abandoned 72 Malaysia-bound migrants, including women and children, at Cox’s Bazar’s Laboni Point late Friday (November 20) after keeping them at sea for several days. Police rescued 28 people, while the others dispersed after reaching shore. Authorities are https://t.co/q0Wc9VUEgh",
+      "url": "https://x.com/centristnattv/status/2124136590767489499",
+      "source_url": "https://x.com/centristnattv/status/2124136590767489499",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 12.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "sea"
+        ],
+        [
+          "route",
+          "shore"
+        ],
+        [
+          "facilitation",
+          "Human traffickers"
+        ],
+        [
+          "facilitation",
+          "traffickers abandoned 72 Malaysia-bound migrants, including women and children"
+        ],
+        [
+          "enforcement",
+          "rescued"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "Human traffickers",
+        "traffickers abandoned 72 Malaysia-bound migrants, including women and children"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 35.5,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2124136590767489499"
+      ],
+      "related_authors": [
+        "centristnattv"
+      ],
+      "related_urls": [
+        "https://x.com/centristnattv/status/2124136590767489499"
       ],
       "related_sources": [
         "X"
@@ -607,9 +1228,343 @@
       "first_collected_at": "2026-11-21T04:33:29Z",
       "last_collected_at": "2026-11-21T04:33:29Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28239",
+      "timestamp": "2026-11-21T13:48:18Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124137832457334969",
+      "author": "SuzieD755164",
+      "url": "https://x.com/SuzieD755164/status/2124137832457334969",
+      "source_url": "https://x.com/SuzieD755164/status/2124137832457334969",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "@MarioNawfal Most migrant women are raped on crossings. The media had the absolute cheek to report recently that 3 women died of heart attacks on the same migrant boat.  We all know what went on.",
+      "text_excerpt": "@MarioNawfal Most migrant women are raped on crossings. The media had the absolute cheek to report recently that 3 women died of heart attacks on the same migrant boat.  We all know what went on.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:50:27Z",
+      "last_collected_at": "2026-11-21T13:50:27Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28232",
+      "timestamp": "2026-11-21T13:43:56Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124136731586732365",
+      "author": "simmerjustice",
+      "url": "https://x.com/simmerjustice/status/2124136731586732365",
+      "source_url": "https://x.com/simmerjustice/status/2124136731586732365",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@MattRexroad CDC's own MMWR: \"Measles Outbreak Associated with a Migrant Shelter — Chicago, Feb–May 2024.\" 57 confirmed cases tied to one shelter. 84% of cases were Venezuelan migrants, most with no vaccination records. 41,000 migrants had arrived from the border since Aug 2022.",
+      "text_excerpt": "@MattRexroad CDC's own MMWR: \"Measles Outbreak Associated with a Migrant Shelter — Chicago, Feb–May 2024.\" 57 confirmed cases tied to one shelter. 84% of cases were Venezuelan migrants, most with no vaccination records. 41,000 migrants had arrived from the border since Aug 2022.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:50:05Z",
+      "last_collected_at": "2026-11-21T13:50:05Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28245",
+      "timestamp": "2026-11-21T13:42:59Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124136493044371710",
+      "author": "PaulineWat0fpi",
+      "url": "https://x.com/PaulineWat0fpi/status/2124136493044371710",
+      "source_url": "https://x.com/PaulineWat0fpi/status/2124136493044371710",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/cZ5F0hbYpy via @UKChange",
+      "text_excerpt": "Gosport says NO to illegal migrant boat landings! - Sign the Petition! https://t.co/cZ5F0hbYpy via @UKChange",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:50:28Z",
+      "last_collected_at": "2026-11-21T13:50:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28246",
+      "timestamp": "2026-11-21T13:42:43Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124136427893977405",
+      "author": "SoupDg",
+      "url": "https://x.com/SoupDg/status/2124136427893977405",
+      "source_url": "https://x.com/SoupDg/status/2124136427893977405",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@DefiantLs Give her a life jacket, sail 100 yards in front of the migrant boat and throw her overboard. She has proven herself unworthy of trust or protection. After they rescue her, start shooting the boats engines until disable and a fire starts. Problems solved.",
+      "text_excerpt": "@DefiantLs Give her a life jacket, sail 100 yards in front of the migrant boat and throw her overboard. She has proven herself unworthy of trust or protection. After they rescue her, start shooting the boats engines until disable and a fire starts. Problems solved.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:50:28Z",
+      "last_collected_at": "2026-11-21T13:50:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28233",
+      "timestamp": "2026-11-21T13:42:31Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124136377902113025",
+      "author": "SlushMuppyPup23",
+      "url": "https://x.com/SlushMuppyPup23/status/2124136377902113025",
+      "source_url": "https://x.com/SlushMuppyPup23/status/2124136377902113025",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@CollTracy59109 @ProctorPete 90% of all migrants on the island of Ireland have come in from Britain through the open sea border with Northern Ireland.\nThe migrant crisis on the island of Ireland is entirely the fault of Unionist fuckwits in Northern Ireland.\nhttps://t.co/6TvZMcfUkt",
+      "text_excerpt": "@CollTracy59109 @ProctorPete 90% of all migrants on the island of Ireland have come in from Britain through the open sea border with Northern Ireland.\nThe migrant crisis on the island of Ireland is entirely the fault of Unionist fuckwits in Northern Ireland.\nhttps://t.co/6TvZMcfUkt",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:50:05Z",
+      "last_collected_at": "2026-11-21T13:50:05Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28247",
+      "timestamp": "2026-11-21T13:42:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124136363767349631",
+      "author": "eyes_snake32436",
+      "url": "https://x.com/eyes_snake32436/status/2124136363767349631",
+      "source_url": "https://x.com/eyes_snake32436/status/2124136363767349631",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@DefiantLs If it were my boat, and she didn't start acting right, she might find herself floating home, and in need of rescue from the \"migrants.\"",
+      "text_excerpt": "@DefiantLs If it were my boat, and she didn't start acting right, she might find herself floating home, and in need of rescue from the \"migrants.\"",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:50:28Z",
+      "last_collected_at": "2026-11-21T13:50:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28262",
+      "timestamp": "2026-11-21T13:27:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124132608535593321",
+      "author": "GeMStOnE2300",
+      "url": "https://x.com/GeMStOnE2300/status/2124132608535593321",
+      "source_url": "https://x.com/GeMStOnE2300/status/2124132608535593321",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@philmck33 @William87576225 Arriving by small boat may be an irregular way to enter the UK, but seeking asylum is not illegal. There is no general asylum visa, and most refugees cannot apply from abroad. Safe routes are limited to specific schemes, leaving many with no accessible legal route.Hope that helps",
+      "text_excerpt": "@philmck33 @William87576225 Arriving by small boat may be an irregular way to enter the UK, but seeking asylum is not illegal. There is no general asylum visa, and most refugees cannot apply from abroad. Safe routes are limited to specific schemes, leaving many with no accessible legal route.Hope that helps",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:55:37Z",
+      "last_collected_at": "2026-11-21T13:55:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28265",
+      "timestamp": "2026-11-21T13:19:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124130636629959155",
+      "author": "FelipeMurrelli",
+      "url": "https://x.com/FelipeMurrelli/status/2124130636629959155",
+      "source_url": "https://x.com/FelipeMurrelli/status/2124130636629959155",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@TheRealJamieKay True,but what were the government doing about this dinghy?no doubt planning to give it back to the people who allowed it’s use to import illegals into Britain,&amp;of course they are still blaming brexit for illegal migrants who on arrival should b returned to wherever they came from",
+      "text_excerpt": "@TheRealJamieKay True,but what were the government doing about this dinghy?no doubt planning to give it back to the people who allowed it’s use to import illegals into Britain,&amp;of course they are still blaming brexit for illegal migrants who on arrival should b returned to wherever they came from",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:55:37Z",
+      "last_collected_at": "2026-11-21T13:55:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28256",
+      "timestamp": "2026-11-21T13:05:26Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124127045307498800",
+      "author": "SunLizardX",
+      "url": "https://x.com/SunLizardX/status/2124127045307498800",
+      "source_url": "https://x.com/SunLizardX/status/2124127045307498800",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Human traffickers only care about money. They don't care about people or their health.\n\nA human smuggling conspiracy that prosecutors allege led to the deaths of 7 migrants, including 6 found inside a shipping container at Laredo’s Union Pacific railyard.\n\nhttps://t.co/ZNoXUtA1bH",
+      "text_excerpt": "Human traffickers only care about money. They don't care about people or their health.\n\nA human smuggling conspiracy that prosecutors allege led to the deaths of 7 migrants, including 6 found inside a shipping container at Laredo’s Union Pacific railyard.\n\nhttps://t.co/ZNoXUtA1bH",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T13:51:07Z",
+      "last_collected_at": "2026-11-21T13:51:07Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-21T04:36:42.392741+00:00",
+  "last_archived_at": "2026-11-21T13:55:42.552093+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
