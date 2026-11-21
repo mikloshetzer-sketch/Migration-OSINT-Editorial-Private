@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T20:22:30.325149+00:00"
+    },
+    "information:28317": {
+      "hu_text": "🚨 Rabszolga-kereskedelem virágzik Líbiában.\n\nFekete afrikai migránsokat elfognak, embercsempésznek, kínoznak és fogva tartják őket őrizethez hasonló létesítményekben, mielőtt kényszermunkára és szexuális kizsákmányolásra adnák el őket.\n\nLíbia a NATO 2011-es katonai beavatkozása óta jelentős embercsempész központtá vált.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi visszaéléseket tartalmaz, amelyek fontosak a migrációs helyzet megértéséhez, de nincs megbízható forrás vagy bizonyíték a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:39.712779+00:00"
+    },
+    "information:28321": {
+      "hu_text": "Lancashire népszavazást akar Nagy-Britannia elhagyásáról, és ha Lancashire a kilépésre szavaz, akkor lezárják Lancashire határait és kitoloncolják az összes migránst, hogy Lancashire újra biztonságos és nagyszerű legyen!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és követelés, amely nem tartalmaz tényállítást vagy bizonyítható adatot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:39.712797+00:00"
+    },
+    "information:28324": {
+      "hu_text": "Kérem, legyen népszavazás Lancashire kilépéséről Nagy-Britanniából, és ha Lancashire a kilépésre szavaz, akkor lezárjuk a határainkat és kitoloncoljuk a migránsokat, hogy Lancashire újra nagyszerű legyen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és követelés, amely nem tartalmaz tényállítást vagy bizonyítható adatot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:39.712802+00:00"
+    },
+    "record:2124226228848845139": {
+      "hu_text": "Migrációs válság tört ki egy apró spanyol szigeten: mindössze 10 nap alatt az újonnan érkezett migránsok a lakosság egyharmadát teszik ki.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló információ, de nincs megerősített forrás vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:39.712806+00:00"
+    },
+    "record:2124228223152115713": {
+      "hu_text": "Mit szólnak azok, akik azt állítják, hogy az iszlám \"a béke vallása\"... ezeknek békés erőszakoknak kell lenniük. Van valami kommentár @UN_Women részéről?\n\n\"Mióta 80 000 migráns érkezett Ceutába Marokkóból, az azonos időszakban az előző évhez képest a szexuális támadások száma 4-ről 30-ra nőtt, ami 650%-os növekedést jelent.\"",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes vélemény és statisztikai állítás keveréke, amely nem megerősített, és politikailag érzékeny, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:39.712822+00:00"
+    },
+    "record:2124233457438208320": {
+      "hu_text": "Ceuta egy apró spanyol enklávé körülbelül 84 000 lakossal, amelyet július végén egy összehangolt hullám ért el, amikor körülbelül 80 000 migráns érkezett Marokkóból néhány óra alatt, több ezer azonos mentőgyűrűvel előkészítve egy időzített tömeges átkeléshez.\n\nSpanyol rendőrség reagált az eseményekre.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló információ, amely részletes adatokat tartalmaz, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:39.712826+00:00"
     }
   },
   "legacy_reviews": {}
