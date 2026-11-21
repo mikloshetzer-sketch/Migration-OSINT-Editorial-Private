@@ -111,6 +111,50 @@
       "text": "@RupertLowe10 ❗️\n\nThe new migrant crisis frontline: This tiny island in the Canaries was left living in fear when 11,000 African asylum seekers arrived on 100 boats. Now many are heading to Britain... @elonmusk \n\n@Katie_Lam_MP @NJ_Timothy @SecretPeopleTSP @MCRReiners \n\nhttps://t.co/bITWMK4LSr",
       "url": "https://x.com/Scarlet32133959/status/2124132438649848163",
       "source_url": "https://x.com/Scarlet32133959/status/2124132438649848163"
+    },
+    {
+      "id": 950,
+      "event_id": 950,
+      "source": "X",
+      "source_post_id": "2124228223152115713",
+      "author": "Rondo2",
+      "published_at": "2026-11-21T19:47:29Z",
+      "collected_at": "2026-11-21T20:22:07Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 40.0,
+      "text": "What say you who maintain that Islam is \"the religion of peace\"...these must be peaceful rapes. Any comment @UN_Women ??\n\n\"Since 80,000 migrants arrived in Ceuta from Morocco, sexual assaults have reportedly gone from 4 to 30 over the same period year on year. That's a 650% https://t.co/iw2vOJ9XvT",
+      "url": "https://x.com/Rondo2/status/2124228223152115713",
+      "source_url": "https://x.com/Rondo2/status/2124228223152115713"
+    },
+    {
+      "id": 951,
+      "event_id": 951,
+      "source": "X",
+      "source_post_id": "2124226228848845139",
+      "author": "MartyPowel52218",
+      "published_at": "2026-11-21T19:39:33Z",
+      "collected_at": "2026-11-21T20:22:07Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Migrant Crisis Erupts on Tiny Spanish Island: In Just 10 Days, Newly Arrived Migrants Make Up One-Third the Population https://t.co/wVhKV5yEhR https://t.co/QxQ1183WxE",
+      "url": "https://x.com/MartyPowel52218/status/2124226228848845139",
+      "source_url": "https://x.com/MartyPowel52218/status/2124226228848845139"
     }
   ],
   "event_groups": [
@@ -258,6 +302,35 @@
       "average_confidence": 0.25,
       "created_at": "2026-11-21T13:55:37Z",
       "updated_at": "2026-11-21T13:55:37Z"
+    },
+    {
+      "id": 746,
+      "group_id": 746,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "Migrant Crisis Erupts on Tiny Spanish Island: In Just 10 Days, Newly Arrived Migrants Make Up One-Third the Population https://t.co/wVhKV5yEhR https://t.co/QxQ1183WxE",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-21T19:39:33Z",
+      "last_seen": "2026-11-21T19:39:33Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-21T20:22:07Z",
+      "updated_at": "2026-11-21T20:22:07Z"
     }
   ],
   "influence_signals": [
@@ -577,6 +650,67 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 35.5,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1487,
+      "source": "X",
+      "source_post_id": "2124233457438208320",
+      "author": "AllieJade1",
+      "language": "en",
+      "published_at": "2026-11-21T20:08:17Z",
+      "first_detected_at": "2026-11-21T20:17:45Z",
+      "last_detected_at": "2026-11-21T20:17:45Z",
+      "detection_count": 1,
+      "text": "Ceuta is a tiny Spanish exclave of about 84,000 people that got hit in late July by a coordinated wave of roughly 80,000 migrants from Morocco in a matter of hours, complete with thousands of identical flotation tubes pre-positioned for a timed mass crossing.\n\nSpanish police https://t.co/NzC91Du79m",
+      "text_excerpt": "Ceuta is a tiny Spanish exclave of about 84,000 people that got hit in late July by a coordinated wave of roughly 80,000 migrants from Morocco in a matter of hours, complete with thousands of identical flotation tubes pre-positioned for a timed mass crossing.\n\nSpanish police https://t.co/NzC91Du79m",
+      "url": "https://x.com/AllieJade1/status/2124233457438208320",
+      "source_url": "https://x.com/AllieJade1/status/2124233457438208320",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "police"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
       "analyst_priority": "LOW"
     }
   ],
@@ -898,6 +1032,67 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 35.5,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1487,
+      "source": "X",
+      "source_post_id": "2124233457438208320",
+      "author": "AllieJade1",
+      "language": "en",
+      "published_at": "2026-11-21T20:08:17Z",
+      "first_detected_at": "2026-11-21T20:17:45Z",
+      "last_detected_at": "2026-11-21T20:17:45Z",
+      "detection_count": 1,
+      "text": "Ceuta is a tiny Spanish exclave of about 84,000 people that got hit in late July by a coordinated wave of roughly 80,000 migrants from Morocco in a matter of hours, complete with thousands of identical flotation tubes pre-positioned for a timed mass crossing.\n\nSpanish police https://t.co/NzC91Du79m",
+      "text_excerpt": "Ceuta is a tiny Spanish exclave of about 84,000 people that got hit in late July by a coordinated wave of roughly 80,000 migrants from Morocco in a matter of hours, complete with thousands of identical flotation tubes pre-positioned for a timed mass crossing.\n\nSpanish police https://t.co/NzC91Du79m",
+      "url": "https://x.com/AllieJade1/status/2124233457438208320",
+      "source_url": "https://x.com/AllieJade1/status/2124233457438208320",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "police"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1146,6 +1341,82 @@
       ],
       "related_urls": [
         "https://x.com/centristnattv/status/2124136590767489499"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1487,
+      "source": "X",
+      "source_post_id": "2124233457438208320",
+      "author": "AllieJade1",
+      "language": "en",
+      "published_at": "2026-11-21T20:08:17Z",
+      "first_detected_at": "2026-11-21T20:17:45Z",
+      "last_detected_at": "2026-11-21T20:17:45Z",
+      "detection_count": 1,
+      "text": "Ceuta is a tiny Spanish exclave of about 84,000 people that got hit in late July by a coordinated wave of roughly 80,000 migrants from Morocco in a matter of hours, complete with thousands of identical flotation tubes pre-positioned for a timed mass crossing.\n\nSpanish police https://t.co/NzC91Du79m",
+      "text_excerpt": "Ceuta is a tiny Spanish exclave of about 84,000 people that got hit in late July by a coordinated wave of roughly 80,000 migrants from Morocco in a matter of hours, complete with thousands of identical flotation tubes pre-positioned for a timed mass crossing.\n\nSpanish police https://t.co/NzC91Du79m",
+      "url": "https://x.com/AllieJade1/status/2124233457438208320",
+      "source_url": "https://x.com/AllieJade1/status/2124233457438208320",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "police"
+        ],
+        [
+          "pressure",
+          "wave"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT",
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "wave"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2124233457438208320"
+      ],
+      "related_authors": [
+        "AllieJade1"
+      ],
+      "related_urls": [
+        "https://x.com/AllieJade1/status/2124233457438208320"
       ],
       "related_sources": [
         "X"
@@ -1562,9 +1833,305 @@
       "first_collected_at": "2026-11-21T13:51:07Z",
       "last_collected_at": "2026-11-21T13:51:07Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28274",
+      "timestamp": "2026-11-21T20:16:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124235464844447990",
+      "author": "urrbuhdur",
+      "url": "https://x.com/urrbuhdur/status/2124235464844447990",
+      "source_url": "https://x.com/urrbuhdur/status/2124235464844447990",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@sonnenchad88 The captain should have thrown her off the boat and let the migrants rescue her.",
+      "text_excerpt": "@sonnenchad88 The captain should have thrown her off the boat and let the migrants rescue her.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:17:21Z",
+      "last_collected_at": "2026-11-21T20:17:21Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28303",
+      "timestamp": "2026-11-21T20:07:41Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124233306447474786",
+      "author": "nightcore_dev",
+      "url": "https://x.com/nightcore_dev/status/2124233306447474786",
+      "source_url": "https://x.com/nightcore_dev/status/2124233306447474786",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@RupertLowe10 Rupert I am sending hate to you from El Bass in Tyre, Lebanon. If you keep tweeting more stupid shit i will come to the UK in a boat and bring my palestinian refugee camp to the heart of Great Yarmouth Inshallah",
+      "text_excerpt": "@RupertLowe10 Rupert I am sending hate to you from El Bass in Tyre, Lebanon. If you keep tweeting more stupid shit i will come to the UK in a boat and bring my palestinian refugee camp to the heart of Great Yarmouth Inshallah",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:18:07Z",
+      "last_collected_at": "2026-11-21T20:18:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28321",
+      "timestamp": "2026-11-21T20:00:20Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124231456478179394",
+      "author": "freespeechmarty",
+      "url": "https://x.com/freespeechmarty/status/2124231456478179394",
+      "source_url": "https://x.com/freespeechmarty/status/2124231456478179394",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "@GBNEWS Lancashire wants a referendum on leaving Britain,  and Lancashire would vote leave then we close Lancashires borders and deport all migrants from Lancashire,  make Lancashire safe and great again !",
+      "text_excerpt": "@GBNEWS Lancashire wants a referendum on leaving Britain,  and Lancashire would vote leave then we close Lancashires borders and deport all migrants from Lancashire,  make Lancashire safe and great again !",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:22:06Z",
+      "last_collected_at": "2026-11-21T20:22:06Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28305",
+      "timestamp": "2026-11-21T19:58:50Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124231080387723712",
+      "author": "ILCHARGER",
+      "url": "https://x.com/ILCHARGER/status/2124231080387723712",
+      "source_url": "https://x.com/ILCHARGER/status/2124231080387723712",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "coast_guard"
+      ],
+      "freshness_cues": [],
+      "text": "@marty_hogan Being prior Coast Guard, show me a picture of a fishing boat, or a crab trap, or a migrant boat. \n\nI can smell any of them",
+      "text_excerpt": "@marty_hogan Being prior Coast Guard, show me a picture of a fishing boat, or a crab trap, or a migrant boat. \n\nI can smell any of them",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:18:08Z",
+      "last_collected_at": "2026-11-21T20:18:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28324",
+      "timestamp": "2026-11-21T19:55:58Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124230358216368243",
+      "author": "freespeechmarty",
+      "url": "https://x.com/freespeechmarty/status/2124230358216368243",
+      "source_url": "https://x.com/freespeechmarty/status/2124230358216368243",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "Please please can Lancashire have referendum on leaving Britain and Lancashire would vote 🗳 leave and we then close our borders and deport migrants from Lancashire,  make Lancashire great again https://t.co/LxWpF69h2O",
+      "text_excerpt": "Please please can Lancashire have referendum on leaving Britain and Lancashire would vote 🗳 leave and we then close our borders and deport migrants from Lancashire,  make Lancashire great again https://t.co/LxWpF69h2O",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:22:07Z",
+      "last_collected_at": "2026-11-21T20:22:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28307",
+      "timestamp": "2026-11-21T19:52:08Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124229393635553290",
+      "author": "deecar8eu",
+      "url": "https://x.com/deecar8eu/status/2124229393635553290",
+      "source_url": "https://x.com/deecar8eu/status/2124229393635553290",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@KTHopkins What is dont understand is that the British Government praised the French Police for slashing a migrant boat ,out at sea with women and children on. Then prosecute Tommo for slashing one without migrants in. \nhttps://t.co/q0YBL84cWH",
+      "text_excerpt": "@KTHopkins What is dont understand is that the British Government praised the French Police for slashing a migrant boat ,out at sea with women and children on. Then prosecute Tommo for slashing one without migrants in. \nhttps://t.co/q0YBL84cWH",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:18:08Z",
+      "last_collected_at": "2026-11-21T20:18:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28317",
+      "timestamp": "2026-11-21T19:45:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124227598209208770",
+      "author": "OracleOfSahara",
+      "url": "https://x.com/OracleOfSahara/status/2124227598209208770",
+      "source_url": "https://x.com/OracleOfSahara/status/2124227598209208770",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "detention",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "🚨 Slave Trade is thriving in Libya.\n\nBlack African migrants are being captured, trafficked, tortured and held in detention-like facilities before being sold into forced labour and sexual exploitation.\n\nLibya has become a major trafficking hub since NATO's 2011 military",
+      "text_excerpt": "🚨 Slave Trade is thriving in Libya.\n\nBlack African migrants are being captured, trafficked, tortured and held in detention-like facilities before being sold into forced labour and sexual exploitation.\n\nLibya has become a major trafficking hub since NATO's 2011 military",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:19:05Z",
+      "last_collected_at": "2026-11-21T20:19:05Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28309",
+      "timestamp": "2026-11-21T19:00:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_ab4ed910ba448f469b48",
+      "author": null,
+      "url": "https://pixelfed.de/p/zofe/1029830841239678319",
+      "source_url": "https://pixelfed.de/p/zofe/1029830841239678319",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "Auf dem Arbroath Cliff Trail führt der Weg oberhalb der roten Seaton Cliffs an der Nordseeküste entlang. Die Route beginnt am Victoria Park und verläuft Richtung Auchmithie. Auf geht’s zu Buchten, Höhlen und vom Meer geformte Felsgebilde entlang der stellenweise instabilen Klippenränder. 22.10.2026, #travel 🏴󠁧󠁢󠁳󠁣󠁴󠁿 #Scotland 🇬🇧 #UnitedKingdom #UK #Tayside #Angus #Arbroath #hiking #outdoors #coast #cliff #trail #path #northsea #sea #redsandstone #geology #SeatonCliffs #nature #landscape [2]",
+      "text_excerpt": "Auf dem Arbroath Cliff Trail führt der Weg oberhalb der roten Seaton Cliffs an der Nordseeküste entlang. Die Route beginnt am Victoria Park und verläuft Richtung Auchmithie. Auf geht’s zu Buchten, Höhlen und vom Meer geformte Felsgebilde entlang der stellenweise instabilen Klippenränder. 22.10.2026, #travel 🏴󠁧󠁢󠁳󠁣󠁴󠁿 #Scotland 🇬🇧 #UnitedKingdom #UK #Tayside #Angus #Arbroath #hiking #outdoors #coast #cliff #trail #path…",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T20:18:08Z",
+      "last_collected_at": "2026-11-21T20:18:08Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-21T13:55:45.527474+00:00",
+  "last_archived_at": "2026-11-21T20:22:13.121637+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
