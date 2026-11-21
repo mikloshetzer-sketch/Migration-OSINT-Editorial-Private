@@ -485,6 +485,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T20:22:39.712826+00:00"
+    },
+    "telegram:1261826972:54915": {
+      "hu_text": "🚩 A spanyol haditengerészet ellenőrzi Ceuta vizeit bármilyen marokkói behatolás esetére.\n\n➡ A tömeges belépés után a felismeréshez azonnali reakció is társul. Így történt egy marokkói haditengerészeti járőrhajó szokatlanul lassú áthaladásakor.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy aktuális biztonsági helyzetet ír le a Ceuta körüli tengeri határoknál, ami fontos a migrációs helyzet szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:48.633445+00:00"
+    },
+    "telegram:2240007404:1111": {
+      "hu_text": "Zöldségfeldolgozó munkások szállással (Moszkva régió, Taldom város).\n\nFizetés: akár 4500 rubel műszakonként.\nFeladatok: kézi és gépi zöldségtisztítás.\nMunkarend: 6 nap munka, 1 nap szabad, nappali és éjszakai műszakokkal.\nIngyenes kétszeri étkezés és szállás biztosított.\n45 év alattiak jelentkezését várják, a FÁK állampolgárainak segítség a munkavállalási engedélyhez.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migránsoknak, amely segítheti a munkavállalást, de nincs független ellenőrzés az ajánlat hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:48.633462+00:00"
+    },
+    "telegram:2240007404:1112": {
+      "hu_text": "Éjszakai műszakos csomagoló munkás szállással (Reutov város, Moszkva régió).\n\nFizetés: 5950 rubel műszakonként, tapasztaltaknak akár 9000 rubel.\nMunkarend: 5/2 vagy 6/1, éjszakai műszak 21:00–09:00.\nIngyenes szállás, képzés, hivatalos munkaszerződés, heti előleg, ingyenes orvosi vizsgálat biztosított.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migránsoknak, amely elősegítheti a munkavállalást, de nincs független megerősítés az ajánlat hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:48.633466+00:00"
+    },
+    "telegram:2240007404:1113": {
+      "hu_text": "Munkások fagylaltgyárba (Dolgoprudnij város).\n\nFizetés: 80 000–135 000 rubel, plusz 13. és 14. havi fizetés.\nTapasztalat nem szükséges, képzést biztosítanak.\nMunka meleg műhelyben, férfiakat várnak 45 év alatt, fizikai munkával.\nSzerződéses foglalkoztatás, ingyenes szállás kényelmes hostelben, munkaruházat, orvosi könyv és migrációs regisztráció a cég költségén, ingyenes étkezés.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migránsoknak, amely elősegítheti a munkavállalást, de nincs független ellenőrzés az ajánlat hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:48.633469+00:00"
+    },
+    "telegram:2240007404:1114": {
+      "hu_text": "Gépi fejőgép kezelő (fejőnő) farmra szállással és munkavállalási engedély finanszírozással (Sergijev Poszad körzet, Kuzmino falu).\n\nFizetés: nettó 100 000 rubeltől.\nFeladatok: gépi fejés, eszközök tisztítása, állatok gondozása.\nFeltételek: munkavállalási engedély kölcsön formájában, amit levonnak a fizetésből, a munkáltató fizeti a havi díjakat, szállás kollégiumban a farm területén.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Állásajánlat migránsoknak, amely segíti a munkavállalást és a papírok intézését, de nincs független megerősítés az ajánlat hitelességéről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:48.633472+00:00"
     }
   },
   "legacy_reviews": {}
