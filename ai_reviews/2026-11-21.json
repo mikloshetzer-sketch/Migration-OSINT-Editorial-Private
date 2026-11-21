@@ -177,6 +177,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T13:56:01.452252+00:00"
+    },
+    "information:28245": {
+      "hu_text": "Gosport nemet mond az illegális migráns hajók partraszállására! Írd alá a petíciót! https://t.co/cZ5F0hbYpy via @UKChange",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy petícióra való felhívás, amely politikai véleményként értékelhető, de nincs bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:12.157161+00:00"
+    },
+    "information:28246": {
+      "hu_text": "@DefiantLs Adj neki mentőmellényt, hajózz 100 yarddal a migránshajó előtt, és dobd át a vízbe. Bizonyította, hogy nem érdemel bizalmat vagy védelmet. Miután kimentik, kezdj el lőni a hajó motorjára, amíg le nem áll, és tűz nem keletkezik. Probléma megoldva.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy erőszakos, agresszív vélemény, amely nem tényállítás, de potenciálisan veszélyes tartalom, ezért magas prioritású a moderálás szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:12.157178+00:00"
+    },
+    "information:28247": {
+      "hu_text": "@DefiantLs Ha az én hajóm lenne, és nem viselkedne rendesen, lehet, hogy otthon lebegne, és a \"migránsoktól\" kellene megmenteni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy fenyegető, agresszív vélemény, amely nem tény, de potenciálisan veszélyes tartalom, ezért magas prioritású a moderálás szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:12.157182+00:00"
+    },
+    "information:28256": {
+      "hu_text": "Az embercsempészeket csak a pénz érdekli, nem törődnek az emberekkel vagy egészségükkel.\n\nEgy embercsempész összeesküvést vádolnak, amely állítólag 7 migráns halálához vezetett, köztük 6-hoz, akiket egy szállítókonténerben találtak Laredo Union Pacific vasúti pályaudvarán.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos embercsempészettel és halálesetekkel kapcsolatos, de nincs közvetlen bizonyíték a posztban, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:12.157185+00:00"
+    },
+    "information:28262": {
+      "hu_text": "@philmck33 @William87576225 Kis hajóval érkezni az Egyesült Királyságba szabálytalan belépési mód lehet, de a menedékkérelem nem illegális. Nincs általános menedékvízum, és a legtöbb menekült nem tud külföldről jelentkezni. A biztonságos útvonalak csak bizonyos programokra korlátozódnak, így sokaknak nincs elérhető jogi lehetőség. Remélem, ez segít.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt jogi és politikai információkat tartalmaz a menedékjogról, de nincs hivatalos forrás vagy bizonyíték, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:12.157188+00:00"
+    },
+    "information:28265": {
+      "hu_text": "@TheRealJamieKay Igaz, de mit tett a kormány ezzel a csónakkal? Kétségtelenül azt tervezik, hogy visszaadják azoknak, akik engedték használni illegális bevándorlók behozatalára Nagy-Britanniába, és persze még mindig a brexitet hibáztatják az illegális migránsokért, akiket érkezéskor vissza kellene küldeni oda, ahonnan jöttek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény és kritika a kormány migrációs politikájával kapcsolatban, nincs bizonyíték az állításokra, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:12.157192+00:00"
     }
   },
   "legacy_reviews": {}
