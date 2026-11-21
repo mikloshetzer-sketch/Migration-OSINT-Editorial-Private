@@ -243,6 +243,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T13:56:12.157192+00:00"
+    },
+    "record:2124132438649848163": {
+      "hu_text": "Az új migrációs válságfront: Ez a kis kanári-sziget rettegésben él, miután 11 000 afrikai menedékkérő érkezett 100 hajón. Most sokan Nagy-Britanniába tartanak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat és eseményt tartalmaz, de nincs megerősített forrás vagy bizonyíték, ezért ellenőrizetlen. Fontos a migrációs helyzet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:23.999066+00:00"
+    },
+    "record:2124133109104799876": {
+      "hu_text": "Ezek azok az emberek, akik azt próbálják sugallni, hogy Brand furcsán ártatlan szexuális bűncselekményekben, mert kritizálta a kormány tudományát, de egy frissen érkezett menekült már bűnös, mert más, hozzá hasonló emberek azok. És nincs bizonyíték Brand ellen.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és társadalmi vita, nincs konkrét tényállítás, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:23.999086+00:00"
+    },
+    "record:2124136590767489499": {
+      "hu_text": "Embercsempészek pénteken késő este 72, Malajziába tartó migránst, köztük nőket és gyerekeket hagytak magukra Cox’s Bazar Laboni Pointjánál, miután több napig tartották őket a tengeren. A rendőrség 28 embert mentett meg, a többiek a partra érve szétszéledtek.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét eseményről szóló jelentés, de nincs megerősített forrás, ezért ellenőrizetlen. Fontos a migrációs facilitáció és embercsempészet miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:23.999092+00:00"
+    },
+    "record:2124137592098562180": {
+      "hu_text": "Az El Mundo által megosztott legfrissebb vizsgálat a júliusi, Marokkóból érkező migránsok tömeges határátlépését segítő hatalmas logisztikai műveletre világított rá.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy vizsgálatra hivatkozik, de nincs részletes bizonyíték vagy forrás, ezért ellenőrizetlen. Közepes prioritású a migrációs facilitáció miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:23.999097+00:00"
+    },
+    "record:2124137626047512640": {
+      "hu_text": "34 évvel ezelőtt érkeztem Dániába boszniai háborús menekültként. A menekültség nem luxus, hanem élethosszig tartó küzdelem a méltóságért, a hovatartozásért és az egyenlő emberi elismerésért. Hálás vagyok Dániának, de a kitelepülés sebei sosem múlnak el teljesen.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes visszaemlékezés, nem állít konkrét tényeket, ezért ellenőrizetlen és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:23.999100+00:00"
+    },
+    "telegram:1261826972:54902": {
+      "hu_text": "Egy cikk szerint Ceutában az illegális hulladéklerakás elterjedt, beleértve a védett természeti területeket is. Több mint 627 tonna hulladékot szedtek össze csak a bevándorlók által elfoglalt területeken, továbbá illegális építkezések is szennyezik a környezetet. Emellett kevésbé látható környezeti hatások is vannak, például a \"patella ferruginea\" kagylófaj gyűjtése és a part menti vizek szennyeződése a bevándorlók vizeletéből és ürülékéből, akik július végén érkeztek Ceutába.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A cikk környezeti és társadalmi hatásokról szól, de nincs független megerősítés, ezért ellenőrizetlen. Közepes prioritású a társadalmi diskurzus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T13:56:23.999104+00:00"
     }
   },
   "legacy_reviews": {}
