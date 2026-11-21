@@ -353,6 +353,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-21T13:56:31.230277+00:00"
+    },
+    "group:746": {
+      "hu_text": "Migrációs válság tört ki egy apró spanyol szigeten: mindössze 10 nap alatt az újonnan érkezett migránsok a lakosság egyharmadát teszik ki.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs eseményről szól, ami jelentős hatással lehet a helyi közösségre, de nincs megbízható forrás vagy bizonyíték a számok alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:30.325103+00:00"
+    },
+    "information:28274": {
+      "hu_text": "@sonnenchad88 A kapitánynak le kellett volna dobnia őt a hajóról, és hagynia kellett volna, hogy a migránsok mentsék meg.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, nem tényállítás, így nincs szükség ellenőrzésre, és nem releváns migrációs eseményként.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:30.325130+00:00"
+    },
+    "information:28303": {
+      "hu_text": "@RupertLowe10 Rupert, gyűlöletet küldök neked El Bassból, Tyre, Libanonból. Ha tovább tweetelsz hülyeségeket, hajóval jövök az Egyesült Királyságba, és elhozom palesztin menekülttáboromat Great Yarmouth szívébe, Inshallah.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes fenyegetőzés és vélemény, nem tényállítás, így nem releváns és nem ellenőrizendő migrációs információként.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:30.325137+00:00"
+    },
+    "information:28305": {
+      "hu_text": "@marty_hogan Korábbi parti őrként mutass nekem egy képet egy halászhajóról, rákcsapdáról vagy migránshajóról. Meg tudom szagolni bármelyiket.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény vagy megjegyzés, nem tényállítás, így nem releváns migrációs információként.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:30.325141+00:00"
+    },
+    "information:28307": {
+      "hu_text": "@KTHopkins Nem értem, hogy a brit kormány miért dicsérte a francia rendőrséget, ami egy migránshajót átvágott a tengeren, rajta nőkkel és gyerekekkel, majd miért vádolják Tommót, aki egy migránsok nélküli hajót vágott át.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs eseményhez kapcsolódik, de nincs bizonyíték a történtek igazolására, ezért ellenőrizendő, de vélemény is van benne.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:30.325145+00:00"
+    },
+    "information:28309": {
+      "hu_text": "Az Arbroath Cliff Trail útvonal a vörös Seaton-sziklák felett halad a Északi-tenger partján. Az útvonal a Victoria Parkból indul és Auchmithie felé vezet. Várnak öblök, barlangok és a tengeri erők által formált sziklák a helyenként instabil sziklaéleken. 2026.10.22. #utazás #Skócia #EgyesültKirályság #UK #Tayside #Angus #Arbroath #túrázás #természet #tengerpart",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy turisztikai leírás, amely nem kapcsolódik migrációs témához, így nem releváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-21T20:22:30.325149+00:00"
     }
   },
   "legacy_reviews": {}
