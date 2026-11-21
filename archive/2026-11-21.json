@@ -1,0 +1,613 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-21",
+  "live_events": [
+    {
+      "id": 946,
+      "event_id": 946,
+      "source": "X",
+      "source_post_id": "2123995986615787864",
+      "author": "grok",
+      "published_at": "2026-11-21T04:24:39Z",
+      "collected_at": "2026-11-21T04:33:06Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@KaterinaKaterna As of Nov 20, a new group of ~300 Central American migrants crossed into southern Chiapas from Guatemala, joining or paralleling the larger “Dios con Nosotros” caravan (originally ~1,500, now split into smaller groups near Arriaga and Tonalá).\n\nMexican officials report none of",
+      "url": "https://x.com/grok/status/2123995986615787864",
+      "source_url": "https://x.com/grok/status/2123995986615787864"
+    },
+    {
+      "id": 945,
+      "event_id": 945,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117652305416525937",
+      "author": null,
+      "published_at": "2026-11-21T03:28:31Z",
+      "collected_at": "2026-11-21T04:32:44Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "Una nueva caravana de unos 250 migrantes ingresó a México por Chiapas con destino a Estados Unidos. Algunos aseguran que fueron deportados por el ICE y buscan reunirse con sus familias. Otro grupo de 100 personas avanza hacia Oaxaca. # Migracion # Chiapas # Mexico # EstadosUnidos https:// updateme.news/nacional/caravan a-de-250-migrantes-entra-a-mexico-rumbo-a-estados-unidos/",
+      "url": "https://mastodon.social/@updateme/117652305416525937",
+      "source_url": "https://mastodon.social/@updateme/117652305416525937"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 742,
+      "group_id": 742,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - AMERICAS",
+      "representative_text": "@KaterinaKaterna As of Nov 20, a new group of ~300 Central American migrants crossed into southern Chiapas from Guatemala, joining or paralleling the larger “Dios con Nosotros” caravan (originally ~1,500, now split into smaller groups near Arriaga and Tonalá).\n\nMexican officials report none of",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-21T04:24:39Z",
+      "last_seen": "2026-11-21T04:24:39Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-21T04:33:06Z",
+      "updated_at": "2026-11-21T04:33:06Z"
+    },
+    {
+      "id": 741,
+      "group_id": 741,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION - AMERICAS",
+      "representative_text": "Una nueva caravana de unos 250 migrantes ingresó a México por Chiapas con destino a Estados Unidos. Algunos aseguran que fueron deportados por el ICE y buscan reunirse con sus familias. Otro grupo de 100 personas avanza hacia Oaxaca. # Migracion # Chiapas # Mexico # EstadosUnidos https:// updateme.news/nacional/caravan a-de-250-migrantes-entra-a-mexico-rumbo-a-estados-unidos/",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-21T03:28:31Z",
+      "last_seen": "2026-11-21T03:28:31Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "MASTODON"
+      ],
+      "sources": [
+        "MASTODON"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-21T04:32:44Z",
+      "updated_at": "2026-11-21T04:32:44Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1483,
+      "source": "X",
+      "source_post_id": "2123995339954757949",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-21T04:22:05Z",
+      "first_detected_at": "2026-11-21T04:33:06Z",
+      "last_detected_at": "2026-11-21T04:33:06Z",
+      "detection_count": 1,
+      "text": "@KaterinaKaterna @bennyjohnson Ceuta (not Cueta) saw a mass crossing of mostly Moroccan migrants on July 30-31 2026. Estimates range from the government's ~72,000 to police figures of 100,000-125,000.\n\nMost returned quickly to Morocco (tens of thousands in the first days; later tallies of voluntary returns and",
+      "text_excerpt": "@KaterinaKaterna @bennyjohnson Ceuta (not Cueta) saw a mass crossing of mostly Moroccan migrants on July 30-31 2026. Estimates range from the government's ~72,000 to police figures of 100,000-125,000.\n\nMost returned quickly to Morocco (tens of thousands in the first days; later tallies of voluntary returns and",
+      "url": "https://x.com/grok/status/2123995339954757949",
+      "source_url": "https://x.com/grok/status/2123995339954757949",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "crossing of mostly Moroccan migrants"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "crossing of mostly Moroccan migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1482,
+      "source": "X",
+      "source_post_id": "2123996492696363416",
+      "author": "DGwiazdows39731",
+      "language": "en",
+      "published_at": "2026-11-21T04:26:40Z",
+      "first_detected_at": "2026-11-21T04:33:05Z",
+      "last_detected_at": "2026-11-21T04:33:05Z",
+      "detection_count": 1,
+      "text": "@SenBlumenthal Dems allowed our border to be overwhelmed beyond any capacity to control it - by design.  Does anyone believe that literally millions of people crossed our border in four years as refugees, asylum seekers?  Where was Kamala Harris?   Root causes?\n\nHere we are.",
+      "text_excerpt": "@SenBlumenthal Dems allowed our border to be overwhelmed beyond any capacity to control it - by design.  Does anyone believe that literally millions of people crossed our border in four years as refugees, asylum seekers?  Where was Kamala Harris?   Root causes?\n\nHere we are.",
+      "url": "https://x.com/DGwiazdows39731/status/2123996492696363416",
+      "source_url": "https://x.com/DGwiazdows39731/status/2123996492696363416",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "refugees",
+        "asylum seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1484,
+      "source": "X",
+      "source_post_id": "2123992457973289136",
+      "author": "SSzczepkow87759",
+      "language": "en",
+      "published_at": "2026-11-21T04:10:38Z",
+      "first_detected_at": "2026-11-21T04:34:44Z",
+      "last_detected_at": "2026-11-21T04:34:44Z",
+      "detection_count": 1,
+      "text": "1 skilled migrants and half a dozen family requiring all services, hospitals, schools, transport etc but zero tax paid.\nLabor ties itself in knots over elderly parent visas https://t.co/lsVqbksDWX",
+      "text_excerpt": "1 skilled migrants and half a dozen family requiring all services, hospitals, schools, transport etc but zero tax paid.\nLabor ties itself in knots over elderly parent visas https://t.co/lsVqbksDWX",
+      "url": "https://x.com/SSzczepkow87759/status/2123992457973289136",
+      "source_url": "https://x.com/SSzczepkow87759/status/2123992457973289136",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrants and half a dozen family requiring all services, hospitals, schools, transport"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants and half a dozen family requiring all services, hospitals, schools, transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1483,
+      "source": "X",
+      "source_post_id": "2123995339954757949",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-21T04:22:05Z",
+      "first_detected_at": "2026-11-21T04:33:06Z",
+      "last_detected_at": "2026-11-21T04:33:06Z",
+      "detection_count": 1,
+      "text": "@KaterinaKaterna @bennyjohnson Ceuta (not Cueta) saw a mass crossing of mostly Moroccan migrants on July 30-31 2026. Estimates range from the government's ~72,000 to police figures of 100,000-125,000.\n\nMost returned quickly to Morocco (tens of thousands in the first days; later tallies of voluntary returns and",
+      "text_excerpt": "@KaterinaKaterna @bennyjohnson Ceuta (not Cueta) saw a mass crossing of mostly Moroccan migrants on July 30-31 2026. Estimates range from the government's ~72,000 to police figures of 100,000-125,000.\n\nMost returned quickly to Morocco (tens of thousands in the first days; later tallies of voluntary returns and",
+      "url": "https://x.com/grok/status/2123995339954757949",
+      "source_url": "https://x.com/grok/status/2123995339954757949",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "crossing of mostly Moroccan migrants"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "crossing of mostly Moroccan migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1482,
+      "source": "X",
+      "source_post_id": "2123996492696363416",
+      "author": "DGwiazdows39731",
+      "language": "en",
+      "published_at": "2026-11-21T04:26:40Z",
+      "first_detected_at": "2026-11-21T04:33:05Z",
+      "last_detected_at": "2026-11-21T04:33:05Z",
+      "detection_count": 1,
+      "text": "@SenBlumenthal Dems allowed our border to be overwhelmed beyond any capacity to control it - by design.  Does anyone believe that literally millions of people crossed our border in four years as refugees, asylum seekers?  Where was Kamala Harris?   Root causes?\n\nHere we are.",
+      "text_excerpt": "@SenBlumenthal Dems allowed our border to be overwhelmed beyond any capacity to control it - by design.  Does anyone believe that literally millions of people crossed our border in four years as refugees, asylum seekers?  Where was Kamala Harris?   Root causes?\n\nHere we are.",
+      "url": "https://x.com/DGwiazdows39731/status/2123996492696363416",
+      "source_url": "https://x.com/DGwiazdows39731/status/2123996492696363416",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.5,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE"
+      ],
+      "context_matches": [
+        "refugees",
+        "asylum seekers"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1484,
+      "source": "X",
+      "source_post_id": "2123992457973289136",
+      "author": "SSzczepkow87759",
+      "language": "en",
+      "published_at": "2026-11-21T04:10:38Z",
+      "first_detected_at": "2026-11-21T04:34:44Z",
+      "last_detected_at": "2026-11-21T04:34:44Z",
+      "detection_count": 1,
+      "text": "1 skilled migrants and half a dozen family requiring all services, hospitals, schools, transport etc but zero tax paid.\nLabor ties itself in knots over elderly parent visas https://t.co/lsVqbksDWX",
+      "text_excerpt": "1 skilled migrants and half a dozen family requiring all services, hospitals, schools, transport etc but zero tax paid.\nLabor ties itself in knots over elderly parent visas https://t.co/lsVqbksDWX",
+      "url": "https://x.com/SSzczepkow87759/status/2123992457973289136",
+      "source_url": "https://x.com/SSzczepkow87759/status/2123992457973289136",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "migrants and half a dozen family requiring all services, hospitals, schools, transport"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants and half a dozen family requiring all services, hospitals, schools, transport"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1483,
+      "source": "X",
+      "source_post_id": "2123995339954757949",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-21T04:22:05Z",
+      "first_detected_at": "2026-11-21T04:33:06Z",
+      "last_detected_at": "2026-11-21T04:33:06Z",
+      "detection_count": 1,
+      "text": "@KaterinaKaterna @bennyjohnson Ceuta (not Cueta) saw a mass crossing of mostly Moroccan migrants on July 30-31 2026. Estimates range from the government's ~72,000 to police figures of 100,000-125,000.\n\nMost returned quickly to Morocco (tens of thousands in the first days; later tallies of voluntary returns and",
+      "text_excerpt": "@KaterinaKaterna @bennyjohnson Ceuta (not Cueta) saw a mass crossing of mostly Moroccan migrants on July 30-31 2026. Estimates range from the government's ~72,000 to police figures of 100,000-125,000.\n\nMost returned quickly to Morocco (tens of thousands in the first days; later tallies of voluntary returns and",
+      "url": "https://x.com/grok/status/2123995339954757949",
+      "source_url": "https://x.com/grok/status/2123995339954757949",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "crossing of mostly Moroccan migrants"
+        ],
+        [
+          "enforcement",
+          "police"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "crossing of mostly Moroccan migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "Ceuta",
+      "primary_location": "Ceuta",
+      "country": "Spain",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "latitude": 35.8894,
+      "longitude": -5.3213,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 39.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2123995339954757949"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2123995339954757949"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:28176",
+      "timestamp": "2026-11-21T04:29:34Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123997224065523840",
+      "author": "EliasMichalas",
+      "url": "https://x.com/EliasMichalas/status/2123997224065523840",
+      "source_url": "https://x.com/EliasMichalas/status/2123997224065523840",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Far-right activist Danny Tommo jailed for slashing migrant boat in English Channel https://t.co/n505Gvk7he #lbc #bbcbreakfast #ReformUK #NigelFarage",
+      "text_excerpt": "Far-right activist Danny Tommo jailed for slashing migrant boat in English Channel https://t.co/n505Gvk7he #lbc #bbcbreakfast #ReformUK #NigelFarage",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T04:33:28Z",
+      "last_collected_at": "2026-11-21T04:33:28Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28183",
+      "timestamp": "2026-11-21T04:16:12Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2123993856928817324",
+      "author": "TheDirtyBrief",
+      "url": "https://x.com/TheDirtyBrief/status/2123993856928817324",
+      "source_url": "https://x.com/TheDirtyBrief/status/2123993856928817324",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@RupertLowe10 15 months is real. So is this: migrants were already off, a French rescue worker was still on the boat, he slashed it about 8 times on a livestream, and he pleaded guilty. Compare other sentences if you want. Just date the receipts. 🗂️",
+      "text_excerpt": "@RupertLowe10 15 months is real. So is this: migrants were already off, a French rescue worker was still on the boat, he slashed it about 8 times on a livestream, and he pleaded guilty. Compare other sentences if you want. Just date the receipts. 🗂️",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-21T04:33:29Z",
+      "last_collected_at": "2026-11-21T04:33:29Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-21T04:36:38.450128+00:00"
+}
