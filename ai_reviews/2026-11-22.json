@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T17:32:30.198284+00:00"
+    },
+    "group:749": {
+      "hu_text": "Az „infiltránsok” (מסתננים) kifejezés az izraeli törvények szerinti hivatalos jogi kategória azok számára, akik a határátkelőhelyeken kívül léptek be az országba. Ezt a kategóriát használja a Népesség- és Bevándorlási Hatóság, valamint az izraeli bíróságok. Sok ilyen személy később menedékkérelmet nyújtott be.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos jogi kategóriára hivatkozik, de nincs megerősített forrás vagy dokumentum a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:11.008549+00:00"
+    },
+    "group:750": {
+      "hu_text": "Az „infiltránsok” (מסתננים) az izraeli Népesség- és Bevándorlási Hatóság által használt hivatalos kifejezés azokra, akik illegálisan léptek be az országba, főként Egyiptomon keresztül a kerítés megépítése előtt. A mintegy 17 000-es szám ezt a kategóriát jelöli. Sokuk menedékkérelmet nyújtott be, de Izrael…",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos kifejezést és statisztikai adatot említ, de nincs megerősített forrás vagy további részletek, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:11.008569+00:00"
+    },
+    "information:28527": {
+      "hu_text": "A Hormuzi-szoros egy csatorna, amelyet stratégiailag a menekültek határátlépésére használhatnak, ezért a telekommunikációs cégek számára fontos lehet a helyzet. A „What'z Ya Phone #” kifejezés erre utal, és a helyzetet a „Donald Duck” kódnévvel jelölik.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés informális, nem tartalmaz konkrét bizonyítékot vagy hivatalos adatot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:11.008573+00:00"
+    },
+    "information:28536": {
+      "hu_text": "Egy palesztin személy őszintén vall politikai nézeteiről: 1947-ben az ENSZ államot ajánlott neki Izrael mellett, függetlenséggel és elismeréssel, de ő nemet mondott. Vezetői azt ígérték, hogy a háború „a zsidókat a tengerbe kergeti”, de ehelyett…",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Személyes vélemény és történelmi visszatekintés, amely nem tartalmaz ellenőrizhető tényeket, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:11.008576+00:00"
+    },
+    "information:28543": {
+      "hu_text": "Néhány ghánai bűncselekményt követ el Nigériában, akárcsak néhány nigériai Ghánában. Az ECOWAS nagy migráns közösségeiben mindkét oldalon előfordulnak egyéni bűnelkövetők, például csalások és határon átnyúló csempészeti hálózatok. Mindkét ország letartóztatásokat hajt végre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános társadalmi megfigyelés, amely nem tartalmaz konkrét adatokat vagy hivatalos forrást, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:11.008579+00:00"
+    },
+    "record:2124629811712651764": {
+      "hu_text": "Hivatalos izraeli kormányzati forrás szerint az Izraeli Népesség- és Bevándorlási Hatóság 3500 dolláros távozási támogatást és államilag finanszírozott repülőjáratokat biztosít az arra jogosult afrikai migránsoknak, akik elhagyják Izraelt. Ez a jelentés 2026. november 12-én készült.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hivatalos kormányzati forrásra hivatkozik, ami fontos információ a migrációs politika szempontjából, de nincs közvetlen bizonyíték a bemenetben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:11.008581+00:00"
     }
   },
   "legacy_reviews": {}
