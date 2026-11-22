@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "reviews": {
+    "group:747": {
+      "hu_text": "A második világháború és az azt követő időszak. Ezeket az épületeket még az 1980-as években is használták újonnan érkezett menekültek és bevándorlók elszállásolására.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A megjegyzés történelmi tényként utal egy migrációs infrastruktúra használatára, de nincs konkrét bizonyíték vagy forrás a pontos állítás alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:26.032833+00:00"
+    },
+    "group:748": {
+      "hu_text": "Nem a gyarmati idők közelében alakultak ki, hanem véletlen egybeesés és láthatósági torzítás miatt tűnik úgy. Az aztékok (Mexica) a Toltekok bukása után, körülbelül a 1200-as években érkeztek, 1325-ben alapították Tenochtitlant, és 1428-ban hozták létre a Hármas Szövetséget. A chinampa mezőgazdaság és a katonai politika lehetővé tette gyors terjeszkedésüket a 1400-as években.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Történelmi migrációs eseményekről szól, de a pontos időpontok és összefüggések ellenőrzése szükséges, mivel a szöveg részben véleményt is tartalmaz.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:26.032856+00:00"
+    },
+    "information:28346": {
+      "hu_text": "Hinojosa egyértelműen törvénysértést akar elkövetni, és beengedni illegális bevándorlókat – akik már a határ illegális átlépése miatt bűnözőnek tekinthetők. Hogyan válhat egy ilyen bűnözői gondolkodású nő kormányzóvá?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és állítás, amely nem bizonyított, de fontos a társadalmi diskurzus szempontjából, különösen a migrációs politikával kapcsolatban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:26.032860+00:00"
+    },
+    "information:28351": {
+      "hu_text": "Egy texasi, aki konzervatív republikánusok, nyitott liberálisok és most egy demokrata megyében él, ahol sok liberális bevándorló és millió illegális határátlépő van, számára ez egyáltalán nem meglepő.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes vélemény és megfigyelés a migrációs helyzetről, amely nem ellenőrzött tény, de releváns a társadalmi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:26.032863+00:00"
+    },
+    "information:28357": {
+      "hu_text": "Egy lengyel vloggert a Kanári-szigetek közelében egy túrahajón érzelmileg megindított, amikor meglátta az illegális bevándorlók hajóját a tengeren, és arra kérte a kapitányt, hogy hívja fel a figyelmet a migráns hajó biztonsági kérdéseire.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Egyéni reakció és vélemény egy migrációs esemény kapcsán, amely nem ellenőrzött, de releváns a társadalmi diskurzusban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:26.032865+00:00"
+    },
+    "information:28360": {
+      "hu_text": "Kit érdekel, ha ez veszélyezteti a \"migránsokat\"? Ha minden harmadik világbeli ellenséges inváziós migránshajó elsüllyedne a tengeren, az összességében pozitív lenne a világ számára.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Erősen negatív és provokatív vélemény, amely migránsokkal kapcsolatos társadalmi vitát tükröz, de nem bizonyított tény.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:26.032867+00:00"
+    }
+  }
+}
