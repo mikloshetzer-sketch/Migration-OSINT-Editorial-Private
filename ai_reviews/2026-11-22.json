@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T17:31:58.648298+00:00"
+    },
+    "record:1261826972:54928": {
+      "hu_text": "◼️ Videóval ▶ A Nemzeti Rendőrség megakadályozott egy illegális migránsokkal teli félmerev gumicsónakos indulást az Almadrabánál. Az akciót az UCRIF hajtotta végre hajnalban, lefoglalták a hajót, és 15-20 migránst találtak, akik egy illegális hajóban rejtőztek el. Nem ismert, hogy a csempészt is letartóztatták-e.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét rendőrségi akcióról szól, de nincs független megerősítés, ezért ellenőrzésre szorul. Fontos a határbiztonsági események miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:32:07.437801+00:00"
+    },
+    "record:2124554244867150211": {
+      "hu_text": "3 órája feküdtem le, Frontier légitársasággal repültem, és az Uber sofőröm egy fecsegő migráns volt. 35 perc alatt 3 magas sör az egyetlen lehetőség.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy személyes vélemény vagy élmény, nem tartalmaz migrációs tényállítást vagy eseményt, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:32:07.437818+00:00"
+    },
+    "record:mastodon_117660728942715730": {
+      "hu_text": "Latin-Amerikában új migránskaravánok indulnak az Egyesült Államok felé.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A migránskaravánok mozgásáról szóló információ fontos, de nincs részletes bizonyíték, ezért ellenőrizendő.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:32:07.437822+00:00"
+    },
+    "telegram:1261826972:54923": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról vasárnapra: 1. A Guardia Civil rekonstrukciója a ceutai invázióról, amely elemzi, hogy előre lehetett-e látni az eseményeket, beleértve Marokkó együttműködésének változását és a politikai vonatkozásokat. 2. Egy politikai felhívás a tisztességes szavazatokért a haladó kormányért. 3. Egy videós riport az invázió során elvesztett életekről, legalább 141 halottal, akik közül 90-et azonosítottak és eltemettek Ceutában.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az események történelmi hátterét és következményeit tárgyalja, fontos a migrációs kontextus megértéséhez, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:32:07.437825+00:00"
+    },
+    "telegram:1261826972:54925": {
+      "hu_text": "Juan Amado közreműködő cikke: Egy ismerősével beszélgetve, aki a kormányváltástól várta az illegális migráció megoldását, a szerző tapasztalataira alapozva azt mondja, hogy a migráció terén nem várható változás, még egy új kormány esetén sem.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy véleménycikk, nem tényállítás vagy esemény, ezért alacsony prioritású és nem ellenőrzendő.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:32:07.437828+00:00"
+    },
+    "telegram:1261826972:54928": {
+      "hu_text": "◼️ Videót tartalmaz ▶ A Nemzeti Rendőrség megakadályozott egy illegális migránsokkal teli félmerev gumicsónakos indulást az Almadrabánál.\n\n➡ Az akciót az UCRIF hajtotta végre a hajnali órákban, a csónak lefoglalásával, valamint 15-20 migráns megtalálásával, akik egy illegális hajón rejtőztek.\n\n➡ Nem ismert, hogy a csempész is elfogásra került-e.\n\nhttps://elfarodeceuta.es/actualidad/policia-nacional-aborta-salida-clandestina-inmigrantes-semirrigida-almadraba/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy rendőrségi akcióról számol be illegális migránsokkal kapcsolatban, de nincs független vagy hivatalos megerősítés, ezért az állítás ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:32:12.673689+00:00"
     }
   },
   "legacy_reviews": {}
