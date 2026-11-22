@@ -518,6 +518,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T22:59:11.008581+00:00"
+    },
+    "record:2124636027859906587": {
+      "hu_text": "Az „infiltrátorok” (מסתננים) az izraeli Népesség- és Bevándorlási Hatóság hivatalos kifejezése azokra, akik illegálisan lépték át a határt, főként Egyiptomon keresztül a kerítés felállítása előtt. A mintegy 17 000-es szám ezt a kategóriát jelöli. Sokuk menedékkérelmet nyújtott be, de Izrael...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos izraeli terminológiára hivatkozik, de nincs megerősített forrás vagy további bizonyíték a pontos számadatokra vagy a menedékkérelmek sorsára vonatkozóan.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:22.097467+00:00"
+    },
+    "record:2124636879861485970": {
+      "hu_text": "Az „infiltrátorok” (מסתננים) kifejezés az izraeli jogban hivatalos kategória azok számára, akik a hivatalos belépési pontokon kívül lépték át a határt. Ezt a Népesség- és Bevándorlási Hatóság és az izraeli bíróságok is használják. Sok ilyen személy később menedékkérelmet nyújtott be.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás jogi kategóriára hivatkozik, de nincs megerősített forrás vagy dokumentált bizonyíték a pontos jogi definícióra vagy az érintettek számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:22.097483+00:00"
+    },
+    "telegram:1210507736:2518": {
+      "hu_text": "⚡️FRISS! Migránsoknak szóló hírek [2026.11.22] 🇷🇺\n\nNézze meg 📺\n\nNézze meg 💙\n\n________________________\n✍🏻 Kapcsolat vagy ingyenes jogi információkért link.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy általános tájékoztató jellegű bejegyzés, amely nem tartalmaz konkrét állítást vagy adatot migrációval kapcsolatban.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:22.097487+00:00"
+    },
+    "telegram:1980940690:16757": {
+      "hu_text": "Egy migráns egy sötétített Volkswagen Touareggel megsértette a rendőrséget Csebokszarában, de büntetés nélkül maradt. A 30 éves Vejszal Mamedov a csúcsforgalomban nem akart a dugóban várakozni a Moszkvai hídnál, ezért a javítás alatt álló sávon hajtott. Amikor a rendőr figyelmeztette, sértő hangnemben válaszolt. Letartóztatták, de csak a sötétítés miatt bírságolták meg, és nem indítottak büntetőeljárást, bár az eset októberben történt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét esetről számol be, de nincs megerősített forrás vagy hivatalos dokumentáció az eseményről és annak jogi következményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:22.097490+00:00"
+    },
+    "telegram:1983050450:25748": {
+      "hu_text": "Egy migráns egy sötétített Volkswagen Touareggel megsértette a rendőrséget Csebokszarában, de büntetés nélkül maradt. A 30 éves Vejszal Mamedov a csúcsforgalomban nem akart a dugóban várakozni a Moszkvai hídnál, ezért a javítás alatt álló sávon hajtott. Amikor a rendőr figyelmeztette, sértő hangnemben válaszolt. Letartóztatták, de csak a sötétítés miatt bírságolták meg, és nem indítottak büntetőeljárást, bár az eset októberben történt.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét esetről számol be, de nincs megerősített forrás vagy hivatalos dokumentáció az eseményről és annak jogi következményeiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T22:59:22.097492+00:00"
     }
   },
   "legacy_reviews": {}
