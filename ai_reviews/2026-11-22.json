@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T09:00:52.372769+00:00"
+    },
+    "record:2124415649459957940": {
+      "hu_text": "Nos, ez megvilágító volt 🥲 Úgy tűnik, Franciaország is megszüntette a bűnözés nemzetiség szerinti jelentését, de Párizs közlekedése még mindig így tesz, a bűncselekmények 87%-áért migránsok felelősek. Emellett képernyőket kellett felszerelniük, hogy megakadályozzák az emberek vonat elé lökését...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások nem ellenőrzöttek, és érzékeny témát érintenek (bűnözés és migránsok), ezért fontos a további ellenőrzés. A forrás nem megbízható, és nincs bizonyíték a bűnözési statisztikákra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:01:06.751231+00:00"
+    },
+    "telegram:1983050450:25740": {
+      "hu_text": "Egy brit falu, Barnham Suffolkban, szimbolikus népszavazást tartott az országból való kilépésről, ahol a lakosok túlnyomó többsége az Egyesült Királyságtól való elszakadásra szavazott. Az ok: a kormány egy korábbi királyi légierő bázist kíván átalakítani 931 migráns elhelyezésére. A népszavazás jogilag nem kötelező érvényű, de jól tükrözi a falu hangulatát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A népszavazásról szóló állítás nem ellenőrzött, és politikai véleményt tükröz, amely fontos a migrációs társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:01:06.751251+00:00"
+    },
+    "telegram:2240007404:1115": {
+      "hu_text": "Meleg, A kategóriás raktárba keresnek csomagolókat a FÁK állampolgárai számára Moszkva környékén, Ramenki járásban, Sofyino településen. A fizetés darabbér alapon 130 000 rubeltől indul, 6 nap munka, 1 nap szabad, napi 11 órás műszakokkal. Tapasztalat nem szükséges, betanítanak, hivatalos munkaszerződés, szálláskompenzáció, munkaruhát biztosítanak, automatizált raktár. Külön buszjáratok is vannak. Kapcsolat: +7(925)818-10-04, Alexandra.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Munkaerő-közvetítésről szóló hirdetés, amely releváns a migrációs munkaerőpiaci folyamatok szempontjából, de nincs ellenőrzött forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:01:06.751254+00:00"
+    },
+    "telegram:2240007404:1126": {
+      "hu_text": "Szerelők és rakodók jelentkezését várják egy nagy moszkvai vegyi és kozmetikai gyártóüzembe Szolnecsnogorszkban. A fizetés műszakonként 4235-4400 rubel, munkarend 2/2 vagy 3/1, nappali és éjszakai műszakok, tapasztalat nem szükséges, FÁK állampolgároknak moszkvai tartományi engedély szükséges, hivatalos munkaszerződés, munkaruhát és kedvezményeket biztosítanak. Kapcsolat: +7(931)281-13-94, Svetlana.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Munkaerő-közvetítés, amely releváns a migrációs munkaerőpiaci helyzet szempontjából, de nincs független ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:01:06.751257+00:00"
+    },
+    "telegram:2240007404:1127": {
+      "hu_text": "Álláslehetőség az EAEU állampolgárai számára Moszkva környékén, Csehov városában: csomagolók a \"Lenta\" raktárba. Fizetés 94 000-179 000 rubel között, heti kifizetés lehetséges, kényelmes munkarend, hivatalos munkaszerződés, orvosi könyv a munkáltató költségén, étkezés, ingyenes munkaruha, céges szállítás több városból. Csak teljes dokumentációval rendelkező EAEU állampolgárokat fogadnak. Kapcsolat: +7(958)697-67-09.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Munkaerő-közvetítés, amely fontos a migrációs munkaerőpiaci folyamatok szempontjából, de nincs független forrásból származó megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:01:06.751259+00:00"
+    },
+    "telegram:2240007404:1128": {
+      "hu_text": "Rakodók és segédmunkások jelentkezését várják műanyag termékek gyártására Csehovban, Moszkva környékén. Fizetés nappali műszakban 90 000, éjszakai műszakban 110 000 rubel, munkarend 2/2 vagy 6/1, 12 órás műszakokkal. Férfiakat keresnek, fizikai erőnléttel, ingyenes szállás biztosított kollégiumban, hivatalos munkaszerződés, FÁK állampolgároknak a patenta díját fizetik. Kapcsolat: +7(926)416-17-34, Svetlana.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Munkaerő-közvetítés, amely releváns a migrációs munkaerőpiaci helyzet szempontjából, de nincs független ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:01:06.751262+00:00"
     }
   },
   "legacy_reviews": {}
