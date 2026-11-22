@@ -67,6 +67,62 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T01:50:26.032867+00:00"
+    },
+    "information:28361": {
+      "hu_text": "@DeiCivitas Nem vagyok szívtelen. 1980-ban, az első hajómon tengerészmérnökként a főiskola után. Egy instamatic kamerát vittem, hogy dokumentáljam az élményt. Dél-kínai-tenger, leállt a motor. Láttam egy süllyedő fa hajót, emberek úsztak. A kapitány úgy döntött, hogy segít. Vietnami hajómenekültek. A következő kikötőben dél-koreai menekülttábor.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes élménybeszámoló, amely migrációs eseményhez kapcsolódik, de nincs külső bizonyíték az állítás ellenőrzésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:34.786825+00:00"
+    },
+    "record:2124295351205294204": {
+      "hu_text": "Az Igazságügyi Minisztérium 14 személyt, köztük amerikai állampolgárokat és külföldi állampolgárokat vádolt meg egy embercsempész hálózatban, amely hét migráns, köztük egy 14 éves gyermek halálához vezetett egy texasi vonaton lévő szállítókonténerben.\n\nAz ügyészek szerint a hálózat április óta működött.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos jogi és biztonsági információ migrációs bűncselekményről, de a részletek nem teljesen ellenőrzöttek a bemenet alapján.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:34.786847+00:00"
+    },
+    "record:2124307185106894976": {
+      "hu_text": "@DavidFinfrock Valóban. Ezért nem kellett volna Bidennek megnyitnia a határt 7 millió migráns előtt.\n\nA migránsok tuberkulózist, hepatitiszt, drogokat, bűnözést is hoznak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és társadalmi diskurzus migrációs kérdésben, amely nem bizonyított tényeket tartalmaz, így ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:34.786850+00:00"
+    },
+    "record:2124308508443095550": {
+      "hu_text": "@filante64256 Nem a gyarmati idők közelében alakultak ki kifejezetten – ez véletlen és láthatósági torzítás.\n\nAztekok: A mexikói migránsok a toltékok bukása után, kb. a 1200-as években érkeztek, 1325-ben alapították Tenochtitlant, 1428-ban a Hármas Szövetséget. A chinampa mezőgazdaság és a katonai politika lehetővé tette gyors terjeszkedésüket a 1400-as években.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi háttérinformáció migrációs vonatkozással, amely nem igényel azonnali ellenőrzést, de forrásokkal alátámasztandó.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:34.786852+00:00"
+    },
+    "record:2124315001548898324": {
+      "hu_text": "@JimThom90458694 A második világháború és az azt követő időszak. Ezeket a létesítményeket még az 1980-as években is használták újonnan érkezett menekültek és bevándorlók elhelyezésére.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Történelmi tényre utaló állítás migrációs befogadóhelyekről, amely ellenőrzést igényel, de nem sürgős.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T01:50:34.786855+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
