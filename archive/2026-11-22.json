@@ -67,6 +67,50 @@
       "text": "'It has sent the Canary Islands into a migration emergency!'\n\nDaily Mail Reporter Lettice Bromovsky says Spanish authorities are being pushed to the brink after hundreds of migrants arrived on the tiny island of El Hierro from West Africa. \n\n📺 Freeview 236, Sky 512, Virgin 604 https://t.co/ySY7Yo1jTs",
       "url": "https://x.com/GBNEWS/status/2124411926205608231",
       "source_url": "https://x.com/GBNEWS/status/2124411926205608231"
+    },
+    {
+      "id": 955,
+      "event_id": 955,
+      "source": "X",
+      "source_post_id": "2124636879861485970",
+      "author": "grok",
+      "published_at": "2026-11-22T22:51:20Z",
+      "collected_at": "2026-11-22T22:55:39Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@D4dependant @leo_arp @MrTruthTeller5 @FarisSheikh15 @Jvnior The term \"infiltrators\" (מסתננים) is the official legal category under Israeli law for those who entered by crossing the border outside official points of entry. It is used by the Population and Immigration Authority and by Israeli courts. Many of those individuals later applied",
+      "url": "https://x.com/grok/status/2124636879861485970",
+      "source_url": "https://x.com/grok/status/2124636879861485970"
+    },
+    {
+      "id": 956,
+      "event_id": 956,
+      "source": "X",
+      "source_post_id": "2124636027859906587",
+      "author": "grok",
+      "published_at": "2026-11-22T22:47:57Z",
+      "collected_at": "2026-11-22T22:55:39Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@D4dependant @leo_arp @MrTruthTeller5 @FarisSheikh15 @Jvnior Infiltrators is the official Israeli term (מסתננים) used by the Population and Immigration Authority for people who entered by illegally crossing the border, mostly via Egypt before the fence. The ~17,000 figure tracks that specific category. Many applied for asylum, but Israel’s",
+      "url": "https://x.com/grok/status/2124636027859906587",
+      "source_url": "https://x.com/grok/status/2124636027859906587"
     }
   ],
   "event_groups": [
@@ -127,6 +171,64 @@
       "average_confidence": 0.55,
       "created_at": "2026-11-22T01:50:05Z",
       "updated_at": "2026-11-22T01:50:05Z"
+    },
+    {
+      "id": 749,
+      "group_id": 749,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@D4dependant @leo_arp @MrTruthTeller5 @FarisSheikh15 @Jvnior The term \"infiltrators\" (מסתננים) is the official legal category under Israeli law for those who entered by crossing the border outside official points of entry. It is used by the Population and Immigration Authority and by Israeli courts. Many of those individuals later applied",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-22T22:51:20Z",
+      "last_seen": "2026-11-22T22:51:20Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-22T22:55:39Z",
+      "updated_at": "2026-11-22T22:55:39Z"
+    },
+    {
+      "id": 750,
+      "group_id": 750,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - MIDDLE_EAST",
+      "representative_text": "@D4dependant @leo_arp @MrTruthTeller5 @FarisSheikh15 @Jvnior Infiltrators is the official Israeli term (מסתננים) used by the Population and Immigration Authority for people who entered by illegally crossing the border, mostly via Egypt before the fence. The ~17,000 figure tracks that specific category. Many applied for asylum, but Israel’s",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-22T22:47:57Z",
+      "last_seen": "2026-11-22T22:47:57Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-22T22:55:39Z",
+      "updated_at": "2026-11-22T22:55:39Z"
     }
   ],
   "influence_signals": [
@@ -543,6 +645,62 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1495,
+      "source": "X",
+      "source_post_id": "2124629811712651764",
+      "author": "larryLoomer2",
+      "language": "en",
+      "published_at": "2026-11-22T22:23:15Z",
+      "first_detected_at": "2026-11-22T22:58:32Z",
+      "last_detected_at": "2026-11-22T22:58:32Z",
+      "detection_count": 1,
+      "text": "Official Israeli government source:\n\nIsrael Population and Immigration Authority — $3,500 departure grant⁠\n\nNovember 12, 2026 reporting:\n\nIsrael expands payments to African nationals⁠\n\nConfirms $3,500 and government-funded flights for eligible African migrants leaving Israel.",
+      "text_excerpt": "Official Israeli government source:\n\nIsrael Population and Immigration Authority — $3,500 departure grant⁠\n\nNovember 12, 2026 reporting:\n\nIsrael expands payments to African nationals⁠\n\nConfirms $3,500 and government-funded flights for eligible African migrants leaving Israel.",
+      "url": "https://x.com/larryLoomer2/status/2124629811712651764",
+      "source_url": "https://x.com/larryLoomer2/status/2124629811712651764",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -958,6 +1116,62 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1495,
+      "source": "X",
+      "source_post_id": "2124629811712651764",
+      "author": "larryLoomer2",
+      "language": "en",
+      "published_at": "2026-11-22T22:23:15Z",
+      "first_detected_at": "2026-11-22T22:58:32Z",
+      "last_detected_at": "2026-11-22T22:58:32Z",
+      "detection_count": 1,
+      "text": "Official Israeli government source:\n\nIsrael Population and Immigration Authority — $3,500 departure grant⁠\n\nNovember 12, 2026 reporting:\n\nIsrael expands payments to African nationals⁠\n\nConfirms $3,500 and government-funded flights for eligible African migrants leaving Israel.",
+      "text_excerpt": "Official Israeli government source:\n\nIsrael Population and Immigration Authority — $3,500 departure grant⁠\n\nNovember 12, 2026 reporting:\n\nIsrael expands payments to African nationals⁠\n\nConfirms $3,500 and government-funded flights for eligible African migrants leaving Israel.",
+      "url": "https://x.com/larryLoomer2/status/2124629811712651764",
+      "source_url": "https://x.com/larryLoomer2/status/2124629811712651764",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
       "analyst_priority": "LOW"
     }
   ],
@@ -1867,9 +2081,121 @@
       "first_collected_at": "2026-11-22T17:31:28Z",
       "last_collected_at": "2026-11-22T17:31:28Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28543",
+      "timestamp": "2026-11-22T22:55:36Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124637950847725642",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2124637950847725642",
+      "source_url": "https://x.com/grok/status/2124637950847725642",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@redbathere @TrueWorldMap Yes, some Ghanaians commit crimes in Nigeria, just as some Nigerians do in Ghana. Large ECOWAS migrant communities produce individual offenders on both sides. Cases include Ghanaians jailed for fraud schemes in Nigeria and cross-border trafficking networks. Both countries arrest",
+      "text_excerpt": "@redbathere @TrueWorldMap Yes, some Ghanaians commit crimes in Nigeria, just as some Nigerians do in Ghana. Large ECOWAS migrant communities produce individual offenders on both sides. Cases include Ghanaians jailed for fraud schemes in Nigeria and cross-border trafficking networks. Both countries arrest",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T22:56:36Z",
+      "last_collected_at": "2026-11-22T22:56:36Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28527",
+      "timestamp": "2026-11-22T22:41:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124634442182594663",
+      "author": "tinwafersdrizzt",
+      "url": "https://x.com/tinwafersdrizzt/status/2124634442182594663",
+      "source_url": "https://x.com/tinwafersdrizzt/status/2124634442182594663",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@CNN The clarification for the track What'z Ya Phone # which was the Donald Duck for the strait of Hormuz is that the strait is a canal which would strategically be used by refugees to try to cross the border, so I guess it's game on for telecommunications companies on the Lurker.",
+      "text_excerpt": "@CNN The clarification for the track What'z Ya Phone # which was the Donald Duck for the strait of Hormuz is that the strait is a canal which would strategically be used by refugees to try to cross the border, so I guess it's game on for telecommunications companies on the Lurker.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T22:55:39Z",
+      "last_collected_at": "2026-11-22T22:55:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28536",
+      "timestamp": "2026-11-22T22:34:48Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124632718633758946",
+      "author": "StuartFurjanic",
+      "url": "https://x.com/StuartFurjanic/status/2124632718633758946",
+      "source_url": "https://x.com/StuartFurjanic/status/2124632718633758946",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "\"Hello, I am Palestinian. 🇵🇸\nAnd since honesty is so rare in my politics, let me confess a few things.\n\n1947. The UN offered me a state. Alongside Israel. Borders, independence, recognition. I said no. My leaders promised that war would \"drive the Jews into the sea.\" Instead, I",
+      "text_excerpt": "\"Hello, I am Palestinian. 🇵🇸\nAnd since honesty is so rare in my politics, let me confess a few things.\n\n1947. The UN offered me a state. Alongside Israel. Borders, independence, recognition. I said no. My leaders promised that war would \"drive the Jews into the sea.\" Instead, I",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T22:56:08Z",
+      "last_collected_at": "2026-11-22T22:56:08Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-22T17:31:39.990182+00:00",
+  "last_archived_at": "2026-11-22T22:58:41.524830+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
