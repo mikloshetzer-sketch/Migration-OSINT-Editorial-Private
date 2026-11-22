@@ -353,6 +353,196 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1494,
+      "source": "X",
+      "source_post_id": "2124554244867150211",
+      "author": "Merm_Acqaruim",
+      "language": "en",
+      "published_at": "2026-11-22T17:22:58Z",
+      "first_detected_at": "2026-11-22T17:30:06Z",
+      "last_detected_at": "2026-11-22T17:30:06Z",
+      "detection_count": 1,
+      "text": "Went to bed 3 hours ago, flying frontier and my uber driver was a yapping migrant.\n\n3 tall Airport beers in 35 minutes is the only option",
+      "text_excerpt": "Went to bed 3 hours ago, flying frontier and my uber driver was a yapping migrant.\n\n3 tall Airport beers in 35 minutes is the only option",
+      "url": "https://x.com/Merm_Acqaruim/status/2124554244867150211",
+      "source_url": "https://x.com/Merm_Acqaruim/status/2124554244867150211",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "frontier"
+        ],
+        [
+          "facilitation",
+          "driver was a yapping migrant"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "driver was a yapping migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1492,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117660728942715730",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-22T15:10:43Z",
+      "first_detected_at": "2026-11-22T17:28:41Z",
+      "last_detected_at": "2026-11-22T17:28:41Z",
+      "detection_count": 1,
+      "text": "América Latina: nuevas caravanas de migrantes se dirigen hacia Estados Unidos | # UChileRadio 🔗 https:// radio.uchile.cl/2026/11/22/ame rica-latina-nuevas-caravanas-de-migrantes-se-dirigen-hacia-estados-unidos/ # Noticias # américalatina # caravanasdemigrantes # chiapas # donaldtrump # estadosunidos # frontera # honduras # méxico # migración",
+      "text_excerpt": "América Latina: nuevas caravanas de migrantes se dirigen hacia Estados Unidos | # UChileRadio 🔗 https:// radio.uchile.cl/2026/11/22/ame rica-latina-nuevas-caravanas-de-migrantes-se-dirigen-hacia-estados-unidos/ # Noticias # américalatina # caravanasdemigrantes # chiapas # donaldtrump # estadosunidos # frontera # honduras # méxico # migración",
+      "url": "https://mstdn.social/@NoticiasIndCL/117660728942715730",
+      "source_url": "https://mstdn.social/@NoticiasIndCL/117660728942715730",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrantes se dirigen"
+        ],
+        [
+          "movement",
+          "migrantes-se-dirigen"
+        ],
+        [
+          "route",
+          "frontera"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrantes"
+      ],
+      "high_value_matches": [
+        "migrantes se dirigen",
+        "migrantes-se-dirigen"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1493,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:54928",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-11-22T10:43:18Z",
+      "first_detected_at": "2026-11-22T17:29:38Z",
+      "last_detected_at": "2026-11-22T17:29:38Z",
+      "detection_count": 1,
+      "text": "◼️ Incluye vídeo ▶ La Policía Nacional aborta una salida clandestina de inmigrantes en una semirrígida desde la Almadraba\n\n➡ El operativo lo ha llevado a cabo esta madrugada la UCRIF, procediendo a la intervención de la embarcación, así como la localización de entre 15 y 20 inmigrantes que habrían estado ocultos en una casa patera \n\n➡ Se desconoce si también ha sido arrestado el pasador\n\nhttps://elfarodeceuta.es/actualidad/policia-nacional-aborta-salida-clandestina-inmigrantes-semirrigida-almadraba/",
+      "text_excerpt": "◼️ Incluye vídeo ▶ La Policía Nacional aborta una salida clandestina de inmigrantes en una semirrígida desde la Almadraba\n\n➡ El operativo lo ha llevado a cabo esta madrugada la UCRIF, procediendo a la intervención de la embarcación, así como la localización de entre 15 y 20 inmigrantes que habrían estado ocultos en una casa patera \n\n➡ Se desconoce si también ha sido arrestado el pasador\n\nhttps://elfarodeceuta.es/actualidad/policia-nacional-aborta-salida-clandestina-inmigrantes-semirrigida-almadraba/",
+      "url": "https://t.me/elfarodeceuta/54928",
+      "source_url": "https://t.me/elfarodeceuta/54928",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "embarcación"
+        ],
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "enforcement",
+          "arrestado"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -578,6 +768,196 @@
       "longitude": null,
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1494,
+      "source": "X",
+      "source_post_id": "2124554244867150211",
+      "author": "Merm_Acqaruim",
+      "language": "en",
+      "published_at": "2026-11-22T17:22:58Z",
+      "first_detected_at": "2026-11-22T17:30:06Z",
+      "last_detected_at": "2026-11-22T17:30:06Z",
+      "detection_count": 1,
+      "text": "Went to bed 3 hours ago, flying frontier and my uber driver was a yapping migrant.\n\n3 tall Airport beers in 35 minutes is the only option",
+      "text_excerpt": "Went to bed 3 hours ago, flying frontier and my uber driver was a yapping migrant.\n\n3 tall Airport beers in 35 minutes is the only option",
+      "url": "https://x.com/Merm_Acqaruim/status/2124554244867150211",
+      "source_url": "https://x.com/Merm_Acqaruim/status/2124554244867150211",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "frontier"
+        ],
+        [
+          "facilitation",
+          "driver was a yapping migrant"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "driver was a yapping migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1492,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117660728942715730",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-22T15:10:43Z",
+      "first_detected_at": "2026-11-22T17:28:41Z",
+      "last_detected_at": "2026-11-22T17:28:41Z",
+      "detection_count": 1,
+      "text": "América Latina: nuevas caravanas de migrantes se dirigen hacia Estados Unidos | # UChileRadio 🔗 https:// radio.uchile.cl/2026/11/22/ame rica-latina-nuevas-caravanas-de-migrantes-se-dirigen-hacia-estados-unidos/ # Noticias # américalatina # caravanasdemigrantes # chiapas # donaldtrump # estadosunidos # frontera # honduras # méxico # migración",
+      "text_excerpt": "América Latina: nuevas caravanas de migrantes se dirigen hacia Estados Unidos | # UChileRadio 🔗 https:// radio.uchile.cl/2026/11/22/ame rica-latina-nuevas-caravanas-de-migrantes-se-dirigen-hacia-estados-unidos/ # Noticias # américalatina # caravanasdemigrantes # chiapas # donaldtrump # estadosunidos # frontera # honduras # méxico # migración",
+      "url": "https://mstdn.social/@NoticiasIndCL/117660728942715730",
+      "source_url": "https://mstdn.social/@NoticiasIndCL/117660728942715730",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrantes se dirigen"
+        ],
+        [
+          "movement",
+          "migrantes-se-dirigen"
+        ],
+        [
+          "route",
+          "frontera"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrantes"
+      ],
+      "high_value_matches": [
+        "migrantes se dirigen",
+        "migrantes-se-dirigen"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1493,
+      "source": "TELEGRAM",
+      "source_post_id": "1261826972:54928",
+      "author": "elfarodeceuta",
+      "language": null,
+      "published_at": "2026-11-22T10:43:18Z",
+      "first_detected_at": "2026-11-22T17:29:38Z",
+      "last_detected_at": "2026-11-22T17:29:38Z",
+      "detection_count": 1,
+      "text": "◼️ Incluye vídeo ▶ La Policía Nacional aborta una salida clandestina de inmigrantes en una semirrígida desde la Almadraba\n\n➡ El operativo lo ha llevado a cabo esta madrugada la UCRIF, procediendo a la intervención de la embarcación, así como la localización de entre 15 y 20 inmigrantes que habrían estado ocultos en una casa patera \n\n➡ Se desconoce si también ha sido arrestado el pasador\n\nhttps://elfarodeceuta.es/actualidad/policia-nacional-aborta-salida-clandestina-inmigrantes-semirrigida-almadraba/",
+      "text_excerpt": "◼️ Incluye vídeo ▶ La Policía Nacional aborta una salida clandestina de inmigrantes en una semirrígida desde la Almadraba\n\n➡ El operativo lo ha llevado a cabo esta madrugada la UCRIF, procediendo a la intervención de la embarcación, así como la localización de entre 15 y 20 inmigrantes que habrían estado ocultos en una casa patera \n\n➡ Se desconoce si también ha sido arrestado el pasador\n\nhttps://elfarodeceuta.es/actualidad/policia-nacional-aborta-salida-clandestina-inmigrantes-semirrigida-almadraba/",
+      "url": "https://t.me/elfarodeceuta/54928",
+      "source_url": "https://t.me/elfarodeceuta/54928",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "embarcación"
+        ],
+        [
+          "route",
+          "patera"
+        ],
+        [
+          "enforcement",
+          "arrestado"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "inmigrantes"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
       "analyst_priority": "LOW"
     }
   ],
@@ -840,6 +1220,85 @@
         "X"
       ],
       "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1492,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117660728942715730",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-22T15:10:43Z",
+      "first_detected_at": "2026-11-22T17:28:41Z",
+      "last_detected_at": "2026-11-22T17:28:41Z",
+      "detection_count": 1,
+      "text": "América Latina: nuevas caravanas de migrantes se dirigen hacia Estados Unidos | # UChileRadio 🔗 https:// radio.uchile.cl/2026/11/22/ame rica-latina-nuevas-caravanas-de-migrantes-se-dirigen-hacia-estados-unidos/ # Noticias # américalatina # caravanasdemigrantes # chiapas # donaldtrump # estadosunidos # frontera # honduras # méxico # migración",
+      "text_excerpt": "América Latina: nuevas caravanas de migrantes se dirigen hacia Estados Unidos | # UChileRadio 🔗 https:// radio.uchile.cl/2026/11/22/ame rica-latina-nuevas-caravanas-de-migrantes-se-dirigen-hacia-estados-unidos/ # Noticias # américalatina # caravanasdemigrantes # chiapas # donaldtrump # estadosunidos # frontera # honduras # méxico # migración",
+      "url": "https://mstdn.social/@NoticiasIndCL/117660728942715730",
+      "source_url": "https://mstdn.social/@NoticiasIndCL/117660728942715730",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrantes se dirigen"
+        ],
+        [
+          "movement",
+          "migrantes-se-dirigen"
+        ],
+        [
+          "route",
+          "frontera"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrantes"
+      ],
+      "high_value_matches": [
+        "migrantes se dirigen",
+        "migrantes-se-dirigen"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117660728942715730"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://mstdn.social/@NoticiasIndCL/117660728942715730"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
       "platform_count": 1
     }
   ],
@@ -1181,9 +1640,236 @@
       "first_collected_at": "2026-11-22T08:59:46Z",
       "last_collected_at": "2026-11-22T08:59:46Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28447",
+      "timestamp": "2026-11-22T17:27:48Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124555460770460114",
+      "author": "AncientGleek",
+      "url": "https://x.com/AncientGleek/status/2124555460770460114",
+      "source_url": "https://x.com/AncientGleek/status/2124555460770460114",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "boat",
+        "dinghy",
+        "deportation",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@Jockstrap93 @ZiaYusufUK It was under the Tories but net migration has dropped by 80% under Labour 171000 this year and expected to be 125000 next year. Small boat arrivalss are down 48%. 80000 have been deported or left voluntarily. Fewer people have arrived by dinghy in 8 yrs than from Ukraine in 1 yr.",
+      "text_excerpt": "@Jockstrap93 @ZiaYusufUK It was under the Tories but net migration has dropped by 80% under Labour 171000 this year and expected to be 125000 next year. Small boat arrivalss are down 48%. 80000 have been deported or left voluntarily. Fewer people have arrived by dinghy in 8 yrs than from Ukraine in 1 yr.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T17:28:39Z",
+      "last_collected_at": "2026-11-22T17:28:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28448",
+      "timestamp": "2026-11-22T17:27:46Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124555450444317092",
+      "author": "kevinfrmoc",
+      "url": "https://x.com/kevinfrmoc/status/2124555450444317092",
+      "source_url": "https://x.com/kevinfrmoc/status/2124555450444317092",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@sayerjigmi migration is the reason measles came back, simple as that, millions crossed the border from countries where many diseases still exist.",
+      "text_excerpt": "@sayerjigmi migration is the reason measles came back, simple as that, millions crossed the border from countries where many diseases still exist.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T17:28:39Z",
+      "last_collected_at": "2026-11-22T17:28:39Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28451",
+      "timestamp": "2026-11-22T17:27:35Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124555404675797494",
+      "author": "aleykhat_tx",
+      "url": "https://x.com/aleykhat_tx/status/2124555404675797494",
+      "source_url": "https://x.com/aleykhat_tx/status/2124555404675797494",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "@8NEWS Now imagine the number of cases of drug-resistant TB, leprosy and hepatitis that crossed illegally over Biden’s open border\n\nNo testing whatsoever \n\nJust working under wraps at local US restaurants, food packaging facilities and slaughter plants\n\nYum yum \n\nLegitimate refugees and https://t.co/6XbpxELkfV",
+      "text_excerpt": "@8NEWS Now imagine the number of cases of drug-resistant TB, leprosy and hepatitis that crossed illegally over Biden’s open border\n\nNo testing whatsoever \n\nJust working under wraps at local US restaurants, food packaging facilities and slaughter plants\n\nYum yum \n\nLegitimate refugees and https://t.co/6XbpxELkfV",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T17:28:40Z",
+      "last_collected_at": "2026-11-22T17:28:40Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28465",
+      "timestamp": "2026-11-22T17:23:03Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124554262311002400",
+      "author": "walking_fetus",
+      "url": "https://x.com/walking_fetus/status/2124554262311002400",
+      "source_url": "https://x.com/walking_fetus/status/2124554262311002400",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "smuggling",
+        "trafficking",
+        "landing"
+      ],
+      "freshness_cues": [],
+      "text": "Perhaps command should be investigated instead of the mid ranks… \n\nThe most recent arrest was Emergency Plane Landing Exposes Drug Smugglers https://t.co/2qTq71fplH via @YouTube\n\nI asked @grok when the most recent trafficking arrests were for Camp Pendleton… \n\n“June 11–13, 2026",
+      "text_excerpt": "Perhaps command should be investigated instead of the mid ranks… \n\nThe most recent arrest was Emergency Plane Landing Exposes Drug Smugglers https://t.co/2qTq71fplH via @YouTube\n\nI asked @grok when the most recent trafficking arrests were for Camp Pendleton… \n\n“June 11–13, 2026",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T17:29:08Z",
+      "last_collected_at": "2026-11-22T17:29:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28468",
+      "timestamp": "2026-11-22T17:17:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124552811916714368",
+      "author": "TalkyJoe",
+      "url": "https://x.com/TalkyJoe/status/2124552811916714368",
+      "source_url": "https://x.com/TalkyJoe/status/2124552811916714368",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@duchess_salty We don't wait that long for results in the U.S. But you've got socialized medicine in the U.K. which provides care to millions of third world migrants crossing your borders. Which means you wait...",
+      "text_excerpt": "@duchess_salty We don't wait that long for results in the U.S. But you've got socialized medicine in the U.K. which provides care to millions of third world migrants crossing your borders. Which means you wait...",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T17:29:08Z",
+      "last_collected_at": "2026-11-22T17:29:08Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28500",
+      "timestamp": "2026-11-22T16:41:58Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124543923037057178",
+      "author": "EnglishAssahifa",
+      "url": "https://x.com/EnglishAssahifa/status/2124543923037057178",
+      "source_url": "https://x.com/EnglishAssahifa/status/2124543923037057178",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "⚫️🟡The growing number of irregular migrants departing from Algeria for Spain has drawn renewed European attention to the role of Algerian authorities in addressing the phenomenon, as arrivals in the Balearic Islands continue to rise and calls mount for stronger measures to curb https://t.co/CprwmxUhHr",
+      "text_excerpt": "⚫️🟡The growing number of irregular migrants departing from Algeria for Spain has drawn renewed European attention to the role of Algerian authorities in addressing the phenomenon, as arrivals in the Balearic Islands continue to rise and calls mount for stronger measures to curb https://t.co/CprwmxUhHr",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T17:31:28Z",
+      "last_collected_at": "2026-11-22T17:31:28Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-22T09:00:29.278109+00:00",
+  "last_archived_at": "2026-11-22T17:31:35.396248+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
