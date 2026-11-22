@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T09:01:06.751262+00:00"
+    },
+    "information:28447": {
+      "hu_text": "A Tories kormányzása alatt volt, de a nettó migráció 80%-kal csökkent a Labour alatt, idén 171 000, jövőre várhatóan 125 000. A kis hajóval érkezők száma 48%-kal csökkent. 80 000 embert kitoloncoltak vagy önként távozott. Kevesebb ember érkezett csónakkal 8 év alatt, mint Ukrajnából egy év alatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét számadatokat tartalmaznak, de nincs megbízható forrás vagy hivatalos adat, ami alátámasztaná őket, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:31:58.648263+00:00"
+    },
+    "information:28448": {
+      "hu_text": "A migráció az oka annak, hogy a kanyaró visszatért, egyszerűen ennyi, milliók lépték át a határt olyan országokból, ahol még sok betegség jelen van.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy közösségi médiás állítás, amely összekapcsolja a migrációt a kanyaró visszatérésével, de nincs bizonyíték vagy hivatalos egészségügyi adat, ami ezt megerősítené.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:31:58.648285+00:00"
+    },
+    "information:28451": {
+      "hu_text": "Most képzeld el, hány eset lehet a gyógyszerrezisztens tuberkulózisból, lepra és hepatitiszből, amelyek illegálisan léptek át Biden nyitott határán. Egyáltalán nincs tesztelés. Csak helyi amerikai éttermekben, élelmiszer-csomagoló üzemekben és vágóhidakon dolgoznak titokban. Finom. Legitim menekültek és ...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény és feltételezés a migránsok egészségügyi állapotáról és munkavégzéséről, nincs bizonyíték vagy hivatalos adat, ami alátámasztaná az állításokat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:31:58.648290+00:00"
+    },
+    "information:28465": {
+      "hu_text": "Talán a parancsnokságot kellene vizsgálni a középvezetők helyett... A legutóbbi letartóztatás egy sürgősségi repülőgép leszállás során történt, amely drogcsempészeket leplezett le. Megkérdeztem @grok-t, mikor voltak a legutóbbi embercsempészettel kapcsolatos letartóztatások Camp Pendletonben... 2026. június 11–13.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy hivatalos jelentés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:31:58.648293+00:00"
+    },
+    "information:28468": {
+      "hu_text": "Az Egyesült Államokban nem kell ilyen sokáig várni az eredményekre. De az Egyesült Királyságban szocializált egészségügy van, amely több millió harmadik világbeli migránsnak nyújt ellátást, akik átlépik a határokat. Ez azt jelenti, hogy várni kell...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a két ország egészségügyi rendszeréről és a migránsok ellátásáról, nincs bizonyíték vagy hivatalos adat, ami alátámasztaná az állítást.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:31:58.648296+00:00"
+    },
+    "information:28500": {
+      "hu_text": "Az Algériából Spanyolországba induló szabálytalan migránsok növekvő száma új európai figyelmet irányított az algériai hatóságok szerepére a jelenség kezelésében, miközben a Baleári-szigetekre érkezők száma tovább nő, és egyre több felszólítás érkezik az erősebb intézkedésekre a migráció visszaszorítása érdekében.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás aktuális migrációs eseményről szól, de nincs hivatalos adat vagy megerősített forrás, ezért ellenőrizetlennek minősül. Fontos a további ellenőrzés a migrációs trendek pontos megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T17:31:58.648298+00:00"
     }
   },
   "legacy_reviews": {}
