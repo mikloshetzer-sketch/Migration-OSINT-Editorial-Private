@@ -1,0 +1,791 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-22",
+  "live_events": [
+    {
+      "id": 952,
+      "event_id": 952,
+      "source": "X",
+      "source_post_id": "2124315001548898324",
+      "author": "Boost_Samurai",
+      "published_at": "2026-11-22T01:32:18Z",
+      "collected_at": "2026-11-22T01:50:05Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@JimThom90458694 WW2 and beyond.  These were still being used in the 80s to house newly arrived refugees and immigrants.",
+      "url": "https://x.com/Boost_Samurai/status/2124315001548898324",
+      "source_url": "https://x.com/Boost_Samurai/status/2124315001548898324"
+    },
+    {
+      "id": 953,
+      "event_id": 953,
+      "source": "X",
+      "source_post_id": "2124308508443095550",
+      "author": "grok",
+      "published_at": "2026-11-22T01:06:30Z",
+      "collected_at": "2026-11-22T01:50:05Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "@filante64256 They didn't form specifically \"near\" colonial times—it's coincidence plus visibility bias.\n\nAztecs: Mexica migrants arrived ~1200s after Toltec collapse, founded Tenochtitlan 1325, Triple Alliance 1428. Chinampa farming + military politics let them expand fast in the 1400s–early",
+      "url": "https://x.com/grok/status/2124308508443095550",
+      "source_url": "https://x.com/grok/status/2124308508443095550"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 747,
+      "group_id": 747,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@JimThom90458694 WW2 and beyond.  These were still being used in the 80s to house newly arrived refugees and immigrants.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-22T01:32:18Z",
+      "last_seen": "2026-11-22T01:32:18Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-22T01:50:05Z",
+      "updated_at": "2026-11-22T01:50:05Z"
+    },
+    {
+      "id": 748,
+      "group_id": 748,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@filante64256 They didn't form specifically \"near\" colonial times—it's coincidence plus visibility bias.\n\nAztecs: Mexica migrants arrived ~1200s after Toltec collapse, founded Tenochtitlan 1325, Triple Alliance 1428. Chinampa farming + military politics let them expand fast in the 1400s–early",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-22T01:06:30Z",
+      "last_seen": "2026-11-22T01:06:30Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-22T01:50:05Z",
+      "updated_at": "2026-11-22T01:50:05Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1488,
+      "source": "X",
+      "source_post_id": "2124307185106894976",
+      "author": "realAlbertMend",
+      "language": "en",
+      "published_at": "2026-11-22T01:01:15Z",
+      "first_detected_at": "2026-11-22T01:44:43Z",
+      "last_detected_at": "2026-11-22T01:44:43Z",
+      "detection_count": 1,
+      "text": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "text_excerpt": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "source_url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.86,
+      "score": 16.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1489,
+      "source": "X",
+      "source_post_id": "2124295351205294204",
+      "author": "majorbrainpain",
+      "language": "en",
+      "published_at": "2026-11-22T00:14:13Z",
+      "first_detected_at": "2026-11-22T01:48:00Z",
+      "last_detected_at": "2026-11-22T01:48:00Z",
+      "detection_count": 1,
+      "text": "The DOJ has charged 14 individuals, including U.S. citizens and foreign nationals, in a human-smuggling operation linked to the deaths of seven migrants, including a 14-year-old, inside a shipping container on a train in Texas.\n\nProsecutors allege the network operated from April https://t.co/wqwqUw7gal",
+      "text_excerpt": "The DOJ has charged 14 individuals, including U.S. citizens and foreign nationals, in a human-smuggling operation linked to the deaths of seven migrants, including a 14-year-old, inside a shipping container on a train in Texas.\n\nProsecutors allege the network operated from April https://t.co/wqwqUw7gal",
+      "url": "https://x.com/majorbrainpain/status/2124295351205294204",
+      "source_url": "https://x.com/majorbrainpain/status/2124295351205294204",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggling operation linked to the deaths of seven migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling operation linked to the deaths of seven migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1488,
+      "source": "X",
+      "source_post_id": "2124307185106894976",
+      "author": "realAlbertMend",
+      "language": "en",
+      "published_at": "2026-11-22T01:01:15Z",
+      "first_detected_at": "2026-11-22T01:44:43Z",
+      "last_detected_at": "2026-11-22T01:44:43Z",
+      "detection_count": 1,
+      "text": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "text_excerpt": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "source_url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.86,
+      "score": 16.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.1,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1489,
+      "source": "X",
+      "source_post_id": "2124295351205294204",
+      "author": "majorbrainpain",
+      "language": "en",
+      "published_at": "2026-11-22T00:14:13Z",
+      "first_detected_at": "2026-11-22T01:48:00Z",
+      "last_detected_at": "2026-11-22T01:48:00Z",
+      "detection_count": 1,
+      "text": "The DOJ has charged 14 individuals, including U.S. citizens and foreign nationals, in a human-smuggling operation linked to the deaths of seven migrants, including a 14-year-old, inside a shipping container on a train in Texas.\n\nProsecutors allege the network operated from April https://t.co/wqwqUw7gal",
+      "text_excerpt": "The DOJ has charged 14 individuals, including U.S. citizens and foreign nationals, in a human-smuggling operation linked to the deaths of seven migrants, including a 14-year-old, inside a shipping container on a train in Texas.\n\nProsecutors allege the network operated from April https://t.co/wqwqUw7gal",
+      "url": "https://x.com/majorbrainpain/status/2124295351205294204",
+      "source_url": "https://x.com/majorbrainpain/status/2124295351205294204",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "smuggling operation linked to the deaths of seven migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "smuggling operation linked to the deaths of seven migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1488,
+      "source": "X",
+      "source_post_id": "2124307185106894976",
+      "author": "realAlbertMend",
+      "language": "en",
+      "published_at": "2026-11-22T01:01:15Z",
+      "first_detected_at": "2026-11-22T01:44:43Z",
+      "last_detected_at": "2026-11-22T01:44:43Z",
+      "detection_count": 1,
+      "text": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "text_excerpt": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "source_url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.86,
+      "score": 16.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.1,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1488,
+      "source": "X",
+      "source_post_id": "2124307185106894976",
+      "author": "realAlbertMend",
+      "language": "en",
+      "published_at": "2026-11-22T01:01:15Z",
+      "first_detected_at": "2026-11-22T01:44:43Z",
+      "last_detected_at": "2026-11-22T01:44:43Z",
+      "detection_count": 1,
+      "text": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "text_excerpt": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "source_url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.86,
+      "score": 16.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.1,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1488,
+      "source": "X",
+      "source_post_id": "2124307185106894976",
+      "author": "realAlbertMend",
+      "language": "en",
+      "published_at": "2026-11-22T01:01:15Z",
+      "first_detected_at": "2026-11-22T01:44:43Z",
+      "last_detected_at": "2026-11-22T01:44:43Z",
+      "detection_count": 1,
+      "text": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "text_excerpt": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "source_url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.86,
+      "score": 16.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.1,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2124307185106894976"
+      ],
+      "related_authors": [
+        "realAlbertMend"
+      ],
+      "related_urls": [
+        "https://x.com/realAlbertMend/status/2124307185106894976"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1488,
+      "source": "X",
+      "source_post_id": "2124307185106894976",
+      "author": "realAlbertMend",
+      "language": "en",
+      "published_at": "2026-11-22T01:01:15Z",
+      "first_detected_at": "2026-11-22T01:44:43Z",
+      "last_detected_at": "2026-11-22T01:44:43Z",
+      "detection_count": 1,
+      "text": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "text_excerpt": "@DavidFinfrock Indeed. It’s why Biden shouldn’t have let the border open for 7 million migrants to come in.\n\nMigrants also bring tuberculosis, hepatitis, drugs, crime, etc. https://t.co/CNH8At74bW",
+      "url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "source_url": "https://x.com/realAlbertMend/status/2124307185106894976",
+      "primary_signal": "CROSSING_FACILITATION",
+      "signal_type": "CROSSING_FACILITATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "EASIER_CROSSING",
+      "priority": "HIGH",
+      "confidence": 0.86,
+      "score": 16.0,
+      "matched_signals": [
+        "CROSSING_FACILITATION"
+      ],
+      "matched_phrases": [
+        [
+          "border_condition",
+          "border open"
+        ],
+        [
+          "border_access",
+          "border open"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.1,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2124307185106894976"
+      ],
+      "related_authors": [
+        "realAlbertMend"
+      ],
+      "related_urls": [
+        "https://x.com/realAlbertMend/status/2124307185106894976"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:28346",
+      "timestamp": "2026-11-22T01:26:33Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124313552961863788",
+      "author": "nelarainbow",
+      "url": "https://x.com/nelarainbow/status/2124313552961863788",
+      "source_url": "https://x.com/nelarainbow/status/2124313552961863788",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@NEWSMAX Hinojosa clearly wants to break the law and let in illegal migrants—who could be considered criminals from the outset, given their decision to cross the border illegally. How could a woman with such a criminal mindset possibly become governor?",
+      "text_excerpt": "@NEWSMAX Hinojosa clearly wants to break the law and let in illegal migrants—who could be considered criminals from the outset, given their decision to cross the border illegally. How could a woman with such a criminal mindset possibly become governor?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T01:44:43Z",
+      "last_collected_at": "2026-11-22T01:44:43Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28357",
+      "timestamp": "2026-11-22T01:06:07Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124308410279546927",
+      "author": "bytopux",
+      "url": "https://x.com/bytopux/status/2124308410279546927",
+      "source_url": "https://x.com/bytopux/status/2124308410279546927",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "🇵🇱 Polish vlogger on a tour boat near the Canary Islands began urging the captain to invite illegal migrants on board when she spotted their boat in the sea. \n\nShe got quite emotional about the matter and begged everyone to think about the safety issues of the migrant boat. \n\nThe https://t.co/ekm6Q1PR7h",
+      "text_excerpt": "🇵🇱 Polish vlogger on a tour boat near the Canary Islands began urging the captain to invite illegal migrants on board when she spotted their boat in the sea. \n\nShe got quite emotional about the matter and begged everyone to think about the safety issues of the migrant boat. \n\nThe https://t.co/ekm6Q1PR7h",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T01:45:56Z",
+      "last_collected_at": "2026-11-22T01:45:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28360",
+      "timestamp": "2026-11-22T01:04:27Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124307989750505862",
+      "author": "spyguy8080",
+      "url": "https://x.com/spyguy8080/status/2124307989750505862",
+      "source_url": "https://x.com/spyguy8080/status/2124307989750505862",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "sea"
+      ],
+      "freshness_cues": [],
+      "text": "@jarombra @robbystarbuck Who cares if it imperils \"migrants\"? If every \"migrant\" boat full of 3rd-world hostile invaders were to capsize at sea, it would be a net positive for the world.",
+      "text_excerpt": "@jarombra @robbystarbuck Who cares if it imperils \"migrants\"? If every \"migrant\" boat full of 3rd-world hostile invaders were to capsize at sea, it would be a net positive for the world.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T01:45:56Z",
+      "last_collected_at": "2026-11-22T01:45:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28361",
+      "timestamp": "2026-11-22T01:01:50Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124307332200882602",
+      "author": "nukeenginehead",
+      "url": "https://x.com/nukeenginehead/status/2124307332200882602",
+      "source_url": "https://x.com/nukeenginehead/status/2124307332200882602",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "sea",
+        "refugee_camp"
+      ],
+      "freshness_cues": [],
+      "text": "@DeiCivitas I'm not heartless. 1980, my first ship as marine engineer out of college. Brought an instamatic cam to document the experience. South China sea, engines stopped. Saw a sinking wooden boat men swimming. Capt. decided to  help. Vietnamese boat people. ROK refugee camp next port.",
+      "text_excerpt": "@DeiCivitas I'm not heartless. 1980, my first ship as marine engineer out of college. Brought an instamatic cam to document the experience. South China sea, engines stopped. Saw a sinking wooden boat men swimming. Capt. decided to  help. Vietnamese boat people. ROK refugee camp next port.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T01:45:56Z",
+      "last_collected_at": "2026-11-22T01:45:56Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28351",
+      "timestamp": "2026-11-22T01:00:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124306988569858282",
+      "author": "filmer57",
+      "url": "https://x.com/filmer57/status/2124306988569858282",
+      "source_url": "https://x.com/filmer57/status/2124306988569858282",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "As a Texan who lives among thousands of conservative Republicans, open minded liberals and now living in a Democrat County with thousands of liberal migrants from many liberal States and millions of illegals that crossed our border illegally, this is no surprise at all. https://t.co/d1hE3ig6rH",
+      "text_excerpt": "As a Texan who lives among thousands of conservative Republicans, open minded liberals and now living in a Democrat County with thousands of liberal migrants from many liberal States and millions of illegals that crossed our border illegally, this is no surprise at all. https://t.co/d1hE3ig6rH",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T01:44:43Z",
+      "last_collected_at": "2026-11-22T01:44:43Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-22T01:50:09.716288+00:00"
+}
