@@ -122,6 +122,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-22T01:50:34.786855+00:00"
+    },
+    "information:28403": {
+      "hu_text": "Daniel Thomas (Danny Tommo) 15 hónap börtönt kapott, miután beismerte, hogy szeptember 22-én körülbelül nyolcszor megszúrta egy migráns gumicsónakot a Csatornában, miközben egy francia mentő dolgozó még a csónakban tartózkodott. A csónakot később megsemmisítették, így annak pontos értékét nem lehetett bizonyítani.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték a büntetésről és az esemény részleteiről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:00:52.372735+00:00"
+    },
+    "information:28404": {
+      "hu_text": "A bejegyzés szerint a migránsok kiváltságosnak és jogosultnak érzik magukat, és azt állítja, hogy aki illegálisan lépi át a határt, az csak azért teszi, mert saját maga tette tönkre az országát, és nem valódi menekülésről van szó.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, amely nem tartalmaz ellenőrizhető tényeket, így nem igényel megerősítést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:00:52.372758+00:00"
+    },
+    "information:28407": {
+      "hu_text": "Közép-keleti hírek: A TankerTrackers szerint az iráni \"Khatshikan\" szupertankerről szóló jelentések, miszerint áthaladt a Hormuzi-szoroson, hamisak, az AIS jel hamisított, és a hajó nem létezik. Az iráni Kayhan pedig állítólag arra buzdít Teheránt, hogy csapjon le először.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem kapcsolódik migrációs témához, hanem geopolitikai híreket tartalmaz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:00:52.372762+00:00"
+    },
+    "information:28428": {
+      "hu_text": "Roza Salih, az SNP tanácsosa korrupcióval vádolták, mert tiltakozik amiatt, hogy Barnham falujában, ahol 600 lakos él, több mint 930 illegális migráns érkezne, és őket \"kiváltságosnak\" nevezi. Emellett azt állítják róla, hogy ő egy iraki-kurd, akik állítólag egy etnikai banda tagjai, akik rabszolgákat csempésznek a Csatornán át.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos vádakat tartalmaz, de nincs megerősített bizonyíték, ráadásul személyes támadásokat is tartalmaz, ezért fontos az ellenőrzés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:00:52.372764+00:00"
+    },
+    "record:2124409488325095573": {
+      "hu_text": "Egy bejegyzés szerint az EU és Franciaország szándékosan és passzív-agresszívan küldi az illegális migránsokat az EU biztonságos partjairól (biztonságos országokból) a veszélyes Angol Csatornán keresztül az Egyesült Királyságba, és ez egy tudatos uniós politika, ezért nem tettek semmit az átkelések megállítására.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás egy állami migrációs politikáról, amely fontos lehet a migrációs folyamatok megértéséhez, de nincs megerősített bizonyíték a szándékosságra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:00:52.372766+00:00"
+    },
+    "record:2124411926205608231": {
+      "hu_text": "A Daily Mail tudósítója, Lettice Bromovsky szerint a Kanári-szigetek migrációs vészhelyzetbe kerültek, miután több száz migráns érkezett a kis El Hierro szigetre Nyugat-Afrikából. A spanyol hatóságokat nyomás alatt tartja a helyzet.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos migrációs eseményről szól, de nincs független megerősítés a vészhelyzet állapotáról és a migránsok pontos számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-22T09:00:52.372769+00:00"
     }
   },
   "legacy_reviews": {}
