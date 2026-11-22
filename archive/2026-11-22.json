@@ -45,6 +45,28 @@
       "text": "@filante64256 They didn't form specifically \"near\" colonial times—it's coincidence plus visibility bias.\n\nAztecs: Mexica migrants arrived ~1200s after Toltec collapse, founded Tenochtitlan 1325, Triple Alliance 1428. Chinampa farming + military politics let them expand fast in the 1400s–early",
       "url": "https://x.com/grok/status/2124308508443095550",
       "source_url": "https://x.com/grok/status/2124308508443095550"
+    },
+    {
+      "id": 954,
+      "event_id": 954,
+      "source": "X",
+      "source_post_id": "2124411926205608231",
+      "author": "GBNEWS",
+      "published_at": "2026-11-22T07:57:27Z",
+      "collected_at": "2026-11-22T09:00:14Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 28.2916,
+      "longitude": -16.6291,
+      "confidence": 0.8,
+      "event_confidence": 0.8,
+      "relevance_score": 50.0,
+      "text": "'It has sent the Canary Islands into a migration emergency!'\n\nDaily Mail Reporter Lettice Bromovsky says Spanish authorities are being pushed to the brink after hundreds of migrants arrived on the tiny island of El Hierro from West Africa. \n\n📺 Freeview 236, Sky 512, Virgin 604 https://t.co/ySY7Yo1jTs",
+      "url": "https://x.com/GBNEWS/status/2124411926205608231",
+      "source_url": "https://x.com/GBNEWS/status/2124411926205608231"
     }
   ],
   "event_groups": [
@@ -219,6 +241,118 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1491,
+      "source": "X",
+      "source_post_id": "2124409488325095573",
+      "author": "WenlockJones",
+      "language": "en",
+      "published_at": "2026-11-22T07:47:46Z",
+      "first_detected_at": "2026-11-22T09:00:14Z",
+      "last_detected_at": "2026-11-22T09:00:14Z",
+      "detection_count": 1,
+      "text": "@Sherelle_E_J Well said! &amp; also it’s now clear EU /France have been passive aggressive &amp; deliberate in sending illegal migrants leaving EU shores (safe countries) across dangerous English Channel &amp;\nInto UK. It’s all 100% deliberate policy from EU !!!  Hence why zilch has been done to stop it!",
+      "text_excerpt": "@Sherelle_E_J Well said! &amp; also it’s now clear EU /France have been passive aggressive &amp; deliberate in sending illegal migrants leaving EU shores (safe countries) across dangerous English Channel &amp;\nInto UK. It’s all 100% deliberate policy from EU !!!  Hence why zilch has been done to stop it!",
+      "url": "https://x.com/WenlockJones/status/2124409488325095573",
+      "source_url": "https://x.com/WenlockJones/status/2124409488325095573",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1490,
+      "source": "X",
+      "source_post_id": "2124415649459957940",
+      "author": "ElvenRune",
+      "language": "en",
+      "published_at": "2026-11-22T08:12:15Z",
+      "first_detected_at": "2026-11-22T08:59:46Z",
+      "last_detected_at": "2026-11-22T08:59:46Z",
+      "detection_count": 1,
+      "text": "Well, this was illuminating 🥲  Apparently France also ceased reporting crime by nationality, but Paris transport still does, 87% of crime is down to migrants.   They've also had to install screens to stop people being pushed in front of trains...\nhttps://t.co/PLX6uB2xkv",
+      "text_excerpt": "Well, this was illuminating 🥲  Apparently France also ceased reporting crime by nationality, but Paris transport still does, 87% of crime is down to migrants.   They've also had to install screens to stop people being pushed in front of trains...\nhttps://t.co/PLX6uB2xkv",
+      "url": "https://x.com/ElvenRune/status/2124415649459957940",
+      "source_url": "https://x.com/ElvenRune/status/2124415649459957940",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport still does, 87% of crime is down to migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport still does, 87% of crime is down to migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -316,6 +450,118 @@
       ],
       "high_value_matches": [
         "smuggling operation linked to the deaths of seven migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1491,
+      "source": "X",
+      "source_post_id": "2124409488325095573",
+      "author": "WenlockJones",
+      "language": "en",
+      "published_at": "2026-11-22T07:47:46Z",
+      "first_detected_at": "2026-11-22T09:00:14Z",
+      "last_detected_at": "2026-11-22T09:00:14Z",
+      "detection_count": 1,
+      "text": "@Sherelle_E_J Well said! &amp; also it’s now clear EU /France have been passive aggressive &amp; deliberate in sending illegal migrants leaving EU shores (safe countries) across dangerous English Channel &amp;\nInto UK. It’s all 100% deliberate policy from EU !!!  Hence why zilch has been done to stop it!",
+      "text_excerpt": "@Sherelle_E_J Well said! &amp; also it’s now clear EU /France have been passive aggressive &amp; deliberate in sending illegal migrants leaving EU shores (safe countries) across dangerous English Channel &amp;\nInto UK. It’s all 100% deliberate policy from EU !!!  Hence why zilch has been done to stop it!",
+      "url": "https://x.com/WenlockJones/status/2124409488325095573",
+      "source_url": "https://x.com/WenlockJones/status/2124409488325095573",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 6.5,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants leaving"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1490,
+      "source": "X",
+      "source_post_id": "2124415649459957940",
+      "author": "ElvenRune",
+      "language": "en",
+      "published_at": "2026-11-22T08:12:15Z",
+      "first_detected_at": "2026-11-22T08:59:46Z",
+      "last_detected_at": "2026-11-22T08:59:46Z",
+      "detection_count": 1,
+      "text": "Well, this was illuminating 🥲  Apparently France also ceased reporting crime by nationality, but Paris transport still does, 87% of crime is down to migrants.   They've also had to install screens to stop people being pushed in front of trains...\nhttps://t.co/PLX6uB2xkv",
+      "text_excerpt": "Well, this was illuminating 🥲  Apparently France also ceased reporting crime by nationality, but Paris transport still does, 87% of crime is down to migrants.   They've also had to install screens to stop people being pushed in front of trains...\nhttps://t.co/PLX6uB2xkv",
+      "url": "https://x.com/ElvenRune/status/2124415649459957940",
+      "source_url": "https://x.com/ElvenRune/status/2124415649459957940",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "transport still does, 87% of crime is down to migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "transport still does, 87% of crime is down to migrants"
       ],
       "signal_context_rejections": [],
       "migration_context": true,
@@ -785,7 +1031,157 @@
       "first_collected_at": "2026-11-22T01:44:43Z",
       "last_collected_at": "2026-11-22T01:44:43Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28403",
+      "timestamp": "2026-11-22T08:37:21Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124421967340024159",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2124421967340024159",
+      "source_url": "https://x.com/grok/status/2124421967340024159",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "channel",
+        "boat",
+        "dinghy",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@fully_awake2025 @andrewc44104127 Daniel Thomas (Danny Tommo) received 15 months after admitting criminal damage for slashing a migrant dinghy about eight times in the Channel on 22 September while a French rescue worker was still aboard. \n\nThe boat was later destroyed so its exact value could not be proved and",
+      "text_excerpt": "@fully_awake2025 @andrewc44104127 Daniel Thomas (Danny Tommo) received 15 months after admitting criminal damage for slashing a migrant dinghy about eight times in the Channel on 22 September while a French rescue worker was still aboard. \n\nThe boat was later destroyed so its exact value could not be proved and",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T08:58:19Z",
+      "last_collected_at": "2026-11-22T08:58:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28404",
+      "timestamp": "2026-11-22T08:36:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124421844501688395",
+      "author": "_Jayva__",
+      "url": "https://x.com/_Jayva__/status/2124421844501688395",
+      "source_url": "https://x.com/_Jayva__/status/2124421844501688395",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@RozaSalih The sense of privilege and entitlement 'migrants' seem to have is unbelievable. To pretend you're fleeing your country for any other reason than its a shithole of your own making then illegally crossing a border only to be rewarded with leniency and luxury.",
+      "text_excerpt": "@RozaSalih The sense of privilege and entitlement 'migrants' seem to have is unbelievable. To pretend you're fleeing your country for any other reason than its a shithole of your own making then illegally crossing a border only to be rewarded with leniency and luxury.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T08:58:19Z",
+      "last_collected_at": "2026-11-22T08:58:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28407",
+      "timestamp": "2026-11-22T08:06:17Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124414147597148164",
+      "author": "ME_Observer_",
+      "url": "https://x.com/ME_Observer_/status/2124414147597148164",
+      "source_url": "https://x.com/ME_Observer_/status/2124414147597148164",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "vessel"
+      ],
+      "freshness_cues": [],
+      "text": "🗞 Middle East roundup · 05:04–08:02 UTC\n\nIRAN &amp; THE US\n🟠 TankerTrackers says reports of the Iranian supertanker \"Khatshikan\" crossing Hormuz are false, calling the AIS signal spoofed and the vessel nonexistent.\n⚪ Iran's Kayhan reportedly urges Tehran to strike first, saying",
+      "text_excerpt": "🗞 Middle East roundup · 05:04–08:02 UTC\n\nIRAN &amp; THE US\n🟠 TankerTrackers says reports of the Iranian supertanker \"Khatshikan\" crossing Hormuz are false, calling the AIS signal spoofed and the vessel nonexistent.\n⚪ Iran's Kayhan reportedly urges Tehran to strike first, saying",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T08:58:19Z",
+      "last_collected_at": "2026-11-22T08:58:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28428",
+      "timestamp": "2026-11-22T07:55:36Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2124411458821767206",
+      "author": "ARCVR1",
+      "url": "https://x.com/ARCVR1/status/2124411458821767206",
+      "source_url": "https://x.com/ARCVR1/status/2124411458821767206",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "channel",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Councillor Roza Salih of the SNP is corrupt!\n\nShe's protesting that villagers of Barnham do not want 930+ illegal migrants in their village of 600 and calling them \"privileged\"\n\nRoza herself is an Iraqi-Kurd who are the ethnic (Ranya) gang trafficking slaves across the channel! https://t.co/rYTZrEnfcT https://t.co/61icbn5iTP",
+      "text_excerpt": "Councillor Roza Salih of the SNP is corrupt!\n\nShe's protesting that villagers of Barnham do not want 930+ illegal migrants in their village of 600 and calling them \"privileged\"\n\nRoza herself is an Iraqi-Kurd who are the ethnic (Ranya) gang trafficking slaves across the channel! https://t.co/rYTZrEnfcT https://t.co/61icbn5iTP",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-22T08:59:46Z",
+      "last_collected_at": "2026-11-22T08:59:46Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-22T01:50:09.716288+00:00"
+  "last_archived_at": "2026-11-22T09:00:23.088168+00:00"
 }
