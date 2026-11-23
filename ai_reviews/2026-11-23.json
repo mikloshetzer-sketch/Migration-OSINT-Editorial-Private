@@ -155,6 +155,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-23T16:44:55.285003+00:00"
+    },
+    "information:28667": {
+      "hu_text": "Mivel biztonságban volt Lengyelországban, azt akarta, hogy ezek a migránsok a saját hajójukon legyenek, amit nem birtokolnak, és mérges lett, amikor a kapitány azt mondta, hogy nem, mert ez biztonsági kérdés, különösen, ha erőszakoskodnak, ölnek és még rosszabb dolgokat tesznek azok, akik nem jutottak fel a hajóra. Buta, naiv emberek, akik nem illenek bele az életmódunkba.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás személyes véleményeket és nem ellenőrzött, általánosító kijelentéseket tartalmaz migránsokról, nincs bizonyíték a valóságtartalmára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:14.172283+00:00"
+    },
+    "information:28669": {
+      "hu_text": "Tudod, hogy a Reform Párt tele van a korábbi kormány konzervatív tagjaival? Beleértve Bravermant és Jenricket, akik felügyelték a tömeges bevándorlást, a kis hajós átkeléseket és a migránsszállók számának növelését.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és állítás a politikai szereplőkről, amely ellenőrzést igényel a pontos tények megállapításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:14.172298+00:00"
+    },
+    "information:28685": {
+      "hu_text": "Idén korábban a Gift of the Givers 197 palesztin \"menekültet\" szállított Dél-Afrikába egy bérelt járaton. Állítólag a kormány és a belügy nem tudott erről, amíg a járat meg nem érkezett Johannesburgba, és a vám jelentette, hogy palesztinok érkeztek hivatalos dokumentumok nélkül.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét eseményről szóló állítás, amely fontos lehet a migrációs helyzet megértéséhez, de nincs megerősített forrása.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:14.172314+00:00"
+    },
+    "record:2124896585960354216": {
+      "hu_text": "A Henry ügyében érintett rendőröket nem tartóztatták le. Szabadon járnak-kelnek, miközben Danny Tommo 15 hónapos börtönbüntetést kapott egy üres, illegális migránscsempész gumihajó felrobbantásáért.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Állítás a határbiztonsági és jogi intézkedésekről, amely fontos a határbiztonság megítéléséhez, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:14.172317+00:00"
+    },
+    "record:2124900334623678951": {
+      "hu_text": "Szenegál: 101 migránst fogtak el Fimelában, köztük két gyermeket.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét migrációs eseményről szóló információ, amely fontos a migrációs helyzet nyomon követéséhez, de nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:14.172318+00:00"
+    },
+    "record:2124903072963211414": {
+      "hu_text": "Sokak számára az egyetlen módja a menedékjog igénylésének, hogy illegálisan érkeznek az Egyesült Királyságba, mert nincs számukra biztonságos útvonal. Ez ismert tény. Tudod ezt. Mégis könnyebb a társadalom legszegényebbjeit hibáztatni a nehézségekért és problémákért.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Általános vélemény és megfigyelés a menekültügyi helyzetről, amely nem tartalmaz konkrét bizonyítható tényt, de releváns a migrációs szándék megértéséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:14.172320+00:00"
     }
   },
   "legacy_reviews": {}
