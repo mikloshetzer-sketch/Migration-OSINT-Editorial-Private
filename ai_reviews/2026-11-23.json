@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-23",
+  "reviews": {
+    "information:28573": {
+      "hu_text": "Kongó figyelmeztet, hogy az EU országainak Ruandába történő kitoloncolási megállapodása fegyveres milíciák finanszírozásához vezethet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hír politikai és migrációs vonatkozású, fontos lehet a migrációs politika és biztonság szempontjából, de nincs megerősített bizonyíték a cikk tartalmára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:48.750194+00:00"
+    },
+    "information:28586": {
+      "hu_text": "Egy lengyel nő vitorlással próbál átkelni az Atlanti-óceánon, hogy megmentsen egy túlterhelt menekült hajót 400 mérföldre a parttól, de a helyzetet nevetségessé teszi azzal, hogy nem fogadja el a kapitány döntését.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés személyes véleményt és állítást tartalmaz egy konkrét eseményről, de nincs megerősített információ a történtekről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:48.750216+00:00"
+    },
+    "information:28591": {
+      "hu_text": "Egy személy azt állítja, hogy afrikai migránsok fegyverekkel és késsel vannak felszerelve, és egy nő megpróbál sokukat a hajójára vinni, ami veszélyes lehet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés erősen véleményes és potenciálisan félelemkeltő, de nincs bizonyíték a fegyveres migránsok jelenlétére vagy a helyzet valóságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:48.750223+00:00"
+    },
+    "information:28596": {
+      "hu_text": "Egy lengyel utazóblogger egy kis katamaránon átkelt az Atlanti-óceánon a Kanári-szigetek déli részénél, és találkoztak egy túlterhelt migránshajóval, amelynek működő motorja volt. A blogger szerette volna, ha a kapitány segítséget hív, de ő nem volt hajlandó.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített információ a történtekről vagy a szereplők szándékairól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:48.750227+00:00"
+    },
+    "information:28600": {
+      "hu_text": "Szövetségi ügyészek vádat emeltek a La Nueva Familia Michoacana nevű bűnszervezet két vezetője és 19 másik vádlott ellen, akik drogkereskedelemmel, fegyvercsempészettel, pénzmosással és egy migránsokat szállító balesettel hozhatók összefüggésbe.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés fontos biztonsági és bűnügyi információkat tartalmaz, de nincs közvetlen bizonyíték a vádemelés részleteire vagy eredményére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:48.750231+00:00"
+    },
+    "information:28602": {
+      "hu_text": "Körülbelül 157 000 kísérő nélküli kiskorú migránst engedtek szabadon szponzorokhoz a Trump-kormányzat második ciklusa alatt, a hivatalos adatok szerint 2026 közepéig.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az adat hivatalos forrásra hivatkozik, de a pontos számadat és időpont ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:48.750235+00:00"
+    }
+  }
+}
