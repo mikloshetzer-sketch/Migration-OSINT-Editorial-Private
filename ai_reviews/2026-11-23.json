@@ -67,6 +67,29 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-23T04:28:48.750235+00:00"
+    },
+    "information:28604": {
+      "hu_text": "2026. november 22., vasárnap [Esti hírek összefoglaló]\n\n🟥 Ma 1600 Delta járat késett, miután egy adatbázis hiba miatt a személyzetnek kézzel kellett kiszámolnia a repülőgépek súlyát - @TheNewsTrending\n\n🟥 Egy határőrt megtámadott egy jármű, amelyet embercsempész gyanúsított vezetett, aki később ...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét eseményeket írnak le, de nincs megerősített forrás vagy további bizonyíték. A határőrt ért támadás és az embercsempész gyanúsított említése releváns a határbiztonság témakörében, de az információk ellenőrzése szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:55.218986+00:00"
+    },
+    "telegram:3662047307:50": {
+      "hu_text": "🪪 Az első cedula Uruguayban: hogyan lehet megszerezni\n\nA cedula egy helyi személyazonosító igazolvány. A DNIC-nél lehet igényelni, ha már van tartózkodási engedélyed.\n\n📎 Szükséges dokumentumok:\n✅ Migración-tól származó tartózkodási igazolás\n✅ Külföldi anyakönyvi részben bejegyzett születési anyakönyvi kivonat\n✅ Spanyol nyelvű fordítás, amelyet a DNIC-nél regisztrált fordító készített\n\nHa a születési anyakönyvi kivonat még nincs bejegyezve, először ezt kell elvégezni. Közben ideiglenes igazolványt lehet igényelni.\n\n📅 Időpontfoglalás online a gub.uy-n vagy a Tuapp alkalmazásban, fizetés is ott. Személyesen kell megjelenni a megadott időpontban. A cedulát általában kb. 5 munkanappal az ügyintézés után adják át.\n\nℹ️ Forrás: gub.uy\n\n🤍 Segítség kell az időpontfoglaláshoz? Írj: @move_uruguay_t @move_uy",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy hivatalos eljárásról tájékoztat, amely a migrációs dokumentumok beszerzésével kapcsolatos. Nincs benne kétséges vagy vitatható állítás, de nincs hivatalos megerősítés a forráson kívül, ezért ellenőrzés javasolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T04:28:55.219007+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
