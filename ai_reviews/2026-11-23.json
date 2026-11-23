@@ -221,6 +221,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-23T16:45:14.172320+00:00"
+    },
+    "record:2124904917680959881": {
+      "hu_text": "Száz migráns érkezett hétfőn Spanyolország El Hierro szigetére, miután a tengeren megmentették őket. Legalább négy hajó jutott el a szigetre, miközben a Kanári-szigetekre érkező migránsok száma tovább nő.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le, amely humanitárius mentési művelethez kapcsolódik, de nincs független forrás általi megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:42.632110+00:00"
+    },
+    "record:2124906089770594496": {
+      "hu_text": "@PaulParklane @Craig1Osullivan Ha a migránsok nem integrálódnak és nem tanulják meg a nyelvet, akkor ki kell őket toloncolni, igazam van?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, nem tényállítás, ezért nem igényel ellenőrzést, és alacsony prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:42.632130+00:00"
+    },
+    "telegram:1261826972:54947": {
+      "hu_text": "Három hír az elfarodeceuta.es oldalról hétfőre: 1. A Ceutára irányuló invázió spirálja: Marokkó szerepe és a CNI álláspontja. A CNI tagadja a spanyol kormány által hangoztatott hálózatok és maffiák elméletét, és azt állítja, hogy Marokkó engedékeny volt és hibázott az ellenőrzésben, bár tudott a figyelmeztetésekről. 2. Videó a kétségbeesett migráns menekülésről Ceutából, akiket a rendőrség elfogott. 3. 42 éve, hogy Mohamedet, a példás ceutait az ETA meggyilkolta, családja megemlékezik az évfordulóról.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több hírt tartalmaz, amelyek közül az első kettő migrációs eseményekhez kapcsolódik, de nincs független megerősítésük, ezért előzetesen ellenőrizendők.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:42.632133+00:00"
+    },
+    "telegram:1261826972:54948": {
+      "hu_text": "José María Campos (Fundación Interservicios Ceuta) közreműködésével készült cikk szerint nincs hivatalos napi adatközlés, de becslések alapján Ceutában még mintegy 15 000 illegális vagy „inváziós” migráns tartózkodik, ebből 5 000 táborokban, 3 767 kísérő nélküli kiskorú (MENA), és további 6 000 rejtőzködik a hegyekben. Szerencsére 16 475-en visszatértek Marokkóba, többségük önként, és a július végi nyitott kapuk miatt bejutott kb. 80 000 migráns száma is csökkent.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A cikk számszerű adatokat közöl migránsokról, amelyek fontosak a helyzet megértéséhez, de nem hivatalos forrásból származnak, ezért ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:42.632135+00:00"
+    },
+    "telegram:1261826972:54949": {
+      "hu_text": "Videóval: A PP szenátusi jelöltjei Ceutában azt állítják, hogy a hasznos szavazat a Néppárté, és kiemelik az elmúlt négy évben végzett munkájukat, különösen a migráció, lakhatás, egészségügy és határbiztonság területén.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai kampányüzenet, vélemény és álláspont, nem tényállítás, ezért alacsony prioritású és nem szükséges ellenőrizni.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:42.632138+00:00"
+    },
+    "telegram:1261826972:54956": {
+      "hu_text": "A Guardia Civil vezetői azt állítják, hogy megakadályozták és megcsonkították a Tardónak küldött jelentést a Ceutába irányuló tömeges bevándorlásról. Az UCE-3 középvezetői szerint bizonyítékokat és dokumentumokat hagytak ki a Marokkó esetleges beavatkozásáról, és a Luis Peláez tábornokot teszik felelőssé. Az ügynökök kérik a bírónőt, hogy vizsgálja ki a jelentés elkészítésének körülményeit.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés súlyos állításokat tartalmaz a határbiztonsági jelentés manipulálásáról, ami fontos a migrációs helyzet szempontjából, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:45:42.632140+00:00"
     }
   },
   "legacy_reviews": {}
