@@ -89,6 +89,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-23T04:28:55.219007+00:00"
+    },
+    "group:751": {
+      "hu_text": "@PaulParklane @Craig1Osullivan Ha a migránsok nem integrálódnak és nem tanulják meg a nyelvet, ki kell őket toloncolni, igazam van?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, nem tényállítás, nincs bizonyíték a tartalom igazolására vagy cáfolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:44:55.284947+00:00"
+    },
+    "group:752": {
+      "hu_text": "Hétfőn több száz migráns érkezett Spanyolország El Hierro szigetére, miután a tengeren megmentették őket. Legalább négy hajó jutott el a szigetre, miközben a migránsok érkezése a Kanári-szigetekre tovább növekszik.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről szóló állítás, amely ellenőrzést igényel a pontos helyzet megértéséhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:44:55.284969+00:00"
+    },
+    "group:753": {
+      "hu_text": "Szenegál: 101 migránst fogtak el Fimelában, köztük két gyermeket.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Határbiztonsági eseményről szól, de nincs megerősített forrás vagy további részletek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:44:55.284973+00:00"
+    },
+    "information:28635": {
+      "hu_text": "Új információ: Hogyan mérlegelik a bevándorló nők, hogy biztonságosabb-e egy bántalmazó partnerrel maradni vagy segítséget kérni a hatóságoktól, tudva, hogy esetleg őrizetbe vehetik vagy kiutasíthatják őket? Nyugat-michigani nőktől hallottunk tapasztalatokat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Fontos társadalmi kérdést vet fel, de az állítások forrása nem teljesen ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:44:55.284975+00:00"
+    },
+    "information:28652": {
+      "hu_text": "@wiiufrotting A jelentett esetek túlnyomó többségében a gyermekek nem a fogvatartási helyeken estek teherbe, hanem már terhesen érkeztek az USA határára. A migráns gyermekek ifjúsági menedékeiben a jelentett szexuális visszaélések többsége...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Részleges információ egy érzékeny témáról, további ellenőrzés szükséges a teljes képhez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:44:55.285001+00:00"
+    },
+    "information:28662": {
+      "hu_text": "@nypost A migránshajó motorral haladt és nem volt bajban... nem volt ok megállni és segítséget nyújtani. A kapitánynak felelőssége van a legénység, az utasok és a hajó biztonsága iránt, ennyi a történet vége.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény a hajózási felelősségről, nincs bizonyíték a tartalom igazolására vagy cáfolására.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-23T16:44:55.285003+00:00"
     }
   },
   "legacy_reviews": {}
