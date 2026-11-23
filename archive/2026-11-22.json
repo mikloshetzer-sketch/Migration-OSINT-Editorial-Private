@@ -1514,6 +1514,82 @@
       ],
       "independent_author_count": 0,
       "platform_count": 1
+    },
+    {
+      "id": 1494,
+      "source": "X",
+      "source_post_id": "2124554244867150211",
+      "author": "Merm_Acqaruim",
+      "language": "en",
+      "published_at": "2026-11-22T17:22:58Z",
+      "first_detected_at": "2026-11-22T17:30:06Z",
+      "last_detected_at": "2026-11-22T17:30:06Z",
+      "detection_count": 1,
+      "text": "Went to bed 3 hours ago, flying frontier and my uber driver was a yapping migrant.\n\n3 tall Airport beers in 35 minutes is the only option",
+      "text_excerpt": "Went to bed 3 hours ago, flying frontier and my uber driver was a yapping migrant.\n\n3 tall Airport beers in 35 minutes is the only option",
+      "url": "https://x.com/Merm_Acqaruim/status/2124554244867150211",
+      "source_url": "https://x.com/Merm_Acqaruim/status/2124554244867150211",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 8.25,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "frontier"
+        ],
+        [
+          "facilitation",
+          "driver was a yapping migrant"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrant"
+      ],
+      "high_value_matches": [
+        "driver was a yapping migrant"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 28.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2124554244867150211"
+      ],
+      "related_authors": [
+        "Merm_Acqaruim"
+      ],
+      "related_urls": [
+        "https://x.com/Merm_Acqaruim/status/2124554244867150211"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ],
   "information_signals": [
@@ -2195,7 +2271,7 @@
       "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-22T22:58:47.924359+00:00",
+  "last_archived_at": "2026-11-23T04:28:28.669664+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
