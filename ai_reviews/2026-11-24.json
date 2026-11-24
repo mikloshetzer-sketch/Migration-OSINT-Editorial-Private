@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "reviews": {
+    "group:754": {
+      "hu_text": "📰 Napi hírek 2023.11.23.\n\nFolytatom a megosztást, ami minket érint: ingatlan, migráció, élet Spanyolországban. Ha kell ez a rovat, jelezzétek 🙏\n\n🛥️ Kanári-szigetek: mindenkit érdeklő téma\n\nNovember első felében a belügyminisztérium adatai szerint 11 037 migráns érkezett a Kanári-szigetekre. El Hierro szigetére november 14-én egy nap alatt 1580 ember érkezett, ami rekord. November 21-22-én hétvégén az Euronews szerint további 2500-an érkeztek. A szigeten körülbelül 900-an vannak a központokban.\n\nA GAD3 felmérése az ABC számára azt mutatja, hogy a Kanári-szigetekre érkező hajók témája a legérdekesebb a spanyolok számára, függetlenül politikai nézeteiktől. A PP hadihajók bevetését kéri, a Vox a határok katonásítását javasolja és elutasítja a migránsok más régiókba történő szétosztását. A PSOE szerint a fejlődő országoknak nyújtott segélyek csökkentése ösztönzi az embereket az elvándorlásra.\n\n🏗️ Madrid lerövidítette az építési engedélyezési időket\n\nA madridi parlament a PP és Vox szavazataival elfogadta az LIDER törvényt, amelyet Isabel Díaz Ayuso vezette régió kormánya javasolt. A városi építési tervek jóváhagyása most 4-6 évig tart a korábbi kb. 12 év helyett, a részletes tervek egyeztetése 4 évre csökkent a 7-ről. A földterületek kategóriái háromra csökkennek az öt helyett, és a 15 000 főnél nagyobb városok maguk hagyhatják jóvá terveiket, a régió csak a jogszerűséget ellenőrzi.\n\nA PSOE és Más Madrid ellenzi, mert szerintük a törvény támogatja a spekulációt és nem garantálja a megfizethető lakhatást. Nem biztosít közvetlen támogatást vásárlásra vagy bérlésre, és a jóváhagyás után még építeni kell.\n\n📊 Legfrissebb választási felmérések november 29. előtt\n\nMa az utolsó...",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg migrációs eseményekről és politikai reakciókról szól, konkrét hivatalos adatokat is említ, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:15.830320+00:00"
+    },
+    "group:756": {
+      "hu_text": "@Ja_Kassapa @AntonioTweets2 Lehetséges, ha menekült vagy bevándorló úton érkezett. A kormányzati támogatás kezdetben ideiglenes (legfeljebb egy év a támogatott menekülteknek), és a tartományi szociális segélyek szintjén van, nem folyamatos extra juttatás. Jelenleg dolgozik, és jogosan emeli ki a prioritások kérdését.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A szöveg egy személy helyzetére utal, de nem tartalmaz konkrét tényállítást vagy hivatalos adatot, így ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:15.830341+00:00"
+    },
+    "group:757": {
+      "hu_text": "@JoelWebbon Texas menedékállammá válik több millió újonnan érkezett gazdasági migráns számára.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény vagy előrejelzés, nincs bizonyíték vagy hivatalos bejelentés, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:15.830344+00:00"
+    },
+    "information:28725": {
+      "hu_text": "15 hónap börtön egy migránshajó megrongálásáért nem igazság, hanem vállrándítás. A @RestoreBritain helyesen mondja: tegyük, ami helyes, javítsuk ki, és deportáljuk azokat, akik megszegik törvényeinket, hogy idejussanak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény a migrációs jogi ügyekről, nem tényállítás, így ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:15.830347+00:00"
+    },
+    "information:28744": {
+      "hu_text": "@Hipityskipity @RadioGenoa A hajókat bűnöző csempészbandák vásárolják és szállítják. Olcsó felfújható hajókat és motorokat szereznek be (gyakran Kínából Törökországon/Németországon keresztül) néhány ezer euróért.\n\nA migránsok vagy családtagjaik általában 1000–3000 fontot fizetnek személyenként a bandáknak egy helyért.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A szöveg csempészbandák működéséről és árakról szól, de nincs független bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:15.830349+00:00"
+    },
+    "group:755": {
+      "hu_text": "\"Kérjük, ne deportáljanak minket\" – Illegális bevándorlókat tartóztattak le a Sea-Tac repülőtéren... https://t.co/4siaRuO04q via @YouTube",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy videóra mutató linket tartalmaz, amely illegális bevándorlók letartóztatásáról szól a Sea-Tac repülőtéren. Mivel a forrás nem ellenőrzött és nincs további bizonyíték, az állítás ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:23.003265+00:00"
+    }
+  }
+}
