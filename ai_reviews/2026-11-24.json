@@ -199,6 +199,28 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-24T03:36:53.912345+00:00"
+    },
+    "telegram:1983050450:25771": {
+      "hu_text": "Kraszkovo lakói Putyint kérik, hogy mentse meg őket egy 5000 migránsnak szánt kollégiumépítéstől. A moszkvai régióbeli Kraszkvo (Korenyevo városrész, Ljuberetszki járás) területén egy fiatal erdő helyén ipari-raktári komplexumot, teherautó parkolókat és kollégiumokat akarnak építeni, ahová 5000 migránst költöztetnének. A helyiek sokkoltak: a nyilvános meghallgatások jegyzőkönyvében váratlanul 1510 „igen” szavazat jelent meg a projektre, bár a lakók nem értenek egyet vele. Videóüzenetet készítettek az elnöknek, hogy állítsa meg az építkezést – „itt már voltak támadások a bevándorlók részéről, milyen biztonságról beszélhetünk?” A helyiek azt is tervezik, hogy Basztrykint kérik, vegye ellenőrzése alá az ügyet: vizsgálják meg a szövetségi földek magánkézbe kerülésének törvényességét és az építkezés jogszerűségét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés helyi lakók tiltakozását tartalmazza egy nagy migránskollégium építése ellen, ami fontos társadalmi és migrációs kérdés. Az állítások nem ellenőrzöttek, nincs bizonyíték a szavazatok valódiságára vagy az események megtörténtére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:37:06.040618+00:00"
+    },
+    "telegram:2769077622:238": {
+      "hu_text": "📰 Napi hírek 2023.11.23.\n\nFolytatom a velünk kapcsolatos témák megosztását: ingatlan, migráció, élet Spanyolországban. Ha szükséges ez a rovat, jelezzétek.\n\n🛥️ Kanári-szigetek: mindenkit érdeklő téma\n\nNovember első felében 11 037 migráns érkezett a Kanári-szigetekre a belügyminisztérium adatai szerint. El Hierro szigetére november 14-én egy nap alatt 1580 ember érkezett, ami rekord. November 21-22-én hétvégén még több, 2500 migráns érkezett az Euronews szerint. A szigeten körülbelül 900 ember tartózkodik a befogadóközpontokban.\n\nA GAD3 felmérése az ABC számára azt mutatja, hogy a Kanári-szigetekre érkező hajók témája a legérdekesebb a spanyolok számára, függetlenül politikai nézeteiktől. A PP hadiflottát kér, a Vox katonásítani akarja a határokat és nem fogadja el a migránsok más régiókba történő szétosztását. A PSOE szerint a fejlődő országoknak nyújtott segélyek csökkentése ösztönzi az embereket az elvándorlásra.\n\n🏗️ Madrid lerövidítette az építési engedélyezési időket\n\nA madridi parlament a PP és Vox szavazataival elfogadta az LIDER törvényt, amelyet Isabel Díaz Ayuso vezette régió kormánya javasolt. A városi építési tervek jóváhagyása most 4-6 évig tart a korábbi kb. 12 év helyett, a részletes tervek jóváhagyása 4 évre csökkent a 7 helyett. A földterület kategóriák száma háromra csökken az öt helyett, és a 15 000 főnél nagyobb városok maguk hagyhatják jóvá terveiket, a régió csak a jogszerűséget ellenőrzi.\n\nA PSOE és Más Madrid ellenzi a törvényt: szerintük az támogatja a spekulációt és nem garantál olcsó lakhatást. Nem biztosít közvetlen támogatást vásárlásra vagy bérlésre, és a jóváhagyás után még építeni kell.\n\n📊 Legfrissebb választási felmérések november 29-re\n\nMa az utolsó...",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több, migrációval és helyi politikával kapcsolatos hírt tartalmaz, hivatalos adatokra és közvélemény-kutatásra hivatkozva. Az információk ellenőrzése szükséges, de nem tartalmaz nyilvánvaló hamis állítást.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:37:06.040638+00:00"
     }
   },
   "legacy_reviews": {}
