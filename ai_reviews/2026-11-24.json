@@ -221,6 +221,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-24T03:37:06.040638+00:00"
+    },
+    "group:758": {
+      "hu_text": "Egy jobb élet reményében indult kétségbeesett keresés tragédiába torkollott Djibouti partjainál, ahol legalább 139 migráns vesztette életét, miután egy túlzsúfolt hajó felborult, miközben Jemen felé tartott. Több tucatnyian eltűntek, ez az egyik leghalálosabb közelmúltbeli migrációs tragédia.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs tragédia, amely jelentős emberi veszteséggel jár, de nincs megerősített forrás vagy hivatalos jelentés a halálesetek pontos számáról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:44.285207+00:00"
+    },
+    "information:28783": {
+      "hu_text": "Egyiptom Gázai övezethez tartozó 12 km-es határa erődítmény, föld alatti akadályokkal, acélfalakkal, szögesdróttal és pufferzónákkal a Hamász alagutak megállítására. Egyiptom nem fogad be palesztin menekülteket. Az Izraellel közös 245 km-es határán magas technológiájú kerítés van, de a Taba-i turisták számára működő átkelőhelyek is nyitva állnak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Információ a határbiztonsági intézkedésekről, de nincs hivatalos megerősítés vagy részletes forrás a leírtakról.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:44.285225+00:00"
+    },
+    "information:28789": {
+      "hu_text": "Vishwaguru alatt 104 indiai kitoloncoltatott személy – férfiak, nők és kiskorúak – érkeztek Amritsarba egy körülbelül 40 órás utazás után. Az amerikai határőrség által kiadott felvételeken bilincsbe vert migránsok láthatók.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Információ migránsok kitoloncolásáról és határőrségi intézkedésekről, de nincs hivatalos megerősítés vagy részletes forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:44.285230+00:00"
+    },
+    "information:28790": {
+      "hu_text": "Két tinédzser unokatestvér Szenegálból nagy álmokkal indul Európába, hogy zenei sztárok legyenek, de kegyetlen embercsempészekkel, sivatagokon, fogdákon és nyílt tengeren át vezető megpróbáltatások várnak rájuk. A pénz megtakarítása és a titkos elindulás a könnyű rész, a túlélés a nehéz.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Narratíva migránsok motivációjáról és útjáról, de nincs bizonyíték a történet hitelességére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:44.285234+00:00"
+    },
+    "information:28802": {
+      "hu_text": "A görög határőrség tüzet nyitott a tengeren tartózkodó migránsokra!",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állítás a határőrség erőszakos fellépéséről, amely jelentős emberi jogi aggályokat vet fel, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:44.285237+00:00"
+    },
+    "record:2125220623328698463": {
+      "hu_text": "A média most csak a várost és az államot közli, kihagyva, hogy az illető migráns, illegális vagy akár vízumát túllépő személy. A média nem közli a tényeket!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Általános kritika a média tudósítási gyakorlatáról, nem tényállítás, ezért nincs szükség azonnali ellenőrzésre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:44.285241+00:00"
     }
   },
   "legacy_reviews": {}
