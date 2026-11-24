@@ -287,6 +287,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-24T14:25:44.285241+00:00"
+    },
+    "record:2125221602224664663": {
+      "hu_text": "#Investigates #Exclusive @WESH beszélget a \"sokkkesztyű\" technológiát gyártó cég tulajdonosával, amely akár 20 millió dollárba kerül az adófizetőknek, hogy az ICE segítségével elfogják és szállítsák a migránsokat. @RepMaxwellFrost azt szeretné, ha ezt a beszerzést törölnék.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy technológiai eszköz beszerzéséről szól, amely migránsok elfogását segíti, de nincs megerősített bizonyíték a költségekre vagy a hatékonyságra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:57.633258+00:00"
+    },
+    "record:2125230025385611639": {
+      "hu_text": "@NoLongerTheFuzz Ne hidd el egy pillanatra sem. Ez a kormány az EU és az Emberi Jogok Európai Bírósága (ECHR) iránti engedékenységéről ismert, amelyet arra használnak, hogy megakadályozzák a migránsok távozását. Több baloldali hazugság.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Politikai vélemény és véleményformálás, nincs konkrét tényállítás, így nem ellenőrizhető.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:57.633273+00:00"
+    },
+    "record:2125230377895629153": {
+      "hu_text": "🚨 FRISS HÍR: Két migránskaraván, összesen mintegy 1000 ember halad Mexikón keresztül az Egyesült Államok határa felé, ami újra a figyelem középpontjába helyezi a jelenlegi migrációs válságot. Jelentések szerint körülbelül 200 migráns indult el észak felé Dél-Mexikóból.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos migrációs eseményről számol be, amely jelentős hatással lehet a határhelyzetre, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:57.633278+00:00"
+    },
+    "record:2125232026223530417": {
+      "hu_text": "Egy jobb élet reményében indult kétségbeesett út tragédiába torkollott Dzsibuti partjainál, ahol legalább 139 migráns vesztette életét egy túlzsúfolt hajó felborulása miatt, amely Jemen felé tartott. Több tucatnyian eltűntek, ez az egyik legpusztítóbb migrációs tragédia a közelmúltban.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos humanitárius tragédiáról számol be, amely migránsok életét követelte, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:57.633281+00:00"
+    },
+    "record:mastodon_b36f24dc97305dc85cd2": {
+      "hu_text": "🇪🇸 Több mint 800 migráns érkezett El Hierro és Tenerife szigetekre egyetlen nap alatt, miközben Spanyolország választási vitája fokozódik. Összesen 815 irreguláris migráns érkezett nyolc hajóval El Hierro és Tenerife szigetekre tegnap, így novemberben a Kanári-szigetekre érkezők száma közel 13 000-re nőtt a vasárnapi választások előtt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jelentős migrációs eseményről számol be, amely befolyásolhatja a politikai helyzetet, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:57.633284+00:00"
+    },
+    "telegram:1261826972:54990": {
+      "hu_text": "🚩 Lázadás tört ki a Los Rosales migránstáborban: egy embert őrizetbe vettek és többeket kitelepítettek. Az UPR és UIP beavatkozása helyreállította a rendet, miután az éjszaka folyamán fokozódott a helyzet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy migránstáborban történt incidensről számol be, de nincs független forrásból megerősítve.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:25:57.633287+00:00"
     }
   },
   "legacy_reviews": {}
