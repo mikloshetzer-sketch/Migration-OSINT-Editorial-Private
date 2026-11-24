@@ -397,6 +397,17 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-23T16:46:23.139872+00:00"
+    },
+    "information:28707": {
+      "hu_text": "Engedély nélküli tömeges megfigyelés tér vissza: az ICE-t titokban rajtakapták, hogy az AT&T-nek fizetett, hogy milliók amerikaiak telefonadatait bányássza, és hívásokat, helyszíneket, határokat, valamint kitoloncolási célpontokat kövessen felügyelet nélkül. Ez az amerikai állampolgárokat is károsítja, mivel mindenkit adatgyűjtés alá vonnak, függetlenül attól, hogy bevándorló-e vagy sem, és keresési engedély nélkül.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos, hatósági visszaélést feltételez, de nincs megerősített bizonyíték a bemenetben, ezért ellenőrizendő. Fontos a határbiztonsági és adatvédelmi vonatkozások miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:00.261791+00:00"
     }
   },
   "legacy_reviews": {}
