@@ -353,6 +353,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-24T14:25:57.633287+00:00"
+    },
+    "telegram:1261826972:54991": {
+      "hu_text": "🗞️ Három hír az elfarodeceuta.es oldalról a kedd kezdéséhez:\n\n1⃣ Két év felfüggesztett szabadságvesztés a fiatalkorúnak, aki illegális bevándorlókat segített átjutni.\n\n➡️ Egy felnőttel együtt találták Almadrabában, segítve egy csoport menekülését egy hajón, amely a szárazföldi partok felé tartott.\n\n2⃣ Két marokkói kiutasítását kérik, mert egy civil ruhás rendőrt bántalmaztak.\n\n➡️ Az ügynök elmondta, hogy a feltételezett támadók pénzt kértek tőle, rátámadtak, majd elmenekültek miután megverték.\n\n3⃣ Máximo Huerta bemutatja Ceutában 'Mamá está dormida' című regényét.\n\n➡️ Az irodalmi találkozó ma, kedden 19:30-kor lesz az Adolfo Suárez Könyvtárban.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások konkrét eseményekről szólnak, de forrásként egy helyi híroldalt jelöl meg, amely nem feltétlenül független vagy hivatalos. A hírek migrációs eseményekhez kapcsolódnak, de nincs további bizonyíték a hitelességükre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:26:15.481526+00:00"
+    },
+    "telegram:1261826972:55007": {
+      "hu_text": "🚩 Videóval ▶ Így fognak kinézni a Tarajal és Benzú hullámtörők: munkák időpontjai, kiterjedése és részletek\n\n➡️ David de la Encina kormánymegbízott elmondta, hogy a munkák végrehajtási szakasza márciusig tart, és részletezte a két marokkói határ menti szerkezetet.\n\n➡️ A város kétségbe vonja a projekt elegendőségét.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy határbiztonsági infrastruktúra fejlesztéséről szól, amely migrációs kontextusban releváns. Az információk hivatalosnak tűnnek, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:26:15.481544+00:00"
+    },
+    "telegram:1604168769:12718": {
+      "hu_text": "Figyelem a külföldi munkavállalás során előforduló csalásokra\n\nEgy állampolgárt, aki az \"Garantált Consulting\" cégen keresztül ment dolgozni Örményországba és nehéz helyzetbe került, a Migrációs Alap segítségével hazaszállították Üzbegisztánba. Ez a cég nem rendelkezik megfelelő engedéllyel külföldi munkaközvetítésre, ezért fizetés vagy személyes adatok megadása előtt ellenőrizze az ügynökség jogszerűségét.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés figyelmeztetést tartalmaz migrációs csalásról, ami fontos a migrációs folyamatok biztonsága szempontjából. Az állítások konkrétak, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:26:15.481549+00:00"
+    },
+    "telegram:1980940690:16766": {
+      "hu_text": "Volt egy migráns Kirgizisztánból, Kalbaev Murager, aki Moszkvában futárként dolgozott. Egy alkalommal egy kommentben kezdett Oroszországot és az oroszokat sértegetni. Murager nagyon ravasz volt és névtelen maradt, de amikor elkezdték nevén nevezni, óvatosságból törölte a fiókját. Az adatai azonban már továbbították, képernyőképekkel, fotókkal és közösségi média fiókokkal együtt. Fuss, Murager, fuss.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy személyes konfliktusról és online incidensről szól, amely migrációs eseményhez közvetlenül nem kapcsolódik, inkább társadalmi diskurzus kategóriába esik. Nincs bizonyíték a hitelességre.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:26:15.481553+00:00"
+    },
+    "telegram:2240007404:1181": {
+      "hu_text": "Almaszelektálók szállással (Moszkva régió, Taldom város)\n\nVáros: Taldom\nFizetés: 3500-3700 rubel műszakonként\n\n✅ Feltételek:\n— Munkaidő beosztás: 5/2, 6/1, 7/0 (megegyezés szerint).\n— Nappali (9:00-21:00) és éjszakai (21:00-9:00) műszakok ebédszünettel.\n— Szállás hostelben (10-12 fő egy szobában).\n— Meleg raktár (+15 fok).\n— Férfiakat és nőket is várnak.\n— Fizetés az első két hétben 3500 rubel műszakonként, utána 3700 rubel.\n— Férfiakat fizikai nehéz munkára keresnek.\n\n☎️ Hívjon vagy írjon WhatsAppon: +7(926)416-17-34 (Svetlana)\n\n#Moszkva_régió\n\n📲 Iratkozzon fel a Migranto.ru-ra MAX-on.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a munkavállalási szándékot tükrözi. Az információk nem ellenőrzöttek, de relevánsak a migrációs szándék szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T14:26:15.481556+00:00"
     }
   },
   "legacy_reviews": {}
