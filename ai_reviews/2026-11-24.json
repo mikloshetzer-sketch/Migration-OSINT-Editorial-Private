@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-24T03:36:40.243565+00:00"
+    },
+    "record:2125056718488863050": {
+      "hu_text": "A CAA gyorsított eljárásban állampolgárságot biztosít csak a jogosult nem muszlim bevándorlóknak, akik 2014. december 31-ig léptek be. Rádzsasztánban táborokban több száz jogosult kérelmező kapott igazolást a 2024-25-ös szabályok életbe lépése óta, és a járási gyűjtők most közvetlenül kezelnek több ügyet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét jogi szabályozásról szól, de nincs hivatalos forrás vagy bizonyíték a gyorsított eljárás és a tábori igazolások kapcsán, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:53.912315+00:00"
+    },
+    "record:2125067272779608345": {
+      "hu_text": "Lehetséges, ha menekült vagy bevándorló útvonalakon érkezett. A kormányzati támogatás kezdetben ideiglenes (legfeljebb egy év a támogatott menekülteknek), és a szokásos tartományi jóléti szinteken van, nem folyamatos, kiemelt juttatás. Jelenleg dolgozik, és jogosan emeli ki a prioritások kérdését.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egyéni véleményt és általános információkat tartalmaz a menekültek támogatásáról, de nincs hivatalos adat vagy bizonyíték a konkrét személy helyzetéről, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:53.912335+00:00"
+    },
+    "record:2125068707118678084": {
+      "hu_text": "Ezért elengedhetetlen a felelős határvédelem a menekültek ellátásához. A menekültek a Nyugatra menekülnek a pokoli helyek elől, de azt tapasztalják, hogy a gyenge nyugati vezetők, akik félnek a baloldali aktivisták kritikájától, éppen azokat a problémákat importálják, amelyek elől a menekültek menekültek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és általános társadalmi diskurzust tartalmaz a menekültek helyzetéről és a határvédelemről, nincs konkrét tényállítás vagy bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:53.912338+00:00"
+    },
+    "record:2125070354750050348": {
+      "hu_text": "Izrael jelenlegi önkéntes távozási támogatása jogosult afrikai bevándorlóknak 3500 dollár készpénz és ingyenes repülőjegy, ha 2026. december 31-ig elhagyják az országot.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét támogatási programról szóló állítás, de nincs hivatalos forrás vagy bizonyíték a támogatás részleteiről, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:53.912341+00:00"
+    },
+    "record:2769077622:238": {
+      "hu_text": "2023. november 23-i hírek: Az első novemberi felében a Kanári-szigetekre 11 037 migráns érkezett a belügyminisztérium adatai szerint. El Hierro szigetén november 14-én egy nap alatt 1580 ember érkezett, ami rekord. November 21-22-én további 2500 érkezett Euronews szerint. A szigeten körülbelül 900 ember tartózkodik központokban. A GAD3 felmérés szerint a hajók érkezése a Kanári-szigetekre a spanyolok számára a legérdekesebb téma, politikai nézettől függetlenül. A PP a flotta bevetését kéri, a Vox a határok katonásítását és elutasítja a migránsok más régiókba történő szétosztását. A PSOE szerint a fejlődő országok támogatásának csökkentése ösztönzi az emberek elvándorlását. Madridban a PP és Vox támogatásával elfogadták a LIDER törvényt, amely lerövidíti az építési engedélyezési időket, de az ellenzék szerint ez spekulációt támogat és nem garantál megfizethető lakhatást. November 29-i választások előtt ez az utolsó felmérés.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Részletes statisztikai és politikai információkat tartalmaz a migrációról és határbiztonságról, de nincs hivatalos forrás vagy megerősítés, ezért ellenőrizetlen. Fontos a migrációs helyzet megértéséhez, ezért magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:53.912343+00:00"
+    },
+    "record:mastodon_117669218676560582": {
+      "hu_text": "Francia-olasz határ: az igazságszolgáltatás korlátozza a drónok használatát a migránsok átkelésének megfigyelésére. Az Emberi Jogok Ligája (LDH), a Nemzeti Határsegítő Egyesület (Anafé) és az Emmaüs Roya alapítói 2025. október 30-án elérték a két, 2025 februárjában a nice-i közigazgatási bíróság által hozott rendelet hatályon kívül helyezését.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Jogszabályi és határbiztonsági intézkedésekről szóló információ, de nincs hivatalos dokumentum vagy megerősítés a rendeletek hatályon kívül helyezéséről, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:53.912345+00:00"
     }
   },
   "legacy_reviews": {}
