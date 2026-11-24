@@ -488,9 +488,46 @@
       "first_collected_at": "2026-11-23T16:42:14Z",
       "last_collected_at": "2026-11-23T16:42:14Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28707",
+      "timestamp": "2026-11-23T20:14:32Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117667585861219594",
+      "author": null,
+      "url": "https://newsie.social/@ProgressivePower/117667585861219594",
+      "source_url": "https://newsie.social/@ProgressivePower/117667585861219594",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "Warrantless Mass Surveillance Returns: ICE Caught Secretly Paying AT&T to Mine Millions of Americans' Phone Records and Track Calls, Locations, Borders, and Deportation Targets Without Oversight Also, as a reminder, this harms US citizens as well, by collecting data on everyone, regardless of being an immigrant or not, without a search warrant. # ICE # immigrant",
+      "text_excerpt": "Warrantless Mass Surveillance Returns: ICE Caught Secretly Paying AT&T to Mine Millions of Americans' Phone Records and Track Calls, Locations, Borders, and Deportation Targets Without Oversight Also, as a reminder, this harms US citizens as well, by collecting data on everyone, regardless of being an immigrant or not, without a search warrant. # ICE # immigrant",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-24T03:33:32Z",
+      "last_collected_at": "2026-11-24T03:33:32Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-23T16:44:34.996465+00:00",
+  "last_archived_at": "2026-11-24T03:35:42.201378+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
