@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-24T03:36:23.003265+00:00"
+    },
+    "information:28747": {
+      "hu_text": "A 2026 nyári világbajnokság előtt a rendőrség több mint 50 ázsiai masszázsszalont razziázott Seattle környékén. Sok dolgozó egyszerre veszítette el megélhetését és lakhatását. A cikk címe: Seattle masszázs munkásai a biztonságot és szolidaritást követelik, nem a megbélyegzést.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy újságcikkből idéz, amely társadalmi kérdéseket érint, de nincs közvetlen bizonyíték a megállapítások hitelességére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:35.230352+00:00"
+    },
+    "record:2125049302170972616": {
+      "hu_text": "A modern rabszolgaság továbbra is elterjedt Líbiában. Az ENSZ 2026-os jelentései részletezik a szubszaharai afrikai migránsok fegyveres csoportok és hálózatok általi rendszeres emberkereskedelmét: kényszermunka, szexuális kizsákmányolás, kínzás, váltságdíj és illegális piacokon történő eladás. A fogvatartó központok gyakran ezeknek a tevékenységeknek a központjai.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az ENSZ jelentéseire hivatkozik, de a bejegyzés önmagában nem tartalmaz közvetlen bizonyítékot, ezért ellenőrizetlennek minősül, ugyanakkor a téma súlyos humanitárius problémát jelez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:35.230372+00:00"
+    },
+    "record:2125050520155107723": {
+      "hu_text": "A Migráns Munkások Minisztériuma (DMW) közölte, hogy a múlt héten a bolgár Fekete-tenger partjánál rakétatámadás miatt elsüllyedt MT Gas Husky liberiai zászló alatt hajó 19 megmentett filippínó legénységi tagja ezen a héten hazatér.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét eseményről szól, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:35.230376+00:00"
+    },
+    "record:2125054455003361415": {
+      "hu_text": "Dél-Texasban embercsempész letartóztatás, megújuló migráns karaván aktivitás Mexikóban, valamint Houston bevándorlási végrehajtási politikájának változásai kapnak figyelmet 2027 előtt, miközben a szövetségi hivatalok történelmi alacsony határátlépési számokat jelentenek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés több eseményt és politikai változást említ, de nincs közvetlen bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:35.230379+00:00"
+    },
+    "record:2125055443718504801": {
+      "hu_text": "Valaki azt állítja, hogy egy személy Texas-t menedékállammá teszi több millió újonnan érkező gazdasági migráns számára.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény vagy előrejelzés, nincs bizonyíték a megvalósulására, ezért ellenőrizetlennek minősül és alacsony prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:35.230381+00:00"
+    },
+    "record:2125051128610263251": {
+      "hu_text": "\"Kérjük, ne deportáljanak minket\" – illegális migránsokat tartóztattak le a Sea-Tac repülőtéren... https://t.co/4siaRuO04q via @YouTube",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás illegális migránsok letartóztatásáról szól egy repülőtéren, de nincs megerősített forrás vagy további bizonyíték az esemény hitelességére. A tartalom migrációs eseményhez kapcsolódik, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-24T03:36:40.243565+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
