@@ -254,6 +254,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T10:40:51.895243+00:00"
+    },
+    "information:28941": {
+      "hu_text": "MINDENKI EURÓPA FELÉ‼️\n\nEgyetlen nap alatt rekord 2100 migráns érkezett a kis El Hierro kanári szigetre — 14 hajó érkezett a 12 000 fős lakosságú szigetre.\n\n„Szomorúan történelmi nap volt” – mondta a Kanári-szigetek elnöke, Fernando Clavijo.\n\n„Ilyen érkezéseket még soha nem láttunk.”",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés konkrét számadatokat és hivatalos személy idézetét tartalmazza egy jelentős migrációs eseményről, de nincs független megerősítés vagy hivatalos forrás. Ezért fontos, de ellenőrizetlen információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:03.845265+00:00"
+    },
+    "information:28943": {
+      "hu_text": "Szeretem, hogy az európai menekültek, akik hajókon érkeztek és nem illeszkedtek be a kultúrába vagy a nyelvbe, most azt mondják, hogy ez nem amerikai.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény, társadalmi diskurzus része, nem tényállítás, ezért alacsony prioritású és ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:03.845284+00:00"
+    },
+    "record:2125528793846849635": {
+      "hu_text": "2026. november 24-én, kedden 2100 menedékkérő/menekült érkezett az El Hierro kanári szigetre, ahol a lakosság körülbelül 12 000 fő. #obingo",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat tartalmaz egy migrációs eseményről, de nincs független vagy hivatalos megerősítés, ezért ellenőrizetlen és fontos információ.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:03.845289+00:00"
+    },
+    "record:2125529708569751804": {
+      "hu_text": "@DailyMail @grok Hány migráns érkezett eddig?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, nem állítás vagy információ, így nem releváns a migrációs események értékeléséhez.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:03.845293+00:00"
+    },
+    "record:2125530724216230296": {
+      "hu_text": "@meninothomas_yt Fejlett világ problémája: Harmadik világból érkező migránstömegek érkeztek ide, most bandák uralják a környékemet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy személyes vélemény vagy panasz, amely migrációs mozgásra utal, de nincs bizonyíték vagy részletes információ, ezért ellenőrizetlen és közepes prioritású.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:03.845297+00:00"
+    },
+    "record:2125534860852789442": {
+      "hu_text": "🚨 FRISS HÍR 🚨\n2026. november 13-án Bailénből, Pinar del Ríóból Cancún, Mexikó felé tartó hajón 13 és 17 közötti kubai migráns tűnt el. A hozzátartozók szerint a hajó műszaki problémákkal küzdött.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius eseményről szóló információ, amely potenciálisan életveszélyes helyzetet jelez, de nincs független megerősítés, ezért ellenőrizetlen és magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:03.845302+00:00"
     }
   },
   "legacy_reviews": {}
