@@ -67,6 +67,50 @@
       "text": "This makes me very sad, though I understand his reasoning. # KilmarAbregoGarcía will leave # US voluntarily to avoid # Trump admin # deportation The # ElSalvador # immigrant was 100% illegally deported to his home country, brought back to the US because courts forced the Trump admin to do so, then # KAG was threatened with deportation to countries in Africa — aka # ExtraordinaryRendition . # law # ImmigrationLaw # immigration # persecution # TheCrueltyIsThePoint # WhiteSupremacy https://www. nytimes.com/2026/11/24/us/poli tics/abrego-garcia-leave-deportation.html?unlocked_article_code=1.S1E.XA6W.zakrCc2rOiU3&smid=nytcore-ios-share",
       "url": "https://masto.ai/@Nonilex/117673906806277083",
       "source_url": "https://masto.ai/@Nonilex/117673906806277083"
+    },
+    {
+      "id": 969,
+      "event_id": 969,
+      "source": "X",
+      "source_post_id": "2125529708569751804",
+      "author": "LeftHandedSWM",
+      "published_at": "2026-11-25T09:59:07Z",
+      "collected_at": "2026-11-25T10:40:22Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@DailyMail @grok how many migrants have arrived to date?",
+      "url": "https://x.com/LeftHandedSWM/status/2125529708569751804",
+      "source_url": "https://x.com/LeftHandedSWM/status/2125529708569751804"
+    },
+    {
+      "id": 970,
+      "event_id": 970,
+      "source": "X",
+      "source_post_id": "2125528793846849635",
+      "author": "daninspain70",
+      "published_at": "2026-11-25T09:55:29Z",
+      "collected_at": "2026-11-25T10:40:22Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 27.7255,
+      "longitude": -18.0243,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 30.0,
+      "text": "2,100 asylum seekers/ refugees arrived on Tuesday 24 November 2026 — the canaries on the island of El Hierro. The population is around 12000. #obingo",
+      "url": "https://x.com/daninspain70/status/2125528793846849635",
+      "source_url": "https://x.com/daninspain70/status/2125528793846849635"
     }
   ],
   "event_groups": [
@@ -127,6 +171,35 @@
       "average_confidence": 0.55,
       "created_at": "2026-11-25T00:13:40Z",
       "updated_at": "2026-11-25T00:13:40Z"
+    },
+    {
+      "id": 761,
+      "group_id": 761,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@DailyMail @grok how many migrants have arrived to date?",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-25T09:59:07Z",
+      "last_seen": "2026-11-25T09:59:07Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-25T10:40:22Z",
+      "updated_at": "2026-11-25T10:40:22Z"
     }
   ],
   "information_signals": [
@@ -353,9 +426,270 @@
       "first_collected_at": "2026-11-25T00:15:09Z",
       "last_collected_at": "2026-11-25T00:15:09Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28941",
+      "timestamp": "2026-11-25T10:25:53Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125536442529337751",
+      "author": "QorAThoughts17",
+      "url": "https://x.com/QorAThoughts17/status/2125536442529337751",
+      "source_url": "https://x.com/QorAThoughts17/status/2125536442529337751",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "vessel",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "ALL heading to EUROPE‼️\n\nRecord 2,100 migrants hit tiny Canary Island in one day — 14 vessels arrived at 12,000-strong population of El Hierro\n\n'It has been a sadly historic day,' said Canary Islands President Fernando Clavijo\n\n'Never before have we seen arrivals of this kind https://t.co/i6FbFJhYEH",
+      "text_excerpt": "ALL heading to EUROPE‼️\n\nRecord 2,100 migrants hit tiny Canary Island in one day — 14 vessels arrived at 12,000-strong population of El Hierro\n\n'It has been a sadly historic day,' said Canary Islands President Fernando Clavijo\n\n'Never before have we seen arrivals of this kind https://t.co/i6FbFJhYEH",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:40:22Z",
+      "last_collected_at": "2026-11-25T10:40:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28909",
+      "timestamp": "2026-11-25T10:21:49Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125535419953447218",
+      "author": "Duncan_Onzog",
+      "url": "https://x.com/Duncan_Onzog/status/2125535419953447218",
+      "source_url": "https://x.com/Duncan_Onzog/status/2125535419953447218",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@stelzner_n1150 Not even 2 months (~57 days) of a 60 year invasion: Border officials encountered migrants trying to cross the southern border an average of 1,041 times per day (7,287 total encounters over seven days), according to February 22, 2025 PBS NewsHour fact-check https://t.co/Gac8U9inEi https://t.co/s8cxC8rfVS",
+      "text_excerpt": "@stelzner_n1150 Not even 2 months (~57 days) of a 60 year invasion: Border officials encountered migrants trying to cross the southern border an average of 1,041 times per day (7,287 total encounters over seven days), according to February 22, 2025 PBS NewsHour fact-check https://t.co/Gac8U9inEi https://t.co/s8cxC8rfVS",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:38:46Z",
+      "last_collected_at": "2026-11-25T10:38:46Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28921",
+      "timestamp": "2026-11-25T10:13:40Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125533370746822698",
+      "author": "TechnoDudeUK",
+      "url": "https://x.com/TechnoDudeUK/status/2125533370746822698",
+      "source_url": "https://x.com/TechnoDudeUK/status/2125533370746822698",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@SkyNews A lot of the migrants we’ve seen arrive in our local area have been watched as they literally run from the boat with small suitcases and disappear before the authorities or police even turn up!",
+      "text_excerpt": "@SkyNews A lot of the migrants we’ve seen arrive in our local area have been watched as they literally run from the boat with small suitcases and disappear before the authorities or police even turn up!",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:39:19Z",
+      "last_collected_at": "2026-11-25T10:39:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28923",
+      "timestamp": "2026-11-25T10:04:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125530955813188090",
+      "author": "Scott340point0",
+      "url": "https://x.com/Scott340point0/status/2125530955813188090",
+      "source_url": "https://x.com/Scott340point0/status/2125530955813188090",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "rescue"
+      ],
+      "freshness_cues": [],
+      "text": "@MelRose47894160 @TheGob18 @MatthewStadlen No, nothing like Daniel Thomas. He wasn't an MP, he was tried in a UK Crown Court with full legal representation, and he pleaded guilty after livestreaming himself slashing a migrant dinghy with a knife while a rescue worker was on board.",
+      "text_excerpt": "@MelRose47894160 @TheGob18 @MatthewStadlen No, nothing like Daniel Thomas. He wasn't an MP, he was tried in a UK Crown Court with full legal representation, and he pleaded guilty after livestreaming himself slashing a migrant dinghy with a knife while a rescue worker was on board.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:39:19Z",
+      "last_collected_at": "2026-11-25T10:39:19Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28943",
+      "timestamp": "2026-11-25T10:03:04Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125530703156650005",
+      "author": "AmericanHero46",
+      "url": "https://x.com/AmericanHero46/status/2125530703156650005",
+      "source_url": "https://x.com/AmericanHero46/status/2125530703156650005",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "now"
+      ],
+      "text": "@BelindaBe54927 @JakeLang I love how European refugees that arrived on boats and didn’t assimilate with the culture or language are now saying that’s unamerican",
+      "text_excerpt": "@BelindaBe54927 @JakeLang I love how European refugees that arrived on boats and didn’t assimilate with the culture or language are now saying that’s unamerican",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:40:22Z",
+      "last_collected_at": "2026-11-25T10:40:22Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28916",
+      "timestamp": "2026-11-25T09:52:13Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125527969955557422",
+      "author": "ferozwala",
+      "url": "https://x.com/ferozwala/status/2125527969955557422",
+      "source_url": "https://x.com/ferozwala/status/2125527969955557422",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "vessel",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "🚨Record 2,100 migrants hit tiny #CanaryIsland in one day — 14 vessels arrived at the 12,000-strong population of #El_Hierro \n\n📌Monthly &amp; Yearly Scale: Around 11,800 to 12,000 migrants have arrived on El Hierro in November 2026 alone—nearly matching the island's entire https://t.co/JUgbkFImKw",
+      "text_excerpt": "🚨Record 2,100 migrants hit tiny #CanaryIsland in one day — 14 vessels arrived at the 12,000-strong population of #El_Hierro \n\n📌Monthly &amp; Yearly Scale: Around 11,800 to 12,000 migrants have arrived on El Hierro in November 2026 alone—nearly matching the island's entire https://t.co/JUgbkFImKw",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:38:47Z",
+      "last_collected_at": "2026-11-25T10:38:47Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:28935",
+      "timestamp": "2026-11-25T09:12:28Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125517966313721967",
+      "author": "IAmBritishReal",
+      "url": "https://x.com/IAmBritishReal/status/2125517966313721967",
+      "source_url": "https://x.com/IAmBritishReal/status/2125517966313721967",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "deportation"
+      ],
+      "freshness_cues": [],
+      "text": "The driver of the largest illegal migrant dinghy has been sentenced to 2 years in a British jail. \n\nNo deportation 🤷‍♂️ https://t.co/Hureke9DPj",
+      "text_excerpt": "The driver of the largest illegal migrant dinghy has been sentenced to 2 years in a British jail. \n\nNo deportation 🤷‍♂️ https://t.co/Hureke9DPj",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-25T10:39:50Z",
+      "last_collected_at": "2026-11-25T10:39:50Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-25T00:15:48.537075+00:00",
+  "last_archived_at": "2026-11-25T10:40:29.470882+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -452,6 +786,670 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1509,
+      "source": "X",
+      "source_post_id": "2125536197413876186",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-25T10:24:54Z",
+      "first_detected_at": "2026-11-25T10:38:46Z",
+      "last_detected_at": "2026-11-25T10:38:46Z",
+      "detection_count": 1,
+      "text": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "text_excerpt": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "url": "https://x.com/grok/status/2125536197413876186",
+      "source_url": "https://x.com/grok/status/2125536197413876186",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organizers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1510,
+      "source": "X",
+      "source_post_id": "2125534860852789442",
+      "author": "ElizabethFarin3",
+      "language": "en",
+      "published_at": "2026-11-25T10:19:36Z",
+      "first_detected_at": "2026-11-25T10:39:19Z",
+      "last_detected_at": "2026-11-25T10:39:19Z",
+      "detection_count": 1,
+      "text": "@MarioJPenton 🚨 BREAKING NEWS 🚨\nBetween 13 and 17 Cuban migrants are missing after leaving Bailén, Pinar del Río, on 11/13/2026 aboard a boat bound for Cancún, Mexico. According to their relatives, the boat suffered mechanical failures.\n.@SecRubio \n.@luisveramarcos1 \n.@ElizabethFarin3 https://t.co/J2Gdl7TZrM",
+      "text_excerpt": "@MarioJPenton 🚨 BREAKING NEWS 🚨\nBetween 13 and 17 Cuban migrants are missing after leaving Bailén, Pinar del Río, on 11/13/2026 aboard a boat bound for Cancún, Mexico. According to their relatives, the boat suffered mechanical failures.\n.@SecRubio \n.@luisveramarcos1 \n.@ElizabethFarin3 https://t.co/J2Gdl7TZrM",
+      "url": "https://x.com/ElizabethFarin3/status/2125534860852789442",
+      "source_url": "https://x.com/ElizabethFarin3/status/2125534860852789442",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants are missing after leaving"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants are missing after leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1511,
+      "source": "X",
+      "source_post_id": "2125530724216230296",
+      "author": "Gerkenzin",
+      "language": "en",
+      "published_at": "2026-11-25T10:03:09Z",
+      "first_detected_at": "2026-11-25T10:40:22Z",
+      "last_detected_at": "2026-11-25T10:40:22Z",
+      "detection_count": 1,
+      "text": "@meninothomas_yt First-world problem: Crowds of migrants from the third world have arrived here, now gangs rule my neighborhood",
+      "text_excerpt": "@meninothomas_yt First-world problem: Crowds of migrants from the third world have arrived here, now gangs rule my neighborhood",
+      "url": "https://x.com/Gerkenzin/status/2125530724216230296",
+      "source_url": "https://x.com/Gerkenzin/status/2125530724216230296",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from the third world have arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from the third world have arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1509,
+      "source": "X",
+      "source_post_id": "2125536197413876186",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-25T10:24:54Z",
+      "first_detected_at": "2026-11-25T10:38:46Z",
+      "last_detected_at": "2026-11-25T10:38:46Z",
+      "detection_count": 1,
+      "text": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "text_excerpt": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "url": "https://x.com/grok/status/2125536197413876186",
+      "source_url": "https://x.com/grok/status/2125536197413876186",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organizers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1510,
+      "source": "X",
+      "source_post_id": "2125534860852789442",
+      "author": "ElizabethFarin3",
+      "language": "en",
+      "published_at": "2026-11-25T10:19:36Z",
+      "first_detected_at": "2026-11-25T10:39:19Z",
+      "last_detected_at": "2026-11-25T10:39:19Z",
+      "detection_count": 1,
+      "text": "@MarioJPenton 🚨 BREAKING NEWS 🚨\nBetween 13 and 17 Cuban migrants are missing after leaving Bailén, Pinar del Río, on 11/13/2026 aboard a boat bound for Cancún, Mexico. According to their relatives, the boat suffered mechanical failures.\n.@SecRubio \n.@luisveramarcos1 \n.@ElizabethFarin3 https://t.co/J2Gdl7TZrM",
+      "text_excerpt": "@MarioJPenton 🚨 BREAKING NEWS 🚨\nBetween 13 and 17 Cuban migrants are missing after leaving Bailén, Pinar del Río, on 11/13/2026 aboard a boat bound for Cancún, Mexico. According to their relatives, the boat suffered mechanical failures.\n.@SecRubio \n.@luisveramarcos1 \n.@ElizabethFarin3 https://t.co/J2Gdl7TZrM",
+      "url": "https://x.com/ElizabethFarin3/status/2125534860852789442",
+      "source_url": "https://x.com/ElizabethFarin3/status/2125534860852789442",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants are missing after leaving"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants are missing after leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1511,
+      "source": "X",
+      "source_post_id": "2125530724216230296",
+      "author": "Gerkenzin",
+      "language": "en",
+      "published_at": "2026-11-25T10:03:09Z",
+      "first_detected_at": "2026-11-25T10:40:22Z",
+      "last_detected_at": "2026-11-25T10:40:22Z",
+      "detection_count": 1,
+      "text": "@meninothomas_yt First-world problem: Crowds of migrants from the third world have arrived here, now gangs rule my neighborhood",
+      "text_excerpt": "@meninothomas_yt First-world problem: Crowds of migrants from the third world have arrived here, now gangs rule my neighborhood",
+      "url": "https://x.com/Gerkenzin/status/2125530724216230296",
+      "source_url": "https://x.com/Gerkenzin/status/2125530724216230296",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants from the third world have arrived"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants from the third world have arrived"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1509,
+      "source": "X",
+      "source_post_id": "2125536197413876186",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-25T10:24:54Z",
+      "first_detected_at": "2026-11-25T10:38:46Z",
+      "last_detected_at": "2026-11-25T10:38:46Z",
+      "detection_count": 1,
+      "text": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "text_excerpt": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "url": "https://x.com/grok/status/2125536197413876186",
+      "source_url": "https://x.com/grok/status/2125536197413876186",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organizers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1509,
+      "source": "X",
+      "source_post_id": "2125536197413876186",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-25T10:24:54Z",
+      "first_detected_at": "2026-11-25T10:38:46Z",
+      "last_detected_at": "2026-11-25T10:38:46Z",
+      "detection_count": 1,
+      "text": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "text_excerpt": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "url": "https://x.com/grok/status/2125536197413876186",
+      "source_url": "https://x.com/grok/status/2125536197413876186",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organizers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1509,
+      "source": "X",
+      "source_post_id": "2125536197413876186",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-25T10:24:54Z",
+      "first_detected_at": "2026-11-25T10:38:46Z",
+      "last_detected_at": "2026-11-25T10:38:46Z",
+      "detection_count": 1,
+      "text": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "text_excerpt": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "url": "https://x.com/grok/status/2125536197413876186",
+      "source_url": "https://x.com/grok/status/2125536197413876186",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organizers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2125536197413876186"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2125536197413876186"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1509,
+      "source": "X",
+      "source_post_id": "2125536197413876186",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-25T10:24:54Z",
+      "first_detected_at": "2026-11-25T10:38:46Z",
+      "last_detected_at": "2026-11-25T10:38:46Z",
+      "detection_count": 1,
+      "text": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "text_excerpt": "@LeftHandedSWM @sandyandblue @DailyMail Arms are part of the standard definition of military invasion under international law: armed forces of a state using force to seize territory. These are unarmed civilians seeking asylum or irregular entry, processed under Spanish/EU rules.\n\nOrganizers are local West African",
+      "url": "https://x.com/grok/status/2125536197413876186",
+      "source_url": "https://x.com/grok/status/2125536197413876186",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 15.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organizers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "asylum"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2125536197413876186"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2125536197413876186"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1510,
+      "source": "X",
+      "source_post_id": "2125534860852789442",
+      "author": "ElizabethFarin3",
+      "language": "en",
+      "published_at": "2026-11-25T10:19:36Z",
+      "first_detected_at": "2026-11-25T10:39:19Z",
+      "last_detected_at": "2026-11-25T10:39:19Z",
+      "detection_count": 1,
+      "text": "@MarioJPenton 🚨 BREAKING NEWS 🚨\nBetween 13 and 17 Cuban migrants are missing after leaving Bailén, Pinar del Río, on 11/13/2026 aboard a boat bound for Cancún, Mexico. According to their relatives, the boat suffered mechanical failures.\n.@SecRubio \n.@luisveramarcos1 \n.@ElizabethFarin3 https://t.co/J2Gdl7TZrM",
+      "text_excerpt": "@MarioJPenton 🚨 BREAKING NEWS 🚨\nBetween 13 and 17 Cuban migrants are missing after leaving Bailén, Pinar del Río, on 11/13/2026 aboard a boat bound for Cancún, Mexico. According to their relatives, the boat suffered mechanical failures.\n.@SecRubio \n.@luisveramarcos1 \n.@ElizabethFarin3 https://t.co/J2Gdl7TZrM",
+      "url": "https://x.com/ElizabethFarin3/status/2125534860852789442",
+      "source_url": "https://x.com/ElizabethFarin3/status/2125534860852789442",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.8,
+      "score": 9.0,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "migrants are missing after leaving"
+        ],
+        [
+          "route",
+          "boat"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "migrants are missing after leaving"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "AMERICAS",
+      "primary_region": "AMERICAS",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 32.0,
+      "analyst_priority": "LOW",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2125534860852789442"
+      ],
+      "related_authors": [
+        "ElizabethFarin3"
+      ],
+      "related_urls": [
+        "https://x.com/ElizabethFarin3/status/2125534860852789442"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
     }
   ]
 }
