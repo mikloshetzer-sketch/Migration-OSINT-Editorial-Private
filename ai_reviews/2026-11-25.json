@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T00:16:09.012402+00:00"
+    },
+    "information:28875": {
+      "hu_text": "Hol van az igazságszolgáltatás Nagy-Britanniában! Nagy-Britannia korán szabadon engedi a bandaerőszaktevőket – olyan elkövetőket, akik fiatal lányokat kínoztak (például a nyelvüket szögelték a falhoz) – hogy helyet szabadítsanak fel a börtönökben. Danny Tommo egy csempészcsónakot felsértett térdig érő vízben, hogy elriassza az illegális migránsokat szállító hajókat.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások erősen érzelmi töltetűek és nem tartalmaznak bizonyított tényeket, így ellenőrizetlennek minősülnek. A csempészcsónak felsértése egy konkrét esemény, de a börtönszabadságra engedések állítása nem bizonyított.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:21.543171+00:00"
+    },
+    "information:28886": {
+      "hu_text": "Ukrajna támadásai az orosz hajók ellen Líbiánál az afrikai és mediterrán térségben zajló orosz tevékenységek kontextusában érthetők meg. Oroszország haditengerészeti jelenléte támogatja az Africa Corps-ot, katonai utánpótlási útvonalakat és olyan rezsimeket, amelyek Moszkvának bázisokhoz való hozzáférést biztosítanak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások geopolitikai összefüggéseket tárgyalnak, de konkrét bizonyítékokat nem mutatnak be, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:21.543204+00:00"
+    },
+    "record:2125377098286047235": {
+      "hu_text": "Ez Manolo Dominguez, a Kanári-szigetek alelnöke. Ma 10 csónak érkezett tele migránsokkal, és nem akarják, hogy ezek az emberek illegálisan belépjenek... nem tudnak megbirkózni velük. Azt mondja, hogy gyerekeket dobnak a vízbe, nőket megerőszakolnak, és egy 17 éves holttestét találták meg a mélyben.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások súlyosak és emberi jogi aggályokat vetnek fel, de nem áll rendelkezésre független megerősítés, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:21.543207+00:00"
+    },
+    "record:2125382308156854783": {
+      "hu_text": "Kontextus: ez a férfi enyhén megrongált egy elhagyott csónakot, amelyet embercsempészek használnak illegális migránsok Nagy-Britanniába szállítására. Az ítélete szándékosan abszurd.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény konkrét, de az ítélet abszurditásának állítása szubjektív, és nincs megerősítve hivatalos forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:21.543210+00:00"
+    },
+    "record:mastodon_117673906806277083": {
+      "hu_text": "Ez nagyon elszomorít, bár értem az indokait. Kilmar Abrego García önként hagyja el az Egyesült Államokat, hogy elkerülje a Trump-kormányzat általi kitoloncolást. Az El Salvadorból származó bevándorlót illegálisan toloncolták ki, majd a bíróságok kényszerítették vissza az USA-ba, később pedig afrikai országokba való kitoloncolással fenyegették – azaz rendkívüli átadás történt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások politikai és jogi természetűek, de nem tartalmaznak független bizonyítékokat, ezért ellenőrizetlennek minősülnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:21.543213+00:00"
+    },
+    "telegram:1261826972:55014": {
+      "hu_text": "Tartalmaz videót ▶ Lehet-e Ceutának két CETI-je? A kormány sem biztos benne. A Mendizábal börtön mellett emelt létesítményt állandóan használhatnák második CETI-ként, de a Delegáció habozik megerősíteni ezt. A város elutasítja az ötletet.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy helyi migrációs politikai kérdést tárgyal, de nincs benne konkrét döntés vagy bizonyított tény, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:21.543215+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
