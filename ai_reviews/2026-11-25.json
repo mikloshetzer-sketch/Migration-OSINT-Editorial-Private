@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "reviews": {
+    "group:759": {
+      "hu_text": "Ez nagyon elszomorít, bár megértem az indoklását. Kilmar Abrego García önként hagyja el az Egyesült Államokat, hogy elkerülje a Trump-kormányzat kitoloncolását. Az El Salvadorból származó bevándorlót 100%-ban illegálisan toloncolták ki hazájába, majd a bíróságok kényszerítették a Trump-adminisztrációt, hogy visszahozzák az USA-ba. Ezután KAG-t azzal fenyegették, hogy Afrikába toloncolják, ami rendkívüli kiadatásnak minősül. A bejegyzés a jogi és bevándorlási kérdéseket, üldöztetést és fehér felsőbbrendűséget érint.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások súlyosak és politikailag érzékenyek, de nincs közvetlen bizonyíték a helyességükre vagy hamisságukra, ezért ellenőrizetlennek minősülnek. Fontos a további ellenőrzés a jogi és emberi jogi vonatkozások miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:09.012367+00:00"
+    },
+    "group:760": {
+      "hu_text": "Kontextus: ez a férfi enyhén megrongált egy elhagyatott hajót, amelyet embercsempészek használnak illegális bevándorlók Nagy-Britanniába juttatására. Az ítélete szándékosan abszurd.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy további bizonyíték, így ellenőrizetlen marad. Fontos a határbiztonsági kontextus miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:09.012390+00:00"
+    },
+    "information:28825": {
+      "hu_text": "Migránscsoportok egy ideiglenes erdei táborban gyülekeznek, miközben várják, hogy átkeljenek az angol csatornán. A hálózsákokkal, takarókkal és személyes tárgyakkal borított erdei talajról készült felvétel bepillantást enged a csatorna francia oldalán uralkodó körülményekbe.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés információs jellegű, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül. Fontos a migrációs események megértése miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:09.012394+00:00"
+    },
+    "information:28847": {
+      "hu_text": "Daniel Thomas (Danny Tommo) 15 hónap börtönbüntetést kapott rongálásért, miután beismerte, hogy 2026. szeptember 22-én hajót vitt az angol csatornára, élőben közvetítette az eseményt, és többször késsel megszúrta egy üres migránscsónakot, miközben egy francia mentő dolgozó a fedélzeten volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét eseményről szóló információ, de nincs megerősített forrás vagy további bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:09.012397+00:00"
+    },
+    "information:28851": {
+      "hu_text": "Az illegálisan határon átlépő munkavállalók egy csoportot alkotnak. Nem hallottam, hogy az ICE építkezéseket razziázna. A turisták, diákok, TPS jogosultak, menekültek stb., akik legálisan érkeztek, de túllépték vízumuk érvényességét, alkotják az ICE által célzott többséget.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény és megfigyelés az amerikai bevándorlási gyakorlatról, nincs konkrét bizonyíték vagy forrás, így ellenőrizetlen marad.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:09.012400+00:00"
+    },
+    "information:28860": {
+      "hu_text": "Őrült történet: az Egyesült Királyság egy igazi mocsár. A hazafias aktivista, Danny Tommo 15 hónap börtönbüntetést kapott, mert megszúrta egy migránshajót az angol csatornán. Tommo úgy érzi, hazáját erőszakos bűnözők, köztük erőszaktevők és gyilkosok inváziója fenyegeti, és ezért cselekszik.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és aktivista álláspontot tartalmaz, nincs megerősített bizonyíték az állításokra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:09.012402+00:00"
+    }
+  }
+}
