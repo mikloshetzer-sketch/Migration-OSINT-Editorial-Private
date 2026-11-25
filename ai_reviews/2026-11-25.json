@@ -320,6 +320,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T10:41:03.845302+00:00"
+    },
+    "record:2125536197413876186": {
+      "hu_text": "A fegyverek a nemzetközi jog szerinti katonai invázió szabványos definíciójának részei: egy állam fegyveres erői erőszakot alkalmaznak terület elfoglalására. Ezek fegyvertelen civilek, akik menedékjogot kérnek vagy szabálytalan belépést próbálnak, akiket a spanyol/EU szabályok szerint kezelnek. A szervezők helyi nyugat-afrikaiak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások nem tartalmaznak konkrét bizonyítékot, de relevánsak a migrációs események szempontjából, különösen a menedékkérők státuszával kapcsolatban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:18.739215+00:00"
+    },
+    "telegram:1261826972:55032": {
+      "hu_text": "Három hír a elfarodeceuta.es oldalról: 1. Egy marokkói férfit kiutasítottak, miután katonák előtt maszturbált és ollóval támadt rájuk Ceutában. 2. Ana Belén Cifuentes, a Vox Ceuta kongresszusi jelöltje azonnali kiutasítást szorgalmaz azoktól a bevándorlóktól, akik nem járulnak hozzá az országhoz, és betonfallal védené a határt. 3. Két marokkóit kiutasítottak, egyikük katonákat fenyegetett késsel, a másik ruhát lopott és biztonsági őrt lökött meg.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A hírek migrációval kapcsolatos társadalmi vitákat és jogi intézkedéseket mutatnak be, de nem ellenőrzött forrásból származnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:18.739231+00:00"
+    },
+    "telegram:1604168769:12727": {
+      "hu_text": "Kuvaitban nő a kereslet üzbég szakemberek iránt: az EMCC és a Rokadiya Overseas cégek hároméves tapasztalattal rendelkező nővéreket és képzett ácsokat keresnek, a jelöltekkel folytatott tárgyalások és együttműködési megállapodás aláírása november-decemberben Tashkentben várható.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés munkaerő-migrációs szándékot jelez, de nincs megerősített forrás vagy hivatalos adat.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:18.739235+00:00"
+    },
+    "telegram:1604168769:12733": {
+      "hu_text": "Az Ukrajnában elhunyt külföldiek között sok üzbég állampolgár van: a Rosztat adatai szerint 2021 és 2026 szeptember között 4495 külföldi halt meg katonai műveletek következtében, közülük mintegy 1000 üzbég állampolgár.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Statisztikai adatokat közöl, de az adatok forrása nem ellenőrzött, így további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:18.739239+00:00"
+    },
+    "telegram:1688600455:1207": {
+      "hu_text": "Ez a lejátszási lista segíti az ukránokat abban, hogyan találjanak munkát Hollandiában, milyen dokumentumokra van szükség, hogyan készítsenek önéletrajzot és motivációs levelet, valamint mit kell tudniuk a fizetésről, szerződésekről és munkavállalói jogokról. Hasznos azoknak, akik már Hollandiában élnek és dolgozni szeretnének.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Hasznos információkat tartalmaz a migránsok munkavállalásának támogatásáról, de nem tartalmaz ellenőrzést igénylő állításokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:18.739243+00:00"
+    },
+    "telegram:1980940690:16771": {
+      "hu_text": "Pótlólagos migráció Európában, például Birminghamben, Egyesült Királyság. Az első videóban egy újságírónő teszteli, milyen gyorsan lopják el egy dobozt a város központjában, a lopás sebessége lenyűgöző. A második videóban barnább bőrű \"szintén brit\" emberek udvariasan kérik, hogy osszák meg egy idős, agresszív fehér brit náci rollerét.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés társadalmi jelenségeket mutat be, de nem tartalmaz konkrét migrációs eseményt vagy jogi intézkedést, és nincs megerősített forrás.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:41:18.739246+00:00"
     }
   },
   "legacy_reviews": {}
