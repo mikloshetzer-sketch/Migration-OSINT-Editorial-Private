@@ -386,6 +386,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T10:41:18.739246+00:00"
+    },
+    "group:762": {
+      "hu_text": "Egy elektromos robogós futár egy GTA-stílusú üldözést rendezett a Novojaszenyevszkij sugárúton. A rendőrök észrevették, hogy a robogós a forgalom közepén halad, és üldözőbe vették. A migráns megpróbált elmenekülni az utcákon és udvarokon keresztül, de végül elfogták. Kiderült, hogy az illető külföldi szakember, aki illegálisan tartózkodott Oroszországban, és szerepelt a felügyelt személyek nyilvántartásában, de ez nem akadályozta meg abban, hogy futárként dolgozzon és pénzt keressen. Több mint 35 ezer rubel bírságot szabtak ki rá, és elrendelték az ország elhagyását, amit valószínűleg nem fog betartani.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg egy konkrét határbiztonsági eseményt ír le, de nincs megerősített forrás vagy bizonyíték az állítások hitelességére, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:37.018618+00:00"
+    },
+    "information:28975": {
+      "hu_text": "📣 Az utolsó migrációs rekord tíz napig tartott: dolgozik-e valaki Európában az Atlanti-útvonal lezárásán? 📣\n\n📰 El Hierro kedden 15 csónakon 2100 migránst fogadott, ami a spanyol rekordok kezdete óta a legmagasabb napi szám az EFE adatai szerint.\n\nA mentettek között voltak az alábbi linken: https://t.co/PqFtAvww22",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs eseményről szól, konkrét számadatokkal, de nincs független megerősítés, ezért ellenőrizetlen státuszú.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:37.018643+00:00"
+    },
+    "information:28978": {
+      "hu_text": "@Eodecf @SamuelTsegai1 @NatyYifru Etióp tranzitmigránsok főként Galafin, Dikhilen vagy Balhón keresztül lépnek be Dzsibutiba, majd Obock felé tartanak, hogy hajóval átkeljenek Jemenbe. Többségük Szaúd-Arábiában vagy más Öböl-államokban szeretne munkát vállalni; sokan azonban ott rekednek, visszaküldik vagy kitoloncolják őket. Az IOM adatai szerint több mint 200 000 migráns érkezett Etiópiából Dzsibutiba.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés migrációs mozgás szándékát és útvonalát ismerteti, hivatalos szervezet (IOM) adataira hivatkozva, de nincs közvetlen bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:37.018647+00:00"
+    },
+    "information:28992": {
+      "hu_text": "Itt az akusztikus kottatábla Frank Wakewood 'Little Boat' című dalához. A basszusvonal nagyon ütős. Próbáld ki, és jamelj rá: https:// chordyes.com/chord/frank-wakew ood-little-boat #gretsch #stratocaster #american #malevocalist #folk #sea #summer",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés nem kapcsolódik a migráció témájához, hanem zenei tartalomról szól.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:37.018650+00:00"
+    },
+    "information:28995": {
+      "hu_text": "Az Atlanti-útvonal a világ egyik legveszélyesebb migrációs útvonala. A hosszabb utazások, a szervezett csempész hálózatok és a veszélyes tengeri átkelések összetett biztonsági és humanitárius kihívást jelentenek.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Általános háttérinformációt ad a migrációs útvonalról, de nincs konkrét bizonyíték vagy forrás, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:37.018652+00:00"
+    },
+    "information:28996": {
+      "hu_text": "@EricLDaugh Te hazudsz. Ő hazudik.\n\nKilmar Abrego Garcia nem volt illegális bevándorló, nem volt banda tagja, és nem vett részt embercsempészetben.\n\n\"Bár a szövetségi hatóságok agresszíven vádolták embercsempészettel, a büntetőügy összeomlott a szövetségi bíróságon.\"",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy vitatott társadalmi-politikai állítást tartalmaz, de nincs független bizonyíték a hitelességére, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:37.018667+00:00"
     }
   },
   "legacy_reviews": {}
