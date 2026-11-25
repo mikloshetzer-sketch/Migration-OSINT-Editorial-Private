@@ -518,6 +518,50 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T20:51:48.646273+00:00"
+    },
+    "telegram:1261826972:55063": {
+      "hu_text": "◼ 55 kilogramm hasist fogtak el, amikor átlépte a határt Ceuta és Marokkó között.\n\n➡️ Az elfogott személy egy Spanyolországban élő marokkói volt, aki a drogot az autó padlója alatt rejtette el.\n\nhttps://elfarodeceuta.es/actualidad/frontera-inmigracion/detenido-kilos-hachis-cuando-cruzaba-frontera-ceuta-marruecos/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét határátlépéskor történt kábítószer-csempészésről számol be, ami a határbiztonság témakörébe tartozik. Az állítás nem ellenőrzött, mivel csak egy közösségi média poszt és egy link szerepel, de nincs hivatalos megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:58.344624+00:00"
+    },
+    "telegram:1983050450:25816": {
+      "hu_text": "Egy elektromos robogós futár egy GTA-stílusú üldözést rendezett a Novojaszenevszkij sugárúton. A rendőrök észrevették, hogy a robogós a forgalom közepén halad, és üldözőbe vették. A migráns megpróbált elmenekülni az utcákon és udvarokon keresztül, de végül elfogták. Kiderült, hogy az illető illegálisan tartózkodott Oroszországban, és szerepelt a felügyelt személyek nyilvántartásában, de ez nem akadályozta meg abban, hogy futárként dolgozzon és pénzt keressen. Több mint 35 ezer rubel bírságot szabtak ki rá, és elrendelték az országból való távozását (amit nyilvánvalóan nem fog betartani).",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A poszt egy illegális migráns elfogásáról és büntetéséről számol be, ami a határbiztonság és a migrációs szabályok betartásának témakörébe tartozik. Az állítás nem ellenőrzött, mivel csak közösségi média bejegyzés, nincs hivatalos forrás vagy bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:58.344644+00:00"
+    },
+    "telegram:2240007404:1194": {
+      "hu_text": "Raktári komissiózó munkát kínálnak Moszkvában és környékén, heti fizetéssel, napi 7-9 ezer rubel között, ingyenes szállással és étkezéssel, tapasztalat nem szükséges, hivatalos munkaviszony, speciális ruházatot biztosítanak, választható munkarenddel.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy álláshirdetés, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikákhoz, így irreleváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:58.344647+00:00"
+    },
+    "telegram:2240007404:1195": {
+      "hu_text": "Éjszakai műszakos raktári komissiózó munkát kínálnak Reutov városában, Moszkva környékén, napi 5950 rubel fizetéssel, tapasztaltaknak akár 9000 rubel, ingyenes szállással, képzéssel, hivatalos munkaviszonnyal és heti előleggel, valamint ingyenes orvosi vizsgálattal.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez is egy álláshirdetés, amely nem kapcsolódik közvetlenül migrációs eseményekhez vagy politikákhoz, így migrációs OSINT szempontból irreleváns.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:58.344649+00:00"
     }
   },
   "legacy_reviews": {}
