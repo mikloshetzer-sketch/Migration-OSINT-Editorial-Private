@@ -188,6 +188,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T00:16:31.969597+00:00"
+    },
+    "group:761": {
+      "hu_text": "@DailyMail @grok Hány migráns érkezett eddig?",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Közösségi médiás kérdés, nincs konkrét állítás vagy bizonyíték, így ellenőrizhetetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:40:51.895199+00:00"
+    },
+    "information:28909": {
+      "hu_text": "Nem egészen két hónap (~57 nap) egy 60 éves invázióból: A határőrök naponta átlagosan 1041 alkalommal találkoztak migránsokkal, akik megpróbálták átlépni a déli határt (összesen 7287 találkozás egy héten belül), a 2025. február 22-i PBS NewsHour tényellenőrzése szerint.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A PBS NewsHour tényellenőrzése alapján részben ellenőrzött adatokat tartalmaz, de a teljes kontextus és források további vizsgálatot igényelnek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:40:51.895223+00:00"
+    },
+    "information:28916": {
+      "hu_text": "🚨 Rekord 2100 migráns érkezett egy nap alatt a kis Kanári-szigetekhez tartozó El Hierro szigetére, amelynek lakossága 12 000 fő. 2026 novemberében körülbelül 11 800-12 000 migráns érkezett a szigetre, ami majdnem megegyezik a sziget teljes lakosságával.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Nagyon magas migrációs számokat állít, de nincs megbízható forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:40:51.895229+00:00"
+    },
+    "information:28921": {
+      "hu_text": "@SkyNews Sok migránst láttunk a helyi területen, akik szó szerint kis bőröndökkel futva menekülnek a hajóról, és eltűnnek, mielőtt a hatóságok vagy a rendőrség megérkezne.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Személyes megfigyelésen alapuló állítás, nincs további bizonyíték, így ellenőrizetlen.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:40:51.895234+00:00"
+    },
+    "information:28923": {
+      "hu_text": "@MelRose47894160 @TheGob18 @MatthewStadlen Nem, semmi köze Daniel Thomas-hoz. Ő nem volt parlamenti képviselő, hanem egy brit koronabíróság előtt állt teljes jogi képviselettel, és bűnösnek vallotta magát, miután élőben közvetítette, hogy késsel átvág egy migráns csónakot, miközben egy mentő dolgozó volt a fedélzeten.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét személyes ügyre utal, de nincs hivatalos forrás vagy bizonyíték a közlés megerősítésére.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:40:51.895239+00:00"
+    },
+    "information:28935": {
+      "hu_text": "A legnagyobb illegális migráns csónak sofőrjét 2 év börtönbüntetésre ítélték Nagy-Britanniában. Nincs kitoloncolás.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Jogszabályi és büntetőügyi állítás, de nincs hivatalos forrás vagy bírósági dokumentum, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T10:40:51.895243+00:00"
     }
   },
   "legacy_reviews": {}
