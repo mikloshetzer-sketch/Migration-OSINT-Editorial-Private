@@ -452,6 +452,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T20:51:37.018667+00:00"
+    },
+    "record:1983050450:25816": {
+      "hu_text": "Egy futár elektromos robogón GTA-stílusú üldözést rendezett a Novojaszenyevszkij sugárúton. A rendőrök észrevették, hogy a robogó vezetője az úttest közepén halad, és üldözőbe vették. A migráns megpróbált elmenekülni utcákon és udvarokon keresztül, de végül elfogták. Kiderült, hogy az illető külföldi szakember illegálisan tartózkodott Oroszországban, és szerepelt a felügyelt személyek nyilvántartásában – ennek ellenére futárként dolgozott és pénzt keresett. Több mint 35 ezer rubel bírságot szabtak ki rá, és elrendelték az ország elhagyását (amit nyilván nem fog betartani).",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét eseményt ír le egy illegális migráns elfogásáról és büntetéséről, de nincs független megerősítés vagy hivatalos forrás. A tartalom migrációs eseményhez és határbiztonsághoz kapcsolódik.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:48.646245+00:00"
+    },
+    "record:2125684965807648942": {
+      "hu_text": "A Kanári-szigetek kormánya 2026. november 25-én 15:00 órától másodfokú vészhelyzetet hirdetett El Hierro szigetén a tengeren érkező tömeges migránsáradat miatt.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés egy hivatalos kormányzati intézkedést említ tömeges migráció miatt, ami fontos migrációs esemény. Az állítás ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:48.646263+00:00"
+    },
+    "record:2125688551811514754": {
+      "hu_text": "Tudtad? November első két hetében több mint 11 ezer afrikai migráns érkezett kis hajókon a Kanári-szigetekre. Ez invázió.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés migrációs adatokat közöl, de erősen véleményes, politikailag terhelt kifejezésekkel („invázió”). Nincs hivatalos forrás vagy bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:48.646266+00:00"
+    },
+    "telegram:1261826972:55046": {
+      "hu_text": "A CSIF a Legfelsőbb Bírósághoz fordul a bevándorlók elhelyezéséről szóló rendelet miatt, amely a börtön közelében létesít szállást. A szakszervezet munkahelyi kockázatmegelőzési szabályok megsértése miatt indít pert, bár a lakómodulok helyét megváltoztatták.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés jogi és politikai témájú, egy szakszervezet lépéseit ismerteti migrációs elhelyezéssel kapcsolatban. Nincs független megerősítés, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:48.646268+00:00"
+    },
+    "telegram:1261826972:55056": {
+      "hu_text": "Marlaska belügyminiszter tagadja, hogy a Guardia Civil módosította volna a Ceutába érkező tömeges migrációról szóló jelentést. A miniszter „teljesen hamisnak” nevezte azt az állítást, hogy a testület vezetői eltávolítottak volna utalásokat Marokkóra a marokkói hírszerzéssel való találkozó után.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai nyilatkozat egy migrációs esemény kapcsán, amely vitatott állításokat érint. Nincs független bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:48.646271+00:00"
+    },
+    "telegram:1261826972:55058": {
+      "hu_text": "Katonák attól tartottak, hogy Marokkó követelni fogja Ceuta és Melilla társuverenitását az invázió után. Az EMAD jelentései, amelyeket a válságot vizsgáló bíróhoz küldtek, figyelmeztettek, hogy Rabat „erőpozícióból” próbál majd tárgyalni Spanyolországgal.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés történelmi-politikai hátteret ismertet migrációs válság kapcsán, de nincs független megerősítés. Ellenőrzés szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T20:51:48.646273+00:00"
     }
   },
   "legacy_reviews": {}
