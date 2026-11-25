@@ -133,6 +133,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-25T00:16:21.543215+00:00"
+    },
+    "telegram:1261826972:55017": {
+      "hu_text": "A delegált azt mondja, hogy az ügyintézés a bevándorlókkal „hajózási sebességgel” halad. De la Encina, aki elismeri, hogy a kormány rendelkezésére áll, ha megnyerik a választásokat, hangsúlyozza, hogy az eljárásokat a törvény által megengedett leggyorsabb módon végzik.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy politikai nyilatkozatot tartalmaz a bevándorlók ügyintézésének sebességéről, de nincs konkrét bizonyíték a valóságtartalomra, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:31.969569+00:00"
+    },
+    "telegram:1261826972:55023": {
+      "hu_text": "Szabadon engedték a Colorada műveletben embercsempészet miatt letartóztatott felnőttet. Két bűncselekmény miatt elítélték, de a büntetést felfüggesztették, és nem jár kitoloncolással.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét jogi eseményről számol be, de nincs független megerősítés, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:31.969590+00:00"
+    },
+    "telegram:1261826972:55026": {
+      "hu_text": "A rendőrség 40 menekültet talált meg, akiknek elutasították a menedékjogi kérelmét, és akik elszöktek a táborokból. A műveletben egyenruhás és civil ruhás rendőrök vettek részt különböző városrészekben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés rendőrségi akcióról számol be, de nincs független forrásból származó megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:31.969592+00:00"
+    },
+    "telegram:1261826972:55029": {
+      "hu_text": "Egy biztonsági őrt megtámadtak a Loma Margarita szubszaharai menekülttáborban. Emellett több illegális építkezést is észleltek marokkóiak részvételével, és verekedésekről, összetűzésekről érkezett riasztás.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés erőszakos eseményekről és illegális tevékenységekről számol be, de nincs független bizonyíték, ezért ellenőrizetlennek kell tekinteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:31.969595+00:00"
+    },
+    "telegram:1604168769:12726": {
+      "hu_text": "Egy szentpétervári rendőrt 3,5 év börtönbüntetésre ítéltek, mert 100 ezer rubelt kért egy migráns nőtől az okmányai visszaadásáért. A volt hadnagy büntetését általános rendű börtönben tölti, és megtiltották számára, hogy állami intézményekben dolgozzon.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét jogi ítéletről számol be, de nincs független forrásból származó megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-25T00:16:31.969597+00:00"
     }
   },
   "legacy_reviews": {}
