@@ -485,6 +485,39 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T22:43:11.857954+00:00"
+    },
+    "telegram:1261826972:55116": {
+      "hu_text": "A rendőrség több illegális építkezésen lép fel bevándorlókkal kapcsolatban. Egyre több jelzés érkezik ezekről a gyakorlatokról, valamint panaszok a Ceutában található illegális hajókról.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy híradásra hivatkozik, de nincs közvetlen bizonyíték vagy hivatalos megerősítés. A téma migrációs biztonsági esemény, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:19.040815+00:00"
+    },
+    "telegram:1983050450:25835": {
+      "hu_text": "Egy amerikai kommunista nő hangosan játssza a muszlim imára hívást, hogy bosszantsa a keresztény szomszédokat, akik nem kedvelik a bevándorlókat. A nő arra buzdít más baloldaliakat, hogy tegyenek hasonlóan. A kommentelők szerint, ha folytatja, bajba kerülhet, akár erőszak áldozata is lehet.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy közösségi médiás állítás, amely politikai és társadalmi véleményt tartalmaz, de nincs bizonyíték a valóságtartalmára. Nem közvetlenül migrációs esemény, hanem társadalmi diskurzus.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:19.040838+00:00"
+    },
+    "telegram:2240007404:1221": {
+      "hu_text": "Álláshirdetés moszkvai meleg raktári munkára, ahol a feladatok közé tartozik vonalkódok beolvasása, rendelések összeállítása és szállítása. A fizetés műszakonként 5950-9000 rubel között van.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy álláshirdetés, amely nem kapcsolódik közvetlenül migrációs eseményhez vagy politikához, így nem releváns a migrációs OSINT szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:19.040841+00:00"
     }
   },
   "legacy_reviews": {}
