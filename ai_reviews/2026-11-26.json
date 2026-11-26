@@ -287,6 +287,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T13:22:04.565189+00:00"
+    },
+    "group:766": {
+      "hu_text": "@SkyNews @robpowellnews Meg tudnák mutatni, hány angol hagyta el az országot, és hány harmadik világbeli migráns érkezett?",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás kérdő formában van, konkrét adatokat nem tartalmaz, ezért nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:42.257736+00:00"
+    },
+    "group:767": {
+      "hu_text": "\"A nettó migrációt 77 000-re csökkentettük.\" Teljesen félrevezető állítás Shabana Mahmood belügyminisztertől. Az elmúlt évben júniusig 738 000 ember költözött be Nagy-Britanniába, ebből 550 000 nem EU-s állampolgár, és közel 24 000 illegális migráns érkezett kis csónakokon a Csatornán keresztül. Ezen felül 245 000 ...",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás számszerű adatokat tartalmaz, de nincs forrás vagy bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:42.257757+00:00"
+    },
+    "information:29151": {
+      "hu_text": "Mit mond Nigel Farage (Reform UK) és Rupert Lowe (Restore Britain) egy fehér német férfiról, akit azzal gyanúsítanak, hogy ő áll a Franciaországból Angliába csónakokon érkező migránsok mögött?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy véleménykérés, nem tényállítás, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:42.257761+00:00"
+    },
+    "information:29170": {
+      "hu_text": "Két férfit vádoltak meg amiatt, hogy betörtek Vilmos herceg és Katalin norfolki vidéki otthonába, az Anmer Hallba, amíg a királyi pár távol volt. A jelentések szerint az egyik gyanúsított illegális migráns, aki több kis csónakos átkeléshez köthető. Mindketten őrizetben vannak, miközben biztonsági felülvizsgálat zajlik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eseményről nincs hivatalos megerősítés, ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:42.257763+00:00"
+    },
+    "information:29172": {
+      "hu_text": "Két férfit vádoltak meg amiatt, hogy betörtek Vilmos herceg és Katalin norfolki vidéki otthonába, az Anmer Hallba, amíg a királyi pár távol volt. Az egyik gyanúsított illegális migráns, aki több kis csónakos átkeléshez köthető. Mindketten őrizetben vannak, miközben biztonsági felülvizsgálat zajlik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az eseményről nincs hivatalos megerősítés, ezért az állítás ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:42.257765+00:00"
+    },
+    "information:29182": {
+      "hu_text": "@RupertLowe10 PD; Rupert Lowe véleménye szerint Nagy-Britannia jelenlegi elfogadhatatlan állapota közé tartozik, hogy Danny Thomas-t („Tommo”) a Patriot Platformból 15 hónapra elítélték, akinek egyetlen „bűne” az volt, hogy elvágott egy üres migránscsempész csónakot, amelyet a Csatornán vontattak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény, amely egy konkrét eseményre utal, de nincs megerősített forrás az eseményről.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:42.257768+00:00"
     }
   },
   "legacy_reviews": {}
