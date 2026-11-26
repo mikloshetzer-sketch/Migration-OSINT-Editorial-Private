@@ -45,6 +45,50 @@
       "text": "Canary Islands Receive Recording-Breaking Number of Migrants In Single Day\n\nRecord 2,100+ migrants arrived in the Canary Islands in 24 hours, escalating the crisis.\n\nRead More: https://t.co/G1F8CTuw70 https://t.co/pUqBgN4fq6",
       "url": "https://x.com/absafricatv/status/2125794598064624007",
       "source_url": "https://x.com/absafricatv/status/2125794598064624007"
+    },
+    {
+      "id": 976,
+      "event_id": 976,
+      "source": "X",
+      "source_post_id": "2125940337185042600",
+      "author": "SharonM1757",
+      "published_at": "2026-11-26T13:10:49Z",
+      "collected_at": "2026-11-26T13:21:08Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@andyburnham @UKLabour The people leaving are mainly Brits.\nEvery single illegal migrant should be removed rather than given a roof over their head, food, clothes, heating, free travel.",
+      "url": "https://x.com/SharonM1757/status/2125940337185042600",
+      "source_url": "https://x.com/SharonM1757/status/2125940337185042600"
+    },
+    {
+      "id": 975,
+      "event_id": 975,
+      "source": "X",
+      "source_post_id": "2125927402366787871",
+      "author": "mariathena",
+      "published_at": "2026-11-26T12:19:25Z",
+      "collected_at": "2026-11-26T13:20:38Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "confidence": 0.75,
+      "event_confidence": 0.75,
+      "relevance_score": 40.0,
+      "text": "@thanosplevris Well done Minister . However ,92 illegal migrants landed on Crete today and the trafficking flow from Libya continues unabated.\nHow many will receive asylum and how many will be deported ? \nMore than 40,000 illegals entered Greece in 2026 so far .  Data from UNHCR .\nWay to go",
+      "url": "https://x.com/mariathena/status/2125927402366787871",
+      "source_url": "https://x.com/mariathena/status/2125927402366787871"
     }
   ],
   "event_groups": [
@@ -76,6 +120,64 @@
       "average_confidence": 0.2,
       "created_at": "2026-11-26T03:52:26Z",
       "updated_at": "2026-11-26T03:52:26Z"
+    },
+    {
+      "id": 765,
+      "group_id": 765,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION",
+      "representative_text": "@andyburnham @UKLabour The people leaving are mainly Brits.\nEvery single illegal migrant should be removed rather than given a roof over their head, food, clothes, heating, free travel.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-26T13:10:49Z",
+      "last_seen": "2026-11-26T13:10:49Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-26T13:21:08Z",
+      "updated_at": "2026-11-26T13:21:08Z"
+    },
+    {
+      "id": 764,
+      "group_id": 764,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING - Crete",
+      "representative_text": "@thanosplevris Well done Minister . However ,92 illegal migrants landed on Crete today and the trafficking flow from Libya continues unabated.\nHow many will receive asylum and how many will be deported ? \nMore than 40,000 illegals entered Greece in 2026 so far .  Data from UNHCR .\nWay to go",
+      "region": "EASTERN_MEDITERRANEAN",
+      "primary_region": "EASTERN_MEDITERRANEAN",
+      "primary_location": "Crete",
+      "country": "Greece",
+      "latitude": 35.2401,
+      "longitude": 24.8093,
+      "first_seen": "2026-11-26T12:19:25Z",
+      "last_seen": "2026-11-26T12:19:25Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.75,
+      "average_confidence": 0.75,
+      "created_at": "2026-11-26T13:20:38Z",
+      "updated_at": "2026-11-26T13:20:38Z"
     }
   ],
   "information_signals": [
@@ -266,9 +368,271 @@
       "first_collected_at": "2026-11-26T03:51:30Z",
       "last_collected_at": "2026-11-26T03:51:30Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29096",
+      "timestamp": "2026-11-26T13:16:36Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125941792634032171",
+      "author": "craigh_",
+      "url": "https://x.com/craigh_/status/2125941792634032171",
+      "source_url": "https://x.com/craigh_/status/2125941792634032171",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "route",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "It is important that Labour can own this given the strength of feeling in the UK and sudden drop in boat crossings in last year is directly attributable to Labour’s time. However, we should welcome people with genuine needs as refugees through legal routes . https://t.co/FT2KkRGHxR",
+      "text_excerpt": "It is important that Labour can own this given the strength of feeling in the UK and sudden drop in boat crossings in last year is directly attributable to Labour’s time. However, we should welcome people with genuine needs as refugees through legal routes . https://t.co/FT2KkRGHxR",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:20:07Z",
+      "last_collected_at": "2026-11-26T13:20:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29087",
+      "timestamp": "2026-11-26T13:12:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125940862718722476",
+      "author": "HappyCamper2626",
+      "url": "https://x.com/HappyCamper2626/status/2125940862718722476",
+      "source_url": "https://x.com/HappyCamper2626/status/2125940862718722476",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "boat",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "They seized rubber boats palletized and ready to ship from Europe to migrant routes. That’s not smuggling that’s logistics. Somebody paid for them, staged them, and knows the route. EU migration funds, UN agencies, and billionaire-backed NGOs keep surfacing in the money trails https://t.co/bCDJAble9b",
+      "text_excerpt": "They seized rubber boats palletized and ready to ship from Europe to migrant routes. That’s not smuggling that’s logistics. Somebody paid for them, staged them, and knows the route. EU migration funds, UN agencies, and billionaire-backed NGOs keep surfacing in the money trails https://t.co/bCDJAble9b",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:19:37Z",
+      "last_collected_at": "2026-11-26T13:19:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29102",
+      "timestamp": "2026-11-26T13:03:29Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125938491422904366",
+      "author": "NoIslamNoMos",
+      "url": "https://x.com/NoIslamNoMos/status/2125938491422904366",
+      "source_url": "https://x.com/NoIslamNoMos/status/2125938491422904366",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "dinghy",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Arrest warrant for German dinghy dealer 'supplying small-boat migrant smugglers': https://t.co/ypDbxC2IQF",
+      "text_excerpt": "Arrest warrant for German dinghy dealer 'supplying small-boat migrant smugglers': https://t.co/ypDbxC2IQF",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:20:07Z",
+      "last_collected_at": "2026-11-26T13:20:07Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29092",
+      "timestamp": "2026-11-26T13:02:00Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125938119791009813",
+      "author": "TippInsightsHQ",
+      "url": "https://x.com/TippInsightsHQ/status/2125938119791009813",
+      "source_url": "https://x.com/TippInsightsHQ/status/2125938119791009813",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "route",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "A Swiss humanitarian group spotted eight migrant boats over two days during its first aerial reconnaissance flights along the deadly Atlantic migration route toward Spain’s Canary Islands. Samira Hanska of the Humanitarian Pilots Initiative (HPI) said the crew sighted five",
+      "text_excerpt": "A Swiss humanitarian group spotted eight migrant boats over two days during its first aerial reconnaissance flights along the deadly Atlantic migration route toward Spain’s Canary Islands. Samira Hanska of the Humanitarian Pilots Initiative (HPI) said the crew sighted five",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:19:37Z",
+      "last_collected_at": "2026-11-26T13:19:37Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29109",
+      "timestamp": "2026-11-26T12:59:36Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125937515672846670",
+      "author": "RebeccaBerryDC",
+      "url": "https://x.com/RebeccaBerryDC/status/2125937515672846670",
+      "source_url": "https://x.com/RebeccaBerryDC/status/2125937515672846670",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "If it’s true, and the Red Cross gets paid per migrant - how is that not regarded as human trafficking? https://t.co/i6RXGZs0do",
+      "text_excerpt": "If it’s true, and the Red Cross gets paid per migrant - how is that not regarded as human trafficking? https://t.co/i6RXGZs0do",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:20:38Z",
+      "last_collected_at": "2026-11-26T13:20:38Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29111",
+      "timestamp": "2026-11-26T12:44:51Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125933803772260649",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2125933803772260649",
+      "source_url": "https://x.com/grok/status/2125933803772260649",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "@docshri @PolitlcsUK Net migration is arrivals minus departures. For YE June 2026 it totalled 77k (lowest non-pandemic since 1997): British nationals -137k, EU+ -45k, non-EU +258k. Non-EU remains the sole positive driver but fell sharply from fewer work, study and asylum visas; Brits and EU continue",
+      "text_excerpt": "@docshri @PolitlcsUK Net migration is arrivals minus departures. For YE June 2026 it totalled 77k (lowest non-pandemic since 1997): British nationals -137k, EU+ -45k, non-EU +258k. Non-EU remains the sole positive driver but fell sharply from fewer work, study and asylum visas; Brits and EU continue",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:20:38Z",
+      "last_collected_at": "2026-11-26T13:20:38Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29095",
+      "timestamp": "2026-11-26T12:43:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2125933555255546020",
+      "author": "jmp_nyc",
+      "url": "https://x.com/jmp_nyc/status/2125933555255546020",
+      "source_url": "https://x.com/jmp_nyc/status/2125933555255546020",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@Jameslo27683575 @dilanesper @LebakBulusLRT Gaza has a border with Egypt that is even more heavily fortified than the Israeli border with Gaza.\n\nEgypt could open a crossing for refugees to escape the conflict at any time. Egypt could send in relief supplies. Egypt has not opened that border.",
+      "text_excerpt": "@Jameslo27683575 @dilanesper @LebakBulusLRT Gaza has a border with Egypt that is even more heavily fortified than the Israeli border with Gaza.\n\nEgypt could open a crossing for refugees to escape the conflict at any time. Egypt could send in relief supplies. Egypt has not opened that border.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T13:19:38Z",
+      "last_collected_at": "2026-11-26T13:19:38Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-26T03:52:42.806767+00:00",
+  "last_archived_at": "2026-11-26T13:21:14.034453+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -285,6 +649,468 @@
       "editorial_review_only": true,
       "is_operational": false,
       "is_noise": false
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1513,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682478959102775",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T11:22:02Z",
+      "first_detected_at": "2026-11-26T13:19:05Z",
+      "last_detected_at": "2026-11-26T13:19:05Z",
+      "detection_count": 1,
+      "text": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "text_excerpt": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "source_url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "court ruling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 52.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1514,
+      "source": "X",
+      "source_post_id": "2125942363000275203",
+      "author": "UKDecline",
+      "language": "en",
+      "published_at": "2026-11-26T13:18:52Z",
+      "first_detected_at": "2026-11-26T13:19:37Z",
+      "last_detected_at": "2026-11-26T13:19:37Z",
+      "detection_count": 1,
+      "text": "55,687 family entry-clearance visas were granted in the year ending September 2026, down 17% on the previous year.\n\nRefugee Family Reunion grants fell 55% to 9,183, following the temporary suspension of new applications in September 2025.\n\nPartner grants rose 4% to 40,759.\n\nThese",
+      "text_excerpt": "55,687 family entry-clearance visas were granted in the year ending September 2026, down 17% on the previous year.\n\nRefugee Family Reunion grants fell 55% to 9,183, following the temporary suspension of new applications in September 2025.\n\nPartner grants rose 4% to 40,759.\n\nThese",
+      "url": "https://x.com/UKDecline/status/2125942363000275203",
+      "source_url": "https://x.com/UKDecline/status/2125942363000275203",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "Refugee Family Reunion grants fell"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Refugee"
+      ],
+      "high_value_matches": [
+        "Refugee Family Reunion grants fell"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1513,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682478959102775",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T11:22:02Z",
+      "first_detected_at": "2026-11-26T13:19:05Z",
+      "last_detected_at": "2026-11-26T13:19:05Z",
+      "detection_count": 1,
+      "text": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "text_excerpt": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "source_url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "court ruling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 52.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1514,
+      "source": "X",
+      "source_post_id": "2125942363000275203",
+      "author": "UKDecline",
+      "language": "en",
+      "published_at": "2026-11-26T13:18:52Z",
+      "first_detected_at": "2026-11-26T13:19:37Z",
+      "last_detected_at": "2026-11-26T13:19:37Z",
+      "detection_count": 1,
+      "text": "55,687 family entry-clearance visas were granted in the year ending September 2026, down 17% on the previous year.\n\nRefugee Family Reunion grants fell 55% to 9,183, following the temporary suspension of new applications in September 2025.\n\nPartner grants rose 4% to 40,759.\n\nThese",
+      "text_excerpt": "55,687 family entry-clearance visas were granted in the year ending September 2026, down 17% on the previous year.\n\nRefugee Family Reunion grants fell 55% to 9,183, following the temporary suspension of new applications in September 2025.\n\nPartner grants rose 4% to 40,759.\n\nThese",
+      "url": "https://x.com/UKDecline/status/2125942363000275203",
+      "source_url": "https://x.com/UKDecline/status/2125942363000275203",
+      "primary_signal": "PRESSURE_EARLY_WARNING",
+      "signal_type": "PRESSURE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "PRESSURE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "PRESSURE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "pressure",
+          "Refugee Family Reunion grants fell"
+        ]
+      ],
+      "matched_groups": [
+        "PRESSURE"
+      ],
+      "context_matches": [
+        "Refugee"
+      ],
+      "high_value_matches": [
+        "Refugee Family Reunion grants fell"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1513,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682478959102775",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T11:22:02Z",
+      "first_detected_at": "2026-11-26T13:19:05Z",
+      "last_detected_at": "2026-11-26T13:19:05Z",
+      "detection_count": 1,
+      "text": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "text_excerpt": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "source_url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "court ruling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 52.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1513,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682478959102775",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T11:22:02Z",
+      "first_detected_at": "2026-11-26T13:19:05Z",
+      "last_detected_at": "2026-11-26T13:19:05Z",
+      "detection_count": 1,
+      "text": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "text_excerpt": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "source_url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "court ruling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 52.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1513,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682478959102775",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T11:22:02Z",
+      "first_detected_at": "2026-11-26T13:19:05Z",
+      "last_detected_at": "2026-11-26T13:19:05Z",
+      "detection_count": 1,
+      "text": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "text_excerpt": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "source_url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "court ruling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 52.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117682478959102775"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://mastodon.social/@thejapantimes/117682478959102775"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1513,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682478959102775",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T11:22:02Z",
+      "first_detected_at": "2026-11-26T13:19:05Z",
+      "last_detected_at": "2026-11-26T13:19:05Z",
+      "detection_count": 1,
+      "text": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "text_excerpt": "Myanmar leader Min Aung Hlaing said his government wouldn't comply with \"inappropriate\" aspects of an international court ruling that the state committed genocide against its Rohingya minority, state media said Thursday. https://www. japantimes.co.jp/news/2026/11/ 26/asia-pacific/politics/myanmar-comply-genocide-ruling/?utm_medium=Social&utm_source=mastodon # asiapacific # politics # icj # myanmar # southeastasia # minaunghlaing # genocide # rohingya # refugees",
+      "url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "source_url": "https://mastodon.social/@thejapantimes/117682478959102775",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "court ruling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "ASIA_PACIFIC",
+      "primary_region": "ASIA_PACIFIC",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 52.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117682478959102775"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://mastodon.social/@thejapantimes/117682478959102775"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
     }
   ]
 }
