@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "reviews": {
+    "group:763": {
+      "hu_text": "Tudom, kényelmetlen erről beszélni, de Ausztráliában az történik, hogy azok a gyerekek, akik a 2000-es évek végén és 2010-es évek elején érkeztek menekültként, most érik el a harckorú kort, ami a legnagyobb agresszióval jár. Ez áll a machetés támadások és az ehhez hasonló erőszak mögött.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egyéni véleményen alapul és nincs megerősített bizonyíték arra, hogy a menekült gyerekek harckorúvá válása okozná az erőszakot. Ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:07.068190+00:00"
+    },
+    "information:29036": {
+      "hu_text": "Miért törhetik fel a francia rendőrök jogszerűen a kis migráns csónakokat, amelyek tele vannak migránsokkal, miközben Danny Tommo számára illegális egy csónakot felhasítani, amelyben nincs illegális migráns? Ez igaz. A BBC jelentése szerint: \"Nézze meg: a francia rendőrök a tengerbe mennek, hogy felvágják a migráns 'taxi-csónakot'.\"",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A BBC jelentése alapján a francia rendőrök valóban beavatkoztak migráns csónakok ellen, de a jogi részletek további ellenőrzést igényelnek. Ezért részben ellenőrzöttnek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:07.068210+00:00"
+    },
+    "information:29044": {
+      "hu_text": "Spanyolország új, súlyos rekordot állított fel: egy nap alatt 2 122 illegális csónakos migráns érkezett a Kanári-szigetekre. 15 csónak, 2 122 illegális érkező egy nap alatt. A Kanári-szigetek túlterheltek, miközben a politikusok úgy tesznek, mintha ez fenntartható lenne.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás konkrét számokat közöl, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:07.068215+00:00"
+    },
+    "information:29048": {
+      "hu_text": "A megtalált migráns csónakokat rendszeresen átadják a Határőrségnek és a rendőrségnek bűnügyi bizonyítékként az embercsempészeti nyomozásokhoz, mielőtt megsemmisítik őket. Mivel a csónakot aktívan kezelik, nem állíthatja valaki, hogy azt hitte, a nyilvánosság egy tagja beleegyezett a rongálásba.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás eljárási gyakorlatot ír le, de nincs hivatalos megerősítés vagy dokumentáció, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:07.068218+00:00"
+    },
+    "information:29050": {
+      "hu_text": "A demokraták nem törődnek az emberekkel... Ezért támogatják a nyitott határokat és a tömeges migrációt... Kábítószer-csempészetet... Több százezer erőszakos gyilkos és erőszaktevőt engednek vissza az utcára... Nem érdekli őket, hogy néz ki az országunk... Anarchia van.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és általánosítás, amely nem tartalmaz konkrét tényeket vagy bizonyítható állításokat, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:07.068221+00:00"
+    },
+    "information:29051": {
+      "hu_text": "Ártatlan migránsokat, köztük gyerekeket helyeznek fogvatartási központokba, majd kitoloncolják őket. Egyeseket olyan országba deportálnak, amelyről semmit sem tudnak. Ez emberkereskedésnek hangzik?",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás súlyos vádakat fogalmaz meg, de nincs megerősített bizonyíték vagy hivatalos jelentés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:07.068244+00:00"
+    }
+  }
+}
