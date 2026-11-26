@@ -166,6 +166,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T13:21:36.702873+00:00"
+    },
+    "information:29102": {
+      "hu_text": "Elfogatóparancs egy német csónakkereskedő ellen, aki kis csónakos migránscsempészeket lát el.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy elfogatóparancsról szól, de nincs további bizonyíték vagy hivatalos forrás megjelölve, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:49.699138+00:00"
+    },
+    "information:29109": {
+      "hu_text": "Ha igaz, hogy a Vöröskereszt migránsonként fizetést kap, akkor ez hogyan nem minősül emberkereskedelemnek?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy kérdés, amely nem tartalmaz konkrét tényállítást vagy bizonyítékot, így nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:49.699156+00:00"
+    },
+    "information:29111": {
+      "hu_text": "A nettó migráció az érkezések és távozások különbsége. 2026 júniusáig az összes nettó migráció 77 ezer volt (a legalacsonyabb nem járványos időszak óta 1997 óta): brit állampolgárok -137 ezer, EU+ -45 ezer, nem EU +258 ezer. A nem EU-s migráció továbbra is az egyetlen pozitív tényező, de jelentősen csökkent a kevesebb munkavállalói, tanulmányi és menekültvízum miatt; a brit és EU-s számok továbbra is negatívak.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Statisztikai adatokat tartalmaz, de nincs forrás vagy hivatalos adat megjelölve, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:49.699160+00:00"
+    },
+    "record:2125927402366787871": {
+      "hu_text": "Miniszter úr, jól csinálja. Azonban ma 92 illegális migráns szállt partra Krétán, és a líbiai embercsempészeti útvonal továbbra is zavartalanul működik. Hányan kapnak menedékjogot és hányan lesznek kitoloncolva? 2026-ban eddig több mint 40 000 illegális lépett be Görögországba az ENSZ Menekültügyi Főbiztosságának adatai szerint.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Konkrét számadatokat és ENSZ adatait említi, de nincs közvetlen bizonyíték vagy hivatalos megerősítés, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:49.699164+00:00"
+    },
+    "record:2125940337185042600": {
+      "hu_text": "Az elmenők főként brit állampolgárok. Minden illegális migránst el kell távolítani, nem szabad nekik szállást, ételt, ruhát, fűtést vagy ingyenes utazást biztosítani.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény, nem tényállítás, ezért nem ellenőrzött.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:49.699167+00:00"
+    },
+    "record:2125942363000275203": {
+      "hu_text": "2026 szeptemberéig az egy év alatt 55 687 családi belépési vízumot adtak ki, ami 17%-os csökkenés az előző évhez képest. A menekült családegyesítési engedélyek száma 55%-kal csökkent 9 183-ra, miután 2025 szeptemberében ideiglenesen felfüggesztették az új kérelmeket. A partneri engedélyek száma 4%-kal nőtt 40 759-re.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Konkrét statisztikai adatokat tartalmaz, de nincs megjelölve hivatalos forrás vagy dokumentum, ezért nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:49.699170+00:00"
     }
   },
   "legacy_reviews": {}
