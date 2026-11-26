@@ -89,6 +89,50 @@
       "text": "@thanosplevris Well done Minister . However ,92 illegal migrants landed on Crete today and the trafficking flow from Libya continues unabated.\nHow many will receive asylum and how many will be deported ? \nMore than 40,000 illegals entered Greece in 2026 so far .  Data from UNHCR .\nWay to go",
       "url": "https://x.com/mariathena/status/2125927402366787871",
       "source_url": "https://x.com/mariathena/status/2125927402366787871"
+    },
+    {
+      "id": 977,
+      "event_id": 977,
+      "source": "X",
+      "source_post_id": "2126080937301848444",
+      "author": "ChrisDelaney86",
+      "published_at": "2026-11-26T22:29:30Z",
+      "collected_at": "2026-11-26T22:42:10Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "@SkyNews @robpowellnews Can you show how many English people have left and how many third world migrants have arrived",
+      "url": "https://x.com/ChrisDelaney86/status/2126080937301848444",
+      "source_url": "https://x.com/ChrisDelaney86/status/2126080937301848444"
+    },
+    {
+      "id": 978,
+      "event_id": 978,
+      "source": "X",
+      "source_post_id": "2126079169243099146",
+      "author": "StevenScrase",
+      "published_at": "2026-11-26T22:22:29Z",
+      "collected_at": "2026-11-26T22:42:11Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 30.0,
+      "text": "\"We have brought net migration to 77,000.\" Pure spin from Home Secretary Shabana Mahmood. First, 738,000 people still moved into Britain in the year to June, including 550,000 non-EU nationals, while nearly 24,000 illegal migrants crossed the Channel in small boats. Next, 245,000 https://t.co/cnp3AhFIX5",
+      "url": "https://x.com/StevenScrase/status/2126079169243099146",
+      "source_url": "https://x.com/StevenScrase/status/2126079169243099146"
     }
   ],
   "event_groups": [
@@ -178,6 +222,64 @@
       "average_confidence": 0.75,
       "created_at": "2026-11-26T13:20:38Z",
       "updated_at": "2026-11-26T13:20:38Z"
+    },
+    {
+      "id": 766,
+      "group_id": 766,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@SkyNews @robpowellnews Can you show how many English people have left and how many third world migrants have arrived",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-26T22:29:30Z",
+      "last_seen": "2026-11-26T22:29:30Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-26T22:42:10Z",
+      "updated_at": "2026-11-26T22:42:10Z"
+    },
+    {
+      "id": 767,
+      "group_id": 767,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "\"We have brought net migration to 77,000.\" Pure spin from Home Secretary Shabana Mahmood. First, 738,000 people still moved into Britain in the year to June, including 550,000 non-EU nationals, while nearly 24,000 illegal migrants crossed the Channel in small boats. Next, 245,000 https://t.co/cnp3AhFIX5",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-26T22:22:29Z",
+      "last_seen": "2026-11-26T22:22:29Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-26T22:42:11Z",
+      "updated_at": "2026-11-26T22:42:11Z"
     }
   ],
   "information_signals": [
@@ -630,9 +732,198 @@
       "first_collected_at": "2026-11-26T13:19:38Z",
       "last_collected_at": "2026-11-26T13:19:38Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29151",
+      "timestamp": "2026-11-26T22:32:55Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126081796274073908",
+      "author": "easygoing48",
+      "url": "https://x.com/easygoing48/status/2126081796274073908",
+      "source_url": "https://x.com/easygoing48/status/2126081796274073908",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "channel",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "What does Reform UK’s @Nigel_Farage and Restore Britain’s @RupertLowe10 have to say about a White German man who is alleged to be behind migrants crossing the English Channel on boats from France.",
+      "text_excerpt": "What does Reform UK’s @Nigel_Farage and Restore Britain’s @RupertLowe10 have to say about a White German man who is alleged to be behind migrants crossing the English Channel on boats from France.",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T22:40:52Z",
+      "last_collected_at": "2026-11-26T22:40:52Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29170",
+      "timestamp": "2026-11-26T22:22:57Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126079289036603898",
+      "author": "arrivalnotesuk",
+      "url": "https://x.com/arrivalnotesuk/status/2126079289036603898",
+      "source_url": "https://x.com/arrivalnotesuk/status/2126079289036603898",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "crossing",
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "🚨JUST ARRIVED: Two men have been charged over an alleged break-in at Prince William and Kate’s Norfolk country home, Anmer Hall, while the royals were away. Reports say one suspect is an illegal migrant linked to multiple small-boat crossings. Both remain in custody as a https://t.co/YOlC2dkVzb",
+      "text_excerpt": "🚨JUST ARRIVED: Two men have been charged over an alleged break-in at Prince William and Kate’s Norfolk country home, Anmer Hall, while the royals were away. Reports say one suspect is an illegal migrant linked to multiple small-boat crossings. Both remain in custody as a https://t.co/YOlC2dkVzb",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T22:41:17Z",
+      "last_collected_at": "2026-11-26T22:41:17Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29172",
+      "timestamp": "2026-11-26T22:22:01Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126079052423557484",
+      "author": "arrivalnotesuk",
+      "url": "https://x.com/arrivalnotesuk/status/2126079052423557484",
+      "source_url": "https://x.com/arrivalnotesuk/status/2126079052423557484",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "crossing",
+        "boat"
+      ],
+      "freshness_cues": [],
+      "text": "Two men have been charged over an alleged break-in at Prince William and Kate’s Norfolk country home, Anmer Hall, while the royals were away. Reports say one suspect is an illegal migrant linked to multiple small-boat crossings. Both remain in custody as a security review is https://t.co/D4uN2FAT1h",
+      "text_excerpt": "Two men have been charged over an alleged break-in at Prince William and Kate’s Norfolk country home, Anmer Hall, while the royals were away. Reports say one suspect is an illegal migrant linked to multiple small-boat crossings. Both remain in custody as a security review is https://t.co/D4uN2FAT1h",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T22:41:17Z",
+      "last_collected_at": "2026-11-26T22:41:17Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29182",
+      "timestamp": "2026-11-26T22:12:39Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126076696575066120",
+      "author": "goddessblush809",
+      "url": "https://x.com/goddessblush809/status/2126076696575066120",
+      "source_url": "https://x.com/goddessblush809/status/2126076696575066120",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "channel",
+        "dinghy",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "@RupertLowe10 PD; Rupert Lowe gives his opinion on the current unacceptable state of Britain, among which is the jailing on Danny Thomas (‘Tommo’) of Patriot Platform for 15 months, whose only ‘crime’ was to slash an unoccupied migrant-smuggler dinghy being towed in the English Channel",
+      "text_excerpt": "@RupertLowe10 PD; Rupert Lowe gives his opinion on the current unacceptable state of Britain, among which is the jailing on Danny Thomas (‘Tommo’) of Patriot Platform for 15 months, whose only ‘crime’ was to slash an unoccupied migrant-smuggler dinghy being towed in the English Channel",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T22:41:44Z",
+      "last_collected_at": "2026-11-26T22:41:44Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29186",
+      "timestamp": "2026-11-26T13:53:45Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117683075504192433",
+      "author": null,
+      "url": "https://mamot.fr/@vietnam_aujourdhui/117683075504192433",
+      "source_url": "https://mamot.fr/@vietnam_aujourdhui/117683075504192433",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "detention",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "Australian traveller detained at Vietnam border after weapons and ammunition allegedly found in luggage https:// vietnam-aujourdhui.info/2026/1 1/26/australian-traveller-detained-at-vietnam-border-after-weapons-and-ammunition-allegedly-found-in-luggage/ # Police # Trafficking # Vietnam",
+      "text_excerpt": "Australian traveller detained at Vietnam border after weapons and ammunition allegedly found in luggage https:// vietnam-aujourdhui.info/2026/1 1/26/australian-traveller-detained-at-vietnam-border-after-weapons-and-ammunition-allegedly-found-in-luggage/ # Police # Trafficking # Vietnam",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-26T22:41:44Z",
+      "last_collected_at": "2026-11-26T22:41:44Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-26T13:21:17.506242+00:00",
+  "last_archived_at": "2026-11-26T22:42:17.491568+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -823,6 +1114,173 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1517,
+      "source": "X",
+      "source_post_id": "2126079395924222215",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-26T22:23:23Z",
+      "first_detected_at": "2026-11-26T22:41:44Z",
+      "last_detected_at": "2026-11-26T22:41:44Z",
+      "detection_count": 1,
+      "text": "@Facts_R_Good @ChappaquidTeddy @Stumpjumper88 @Like_always3 @_Patriot1776Q_ Yes, the email shows the USAID director flagging specific Facebook groups organizing the next immigrant caravan as sources of misinformation that encourage human smuggling and trafficking, then asking Facebook about its policies on them. That is an effort directed at the caravan",
+      "text_excerpt": "@Facts_R_Good @ChappaquidTeddy @Stumpjumper88 @Like_always3 @_Patriot1776Q_ Yes, the email shows the USAID director flagging specific Facebook groups organizing the next immigrant caravan as sources of misinformation that encourage human smuggling and trafficking, then asking Facebook about its policies on them. That is an effort directed at the caravan",
+      "url": "https://x.com/grok/status/2126079395924222215",
+      "source_url": "https://x.com/grok/status/2126079395924222215",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 13.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "smuggling_ecosystem",
+          "human smuggling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "human smuggling"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1515,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682950050695334",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T13:21:51Z",
+      "first_detected_at": "2026-11-26T22:40:27Z",
+      "last_detected_at": "2026-11-26T22:40:27Z",
+      "detection_count": 1,
+      "text": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than that. The energy gathered around this cause is powerful and precious, and shouldn't be wasted. That's why we have decided that this weekend is not the moment for this action, rather than adapting the plan. We massively appreciate the support, trust, and courage from those of you who did sign up. We are so grateful to you for registering, and your commitment to make this action happen. We are really sorry for giving you this information so late. We know that you prepared yourself and that a change in plans can cause a lot of stress. We are also aware that signing up to participate in a mass action is a great act of trust. It involves giving up some autonomy and knowledge in order to achieve something of greater mass and impact. Organisers like us therefore have an important responsibility to make sure participants feel like they have the information and tools they need, and as much agency as possible. We are saying this also because our campaign does not end here. We will be in touch as soon as possible with more information about the next steps. This isn't a decision taken lightly - we make this choice with the strong belief that there is a huge amount of energy, rage and solidarity behind this cause. We will be in touch soon. See you soon, UNTIL\" # Belgium # MassAction # MigrantRights # refugees # refugeesWelcome # FortressEurope # Europe # UNTILeveryoneIsFree",
+      "text_excerpt": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than t",
+      "url": "https://todon.nl/@AFA/117682950050695334",
+      "source_url": "https://todon.nl/@AFA/117682950050695334",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organisers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration",
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1516,
+      "source": "X",
+      "source_post_id": "2126077289582457152",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-26T22:15:01Z",
+      "first_detected_at": "2026-11-26T22:40:52Z",
+      "last_detected_at": "2026-11-26T22:40:52Z",
+      "detection_count": 1,
+      "text": "@ZillsMichael @GSoothsayer17 @vlatdd No national tally exists of COVID cases among immigrants who entered the US during the pandemic. Spot testing of border arrivals and refugees showed positivity rates of roughly 2-18% in various reports, often similar to or below local community levels. \n\nOriginal-strain R0 was",
+      "text_excerpt": "@ZillsMichael @GSoothsayer17 @vlatdd No national tally exists of COVID cases among immigrants who entered the US during the pandemic. Spot testing of border arrivals and refugees showed positivity rates of roughly 2-18% in various reports, often similar to or below local community levels. \n\nOriginal-strain R0 was",
+      "url": "https://x.com/grok/status/2126077289582457152",
+      "source_url": "https://x.com/grok/status/2126077289582457152",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "entered the US during the pandemic. Spot testing of border arrivals and refugees"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "refugees",
+        "immigrants"
+      ],
+      "high_value_matches": [
+        "entered the US during the pandemic. Spot testing of border arrivals and refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -933,6 +1391,173 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 21.7,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1517,
+      "source": "X",
+      "source_post_id": "2126079395924222215",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-26T22:23:23Z",
+      "first_detected_at": "2026-11-26T22:41:44Z",
+      "last_detected_at": "2026-11-26T22:41:44Z",
+      "detection_count": 1,
+      "text": "@Facts_R_Good @ChappaquidTeddy @Stumpjumper88 @Like_always3 @_Patriot1776Q_ Yes, the email shows the USAID director flagging specific Facebook groups organizing the next immigrant caravan as sources of misinformation that encourage human smuggling and trafficking, then asking Facebook about its policies on them. That is an effort directed at the caravan",
+      "text_excerpt": "@Facts_R_Good @ChappaquidTeddy @Stumpjumper88 @Like_always3 @_Patriot1776Q_ Yes, the email shows the USAID director flagging specific Facebook groups organizing the next immigrant caravan as sources of misinformation that encourage human smuggling and trafficking, then asking Facebook about its policies on them. That is an effort directed at the caravan",
+      "url": "https://x.com/grok/status/2126079395924222215",
+      "source_url": "https://x.com/grok/status/2126079395924222215",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 13.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "smuggling_ecosystem",
+          "human smuggling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "human smuggling"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1515,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682950050695334",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T13:21:51Z",
+      "first_detected_at": "2026-11-26T22:40:27Z",
+      "last_detected_at": "2026-11-26T22:40:27Z",
+      "detection_count": 1,
+      "text": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than that. The energy gathered around this cause is powerful and precious, and shouldn't be wasted. That's why we have decided that this weekend is not the moment for this action, rather than adapting the plan. We massively appreciate the support, trust, and courage from those of you who did sign up. We are so grateful to you for registering, and your commitment to make this action happen. We are really sorry for giving you this information so late. We know that you prepared yourself and that a change in plans can cause a lot of stress. We are also aware that signing up to participate in a mass action is a great act of trust. It involves giving up some autonomy and knowledge in order to achieve something of greater mass and impact. Organisers like us therefore have an important responsibility to make sure participants feel like they have the information and tools they need, and as much agency as possible. We are saying this also because our campaign does not end here. We will be in touch as soon as possible with more information about the next steps. This isn't a decision taken lightly - we make this choice with the strong belief that there is a huge amount of energy, rage and solidarity behind this cause. We will be in touch soon. See you soon, UNTIL\" # Belgium # MassAction # MigrantRights # refugees # refugeesWelcome # FortressEurope # Europe # UNTILeveryoneIsFree",
+      "text_excerpt": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than t",
+      "url": "https://todon.nl/@AFA/117682950050695334",
+      "source_url": "https://todon.nl/@AFA/117682950050695334",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organisers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration",
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
+    },
+    {
+      "id": 1516,
+      "source": "X",
+      "source_post_id": "2126077289582457152",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-26T22:15:01Z",
+      "first_detected_at": "2026-11-26T22:40:52Z",
+      "last_detected_at": "2026-11-26T22:40:52Z",
+      "detection_count": 1,
+      "text": "@ZillsMichael @GSoothsayer17 @vlatdd No national tally exists of COVID cases among immigrants who entered the US during the pandemic. Spot testing of border arrivals and refugees showed positivity rates of roughly 2-18% in various reports, often similar to or below local community levels. \n\nOriginal-strain R0 was",
+      "text_excerpt": "@ZillsMichael @GSoothsayer17 @vlatdd No national tally exists of COVID cases among immigrants who entered the US during the pandemic. Spot testing of border arrivals and refugees showed positivity rates of roughly 2-18% in various reports, often similar to or below local community levels. \n\nOriginal-strain R0 was",
+      "url": "https://x.com/grok/status/2126077289582457152",
+      "source_url": "https://x.com/grok/status/2126077289582457152",
+      "primary_signal": "MOVEMENT_EARLY_WARNING",
+      "signal_type": "MOVEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "MOVEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.9,
+      "score": 10.25,
+      "matched_signals": [
+        "MOVEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "movement",
+          "entered the US during the pandemic. Spot testing of border arrivals and refugees"
+        ],
+        [
+          "route",
+          "border"
+        ]
+      ],
+      "matched_groups": [
+        "MOVEMENT",
+        "ROUTE"
+      ],
+      "context_matches": [
+        "refugees",
+        "immigrants"
+      ],
+      "high_value_matches": [
+        "entered the US during the pandemic. Spot testing of border arrivals and refugees"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 31.5,
+      "analyst_priority": "LOW"
     }
   ],
   "crossing_access_signals": [
@@ -987,6 +1612,59 @@
       "rules_version": "2.6",
       "priority_score": 52.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1515,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682950050695334",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T13:21:51Z",
+      "first_detected_at": "2026-11-26T22:40:27Z",
+      "last_detected_at": "2026-11-26T22:40:27Z",
+      "detection_count": 1,
+      "text": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than that. The energy gathered around this cause is powerful and precious, and shouldn't be wasted. That's why we have decided that this weekend is not the moment for this action, rather than adapting the plan. We massively appreciate the support, trust, and courage from those of you who did sign up. We are so grateful to you for registering, and your commitment to make this action happen. We are really sorry for giving you this information so late. We know that you prepared yourself and that a change in plans can cause a lot of stress. We are also aware that signing up to participate in a mass action is a great act of trust. It involves giving up some autonomy and knowledge in order to achieve something of greater mass and impact. Organisers like us therefore have an important responsibility to make sure participants feel like they have the information and tools they need, and as much agency as possible. We are saying this also because our campaign does not end here. We will be in touch as soon as possible with more information about the next steps. This isn't a decision taken lightly - we make this choice with the strong belief that there is a huge amount of energy, rage and solidarity behind this cause. We will be in touch soon. See you soon, UNTIL\" # Belgium # MassAction # MigrantRights # refugees # refugeesWelcome # FortressEurope # Europe # UNTILeveryoneIsFree",
+      "text_excerpt": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than t",
+      "url": "https://todon.nl/@AFA/117682950050695334",
+      "source_url": "https://todon.nl/@AFA/117682950050695334",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organisers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration",
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
     }
   ],
   "access_signals": [
@@ -1041,6 +1719,59 @@
       "rules_version": "2.6",
       "priority_score": 52.9,
       "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1515,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682950050695334",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T13:21:51Z",
+      "first_detected_at": "2026-11-26T22:40:27Z",
+      "last_detected_at": "2026-11-26T22:40:27Z",
+      "detection_count": 1,
+      "text": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than that. The energy gathered around this cause is powerful and precious, and shouldn't be wasted. That's why we have decided that this weekend is not the moment for this action, rather than adapting the plan. We massively appreciate the support, trust, and courage from those of you who did sign up. We are so grateful to you for registering, and your commitment to make this action happen. We are really sorry for giving you this information so late. We know that you prepared yourself and that a change in plans can cause a lot of stress. We are also aware that signing up to participate in a mass action is a great act of trust. It involves giving up some autonomy and knowledge in order to achieve something of greater mass and impact. Organisers like us therefore have an important responsibility to make sure participants feel like they have the information and tools they need, and as much agency as possible. We are saying this also because our campaign does not end here. We will be in touch as soon as possible with more information about the next steps. This isn't a decision taken lightly - we make this choice with the strong belief that there is a huge amount of energy, rage and solidarity behind this cause. We will be in touch soon. See you soon, UNTIL\" # Belgium # MassAction # MigrantRights # refugees # refugeesWelcome # FortressEurope # Europe # UNTILeveryoneIsFree",
+      "text_excerpt": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than t",
+      "url": "https://todon.nl/@AFA/117682950050695334",
+      "source_url": "https://todon.nl/@AFA/117682950050695334",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organisers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration",
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH"
     }
   ],
   "top_crossing_access_posts": [
@@ -1102,6 +1833,72 @@
       "related_authors": [],
       "related_urls": [
         "https://mastodon.social/@thejapantimes/117682478959102775"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
+    },
+    {
+      "id": 1515,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682950050695334",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T13:21:51Z",
+      "first_detected_at": "2026-11-26T22:40:27Z",
+      "last_detected_at": "2026-11-26T22:40:27Z",
+      "detection_count": 1,
+      "text": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than that. The energy gathered around this cause is powerful and precious, and shouldn't be wasted. That's why we have decided that this weekend is not the moment for this action, rather than adapting the plan. We massively appreciate the support, trust, and courage from those of you who did sign up. We are so grateful to you for registering, and your commitment to make this action happen. We are really sorry for giving you this information so late. We know that you prepared yourself and that a change in plans can cause a lot of stress. We are also aware that signing up to participate in a mass action is a great act of trust. It involves giving up some autonomy and knowledge in order to achieve something of greater mass and impact. Organisers like us therefore have an important responsibility to make sure participants feel like they have the information and tools they need, and as much agency as possible. We are saying this also because our campaign does not end here. We will be in touch as soon as possible with more information about the next steps. This isn't a decision taken lightly - we make this choice with the strong belief that there is a huge amount of energy, rage and solidarity behind this cause. We will be in touch soon. See you soon, UNTIL\" # Belgium # MassAction # MigrantRights # refugees # refugeesWelcome # FortressEurope # Europe # UNTILeveryoneIsFree",
+      "text_excerpt": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than t",
+      "url": "https://todon.nl/@AFA/117682950050695334",
+      "source_url": "https://todon.nl/@AFA/117682950050695334",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organisers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration",
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117682950050695334"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://todon.nl/@AFA/117682950050695334"
       ],
       "related_sources": [
         "MASTODON"
@@ -1174,6 +1971,139 @@
         "MASTODON"
       ],
       "independent_author_count": 0,
+      "platform_count": 1
+    },
+    {
+      "id": 1515,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117682950050695334",
+      "author": null,
+      "language": null,
+      "published_at": "2026-11-26T13:21:51Z",
+      "first_detected_at": "2026-11-26T22:40:27Z",
+      "last_detected_at": "2026-11-26T22:40:27Z",
+      "detection_count": 1,
+      "text": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than that. The energy gathered around this cause is powerful and precious, and shouldn't be wasted. That's why we have decided that this weekend is not the moment for this action, rather than adapting the plan. We massively appreciate the support, trust, and courage from those of you who did sign up. We are so grateful to you for registering, and your commitment to make this action happen. We are really sorry for giving you this information so late. We know that you prepared yourself and that a change in plans can cause a lot of stress. We are also aware that signing up to participate in a mass action is a great act of trust. It involves giving up some autonomy and knowledge in order to achieve something of greater mass and impact. Organisers like us therefore have an important responsibility to make sure participants feel like they have the information and tools they need, and as much agency as possible. We are saying this also because our campaign does not end here. We will be in touch as soon as possible with more information about the next steps. This isn't a decision taken lightly - we make this choice with the strong belief that there is a huge amount of energy, rage and solidarity behind this cause. We will be in touch soon. See you soon, UNTIL\" # Belgium # MassAction # MigrantRights # refugees # refugeesWelcome # FortressEurope # Europe # UNTILeveryoneIsFree",
+      "text_excerpt": "😢 (from UNTIL) \"Dear comrade, This weekend, we planned to come together to present a united front against the European Migration Pact, its infrastructure, and the horrors of the violent racial capitalist system it represents. We made a clear calculation of the necessary number of registrations to carry out this action. A massive amount of support has been expressed, but the minimum number of registrations necessary to carry out the action successfully without an inadvisable level of risk, was not met. However, we do not want to compromise on our plan: we do not want to promise an attack on the infrastructure of Fortress Europe and all that it stands for, and then deliver anything less than t",
+      "url": "https://todon.nl/@AFA/117682950050695334",
+      "source_url": "https://todon.nl/@AFA/117682950050695334",
+      "primary_signal": "MOBILIZATION_COORDINATION",
+      "signal_type": "MOBILIZATION_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "MOBILIZATION_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 16.0,
+      "matched_signals": [
+        "MOBILIZATION_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "mobilization",
+          "Organisers"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "Migration",
+        "refugees"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 62.9,
+      "analyst_priority": "HIGH",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "mastodon_117682950050695334"
+      ],
+      "related_authors": [],
+      "related_urls": [
+        "https://todon.nl/@AFA/117682950050695334"
+      ],
+      "related_sources": [
+        "MASTODON"
+      ],
+      "independent_author_count": 0,
+      "platform_count": 1
+    },
+    {
+      "id": 1517,
+      "source": "X",
+      "source_post_id": "2126079395924222215",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-26T22:23:23Z",
+      "first_detected_at": "2026-11-26T22:41:44Z",
+      "last_detected_at": "2026-11-26T22:41:44Z",
+      "detection_count": 1,
+      "text": "@Facts_R_Good @ChappaquidTeddy @Stumpjumper88 @Like_always3 @_Patriot1776Q_ Yes, the email shows the USAID director flagging specific Facebook groups organizing the next immigrant caravan as sources of misinformation that encourage human smuggling and trafficking, then asking Facebook about its policies on them. That is an effort directed at the caravan",
+      "text_excerpt": "@Facts_R_Good @ChappaquidTeddy @Stumpjumper88 @Like_always3 @_Patriot1776Q_ Yes, the email shows the USAID director flagging specific Facebook groups organizing the next immigrant caravan as sources of misinformation that encourage human smuggling and trafficking, then asking Facebook about its policies on them. That is an effort directed at the caravan",
+      "url": "https://x.com/grok/status/2126079395924222215",
+      "source_url": "https://x.com/grok/status/2126079395924222215",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.94,
+      "score": 13.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "smuggling_ecosystem",
+          "human smuggling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "human smuggling"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 56.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2126079395924222215"
+      ],
+      "related_authors": [
+        "grok"
+      ],
+      "related_urls": [
+        "https://x.com/grok/status/2126079395924222215"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
       "platform_count": 1
     }
   ]
