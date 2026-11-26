@@ -353,6 +353,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T22:42:42.257768+00:00"
+    },
+    "information:29186": {
+      "hu_text": "Egy ausztrál utazót őrizetbe vettek a vietnami határon, miután állítólag fegyvereket és lőszert találtak a csomagjában.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megerősített forrás vagy hivatalos bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:55.339528+00:00"
+    },
+    "record:2126077289582457152": {
+      "hu_text": "Nincs országos összesítés a pandémia alatt az Egyesült Államokba érkező bevándorlók COVID-eseteiről. A határra érkezők és menekültek mintavételes tesztelése különböző jelentések szerint 2-18%-os pozitivitási arányt mutatott, ami gyakran hasonló vagy alacsonyabb a helyi közösségi szinteknél.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás statisztikai adatokat tartalmaz, de nincs hivatalos forrás vagy részletes bizonyíték, így ellenőrizetlennek tekinthető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:55.339547+00:00"
+    },
+    "record:2126079169243099146": {
+      "hu_text": "A belügyminiszter, Shabana Mahmood állítása, hogy a nettó migráció 77 000-re csökkent, megtévesztő. Az elmúlt évben 738 000 ember költözött Nagy-Britanniába, köztük 550 000 nem EU-s állampolgár, és mintegy 24 000 illegális migráns érkezett kis csónakokkal a Csatornán át.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai állítás, amely ellentmondásokat tartalmaz, de nincs végleges bizonyíték a helyességére vagy hamisságára, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:55.339550+00:00"
+    },
+    "record:2126079395924222215": {
+      "hu_text": "Az USAID igazgatója egy e-mailben arra hívta fel a figyelmet, hogy bizonyos Facebook-csoportok félretájékoztatást terjesztenek, amelyek embercsempészetet és emberkereskedelmet ösztönöznek, és érdeklődött a Facebook ezen csoportokra vonatkozó szabályzatairól. Ez egy a bevándorlókaraván elleni fellépés része.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy belső kommunikációról szól, de nincs nyilvános bizonyíték vagy megerősítés, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:55.339552+00:00"
+    },
+    "record:2126080937301848444": {
+      "hu_text": "Kérdésként merül fel, hogy hány angol ember hagyta el az országot, és hány harmadik világbeli migráns érkezett.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, nem állítás, így nincs ellenőrizendő tartalom, de a migrációs diskurzus része.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:55.339555+00:00"
+    },
+    "record:mastodon_117682950050695334": {
+      "hu_text": "Egy csoport elhatározta, hogy a hétvégén nem hajtja végre az Európai Migrációs Paktum elleni akciót, mert nem érkezett elegendő regisztráció a sikeres és biztonságos megvalósításhoz. Köszönetet mondanak a támogatóknak, és hangsúlyozzák, hogy nem akarnak kompromisszumot kötni a tervükkel, mert az összegyűlt energia értékes és nem szabad elpazarolni.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg egy szervezett tiltakozó akció elhalasztásáról szól, amely migrációs témájú társadalmi diskurzus része, de nincs külső megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:42:55.339557+00:00"
     }
   },
   "legacy_reviews": {}
