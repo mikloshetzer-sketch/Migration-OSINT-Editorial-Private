@@ -232,6 +232,61 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T13:21:49.699170+00:00"
+    },
+    "record:mastodon_117682478959102775": {
+      "hu_text": "Myanmar vezetője, Min Aung Hlaing azt mondta, hogy kormánya nem fog eleget tenni az ENSZ Nemzetközi Bíróságának azon ítéletének \"nem megfelelő\" részeinek, amely szerint az állam népirtást követett el a rohingya kisebbség ellen.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos politikai és jogi állítás egy nemzetközi bírósági ítéletről, amely migrációs és emberi jogi vonatkozású. Az állítás nem ellenőrzött, mivel csak egy állami média híre alapján ismert.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:22:04.565161+00:00"
+    },
+    "telegram:1261826972:55075": {
+      "hu_text": "🚩 Videóval ▶ A Guardia Civil művelete a Príncipe negyedben az embercsempészet ellen\n\n➡️ Számos egység vonult ki Ceutába kora reggeltől, hogy legalább két házkutatást végezzenek három gyanúsított után kutatva\n\n➡️ Egyelőre két letartóztatás történt\n\n➡️ Az egyik házkutatás során kábítószert és pszichotróp tablettákat találtak\n\n📷 Képgaléria 📷 \n\nhttps://elfarodeceuta.es/actualidad/sucesos/operacion-guardia-civil-principe-trafico-inmigrantes/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az embercsempészet elleni rendőrségi művelet fontos határbiztonsági esemény, de az információ egyetlen forrásból származik, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:22:04.565179+00:00"
+    },
+    "telegram:1261826972:55081": {
+      "hu_text": "◼️ Az embercsempész házak üzlete: Guardia Civil művelet a Sarchal negyedben\n\n➡️ Az intézmény egy letartóztatást hajtott végre Ceutában, miután hajnalban behatoltak ebbe a városrészbe\n\nhttps://elfarodeceuta.es/actualidad/sucesos/negocio-casas-patera-operativo-guardia-civil-sarchal/",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos határbiztonsági és bűnügyi esemény az embercsempészet elleni fellépésről, de csak egy forrásból ismert, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:22:04.565182+00:00"
+    },
+    "telegram:1604168769:12755": {
+      "hu_text": "🇷🇺 Most van itt az idő, hogy pénzt küldj Oroszországból Üzbegisztánba! 🇺🇿\n\n💰 Küldd el pénzed a legjobb árfolyamon készpénzben az Unired segítségével!\n\nNe bonyolódj túl sokba a pénzküldéssel szeretteidnek. Az Unireddel egyszerű és kényelmes!\n\n📲 Töltsd le az Unired alkalmazást, ismerd meg az átutalási feltételeket és az aktuális árfolyamot.\n\n❤️ Könnyítsd meg szeretteidnek a pénzküldést az Unireddel!\n\nTöltsd le az alkalmazást: https://uniredaf.onelink.me/jGfL/migrant24",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Pénzküldési szolgáltatás reklámja migránsok számára, amely a migrációs támogatás kategóriába tartozik. Nem áll rendelkezésre független ellenőrzés.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:22:04.565186+00:00"
+    },
+    "telegram:2240007404:1219": {
+      "hu_text": "Raktári targoncavezető állás a „ВсеИнструменты” cégnél, Csasnyikovo, Moszkva környéke, 7000 rubel műszakonként.\n\nHa már dolgoztál targoncavezetőként és rendelkezel a szükséges engedéllyel, jelentkezz a csapatba. Két vezetőt keresnek.\n\n☑️ Fizetés: 7000 rubel műszakonként. Nappali műszak 06:00-18:00, éjszakai 17:00-05:00.\n☑️ Szállást és munkába járást biztosítanak.\n\n☎️ Jelentkezés Telegramon vagy MAX-on: +7(995)561-81-86, Alexandra.\n\nÍrd: „Targonca, Csasnyikovo” és jelezd, mely műszakok megfelelnek. Megbeszéljük a feltételeket és a kezdési időpontot.\n\n📲 Kövesd a Migranto.ru-t MAX-on.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés migránsoknak, amely a munkavállalási szándékot jelzi, de nem tartalmaz ellenőrizhető tényeket vagy eseményeket.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:22:04.565189+00:00"
     }
   },
   "legacy_reviews": {}
