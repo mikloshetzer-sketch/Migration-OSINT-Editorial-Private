@@ -100,6 +100,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T03:53:15.084824+00:00"
+    },
+    "group:764": {
+      "hu_text": "„@thanosplevris Ügyes, miniszter úr. Azonban ma 92 illegális migráns szállt partra Krétán, és a líbiai embercsempészeti útvonal továbbra is zavartalanul működik. Hányan kapnak menedékjogot, és hányan lesznek kitoloncolva? 2026-ban eddig több mint 40 000 illegális lépett be Görögországba. Az adatok az ENSZ Menekültügyi Főbiztosságától származnak. Csak így tovább.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítások konkrét számadatokat tartalmaznak, de nem ellenőrzött forrásból származnak, ezért az ellenőrzés szükséges. A téma a határbiztonságot érinti, ami kiemelten fontos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:36.702828+00:00"
+    },
+    "group:765": {
+      "hu_text": "„@andyburnham @UKLabour Az elmenők főként britek. Minden egyes illegális migránst el kell távolítani, nem szabad nekik szállást, ételt, ruhát, fűtést vagy ingyenes utazást biztosítani.”",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely nem tartalmaz ellenőrizhető tényeket, így nem igényel azonnali ellenőrzést.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:36.702848+00:00"
+    },
+    "information:29087": {
+      "hu_text": "„Előkerültek gumicsónakok, raklapokra helyezve, készen arra, hogy Európából a migrációs útvonalakra szállítsák őket. Ez nem csempészet, hanem logisztika. Valaki fizetett értük, előkészítette őket, és ismeri az útvonalat. Az EU migrációs alapjai, ENSZ ügynökségek és milliárdosok által támogatott civil szervezetek is felbukkannak a pénzmozgások nyomán.”",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos vádakat fogalmaz meg, de nincs megerősített bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:36.702852+00:00"
+    },
+    "information:29092": {
+      "hu_text": "„Egy svájci humanitárius csoport két nap alatt nyolc migránshajót észlelt az első légi felderítő repülései során az Atlanti-óceán halálos migrációs útvonalán, amely Spanyolország Kanári-szigetei felé vezet. Samira Hanska, a Humanitarian Pilots Initiative (HPI) tagja szerint az egység öt hajót látott.”",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A megfigyelés egy humanitárius szervezettől származik, de nincs további bizonyíték, ezért ellenőrzés javasolt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:36.702855+00:00"
+    },
+    "information:29095": {
+      "hu_text": "„Gázának van egy határa Egyiptommal, amely még erősebben megerősített, mint az izraeli határ Gázával. Egyiptom bármikor megnyithatná a határt a menekültek számára a konfliktus elől való meneküléshez, illetve segélyszállítmányokat küldhetne, de ezt nem tette meg.”",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás a határbiztonság és humanitárius helyzet kérdését érinti, de nincs megerősített bizonyíték, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:36.702871+00:00"
+    },
+    "information:29096": {
+      "hu_text": "„Fontos, hogy a Munkáspárt vállalja ezt a témát az Egyesült Királyságban érzett erős érzelmek miatt, és az elmúlt évben a csónakos átkelések hirtelen csökkenése közvetlenül a Munkáspárt idejére vezethető vissza. Ugyanakkor üdvözölnünk kell a valódi menekültügyi szükséglettel rendelkező embereket, akik jogszerű úton érkeznek.”",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai vélemény és értékelés, amely nem tartalmaz konkrét ellenőrizhető adatokat, de releváns a migrációs politika szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T13:21:36.702873+00:00"
     }
   },
   "legacy_reviews": {}
