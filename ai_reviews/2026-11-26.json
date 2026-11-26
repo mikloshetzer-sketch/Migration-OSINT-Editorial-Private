@@ -419,6 +419,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T22:42:55.339557+00:00"
+    },
+    "telegram:1261826972:55096": {
+      "hu_text": "◼️ Videóval ▶️ Így zajlott a Guardia Civil művelete a Ceutában található patera házak ellen\n\n➡ A fegyveres testület hivatalos videót tett közzé, amelyen két házba, egy Príncipe-ben és egy Sarchalban történt behatolás és átvizsgálás látható\n\n📷 Képgaléria 📷",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos videóra hivatkozik, de a tartalom ellenőrzése hiányzik, ezért csak részben ellenőrzöttnek tekinthető. A téma a határbiztonsághoz kapcsolódik, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:11.857925+00:00"
+    },
+    "telegram:1261826972:55099": {
+      "hu_text": "◼️ A rendőrség további 50 menekültet talált Ceuta különböző városrészeiben, akiknek elutasították a menedékjog iránti kérelmét\n\n➡ A műveletek csütörtökön zajlottak a város több területén, mint a Parque Argentina, Arcos Quebrados, Avenida España és a kikötő környéke",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét adatokat közöl a hatósági intézkedésekről, de nincs független megerősítés, ezért ellenőrzésre szorul. A határbiztonság témakörébe tartozik, közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:11.857943+00:00"
+    },
+    "telegram:1261826972:55103": {
+      "hu_text": "🚩 Videóval ▶️ Elhelyezték az első cölöpöt a Tarajal móló építésénél\n\n➡ Az Albamar cég Santa Cruz de Tenerife nevű hajója folytatja a részletesen megtervezett projekt munkálatait\n\n📷 Képgaléria 📷",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Az építési munkálatokra vonatkozó információk a határinfrastruktúra fejlesztéséhez kapcsolódnak, de nem tartalmaznak kritikus vagy vitatott adatokat, ezért alacsonyabb prioritásúak. Ellenőrzés javasolt a pontosítás érdekében.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:11.857947+00:00"
+    },
+    "telegram:1261826972:55104": {
+      "hu_text": "◼ Marokkó hírszerzési vezetője Marbella városában nyaralt a Belügyminisztérium védelmével, még az invázió előtt\n\n➡ Abdellatif Hammouchi a Guardia Civil és a rendőrség biztosította a védelmét, ahogy azt az ABC napilap is közölte",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai és biztonsági témájú állítás, amely egy sajtóhírre hivatkozik, de nincs független megerősítés. Ezért ellenőrzésre szorul, közepes prioritású a társadalmi diskurzus szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:11.857949+00:00"
+    },
+    "telegram:1261826972:55108": {
+      "hu_text": "◼ A Guardia Civil megerősíti a határőrizetet több mint kétmillió eurós beruházással\n\n➡ A projektet 75%-ban az Európai Unió finanszírozza, és lehetővé teszi hőkamera rendszerek, szívverés érzékelők és új eszközök beszerzését a szárazföldi határőrizeti képességek javítására 2026-2027 között",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés fontos információkat tartalmaz a határbiztonság fejlesztéséről és EU-s finanszírozásról, ami jelentős hatással lehet a migrációs helyzetre. Ezért magas prioritású és ellenőrzést igényel.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:11.857952+00:00"
+    },
+    "telegram:1261826972:55112": {
+      "hu_text": "◼ Videóval ▶️ Érzelmek és büszkeség a Menina Elismerés átadásán Rogelio Mateo Pitalúa részére\n\n➡ Elismerést kapott az UPAC-ban végzett munkájáért és az erőszak elleni küzdelemben való elkötelezettségéért\n\n➡ A Príncipe és Sidi Embarek városrészeket is elismerték a nők és lányok iránti szolidaritásukért az invázió után\n\n📷 Képgaléria 📷",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "A bejegyzés egy elismerő eseményről szól, amely társadalmi és emberi jogi vonatkozású, de nem tartalmaz vitatott vagy kritikus információkat. Alacsony prioritású, ellenőrzés javasolt a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T22:43:11.857954+00:00"
     }
   },
   "legacy_reviews": {}
