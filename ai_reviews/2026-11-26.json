@@ -67,6 +67,40 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-26T03:53:07.068244+00:00"
+    },
+    "record:2125794598064624007": {
+      "hu_text": "A Kanári-szigetekre egyetlen nap alatt rekord számú, több mint 2100 migráns érkezett, ami súlyosbítja a válságot.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét számadatokat tartalmaz egy migrációs eseményről, de nincs megerősített forrás vagy hivatalos adat, ezért ellenőrizetlennek minősül. A téma jelentősége miatt magas prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:15.084803+00:00"
+    },
+    "record:2125798786966642732": {
+      "hu_text": "Tudom, kényelmetlen erről beszélni, de Ausztráliában azok a gyerekek, akik a 2000-es évek végén és 2010-es évek elején érkeztek menekültként, most harckorba lépnek, ami a csúcsharcosság időszaka. Ez áll a machetés támadások és az ehhez hasonló erőszak hátterében.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy társadalmi jelenségre utal, de nem tartalmaz konkrét bizonyítékot vagy hivatalos adatot, így ellenőrizetlen. A téma társadalmi diskurzus része, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:15.084820+00:00"
+    },
+    "telegram:1261826972:55071": {
+      "hu_text": "Egy delfinkölyök halála is szerepel a Tardónhoz benyújtott környezeti károk között. A jelentés tartalmaz tengeri mentésekről és környezeti károkról szóló beszámolókat, köztük egy delfinkölyök halálát. A kikötői hatóság közölte María Tardón bíróval, hogy nem őriznek felvételeket a júliusi tömeges belépésről.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés környezeti és humanitárius témákat érint, de nem tartalmaz közvetlen bizonyítékot vagy hivatalos megerősítést, ezért ellenőrizetlen. A téma jelentős, de nem sürgős, így közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-26T03:53:15.084824+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
