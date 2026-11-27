@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "reviews": {
+    "group:775": {
+      "hu_text": "@FraserNelson 250 000 brit állampolgár hagyta el az Egyesült Királyságot.\n\n258 000 migráns érkezett.\n\nTöbb mint 500 000 migránsnak adtak ki határozatlan idejű tartózkodási engedélyt.\n\nA nettó adat lényegtelen – a bruttó szám a fontos.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások számszerű adatokat tartalmaznak migrációs mozgásokról és engedélyekről, de nincs megbízható forrás vagy bizonyíték a hitelességük alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:14.805736+00:00"
+    },
+    "information:29340": {
+      "hu_text": "Legalább nyolc embert holtan találtak egy migránshajón a spanyolországi Kanári-szigeteknél. A halálesetek száma rámutat az atlanti migrációs útvonal veszélyeire.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálesetek súlyos humanitárius eseményt jeleznek, de az információ forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:14.805755+00:00"
+    },
+    "information:29348": {
+      "hu_text": "@StefSpodeUK @TirChonaillAbu Világszerte minden olyan helyet, ahol megszálltak benneteket, illegális határátlépéssel érkező, dokumentumok nélküli migráns férfiak népesítettek be.\n\nOlvass el néhány könyvet, Stef, és ne legyél egész életedben tudatlan.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy politikai vélemény és általánosítás, amely nem tartalmaz konkrét tényeket vagy bizonyítható adatokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:14.805760+00:00"
+    },
+    "information:29371": {
+      "hu_text": "@MarinaPurkiss @JeremyVineOn5 A 92%-os szám impozánsnak hangzik, de legyünk őszinték.\n\nEz nettó migráció, nem bevándorlás. Ez az érkezések mínusz az elutazások. 738 000 ember érkezett az Egyesült Királyságba, miközben 661 000 elhagyta azt.\n\nÉs hol van a gazdasági haszon? Hol van a jobb NHS, a megfizethető...",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások migrációs statisztikákra utalnak, de nem tartalmaznak megbízható forrásokat vagy bizonyítékokat, így ellenőrzésre szorulnak.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:14.805763+00:00"
+    },
+    "record:2126453979316092961": {
+      "hu_text": "🇪🇸 Több mint 2100 illegális migráns érkezett Spanyolországba egyetlen nap alatt, miközben a Kanári-szigeteken új hullámot tapasztalnak.\n\nJelentések szerint tegnap 523 illegális migráns érkezett a Kanári-szigetekre hat hajón, miközben Spanyolországban egy nap alatt összesen 2122 érkezést regisztráltak.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az érkezési számok jelentős migrációs eseményt jeleznek, de az információ forrása nem ellenőrzött, ezért további megerősítés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:14.805766+00:00"
+    },
+    "record:2126458730703102005": {
+      "hu_text": "@FraserNelson 250 000 brit állampolgár hagyta el az Egyesült Királyságot.\n\n258 000 migráns érkezett.\n\nTöbb mint 500 000 migránsnak adtak ki határozatlan idejű tartózkodási engedélyt.\n\nA nettó adat lényegtelen – a bruttó szám a fontos.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítások számszerű adatokat tartalmaznak migrációs mozgásokról és engedélyekről, de nincs megbízható forrás vagy bizonyíték a hitelességük alátámasztására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:14.805768+00:00"
+    }
+  }
+}
