@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T05:42:43.687108+00:00"
+    },
+    "information:29236": {
+      "hu_text": "Az Egyesült Királyság börtönbe zárt egy bevándorlásellenes aktivistát, aki egy csempész gumicsónakot szúrt ki, miközben egy szíriai menedékkérőt, aki három nőt szexuálisan bántalmazott, nem ítéltek börtönre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai jellegű és nem bizonyított, forrásként egy közösségi média poszt szolgál, amely nem tartalmaz megerősített bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:53.681579+00:00"
+    },
+    "information:29241": {
+      "hu_text": "Az Egyesült Királyság börtönbe zárt egy bevándorlásellenes aktivistát, aki egy csempész gumicsónakot szúrt ki, miközben egy szíriai menedékkérőt, aki három nőt szexuálisan bántalmazott, nem ítéltek börtönre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai jellegű és nem bizonyított, forrásként egy közösségi média poszt szolgál, amely nem tartalmaz megerősített bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:53.681597+00:00"
+    },
+    "information:29244": {
+      "hu_text": "Az Egyesült Királyság börtönbe zárt egy bevándorlásellenes aktivistát, aki egy csempész gumicsónakot szúrt ki, miközben egy szíriai menedékkérőt, aki három nőt szexuálisan bántalmazott, nem ítéltek börtönre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai jellegű és nem bizonyított, forrásként egy közösségi média poszt szolgál, amely nem tartalmaz megerősített bizonyítékot.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:53.681601+00:00"
+    },
+    "record:2126168978506883253": {
+      "hu_text": "Egy 2022-es régi videóról van szó, amelyet hamis keretbe helyezve újrahasznosítottak. Az eredeti videó január 19-én jelent meg TikTokon, és arról szólt, hogy gyerekeket és felnőtteket találtak egy teherautóban egy veszélyes út után az Egyesült Királyságba – ami összhangban van a migránscsempészéssel, nem pedig más állítással.",
+      "content_category": "FACILITATION",
+      "verification_status": "PARTIALLY_VERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés pontosítást és kontextust ad egy korábbi videóval kapcsolatban, részben igazolt információkat tartalmaz.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:53.681605+00:00"
+    },
+    "record:2126178207514685639": {
+      "hu_text": "Az üzenet kritikusan utal arra, hogy az illegális migránsok „megmentése” és elszállásolása után katonákat küldenek külföldre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy vélemény vagy politikai állásfoglalás, amely nem tartalmaz konkrét tényeket vagy bizonyítékokat.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:53.681609+00:00"
+    },
+    "record:2126181899660148976": {
+      "hu_text": "Most már tudod, miért kínozza a bolgár határőrség a migránsokat, fosztja meg őket értékeiktől, vetkőzteti le őket és dobja őket a folyóba a török határon.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos állításokat tartalmaz a határőrség visszaéléseiről, amelyek fontosak a határbiztonság és emberi jogok szempontjából, de nincs megerősített bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:53.681613+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
