@@ -265,6 +265,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T15:47:55.069558+00:00"
+    },
+    "information:29283": {
+      "hu_text": "A DHS megerősítette, hogy egy dél-karolinai embercsempész hálózat hat gyanúsítottjából négy illegális kínai migráns. Ez az, amit egy nyitott határ eredményez.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás konkrét, de nincs közvetlen bizonyíték vagy hivatalos dokumentum a megerősítéshez, ezért ellenőrizetlen marad.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:11.581413+00:00"
+    },
+    "information:29284": {
+      "hu_text": "El Hierro szigetén migránsok várakoznak, hogy Spanyolország más részeire, köztük a Kanári-szigetekre szállítsák őket egy ideiglenes befogadó központban. Az elmúlt napokban több ezer ember érkezett a kis szigetre Nyugat-Afrikából, ami túlzsúfolttá tette a befogadó létesítményeket.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A leírás migrációs eseményt ismertet, de nincs független forrás vagy hivatalos adat a pontos számokról, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:11.581431+00:00"
+    },
+    "information:29285": {
+      "hu_text": "Egy válasz arról, hogy Egyiptom függetlenül ellenőrzi a Rafah határátkelőt a saját oldalán, és 2007 óta korlátozásokat vezetett be, miután a Hamasz átvette Gázát. Kairó saját biztonsági prioritásaira hivatkozik: fegyverek és harcosok bejutásának megakadályozása Színájba, valamint az iszlamista csoportok visszaszorítása.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A szöveg határbiztonsági intézkedésekről szól, de nincs hivatalos megerősítés vagy dokumentum, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:11.581436+00:00"
+    },
+    "information:29289": {
+      "hu_text": "Franciaország elfogatóparancsot adott ki egy német állampolgár ellen, akit gondatlan emberöléssel gyanúsítanak egy titkos migránsátkelésekkel kapcsolatos vizsgálatban Nagy-Britanniába.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás jogi intézkedésről szól, de nincs közvetlen bizonyíték vagy hivatalos közlemény, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:11.581440+00:00"
+    },
+    "information:29295": {
+      "hu_text": "Migráns hajótemető Tenerifén. Még mielőtt felszálltam volna az El Hierro kompra, találkoztam sorokba rendezett, cayuco nevű fából készült hajókkal a rakparton, amelyeket az Atlanti-óceán átszelésére használtak. Honnan indultak? Attól függ, honnan indultak, például Dakarból, Szenegálból.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A leírás migrációs eseményt és helyszínt ismertet, de nincs független forrás vagy hivatalos adat, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:11.581444+00:00"
+    },
+    "information:29299": {
+      "hu_text": "Francia elfogatóparancsot adott ki egy német férfi ellen, aki migránscsempész hajókat szállított.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás jogi intézkedésről szól, de nincs közvetlen bizonyíték vagy hivatalos közlemény, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:11.581448+00:00"
     }
   },
   "legacy_reviews": {}
