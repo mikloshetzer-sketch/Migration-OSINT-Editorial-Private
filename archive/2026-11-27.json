@@ -1,0 +1,903 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-27",
+  "live_events": [
+    {
+      "id": 980,
+      "event_id": 980,
+      "source": "X",
+      "source_post_id": "2126184948688412681",
+      "author": "goldstandard555",
+      "published_at": "2026-11-27T05:22:49Z",
+      "collected_at": "2026-11-27T05:42:13Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.2,
+      "event_confidence": 0.2,
+      "relevance_score": 0.0,
+      "text": "@TreeJeannitz @RepFine How did recently arrived refugees pay into Medicaid?",
+      "url": "https://x.com/goldstandard555/status/2126184948688412681",
+      "source_url": "https://x.com/goldstandard555/status/2126184948688412681"
+    },
+    {
+      "id": 979,
+      "event_id": 979,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117685810890613134",
+      "author": null,
+      "published_at": "2026-11-27T01:29:24Z",
+      "collected_at": "2026-11-27T05:38:01Z",
+      "event_type": "DEPORTATION",
+      "signal_type": "DEPORTATION",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.25,
+      "event_confidence": 0.25,
+      "relevance_score": 10.0,
+      "text": "RFI Près de 32 000 migrants expulsés par l’Algérie vers le Niger depuis janvier 2026, selon une ONG https:// mcinformactions.net/spip.php?a rticle234161&lang=fr # Algérie # migrants # immigration # expusions # maltraitances",
+      "url": "https://mastodon.top/@MarieClaudeS/117685810890613134",
+      "source_url": "https://mastodon.top/@MarieClaudeS/117685810890613134"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": 769,
+      "group_id": 769,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@TreeJeannitz @RepFine How did recently arrived refugees pay into Medicaid?",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-27T05:22:49Z",
+      "last_seen": "2026-11-27T05:22:49Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.2,
+      "average_confidence": 0.2,
+      "created_at": "2026-11-27T05:42:13Z",
+      "updated_at": "2026-11-27T05:42:13Z"
+    },
+    {
+      "id": 768,
+      "group_id": 768,
+      "event_type": "DEPORTATION",
+      "dominant_event_type": "DEPORTATION",
+      "title": "DEPORTATION - SAHEL",
+      "representative_text": "RFI Près de 32 000 migrants expulsés par l’Algérie vers le Niger depuis janvier 2026, selon une ONG https:// mcinformactions.net/spip.php?a rticle234161&lang=fr # Algérie # migrants # immigration # expusions # maltraitances",
+      "region": "SAHEL",
+      "primary_region": "SAHEL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-27T01:29:24Z",
+      "last_seen": "2026-11-27T01:29:24Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "MASTODON"
+      ],
+      "sources": [
+        "MASTODON"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.25,
+      "average_confidence": 0.25,
+      "created_at": "2026-11-27T05:38:01Z",
+      "updated_at": "2026-11-27T05:38:01Z"
+    }
+  ],
+  "influence_signals": [
+    {
+      "id": 1521,
+      "source": "X",
+      "source_post_id": "2126168978506883253",
+      "author": "Mrbandot1",
+      "language": "en",
+      "published_at": "2026-11-27T04:19:21Z",
+      "first_detected_at": "2026-11-27T05:39:30Z",
+      "last_detected_at": "2026-11-27T05:39:30Z",
+      "detection_count": 1,
+      "text": "@DeepLeaksHQ 🐂💩Old video from 2022, recycled with false framing.\n\nIt first appeared on TikTok on 19 January 2022 (account @ramo_repus). The original caption described children and adults found in a truck after a dangerous journey to the UK — consistent with migrant smuggling, not a",
+      "text_excerpt": "@DeepLeaksHQ 🐂💩Old video from 2022, recycled with false framing.\n\nIt first appeared on TikTok on 19 January 2022 (account @ramo_repus). The original caption described children and adults found in a truck after a dangerous journey to the UK — consistent with migrant smuggling, not a",
+      "url": "https://x.com/Mrbandot1/status/2126168978506883253",
+      "source_url": "https://x.com/Mrbandot1/status/2126168978506883253",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "smuggling_ecosystem",
+          "migrant smuggling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrant smuggling"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.95,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1518,
+      "source": "X",
+      "source_post_id": "2126181899660148976",
+      "author": "fencer995",
+      "language": "en",
+      "published_at": "2026-11-27T05:10:42Z",
+      "first_detected_at": "2026-11-27T05:38:25Z",
+      "last_detected_at": "2026-11-27T05:38:25Z",
+      "detection_count": 1,
+      "text": "@visegrad24 Now you know why Bulgarian Border Police tortures migrants, robs them of their belongings, strips them naked and throws them in the river at the Turkish border",
+      "text_excerpt": "@visegrad24 Now you know why Bulgarian Border Police tortures migrants, robs them of their belongings, strips them naked and throws them in the river at the Turkish border",
+      "url": "https://x.com/fencer995/status/2126181899660148976",
+      "source_url": "https://x.com/fencer995/status/2126181899660148976",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1519,
+      "source": "X",
+      "source_post_id": "2126184284419416278",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-27T05:20:10Z",
+      "first_detected_at": "2026-11-27T05:39:29Z",
+      "last_detected_at": "2026-11-27T05:39:29Z",
+      "detection_count": 1,
+      "text": "@MichEngineer1 @TrumpsHurricane Yes. Modern slavery and human trafficking continue in parts of the Middle East and North Africa.\n\nIn Libya, a February 2026 UNSMIL-OHCHR report documented systemic forced labor, sexual exploitation, enslavement, and ransom of migrants by traffickers, armed groups, and some",
+      "text_excerpt": "@MichEngineer1 @TrumpsHurricane Yes. Modern slavery and human trafficking continue in parts of the Middle East and North Africa.\n\nIn Libya, a February 2026 UNSMIL-OHCHR report documented systemic forced labor, sexual exploitation, enslavement, and ransom of migrants by traffickers, armed groups, and some",
+      "url": "https://x.com/grok/status/2126184284419416278",
+      "source_url": "https://x.com/grok/status/2126184284419416278",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human trafficking"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1520,
+      "source": "X",
+      "source_post_id": "2126178207514685639",
+      "author": "Sukyspook",
+      "language": "en",
+      "published_at": "2026-11-27T04:56:01Z",
+      "first_detected_at": "2026-11-27T05:39:29Z",
+      "last_detected_at": "2026-11-27T05:39:29Z",
+      "detection_count": 1,
+      "text": "Hmmmmm, “rescuing” (finishing the trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants then sending our troops overseas….. 🤨🧐 https://t.co/VcgTmvSqAX",
+      "text_excerpt": "Hmmmmm, “rescuing” (finishing the trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants then sending our troops overseas….. 🤨🧐 https://t.co/VcgTmvSqAX",
+      "url": "https://x.com/Sukyspook/status/2126178207514685639",
+      "source_url": "https://x.com/Sukyspook/status/2126178207514685639",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "early_warning_signals": [
+    {
+      "id": 1521,
+      "source": "X",
+      "source_post_id": "2126168978506883253",
+      "author": "Mrbandot1",
+      "language": "en",
+      "published_at": "2026-11-27T04:19:21Z",
+      "first_detected_at": "2026-11-27T05:39:30Z",
+      "last_detected_at": "2026-11-27T05:39:30Z",
+      "detection_count": 1,
+      "text": "@DeepLeaksHQ 🐂💩Old video from 2022, recycled with false framing.\n\nIt first appeared on TikTok on 19 January 2022 (account @ramo_repus). The original caption described children and adults found in a truck after a dangerous journey to the UK — consistent with migrant smuggling, not a",
+      "text_excerpt": "@DeepLeaksHQ 🐂💩Old video from 2022, recycled with false framing.\n\nIt first appeared on TikTok on 19 January 2022 (account @ramo_repus). The original caption described children and adults found in a truck after a dangerous journey to the UK — consistent with migrant smuggling, not a",
+      "url": "https://x.com/Mrbandot1/status/2126168978506883253",
+      "source_url": "https://x.com/Mrbandot1/status/2126168978506883253",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "smuggling_ecosystem",
+          "migrant smuggling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrant smuggling"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.95,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1518,
+      "source": "X",
+      "source_post_id": "2126181899660148976",
+      "author": "fencer995",
+      "language": "en",
+      "published_at": "2026-11-27T05:10:42Z",
+      "first_detected_at": "2026-11-27T05:38:25Z",
+      "last_detected_at": "2026-11-27T05:38:25Z",
+      "detection_count": 1,
+      "text": "@visegrad24 Now you know why Bulgarian Border Police tortures migrants, robs them of their belongings, strips them naked and throws them in the river at the Turkish border",
+      "text_excerpt": "@visegrad24 Now you know why Bulgarian Border Police tortures migrants, robs them of their belongings, strips them naked and throws them in the river at the Turkish border",
+      "url": "https://x.com/fencer995/status/2126181899660148976",
+      "source_url": "https://x.com/fencer995/status/2126181899660148976",
+      "primary_signal": "ROUTE_EARLY_WARNING",
+      "signal_type": "ROUTE_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ROUTE_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.72,
+      "score": 7.25,
+      "matched_signals": [
+        "ROUTE_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "route",
+          "Border"
+        ],
+        [
+          "route",
+          "border"
+        ],
+        [
+          "enforcement",
+          "Police"
+        ]
+      ],
+      "matched_groups": [
+        "ROUTE",
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.2,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1519,
+      "source": "X",
+      "source_post_id": "2126184284419416278",
+      "author": "grok",
+      "language": "en",
+      "published_at": "2026-11-27T05:20:10Z",
+      "first_detected_at": "2026-11-27T05:39:29Z",
+      "last_detected_at": "2026-11-27T05:39:29Z",
+      "detection_count": 1,
+      "text": "@MichEngineer1 @TrumpsHurricane Yes. Modern slavery and human trafficking continue in parts of the Middle East and North Africa.\n\nIn Libya, a February 2026 UNSMIL-OHCHR report documented systemic forced labor, sexual exploitation, enslavement, and ransom of migrants by traffickers, armed groups, and some",
+      "text_excerpt": "@MichEngineer1 @TrumpsHurricane Yes. Modern slavery and human trafficking continue in parts of the Middle East and North Africa.\n\nIn Libya, a February 2026 UNSMIL-OHCHR report documented systemic forced labor, sexual exploitation, enslavement, and ransom of migrants by traffickers, armed groups, and some",
+      "url": "https://x.com/grok/status/2126184284419416278",
+      "source_url": "https://x.com/grok/status/2126184284419416278",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "human trafficking"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "human trafficking"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "MIDDLE_EAST",
+      "primary_region": "MIDDLE_EAST",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 25.7,
+      "analyst_priority": "LOW"
+    },
+    {
+      "id": 1520,
+      "source": "X",
+      "source_post_id": "2126178207514685639",
+      "author": "Sukyspook",
+      "language": "en",
+      "published_at": "2026-11-27T04:56:01Z",
+      "first_detected_at": "2026-11-27T05:39:29Z",
+      "last_detected_at": "2026-11-27T05:39:29Z",
+      "detection_count": 1,
+      "text": "Hmmmmm, “rescuing” (finishing the trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants then sending our troops overseas….. 🤨🧐 https://t.co/VcgTmvSqAX",
+      "text_excerpt": "Hmmmmm, “rescuing” (finishing the trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants then sending our troops overseas….. 🤨🧐 https://t.co/VcgTmvSqAX",
+      "url": "https://x.com/Sukyspook/status/2126178207514685639",
+      "source_url": "https://x.com/Sukyspook/status/2126178207514685639",
+      "primary_signal": "FACILITATION_EARLY_WARNING",
+      "signal_type": "FACILITATION_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "FACILITATION_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 5.75,
+      "matched_signals": [
+        "FACILITATION_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "facilitation",
+          "trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants"
+        ]
+      ],
+      "matched_groups": [
+        "FACILITATION"
+      ],
+      "context_matches": [
+        "migrants"
+      ],
+      "high_value_matches": [
+        "trafficking journey) &amp; accommodating 000’s of ILLEGAL migrants"
+      ],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
+    }
+  ],
+  "high_priority_intelligence": [
+    {
+      "id": 1521,
+      "source": "X",
+      "source_post_id": "2126168978506883253",
+      "author": "Mrbandot1",
+      "language": "en",
+      "published_at": "2026-11-27T04:19:21Z",
+      "first_detected_at": "2026-11-27T05:39:30Z",
+      "last_detected_at": "2026-11-27T05:39:30Z",
+      "detection_count": 1,
+      "text": "@DeepLeaksHQ 🐂💩Old video from 2022, recycled with false framing.\n\nIt first appeared on TikTok on 19 January 2022 (account @ramo_repus). The original caption described children and adults found in a truck after a dangerous journey to the UK — consistent with migrant smuggling, not a",
+      "text_excerpt": "@DeepLeaksHQ 🐂💩Old video from 2022, recycled with false framing.\n\nIt first appeared on TikTok on 19 January 2022 (account @ramo_repus). The original caption described children and adults found in a truck after a dangerous journey to the UK — consistent with migrant smuggling, not a",
+      "url": "https://x.com/Mrbandot1/status/2126168978506883253",
+      "source_url": "https://x.com/Mrbandot1/status/2126168978506883253",
+      "primary_signal": "RECRUITMENT_COORDINATION",
+      "signal_type": "RECRUITMENT_COORDINATION",
+      "signal_mode": "DIRECT",
+      "signal_intent": "RECRUITMENT_COORDINATION",
+      "priority": "HIGH",
+      "confidence": 0.97,
+      "score": 16.0,
+      "matched_signals": [
+        "RECRUITMENT_COORDINATION"
+      ],
+      "matched_phrases": [
+        [
+          "smuggling_ecosystem",
+          "migrant smuggling"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "migrant",
+        "migrant smuggling"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 57.95,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2126168978506883253"
+      ],
+      "related_authors": [
+        "Mrbandot1"
+      ],
+      "related_urls": [
+        "https://x.com/Mrbandot1/status/2126168978506883253"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "information_signals": [
+    {
+      "timeline_id": "information:29203",
+      "timestamp": "2026-11-27T05:36:34Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126188410071081183",
+      "author": "grok",
+      "url": "https://x.com/grok/status/2126188410071081183",
+      "source_url": "https://x.com/grok/status/2126188410071081183",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "route",
+        "arrival",
+        "departure"
+      ],
+      "freshness_cues": [],
+      "text": "@satyamyadav_ppi @india_plus_ Main reason is the natural cycle of temporary migration. India sends the largest numbers of students and workers on time-limited visas. Most of the 55k study-related departures are people who arrived in the 2022-23 peak, finished courses (plus Graduate Route), and left. Work visa",
+      "text_excerpt": "@satyamyadav_ppi @india_plus_ Main reason is the natural cycle of temporary migration. India sends the largest numbers of students and workers on time-limited visas. Most of the 55k study-related departures are people who arrived in the 2022-23 peak, finished courses (plus Graduate Route), and left. Work visa",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:38:00Z",
+      "last_collected_at": "2026-11-27T05:38:00Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29236",
+      "timestamp": "2026-11-27T05:31:27Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126187124365885704",
+      "author": "GrantHarryF",
+      "url": "https://x.com/GrantHarryF/status/2126187124365885704",
+      "source_url": "https://x.com/GrantHarryF/status/2126187124365885704",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "https://t.co/RrRfwTi3Mm\nUK Jails Anti-Migration Activist for Slashing Smuggler Dinghy While Syrian Asylum Seeker Who Sexually Assaulted Three Women Was Spared Jail https://t.co/RfSuhwbuop #gatewaypundit via @gatewaypundit",
+      "text_excerpt": "https://t.co/RrRfwTi3Mm\nUK Jails Anti-Migration Activist for Slashing Smuggler Dinghy While Syrian Asylum Seeker Who Sexually Assaulted Three Women Was Spared Jail https://t.co/RfSuhwbuop #gatewaypundit via @gatewaypundit",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:39:29Z",
+      "last_collected_at": "2026-11-27T05:39:29Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29213",
+      "timestamp": "2026-11-27T05:28:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126186264194150522",
+      "author": "CaliphNapolean",
+      "url": "https://x.com/CaliphNapolean/status/2126186264194150522",
+      "source_url": "https://x.com/CaliphNapolean/status/2126186264194150522",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@JohnDoe1rxt @dhalinyaroraac @PaintProtector7 Why do you dirtbags immigrate to our lands. Somalis should deny them food &amp; shelter.  \n\nSaudi Arabia airstrikes Ethiopian migrants before they cross the border.  Inshallah we take after them in that regard",
+      "text_excerpt": "@JohnDoe1rxt @dhalinyaroraac @PaintProtector7 Why do you dirtbags immigrate to our lands. Somalis should deny them food &amp; shelter.  \n\nSaudi Arabia airstrikes Ethiopian migrants before they cross the border.  Inshallah we take after them in that regard",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:38:25Z",
+      "last_collected_at": "2026-11-27T05:38:25Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29218",
+      "timestamp": "2026-11-27T04:47:02Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126175946021445788",
+      "author": "US_Jeanne",
+      "url": "https://x.com/US_Jeanne/status/2126175946021445788",
+      "source_url": "https://x.com/US_Jeanne/status/2126175946021445788",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "@JoyceCarolOates Guess you're going to ignore the policies that enabled that very thing by deliberately opening our border, funding travel, building migrant processing 'camps' in Panama, &amp; placing kids into a trafficking pipeline? Why invite them? Where are the adults?\n\nhttps://t.co/CsYP7WioKe",
+      "text_excerpt": "@JoyceCarolOates Guess you're going to ignore the policies that enabled that very thing by deliberately opening our border, funding travel, building migrant processing 'camps' in Panama, &amp; placing kids into a trafficking pipeline? Why invite them? Where are the adults?\n\nhttps://t.co/CsYP7WioKe",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:38:26Z",
+      "last_collected_at": "2026-11-27T05:38:26Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29241",
+      "timestamp": "2026-11-27T04:45:14Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126175492265193783",
+      "author": "TimFucile",
+      "url": "https://x.com/TimFucile/status/2126175492265193783",
+      "source_url": "https://x.com/TimFucile/status/2126175492265193783",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "UK Jails Anti-Migration Activist for Slashing Smuggler Dinghy While Syrian Asylum Seeker Who Sexually Assaulted Three Women Was Spared Jail https://t.co/2YAdeB130l #gatewaypundit via @gatewaypundit",
+      "text_excerpt": "UK Jails Anti-Migration Activist for Slashing Smuggler Dinghy While Syrian Asylum Seeker Who Sexually Assaulted Three Women Was Spared Jail https://t.co/2YAdeB130l #gatewaypundit via @gatewaypundit",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:39:30Z",
+      "last_collected_at": "2026-11-27T05:39:30Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29222",
+      "timestamp": "2026-11-27T04:26:32Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126170787103269010",
+      "author": "jrhendricks99",
+      "url": "https://x.com/jrhendricks99/status/2126170787103269010",
+      "source_url": "https://x.com/jrhendricks99/status/2126170787103269010",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "border",
+        "crossing"
+      ],
+      "freshness_cues": [],
+      "text": "@SeanHans777 Those are NOT migrants. They are enemy insurgents and should have been shot on site and thrown back over the border at the nearest crossing with notes attached telling them this is their future if you continue to test us!",
+      "text_excerpt": "@SeanHans777 Those are NOT migrants. They are enemy insurgents and should have been shot on site and thrown back over the border at the nearest crossing with notes attached telling them this is their future if you continue to test us!",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:38:26Z",
+      "last_collected_at": "2026-11-27T05:38:26Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29244",
+      "timestamp": "2026-11-27T03:47:10Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126160880161480984",
+      "author": "BascoFrom",
+      "url": "https://x.com/BascoFrom/status/2126160880161480984",
+      "source_url": "https://x.com/BascoFrom/status/2126160880161480984",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "dinghy",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "UK Jails Anti-Migration Activist for Slashing Smuggler Dinghy While Syrian Asylum Seeker Who Sexually Assaulted Three Women Was Spared Jail https://t.co/VbeCRc6zAw #gatewaypundit via @gatewaypundit",
+      "text_excerpt": "UK Jails Anti-Migration Activist for Slashing Smuggler Dinghy While Syrian Asylum Seeker Who Sexually Assaulted Three Women Was Spared Jail https://t.co/VbeCRc6zAw #gatewaypundit via @gatewaypundit",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-27T05:39:30Z",
+      "last_collected_at": "2026-11-27T05:39:30Z",
+      "collection_count": 1
+    }
+  ],
+  "last_archived_at": "2026-11-27T05:42:20.095932+00:00"
+}
