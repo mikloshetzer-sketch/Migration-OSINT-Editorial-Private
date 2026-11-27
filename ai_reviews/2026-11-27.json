@@ -397,6 +397,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T15:48:25.433204+00:00"
+    },
+    "record:2126335091269906718": {
+      "hu_text": "Ez a videó egy fegyveres migránsok hajóval érkezésére adott megdöbbent reakciót mutat be. Most angol felirattal is elérhető.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A videó állítása nem ellenőrzött, nincs megerősített forrás vagy további bizonyíték a migránsok fegyverességére vagy a helyzet valódiságára.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:38.270444+00:00"
+    },
+    "record:2126335845007609872": {
+      "hu_text": "A Belbiztonsági Minisztérium megerősítette, hogy Dél-Karolinában hét embercsempészettel gyanúsított személy közül négy illegális kínai migráns.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A minisztérium állítása fontos, de nincs közvetlen bizonyíték vagy hivatalos közlemény a bemenetben, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:38.270461+00:00"
+    },
+    "record:2126337290817683967": {
+      "hu_text": "Az Egyesült Államokban az ázsiaiak között nő leggyorsabban a jövedelmi egyenlőtlenség; a menekültként, családegyesítés vagy munkavállalás révén érkezők szegénységi aránya és foglalkozási akadályai hasonlóak más marginalizált csoportokéhoz.",
+      "content_category": "BACKGROUND_HISTORICAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Statisztikai adatokat tartalmazó állítás, de nincs forrás vagy hivatalos adat a bemenetben, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:38.270465+00:00"
+    },
+    "record:2126339690299080736": {
+      "hu_text": "Állítás szerint a nettó migráció csökken, mert sok brit hagyja el az országot, miközben évente több mint félmillió migráns érkezik az Egyesült Királyságba.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás migrációs trendekről szól, de nincs hivatalos adat vagy forrás a bemenetben, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:38.270469+00:00"
+    },
+    "record:mastodon_117688303225898776": {
+      "hu_text": "Az IPAS állami szervezet, amely magánvállalkozókat bíz meg menedékkérők ideiglenes elhelyezésével Corkban, ahol különböző szükségletekkel rendelkező emberek, köztük LMBT+ gyerekek és egészségügyi szempontból sérülékenyek élnek. Az elhelyezés kényszerítését elítélik.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy szervezet működéséről és menedékkérők helyzetéről szól, de nincs független megerősítés vagy további bizonyíték a bemenetben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:38.270472+00:00"
+    },
+    "record:2126340219205276044": {
+      "hu_text": "Az ONS adatai szerint körülbelül 122 000–123 000 indiai állampolgár érkezett hosszú távú migránsként az Egyesült Királyságba a 2026 júniusával záruló évben.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás statisztikai adatot közöl egy jövőbeli időpontra vonatkozóan, amely jelenleg nem ellenőrizhető. Az ONS (Office for National Statistics) forrás megjelölése hitelességet sugall, de a jövőbeli adat nem elérhető, ezért az állítás ellenőrzése nem lehetséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:44.600011+00:00"
     }
   },
   "legacy_reviews": {}
