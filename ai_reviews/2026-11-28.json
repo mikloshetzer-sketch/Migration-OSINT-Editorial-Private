@@ -67,6 +67,73 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T23:51:14.805768+00:00"
+    },
+    "telegram:1604168769:12777": {
+      "hu_text": "Vladivosztokban egy 11 fős bűnszervezet ellen indult per, amely 2024–2025 között több mint 600 külföldit illegálisan legalizált hamis lakcím-, házassági és apasági okmányokkal. A csoportban helyi szervező nő és két külföldi mellett három migrációs rendőr is volt.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy bűnügyi ügyről szól, amely migrációs csalásokat érint, de nincs hivatalos bírósági dokumentum vagy megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:31.245612+00:00"
+    },
+    "telegram:1604168769:12779": {
+      "hu_text": "Tatárföldön a legalább 5 éve Oroszországban állandóan élő külföldi állampolgárok és állampolgársággal nem rendelkezők kompenzációt kapnak a bölcsődei ellátásért, a sokgyermekes vagy fogyatékkal élő családok pedig havi segélyeket kapnak. A döntést 14 munkanapon belül hozzák meg az iratok benyújtása után.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy új tatárföldi kormányzati javaslatról szól, amely migránsokat érint, de nincs hivatalos kormányzati közlemény vagy dokumentum, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:31.245629+00:00"
+    },
+    "telegram:1604168769:12780": {
+      "hu_text": "Oroszországban új törvény szerint a fogva tartott külföldi állampolgárok videóhíváson keresztül beszélhetnek saját országuk konzulátusának képviselőivel, így segítve a konzuli segítségnyújtást.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy új orosz törvényről szól, amely javítja a fogvatartott külföldiek jogait, de nincs hivatalos jogszabály vagy kormányzati közlemény, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:31.245632+00:00"
+    },
+    "record:2126461118864298004": {
+      "hu_text": "A Belbiztonsági Minisztérium megerősítette, hogy a Dél-Karolinában emberkereskedelem miatt őrizetbe vett hat személy közül négy illegális bevándorló.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy hivatalos szervhez kötött, de a forrás nem ellenőrzött, és nincs további bizonyíték az állítás igazolására.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:56.687362+00:00"
+    },
+    "record:2126461322158039401": {
+      "hu_text": "A DHS megerősítette, hogy a Dél-Karolinában emberkereskedelem miatt őrizetbe vett hat személy közül négy illegális bevándorló.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de a forrás nem hivatalos kormányzati közlemény, hanem egy közösségi média poszt, amely egy hírportálra hivatkozik. Az információt érdemes lenne hivatalosan is megerősíteni.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:51:59.677879+00:00"
+    },
+    "telegram:1261826972:55144": {
+      "hu_text": "🚩 A Guardia Civil műveletében elfogottakat előzetes letartóztatásba helyezték a Príncipe és Sarchal területén történt őrizetbe vétel után.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy konkrét jogi intézkedésről számol be, de nincs további bizonyíték vagy hivatalos megerősítés, ezért előzetesen ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T23:52:02.043033+00:00"
     }
-  }
+  },
+  "legacy_reviews": {}
 }
