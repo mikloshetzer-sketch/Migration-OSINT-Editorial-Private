@@ -199,6 +199,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T05:43:15.100504+00:00"
+    },
+    "group:770": {
+      "hu_text": "„Különböző szükségletekkel és kapcsolatokkal rendelkező emberek vannak Corkhoz kötődően, köztük LGBT+ gyerekek, sürgős városi ügyintézésre várók, hétfőn vizsgázó gyerekek és egészségügyi szempontból sérülékeny helyzetűek. Az IPAS egy állami szerv, amely magánvállalkozókat alkalmaz és adófizetői pénzből fizeti őket menedzsment szolgáltatásokért, miközben jelentős összegeket fizet magántulajdonosoknak, hogy ingatlanjaikat ideiglenes menekültelhelyezésre használhassák.”",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy cikkből származik, de nincs közvetlen bizonyíték a pontos részletek ellenőrzésére. A tartalom humanitárius témájú, a menekültek elhelyezésével kapcsolatos.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:47:31.658047+00:00"
+    },
+    "group:773": {
+      "hu_text": "Az ONS adatai szerint 2026 júniusáig az Egyesült Királyságba hosszú távú migránsként érkezett indiai állampolgárok száma körülbelül 122 000–123 000 volt.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Statisztikai adatot közöl egy hivatalos forrásra hivatkozva, de az évszám jövőbeli (2026), ami kérdésessé teszi az állítás hitelességét.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:47:31.658069+00:00"
+    },
+    "group:774": {
+      "hu_text": "Az Egyesült Államokban az ázsiaiak között nő leggyorsabban a jövedelmi egyenlőtlenség; a menekültként, családegyesítés révén vagy munkavállalási alapon érkezők szegénységi aránya és foglalkozási akadályai hasonlóak más marginalizált csoportokéhoz.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Társadalmi-gazdasági állítást tartalmaz, amely releváns a migrációval kapcsolatos társadalmi diskurzusban, de nincs közvetlen bizonyíték a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:47:31.658074+00:00"
+    },
+    "information:29279": {
+      "hu_text": "Kyle, a te külföldi hatalmad, a Vatikán, a Római Katolikus Egyház fizetett azért, hogy MILLIÓK illegális katolikus migránsokat hozzanak Mexikón keresztül az Egyesült Államok déli határához, hogy ellopják azt a születési jogot, amiről te beszélsz. A te Katolikus Egyházad tette ezt, ÉS TE IS KATOLIKUS VAGY!",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Politikai vélemény és vádaskodás, amely migrációs témát érint, de nincs bizonyíték a valóságtartalmára, ezért ellenőrzés szükséges.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:47:31.658077+00:00"
+    },
+    "group:771": {
+      "hu_text": "A Belbiztonsági Minisztérium (DHS) megerősítette, hogy a Dél-Karolinában emberkereskedelem miatt letartóztatott és vádat emelt hét gyanúsított közül négy illegális kínai migráns.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy hivatalos szervhez kötődik, de nincs közvetlen bizonyíték vagy hivatalos közlemény a bemenetben, ezért az ellenőrzöttségi státusz UNVERIFIED. A téma jogi és migrációs vonatkozású, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:47:52.093887+00:00"
+    },
+    "group:772": {
+      "hu_text": "A DHS megerősítette, hogy a Dél-Karolinában emberkereskedelem miatt őrizetbe vett 6 személy közül 4 illegális bevándorló.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy konkrét eseményről szól, de nincs megbízható, független forrás vagy hivatalos dokumentum a megerősítéshez, ezért ellenőrizetlennek minősül. Az emberkereskedelem és illegális migráció témája miatt közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:47:55.069558+00:00"
     }
   },
   "legacy_reviews": {}
