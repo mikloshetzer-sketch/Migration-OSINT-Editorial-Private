@@ -331,6 +331,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T15:48:11.581448+00:00"
+    },
+    "information:29300": {
+      "hu_text": "Így fizetnek az embercsempészek az emberkereskedelemért, hogy illegális migrációt bonyolítsanak le.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás embercsempészettel és emberkereskedelemmel kapcsolatos, de nincs megerősített bizonyíték vagy részletes információ a forrásban.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:25.433169+00:00"
+    },
+    "information:29301": {
+      "hu_text": "Francia hatóságok elfogatóparancsot adtak ki egy német állampolgár ellen, akit gondatlan emberöléssel gyanúsítanak egy migránscsempészettel kapcsolatos vizsgálatban, amely az angol csatornán keresztüli titkos átkelésekhez kötődik.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás hivatalos hatósági intézkedésről szól, ami fontos a határbiztonság szempontjából, de nincs közvetlen bizonyíték vagy hivatalos forrás megadva.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:25.433188+00:00"
+    },
+    "information:29302": {
+      "hu_text": "Az Egyesült Királyság börtönbe zárt egy bevándorlásellenes aktivistát, aki megrongált egy embercsempész csónakot, miközben egy szíriai menedékkérőt, aki három nőt szexuálisan bántalmazott, nem ítéltek börtönre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás társadalmi vitát érint, de nincs megerősített vagy hivatalos forrás, így nem ellenőrizhető.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:25.433192+00:00"
+    },
+    "information:29304": {
+      "hu_text": "Felháborító!!! Az Egyesült Királyság börtönbe zárt egy bevándorlásellenes aktivistát, aki megrongált egy embercsempész csónakot, miközben egy szíriai menedékkérőt, aki három nőt szexuálisan bántalmazott, nem ítéltek börtönre.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai véleményt és társadalmi vitát tartalmazó állítás, amely nem rendelkezik megerősített forrással.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:25.433196+00:00"
+    },
+    "record:2126329407031636422": {
+      "hu_text": "A Belbiztonsági Minisztérium megerősítette, hogy a Dél-Karolinában emberkereskedelem miatt őrizetbe vett hat személy közül négy illegális migráns.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Hivatalos minisztériumi megerősítésről szóló állítás, amely fontos a migrációs helyzet szempontjából, de további források szükségesek a teljes ellenőrzéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:25.433200+00:00"
+    },
+    "record:2126332606102847936": {
+      "hu_text": "Üzenet érkezett: Brandon Gill képviselő figyelmeztette a választások utáni migráns karavánokat, hogy nem léphetnek illegálisan az Egyesült Államok területére. Új karavánok indulnak észak felé a demokraták győzelme után, ezért a kongresszusnak azonnal véglegesen törvénybe kell iktatnia minden Trump-kori határvédelmi intézkedést.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Politikai nyilatkozat és javaslat a migrációs politika szigorítására, amely nem tartalmaz konkrét bizonyítékot, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:48:25.433204+00:00"
     }
   },
   "legacy_reviews": {}
