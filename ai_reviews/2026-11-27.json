@@ -463,6 +463,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T15:48:44.600011+00:00"
+    },
+    "telegram:1261826972:55131": {
+      "hu_text": "A Guardia Civil nem képes megmondani Tardónak, hogy hány belépés történt az invázió során. Egy jelentésben elismerik, hogy nincs hivatalos adatuk a „belépések hatalmas mennyisége” miatt egyazon „időszakban”.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs határbiztonsági eseményhez kapcsolódik, de nincs megerősített adat, csak egy jelentésre hivatkoznak, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:49:00.111580+00:00"
+    },
+    "telegram:1261826972:55132": {
+      "hu_text": "Egy védett tanú szerint Marokkó legalább július 10-e óta készült a ceutai invázióra. A tanú a bírónő előtt Mohamed El Oualidi tetuáni rendőrfőnököt nevezte meg, akihez közel állt. Elmondta, hogy július 30-án tömeges belépést szerveztek, hogy aztán úgy tűnjön, mintha megállítanák, de ez kicsúszott az irányításuk alól.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás migrációs határbiztonsági eseményhez kapcsolódik, de egyetlen tanúvallomásra alapoz, ezért ellenőrzésre szorul.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:49:00.111599+00:00"
+    },
+    "telegram:2240007404:1257": {
+      "hu_text": "Raktári rakodómunkást keresnek a „VseInstrumenty” raktárba Csasnyikovában, Moszkva környékén. A munkához szállást és utazást biztosítanak, a fizetés műszakonként 4000 rubel, nappali műszak 6:00–18:00-ig.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a munkavállalási szándékot jelzi, de nincs további bizonyíték a tényleges migrációra vagy hatásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:49:00.111606+00:00"
+    },
+    "telegram:2240007404:1258": {
+      "hu_text": "Raktári targoncavezetőt keresnek a „VseInstrumenty” raktárba Csasnyikovában, Moszkva környékén. A fizetés műszakonként 7000 rubel, nappali és éjszakai műszakok vannak, szállást és utazást biztosítanak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a munkavállalási szándékot jelzi, de nincs további bizonyíték a tényleges migrációra vagy hatásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:49:00.111610+00:00"
+    },
+    "telegram:2240007404:1259": {
+      "hu_text": "Egy nagy kereskedelmi és gyártó cég bővítés miatt munkásokat és parkfenntartókat keres Moszkva környékén, hivatalos munkaszerződéssel, stabil fizetéssel, ingyenes étkezéssel és szállással. Külföldi szakembereknek munkavállalási engedély szükséges.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a munkavállalási szándékot jelzi, de nincs további bizonyíték a tényleges migrációra vagy hatásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:49:00.111614+00:00"
+    },
+    "telegram:2240007404:1260": {
+      "hu_text": "Moszkvában sürgősen szobalányokat keresnek egy modern szállodába, fizetés műszakonként legalább 5000 rubel, hivatalos munkaszerződéssel, ingyenes étkezéssel, kétnapos fizetéskifizetéssel, orosz nyelvtudás szükséges, FÁK-állampolgárokat is fogadnak.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Állásajánlat migránsoknak, amely a munkavállalási szándékot jelzi, de nincs további bizonyíték a tényleges migrációra vagy hatásra.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T15:49:00.111618+00:00"
     }
   },
   "legacy_reviews": {}
