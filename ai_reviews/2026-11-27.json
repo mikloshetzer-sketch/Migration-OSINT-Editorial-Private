@@ -133,6 +133,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T05:42:53.681613+00:00"
+    },
+    "record:2126184284419416278": {
+      "hu_text": "Igen. A modern rabszolgaság és emberkereskedelem továbbra is jelen van a Közel-Keleten és Észak-Afrikában. Líbiában egy 2026 februári ENSZ jelentés dokumentálta a migránsok szisztematikus kényszermunkáját, szexuális kizsákmányolását, rabszolgaságát és váltságdíj követelését emberkereskedők, fegyveres csoportok és egyes szereplők által.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos emberi jogi visszaéléseket említ, de nincs közvetlen bizonyíték vagy hiteles forrás a bemenetben, ezért ellenőrizetlennek minősül. Fontos a figyelmeztetés a migrációs kockázatokra.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:43:10.048228+00:00"
+    },
+    "record:2126184948688412681": {
+      "hu_text": "Hogyan fizettek a nemrég érkezett menekültek a Medicaid-be?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, amely társadalmi vitára utal, de nem tartalmaz konkrét tényállítást vagy bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:43:10.048247+00:00"
+    },
+    "telegram:2240007404:1228": {
+      "hu_text": "Álláshirdetés: Komissiózók keresése meleg, A osztályú raktárba az Oroszországi Moszkva régióban, Ramenki járás, Sofyino településen. Fizetés 130 000 rubeltől, munkarend 6 nap munka, 1 nap szabad, 11 órás műszakokkal. Tapasztalat nem szükséges, betanítanak. Munkaszerződés, lakhatási támogatás, munkaruházat biztosított, automatizált raktár. Közlekedési lehetőségek több útvonalon. Készségek ajánlók jutalékos együttműködését is elfogadják.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migránsok munkavállalását segítheti elő, de nincs bizonyíték a hirdetés valóságtartalmára vagy visszaélésekre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:43:10.048254+00:00"
+    },
+    "telegram:2240007404:1232": {
+      "hu_text": "Álláshirdetés: Oroszországban, Moszkva régióban élelmiszeripari géptisztító munkakörbe keresnek dolgozókat. Orosz nyelvtudás szükséges, tapasztalat nem. Fizetés 80 000-95 000 rubel/hó, plusz akár 15 000 rubeles prémium. Munkarend 6 nap munka, 1 nap szabad, napi 12 órás műszakokkal. Ingyenes szállás, előleg a munkavállalási engedélyre, étkezés, munkaruha és munkába járást biztosítanak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migránsok munkavállalását segítheti elő, de nincs bizonyíték a hirdetés valóságtartalmára vagy visszaélésekre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:43:10.048258+00:00"
+    },
+    "telegram:2240007404:1233": {
+      "hu_text": "Álláshirdetés: Segédmunkások keresése élelmiszeripari munkára Moszkva régióban, szállással. Fizetés 80 000-95 000 rubel/hó, plusz akár 15 000 rubeles prémium. Orosz nyelvtudás szükséges, tapasztalat nem. Feladatok közé tartozik rakodás, szállítás, takarítás, zöldség- és gombmosás, előkészítés. Munkarend 6 nap munka, 1 nap szabad, napi 12 órás műszakokkal. Ingyenes szállás, előleg a munkavállalási engedélyre, étkezés, munkaruha és munkába járást biztosítanak.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Álláshirdetés, amely migránsok munkavállalását segítheti elő, de nincs bizonyíték a hirdetés valóságtartalmára vagy visszaélésekre.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:43:10.048262+00:00"
+    },
+    "record:mastodon_117685810890613134": {
+      "hu_text": "Az RFI szerint egy civil szervezet adatai alapján 2026 januárja óta közel 32 000 migránst toloncoltak ki Algériából Nigerbe.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás egy civil szervezet jelentésére hivatkozik, de nincs közvetlen bizonyíték vagy hivatalos forrás megerősítése, ezért ellenőrizetlennek minősül. A téma jelentős, ezért közepes prioritású.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:43:15.100504+00:00"
     }
   },
   "legacy_reviews": {}
