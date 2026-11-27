@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-27",
+  "reviews": {
+    "group:768": {
+      "hu_text": "Az RFI szerint egy civil szervezet adatai alapján 2026 januárja óta közel 32 000 migránst toloncolt ki Algéria Nigerbe.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás egy civil szervezet adataira hivatkozik, de nincs közvetlen bizonyíték vagy hivatalos forrás, ezért ellenőrizetlen. A téma jelentős, mert tömeges kitoloncolásról szól.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:43.687072+00:00"
+    },
+    "group:769": {
+      "hu_text": "Hogyan fizettek be a nemrég érkezett menekültek a Medicaid-be?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy kérdés, amely egy társadalmi vitára utal, de nem tartalmaz konkrét tényállítást vagy bizonyítékot.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:43.687092+00:00"
+    },
+    "information:29203": {
+      "hu_text": "A fő ok a természetes átmeneti migrációs ciklus. India a legtöbb diákot és munkavállalót időkorlátos vízummal küldi ki. A 55 ezer tanulmányi célú távozás többsége a 2022-23-as csúcsidőszakban érkezett személyek, akik befejezték tanulmányaikat (beleértve a Graduate Route-ot), majd elhagyták az országot.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás információs jelzés, amely migrációs tendenciákat ír le, de nincs hivatalos forrás vagy adat, így ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:43.687097+00:00"
+    },
+    "information:29213": {
+      "hu_text": "Miért telepednek le ezek a mocskok a földjeinken? A szomáliaiaknak meg kellene tagadniuk tőlük az ételt és a menedéket. Szaúd-Arábia légicsapásokat mér az etióp migránsokra, mielőtt átlépnék a határt. Inshallah, mi is így teszünk majd velük ebben a tekintetben.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy gyűlöletkeltő, erőszakra uszító vélemény, amely nem bizonyított tényeket tartalmaz, és potenciálisan manipulációra alkalmas, de önmagában nem bizonyított hamis állítás.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:43.687101+00:00"
+    },
+    "information:29218": {
+      "hu_text": "Úgy tűnik, figyelmen kívül hagyod azokat a politikákat, amelyek lehetővé tették ezt azáltal, hogy szándékosan megnyitottuk a határainkat, finanszíroztuk az utazást, migráns feldolgozó 'táborokat' építettünk Panamában, és gyerekeket helyeztünk el emberkereskedelmi láncban. Miért hívjuk őket? Hol vannak a felnőttek?",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy politikai vélemény, amely állításokat fogalmaz meg migrációs politikákról, de nincs megerősített bizonyíték, ezért ellenőrizetlen.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:43.687105+00:00"
+    },
+    "information:29222": {
+      "hu_text": "Ezek nem migránsok. Ellenséges felkelők, akiket helyben kellett volna lelőni és visszadobni a határon a legközelebbi átkelőhelyen, egy üzenettel, hogy ez vár rájuk, ha tovább próbálkoznak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy erőszakos, ellenséges retorika, amely migránsokat felkelőként bélyegez meg, de nincs bizonyíték az állításra, ezért ellenőrizetlen és potenciálisan veszélyes.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-27T05:42:43.687108+00:00"
+    }
+  }
+}
