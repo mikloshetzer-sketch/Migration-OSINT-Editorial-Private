@@ -276,6 +276,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-28T05:18:35.087678+00:00"
+    },
+    "group:777": {
+      "hu_text": "Egy nagy algériai-spanyol migránscsempész hálózat vezetőjét Franciaországban tartóztatták le, miután állítólag megpróbálta meggyilkolni a nővérét.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos bűnügyi információ migránscsempészetről, de nincs megerősített forrás vagy további bizonyíték.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:44.085509+00:00"
+    },
+    "group:778": {
+      "hu_text": "@junayd_bhai Tudod, hogy jobban kijöttünk egymással, mielőtt a te néped megérkezett. Tudjuk, hogyan lehet elérni, hogy elmenjetek, vegyük el a jólétet minden menekülttől.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy vélemény vagy társadalmi vita, nem tényállítás, nincs szükség ellenőrzésre, de a migrációs diskurzus része.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:44.085530+00:00"
+    },
+    "information:29466": {
+      "hu_text": "Tizennégy holttestet találtak egy mintegy 100 főt szállító hajón, amelyet a spanyolországi Kanári-szigetek közelében mentettek ki, miközben a térségbe érkezők száma tovább nő. A holttesteket a hajón találták meg, amelyet El Hierro déli részétől 39 tengeri mérföldre fedeztek fel, és a La portjába vontattak.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Fontos humanitárius esemény, de a forrás nem teljesen ellenőrzött, ezért előzetesen nem megerősített.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:44.085536+00:00"
+    },
+    "information:29468": {
+      "hu_text": "Miért tartottak vissza 5 embert, és miért küldtek vissza 1-et a Bahamákra? Ketten amerikai állampolgárok voltak, négyen dominikaiak. A parti őrség nem azonosította a Bahamákra átszállított személyt. Parti őrség átszállít egy személyt a Bahamákra egy feltételezett migránscsempészet után Boca Raton közelében.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Határbiztonsági esemény, de nincs megerősített részletes információ, ezért előzetesen nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:44.085540+00:00"
+    },
+    "information:29470": {
+      "hu_text": "Azok a menedékkérők, akik támogatást kapnak, beleértve a kis hajóval érkezőket is, 3 fontért nézhetik meg az Aladdin című pantomímot a Yeovilban található Westlands nevű, önkormányzati támogatású helyszínen, míg a jegyek általában 19-29 fontba kerülnek.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Információ a menedékkérők támogatásáról és társadalmi szolgáltatásokról, de nincs bizonyíték a pontosságra, és nem kritikus hír.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:44.085544+00:00"
+    },
+    "information:29473": {
+      "hu_text": "Ayman Al-Shammari 2025 júniusában érkezett Nagy-Britanniába kis hajóval. Öt hónappal később megerőszakolt egy nőt a saját otthonában Tauntonban. A nő telefonjával rögzítette az esetet, miközben Al-Shammari figyelmen kívül hagyta a leállításra felszólító kérést. Tegnap hat év börtönre ítélték, amelyből kétharmadot kell letöltenie.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos bűncselekmény migrációs kontextusban, de nincs megerősített forrás vagy hivatalos dokumentum a szövegben.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:44.085549+00:00"
     }
   },
   "legacy_reviews": {}
