@@ -408,6 +408,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-28T14:44:59.638241+00:00"
+    },
+    "record:2126682602648256925": {
+      "hu_text": "Egy nagy algériai-spanyol migránscsempész hálózat vezetőjét Franciaországban letartóztatták, miután állítólag megpróbálta meggyilkolni a nővérét.",
+      "content_category": "FACILITATION",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A csempészettel kapcsolatos állítás súlyos bűncselekményeket érint, de nincs megerősített forrás vagy bizonyíték a szövegben, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:45:13.267184+00:00"
+    },
+    "telegram:1261826972:55159": {
+      "hu_text": "Három hír a ceutai eseményekről: 1. A parti őrség elfogott két migránsokat szállító Phantom hajó pilótáját, veszélyes üldözések közepette. 2. Az utolsó vádlott, aki a benzúi támadásban érintett, tagadja részvételét, miközben mások beismerték és kiutasították őket. 3. Élelmiszerbiztonsági figyelmeztetés üvegdarabok miatt aszalt gyümölcsökben.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A hírek migrációs és biztonsági eseményekről szólnak, de forrásként egy helyi hírportál szolgál, amely nem feltétlenül független vagy ellenőrzött, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:45:13.267201+00:00"
+    },
+    "telegram:1261826972:55164": {
+      "hu_text": "A rendőrségi szakszervezet (SUP) követeli a migránstáborok biztonsági jelentéseinek nyilvánosságra hozatalát, amelyeket a kormány nem adott át az országos bíróságnak, annak ellenére, hogy azt kérték. A szakszervezet tudni akarja, milyen kockázatok voltak a táborokban.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés hivatalos követelésekről szól, de nincs megerősített információ a jelentések tartalmáról vagy a kormány válaszáról, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:45:13.267206+00:00"
+    },
+    "telegram:1261826972:55165": {
+      "hu_text": "Videóval: Néhány migráns megpróbált elmenekülni Ceutából a Hazte Oír buszán, a szervezet maga vette észre, hogy két személy a jármű alvázán utazott.",
+      "content_category": "MOVEMENT_INTENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az esemény migránsok mozgási szándékát mutatja, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:45:13.267209+00:00"
+    },
+    "telegram:1261826972:55166": {
+      "hu_text": "A rendőrség beavatkozott több verekedés után migránstáborokban Ceutában, a legsúlyosabb esetek az egykori Los Rosales börtön mögötti táborban és egy kiskorúakat ellátó létesítményben történtek.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A rendőrségi beavatkozásról szóló információ fontos a határbiztonság szempontjából, de nincs független megerősítés, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:45:13.267212+00:00"
+    },
+    "telegram:2240007404:1264": {
+      "hu_text": "Gépi fejőgép kezelőt keresnek szállással és munkavállalási engedély támogatással egy moszkvai régióbeli farmra, a fizetés nettó 100 000 rubeltől kezdődik, a munkakörbe a fejés, gépek tisztítása és az állatok gondozása tartozik.",
+      "content_category": "IRRELEVANT",
+      "verification_status": "UNVERIFIED",
+      "priority": "LOW",
+      "reason_hu": "Ez egy álláshirdetés, amely nem kapcsolódik közvetlenül a migrációs eseményekhez vagy politikához, ezért irrelevánsnak minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:45:13.267216+00:00"
     }
   },
   "legacy_reviews": {}
