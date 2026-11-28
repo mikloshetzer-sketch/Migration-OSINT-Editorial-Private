@@ -133,6 +133,50 @@
       "text": "DHS Confirms 4 of 6 Arrested in SC for Human Trafficking are Illegal Migrants https://t.co/gV8zrlmXLW via @BreitbartNews",
       "url": "https://x.com/DonnaWi62318154/status/2126522811229573152",
       "source_url": "https://x.com/DonnaWi62318154/status/2126522811229573152"
+    },
+    {
+      "id": 992,
+      "event_id": 992,
+      "source": "X",
+      "source_post_id": "2126682602648256925",
+      "author": "Crimesite_com",
+      "published_at": "2026-11-28T14:20:18Z",
+      "collected_at": "2026-11-28T14:41:48Z",
+      "event_type": "SMUGGLING_ACTIVITY",
+      "signal_type": "SMUGGLING_ACTIVITY",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.5,
+      "event_confidence": 0.5,
+      "relevance_score": 10.0,
+      "text": "Leader of major migrant smuggling network from Algeria to Spain arrested in France after alleged attempt to murder his sister.\n\nhttps://t.co/NtsxgFX5yX\n\n#Spain #HumanTrafficking #Crimesite",
+      "url": "https://x.com/Crimesite_com/status/2126682602648256925",
+      "source_url": "https://x.com/Crimesite_com/status/2126682602648256925"
+    },
+    {
+      "id": 993,
+      "event_id": 993,
+      "source": "X",
+      "source_post_id": "2126676991453831343",
+      "author": "DanielFagan",
+      "published_at": "2026-11-28T13:58:01Z",
+      "collected_at": "2026-11-28T14:44:12Z",
+      "event_type": "BORDER_CROSSING",
+      "signal_type": "BORDER_CROSSING",
+      "primary_location": "-",
+      "location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "confidence": 0.55,
+      "event_confidence": 0.55,
+      "relevance_score": 25.0,
+      "text": "@junayd_bhai You realize that we got along better before your people arrived. We know how to get you to leave, remove welfare to all refugees.",
+      "url": "https://x.com/DanielFagan/status/2126676991453831343",
+      "source_url": "https://x.com/DanielFagan/status/2126676991453831343"
     }
   ],
   "event_groups": [
@@ -193,6 +237,64 @@
       "average_confidence": 0.7,
       "created_at": "2026-11-28T05:16:17Z",
       "updated_at": "2026-11-28T05:16:17Z"
+    },
+    {
+      "id": 777,
+      "group_id": 777,
+      "event_type": "SMUGGLING_ACTIVITY",
+      "dominant_event_type": "SMUGGLING_ACTIVITY",
+      "title": "SMUGGLING_ACTIVITY - WESTERN_MEDITERRANEAN",
+      "representative_text": "Leader of major migrant smuggling network from Algeria to Spain arrested in France after alleged attempt to murder his sister.\n\nhttps://t.co/NtsxgFX5yX\n\n#Spain #HumanTrafficking #Crimesite",
+      "region": "WESTERN_MEDITERRANEAN",
+      "primary_region": "WESTERN_MEDITERRANEAN",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-28T14:20:18Z",
+      "last_seen": "2026-11-28T14:20:18Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.5,
+      "average_confidence": 0.5,
+      "created_at": "2026-11-28T14:41:48Z",
+      "updated_at": "2026-11-28T14:41:48Z"
+    },
+    {
+      "id": 778,
+      "group_id": 778,
+      "event_type": "BORDER_CROSSING",
+      "dominant_event_type": "BORDER_CROSSING",
+      "title": "BORDER_CROSSING",
+      "representative_text": "@junayd_bhai You realize that we got along better before your people arrived. We know how to get you to leave, remove welfare to all refugees.",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "primary_location": "-",
+      "country": "-",
+      "latitude": null,
+      "longitude": null,
+      "first_seen": "2026-11-28T13:58:01Z",
+      "last_seen": "2026-11-28T13:58:01Z",
+      "source_count": 1,
+      "sources_count": 1,
+      "source_types": [
+        "X"
+      ],
+      "sources": [
+        "X"
+      ],
+      "status": "ACTIVE",
+      "confidence": 0.55,
+      "average_confidence": 0.55,
+      "created_at": "2026-11-28T14:44:12Z",
+      "updated_at": "2026-11-28T14:44:12Z"
     }
   ],
   "information_signals": [
@@ -493,9 +595,274 @@
       "first_collected_at": "2026-11-28T05:15:52Z",
       "last_collected_at": "2026-11-28T05:15:52Z",
       "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29466",
+      "timestamp": "2026-11-28T14:31:13Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126685348113846520",
+      "author": "CGTNEurope",
+      "url": "https://x.com/CGTNEurope/status/2126685348113846520",
+      "source_url": "https://x.com/CGTNEurope/status/2126685348113846520",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "rescue",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "Fourteen people were found dead when a boat carrying around 100 people was rescued near Spain's Canary Islands, as arrivals in the region continue to surge.\n\nThe bodies were found on board the boat, discovered 39 nautical miles south of El Hierro and being towed to the port of La https://t.co/uaKJZOt5TI",
+      "text_excerpt": "Fourteen people were found dead when a boat carrying around 100 people was rescued near Spain's Canary Islands, as arrivals in the region continue to surge.\n\nThe bodies were found on board the boat, discovered 39 nautical miles south of El Hierro and being towed to the port of La https://t.co/uaKJZOt5TI",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:40:50Z",
+      "last_collected_at": "2026-11-28T14:40:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29468",
+      "timestamp": "2026-11-28T14:25:42Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126683959140770170",
+      "author": "BGulsby",
+      "url": "https://x.com/BGulsby/status/2126683959140770170",
+      "source_url": "https://x.com/BGulsby/status/2126683959140770170",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.6,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "coast_guard",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "Why did they keep 5 people &amp; send 1 back to Bahamas? 2 were US citizens &amp; 4 were Dominicans\n\n'The Coast Guard did not identify the person transferred to the Bahamas.'\nCoast Guard transfers person to Bahamas after suspected migrant smuggling off Boca Raton https://t.co/HDmytBy6zz",
+      "text_excerpt": "Why did they keep 5 people &amp; send 1 back to Bahamas? 2 were US citizens &amp; 4 were Dominicans\n\n'The Coast Guard did not identify the person transferred to the Bahamas.'\nCoast Guard transfers person to Bahamas after suspected migrant smuggling off Boca Raton https://t.co/HDmytBy6zz",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:40:50Z",
+      "last_collected_at": "2026-11-28T14:40:50Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29470",
+      "timestamp": "2026-11-28T14:18:54Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126682246270566844",
+      "author": "stateofbritain1",
+      "url": "https://x.com/stateofbritain1/status/2126682246270566844",
+      "source_url": "https://x.com/stateofbritain1/status/2126682246270566844",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "£3 to see the panto. If you're on asylum support.\n\nIllegal migrants on asylum support, including small-boat arrivals, can watch Aladdin for £3 at Westlands, a council-funded venue in Yeovil, Somerset, the Daily Mail reports. The usual ticket costs £19 to £29.\n\nIn Cardiff, the https://t.co/VwYR1sYHiB",
+      "text_excerpt": "£3 to see the panto. If you're on asylum support.\n\nIllegal migrants on asylum support, including small-boat arrivals, can watch Aladdin for £3 at Westlands, a council-funded venue in Yeovil, Somerset, the Daily Mail reports. The usual ticket costs £19 to £29.\n\nIn Cardiff, the https://t.co/VwYR1sYHiB",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:40:51Z",
+      "last_collected_at": "2026-11-28T14:40:51Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29480",
+      "timestamp": "2026-11-28T14:15:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126681486334062835",
+      "author": "SNDAfrica",
+      "url": "https://x.com/SNDAfrica/status/2126681486334062835",
+      "source_url": "https://x.com/SNDAfrica/status/2126681486334062835",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "trafficking"
+      ],
+      "freshness_cues": [],
+      "text": "The PROTECT Project brought together cross-border stakeholders in Ethiopia to strengthen joint action against child trafficking, unsafe migration and harmful practices. Protecting children is a shared responsibility. #PROTECTProject #ChildProtection #SND https://t.co/0tiPJaBCRZ",
+      "text_excerpt": "The PROTECT Project brought together cross-border stakeholders in Ethiopia to strengthen joint action against child trafficking, unsafe migration and harmful practices. Protecting children is a shared responsibility. #PROTECTProject #ChildProtection #SND https://t.co/0tiPJaBCRZ",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:41:48Z",
+      "last_collected_at": "2026-11-28T14:41:48Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29473",
+      "timestamp": "2026-11-28T14:06:05Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126679023606464703",
+      "author": "JamesDawes123",
+      "url": "https://x.com/JamesDawes123/status/2126679023606464703",
+      "source_url": "https://x.com/JamesDawes123/status/2126679023606464703",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 30,
+      "information_score": 3,
+      "matched_information_cues": [
+        "boat",
+        "arrival"
+      ],
+      "freshness_cues": [
+        "yesterday"
+      ],
+      "text": "Ayman Al-Shammari arrived in Britain on a small boat in June 2025. Five months later he raped a woman in her own home in Taunton. She recorded it on her phone as he ignored her telling him to stop.\n\nHe was jailed yesterday for six years and will serve two-thirds of it.\n\nThe BBC",
+      "text_excerpt": "Ayman Al-Shammari arrived in Britain on a small boat in June 2025. Five months later he raped a woman in her own home in Taunton. She recorded it on her phone as he ignored her telling him to stop.\n\nHe was jailed yesterday for six years and will serve two-thirds of it.\n\nThe BBC",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:40:51Z",
+      "last_collected_at": "2026-11-28T14:40:51Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29483",
+      "timestamp": "2026-11-28T14:00:15Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "X",
+      "source_post_id": "2126677553587106223",
+      "author": "BritishChileno",
+      "url": "https://x.com/BritishChileno/status/2126677553587106223",
+      "source_url": "https://x.com/BritishChileno/status/2126677553587106223",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 20,
+      "information_score": 2,
+      "matched_information_cues": [
+        "trafficking",
+        "arrival"
+      ],
+      "freshness_cues": [],
+      "text": "@BoyCharioteer @bmay So you believe paying human trafficking gangs to enter a foreign country illegally, &amp; throwing away proof of ID before arriving illegally is not a crime? &amp; no arriving illegal migrant has committed any sexual assault?  &amp; do you think every country has the same values for women?",
+      "text_excerpt": "@BoyCharioteer @bmay So you believe paying human trafficking gangs to enter a foreign country illegally, &amp; throwing away proof of ID before arriving illegally is not a crime? &amp; no arriving illegal migrant has committed any sexual assault?  &amp; do you think every country has the same values for women?",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:41:48Z",
+      "last_collected_at": "2026-11-28T14:41:48Z",
+      "collection_count": 1
+    },
+    {
+      "timeline_id": "information:29485",
+      "timestamp": "2026-11-28T09:14:52Z",
+      "layer": "INFORMATION",
+      "type": "INFORMATION_SIGNAL",
+      "signal_type": "INFORMATION_SIGNAL",
+      "event_type": null,
+      "source": "MASTODON",
+      "source_post_id": "mastodon_117693303551651709",
+      "author": null,
+      "url": "https://social.vir.group/@analytics/117693303551651709",
+      "source_url": "https://social.vir.group/@analytics/117693303551651709",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "confidence": 0.1,
+      "priority": "INFO",
+      "priority_score": 40,
+      "information_score": 4,
+      "matched_information_cues": [
+        "border",
+        "crossing",
+        "interception",
+        "smuggling"
+      ],
+      "freshness_cues": [],
+      "text": "🟡 Border Security | 6/10 🇮🇱 🇪🇬 IDF intercepted weapon and drug smuggling attempts via balloons from Egypt Israeli troops spotted several balloons crossing into Israeli territory from Egypt's western border. Soldiers and Yamas special units were deployed to intercept the smuggling attempt. # OSINT # NewsGroup # Israel # Egypt # BorderSecurity # Smuggling",
+      "text_excerpt": "🟡 Border Security | 6/10 🇮🇱 🇪🇬 IDF intercepted weapon and drug smuggling attempts via balloons from Egypt Israeli troops spotted several balloons crossing into Israeli territory from Egypt's western border. Soldiers and Yamas special units were deployed to intercept the smuggling attempt. # OSINT # NewsGroup # Israel # Egypt # BorderSecurity # Smuggling",
+      "event_group_id": null,
+      "correlation_score": null,
+      "related_source_count": null,
+      "is_operational": false,
+      "influence_detected": false,
+      "first_collected_at": "2026-11-28T14:41:48Z",
+      "last_collected_at": "2026-11-28T14:41:48Z",
+      "collection_count": 1
     }
   ],
-  "last_archived_at": "2026-11-28T05:17:47.362618+00:00",
+  "last_archived_at": "2026-11-28T14:44:18.244433+00:00",
   "telegram_posts": [
     {
       "source": "TELEGRAM",
@@ -821,6 +1188,112 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 36.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1531,
+      "source": "X",
+      "source_post_id": "2126681699279102265",
+      "author": "MischiefMa77752",
+      "language": "en",
+      "published_at": "2026-11-28T14:16:43Z",
+      "first_detected_at": "2026-11-28T14:44:12Z",
+      "last_detected_at": "2026-11-28T14:44:12Z",
+      "detection_count": 1,
+      "text": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "text_excerpt": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "source_url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1530,
+      "source": "X",
+      "source_post_id": "2126674130229432459",
+      "author": "thewakeninq",
+      "language": "en",
+      "published_at": "2026-11-28T13:46:38Z",
+      "first_detected_at": "2026-11-28T14:40:28Z",
+      "last_detected_at": "2026-11-28T14:40:28Z",
+      "detection_count": 1,
+      "text": "Hakeem Jeffries wants DHS agents investigated for \"criminally negligent homicide\" \n\nOver the \"blind refugee\" the media cried about all week.\n\nHere's what they left out, according to the officer who worked the case 👇\n🐕 He was arrested after beating a woman's dog with curtain https://t.co/4P1XxTI0xs https://t.co/iS1NcTquYg",
+      "text_excerpt": "Hakeem Jeffries wants DHS agents investigated for \"criminally negligent homicide\" \n\nOver the \"blind refugee\" the media cried about all week.\n\nHere's what they left out, according to the officer who worked the case 👇\n🐕 He was arrested after beating a woman's dog with curtain https://t.co/4P1XxTI0xs https://t.co/iS1NcTquYg",
+      "url": "https://x.com/thewakeninq/status/2126674130229432459",
+      "source_url": "https://x.com/thewakeninq/status/2126674130229432459",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "early_warning_signals": [
@@ -1066,6 +1539,112 @@
       "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
       "priority_score": 36.2,
       "analyst_priority": "LOW"
+    },
+    {
+      "id": 1531,
+      "source": "X",
+      "source_post_id": "2126681699279102265",
+      "author": "MischiefMa77752",
+      "language": "en",
+      "published_at": "2026-11-28T14:16:43Z",
+      "first_detected_at": "2026-11-28T14:44:12Z",
+      "last_detected_at": "2026-11-28T14:44:12Z",
+      "detection_count": 1,
+      "text": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "text_excerpt": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "source_url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    },
+    {
+      "id": 1530,
+      "source": "X",
+      "source_post_id": "2126674130229432459",
+      "author": "thewakeninq",
+      "language": "en",
+      "published_at": "2026-11-28T13:46:38Z",
+      "first_detected_at": "2026-11-28T14:40:28Z",
+      "last_detected_at": "2026-11-28T14:40:28Z",
+      "detection_count": 1,
+      "text": "Hakeem Jeffries wants DHS agents investigated for \"criminally negligent homicide\" \n\nOver the \"blind refugee\" the media cried about all week.\n\nHere's what they left out, according to the officer who worked the case 👇\n🐕 He was arrested after beating a woman's dog with curtain https://t.co/4P1XxTI0xs https://t.co/iS1NcTquYg",
+      "text_excerpt": "Hakeem Jeffries wants DHS agents investigated for \"criminally negligent homicide\" \n\nOver the \"blind refugee\" the media cried about all week.\n\nHere's what they left out, according to the officer who worked the case 👇\n🐕 He was arrested after beating a woman's dog with curtain https://t.co/4P1XxTI0xs https://t.co/iS1NcTquYg",
+      "url": "https://x.com/thewakeninq/status/2126674130229432459",
+      "source_url": "https://x.com/thewakeninq/status/2126674130229432459",
+      "primary_signal": "ENFORCEMENT_EARLY_WARNING",
+      "signal_type": "ENFORCEMENT_EARLY_WARNING",
+      "signal_mode": "ANALYST_REVIEW",
+      "signal_intent": "ENFORCEMENT_REVIEW",
+      "priority": "MEDIUM",
+      "confidence": 0.62,
+      "score": 6.0,
+      "matched_signals": [
+        "ENFORCEMENT_EARLY_WARNING"
+      ],
+      "matched_phrases": [
+        [
+          "enforcement",
+          "arrested"
+        ]
+      ],
+      "matched_groups": [
+        "ENFORCEMENT"
+      ],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": [],
+      "signal_context_rejections": [],
+      "migration_context": true,
+      "human_migration_context": true,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "EARLY_WARNING_REVIEW_V1_3_7_NORWEGIAN",
+      "priority_score": 21.7,
+      "analyst_priority": "LOW"
     }
   ],
   "high_priority_intelligence": [
@@ -1143,6 +1722,250 @@
       ],
       "related_urls": [
         "https://x.com/WorldwideNNX/status/2126540008056115517"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    },
+    {
+      "id": 1531,
+      "source": "X",
+      "source_post_id": "2126681699279102265",
+      "author": "MischiefMa77752",
+      "language": "en",
+      "published_at": "2026-11-28T14:16:43Z",
+      "first_detected_at": "2026-11-28T14:44:12Z",
+      "last_detected_at": "2026-11-28T14:44:12Z",
+      "detection_count": 1,
+      "text": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "text_excerpt": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "source_url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2126681699279102265"
+      ],
+      "related_authors": [
+        "MischiefMa77752"
+      ],
+      "related_urls": [
+        "https://x.com/MischiefMa77752/status/2126681699279102265"
+      ],
+      "related_sources": [
+        "X"
+      ],
+      "independent_author_count": 1,
+      "platform_count": 1
+    }
+  ],
+  "crossing_access_signals": [
+    {
+      "id": 1531,
+      "source": "X",
+      "source_post_id": "2126681699279102265",
+      "author": "MischiefMa77752",
+      "language": "en",
+      "published_at": "2026-11-28T14:16:43Z",
+      "first_detected_at": "2026-11-28T14:44:12Z",
+      "last_detected_at": "2026-11-28T14:44:12Z",
+      "detection_count": 1,
+      "text": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "text_excerpt": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "source_url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "access_signals": [
+    {
+      "id": 1531,
+      "source": "X",
+      "source_post_id": "2126681699279102265",
+      "author": "MischiefMa77752",
+      "language": "en",
+      "published_at": "2026-11-28T14:16:43Z",
+      "first_detected_at": "2026-11-28T14:44:12Z",
+      "last_detected_at": "2026-11-28T14:44:12Z",
+      "detection_count": 1,
+      "text": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "text_excerpt": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "source_url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM"
+    }
+  ],
+  "top_crossing_access_posts": [
+    {
+      "id": 1531,
+      "source": "X",
+      "source_post_id": "2126681699279102265",
+      "author": "MischiefMa77752",
+      "language": "en",
+      "published_at": "2026-11-28T14:16:43Z",
+      "first_detected_at": "2026-11-28T14:44:12Z",
+      "last_detected_at": "2026-11-28T14:44:12Z",
+      "detection_count": 1,
+      "text": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "text_excerpt": "@RachelD1892 Leaving ECHR on its own won’t do a lot. We need to also tackle Geneva and United Nations refugee treaties. She seems to be trying to reform the Conservative Party, but too little too late. It will take a lot for people to forgive their last stint.",
+      "url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "source_url": "https://x.com/MischiefMa77752/status/2126681699279102265",
+      "primary_signal": "LEGAL_MIGRATION_SIGNAL",
+      "signal_type": "LEGAL_MIGRATION_SIGNAL",
+      "signal_mode": "DIRECT",
+      "signal_intent": "LEGAL_ACCESS",
+      "priority": "MEDIUM",
+      "confidence": 0.94,
+      "score": 14.0,
+      "matched_signals": [
+        "LEGAL_MIGRATION_SIGNAL"
+      ],
+      "matched_phrases": [
+        [
+          "legal_signal",
+          "ECHR"
+        ]
+      ],
+      "matched_groups": [],
+      "context_matches": [
+        "refugee"
+      ],
+      "high_value_matches": false,
+      "signal_context_rejections": {},
+      "migration_context": true,
+      "human_migration_context": null,
+      "historical_reference": false,
+      "historical_reason": null,
+      "historical_reference_text": null,
+      "location": "-",
+      "primary_location": "-",
+      "country": "-",
+      "region": "GLOBAL",
+      "primary_region": "GLOBAL",
+      "latitude": null,
+      "longitude": null,
+      "rules_version": "2.6",
+      "priority_score": 48.9,
+      "analyst_priority": "MEDIUM",
+      "related_posts_count": 1,
+      "related_post_ids": [
+        "2126681699279102265"
+      ],
+      "related_authors": [
+        "MischiefMa77752"
+      ],
+      "related_urls": [
+        "https://x.com/MischiefMa77752/status/2126681699279102265"
       ],
       "related_sources": [
         "X"
