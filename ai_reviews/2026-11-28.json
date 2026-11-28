@@ -342,6 +342,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-28T14:44:44.085549+00:00"
+    },
+    "information:29480": {
+      "hu_text": "A PROTECT projekt összehozta az etiópiai határon átnyúló érintetteket, hogy megerősítsék az együttműködést a gyermekkereskedelem, a veszélyes migráció és káros gyakorlatok elleni közös fellépésben. A gyermekvédelem közös felelősség.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy projektet mutat be, amely a gyermekvédelem és a veszélyes migráció elleni fellépést célozza, de nincs benne konkrét bizonyíték vagy adat, így ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:59.638195+00:00"
+    },
+    "information:29483": {
+      "hu_text": "Úgy gondolod, hogy az embercsempész bandáknak fizetni, hogy illegálisan lépjenek be egy másik országba, és az érkezés előtt eltüntetni az igazolványt, nem bűncselekmény? És hogy egyetlen illegális bevándorló sem követett el szexuális erőszakot? És minden ország ugyanazokat az értékeket vallja a nőkkel kapcsolatban?",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy politikai vélemény és kérdések sorozata, amelyek nem tartalmaznak bizonyított tényeket, ezért ellenőrizetlennek minősül, de fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:59.638214+00:00"
+    },
+    "information:29485": {
+      "hu_text": "Határbiztonság: Izraeli védelmi erők megakadályoztak fegyver- és drogcsempészési kísérleteket, amelyek ballonokkal érkeztek Egyiptomból. Több ballon is átrepült az izraeli területre az egyiptomi nyugati határról, a katonák és különleges egységek beavatkoztak a csempészési kísérlet megállítására.",
+      "content_category": "BORDER_SECURITY",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejegyzés határbiztonsági eseményt ír le, de nincs független megerősítés vagy részletes bizonyíték, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:59.638219+00:00"
+    },
+    "record:2126674130229432459": {
+      "hu_text": "Hakeem Jeffries azt akarja, hogy a DHS ügynökeit \"bűnös gondatlanságból elkövetett emberölés\" miatt vizsgálják ki egy \"vak menekült\" ügyében, akiről a média egész héten beszélt. Az ügyet kezelő tiszt szerint azonban kimaradt, hogy a férfit egy nő kutyájának bántalmazása miatt tartóztatták le.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés egy politikai és jogi vitát ismertet, de nem tartalmaz független bizonyítékot, ezért ellenőrizetlennek minősül.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:59.638223+00:00"
+    },
+    "record:2126676991453831343": {
+      "hu_text": "Tudod, hogy jobban kijöttünk egymással, mielőtt a te néped megérkezett. Tudjuk, hogyan lehet elérni, hogy elmenjetek: megvonjuk a jóléti támogatást minden menekültől.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Ez egy politikai és társadalmi vélemény, amely nem tartalmaz ellenőrizhető tényeket, de fontos a társadalmi diskurzus szempontjából.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:59.638226+00:00"
+    },
+    "record:2126681699279102265": {
+      "hu_text": "Az ECHR önmagában való elhagyása nem sokat ér. A genfi és az ENSZ menekültügyi egyezményeket is kezelni kell. Úgy tűnik, valaki a Konzervatív Párt reformját próbálja, de túl kevés és túl későn. Sok idő kell, hogy az emberek megbocsássák az előző időszakukat.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés politikai véleményeket és javaslatokat tartalmaz a menekültügyi jogi keretekről, de nem bizonyított tényeket, ezért ellenőrizetlennek minősül.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T14:44:59.638241+00:00"
     }
   },
   "legacy_reviews": {}
