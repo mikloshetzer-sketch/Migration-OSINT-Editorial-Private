@@ -144,6 +144,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-27T23:52:07.372547+00:00"
+    },
+    "group:776": {
+      "hu_text": "Körülbelül 184 migránst mentettek ki két művelet során Kréta déli részén. Három hajóról vették őket fedélzetre a Kaloi Limenes délkeleti részénél, miután Frontex drónok észlelték őket.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A bejelentés konkrét mentési eseményről szól, amely humanitárius jelentőségű. Az állítás ellenőrzése szükséges, mert nincs megerősített forrás vagy hivatalos jelentés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:14.203967+00:00"
+    },
+    "information:29392": {
+      "hu_text": "Spanyolország Kanári-szigeteken 14 migráns holttestét találták meg, miközben a hajóval érkezők száma nő ezen a halálos útvonalon. Az illegális bevándorlás a vasárnapi választási kampány fő témája.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A halálesetek és a migrációs helyzet súlyos humanitárius problémát jeleznek, ami fontos a közvélemény és a politika szempontjából. Az állítás ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:14.203991+00:00"
+    },
+    "information:29394": {
+      "hu_text": "Az 800 km nem egy térképen húzott vonal, hanem naponta ennyi kereskedő, gazda, család, menekült, ADF terroristák, csempészek és Ebola-vírus hordozók lépik át Uganda határát.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Ez egy véleményes, társadalmi diskurzusba illő állítás, amely nem tényadat, hanem politikai vagy társadalmi kommentár. Az állítás ellenőrzése nehéz és nem feltétlenül szükséges.",
+      "verification_needed": false,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:14.203995+00:00"
+    },
+    "information:29395": {
+      "hu_text": "A DHS megerősítette, hogy egy dél-karolinai embercsempész hálózat hat gyanúsítottjából négy illegális kínai migráns. Ez az eredménye a nyitott határoknak.",
+      "content_category": "SOCIAL_DISCOURSE",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás politikai jellegű, embercsempészettel kapcsolatos, de nincs hivatalos bizonyíték vagy részletes forrás. Ellenőrzés szükséges lenne a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:14.203997+00:00"
+    },
+    "information:29398": {
+      "hu_text": "Legalább nyolc migráns meghalt, és hatot súlyos állapotban légi úton szállítottak el, miután egy körülbelül 100 fős hajót fogtak el a spanyolországi Kanári-szigetek déli részén, El Hierro közelében. A tragédia rámutat a nyugat-afrikai atlanti átkelés veszélyeire.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "A tragédia súlyos humanitárius esemény, amely fontos a migrációs helyzet megértéséhez. Az állítás ellenőrzése szükséges a hitelesség miatt.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:14.203999+00:00"
+    },
+    "information:29400": {
+      "hu_text": "14 migránst találtak holtan egy hajón a spanyol Kanári-szigeteknél, miközben az atlanti átkelési válság súlyosbodik.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Az állítás súlyos humanitárius problémát jelez, amely fontos a migrációs helyzet szempontjából. Az ellenőrzés szükséges a hitelesség biztosításához.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:14.204002+00:00"
     }
   },
   "legacy_reviews": {}
