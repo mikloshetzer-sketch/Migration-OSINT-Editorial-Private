@@ -210,6 +210,72 @@
       "schema_version": 2,
       "model": "gpt-4.1-mini",
       "analyzed_at": "2026-11-28T05:18:14.204002+00:00"
+    },
+    "record:2126522811229573152": {
+      "hu_text": "A DHS megerősítette, hogy a Dél-Karolinában emberkereskedelem miatt őrizetbe vett hat személy közül négy illegális bevándorló.",
+      "content_category": "POLICY_LEGAL",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "Az állítás hivatalos szervezethez kötődik, de nincs további bizonyíték vagy részletes információ a megerősítéshez.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:28.183251+00:00"
+    },
+    "record:2126534048092918006": {
+      "hu_text": "Legalább nyolc migránst holtan találtak egy mintegy 100 főt szállító hajón, amelyet a spanyolországi Kanári-szigetek közelében mentettek ki. Hat másik súlyos állapotban lévő személyt helikopterrel szállítottak kórházba.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs tragédia, amely több halálesettel jár, de az információk még nem ellenőrzöttek független forrásból.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:28.183269+00:00"
+    },
+    "record:2126540008056115517": {
+      "hu_text": "Tragikus véget ért több migráns útja Spanyolország felé: legalább nyolc holttestet találtak egy mintegy 100 főt szállító hajón a Kanári-szigetek közelében. A spanyolországi érkezések növekedése túlterheli a régiót.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs tragédia, amely jelentős hatással van a régióra, de az információk még nem ellenőrzöttek.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:28.183273+00:00"
+    },
+    "record:2126540518469533905": {
+      "hu_text": "Élő közvetítés: 14 migránst holtan találtak, 90-et kimentettek egy hajóról, amely a spanyolországi Kanári-szigetek közelében sodródott.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Súlyos migrációs eseményről szóló információ, amely több halálesettel jár, de nincs független megerősítés.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:28.183275+00:00"
+    },
+    "record:2126544684508172304": {
+      "hu_text": "Legalább 14 migránst találtak holtan egy hajón, amelyet a Kanári-szigetek közelében mentettek ki.",
+      "content_category": "MIGRATION_EVENT",
+      "verification_status": "UNVERIFIED",
+      "priority": "HIGH",
+      "reason_hu": "Halálesetekkel járó migrációs esemény, amely fontos információ, de még nem ellenőrzött.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:28.183277+00:00"
+    },
+    "record:2126535758911877370": {
+      "hu_text": "Körülbelül 184 migránst mentettek ki két művelet során Kréta déli részén. Három hajóról vették fel őket a Kréta délnyugati részén, Kaloi Limenes közelében, két parti őrségi műveletben, miután Frontex drónok észlelték őket.",
+      "content_category": "HUMANITARIAN",
+      "verification_status": "UNVERIFIED",
+      "priority": "MEDIUM",
+      "reason_hu": "A bejegyzés konkrét mentési eseményről számol be, de nincs további független forrás vagy bizonyíték a hitelesség megerősítésére, ezért ellenőrizetlennek minősül. A téma humanitárius jellegű, és közepes prioritású a migrációs OSINT szempontjából.",
+      "verification_needed": true,
+      "schema_version": 2,
+      "model": "gpt-4.1-mini",
+      "analyzed_at": "2026-11-28T05:18:35.087678+00:00"
     }
   },
   "legacy_reviews": {}
